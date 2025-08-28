@@ -1,180 +1,242 @@
-Chapter 9: Combat in Nosgoth
-In the cursed land of Nosgoth, combat is a brutal dance of blood and shadow, where steel clashes with sorcery, and the veil between Material and Spectral realms quivers. Whether wielding a reaver blade, weaving glyphs of decay, or phasing through realms to strike from the unseen, every action carries weight—and a price. This chapter outlines the rules for combat, using the D6 dice success system to resolve attacks, defenses, and special maneuvers. Prepare to face the consequences of power in a world where survival demands sacrifice.
+```markdown
+# Chapter 9: Combat and Damage Types in Nosgoth
 
-9.1 Combat Overview
-Combat in Legacy of Kain: Bloodbound RPG is structured into rounds, each representing 6–10 seconds of chaotic, high-stakes action. Within each round, combatants act in initiative order, weaving a tapestry of strikes, spells, and tactical decisions. A combatant’s turn consists of:
+In the cursed land of Nosgoth, combat is a brutal dance of blood and shadow, where steel clashes with sorcery, and the veil between Material and Spectral realms quivers. Whether wielding a reaver blade, weaving glyphs of decay, or phasing through realms to strike from the unseen, every action carries weight—and a price. This chapter combines the rules for combat with the diverse damage types that define Nosgoth’s conflicts, using the D6 dice success system to resolve attacks, defenses, and special maneuvers. Prepare to face the consequences of power in a world where survival demands sacrifice.
 
-1 Action: Attack, cast a spell, use an ability, or perform another significant task.
-1 Movement: Move up to your Speed stat (in tiles, typically 5 feet per tile).
-1 Reaction: Respond to a trigger (e.g., an attack or enemy movement) once per round.
-Free Interactions: Minor actions like drawing a weapon, speaking, or dropping an item.
+## 9.1 Combat Overview
+
+Combat in *Legacy of Kain: Bloodbound RPG* is structured into rounds, each representing 6–10 seconds of chaotic, high-stakes action. Within each round, combatants act in initiative order, weaving a tapestry of strikes, spells, and tactical decisions. A combatant’s turn consists of:
+
+- **1 Action**: Attack, cast a spell, use an ability, or perform another significant task.
+- **1 Movement**: Move up to your Speed stat (in tiles, typically 5 feet per tile).
+- **1 Reaction**: Respond to a trigger (e.g., an attack or enemy movement) once per round.
+- **Free Interactions**: Minor actions like drawing a weapon, speaking, or dropping an item.
 
 Combat is visceral yet strategic, encouraging players to leverage terrain, realm-shifting, and creative use of successes to outmaneuver foes. The Game Master (GM) ensures the tone remains dark and cinematic, adjudicating outcomes to reflect Nosgoth’s unforgiving nature.
 
+## 9.2 Initiative
 
-9.2 Initiative
 Combat begins with determining who acts first, reflecting the razor-sharp instincts required to survive Nosgoth’s dangers.
 
-Roll Initiative: Each combatant rolls a dice pool equal to their Shadow + Tactics or Shadow + Concentration (player’s choice). Each die showing a 5 or 6 counts as one success.
-Order: The combatant with the highest number of successes acts first. Ties are broken by the highest Shadow stat, then by GM discretion (e.g., narrative context or environmental factors).
-Example: Kain (Shadow 4, Tactics 2) rolls 6 dice, scoring 6, 5, 4, 3, 2, 1 (2 successes). A Sarafan knight (Shadow 3, Tactics 3) rolls 6 dice, scoring 6, 6, 5, 4, 3, 2 (3 successes). The knight acts first.
+- **Roll Initiative**: Each combatant rolls a dice pool equal to their Shadow + Tactics or Shadow + Concentration (player’s choice). Each die showing a 5 or 6 counts as one success.
+- **Order**: The combatant with the highest number of successes acts first. Ties are broken by the highest Shadow stat, then by GM discretion (e.g., narrative context or environmental factors).
+- **Example**: Kain (Shadow 4, Tactics 2) rolls 6 dice, scoring 6, 5, 4, 3, 2, 1 (2 successes). A Sarafan knight (Shadow 3, Tactics 3) rolls 6 dice, scoring 6, 6, 5, 4, 3, 2 (3 successes). The knight acts first.
 
-9.3 Actions: Attacking
+## 9.3 Actions: Attacking
+
 To strike an enemy, whether with claw, blade, or spell, follow these steps:
 
-Declare Target and Roll: Roll a dice pool equal to the relevant Attribute + Skill (e.g., Fury + Weapon Mastery for a melee attack, Shadow + Weapon Mastery for a finesse-based attack, or Soul + Glyphcasting for spells).
-Count Successes: Each die showing a 5 or 6 counts as one success.
-Compare to Defense Value (DV): The target’s DV is the number of successes required to hit. DV is typically 1 + (higher of Shadow or Will), modified by armor, perks, or effects (e.g., “Nosgothian Chainmail +2 DV”).
-Resolve Hit: If successes meet or exceed the DV, the attack hits. Deal damage based on the weapon or ability, reduced by the target’s armor. Extra successes (beyond DV) can enhance the attack (see Section 3.6).
+- **Declare Target and Roll**: Roll a dice pool equal to the relevant Attribute + Skill (e.g., Fury + Weapon Mastery for a melee attack, Shadow + Weapon Mastery for a finesse-based attack, or Soul + Glyphcasting for spells).
+- **Count Successes**: Each die showing a 5 or 6 counts as one success.
+- **Compare to Defense Value (DV)**: The target’s DV is the number of successes required to hit. DV is typically 1 + (higher of Shadow or Will), modified by armor, perks, or effects (e.g., “Nosgothian Chainmail +2 DV”).
+- **Resolve Hit**: If successes meet or exceed the DV, the attack hits. Deal damage based on the weapon or ability, reduced by the target’s armor (unless bypassed by damage type). Extra successes (beyond DV) can enhance the attack (see Section 9.6).
 
-Example: Raziel (Fury 3, Weapon Mastery 4) attacks a vampire hunter (DV 2, Armor 1) with a reaver blade. He rolls 7 dice, getting 6, 6, 5, 4, 3, 2, 1 (3 successes). The attack hits (3 ≥ 2), dealing base damage (e.g., 3) minus Armor 1 = 2 damage. The extra success (1 beyond DV) can add +1 damage (total 3) or inflict a status effect like Bleeding.
+**Example**: Raziel (Fury 3, Weapon Mastery 4) attacks a vampire hunter (DV 2, Armor 1) with a reaver blade (Slashing, 3 damage). He rolls 7 dice, getting 6, 6, 5, 4, 3, 2, 1 (3 successes). The attack hits (3 ≥ 2), dealing 3 damage minus Armor 1 = 2 damage. The extra success can add +1 damage (total 3) or inflict Bleeding (1 damage for 2 rounds).
 
-9.4 Defense and Armor
+## 9.4 Defense and Armor
+
 Surviving Nosgoth’s battlefields requires cunning defense and resilience.
 
-Defense Value (DV): A passive score (1 + higher of Shadow or Will, plus modifiers) that attackers must meet or exceed to hit. For example, a vampire with Shadow 3 and Nosgothian Chainmail (+2 DV) has DV 6.
-Armor: Reduces incoming damage by a flat amount (e.g., 1–3, depending on gear). For example, Leather Armor reduces damage by 1, while Sarafan Plate reduces by 3.
-Active Defense: Characters can use their Reaction (see Section 3.7) to actively defend with skills like Shadow + Evasion (Dodge) or Fury + Weapon Mastery (Parry).
+- **Defense Value (DV)**: A passive score (1 + higher of Shadow or Will, plus modifiers) that attackers must meet or exceed to hit. For example, a vampire with Shadow 3 and Nosgothian Chainmail (+2 DV) has DV 6.
+- **Armor**: Reduces incoming physical damage (Bludgeoning, Piercing, Slashing) by a flat amount (e.g., 1–3, depending on gear). For example, Leather Armor reduces damage by 1, while Sarafan Plate reduces by 3. Some damage types (e.g., Soul, Soulfire, Void) ignore armor entirely.
+- **Active Defense**: Characters can use their Reaction (see Section 9.8) to actively defend with skills like Shadow + Evasion (Dodge) or Fury + Weapon Mastery (Parry).
 
-9.5 Damage and Health
+## 9.5 Damage and Health
+
 Damage reflects the toll of Nosgoth’s brutal conflicts, from claw slashes to soul-rending glyphs.
 
-Damage Calculation: Based on the weapon or ability (e.g., Reaver Blade: 3 damage, Fire Glyph: 4 damage). Subtract the target’s armor from the total.
-Health Points (HP): Tracks physical endurance. At 0 HP, a character falls unconscious or begins dying (GM discretion, based on narrative).
-Wounds and Sanity Loss: Some attacks (e.g., cursed weapons, soul magic) inflict Wounds (lasting injuries) or Sanity Loss (mental strain), detailed in the Character Creation Guide.
-Healing: Limited in Nosgoth, often requiring blood consumption (for vampires), glyphs, or rare artifacts.
+- **Damage Calculation**: Based on the weapon or ability (e.g., Reaver Blade: 3 Slashing damage, Fire Glyph: 4 Fire damage). Subtract the target’s armor from physical damage types; other types may bypass armor or have unique effects (see Section 9.6).
+- **Health Points (HP)**: Tracks physical endurance. At 0 HP, a character falls unconscious or begins dying (GM discretion, based on narrative).
+- **Wounds and Sanity Loss**: Some attacks (e.g., cursed weapons, Soul or Corruption damage) inflict Wounds (lasting injuries) or Sanity Loss (mental strain), detailed in the Character Creation Guide.
+- **Healing**: Limited in Nosgoth, often requiring blood consumption (for vampires), glyphs, or rare artifacts. Some damage types (e.g., Void, Soulfire) may resist conventional healing.
 
-Example: A Dumahim vampire (HP 10, Armor 2) takes 5 damage from a spear. After Armor, 3 damage is applied (5 – 2 = 3), reducing HP to 7.
+**Example**: A Dumahim vampire (HP 10, Armor 2) takes 5 Piercing damage from a spear (ignores 1 Armor). After Armor, 4 damage is applied (5 – 1 = 4), reducing HP to 6.
 
-9.6 Extra Successes: Enhancing Actions
-Nosgoth’s warriors turn success into dominance. Extra successes (beyond those needed to meet DV or DR) allow enhanced outcomes, especially in combat.
+## 9.6 Extra Successes: Enhancing Actions
 
-In Combat:
-+1 Damage: Add 1 damage per extra success (up to weapon or GM limit).
-Status Effects: Choose one (GM approval may be required for context):
-Staggered: Target cannot take Reactions until the end of their next turn.
-Prone: Target falls; must spend movement to stand.
-Disarmed: Target drops their weapon or item.
-Bleeding: Target takes 1 damage at the start of their turn for 2 rounds.
-Blinded: Target suffers disadvantage on attacks and perception checks.
-Silenced: Target cannot cast spells with verbal components.
-Grappled: Target is immobilized until they succeed on a DR 2 Fury check.
-Weakened: Target deals -2 damage on their next attack.
-Marked: Target takes +1 damage from your allies’ attacks.
-Slowed: Target’s movement is halved for 1 round.
+Nosgoth’s warriors turn success into dominance. Extra successes (beyond those needed to meet DV or DR) allow enhanced outcomes, tailored to the damage type.
 
+### In Combat:
+- **+1 Damage**: Add 1 damage per extra success (up to weapon or GM limit).
+- **Status Effects** (GM approval may be required):
+  - **Bludgeoning**: Staggered (target cannot take Reactions until their next turn) or Prone (target falls; must spend movement to stand).
+  - **Piercing**: Deep Wounds (disadvantage on physical checks for 1 round).
+  - **Slashing**: Bleeding (1 damage at the start of their turn for 2 rounds).
+  - **Fire**: Burning (2 damage per round for 2 rounds, extinguished with a DR 2 action).
+  - **Cold**: Slowed (movement halved for 1 round) or Frozen (immobilized for 1 round, DR 3 to break free).
+  - **Lightning**: Shocked (disadvantage on attacks for 1 round).
+  - **Soul**: Soul Stress (disadvantage on Will or Soul-based checks for 1 round).
+  - **Soulfire**: Blighted (prevents natural healing for 1 round).
+  - **Radiant**: Blinded (disadvantage on attacks and perception checks for creatures of darkness).
+  - **Corruption**: Corruption Point (adds to target’s Corruption track).
+  - **Necrotic**: Weakened (–2 damage on next attack).
+  - **Void**: Frayed Reality (–2 dice on next saving throw).
+  - **Force**: Pushed (target is moved 5 feet) or Prone.
+- **Multi-Target Strike**: Hit additional targets (GM discretion for area or sweeping attacks).
+- **Bypass Armor**: Ignore 1 point of armor per extra success (if applicable).
 
-Multi-Target Strike: Hit additional targets (GM discretion for area or sweeping attacks).
-Bypass Armor: Ignore 1 point of armor per extra success.
+### Outside Combat:
+- Perform actions with precision or flair (e.g., silent lockpicking).
+- Complete tasks faster or stealthily.
+- Gain narrative advantages (e.g., repositioning, uncovering hidden lore).
+- Create stunts (e.g., leaping to a chandelier, grabbing a relic mid-fight).
 
+**Example**: Kain rolls 5 successes against a foe with DV 2 using a Soulfire attack. With 3 extra successes, he could deal +3 damage, inflict Blighted and Bleeding, or bypass 3 points of armor.
 
-Outside Combat:
-Perform actions with precision or flair (e.g., silent lockpicking).
-Complete tasks faster or stealthily.
-Gain narrative advantages (e.g., repositioning, uncovering hidden lore).
-Create stunts (e.g., leaping to a chandelier, grabbing a relic mid-fight).
+The GM adjudicates extra success outcomes, balancing player creativity with narrative coherence. Players are encouraged to propose flavorful effects tied to damage types.
 
+## 9.7 Damage Types and Effects
 
+Nosgoth’s conflicts are shaped by diverse damage types, each with unique properties that influence combat outcomes. These reflect the supernatural and physical forces at play in the cursed land.
 
-Example: Kain rolls 5 successes against a foe with DV 2. With 3 extra successes, he could deal +3 damage, inflict Bleeding and Staggered, or bypass 3 points of armor.
-The GM adjudicates extra success outcomes, balancing player creativity with narrative coherence. Players are encouraged to propose flavorful effects, but the GM ensures feasibility.
+### 9.7.1 Physical Damage Types
+- **Bludgeoning**: From maces, hammers, or fists. Reduces armor by 1 for the attack. Effective against brittle structures or undead like skeletons. Can cause Staggered or Prone.
+- **Piercing**: From spears, arrows, or fangs. Ignores 1 point of armor (unless specified). Can cause Deep Wounds.
+- **Slashing**: From swords, axes, or claws. Effective against unarmored foes. Can cause Bleeding.
 
-9.7 Reactions
+**Sources**: Common weaponry, creature attacks, environmental hazards.
+
+### 9.7.2 Soul Damage
+- **Definition**: Bypasses physical defenses to assault a being’s spiritual essence. Associated with Spectral Realm energies or soul-manipulating powers.
+- **Effects**: Ignores all physical armor. Resisted by Will or Soul attributes (via saving throws) or magical wards. Can cause Soul Stress or lingering Spectral Realm effects. Effective against ethereal or spectral creatures.
+- **Sources**: Soul Reaver abilities (e.g., Soul Bolt), wraith attacks, Sangromancer or Hylden Warlock spells, spectral weapons.
+
+### 9.7.3 Fire Damage
+- **Definition**: Harm from intense heat or magical flames. Scorches flesh and ignites materials.
+- **Effects**: Ignores armor for unarmored targets. Vulnerable creatures (e.g., ice-based) take increased damage. Can cause Burning. Resisted by fire-resistant gear or magic.
+- **Sources**: Glyph Seeker spells (e.g., Glyph of Flame), environmental fires, alchemical mixtures, demonic entities.
+
+### 9.7.4 Electrical Damage
+- **Definition**: Injury from lightning or arcane discharges. Disrupts biological or magical functions.
+- **Effects**: More effective against metal-armored or water-bound targets (+1 damage or disadvantage on saves). Can cause Shocked or arc to nearby targets (1 damage, GM discretion).
+- **Sources**: Glyph Seeker abilities (e.g., Shock Sigil), Hylden technology, storm-based magic.
+
+### 9.7.5 Frost Damage
+- **Definition**: Harm from extreme cold or magical ice. Numbs and slows biological processes.
+- **Effects**: Resisted by cold-resistant gear or magic. Vulnerable creatures (e.g., fire-based) take increased damage. Can cause Slowed or Frozen.
+- **Sources**: Glyph Seeker spells (e.g., Glyph of Frost), ice-based magic, frozen environments.
+
+### 9.7.6 Void Damage
+- **Definition**: An esoteric force from reality collapse or Hylden’s chaotic dimension. Unravels existence itself.
+- **Effects**: Bypasses all armor and resistances. Cannot be healed by normal means, requiring rare rituals or artifacts. Causes Frayed Reality.
+- **Sources**: Forbidden Hylden magic, chaotic artifacts, void entities, unstable reality zones.
+
+### 9.7.7 Soulfire Damage
+- **Definition**: A hybrid of spectral and fiery energy that sears body and soul. Appears as an ethereal blaze.
+- **Effects**: Ignores all physical armor and undead fire/soul immunities. Causes Blighted. Resisted only by specific magical defenses.
+- **Sources**: Soul Reaver blade, high-level Soul Reaver abilities, ancient divine conflagrations.
+
+### 9.7.8 Radiant Damage
+- **Definition**: Harm from divine light or positive energy. Anathema to darkness and undeath.
+- **Effects**: Deals double damage to undead and spectral creatures. Resisted by corrupted or demonic entities (bonus dice on saves). Can cause Blinded or dispel shadow effects.
+- **Sources**: Sarafan spells, blessed weapons, holy sites, Pillar-touched artifacts.
+
+### 9.7.9 Corruption Damage
+- **Definition**: Vile energy that infuses targets with unnatural taint, advancing their Corruption track.
+- **Effects**: Adds Corruption Points. On critical hits, increases Corruption or triggers debilitating effects. Disrupts concentration (DR 3 check). Resisted by strong Will or specific wards.
+- **Sources**: Corrupted beings, Hylden Gate energies, cursed artifacts, forbidden rituals.
+
+### 9.7.10 Necrotic Damage
+- **Definition**: Life-draining unholy energy that withers flesh and vitality.
+- **Effects**: Effective against living creatures; undead may be resistant or healed. Prevents HP regeneration or magical healing for 1 round. Causes Weakened.
+- **Sources**: Necromantic spells, undead touch, curses, negative energy zones.
+
+### 9.7.11 Force Damage
+- **Definition**: Pure magical energy manifested as concussive impact or invisible force.
+- **Effects**: Bypasses physical armor. Rarely resisted except by broad magic resistance. Can cause Pushed or Prone.
+- **Sources**: Spells (e.g., Rift Pulse), telekinetic impacts, arcane beings.
+
+## 9.8 Reactions
+
 Reactions are swift, instinctive responses that turn defense into opportunity, usable once per round on another creature’s turn.
 
-Mechanics:
-Triggered by specific events (e.g., being attacked, an enemy moving nearby).
-Require a skill check or specific ability (e.g., Shadow + Evasion for Dodge).
-Must be declared before damage is applied (for defensive reactions).
+- **Mechanics**:
+  - Triggered by specific events (e.g., being attacked, enemy movement).
+  - Require a skill check or specific ability (e.g., Shadow + Evasion for Dodge).
+  - Must be declared before damage is applied (for defensive reactions).
+- **Common Reactions**:
+  - **Dodge** (Shadow + Evasion): Avoid a melee or ranged attack.
+  - **Parry** (Fury + Weapon Mastery): Reduce melee damage with a weapon or shield.
+  - **Counterspell** (Soul + Glyphcasting or Forbidden Knowledge): Negate a magical effect targeting you.
+  - **Opportunity Attack**: Strike a foe entering or leaving your melee range.
+  - **Spectral Shift**: Phase between Material and Spectral realms (requires specific trait or spell).
+- **Reaction Rolls**: Roll Attribute + Skill. Successes reduce damage or effects:
+  - 1 Success: Reduce damage by 1.
+  - 2 Successes: Reduce damage by 2 or negate a status effect.
+  - 3+ Successes: Halve damage or fully evade (GM discretion).
+- **Rules Notes**:
+  - You must be conscious and able to act.
+  - A failed reaction expends your reaction for the round.
+  - Perks or gear may grant additional reactions (see Character Creation Guide).
 
+**Example**: A Turelim warrior is hit by a Fire Glyph (4 Fire damage, ignores armor). They use a Dodge reaction (Shadow 3 + Evasion 2), rolling 5 dice and getting 2 successes, reducing damage by 2 (to 2 damage total).
 
-Common Reactions:
-Dodge (Shadow + Evasion): Avoid a melee or ranged attack.
-Parry (Fury + Weapon Mastery): Reduce melee damage with a weapon or shield.
-Counterspell (Soul + Glyphcasting or Forbidden Knowledge): Negate a magical effect targeting you.
-Opportunity Attack: Strike a foe entering or leaving your melee range.
-Spectral Shift: Phase between Material and Spectral realms (requires specific trait or spell).
+## 9.9 Advantage and Disadvantage
 
-
-Reaction Rolls: When defending, roll Attribute + Skill. Successes reduce damage or effects:
-1 Success: Reduce damage by 1.
-2 Successes: Reduce damage by 2 or negate a status effect.
-3+ Successes: Halve damage or fully evade (GM discretion).
-
-
-Rules Notes:
-You must be conscious and able to act.
-A failed reaction still expends your reaction for the round.
-Perks or gear may grant additional reactions (see Character Creation Guide).
-
-
-
-Example: A Turelim warrior is hit by a glyph (4 damage). They use a Dodge reaction (Shadow 3 + Evasion 2), rolling 5 dice and getting 2 successes. This reduces damage by 2 (to 2 damage total).
-
-9.8 Advantage and Disadvantage
 Combat in Nosgoth is shaped by terrain, preparation, and supernatural forces.
 
-Modifiers:
-Minor (±1 die): Slight terrain edge, brief distraction, low cover.
-Moderate (±2 dice): High ground, magical assistance, blinding light.
-Major (±3 dice): Perfect ambush, unaware target, cursed/incapacitated foe.
+- **Modifiers**:
+  - **Minor (±1 die)**: Slight terrain edge, brief distraction, low cover.
+  - **Moderate (±2 dice)**: High ground, magical assistance, blinding light.
+  - **Major (±3 dice)**: Perfect ambush, unaware target, cursed/incapacitated foe.
+- **Advantage**: Add bonus dice to your pool before rolling (max +3).
+- **Disadvantage**: After rolling, remove the highest dice equal to the penalty (e.g., –2 removes two highest).
+- **Canceling**: Advantage and disadvantage cancel 1-for-1 (e.g., +2 and –1 = +1).
 
+**Example**: Raziel attacks from a shadowfield (+2 advantage) but is Blinded by Radiant damage (–2 disadvantage). The effects cancel, and he rolls normally.
 
-Advantage: Add bonus dice to your pool before rolling (max +3).
-Disadvantage: After rolling, remove the highest dice equal to the penalty (e.g., -2 removes two highest).
-Canceling: Advantage and disadvantage cancel 1-for-1 (e.g., +2 and -1 = +1).
+## 9.10 Special Actions
 
-Example: Raziel attacks from a shadowfield (+2 advantage) but is Blinded (-2 disadvantage). The effects cancel, and he rolls normally.
-
-
-9.9 Special Actions
 Nosgoth’s warriors wield powers beyond mortal limits, from soul-rending magic to realm-shifting maneuvers.
 
-Spellcasting: Roll Soul + Glyphcasting to cast spells, with successes determining effect strength (see Chapter 5: Magic and Glyphs).
-Grapples: Roll Fury + Unarmed Combat to restrain, disarm, or knock prone (DR set by GM, typically 2–3).
-Shifting Realms: Some abilities allow switching between Material and Spectral realms, granting tactical advantages (e.g., bypassing walls, attacking ethereal foes).
-Pushing Rolls: Reroll failures by adding a Corruption Die. If no successes are rolled and the Corruption Die shows a 1, a critical failure triggers a Corruption effect (see Chapter 6: Corruption and Sanity).
+- **Spellcasting**: Roll Soul + Glyphcasting to cast spells, with successes determining effect strength (see Chapter 5: Magic and Glyphs). Damage types vary (e.g., Fire, Soul, Necrotic).
+- **Grapples**: Roll Fury + Unarmed Combat to restrain, disarm, or knock prone (DR 2–3, GM discretion).
+- **Shifting Realms**: Some abilities allow switching between Material and Spectral realms, granting tactical advantages (e.g., bypassing walls, attacking ethereal foes).
+- **Pushing Rolls**: Reroll failures by adding a Corruption Die. If no successes are rolled and the Corruption Die shows a 1, a critical failure triggers a Corruption effect (see Chapter 6: Corruption and Sanity).
 
-9.10 Critical Hits and Failures
+## 9.11 Critical Hits and Failures
+
 Exceptional skill or catastrophic missteps shape Nosgoth’s battles.
 
-Critical Hit: Roll 3+ successes on an attack or exceed DV by 2+. Effects may include:
-Bonus damage (e.g., +2).
-Stun (target loses next action, GM discretion).
-Bypass all armor.
+- **Critical Hit**: Roll 3+ successes on an attack or exceed DV by 2+. Effects may include:
+  - Bonus damage (e.g., +2).
+  - Stun (target loses next action, GM discretion).
+  - Damage type-specific effect (e.g., Corruption damage adds +1 Corruption Point).
+  - Bypass all armor (if applicable).
+- **Critical Failure**: Roll no successes on a pushed roll, and the Corruption Die shows a 1. Triggers a Corruption effect (e.g., soul drain, environmental backlash) or unintended consequence (e.g., weapon breaks, allies endangered).
 
+**Example**: A Melchahim claws at a foe (DV 3) with Necrotic damage, rolling 5 successes (critical hit). The GM allows +2 damage and Weakened (–2 damage on target’s next attack).
 
-Critical Failure: Roll no successes on a pushed roll, and the Corruption Die shows a 1. Triggers a Corruption effect (e.g., soul drain, environmental backlash) or unintended consequence (e.g., weapon breaks, allies endangered).
+## 9.12 Environmental Combat
 
-Example: A Melchahim claws at a foe (DV 3), rolling 5 successes (critical hit). The GM allows the attack to deal +2 damage and knock the target prone.
-
-
-9.11 Environmental Combat
 Nosgoth’s battlefields are as deadly as its warriors, with shifting realms and cursed terrain.
 
-Material and Spectral Realms: Characters with realm-shifting abilities can interact with both planes, gaining tactical edges (e.g., attacking through Spectral rifts).
-Glyph Traps and Shadowfields: Environmental hazards (e.g., traps dealing 2 damage, fields granting advantage) challenge combatants. Roll Soul + Forbidden Knowledge or Craft to disarm or manipulate.
-Terrain Interaction: Use Fury + Strength or Craft to destroy objects (e.g., crumbling pillars, DR 2) or create cover.
+- **Material and Spectral Realms**: Characters with realm-shifting abilities can interact with both planes, gaining tactical edges (e.g., attacking through Spectral rifts).
+- **Glyph Traps and Shadowfields**: Environmental hazards (e.g., traps dealing 2 Fire or Necrotic damage, fields granting advantage) challenge combatants. Roll Soul + Forbidden Knowledge or Craft to disarm or manipulate.
+- **Terrain Interaction**: Use Fury + Strength or Craft to destroy objects (e.g., crumbling pillars, DR 2) or create cover.
 
-Example: A Zephonim ambushes from a Spectral shadowfield (+2 advantage) and triggers a glyph trap (DR 2 to avoid), forcing enemies to adapt or suffer.
+**Example**: A Zephonim ambushes from a Spectral shadowfield (+2 advantage) and triggers a Fire Glyph trap (DR 2 to avoid, 2 Fire damage), forcing enemies to adapt or suffer.
 
+## 9.13 Combat Example
 
-9.12 Combat Example
-Setup: Kain (Fury 4, Weapon Mastery 3, HP 12, DV 4, Armor 2) faces a Sarafan knight (DV 3, Armor 2, HP 10) on a cursed altar (+1 disadvantage to Kain).
+**Setup**: Kain (Fury 4, Weapon Mastery 3, HP 12, DV 4, Armor 2) faces a Sarafan knight (DV 3, Armor 2, HP 10) on a cursed altar (+1 disadvantage to Kain).
 
-Initiative: Kain rolls Shadow 3 + Tactics 2 (5 dice: 2 successes). The knight rolls 3 successes, acting first.
-Knight’s Turn: Rolls Fury 3 + Weapon Mastery 4 (7 dice, -1 highest die for disadvantage). Results: 6, 5, 4, 4, 3, 2, 1. Remove 6 (highest), leaving 2 successes. Misses Kain’s DV 4.
-Kain’s Turn: Attacks with a reaver blade (7 dice, -1 for disadvantage). Results: 6, 6, 5, 4, 3, 2, 1. Remove 6, leaving 3 successes (hits DV 3). Deals 3 damage – Armor 2 = 1 damage (knight HP 9). Kain uses 1 extra success to inflict Bleeding (1 damage for 2 rounds).
-Knight’s Reaction: Parries (Fury + Weapon Mastery, 2 successes), reducing damage by 2 (negating Kain’s 1 damage).
-Next Round: Knight takes 1 damage from Bleeding (HP 8) before acting.
+- **Initiative**: Kain rolls Shadow 3 + Tactics 2 (5 dice: 2 successes). The knight rolls 3 successes, acting first.
+- **Knight’s Turn**: Rolls Fury 3 + Weapon Mastery 4 (7 dice, –1 highest die for disadvantage) for a Piercing attack (spear, 3 damage, ignores 1 Armor). Results: 6, 5, 4, 4, 3, 2, 1. Remove 6, leaving 2 successes. Misses Kain’s DV 4.
+- **Kain’s Turn**: Attacks with a Soulfire Reaver Blade (7 dice, –1 for disadvantage, 3 Soulfire damage, ignores armor). Results: 6, 6, 5, 4, 3, 2, 1. Remove 6, leaving 3 successes (hits DV 3). Deals 3 Soulfire damage (knight HP 7) and uses 1 extra success to inflict Blighted (no natural healing for 1 round).
+- **Knight’s Reaction**: Parries (Fury + Weapon Mastery, 2 successes), reducing damage by 2 (to 1 damage, knight HP 9). Blighted remains.
+- **Next Round**: Knight cannot heal naturally due to Blighted and acts with reduced effectiveness.
 
-Narrative: Kain’s blade grazes the knight, drawing blood that seeps unnaturally, but the Sarafan’s shield deflects the brunt. The altar’s curse hums, threatening further peril.
+**Narrative**: Kain’s Soulfire blade sears the knight’s essence, the altar’s curse hampering his strike. The Sarafan’s shield mitigates the blow, but the unnatural flame lingers, weakening their resolve.
 
-9.13 GM Guidance
+## 9.14 GM Guidance
 
-Balancing Encounters: Set DV and HP to challenge but not overwhelm. A DV 3–5 foe suits most parties; DR 4+ tasks should be rare and climactic.
-Cinematic Descriptions: Describe extra successes vividly (e.g., “Your blade cleaves through their guard, pinning them against a crumbling pillar”).
-Environmental Depth: Use Nosgoth’s terrain (e.g., blood fountains, spectral rifts) to reward clever tactics.
-Corruption Risks: Emphasize the cost of pushing rolls, tying failures to Nosgoth’s dark themes (e.g., a critical failure summons a spectral wraith).
+- **Balancing Encounters**: Set DV and HP to challenge but not overwhelm. A DV 3–5 foe suits most parties; DR 4+ tasks should be rare and climactic. Consider damage type resistances (e.g., undead immune to Necrotic).
+- **Cinematic Descriptions**: Describe extra successes vividly (e.g., “Your Soulfire blade erupts, charring their soul as they stagger”). Tailor to damage types for flavor.
+- **Environmental Depth**: Use Nosgoth’s terrain (e.g., blood fountains, Spectral rifts, Void-tainted zones) to reward clever tactics and reflect damage type hazards.
+- **Corruption Risks**: Emphasize the cost of pushing rolls, tying failures to Nosgoth’s dark themes (e.g., a critical failure with Corruption damage summons a spectral wraith).
 
-Combat in Nosgoth is a crucible of power and peril. Whether you fight as a vampire lord, a Sarafan zealot, or a realm-shifting wraith, every strike shapes your fate—and the cursed world around you.
+Combat in Nosgoth is a crucible of power and peril, shaped by the interplay of physical, magical, and esoteric damage types. Whether you fight as a vampire lord, a Sarafan zealot, or a realm-shifting wraith, every strike—and every wound—shapes your fate and the cursed world around you.
+```
+
+This combined chapter integrates the combat mechanics from the original Chapter 9 with the detailed damage types, ensuring consistency in tone, mechanics, and the dark, cinematic feel of Nosgoth. Each damage type’s effects are woven into the combat system (e.g., extra successes, critical hits, environmental interactions) to enhance strategic depth while maintaining the gritty, supernatural atmosphere of the *Legacy of Kain: Bloodbound RPG*. The structure remains clear, with damage types detailed in a dedicated section (9.7) and referenced throughout for clarity. Let me know if you need further refinements or additional integration!
