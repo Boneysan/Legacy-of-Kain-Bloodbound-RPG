@@ -1,0 +1,189 @@
+Here’s a polished **chapter draft** that merges your *Dice Success System* and *Combat Rules* into a single structured rules chapter. I kept it in a style consistent with a tabletop RPG corebook—clear, modular, and with headings for easy reference.
+
+---
+
+# Chapter 3: Dice & Combat System
+
+## 🎲 Dice Success System
+
+The Legacy of Kain: Bloodbound RPG uses a **D6-based success system**. This mechanic drives all core actions, from combat to exploration, and is designed to emphasize risk, tension, and the dramatic weight of every roll.
+
+### Rolling Dice
+
+* Players roll a **pool of D6s** equal to **Attribute + Skill**.
+* **5 or 6 = 1 Success.**
+* The number of successes required depends on the **Difficulty Rating (DR):**
+
+| DR | Challenge Level | Required Successes |
+| -- | --------------- | ------------------ |
+| 1  | Trivial         | 1 success          |
+| 2  | Challenging     | 2 successes        |
+| 3  | Dangerous       | 3 successes        |
+| 4+ | Severe          | 4+ successes       |
+
+**Resolution:**
+
+* **1 success = success** (action completes as intended).
+* **0 successes = failure** (action fails, complications may arise).
+
+---
+
+### 💥 Extra Successes: Enhancing Actions
+
+If a player rolls more successes than required, they may choose to **enhance their outcome**:
+
+**In Combat:**
+
+* +1 damage per extra success (up to weapon or GM limit).
+* Inflict a status effect (see below).
+* Strike multiple targets (GM discretion).
+* Ignore 1 point of armor per extra success.
+
+**Status Effects Available:**
+
+* *Staggered*: No Reactions until end of next turn.
+* *Prone*: Target falls; must spend movement to stand.
+* *Disarmed*: Drops weapon/item.
+* *Bleeding*: 1 damage at start of turn for 2 rounds.
+* *Blinded*: Disadvantage on attacks & perception.
+* *Silenced*: Cannot cast spells with verbal components.
+* *Grappled*: Immobilized until passing DR 2 Fury check.
+* *Weakened*: -2 damage on next attack.
+* *Marked*: Takes +1 damage from attacker’s allies.
+* *Slowed*: Movement halved for 1 round.
+
+**Outside Combat:**
+
+* Perform faster, quieter, or with added flair.
+* Gain a narrative advantage (e.g., spotting details, creating openings).
+* Create a stunt (leap to higher ground, grab an item mid-battle, etc.).
+
+---
+
+### 🎲 Advantage & Disadvantage
+
+Advantage and Disadvantage modify the **dice pool before rolling**:
+
+| Modifier Level | Dice Adjustment | Example Situations           |
+| -------------- | --------------- | ---------------------------- |
+| Minor          | ±1 die          | Low cover, brief distraction |
+| Moderate       | ±2 dice         | High ground, magical aid     |
+| Major          | ±3 dice         | Perfect ambush, cursed foe   |
+
+* **Advantage:** Add bonus dice (up to +3).
+* **Disadvantage:** After rolling, remove that many *highest dice* before counting.
+* **Canceling:** They negate each other 1-for-1.
+
+**Narrative Adjudication:**
+The GM decides how extra successes manifest, but players are encouraged to propose creative outcomes.
+
+*Examples:*
+
+* 4 successes on a DR 2 Stealth check: not only succeed, but also disable a trap silently.
+* 3 successes on a DR 1 attack: cleave through a shield or decapitate the target.
+
+---
+
+## ⚔ Combat System
+
+Combat in Nosgoth reflects the brutal, tactical, and often supernatural struggle of its denizens. Every exchange carries weight—each strike a test of willpower, blood, and fate.
+
+### 🧮 Initiative
+
+* Roll D6s equal to **Shadow + (Tactics or Concentration)**.
+* Highest number of successes acts first.
+* Ties broken by Shadow stat, then GM discretion.
+
+---
+
+### 🗡 Attacks
+
+1. Roll a pool equal to **Attribute + Weapon Mastery**.
+2. Each 5–6 = 1 success.
+3. Compare successes to target’s **Defense Value (DV)**.
+
+   * DV = number of successes needed to hit.
+4. Excess successes = bonus damage or special effects.
+
+*Example:* Roll = 6, 5, 3, 2 → 2 successes.
+Target DV = 1 → hit. One excess success remains (usable for bonus damage or an effect).
+
+---
+
+### 🛡 Defense & Armor
+
+* **DV:** Base = 1 + (Shadow or Will, higher). Modified by armor, perks, or effects.
+* **Armor:** Flat reduction of damage (e.g., -2 damage).
+* **Active Defense:** Characters may roll reactions such as Dodge or Parry.
+
+---
+
+### 💥 Damage & Health
+
+* **Weapons/abilities** define base damage.
+* **Health Points (HP):** Track physical harm.
+* 0 HP → unconscious or dying.
+* Certain attacks may cause **Wounds or Sanity Loss**.
+
+---
+
+### 🧠 Special Actions
+
+* **Spellcasting:** Roll **Soul + Glyphcasting**.
+* **Grappling:** Use Unarmed Combat to restrain/disarm.
+* **Shifting Realms:** Abilities may allow shifting between Spectral/Material realms mid-combat.
+* **Pushes:** Players may reroll failures by adding a **Corruption Die (CD)**.
+
+---
+
+### 💣 Critical Hits & Failures
+
+* **Critical Hit:** 3+ successes, or exceeding DV by 2+.
+
+  * May stun, bypass armor, or deal bonus damage.
+* **Critical Failure:** 0 successes + failed push with CD rolling a 1.
+
+  * Triggers corruption backlash or GM complication.
+
+---
+
+### 🧬 Environmental Combat
+
+* The battlefield may feature **Spectral/Material terrain, glyph traps, cursed objects**.
+* Players can **interact with or destroy terrain** using Strength or Craft.
+
+---
+
+### ⚡ Reactions
+
+Each character gets **1 Reaction per round**.
+
+**Trigger Examples:**
+
+* Being targeted by an attack.
+* An enemy moving within reach.
+* A spell being cast at the character.
+
+**Common Reactions:**
+
+* *Dodge:* Shadow + Evasion → avoid an attack.
+* *Parry:* Fury + Weapon Mastery → reduce melee damage.
+* *Counterspell:* Soul + Glyphcasting → negate magic.
+* *Opportunity Attack:* Strike fleeing/approaching foes.
+* *Spectral Shift:* Instantly phase (if trait/spell allows).
+
+**Reaction Roll Outcomes:**
+
+| Successes | Effect                                      |
+| --------- | ------------------------------------------- |
+| 1         | Reduce damage by 1                          |
+| 2         | Reduce damage by 2 OR negate status         |
+| 3+        | Halve damage or fully evade (GM discretion) |
+
+---
+
+## Closing Note
+
+Combat in Nosgoth is **visceral and cinematic**, blending the brutality of battle with the mysticism of the realms. Success is never binary—extra successes create opportunities for stunts, narrative flourishes, and dramatic escalation. Power always comes with a price, and the dice ensure that every moment hangs in the balance.
+
+
