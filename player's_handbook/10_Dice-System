@@ -35,22 +35,29 @@ If a player rolls more successes than required, they may choose to **enhance the
 **In Combat:**
 
 * +1 damage per extra success (up to weapon or GM limit).
-* Inflict a status effect (see below).
+* Inflict a status effect based on the attack's damage type (see below).
 * Strike multiple targets (GM discretion).
 * Ignore 1 point of armor per extra success.
 
-**Status Effects Available:**
+**Status Effects by Damage Type:**
 
-* *Staggered*: No Reactions until end of next turn.
-* *Prone*: Target falls; must spend movement to stand.
-* *Disarmed*: Drops weapon/item.
-* *Bleeding*: 1 damage at start of turn for 2 rounds.
-* *Blinded*: Disadvantage on attacks & perception.
-* *Silenced*: Cannot cast spells with verbal components.
-* *Grappled*: Immobilized until passing DR 2 Fury check.
-* *Weakened*: -2 damage on next attack.
-* *Marked*: Takes +1 damage from attacker’s allies.
-* *Slowed*: Movement halved for 1 round.
+Spending extra successes allows you to apply a status effect, but the available effects are determined by the damage type of your attack.
+
+*   **Bludgeoning**: *Staggered* (target cannot take Reactions until their next turn) or *Prone* (target falls).
+*   **Piercing**: *Deep Wounds* (disadvantage on physical checks for 1 round).
+*   **Slashing**: *Bleeding* (1 damage at the start of their turn for 2 rounds).
+*   **Fire**: *Burning* (2 damage per round for 2 rounds, extinguished with a DR 2 action).
+*   **Cold**: *Slowed* (movement halved for 1 round) or *Frozen* (immobilized for 1 round, DR 3 to break free).
+*   **Lightning**: *Shocked* (disadvantage on attacks for 1 round).
+*   **Soul**: *Soul Stress* (disadvantage on Will or Soul-based checks for 1 round).
+*   **Radiant**: *Blinded* (disadvantage on attacks and perception checks for creatures of darkness).
+*   **Necrotic**: *Weakened* (–2 damage on next attack).
+*   **Force**: *Pushed* (target is moved 5 feet) or *Prone*.
+
+Some damage types have unique effects that are not traditional statuses:
+*   **Soulfire**: *Blighted* (prevents natural healing for 1 round).
+*   **Corruption**: *Corruption Point* (adds to target’s Corruption track).
+*   **Void**: *Frayed Reality* (–2 dice on next saving throw).
 
 **Outside Combat:**
 
