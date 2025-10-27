@@ -37,6 +37,8 @@ To strike an enemy, whether with claw, blade, or spell, follow these steps:
 
 Surviving Nosgoth’s battlefields requires cunning defense and resilience.
 
+While skill checks are made against a static DR, attacks in combat are resolved by comparing your successes against your opponent's **Defense Value (DV)**. A character's DV is a dynamic score that reflects their innate evasiveness, armor, and training, making them a much harder target than a simple locked door.
+
 - **Defense Value (DV)**: A passive score (1 + higher of Shadow or Will, plus modifiers) that attackers must meet or exceed to hit. For example, a vampire with Shadow 3 and Nosgothian Chainmail (+2 DV) has DV 6.
 - **Armor**: Reduces incoming physical damage (Bludgeoning, Piercing, Slashing) by a flat amount (e.g., 1–3, depending on gear). For example, Leather Armor reduces damage by 1, while Sarafan Plate reduces by 3. Some damage types (e.g., Soul, Soulfire, Void) ignore armor entirely.
 - **Active Defense**: Characters can use their Reaction (see Section 9.8) to actively defend with skills like Shadow + Evasion (Dodge) or Fury + Weapon Mastery (Parry).

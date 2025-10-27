@@ -12,7 +12,7 @@ The Legacy of Kain: Bloodbound RPG uses a **D6-based success system**. This mech
 
 * Players roll a **pool of D6s** equal to **Attribute + Skill**.
 * **5 or 6 = 1 Success.**
-* The number of successes required depends on the **Difficulty Rating (DR):**
+* The number of successes required for any **non-combat task** is determined by its **Difficulty Rating (DR)**. This is a number set by the Game Master, typically from 1 to 4, based on the challenge's complexity.
 
 | DR | Challenge Level | Required Successes |
 | -- | --------------- | ------------------ |
