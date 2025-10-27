@@ -69,17 +69,19 @@ Some damage types have unique effects that are not traditional statuses:
 
 ### 🎲 Advantage & Disadvantage
 
-Advantage and Disadvantage modify the **dice pool before rolling**:
+Situational factors can grant you **Advantage** or impose **Disadvantage** on a roll. This system gives you a second chance—either to turn failure into success, or to have your success snatched away by fate.
 
-| Modifier Level | Dice Adjustment | Example Situations           |
-| -------------- | --------------- | ---------------------------- |
-| Minor          | ±1 die          | Low cover, brief distraction |
-| Moderate       | ±2 dice         | High ground, magical aid     |
-| Major          | ±3 dice         | Perfect ambush, cursed foe   |
+**Advantage (Re-roll Failures)**
 
-* **Advantage:** Add bonus dice (up to +3).
-* **Disadvantage:** After rolling, remove that many *highest dice* before counting.
-* **Canceling:** They negate each other 1-for-1.
+When you have Advantage, roll your dice pool once. After the roll, you may **pick up any dice that failed (showing 4 or less) and re-roll them**. Add any new successes to your initial total. This gives you a chance to improve a mediocre outcome.
+
+**Disadvantage (Re-roll Successes)**
+
+When you have Disadvantage, roll your dice pool once. After the roll, you **must pick up any dice that succeeded (showing 5 or 6) and re-roll them**. Your final result is only the successes achieved on this second, mandatory roll. Any successes from your first roll are lost if they do not succeed again.
+
+**Canceling**
+
+If you have both Advantage and Disadvantage from different sources, they cancel each other out, and you simply roll your dice pool once as normal.
 
 **Narrative Adjudication:**
 The GM decides how extra successes manifest, but players are encouraged to propose creative outcomes.
@@ -143,14 +145,23 @@ Target DV = 1 → hit. One excess success remains (usable for bonus damage or an
 
 ---
 
-### 💣 Critical Hits & Failures
+### 💣 Critical Success & Failure
 
-* **Critical Hit:** 3+ successes, or exceeding DV by 2+.
+Exceptional outcomes, for better or worse, can dramatically alter a situation.
 
-  * May stun, bypass armor, or deal bonus damage.
-* **Critical Failure:** 0 successes + failed push with CD rolling a 1.
+**Critical Success (Skill Checks)**
 
-  * Triggers corruption backlash or GM complication.
+When making a non-combat skill check against a DR, achieving **3 or more successes** or **beating the DR by 2 or more** results in a Critical Success. This doesn't just mean you succeed, but that you do so with extraordinary results, granting a significant narrative benefit.
+
+*   *Examples:* A successful *History* roll might also reveal a hidden secret. A *Persuasion* check might turn a hostile guard into a long-term ally. A *Stealth* check might allow you to map out the entire area.
+
+**Critical Hit (Combat)**
+
+In combat, achieving **3 or more successes on an attack** or **beating the target's DV by 2 or more** results in a Critical Hit. This allows for powerful combat effects like bonus damage, bypassing armor, or applying potent status effects. (See Chapter 9: Combat for more details).
+
+**Critical Failure**
+
+A Critical Failure occurs when a player **pushes a roll** by using a Corruption Die and the subsequent roll results in **0 successes** while the **Corruption Die shows a 1**. This triggers a dire consequence, such as a weapon breaking, a spell backfiring spectacularly, or a new, immediate threat appearing on the scene, as determined by the GM.
 
 ---
 

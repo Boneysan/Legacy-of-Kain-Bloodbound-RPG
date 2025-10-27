@@ -148,6 +148,27 @@ Nosgoth’s conflicts are shaped by diverse damage types, each with unique prope
 - **Effects**: Bypasses physical armor. Rarely resisted except by broad magic resistance. Can cause Pushed or Prone.
 - **Sources**: Spells (e.g., Rift Pulse), telekinetic impacts, arcane beings.
 
+### Damage Type Summary Table
+
+| Damage Type      | Associated Status Effect(s) or Special Property                               |
+| :--------------- | :---------------------------------------------------------------------------- |
+| **Physical**     |                                                                               |
+| Bludgeoning      | *Staggered* (target cannot take Reactions) or *Prone*                         |
+| Piercing         | *Deep Wounds* (disadvantage on physical checks)                               |
+| Slashing         | *Bleeding* (damage over time)                                                 |
+| **Elemental**    |                                                                               |
+| Fire             | *Burning* (damage over time)                                                  |
+| Cold             | *Slowed* (movement halved) or *Frozen* (immobilized)                          |
+| Lightning        | *Shocked* (disadvantage on attacks)                                           |
+| Force            | *Pushed* (target is moved 5ft) or *Prone*                                     |
+| **Supernatural** |                                                                               |
+| Soul             | *Soul Stress* (disadvantage on Will/Soul checks)                              |
+| Soulfire         | *Blighted* (prevents natural healing)                                         |
+| Radiant          | *Blinded* (for creatures of darkness); Deals double damage to undead.         |
+| Corruption       | Adds *Corruption Points* to the target's track.                               |
+| Necrotic         | *Weakened* (target deals less damage); Prevents healing for 1 round.          |
+| Void             | *Frayed Reality* (target has penalty on next save); Damage cannot be healed normally. |
+
 ## 9.8 Reactions
 
 Reactions are swift, instinctive responses that turn defense into opportunity, usable once per round on another creature’s turn.
@@ -175,17 +196,21 @@ Reactions are swift, instinctive responses that turn defense into opportunity, u
 
 ## 9.9 Advantage and Disadvantage
 
-Combat in Nosgoth is shaped by terrain, preparation, and supernatural forces.
+Situational factors can grant you **Advantage** or impose **Disadvantage** on a roll. This system gives you a second chance—either to turn failure into success, or to have your success snatched away by fate.
 
-- **Modifiers**:
-  - **Minor (±1 die)**: Slight terrain edge, brief distraction, low cover.
-  - **Moderate (±2 dice)**: High ground, magical assistance, blinding light.
-  - **Major (±3 dice)**: Perfect ambush, unaware target, cursed/incapacitated foe.
-- **Advantage**: Add bonus dice to your pool before rolling (max +3).
-- **Disadvantage**: After rolling, remove the highest dice equal to the penalty (e.g., –2 removes two highest).
-- **Canceling**: Advantage and disadvantage cancel 1-for-1 (e.g., +2 and –1 = +1).
+**Advantage (Re-roll Failures)**
 
-**Example**: Raziel attacks from a shadowfield (+2 advantage) but is Blinded by Radiant damage (–2 disadvantage). The effects cancel, and he rolls normally.
+When you have Advantage, roll your dice pool once. After the roll, you may **pick up any dice that failed (showing 4 or less) and re-roll them**. Add any new successes to your initial total. This gives you a chance to improve a mediocre outcome.
+
+**Disadvantage (Re-roll Successes)**
+
+When you have Disadvantage, roll your dice pool once. After the roll, you **must pick up any dice that succeeded (showing 5 or 6) and re-roll them**. Your final result is only the successes achieved on this second, mandatory roll. Any successes from your first roll are lost if they do not succeed again.
+
+**Canceling**
+
+If you have both Advantage and Disadvantage from different sources, they cancel each other out, and you simply roll your dice pool once as normal.
+
+**Example**: Raziel attacks from a shadowfield (Advantage) but is Blinded by Radiant damage (Disadvantage). The effects cancel, and he rolls normally.
 
 ## 9.10 Special Actions
 
@@ -200,12 +225,13 @@ Nosgoth’s warriors wield powers beyond mortal limits, from soul-rending magic 
 
 Exceptional skill or catastrophic missteps shape Nosgoth’s battles.
 
-- **Critical Hit**: Roll 3+ successes on an attack or exceed DV by 2+. Effects may include:
-  - Bonus damage (e.g., +2).
-  - Stun (target loses next action, GM discretion).
-  - Damage type-specific effect (e.g., Corruption damage adds +1 Corruption Point).
-  - Bypass all armor (if applicable).
-- **Critical Failure**: Roll no successes on a pushed roll, and the Corruption Die shows a 1. Triggers a Corruption effect (e.g., soul drain, environmental backlash) or unintended consequence (e.g., weapon breaks, allies endangered).
+- **Critical Hit**: In combat, a Critical Hit is achieved by rolling **3 or more successes on an attack** or **exceeding the target's DV by 2 or more**. This represents a perfectly placed strike or a surge of power, granting one of the following benefits:
+  - **Bonus Damage**: Deal extra damage (e.g., +2, or the weapon's base damage again).
+  - **Potent Effect**: Apply a powerful status effect associated with the damage type (e.g., *Stun* the target for one round).
+  - **Bypass Armor**: The attack ignores all of the target's physical armor.
+  - **GM's Discretion**: The GM may introduce a unique narrative outcome, such as dismembering a limb or destroying a held item.
+
+- **Critical Failure**: A Critical Failure occurs when a player **pushes a roll** by using a Corruption Die and the subsequent roll results in **0 successes** while the **Corruption Die shows a 1**. This triggers a dire consequence, such as a weapon breaking, a spell backfiring spectacularly, or a new, immediate threat appearing on the scene, as determined by the GM.
 
 **Example**: A Melchahim claws at a foe (DV 3) with Necrotic damage, rolling 5 successes (critical hit). The GM allows +2 damage and Weakened (–2 damage on target’s next attack).
 
