@@ -67,7 +67,7 @@ Nosgoth’s warriors turn success into dominance. Extra successes (beyond those 
   - **Fire**: Burning (2 damage per round for 2 rounds, extinguished with a DR 2 action).
   - **Cold**: Slowed (movement halved for 1 round) or Frozen (immobilized for 1 round, DR 3 to break free).
   - **Lightning**: Shocked (disadvantage on attacks for 1 round).
-  - **Soul**: Soul Stress (disadvantage on Will or Soul-based checks for 1 round).
+  - **Soul**: Soul Drain (target loses 1 Soul Energy, and the attacker gains it).
   - **Soulfire**: Blighted (prevents natural healing for 1 round).
   - **Radiant**: Blinded (disadvantage on attacks and perception checks for creatures of darkness).
   - **Corruption**: Corruption Point (adds to target’s Corruption track).
@@ -162,7 +162,7 @@ Nosgoth’s conflicts are shaped by diverse damage types, each with unique prope
 | Lightning        | *Shocked* (disadvantage on attacks)                                           |
 | Force            | *Pushed* (target is moved 5ft) or *Prone*                                     |
 | **Supernatural** |                                                                               |
-| Soul             | *Soul Stress* (disadvantage on Will/Soul checks)                              |
+| Soul             | *Soul Drain* (target loses 1 Soul Energy, and the attacker gains it).         |
 | Soulfire         | *Blighted* (prevents natural healing)                                         |
 | Radiant          | *Blinded* (for creatures of darkness); Deals double damage to undead.         |
 | Corruption       | Adds *Corruption Points* to the target's track.                               |

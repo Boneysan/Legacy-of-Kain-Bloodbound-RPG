@@ -137,8 +137,8 @@ At Level 1, gain two perks:
 Class Perk: From your class’s perk tree (e.g., Blood Knight’s “Iron Hide”).
 Universal Perk: Choose one Tier 1 Universal Perk (e.g., “Blood for Blood”).
 
-🧩 Step 8: Define Corruption and Stress
-Choose a Corruption Path (for forbidden magic users or Hylden-blooded) or Stress Type to reflect how your character handles trauma or magical strain.
+🧩 Step 8: Define Corruption Path
+Choose a Corruption Path (for forbidden magic users or Hylden-blooded) to reflect how your character manifests their growing taint.
 🗂 Step 9: Final Touches
 
 Choose a name, appearance, and notable symbol.
