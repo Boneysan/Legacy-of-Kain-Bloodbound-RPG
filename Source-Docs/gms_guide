@@ -1,0 +1,55 @@
+GM’s Guide
+
+I. Core World and System Understanding for the GM
+Nosgoth World Primer: Essential for establishing the setting, key themes (corruption, fate vs. free will, time paradoxes), major factions (Vampires, Sarafan, Hylden, Elder God), significant characters (Kain, Raziel), and key locations.
+Lineage Lore and Class Lore: Understanding the backstories, motivations, and cultural myths of PC lineages and classes will help the GM create richer NPCs and more relevant plot hooks.
+Core Game Mechanics:
+Dice Success System: Understanding how dice pools (Attribute + Skill), successes (5s or 6s), and Difficulty Ratings (DRs) work.
+Skill Check Rules: How to call for skill checks, using opposed rolls, and determining degrees of success/failure including bonus effects and stunts.
+Skill System Guide: Descriptions of all core skills (Weapon Mastery, Evasion, Glyphcasting, Rituals, Forbidden Knowledge, Stealth, etc.) and their typically associated attributes.
+Combat Rules: Initiative, actions per turn (Action, Movement, Reaction, Free Interactions), attack resolution (dice pool vs. DV), Defense Value calculation (1 + Shadow or Will + modifiers), Armor, HP, special actions (spellcasting, grapples, realm shifting, pushing rolls), critical hits/failures, environmental combat, and detailed reaction rules.
+Spellcasting Rules: Spell categories/tiers, casting basics (actions, concentration, components, range, line of effect), spellcasting process (attack vs. save, DR guidelines ), resource expenditure (SE, BP, CD), extra successes/stunts, advanced mechanics (AoE, resistances, critical spell effects, duration), Corruption Dice rules in spellcasting, reactions to spells, resource pool calculations, definition of a "scene", and rules for learning/preparing spells.
+Spell Compendium: Provides a list of available spells for PCs and potential NPC loadouts, categorized by type, tier, and class focus.
+Damage Types: Detailed explanations of Physical, Soul/Spiritual, Fire, Electrical, Frost, Void, Soulfire, Radiant, Corruption, Necrotic, and Force damage.
+Sanity Mechanic: How Sanity works, how it's lost, its effects, and resistance.
+Rest System: Rules for Short and Long Rests, including duration, activities, benefits, and lineage-specific considerations.
+Realm Affinity and Terrain Types: Descriptions and mechanical implications of Material, Spectral, and Hybrid affinities, and various terrain types (Open, Difficult, Hazardous, Elevated, Cover, Obscuring, Spectral, Corrupted, Holy, Bloodsoaked, Arcane Nexus).
+II. NPC and Encounter Design
+Universal Monster/NPC Rules Document:
+
+
+Principles of Design: Reflecting themes, scaling (Threat Tiers), key statistics, unique traits.
+Core Statistics: HP, DV, Armor, Movement, Attacks (Dice Pool, Damage, Traits), Simplified Core Attributes (Fury, Soul, Shadow, Will, Focus, Blood), Key Skills, Special Abilities/Spells, Threat Tier.
+Threat Tiers: Minor, Standard, Major, Legendary defined.
+Actions in Combat: Standard action economy (1 Action, 1 Movement, 1 Reaction, Free Interactions), with advice for simplifying for minor creatures.
+Special Abilities/Traits Ideas: Spectral Phasing, Blood-fueled Powers, Hylden Technology/Magic, Corrupting Aura/Attacks, Faction-Specific Tactics, Resistances/Vulnerabilities.
+Monster Defenses: HP to 0 for defeat, DV for attackers to meet/exceed, Armor for physical damage reduction (some types bypass), Saving Throws (Attribute + Skill or fixed value).
+Monster Offense: Attack rolls (dice pool vs. DV), static damage, critical hits (3+ successes or DV exceeded by 2+).
+Morale and Behavior: GM discretion for creature intelligence and motivations (Mindless/Feral, Intelligent, Faction Loyalties).
+Corruption and Monsters: How creatures can be inherently corrupted or inflict corruption.
+Example Monster Stat Blocks: The "Universal Monster Rules.txt" document provides 250 detailed monster/NPC stat blocks across various categories (Feralslave Ghoul to The Curse that Walks), serving as ready-to-use antagonists or templates. (This covers the GM Resources section asking for example denizens ).
+Stat Block Template: Implied by the numerous examples provided.
+Modifying Enemies: Advice on creating "Elite" or "Champion" versions and using templates for different roles.
+Weapons and Armor List: For outfitting NPCs with appropriate gear and understanding their capabilities.
+GM Guidance on Encounter Design:
+Defining encounter difficulty using "Threat Value."
+Considering action economy.
+Designing encounters with enemy synergies.
+Using environment, hazards, and Energy Foci.
+Narrative weight vs. deadly encounters.
+III. Campaign Management and Narrative Tools
+The Economy of Nosgoth: Guidance on Nosgoth's barter-based system, valuable commodities (blood, relics, soul essence, knowledge, crafted goods), factional economic differences, and services as currency. This helps in designing rewards, NPC motivations, and trade encounters.
+
+
+Guidance on equipment "cost" in a barter system.
+Awarding Progression: Milestone character progression system, examples of milestones, and pacing advice.
+Energy Foci: Definition, mechanical benefits, risks, and rules for attunement.
+Corruption System:
+Corruption Thresholds and Effects: How rising corruption impacts characters, including unlocking Corrupted Perks and social/environmental interactions.
+Corruption Dice Rules: How Corruption Dice (CD) are used for pushing rolls and their consequences, including increasing Corruption Score and the Corruption Dice Failure Table.
+Ways to Purify Corruption: Detailed methods like Rituals of Purification, Acts of Atonement, seeking NPC aid, and downtime activities, providing numerous plot hooks and challenges.
+Perk System:
+GM Optional Rule for Unique/Custom Perks: Encourages GMs to create perks tied to backstory, story moments, or regional training.
+Adjudicating Narrative Abilities: Specific guidance for perks like "Reality Fracture," detailing how the GM should listen to player intent, assess impact, collaborate on outcomes, and introduce consequences.
+GM discretion is mentioned for various other perk interactions and unique situations throughout the perk descriptions.
+
