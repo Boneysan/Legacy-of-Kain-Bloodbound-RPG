@@ -1,6 +1,6 @@
 # Legacy of Kain: Bloodbound RPG - Context Document
 
-**Last Updated:** October 29, 2025  
+**Last Updated:** October 30, 2025  
 **System Version:** 1.0 (In Development)  
 **Game Type:** Dark Gothic Fantasy Tabletop RPG  
 **Setting:** Nosgoth
@@ -248,11 +248,11 @@ Each damage type has specific associated status effects.
 - `00_Introduction.md` - Manual usage, threat tiers, stat block format, customization ✓ COMPLETE
 - `01_Undead-and-Vampiric.md` - 8 creatures (Ghouls to Vampire Lords) ✓ COMPLETE
 - `02_Spectral-Entities.md` - 8 creatures (Echo Serpents to Gravewind Entity) ✓ COMPLETE
-- `03_Mortals-and-Cultists.md` - Human enemies and fanatics (PENDING)
-- `04_Beasts-and-Mutants.md` - Corrupted wildlife and monsters (PENDING)
-- `05_Constructs-and-Automatons.md` - Mechanical servants (PENDING)
-- `06_Hylden-Forces.md` - Banished race and creations (PENDING)
-- `07_Elemental-and-Arcane.md` - Magical creatures (PENDING)
+- `03_Mortals-and-Cultists.md` - 8 creatures (Cultists to Witch-Hunters) ✓ COMPLETE
+- `04_Beasts-and-Mutants.md` - 8 creatures (Wolves to Phase Cougars) ✓ COMPLETE
+- `05_Constructs-and-Automatons.md` - 8 creatures (Clockwork Knights to Soul-Towers) ✓ COMPLETE
+- `06_Hylden-Forces.md` - 8 creatures (Shock Troopers to Void-Spoken Oracles) ✓ COMPLETE
+- `07_Elemental-and-Arcane.md` - 8 creatures (Elemental & Arcane) ✓ COMPLETE
 - `08_Ancient-Creatures.md` - Primordial beings (PENDING)
 - `09_Legendary-Entities.md` - Story-bound threats (PENDING)
 
@@ -285,7 +285,7 @@ Each damage type has specific associated status effects.
 - **Corruption system with all Tier 1-3 Corrupted Perks (08_Corruption.md - COMPLETE)**
 - **Project Context document (assets/CONTEXT.md - COMPLETE)**
 - **GM_Guide folder structure with 6 chapters (COMPLETE)**
-- **Monster_Manual folder structure with Introduction + 2 chapters (IN PROGRESS)**
+- **Monster_Manual folder structure with Introduction + 7 chapters (IN PROGRESS)**
 
 ### GM_Guide Chapters Completed ✓
 1. **00_GM-Introduction.md** - GM philosophy, themes, tone, session structure, safety tools
@@ -316,6 +316,57 @@ Each damage type has specific associated status effects.
    - Phase-Beast (Elite, TV 2)
    - Gravewind Entity (Boss, TV 4, with Legendary Actions)
    - Plus: Combat tactics, encounter design, story hooks
+4. **03_Mortals-and-Cultists.md** - 8 fully statted creatures:
+   - Cult of the Abyss Fanatic (Minion, TV 0.25)
+   - Forsaken Priest of Light (Standard, TV 1)
+   - Wandering Mad Seer (Standard, TV 1)
+   - Sarafan Inquisitor (Elite, TV 2)
+   - Outcast Raider (Standard, TV 1)
+   - Black Rune Warlock (Elite, TV 2)
+   - Bleeding Eye Assassin (Elite, TV 2)
+   - Witch-Hunter Commander (Elite, TV 2)
+   - Plus: Tactics, moral complexity, encounter design, Legendary Actions
+5. **04_Beasts-and-Mutants.md** - 8 fully statted creatures:
+   - Dire Cave Wolf (Standard, TV 1)
+   - Nosgothian Drake (Elite, TV 2)
+   - Glimmerback Lizard (Minion, TV 0.25)
+   - Blight-Boar (Standard, TV 1)
+   - Bloodgullet Hound (Standard, TV 1)
+   - Stonemaul Troll (Elite, TV 2)
+   - Bramblehide Bear (Elite, TV 2)
+   - Warptooth Cougar (Elite, TV 2)
+   - Plus: Hunting, resources, corruption indicators, taming rules
+6. **05_Constructs-and-Automatons.md** - 8 fully statted creatures:
+   - Sarafan Clockwork Knight (Elite, TV 2)
+   - Pillar-Guardian Sentinel (Boss, TV 4, with Legendary Actions and core weaknesses)
+   - Spellbound Golem (Standard, TV 1)
+   - Iron-Cage Beast (Elite, TV 2, Hylden bio-construct)
+   - Glyphfused Automaton (Elite, TV 2)
+   - Hylden Soul-Tower (Boss, TV 4, siege engine with 3 soul cores)
+   - Bound-Logic Scribe (Standard, TV 1, living archive)
+   - Obsidian Drone (Minion, TV 0.25, swarm scout)
+   - Plus: Programming exploits, weakness exploitation, repair mechanics
+7. **06_Hylden-Forces.md** - 8 fully statted creatures:
+   - Hylden Shock Trooper (Elite, TV 2, possessed warrior)
+   - Hylden Flesh Architect (Elite, TV 2, biomancer creating abominations)
+   - Mind-Tethered Abomination (Standard, TV 1, fused corpses)
+   - Corruption Host (Standard, TV 1, mortals transforming into Hylden)
+   - Bio-Sigil Reaver (Elite, TV 2, phase assassin)
+   - Hylden Rift Engineer (Elite, TV 2, portal summoner)
+   - Void-Spoken Oracle (Boss, TV 4, prophet with Legendary Actions and telepathic coordination)
+   - Hylden Horror Warden (Elite, TV 2, psychological torturer)
+   - Plus: Corruption mechanics, reality distortion, possession rules, moral complexity
+
+8. **07_Elemental-and-Arcane.md** - 8 fully statted creatures:
+   - Fire-Spite Djinn
+   - Spiritbound Flame Wolf
+   - Bloodhail Cyclone
+   - Frost-Wrought Avenger
+   - Frostbound Guardian
+   - Arcane Flare Wyrm
+   - Thundercrack Behemoth
+   - Mist Binder
+   - Plus: Elemental hazards, anti-magic counters, encounter variants by terrain/weather
 
 ### In Progress / Needs Refinement
 - Equipment lists and weapon statistics (07_Equipment.md)
@@ -332,10 +383,6 @@ Each damage type has specific associated status effects.
 - Sample adventures and one-shots
 
 ### Future Considerations for Monster_Manual
-- Chapter 3: Mortals & Cultists (Sarafan Inquisitors, Cult Fanatics, human enemies)
-- Chapter 4: Beasts & Mutants (Dire wolves, corrupted wildlife, monstrosities)
-- Chapter 5: Constructs & Automatons (Sarafan Clockwork Knights, Pillar Sentinels, golems)
-- Chapter 6: Hylden Forces (Hylden Shock Troopers, Flesh Architects, bio-constructs)
 - Chapter 7: Elemental & Arcane (Fire djinn, arcane wyrms, bound elementals)
 - Chapter 8: Ancient Creatures (Titan-Kin, Pillar guardians, primordial beings)
 - Chapter 9: Legendary Entities (Razielic Remnant, Kain's Echo-Knight, campaign bosses)
@@ -446,10 +493,12 @@ Each damage type has specific associated status effects.
 - NPC Compendium created with narrative guidance for 5 major characters
 - Milestone XP system documented with pacing recommendations
 - Reality Fracture and narrative ability adjudication guidelines added
-- **Monster_Manual folder created with Introduction + 2 complete chapters**
-- **16 fully-statted creatures across Undead/Vampiric and Spectral categories**
+- **Monster_Manual folder created with Introduction + 6 complete chapters (7 total files)**
+- **48 fully-statted creatures** across Undead/Vampiric, Spectral, Mortal/Cultist, Beast, Construct, and Hylden categories
 - **Threat Value (TV) system integrated with GM_Guide encounter design**
 - **Legendary Actions rules for boss-tier creatures**
+- **Each creature includes: full stats, multiple attacks, special abilities, tactical guidelines, loot tables, scaling options, sample encounters, and story hooks**
+- **Boss-tier creatures feature Legendary Actions, multi-phase mechanics, and targetable weaknesses**
 
 ---
 
