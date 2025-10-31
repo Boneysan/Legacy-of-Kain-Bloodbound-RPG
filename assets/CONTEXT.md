@@ -311,10 +311,29 @@ Each damage type has specific associated status effects.
    - Classes: Added H1 and structured early sections (Class Overview, Class Progression, Universal Perks Progression) as H2.
    - Perks: Added H1; promoted major sections (Perk Progression, Class/Universal/Corrupted Perks, Multiclassing, GM Optional Rule) to H2; tier groups to H3.
    - Skills and Equipment: Added H1 and converted plain section labels to H2/H3/H4 as appropriate.
-   - Combat (Ch. 9): Removed stray opening code fences; preserved core content. Tail clean-up is pending minimal follow-up to remove an old draft note.
+   - Combat (Ch. 9): Removed stray opening code fences and deleted closing draft note at tail; file renders cleanly.
    - Dice System (Ch. 10): Removed draft preface; set proper chapter number and normalized emoji headers.
    - Realms/Terrain/Arcane Power (Ch. 11): Added H1 and promoted section labels and Overviews to headings.
-   - Glossary (Ch. 12): Added H1 and converted entries to H2 sections.
+    - Glossary (Ch. 12): Added H1 and converted entries to H2 sections.
+
+### Player's Handbook — Numbered Sections & Tables — Oct 31, 2025
+- Added chapter-based numbering to section headings and standardized first-use terminology notes (DV, DR, Armor) in:
+   - 04_Perks.md: Numbered sections (4.x), added terminology note, and converted pseudo-tables to proper Markdown tables for:
+      - Tier 1–4 Universal Perks (added structured summary tables)
+      - Corruption Levels summary table
+      - Tier 1–3 Corrupted Perks summary tables
+   - 06_Skills.md: Numbered sections (6.x), added terminology note, and converted pseudo-tables to tables for:
+      - Difficulty Ratings (DR)
+      - Degrees of Success
+      - Bonus Effects for Extra Successes
+      - Skill-to-Attribute Summary
+- Promoted implicit labels to headings (e.g., Skill System, Core Skill Descriptions, Corrupted Perks, Purification, GM Guidance) for consistent navigation.
+
+### Player's Handbook — Numbering & TOC Phase 2 — Oct 31, 2025
+- 01_Character-Creation.md:
+   - Added compact At-a-glance TOC; inserted first-use terminology note; applied 1.x numbering across steps and conclusion; added numbered subheaders (e.g., 1.5.1 Resource Pools, 1.7.1 Example Gear).
+- 07_Equipment.md:
+   - Added compact At-a-glance TOC; inserted first-use terminology note; applied 7.x numbering across weapons/armor/crafting/tactics; promoted plain labels to headings; converted Universal Armor list into a Markdown table.
 - Scope: Content unchanged apart from heading normalization and light cleanup. No rules or mechanics altered.
 
 ### GM_Guide Chapters Completed ✓

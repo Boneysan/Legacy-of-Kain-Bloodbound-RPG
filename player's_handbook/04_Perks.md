@@ -1,14 +1,17 @@
 # Chapter 4: Perks System
 In the cursed land of Nosgoth, where blood and shadow weave destinies, power is a double-edged blade. The Perks System allows characters to transcend their class and lineage, forging unique identities through abilities that blend mechanical advantage with narrative weight. Universal Perks are available to all, enhancing combat, exploration, or lore interactions. Corrupted Perks, unlocked through dark pacts or forbidden knowledge, offer immense power at the cost of sanity, body, and soul. This chapter details perk selection, progression, and the perilous path of corruption, guiding players and Game Masters (GMs) through Nosgoth’s treacherous landscape.
-## Perk Progression
+
+Note on terminology: Defense Value (DV) = attack target in combat; Difficulty Rating (DR) = successes needed for checks/saves; Armor = flat mitigation reducing incoming damage before HP. This chapter references DV only when a perk interacts with combat targeting; otherwise, DR is used for checks/saves.
+
+## 4.1 Perk Progression
 Perks define a character’s growth, reflecting their triumphs, struggles, and temptations. Characters gain Class Perks and Universal Perks as they level, with humans receiving additional perks via their racial trait. Perks are permanent once chosen, representing a commitment to a character’s path.
-## Class Perks
+## 4.2 Class Perks
 
 Frequency: One Class Perk per level (1–20).
 Selection: Chosen from the character’s specific Class Perk list, corresponding to their current level (e.g., a Blood Knight at Level 5 selects their Level 5 perk, such as Crushing Blow).
 Purpose: These define core class identity, offering specialized abilities tied to the character’s role (e.g., combat, magic, or stealth).
 
-## Universal Perks
+## 4.3 Universal Perks
 
 Frequency: One Universal Perk slot at Levels 1, 3, 5, 6, 8, 10, 11, 13, 15, 16, 18, and 20.
 Tier Progression:
@@ -20,18 +23,18 @@ Tier 4 (Levels 16–20): Requires one Tier 3 Universal Perk. Players may choose 
 
 Human Racial Trait (Extra Perk): Humans gain one additional Universal Perk at Levels 4, 8, 12, 16, and 20, following the same tier unlock conditions (e.g., Level 4 grants a Tier 1 perk; Level 16 grants a Tier 4 or lower-tier perk).
 
-## Corrupted Perks
+## 4.4 Corrupted Perks
 
 Unlock Conditions: Available at Corruption Thresholds (3–6 for Tier 1, 7–10 for Tier 2, 11–15 for Tier 3) or through narrative triggers (e.g., soulbinding, Hylden pacts).
 Selection: Chosen in place of a Universal Perk slot, subject to GM approval and narrative justification. No tier prerequisites apply within Corrupted Perks, but Corruption Score limits access.
 Risks: Each carries drawbacks (e.g., Sanity loss, social penalties), reflecting Nosgoth’s theme of power at a cost.
 
-## Multiclassing and Hybrid Perks
+## 4.5 Multiclassing and Hybrid Perks
 
 Eligibility: At Level 5+, players may request a Tier 1 perk from another class’s perk tree if narratively justified (e.g., a Blood Mage taking an Outcast stealth perk).
 GM Oversight: Requires GM approval to ensure thematic fit and balance. Hybrid builds enable unique playstyles, such as a Sarafan Crusader with Scholar rituals.
 
-## GM Optional Rule: Custom Perks
+## 4.6 GM Optional Rule: Custom Perks
 GMs may create unique perks tied to:
 
 Character backstory (e.g., a vampire’s ancient lineage).
@@ -40,77 +43,22 @@ Regional or relic-based training (e.g., Blade of the Broken Circle: +3 damage vs
 
 ## Universal Perks
 Universal Perks enhance characters across all classes and lineages, offering tactical versatility and narrative depth. They are tiered to reflect growing power and influence in Nosgoth’s brutal world.
-### Tier 1 Universal Perks (Levels 1–5)
+### 4.3.1 Tier 1 Universal Perks (Levels 1–5)
 These foundational abilities provide minor boosts, ideal for early survival in Nosgoth’s dangers.
 #### Summary Table: Tier 1 Universal Perks
 
-
-
-Perk Name
-Effect Summary
-Frequency/Trigger
-Benefit Type
-
-
-
-Blood for Blood
-Restore 2 HP on critical hit.
-On critical hit
-Survivability
-
-
-Echo Sense
-Detect hidden/invisible within 10 ft.
-Passive
-Awareness
-
-
-Iron Will
-Reroll one failed Sanity save.
-Once per long rest
-Mental Resilience
-
-
-Glyph Mastery
-Use basic glyphs without proficiency.
-Passive
-Magical Utility
-
-
-Shadow’s Edge
-+1 die to rolls in dim light/darkness.
-Passive
-Environmental
-
-
-Spirit Bond
-Commune with a ghost for insight.
-Once per long rest
-Narrative Info
-
-
-Battle Meditation
-Regain 2 HP post-combat if no Sanity lost.
-Post-combat
-Recovery
-
-
-Tombborn
-Sense undead or cursed ground.
-Passive
-Detection
-
-
-Focused Ritualist
-+1 die to glyphcasting if uninjured.
-Conditional
-Magical Boost
-
-
-Death Watcher
-Detect enemy below 25% HP.
-Passive
-Tactical
+| Perk Name        | Effect Summary                               | Frequency/Trigger     | Benefit Type     |
+|------------------|-----------------------------------------------|-----------------------|------------------|
+| Blood for Blood  | Restore 2 HP on critical hit.                 | On critical hit       | Survivability    |
+| Echo Sense       | Detect hidden/invisible within 10 ft.         | Passive               | Awareness        |
+| Iron Will        | Reroll one failed Sanity save.                | Once per long rest    | Mental Resilience|
+| Glyph Mastery    | Use basic glyphs without proficiency.         | Passive               | Magical Utility  |
+| Shadow’s Edge    | +1 die to rolls in dim light/darkness.        | Passive               | Environmental    |
+| Spirit Bond      | Commune with a ghost for insight.             | Once per long rest    | Narrative Info   |
+| Battle Meditation| Regain 2 HP post-combat if no Sanity lost.    | Post-combat           | Recovery         |
+| Tombborn         | Sense undead or cursed ground.                | Passive               | Detection        |
+| Focused Ritualist| +1 die to glyphcasting if uninjured.          | Conditional           | Magical Boost    |
+| Death Watcher    | Detect enemy below 25% HP.                    | Passive               | Tactical         |
 
 
 Detailed Perks
@@ -124,77 +72,22 @@ Battle MeditationEffect: Regain 2 HP after combat if no Sanity was lost.Cost/Dra
 TombbornEffect: Sense undead or cursed ground within 30 ft (6 squares).Cost/Drawback: None.Narrative Hook: Nosgoth’s vampiric and cursed landscapes pulse in your awareness, guiding you away from or toward danger.
 Focused RitualistEffect: +1 die to glyphcasting rolls if uninjured.Cost/Drawback: None.Narrative Hook: Your precision with glyphs shines when unscathed, rewarding careful positioning in Nosgoth’s magic-heavy conflicts.
 Death WatcherEffect: Detect when an enemy drops below 25% HP.Cost/Drawback: None.Narrative Hook: Your keen senses spot a foe’s weakness, enabling precise strikes or party coordination in brutal combat.
-### Tier 2 Universal Perks (Levels 6–10)
+### 4.3.2 Tier 2 Universal Perks (Levels 6–10)
 Prerequisite: One Tier 1 Universal Perk.These perks enhance mobility, defense, and versatility, reflecting growing mastery.
-Summary Table: Tier 2 Universal Perks
+#### Summary Table: Tier 2 Universal Perks
 
-
-
-Perk Name
-Effect Summary
-Frequency/Trigger
-Benefit Type
-
-
-
-Momentum Kill
-+10 ft movement after a kill.
-On kill
-Mobility
-
-
-Phase Slip
-Ignore difficult terrain in Spectral Realm.
-Passive
-Mobility
-
-
-Sanity Tap
-Spend 1 Sanity for +2 die to a roll.
-Once per scene
-Versatile Boost
-
-
-Void Walker
-Immune to corrupted terrain hazards.
-Passive
-Environmental
-
-
-Time Echo
-Reroll one Initiative roll.
-Once per long rest
-Combat Initiative
-
-
-Soul Ward
-Absorb one source of damage.
-Once per long rest
-Defense
-
-
-Spell Siphon
-Steal 1 spell/ability from a foe (DR 2 Will save).
-Once per long rest
-Versatility
-
-
-Spectral Fortitude
-+2 Defense in Spectral Realm.
-Passive
-Survivability
-
-
-Blood Alchemy
-Convert HP to Soul Energy (max Level/2).
-As needed
-Resource Trade
-
-
-Shadow Link
-Teleport to shadow within 10 ft.
-Once per scene (Bonus Action, 1 SE)
-Mobility
+| Perk Name       | Effect Summary                                         | Frequency/Trigger                | Benefit Type       |
+|-----------------|---------------------------------------------------------|----------------------------------|--------------------|
+| Momentum Kill   | +10 ft movement after a kill.                           | On kill                          | Mobility           |
+| Phase Slip      | Ignore difficult terrain in Spectral Realm.             | Passive                          | Mobility           |
+| Sanity Tap      | Spend 1 Sanity for +2 dice to a roll.                   | Once per scene                   | Versatile Boost    |
+| Void Walker     | Immune to corrupted terrain hazards.                    | Passive                          | Environmental      |
+| Time Echo       | Reroll one Initiative roll.                             | Once per long rest               | Combat Initiative  |
+| Soul Ward       | Absorb one source of damage.                            | Once per long rest               | Defense            |
+| Spell Siphon    | Steal 1 spell/ability from a foe (DR 2 Will save).      | Once per long rest               | Versatility        |
+| Spectral Fortitude| +2 Defense in Spectral Realm.                         | Passive                          | Survivability      |
+| Blood Alchemy   | Convert HP to Soul Energy (max Level/2).                | As needed                        | Resource Trade     |
+| Shadow Link     | Teleport to shadow within 10 ft.                        | Once per scene (Bonus Action, 1 SE)| Mobility        |
 
 
 Detailed Perks
@@ -208,77 +101,22 @@ Spell SiphonEffect: Once per long rest, steal one spell or ability from a foe (t
 Spectral FortitudeEffect: +2 Defense in the Spectral Realm.Cost/Drawback: None.Narrative Hook: Your resilience strengthens in the Spectral Realm, where you stand firm against its otherworldly dangers.
 Blood AlchemyEffect: Convert HP to temporary Soul Energy (1 SE per 3 HP, max Level/2).Cost/Drawback: HP loss.Narrative Hook: You sacrifice vitality for magical power, embodying Nosgoth’s theme of costly magic.
 Shadow LinkEffect: As a Bonus Action, once per scene, teleport to a shadow within 10 ft (2 squares). Costs 1 SE.Cost/Drawback: 1 SE.Narrative Hook: Shadows become doorways, granting tactical mobility for stealthy Shadowmancers or quick repositioning.
-Tier 3 Universal Perks (Levels 11–15)
+### 4.3.3 Tier 3 Universal Perks (Levels 11–15)
 Prerequisite: One Tier 2 Universal Perk.These transformative perks mark a character’s rise to power, shaping combat and narrative arcs.
-Summary Table: Tier 3 Universal Perks
+#### Summary Table: Tier 3 Universal Perks
 
-
-
-Perk Name
-Effect Summary
-Frequency/Trigger
-Benefit Type
-
-
-
-Ascended Form
-Transform into a powerful avatar (1 min).
-Once per session
-Transformation
-
-
-Chrono Clarity
-Cannot be surprised; +2 die to Initiative.
-Passive
-Initiative
-
-
-Deathmark
-Mark one target; +2 damage to them.
-Once per scene
-Offense
-
-
-Voice of Fate
-Ask a question about the future.
-Once per session
-Prophecy
-
-
-Blood Vow
-Regain full HP on killing marked target.
-Once per long rest
-Recovery
-
-
-Spectral Reign
-Become invisible in Spectral Realm.
-Once per scene
-Stealth
-
-
-Timelocked
-Immune to time-slow/haste effects.
-Passive
-Resistance
-
-
-Soul Burn
-+1 damage per 2 missing SE (max +5).
-Conditional
-Offense
-
-
-Master of Glyphs
-Inscribe permanent glyphs (material cost).
-As needed
-Magical Utility
-
-
-Legacy of Power
-Gain a once-per-campaign lineage ability.
-Once per campaign
-Narrative
+| Perk Name        | Effect Summary                                   | Frequency/Trigger   | Benefit Type       |
+|------------------|---------------------------------------------------|---------------------|--------------------|
+| Ascended Form    | Transform into a powerful avatar (1 min).         | Once per session    | Transformation     |
+| Chrono Clarity   | Cannot be surprised; +2 dice to Initiative.       | Passive             | Initiative         |
+| Deathmark        | Mark one target; +2 damage to them.               | Once per scene      | Offense            |
+| Voice of Fate    | Ask a question about the future.                  | Once per session    | Prophecy           |
+| Blood Vow        | Regain full HP on killing marked target.          | Once per long rest  | Recovery           |
+| Spectral Reign   | Become invisible in Spectral Realm.               | Once per scene      | Stealth            |
+| Timelocked       | Immune to time-slow/haste effects.                | Passive             | Resistance         |
+| Soul Burn        | +1 damage per 2 missing SE (max +5).              | Conditional         | Offense            |
+| Master of Glyphs | Inscribe permanent glyphs (material cost).        | As needed           | Magical Utility    |
+| Legacy of Power  | Gain a once-per-campaign lineage ability.         | Once per campaign   | Narrative          |
 
 
 Detailed Perks
@@ -292,88 +130,22 @@ TimelockedEffect: Immune to time-slowing and haste effects.Cost/Drawback: None.N
 Soul BurnEffect: Deal +1 damage per 2 missing Soul Energy (max +5).Cost/Drawback: None.Narrative Hook: As your soul wanes, your desperation fuels devastating strikes, burning brighter in adversity.
 Master of GlyphsEffect: Inscribe permanent glyphs (e.g., wards, traps) with material costs (GM-determined).Cost/Drawback: Material cost, 1 SE per glyph.Narrative Hook: Your mastery over glyphs shapes Nosgoth’s battlefields, etching your will into the world.
 Legacy of PowerEffect: Gain a once-per-campaign ability tailored to your lineage (GM-designed, e.g., a vampire’s blood curse).Cost/Drawback: None.Narrative Hook: Your ancestors’ blood awakens, granting a legendary power that echoes through eternity.
-Tier 4 Universal Perks (Levels 16–20)
+### 4.3.4 Tier 4 Universal Perks (Levels 16–20)
 Prerequisite: One Tier 3 Universal Perk.These mythic perks mark characters as legends, defying Nosgoth’s natural laws with profound consequences.
-Summary Table: Tier 4 Universal Perks
+#### Summary Table: Tier 4 Universal Perks
 
-
-
-Perk Name
-Effect Summary
-Frequency/Trigger
-Benefit Type
-Prerequisite
-
-
-
-Cyclebreaker’s Defiance
-Defy death/corruption; restore to 1 HP, take a turn.
-Once per long rest
-Survival
-None
-
-
-Paradox Strike
-Echo attack damage next turn.
-Once per scene (1 SE)
-Offense
-Time/soul/phase ability
-
-
-Spectral Anchor
-Permanent Spectral perception; Soul resistance; immovable.
-Passive
-Awareness/Resist
-None
-
-
-Legacy Transfusion
-Gain one Tier 2/3 perk from another source.
-Permanent (once)
-Customization
-None
-
-
-Veilpiercer
-Perceive illusions; nullify one; +2 dice prophecy/deceit.
-Passive/Once per scene
-Detection
-None
-
-
-Temporal Residue
-Echo takes 50% attacks (1 round).
-Once per combat
-Evasion
-None
-
-
-Flesh of Myth
-+1 max HP/future level; immunities.
-Passive
-Survivability
-None
-
-
-Soulfire Conversion
-Burn HP for SE/Blood/Glyph (max Level/3).
-Once per rest (Bonus Action)
-Resource Trade
-None
-
-
-Cradle of Ruin
-Death pulse (4d6 damage); rise at 1 HP.
-On 0 HP
-Revival
-None
-
-
-Reality Fracture
-Perform an impossible act (GM-resolved).
-Once per session
-Narrative Wildcard
-None
+| Perk Name              | Effect Summary                                       | Frequency/Trigger           | Benefit Type        | Prerequisite              |
+|------------------------|-------------------------------------------------------|-----------------------------|---------------------|---------------------------|
+| Cyclebreaker’s Defiance| Defy death/corruption; restore to 1 HP; take a turn. | Once per long rest          | Survival            | None                      |
+| Paradox Strike         | Echo attack damage next turn.                         | Once per scene (1 SE)       | Offense             | Time/soul/phase ability   |
+| Spectral Anchor        | Spectral perception; Soul resistance; immovable.      | Passive                     | Awareness/Resist    | None                      |
+| Legacy Transfusion     | Gain one Tier 2/3 perk from another source.           | Permanent (once)            | Customization       | None                      |
+| Veilpiercer            | Perceive illusions; nullify one; +2 dice prophecy/deceit. | Passive/Once per scene  | Detection           | None                      |
+| Temporal Residue       | Echo takes 50% attacks (1 round).                     | Once per combat             | Evasion             | None                      |
+| Flesh of Myth          | +1 max HP/future level; immunities.                   | Passive                     | Survivability       | None                      |
+| Soulfire Conversion    | Burn HP for SE/Blood/Glyph (max Level/3).             | Once per rest (Bonus Action)| Resource Trade      | None                      |
+| Cradle of Ruin         | Death pulse (4d6 damage); rise at 1 HP.               | On 0 HP                     | Revival             | None                      |
+| Reality Fracture       | Perform an impossible act (GM-resolved).              | Once per session            | Narrative Wildcard  | None                      |
 
 
 Detailed Perks
@@ -387,116 +159,36 @@ Flesh of MythPrerequisite: NoneEffect: +1 maximum HP per future level. Immune to
 Soulfire ConversionPrerequisite: NoneEffect: Once per rest, as a Bonus Action, burn HP (3 HP per 1 point) to gain Soul Energy, Blood, or Glyph Charges (max Level/3).Cost/Drawback: HP loss.Narrative Hook: Pain fuels your power, a grim transaction in Nosgoth’s economy of sacrifice.
 Cradle of RuinPrerequisite: NoneEffect: When reduced to 0 HP, unleash a 20-ft pulse (4d6 Soul or Physical damage, your choice). Allies gain +2 DR and +1 die to rolls until their next turn ends. Rise at 1 HP on your next turn.Cost/Drawback: 1 Corruption.Narrative Hook: You die like a god and rise like a curse, leaving devastation in your wake.
 Reality FracturePrerequisite: NoneEffect: Once per session, describe an impossible act (e.g., halting time, crossing space instantly). Must be narratively powerful, not game-breaking, and GM-resolved.Cost/Drawback: 2 Sanity.Narrative Hook: You shatter reality’s rules, leaving fate’s tapestry in tatters.
-Corrupted Perks
+## 4.4 Corrupted Perks
 Corrupted Perks tempt characters with forbidden power, unlocked through a Corruption Threshold or narrative events (e.g., soulbinding, Hylden pacts). They offer unmatched strength but erode mind, body, and social standing.
-Corruption Threshold Mechanics
+### 4.4.1 Corruption Threshold Mechanics
 The Corruption Threshold measures a character’s descent into darkness, tracked by a Corruption Score (0–15). Each session, roll 2 × Corruption Level d6; failing a GM-set DC (e.g., 10) inflicts penalties (e.g., Sanity loss, narrative complications). Pushing rolls adds (Corruption Level / 3, rounded up) d6 per push, risking further failure.
-Summary Table: Corruption Levels
+#### Summary Table: Corruption Levels
+
+| Corruption Level | State                 | Effects and Unlocks                               | Social/Environmental Impact                                  |
+|------------------|-----------------------|---------------------------------------------------|----------------------------------------------------------------|
+| 1–2              | Touched by Corruption | Roleplay cues; no perks.                          | Minor unsettling aura.                                         |
+| 3–6              | Marked by Corruption  | Tier 1 Corrupted Perks; roll 2× Level d6/session. | -1 die social rolls with pure NPCs; dim lights; agitated animals. |
+| 7–10             | Deeply Corrupted      | Tier 2 Corrupted Perks; roll 2× Level d6/session. | -2 die social rolls; weakened in pure areas (-1 die).          |
+| 11–15            | Abyss-Bound           | Tier 3 Corrupted Perks; roll 2× Level d6/session. | -3 die social rolls; attract dark entities; pain in sanctified zones (-2 dice). |
 
 
-
-Corruption Level
-State
-Effects and Unlocks
-Social/Environmental Impact
-
-
-
-1–2
-Touched by Corruption
-Roleplay cues; no perks.
-Minor unsettling aura.
-
-
-3–6
-Marked by Corruption
-Tier 1 Corrupted Perks; roll 2× Level d6/session.
--1 die social rolls with pure NPCs; dim lights, agitated animals.
-
-
-7–10
-Deeply Corrupted
-Tier 2 Corrupted Perks; roll 2× Level d6/session.
--2 die social rolls; weakened in pure areas (-1 die).
-
-
-11–15
-Abyss-Bound
-Tier 3 Corrupted Perks; roll 2× Level d6/session.
--3 die social rolls; attract dark entities; pain in sanctified zones (-2 dice).
-
-
-Tier 1 Corrupted Perks (Corruption 3–6)
+### 4.4.2 Tier 1 Corrupted Perks (Corruption 3–6)
 These introduce corruption’s allure with minor benefits and risks.
-Summary Table: Tier 1 Corrupted Perks
+#### Summary Table: Tier 1 Corrupted Perks
 
-
-
-Perk Name
-Effect Summary
-Drawback Summary
-Frequency/Trigger
-
-
-
-Whispers in the Vein
-+1 die Rituals/Forbidden Knowledge near cursed objects.
--1 die social rolls with pure NPCs.
-Passive
-
-
-Seeping Hunger
-Absorb 2 HP near dying creature.
-DR 2 Will save or attack nearest creature.
-Once per scene
-
-
-Flesh-Warp Instinct
-+1 die Evasion below half HP.
--1 die social rolls with pure NPCs.
-Conditional
-
-
-Bonebite Grin
-Enemies make DR 2 Will save or Shaken.
--1 die social rolls with pure NPCs.
-As needed
-
-
-Whispered Insight
-+1 die Insight/Forbidden Knowledge for motives/secrets.
--1 die Concentration in bright/holy ground.
-Passive
-
-
-Tainted Vitality
-Reduce damage to 1 HP at 0 HP.
--1 die Persuasion with pure NPCs; 1 Sanity.
-Once per scene
-
-
-Abyssal Reflex
-+1 success to Evasion (1 SE).
--1 die next attack/skill until next turn.
-Once per short rest
-
-
-Bloodstained Sight
-+1 die Observation near blood (1 min).
-DR 2 Will save or fixate on blood; -1 die non-attacks.
-Once per scene
-
-
-Spectral Whisper
-+1 die Stealth in Spectral/obscured; sense spectrals (15 ft).
-1 Sanity per minute in Spectral.
-Passive
-
-
-Corrupted Surge
-+2 damage to next attack (1 Corruption/Sanity).
--1 die vs. Radiant/holy until short rest.
-Once per short rest
+| Perk Name           | Effect Summary                                                  | Drawback Summary                                     | Frequency/Trigger      |
+|---------------------|----------------------------------------------------------------|------------------------------------------------------|------------------------|
+| Whispers in the Vein| +1 die Rituals/Forbidden Knowledge near cursed objects.        | -1 die social rolls with pure NPCs.                  | Passive                |
+| Seeping Hunger      | Absorb 2 HP near a dying creature.                             | DR 2 Will save or attack nearest creature.           | Once per scene         |
+| Flesh-Warp Instinct | +1 die Evasion below half HP.                                  | -1 die social rolls with pure NPCs.                  | Conditional            |
+| Bonebite Grin       | Enemies make DR 2 Will save or become Shaken.                  | -1 die social rolls with pure NPCs.                  | As needed              |
+| Whispered Insight   | +1 die Insight/Forbidden Knowledge (motives/secrets).          | -1 die Concentration in bright/holy ground.          | Passive                |
+| Tainted Vitality    | Reduce damage; remain at 1 HP when dropped to 0 HP.            | -1 die Persuasion with pure NPCs; 1 Sanity.          | Once per scene         |
+| Abyssal Reflex      | +1 success to Evasion (costs 1 SE).                             | -1 die next attack/skill until next turn.            | Once per short rest    |
+| Bloodstained Sight  | +1 die Observation near blood (1 min).                          | DR 2 Will save or fixate; -1 die non-attacks.        | Once per scene         |
+| Spectral Whisper    | +1 die Stealth in Spectral/obscured; sense spectrals (15 ft).  | 1 Sanity per minute in Spectral.                     | Passive                |
+| Corrupted Surge     | +2 damage to next attack (spend 1 Corruption or 1 Sanity).     | -1 die vs. Radiant/holy until short rest.            | Once per short rest    |
 
 
 Detailed Perks
@@ -510,77 +202,22 @@ Abyssal ReflexEffect: As a Bonus Action, once per short rest, add +1 success to 
 Bloodstained SightEffect: As an Action, once per scene, focus on bloodsoaked terrain or bleeding creature (30 ft) for +1 die to Observation (1 minute).Cost/Drawback: DR 2 Will save or attack nearest bleeding creature; -1 die to non-attack actions if failed.Narrative Hook: Blood sharpens your senses but awakens a primal urge, tying to vampiric bloodlust.
 Spectral WhisperEffect: +1 die to Stealth in Spectral Realm or obscured terrain; sense spectral entities within 15 ft (3 squares).Cost/Drawback: 1 Sanity per minute in Spectral Realm beyond 1 minute per scene.Narrative Hook: You move like a ghost, but the Spectral Realm’s whispers fray your sanity.
 Corrupted SurgeEffect: As a Bonus Action, once per short rest, spend 1 Corruption or 1 Sanity for +2 damage to next attack.Cost/Drawback: -1 die to saves vs. Radiant/holy effects until short rest; 1 Corruption/Sanity.Narrative Hook: Corruption fuels a devastating strike, but Nosgoth’s balance rejects you.
-Tier 2 Corrupted Perks (Corruption 7–10)
+### 4.4.3 Tier 2 Corrupted Perks (Corruption 7–10)
 These amplify corruption’s power with significant risks.
-Summary Table: Tier 2 Corrupted Perks
+#### Summary Table: Tier 2 Corrupted Perks
 
-
-
-Perk Name
-Effect Summary
-Drawback Summary
-Frequency/Trigger
-
-
-
-Aberrant Surge
-Regain 2 HP on SE spend.
--1 die social rolls with pure NPCs.
-On SE spend
-
-
-Corruption Echo
-Repeat last spell effect.
-1 Sanity; -1 die vs. Radiant/holy until long rest.
-Once per session
-
-
-Host to the Void
-Immune to mind control.
-+1 Corruption per long rest; -1 die social rolls.
-Passive
-
-
-Blood Memory
-Absorb trait/ability from consumed corpse.
--1 die social rolls with pure NPCs.
-Within 1 hour
-
-
-Veil of the Damned
-10-ft mist cloud; +1 die Stealth, -1 enemy Observation.
--1 die vs. Radiant/holy until short rest; 1 Sanity.
-Once per short rest
-
-
-Hunger’s Blade
-Regain 2–4 HP on melee hit to bleeding/living.
-DR 2 Will save or attack bleeding ally.
-Once per turn
-
-
-Hylden’s Grasp
-Glyph roots enemies, 2 Corruption damage.
-+1 Corruption; 1 Sanity.
-Once per scene
-
-
-Soul Leech
-Steal 1 SE from damaged target (DR 2 Will).
-Non-corrupted healing -2 HP until long rest.
-Once per short rest
-
-
-Abyssal Echo
-Reroll failed save vs. magic; 2 Void damage to caster.
--1 die Insight until short rest; 1 Sanity.
-Once per scene
-
-
-Corrupted Ferocity
-Frenzy: +3 melee damage, 1 self-damage.
-Exhaustion: -1 die Might/Evasion until short rest.
-Once per short rest
+| Perk Name         | Effect Summary                                             | Drawback Summary                                   | Frequency/Trigger     |
+|-------------------|-------------------------------------------------------------|----------------------------------------------------|-----------------------|
+| Aberrant Surge    | Regain 2 HP when spending Soul Energy.                      | -1 die social rolls with pure NPCs.                | On SE spend           |
+| Corruption Echo   | Repeat last spell effect.                                   | 1 Sanity; -1 die vs. Radiant/holy until long rest. | Once per session      |
+| Host to the Void  | Immune to mind control.                                     | +1 Corruption per long rest; -1 die social rolls.  | Passive               |
+| Blood Memory      | Absorb trait/ability from consumed corpse (within 1 hour).  | -1 die social rolls with pure NPCs.                | Within 1 hour         |
+| Veil of the Damned| 10-ft mist cloud; +1 die Stealth; -1 enemy Observation.     | -1 die vs. Radiant/holy until short rest; 1 Sanity.| Once per short rest   |
+| Hunger’s Blade    | Regain 2–4 HP on melee hit to living/bleeding.              | DR 2 Will save or attack bleeding ally.            | Once per turn         |
+| Hylden’s Grasp    | Glyph roots enemies; 2 Corruption damage.                   | +1 Corruption; 1 Sanity.                           | Once per scene        |
+| Soul Leech        | Steal 1 SE from damaged target (DR 2 Will).                 | Non-corrupted healing -2 HP until long rest.       | Once per short rest   |
+| Abyssal Echo      | Reroll failed save vs. magic; 2 Void dmg to caster.         | -1 die Insight until short rest; 1 Sanity.         | Once per scene        |
+| Corrupted Ferocity| Frenzy: +3 melee damage; 1 self-damage per attack.          | Exhaustion: -1 die Might/Evasion until short rest. | Once per short rest   |
 
 
 Detailed Perks
@@ -594,89 +231,24 @@ Hylden’s GraspEffect: As an Action, once per scene, conjure a glyph (30 ft) af
 Soul LeechEffect: As a Bonus Action, once per short rest, target a damaged creature (15 ft). They make DR 2 Will save or take 3 Soul damage (bypasses Armor); you regain 1 SE.Cost/Drawback: Non-corrupted healing reduced by 2 HP until long rest.Narrative Hook: You siphon souls, your shadow writhing as you feed on stolen essence.
 Abyssal EchoEffect: Once per scene, reroll a failed save vs. magic with +1 die; if successful, caster takes 2 Void damage (bypasses Armor/resistances). Costs 1 Sanity.Cost/Drawback: -1 die to Insight until short rest; 1 Sanity.Narrative Hook: The Abyss deflects magic, but its whispers distort your reality.
 Corrupted FerocityEffect: As a Bonus Action, once per short rest, enter a frenzy (1 minute). Melee attacks deal +3 damage but cost 1 physical damage (bypasses Armor) per attack. Costs 1 Corruption or 2 Sanity.Cost/Drawback: Exhaustion: -1 die to Might/Evasion until short rest; 1 Corruption/2 Sanity.Narrative Hook: Corrupted rage sprouts bone-like protrusions, but your unhinged laughter alarms allies.
-Tier 3 Corrupted Perks (Corruption 11–15)
+### 4.4.4 Tier 3 Corrupted Perks (Corruption 11–15)
 These represent ultimate corruption, with devastating power and permanent consequences.
-Summary Table: Tier 3 Corrupted Perks
+#### Summary Table: Tier 3 Corrupted Perks
 
-
-
-Perk Name
-Effect Summary
-Drawback Summary
-Frequency/Trigger
-
-
-
-Living Curse
-+1 DR vs. death magic.
--2 die social rolls with pure NPCs.
-Passive
-
-
-Voidtongue
-Speak/command one forbidden entity.
-+1 Corruption; 1 Sanity.
-Once per session
-
-
-Embodiment of Decay
-Aura (1 tile) inflicts -1 die to enemy attacks.
--2 die social rolls with pure NPCs.
-Passive
-
-
-Eternal Host
-Rise at 1 HP after death if Corruption ≥6.
--2 die social rolls; +1 Corruption/death.
-On death
-
-
-Eye of the Abyss
-Ask a question; receive truthful vision.
-1 Sanity; -1 die Insight until long rest.
-Once per session
-
-
-The Rot Within
-Critical hit on you deals 2 Soul damage to attacker.
--2 die social rolls with pure NPCs.
-On crit hit
-
-
-Soulrend Dominion
-15-ft AoE Soul damage; regain SE.
-+1 Corruption; -2 die vs. Radiant/holy; spectral attention.
-Once per long rest
-
-
-Bloodforged Apotheosis
-Transform: +4 Blood damage, +5 temp HP/turn.
-Permanent warp; -2 die Persuasion; 4 self-damage.
-Once per short rest
-
-
-Hylden’s Rift
-10-ft zone: 4 Void damage, slow.
-+2 Corruption; -5 max HP until long rest; Hylden attention.
-Once per long rest
-
-
-Abyssal Pact
-Sacrifice 5 HP for +2 dice; regain on kills.
-+1 Corruption; -1 die Insight/Concentration.
-Once per scene
-
-
-Wraith’s Lament
-30-ft wail: Soul damage, no Reactions.
-+1 Corruption; extra Sanity in Spectral.
-Once per short rest
-
-
-Corrupted Ascension
-Fly speed; +3 Corruption damage; ignore terrain.
-Permanent mutation; -2 die social; exhaustion.
-Once per long rest
+| Perk Name               | Effect Summary                                                | Drawback Summary                                              | Frequency/Trigger     |
+|-------------------------|----------------------------------------------------------------|----------------------------------------------------------------|-----------------------|
+| Living Curse            | +1 DR vs. death magic.                                         | -2 die social rolls with pure NPCs.                            | Passive               |
+| Voidtongue              | Speak/command one forbidden entity.                            | +1 Corruption; 1 Sanity.                                       | Once per session      |
+| Embodiment of Decay     | Aura (1 tile) inflicts -1 die to enemy attacks.                | -2 die social rolls with pure NPCs.                            | Passive               |
+| Eternal Host            | Rise at 1 HP after death if Corruption ≥6.                     | -2 die social; +1 Corruption per death.                        | On death              |
+| Eye of the Abyss        | Ask a question; receive truthful vision.                       | 1 Sanity; -1 die Insight until long rest.                      | Once per session      |
+| The Rot Within          | On critical hit to you, attacker takes 2 Soul damage.          | -2 die social rolls with pure NPCs.                            | On crit hit           |
+| Soulrend Dominion       | 15-ft AoE Soul damage; regain SE.                              | +1 Corruption; -2 die vs. Radiant/holy; spectral attention.    | Once per long rest    |
+| Bloodforged Apotheosis  | Transform: +4 Blood damage; +5 temp HP/turn.                   | Permanent warp; -2 die Persuasion; 4 self-damage.              | Once per short rest   |
+| Hylden’s Rift           | 10-ft zone: 4 Void damage; slow.                               | +2 Corruption; -5 max HP until long rest; Hylden attention.    | Once per long rest    |
+| Abyssal Pact            | Sacrifice 5 HP for +2 dice; regain on kills.                   | +1 Corruption; -1 die Insight/Concentration.                    | Once per scene        |
+| Wraith’s Lament         | 30-ft wail: Soul damage; no Reactions.                         | +1 Corruption; extra Sanity in Spectral.                        | Once per short rest   |
+| Corrupted Ascension     | Fly speed; +3 Corruption damage; ignore terrain.               | Permanent mutation; -2 die social; exhaustion.                  | Once per long rest    |
 
 
 Detailed Perks
@@ -692,7 +264,7 @@ Hylden’s RiftEffect: As an Action, once per long rest, create a 10-ft (2 squar
 Abyssal PactEffect: As a Bonus Action, once per scene, sacrifice 5 HP for +2 dice to all rolls (1 minute). Regain 3 HP and 1 SE per enemy killed.Cost/Drawback: +1 Corruption; -1 die to Insight/Concentration until short rest.Narrative Hook: You offer vitality to the Abyss, gaining power but hearing its whispers.
 Wraith’s LamentEffect: As an Action, once per short rest, emit a 30-ft (6 squares) wail. Enemies make DR 3 Will save: 5 Soul damage (bypasses Armor) and no Reactions (1 round) on failure, 2 damage on success. Costs 2 SE, 2 Sanity.Cost/Drawback: +1 Corruption; 1 Sanity per minute in Spectral Realm beyond 1 minute until long rest.Narrative Hook: Your wail carries lost souls’ sorrow, but binds you to the Spectral Realm’s torment.
 Corrupted AscensionEffect: As an Action, once per long rest, gain fly speed (equal to movement), +3 Corruption damage (bypasses Armor), and ignore difficult terrain (1 minute). Costs 3 BP or 3 SE, 2 Corruption.Cost/Drawback: Permanent mutation (e.g., shadow wings); -2 die to social rolls with non-corrupted NPCs; exhaustion (-2 die Might/Evasion until long rest).Narrative Hook: You rise on corrupted currents, a blasphemy against Nosgoth’s balance, drawing Sarafan ire.
-Purification of Corruption
+## 4.8 Purification of Corruption
 Corruption is not eternal. Characters may seek purification through perilous means, each woven into Nosgoth’s lore. Success reduces Corruption Score, but failure risks deeper taint.
 1. Rituals of Purification
 Ancient rites cleanse corruption but require rare components (e.g., Pillar dust, untainted blood) and specific locations (e.g., holy sites).  
@@ -718,7 +290,7 @@ Introspective practices during weeks/months of downtime reduce Corruption slight
 Mechanics: Requires Will + Concentration, Soul + Religion, or Forbidden Knowledge checks (DR 2–3). Success reduces Corruption by 1 or grants +1 die vs. Corruption effects.  
 Narrative: Emphasizes internal struggle, with GM vignettes of inner demons or resolve.
 
-GM Guidance
+## 4.9 GM Guidance
 
 Balancing Perks: Cap total Universal Perks at 12 (including human bonuses) to prevent overload. Ensure Corrupted Perks’ drawbacks impact gameplay (e.g., social penalties trigger in key NPC interactions).
 Narrative Hooks: Use hooks to drive story arcs (e.g., Hylden noticing Hylden’s Rift users). Custom perks should match tier power levels and include drawbacks.
