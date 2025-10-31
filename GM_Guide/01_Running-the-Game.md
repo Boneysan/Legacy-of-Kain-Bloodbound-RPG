@@ -2,6 +2,21 @@
 
 This chapter covers the practical aspects of running *Legacy of Kain: Bloodbound RPG* sessions, from adjudicating rules to managing pacing and creating memorable moments.
 
+## At a glance
+- [1.1 Setting Difficulty Ratings (DR)](#11-setting-difficulty-ratings-dr)
+- [1.2 Adjudicating Advantage and Disadvantage](#12-adjudicating-advantage-and-disadvantage)
+- [1.3 Critical Success vs. Critical Hit](#13-critical-success-vs-critical-hit)
+- [1.4 Handling Pushing Rolls](#14-handling-pushing-rolls)
+- [1.5 Managing Corruption](#15-managing-corruption)
+- [1.6 Pacing Your Sessions](#16-pacing-your-sessions)
+- [1.7 The Rule of Cool](#17-the-rule-of-cool)
+- [1.8 Improvisation Tips](#18-improvisation-tips)
+- [1.9 Common Rulings](#19-common-rulings)
+- [1.10 When Players Surprise You](#110-when-players-surprise-you)
+- [1.11 Quick Reference: GM Calls](#111-quick-reference-gm-calls)
+
+> Terminology note: In combat, target Defense Value (DV). For checks/saves and environmental challenges, compare successes to Difficulty Rating (DR). “Armor” is flat damage mitigation. Some effects may bypass Armor (e.g., Force vs Physical), or interact with Soul/Soulfire as defined in the Player’s Handbook.
+
 ---
 
 ## 1.1 Setting Difficulty Ratings (DR)
@@ -14,7 +29,7 @@ The Difficulty Rating system is your primary tool for balancing challenges. Unde
 |----|-----------|-------------|---------------|
 | **0** | Trivial | Automatic success for anyone competent | Opening unlocked door, basic perception in clear conditions |
 | **1** | Simple | Trained individuals succeed reliably | Hiding in shadows, climbing with handholds, basic first aid |
-| **2** | Standard | The default for most challenges | Picking common locks, persuading neutral NPC, standard attack |
+| **2** | Standard | The default for most challenges | Picking common locks, persuading neutral NPC |
 | **3** | Challenging | Requires expertise or luck | Disarming magical trap, deceiving suspicious guard, resisting potent spell |
 | **4** | Severe | Near-impossible, legendary difficulty | Breaking ancient wards, surviving Elder God's attention, resisting fate itself |
 | **5+** | Mythic | Should require multiple attempts or special preparation | Altering prophecy, defeating Pillar guardian, resisting direct divine influence |
@@ -114,7 +129,7 @@ Understanding the distinction between these two mechanics is essential:
 - **Bypass Armor:** Ignore 1 or 2 points of target's Armor
 - **Tactical Advantage:** Create opening (target loses Reaction, ally gets advantage)
 
-**Example:** Critical Hit with a piercing weapon might deal +3 damage AND inflict Bleeding (2 damage/round).
+**Example:** Critical Hit with a piercing weapon might deal +3 damage OR inflict Bleeding (2 damage/round).
 
 ---
 
@@ -187,7 +202,7 @@ Make corruption visible and meaningful:
 - **NPC Reactions:** Fear, distrust, or unnatural attraction
 
 ### Purification
-See Chapter 6: Corruption Management for full details on purification methods.
+See Player's Handbook Chapter 8: Corruption for full details on purification methods.
 
 ---
 
@@ -357,7 +372,7 @@ If players completely upend your plans:
 
 ---
 
-## Quick Reference: GM Calls
+## 1.11 Quick Reference: GM Calls
 
 | Situation | Ruling |
 |-----------|--------|

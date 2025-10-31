@@ -257,24 +257,19 @@ Each damage type has specific associated status effects.
 - `09_Legendary-Entities.md` - 8 creatures (Legendary & Story-Bound) ✓ COMPLETE
 
 ### Lore Documentation
-- `World-Primer.md` - Overview of Nosgoth (empty, needs population)
-- `Lineage-Lore.md` - Cultural and origin stories
-- `Class-Lore.md` - Class backgrounds and philosophy
 
-### Source Documentation
-- `Source-Docs/Main-Rules` - Original source material
-- `Source-Docs/gms_guide` - GM guidance references
-- `Source-Docs/History_of_Nosgoth` - Lore and timeline
-- `Source-Docs/Monster_Manual` - Enemy stat blocks
 
----
+### Lore — Lineage Lore Population — Oct 31, 2025
+- Populated `lore/Lineage-Lore.md` using narrative material from `Source-Docs/Main-Rules` (Lineage Lore Compendium and Lineages).
+- Added H1, compact At-a-glance TOC, and per-lineage sections:
+   - Vampires (Razielim, Turelim, Dumahim, Zephonim)
+   - Wraiths; Humans (Sarafan, Nomads, Oracle-Blooded)
+   - Hylden-Blooded; Revenants; Unbound
+- Kept it flavor-only; added concise “Common threads” bullets for each lineage to guide NPCs, prejudices, and quest seeds.
 
+### Lore — Play Sidebars for Class & Lineage — Oct 31, 2025
 ## Current Development Status
 
-### Completed Systems ✓
-- Core dice mechanics (DR vs DV distinction)
-- Advantage/Disadvantage system (re-roll model)
-- Critical Success/Critical Hit mechanics (distinction clarified)
 - Corruption Pool system ("power at a price" model)
 - Status effects by damage type (13 damage types)
 - All 8 classes with 20-level progression
@@ -335,6 +330,15 @@ Each damage type has specific associated status effects.
 - 07_Equipment.md:
    - Added compact At-a-glance TOC; inserted first-use terminology note; applied 7.x numbering across weapons/armor/crafting/tactics; promoted plain labels to headings; converted Universal Armor list into a Markdown table.
 - Scope: Content unchanged apart from heading normalization and light cleanup. No rules or mechanics altered.
+
+### GM_Guide — Numbering & TOC Phase 1 — Oct 31, 2025
+- 01_Running-the-Game.md:
+   - Added compact At-a-glance TOC linking sections 1.1–1.11.
+   - Inserted brief first-use terminology note (DV for attacks, DR for checks/saves, Armor as flat mitigation; note on Force/Soul/Soulfire interactions pointing to PHB).
+   - Corrected DR Guidelines examples (removed erroneous "standard attack" under DR 2; DR is not used for attacks).
+   - Aligned Critical Hit example with "choose one" rule (replaced "AND" with "OR").
+   - Fixed cross-reference: "See Player's Handbook Chapter 8: Corruption" (was "Chapter 6: Corruption Management").
+   - Numbered final quick reference section as 1.11 for consistent navigation.
 
 ### GM_Guide Chapters Completed ✓
 1. **00_GM-Introduction.md** - GM philosophy, themes, tone, session structure, safety tools
@@ -446,6 +450,11 @@ Each damage type has specific associated status effects.
 - Combat procedures and initiative (09_Combat)
 - Environmental interaction rules (11_Realms-Terraign-Arcane-Power)
 - Perk formatting standardization (04_Perks.md has formatting issues preventing automated editing)
+
+### Lore — Class Lore Population — Oct 31, 2025
+- Populated `lore/Class-Lore.md` using narrative material from `Source-Docs/Main-Rules` (Class Lore Compendium).
+- Added H1, compact At-a-glance TOC, and per-class sections (Blood Knight, Soul Reaver, Shadowmancer, Sangromancer, Glyph Seeker, Dreadblade, Warden of Balance, Hylden Warlock).
+- Preserved Source-Docs flavor text; organized each class with brief “Common threads” bullets for quick reference. No mechanics included; this is flavor-only.
 
 ### Future Considerations for GM_Guide
 - Chapter 6: Corruption Management (detailed GM tracking and consequences)
