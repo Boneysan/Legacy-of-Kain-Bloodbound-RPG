@@ -2,6 +2,20 @@
 
 Nosgoth is a world of scarcity where traditional currency has collapsed. This chapter explains how to handle trade, equipment acquisition, and resource management in a barter-based economy.
 
+## At a glance
+- 4.1 The Collapse of Currency
+- 4.2 Barter System
+- 4.3 Factional Currencies
+- 4.4 Acquiring Equipment
+- 4.5 Determining Fair Exchanges
+- 4.6 Services as Currency
+- 4.7 Tracking Wealth and Resources
+- 4.8 Ancient Coins and Relics
+- 4.9 Example Transactions
+- 4.10 Quick Reference: Barter Values
+
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. For damage type interactions such as Force, Soul, and Soulfire, see Player's Handbook Chapters 5 (Spellcasting and Magic), 8 (Corruption), and 9 (Combat).
+
 ---
 
 ## 4.1 The Collapse of Currency
@@ -511,7 +525,7 @@ Use resource scarcity to:
 
 ---
 
-## Quick Reference: Barter Values
+## 4.10 Quick Reference: Barter Values
 
 ### Common Items (Simple Trade)
 - Iron weapon = 1-2 weeks food

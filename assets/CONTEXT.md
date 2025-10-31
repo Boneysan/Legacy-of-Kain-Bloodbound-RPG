@@ -363,6 +363,16 @@ Each damage type has specific associated status effects.
    - Fixed cross-reference: "See Player's Handbook Chapter 8: Corruption" (was "Chapter 6: Corruption Management").
    - Numbered final quick reference section as 1.11 for consistent navigation.
 
+### GM_Guide — Numbering & TOC Phase 2 — Oct 31, 2025
+- 02_Encounter-Design.md:
+   - Added compact At-a-glance TOC; inserted first-use terminology note (DV for attacks, DR for checks/saves, Armor as flat mitigation; Force/Soul/Soulfire pointers to PHB 5/8/9). Numbered final quick reference as 2.11.
+- 03_Character-Progression.md:
+   - Added compact At-a-glance TOC; inserted first-use terminology note; numbered the final quick reference as 3.12.
+- 04_Economy-and-Resources.md:
+   - Added compact At-a-glance TOC; inserted first-use terminology note; numbered the final quick reference as 4.10.
+- 05_NPC-Compendium.md:
+   - Added compact At-a-glance TOC; inserted first-use terminology note; numbered the final quick reference as 5.8.
+ - Cross-references verified against Player’s Handbook standardized chapter titles (5: Spellcasting and Magic; 8: Corruption; 9: Combat). No rule changes.
 ### GM_Guide Chapters Completed ✓
 1. **00_GM-Introduction.md** - GM philosophy, themes, tone, session structure, safety tools
 2. **01_Running-the-Game.md** - DR guidelines, advantage adjudication, session pacing, common rulings

@@ -2,6 +2,21 @@
 
 Creating balanced, engaging encounters is an art. This chapter provides tools and guidelines for crafting memorable combat and challenges in Nosgoth.
 
+## At a glance
+- 2.1 Understanding Threat Value
+- 2.2 Creature Threat Values
+- 2.3 Action Economy
+- 2.4 Environmental Factors
+- 2.5 Enemy Abilities and Synergies
+- 2.6 Encounter Pacing
+- 2.7 Boss Design
+- 2.8 Non-Combat Encounters
+- 2.9 Adjusting on the Fly
+- 2.10 Sample Encounters
+- 2.11 Quick Reference: Encounter Checklist
+
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. See Player's Handbook Chapters 5 (Spellcasting and Magic), 8 (Corruption), and 9 (Combat) for Force, Soul, and Soulfire details.
+
 ---
 
 ## 2.1 Understanding Threat Value
@@ -428,7 +443,7 @@ Reading your table and adjusting mid-encounter:
 
 ---
 
-## Quick Reference: Encounter Checklist
+## 2.11 Quick Reference: Encounter Checklist
 
 - [ ] Encounter has clear victory/defeat conditions
 - [ ] Enemy count appropriate for party size

@@ -2,6 +2,18 @@
 
 This chapter provides quick narrative references for major characters in Nosgoth. These are not full combat stat blocks, but rather guidelines for portraying these legendary figures and their potential involvement in your campaign.
 
+## At a glance
+- 5.1 Using Legendary NPCs
+- 5.2 Kain – The Scion of Balance
+- 5.3 Raziel – The Wraith Martyr
+- 5.4 Moebius – The Time Streamer
+- 5.5 The Elder God – The Wheel's Devourer
+- 5.6 Vorador – The Ancient Defiant
+- 5.7 Running Legendary NPC Encounters
+- 5.8 Quick Reference: NPC Summary
+
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. See Player's Handbook Chapters 5 (Spellcasting and Magic), 8 (Corruption), and 9 (Combat) for Force, Soul, and Soulfire details relevant when legendary NPCs influence or engage in conflict.
+
 ---
 
 ## 5.1 Using Legendary NPCs
@@ -456,7 +468,7 @@ A powerful, aristocratic vampire with green-tinged skin and ancient features. He
 
 ---
 
-## Quick Reference: NPC Summary
+## 5.8 Quick Reference: NPC Summary
 
 | Character | Primary Role | Power Level | Interaction Style | Campaign Use |
 |:----------|:-------------|:------------|:------------------|:-------------|

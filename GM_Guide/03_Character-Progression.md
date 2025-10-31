@@ -2,6 +2,22 @@
 
 This chapter covers how characters advance, gain milestones, and grow in power throughout a campaign.
 
+## At a glance
+- 3.1 Milestone Experience System
+- 3.2 Defining Milestones
+- 3.3 Pacing Advancement
+- 3.4 Communicating Milestones
+- 3.5 Level-Up Process
+- 3.6 Alternative Progression Methods
+- 3.7 Handling Different Player Attendance
+- 3.8 Tracking Campaign Progress
+- 3.9 Rewarding Non-Combat Progression
+- 3.10 Adjudicating Narrative Abilities
+- 3.11 Post-Campaign Progression
+- 3.12 Quick Reference: Milestone Checklist
+
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. For Force, Soul, and Soulfire interactions, see Player's Handbook Chapters 5 (Spellcasting and Magic), 8 (Corruption), and 9 (Combat).
+
 ---
 
 ## 3.1 Milestone Experience System
@@ -536,7 +552,7 @@ Even successful reality-bending can have costs:
 
 ---
 
-## Quick Reference: Milestone Checklist
+## 3.12 Quick Reference: Milestone Checklist
 
 **Consider Milestone When:**
 - [ ] Major quest arc completed
