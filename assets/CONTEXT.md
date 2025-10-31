@@ -1,6 +1,6 @@
 # Legacy of Kain: Bloodbound RPG - Context Document
 
-**Last Updated:** October 30, 2025  
+**Last Updated:** October 31, 2025  
 **System Version:** 1.0 (In Development)  
 **Game Type:** Dark Gothic Fantasy Tabletop RPG  
 **Setting:** Nosgoth
@@ -286,6 +286,22 @@ Each damage type has specific associated status effects.
 - **Project Context document (assets/CONTEXT.md - COMPLETE)**
 - **GM_Guide folder structure with 6 chapters (COMPLETE)**
 - **Monster_Manual folder structure with Introduction + 9 chapters (COMPLETE)**
+
+### Manual Consistency Audit — Oct 31, 2025
+- Standardized mitigation terminology across Monster Manual Chapters 01–06:
+   - Replaced "Damage Reduction" in stat blocks with "Armor".
+   - Converted DR used as mitigation (e.g., "DR 3 vs Physical") to "Armor" (e.g., "Armor 3 vs Physical").
+   - Left DR used for Difficulty Rating (saves/checks) unchanged.
+- Chapter 05 (Constructs & Automatons) specific fixes:
+   - Normalized all Armor lines (e.g., Clockwork Knight, Sentinel, Golem, Automaton, Soul-Tower, Scribe, Drone).
+   - Converted weak-point references from AC to DV (e.g., Sentinel core DV 8; Soul-Tower cores DV 7).
+   - Replaced one stray "DC" with "DR" on Command Word Vulnerability (Golem).
+   - Clarified Force damage bypass text (Glyph Blade now "ignores Physical Armor").
+- Clarified a few trait/ability texts to reference Armor instead of DR (e.g., Runic Shielding, Reality Shell, Phase Shift table).
+- Did not alter encounter balance or dice pools; changes are terminology-only.
+- Retained narrative uses of "wounded" to mean below half HP; "Bleeding" remains the explicit status effect.
+- Header styles in early chapters remain as originally authored (Attacks + Special Abilities), aligning with the Introduction’s allowance for mixed schema.
+ - Verification checks: no remaining "Damage Reduction" strings in 01–06; Chapter 05 shows no "Armor … DR" patterns; no stray "AC"/"DC" remain; DR saves preserved.
 
 ### GM_Guide Chapters Completed ✓
 1. **00_GM-Introduction.md** - GM philosophy, themes, tone, session structure, safety tools

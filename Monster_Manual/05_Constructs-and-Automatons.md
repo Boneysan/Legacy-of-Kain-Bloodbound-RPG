@@ -50,7 +50,7 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 3 (Physical saves), 0 (Mental saves, immune)
 - **Movement**: 5 tiles per turn (heavy and mechanical)
-- **Armor**: Heavy (blessed plate, DR 4 vs Physical, DR 2 vs Soul/Necrotic)
+- **Armor**: Heavy (blessed plate, Armor 4 vs Physical, Armor 2 vs Soul/Necrotic)
 
 **Attributes**:
 - Fury: 4
@@ -100,7 +100,7 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 - **No Retreat**: Knights fight until destroyed. They never flee.
 
 #### Loot
-- Blessed plate armor (Heavy, DR 4 Physical, DR 2 Soul) - **Trade Value**: 60 supplies
+- Blessed plate armor (Heavy, Armor 4 vs Physical, Armor 2 vs Soul) - **Trade Value**: 60 supplies
 - Silver longsword (+2 damage vs undead) - **Trade Value**: 40 supplies
 - Glyph core (damaged, but can be studied or sold) - **Trade Value**: 30 supplies, can be used in rituals or engineering
 - Silvered crossbow bolts (1d6 bolts) - **Trade Value**: 12 supplies
@@ -128,7 +128,7 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 - **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 4 (Physical saves), 3 (Magical saves), 0 (Mental, immune)
 - **Movement**: 6 tiles per turn (slow but unstoppable)
-- **Armor**: Massive (stone body, DR 5 vs Physical, DR 3 vs Elemental, DR 1 vs Magic)
+- **Armor**: Massive (stone body, Armor 5 vs Physical, Armor 3 vs Elemental, Armor 1 vs Magic)
 
 **Attributes**:
 - Fury: 6
@@ -171,11 +171,11 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 
 **Massive Size**: The Sentinel occupies a 3x3 tile space. It has 15-foot reach on melee attacks. Creatures can move through its space but treat it as difficult terrain.
 
-**Stone Armor**: The Sentinel has DR 5 vs Physical, DR 3 vs Elemental, and DR 1 vs Magic. Attacks with the "Armor Piercing" property reduce these by 2.
+**Stone Armor**: The Sentinel has Armor 5 vs Physical, Armor 3 vs Elemental, and Armor 1 vs Magic. Attacks with the "Armor Piercing" property reduce these by 2.
 
 **Guardian Protocol**: The Sentinel will not attack creatures who are not threatening the Pillar site or attempting to steal artifacts. Clever players can negotiate or withdraw to avoid combat. However, once combat begins, the Sentinel fights until destroyed or intruders flee the area.
 
-**Core Weakness**: Hidden within the Sentinel's chest is a magical core (AC 8, 30 HP). If a player can specifically target the core (requires a called shot with Disadvantage and DR 4), they can damage it directly. If the core is destroyed, the Sentinel collapses (instant death).
+**Core Weakness**: Hidden within the Sentinel's chest is a magical core (DV 8, 30 HP). If a player can specifically target the core (requires a called shot with Disadvantage and DR 4), they can damage it directly. If the core is destroyed, the Sentinel collapses (instant death).
 
 **Legendary Actions (3 per round)**: The Sentinel can use Legendary Actions at the end of another creature's turn. It has 3 Legendary Actions per round.
 - **Move**: The Sentinel moves up to half its movement speed.
@@ -220,7 +220,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 - **Defense Value (DV)**: 3
 - **Difficulty Rating (DR)**: 2 (Physical saves), 1 (Magical saves), 0 (Mental, immune)
 - **Movement**: 4 tiles per turn (slow and lumbering)
-- **Armor**: Medium (stone/clay body, DR 3 vs Physical, DR 1 vs Elemental)
+- **Armor**: Medium (stone/clay body, Armor 3 vs Physical, Armor 1 vs Elemental)
 
 **Attributes**:
 - Fury: 3
@@ -257,7 +257,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 
 **Slow but Steady**: The Golem cannot be knocked Prone, Grappled, or moved against its will (too heavy and stable).
 
-**Command Word Vulnerability**: If a character knows the Golem's command word (requires Arcane Lore or research), they can deactivate it with a DC 3 Focus + Arcane Lore roll. The Golem shuts down for 1 minute (or until reactivated).
+**Command Word Vulnerability**: If a character knows the Golem's command word (requires Arcane Lore or research), they can deactivate it with a DR 3 Focus + Arcane Lore roll. The Golem shuts down for 1 minute (or until reactivated).
 
 **Mindless Obedience**: The Golem follows the last order it was given, even if centuries old. Clever players can convince it they're authorized by the "master" (requires Persuasion or Deception, DR 3).
 
@@ -273,7 +273,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 - Command word scroll (if the golem's creator left records) - **Trade Value**: 15 supplies, allows control of similar golems
 
 #### Scaling Options
-**Reinforced Golem** (Elite, TV 2): +15 HP, increase Fury to 4, DR to 4. Add "Crushing Grip" ability (Grapple attack, deals 4 automatic damage per turn to grappled target).
+**Reinforced Golem** (Elite, TV 2): +15 HP, increase Fury to 4, DV to 4. Add "Crushing Grip" ability (Grapple attack, deals 4 automatic damage per turn to grappled target).
 
 ---
 
@@ -295,7 +295,7 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 2 (Physical saves), 3 (Soul saves), 1 (Mental saves)
 - **Movement**: 9 tiles per turn (very fast, quadruped)
-- **Armor**: Medium (iron frame + tough hide, DR 2 vs Physical, DR 1 vs Soul)
+- **Armor**: Medium (iron frame + tough hide, Armor 2 vs Physical, Armor 1 vs Soul)
 
 **Attributes**:
 - Fury: 4
@@ -372,7 +372,7 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 - **Defense Value (DV)**: 7
 - **Difficulty Rating (DR)**: 3 (all saves), 0 (Mental, immune)
 - **Movement**: 7 tiles per turn (agile)
-- **Armor**: Medium (arcane plating, DR 3 vs Physical, DR 4 vs Magic)
+- **Armor**: Medium (arcane plating, Armor 3 vs Physical, Armor 4 vs Magic)
 
 **Attributes**:
 - Fury: 3
@@ -391,7 +391,7 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 **Glyph Blade** (Fury 3 + Precision Combat 4 = 7d6)
 - Range: Melee
 - Damage: 6 Physical + 3 Force damage
-- Effect: The blade is wreathed in glyphs. It ignores armor DR (Force damage bypasses Physical armor). The Automaton can make two Glyph Blade attacks per turn.
+- Effect: The blade is wreathed in glyphs. It ignores Physical Armor (Force damage bypasses Physical Armor). The Automaton can make two Glyph Blade attacks per turn.
 
 **Glyph Bolt** (Soul 5 + Glyph Magic 5 = 10d6, costs 2 SE)
 - Range: 50 feet
@@ -424,7 +424,7 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 
 #### Loot
 - Glyph core (pulsing with arcane energy) - **Trade Value**: 70 supplies, can be used to enchant items or learn advanced glyph magic
-- Arcane plating (DR 3 Physical, DR 4 Magic) - **Trade Value**: 50 supplies, can be repurposed into armor
+- Arcane plating (Armor 3 vs Physical, Armor 4 vs Magic) - **Trade Value**: 50 supplies, can be repurposed into armor
 - Living glyph scroll (contains 1d3 glyphs that can be studied) - **Trade Value**: 40 supplies, teaches glyph spells or rituals
 - Command cipher (allows control of other automatons, if deciphered) - **Trade Value**: 60 supplies (or story leverage)
 
@@ -451,7 +451,7 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 - **Defense Value (DV)**: 4 (large target, slow)
 - **Difficulty Rating (DR)**: 5 (Physical saves), 4 (Magical saves), 0 (Mental, immune)
 - **Movement**: 4 tiles per turn (slow but unstoppable)
-- **Armor**: Massive (bio-metal plating, DR 6 vs Physical, DR 4 vs Elemental, DR 2 vs Soul)
+- **Armor**: Massive (bio-metal plating, Armor 6 vs Physical, Armor 4 vs Elemental, Armor 2 vs Soul)
 
 **Attributes**:
 - Fury: 7
@@ -494,12 +494,12 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 
 **Soul-Powered Regeneration**: The Tower regains 15 HP at the start of each of its turns (fueled by trapped souls). This regeneration can only be stopped by destroying one of its three **Soul Cores** (see below).
 
-**Soul Cores** (3 cores, each has AC 7, 40 HP): The Tower has three soul cores embedded in its body (chest, back, and head). Each core is a separate target that must be attacked individually (requires a called shot with Disadvantage). When a core is destroyed:
+**Soul Cores** (3 cores, each has DV 7, 40 HP): The Tower has three soul cores embedded in its body (chest, back, and head). Each core is a separate target that must be attacked individually (requires a called shot with Disadvantage). When a core is destroyed:
 - The Tower loses 50 HP immediately (backlash).
 - Soul-Powered Regeneration is reduced by 5 HP per turn.
 - When all three cores are destroyed, the Tower's regeneration stops, and it loses its final 50 HP (collapsing).
 
-**Siege Armor**: The Tower has DR 6 vs Physical, DR 4 vs Elemental, and DR 2 vs Soul. Attacks with "Armor Piercing" reduce these by 3.
+**Siege Armor**: The Tower has Armor 6 vs Physical, Armor 4 vs Elemental, and Armor 2 vs Soul. Attacks with "Armor Piercing" reduce these by 3.
 
 **Legendary Actions (4 per round)**: The Soul-Tower can use Legendary Actions at the end of another creature's turn. It has 4 Legendary Actions per round.
 - **Move**: The Tower moves up to half its movement speed.
@@ -545,7 +545,7 @@ Scribes are valuable sources of information. They can answer questions about the
 - **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 2 (Physical saves), 3 (Magical saves), 0 (Mental, immune)
 - **Movement**: 6 tiles per turn
-- **Armor**: Light (bronze frame, DR 2 vs Physical, DR 3 vs Magic)
+- **Armor**: Light (bronze frame, Armor 2 vs Physical, Armor 3 vs Magic)
 
 **Attributes**:
 - Fury: 2
@@ -622,7 +622,7 @@ Drones are often the first encounter players have with Hylden technology. Their 
 - **Defense Value (DV)**: 5 (small and fast)
 - **Difficulty Rating (DR)**: 1 (Physical saves), 0 (Mental, immune)
 - **Movement**: 4 tiles per turn (ground), 10 tiles per turn (flying)
-- **Armor**: None (obsidian shell, but no mechanical DR)
+- **Armor**: None (obsidian shell, but no mitigation)
 
 **Attributes**:
 - Fury: 2

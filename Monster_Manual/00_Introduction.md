@@ -58,12 +58,15 @@ Each creature entry includes:
 Brief description of the creature's nature, origins, and role in Nosgoth.
 
 **Statistics**
-- **HP:** Hit Points
+- **HP / Health:** Hit Points (some chapters label this as Health)
 - **DV:** Defense Value (calculated as 1 + higher of Shadow or Will)
-- **Damage Reduction (DR):** Armor or natural resistance
+- **DR / Armor:** Damage Reduction or Armor (some chapters label DR as Armor)
 - **Movement:** Speed in feet (divide by 5 for squares)
 - **Attributes:** Fury, Soul, Shadow, Will, Focus, Blood
+- **Resources:** Soul Energy (SE), Blood Points (BP) when applicable
 - **Skills:** Relevant trained skills
+
+Note on defenses: In earlier chapters, attacks often roll against a single DV. In later chapters, some attacks target specific defenses or saves such as Dodge/Parry (Agility vs. melee), Agility (area effects), or Will (mental/spiritual effects). Treat these as targeted defense checks using the indicated attribute instead of DV.
 
 **Attacks & Abilities**
 - **Primary Attack:** Name, dice pool, damage, special effects

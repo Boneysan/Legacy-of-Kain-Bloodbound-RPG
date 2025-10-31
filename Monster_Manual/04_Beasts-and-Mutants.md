@@ -117,7 +117,7 @@ Drakes are solitary hunters, but mated pairs will defend their nests to the deat
 - **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 2 (Physical saves), 1 (Mental saves)
 - **Movement**: 6 tiles per turn (ground), 10 tiles per turn (flying)
-- **Armor**: Heavy (scales, DR 3 vs Physical, DR 1 vs Elemental)
+- **Armor**: Heavy (scales, Armor 3 vs Physical, Armor 1 vs Elemental)
 
 **Attributes**:
 - Fury: 4
@@ -151,7 +151,7 @@ Drakes are solitary hunters, but mated pairs will defend their nests to the deat
 #### Abilities
 **Flight**: The Drake can fly, ignoring ground-based obstacles and terrain. While flying, melee attackers have Disadvantage unless they can reach the Drake.
 
-**Armored Scales**: The Drake has DR 3 vs Physical damage and DR 1 vs Elemental damage. Attacks with the "Armor Piercing" property ignore this.
+**Armored Scales**: The Drake has Armor 3 vs Physical damage and Armor 1 vs Elemental damage. Attacks with the "Armor Piercing" property ignore this.
 
 **Territorial Roar**: Once per encounter, the Drake can roar intimidatingly. All enemies within 30 feet must pass a DR 2 Will save or be **Frightened** (Disadvantage on attacks, cannot willingly move closer to the Drake) for 2 rounds.
 
@@ -248,7 +248,7 @@ Consuming Blight-Boar meat causes illness in mortals. Even vampires find their b
 - **Defense Value (DV)**: 3
 - **Difficulty Rating (DR)**: 2 (Physical saves, tough), 0 (Mental saves, mindless)
 - **Movement**: 7 tiles per turn (charging boar)
-- **Armor**: Light (thick hide, DR 1 vs Physical)
+- **Armor**: Light (thick hide, Armor 1 vs Physical)
 
 **Attributes**:
 - Fury: 4
@@ -381,7 +381,7 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 - **Defense Value (DV)**: 4 (large target, slow)
 - **Difficulty Rating (DR)**: 3 (Physical saves, tough), 1 (Mental saves, dumb)
 - **Movement**: 6 tiles per turn (slow and heavy)
-- **Armor**: Heavy (stone-like skin, DR 3 vs Physical, DR 1 vs Elemental)
+- **Armor**: Heavy (stone-like skin, Armor 3 vs Physical, Armor 1 vs Elemental)
 
 **Attributes**:
 - Fury: 5
@@ -417,7 +417,7 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 
 **Size: Large**: The Troll occupies a 2x2 tile space. It has 10-foot reach on melee attacks. Creatures can move through its space but treat it as difficult terrain.
 
-**Thick Hide**: The Troll has DR 3 vs Physical damage and DR 1 vs Elemental damage.
+**Thick Hide**: The Troll has Armor 3 vs Physical damage and Armor 1 vs Elemental damage.
 
 **Limited Intelligence**: The Troll has Disadvantage on Focus and Will-based rolls. It's easily tricked or distracted by clever players.
 
@@ -455,7 +455,7 @@ Despite their fearsome appearance, Bramblehide Bears are still animals. They can
 - **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 3 (Physical saves), 1 (Mental saves)
 - **Movement**: 7 tiles per turn
-- **Armor**: Medium (bramble hide, DR 2 vs Physical, creatures that attack in melee take 2 Physical damage from thorns)
+- **Armor**: Medium (bramble hide, Armor 2 vs Physical, creatures that attack in melee take 2 Physical damage from thorns)
 
 **Attributes**:
 - Fury: 5

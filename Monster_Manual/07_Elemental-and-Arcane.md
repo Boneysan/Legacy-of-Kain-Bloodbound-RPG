@@ -264,15 +264,15 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 ### Tactics & Strategy
 
-**For Players:** This is a battle of attrition and positioning. Staying out of the Sanguine Vortex is paramount. Ranged attackers will need to find a way to get clear shots, either by dispelling the magical storm or by getting dangerously close. Inflicting Fire or Lightning damage is the most effective way to bring it down quickly. It's critical to stop anyone from being Wounded, as this fuels the cyclone's most dangerous ability. Healers must be protected.
+**For Players:** This is a battle of attrition and positioning. Staying out of the Sanguine Vortex is paramount. Ranged attackers will need to find a way to get clear shots, either by dispelling the magical storm or by getting dangerously close. Inflicting Fire or Lightning damage is the most effective way to bring it down quickly. It's critical to stop anyone from **Bleeding**, as this fuels the cyclone's most dangerous ability. Healers must be protected.
 
-**For the GM:** The cyclone is a battlefield controller. Its primary function is to disrupt the party's formation and create a hazardous arena. Use its pull effect to drag weaker characters into the vortex. Remember that it is mindless; it will always target the closest wounded creature with Vitality Drain, which can be used by clever players to bait it. Its non-magical physical immunity means martial characters will need magical weapons or alternative strategies to contribute effectively.
+**For the GM:** The cyclone is a battlefield controller. Its primary function is to disrupt the party's formation and create a hazardous arena. Use its pull effect to drag weaker characters into the vortex. Remember that it is mindless; it will always target the closest **Bleeding** creature with **Hemorrhage**, which can be used by clever players to bait it. Its non-magical physical immunity means martial characters will need magical weapons or alternative strategies to contribute effectively.
 
 ---
 
 ### Loot & Rewards
 
-- **Corrupted Storm Heart:** A fist-sized chunk of ice that never melts and constantly weeps a thin, red fluid. It radiates both cold and necrotic energy. Can be used to create a weapon that has a chance to inflict the Wounded status, or armor that provides Cold Resistance.
+- **Corrupted Storm Heart:** A fist-sized chunk of ice that never melts and constantly weeps a thin, red fluid. It radiates both cold and necrotic energy. Can be used to create a weapon that has a chance to inflict the **Bleeding** status, or armor that provides Cold Resistance.
 - **Essence of the Vortex:** A swirling, contained wind. Can be used in a ritual to create a minor, temporary weather effect (e.g., fog, rain, light snow).
 - **Vampiric Ice Shard:** A single, perfectly preserved shard from the cyclone. Can be crushed to cast a single-target spell that deals Cold damage and grants the caster temporary health equal to the damage dealt.
 
@@ -280,8 +280,8 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 ### Scaling Options
 
-- **Threat Value 17 (Deadly):** Increase Health to 150 and Armor to 7. The **Ichorous Vortex** aura is now 30ft. **Vitality Drain** no longer requires the target to be Wounded. Gains a new reaction: **Flash Freeze**. When the cyclone takes Fire damage, it can use its reaction to instantly create a 10ft radius burst of ice around the attacker. The attacker must make an Agility save (DC 16) or become Restrained (frozen in place) until the end of their next turn.
-- **Threat Value 20 (Legendary):** As above, but gains Legendary Actions (2 per round). It can use **Flensing Shards** (1 action) or **Move** up to its speed without provoking opportunity attacks (1 action). The pull effect of its **Ichorous Vortex** is now a contested Fury vs. Fury check, and on a failure, the target is also knocked prone.
+- **Threat Value 17 (Deadly):** Increase Health to 150 and Armor to 7. The **Sanguine Vortex** aura is now 30ft. **Hemorrhage** no longer requires the target to be Bleeding. Gains a new reaction: **Flash Freeze**. When the cyclone takes Fire damage, it can use its reaction to instantly create a 10ft radius burst of ice around the attacker. The attacker must make an Agility save (DC 16) or become Restrained (frozen in place) until the end of their next turn.
+- **Threat Value 20 (Legendary):** As above, but gains Legendary Actions (2 per round). It can use **Flensing Shards** (1 action) or **Move** up to its speed without provoking opportunity attacks (1 action). The pull effect of its **Sanguine Vortex** is now a contested Fury vs. Fury check, and on a failure, the target is also knocked prone.
 
 ---
 
@@ -371,7 +371,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 ### Scaling Options
 
 - **Threat Value 13 (Major):** Increase Health to 120 and Armor to 8. **Hoarfrost Axe** now deals 15 Physical + 6 Cold damage. The range of **Glacial Slam** increases to a 20ft cone. Gains a new aura: **Rimefrost Aura (5ft)** - creatures starting their turn in the aura take 3 Cold damage and cannot take reactions.
-- **Threat Value 17 (Deadly):** As above, but its **Vengeful Pursuit** is now more potent. It can use its reaction to make a **Frostblade Strike** attack against its Intruder if they try to move away from it. It also gains one Legendary Resistance, allowing it to succeed on a saving throw it would have failed.
+- **Threat Value 17 (Deadly):** As above, but its **Vengeful Pursuit** is now more potent. It can use its reaction to make a **Hoarfrost Axe** attack against its chosen target if they try to move away from it. It also gains one Legendary Resistance, allowing it to succeed on a saving throw it would have failed.
 
 ---
 

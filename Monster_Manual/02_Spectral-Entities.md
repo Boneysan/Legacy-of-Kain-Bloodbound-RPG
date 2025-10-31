@@ -50,7 +50,7 @@ Echo Serpents are the spectral remnants of great serpents that died in places of
 ### Statistics
 - **HP:** 20
 - **DV:** 4 (1 + Shadow 3)
-- **Damage Reduction:** Special (Incorporeal)
+- **Armor:** Special (Incorporeal)
 - **Movement:** 40 feet (8 squares), Climb 40 feet
 - **Attributes:** Fury 3, Soul 3, Shadow 3, Will 2, Focus 3, Blood 0
 - **Skills:** Stealth 4, Observation 3
@@ -100,7 +100,7 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 ### Statistics
 - **HP:** 32
 - **DV:** 5 (1 + Shadow 4)
-- **Damage Reduction:** Special (Incorporeal)
+- **Armor:** Special (Incorporeal)
 - **Movement:** 40 feet (8 squares), Fly 40 feet (hover)
 - **Attributes:** Fury 2, Soul 4, Shadow 4, Will 4, Focus 3, Blood 0
 - **Skills:** Deception 4, Intimidation 3, Stealth 4
@@ -161,7 +161,7 @@ Soul-Eater Shades are manifestations of pure hunger from the Spectral Realm. The
 ### Statistics
 - **HP:** 24
 - **DV:** 4 (1 + Shadow 3)
-- **Damage Reduction:** Special (Incorporeal)
+- **Armor:** Special (Incorporeal)
 - **Movement:** 30 feet (6 squares), Fly 30 feet (hover)
 - **Attributes:** Fury 3, Soul 4, Shadow 3, Will 3, Focus 2, Blood 0
 - **Skills:** None (acts on pure instinct)
@@ -214,7 +214,7 @@ Spectral wolves that hunt in packs across the Material and Spectral Realms. Thei
 ### Statistics
 - **HP:** 12
 - **DV:** 3 (1 + Shadow 2)
-- **Damage Reduction:** Special (Incorporeal)
+- **Armor:** Special (Incorporeal)
 - **Movement:** 50 feet (10 squares)
 - **Attributes:** Fury 3, Soul 2, Shadow 2, Will 1, Focus 2, Blood 0
 - **Skills:** Stealth 2, Perception 2
@@ -255,7 +255,7 @@ Silent Mourners are souls bound to places of great tragedy—battlefields, execu
 ### Statistics
 - **HP:** 26
 - **DV:** 4 (1 + Will 3)
-- **Damage Reduction:** Special (Incorporeal)
+- **Armor:** Special (Incorporeal)
 - **Movement:** 25 feet (5 squares), Fly 25 feet (hover)
 - **Attributes:** Fury 1, Soul 4, Shadow 3, Will 3, Focus 4, Blood 0
 - **Skills:** Intimidation 3
@@ -308,7 +308,7 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 ### Statistics
 - **HP:** 40
 - **DV:** 6 (1 + Shadow 5)
-- **Damage Reduction:** Special (Variable)
+- **Armor:** Special (Variable)
 - **Movement:** 45 feet (9 squares)
 - **Attributes:** Fury 4, Soul 3, Shadow 5, Will 3, Focus 4, Blood 2
 - **Skills:** Athletics 3, Stealth 5
@@ -330,7 +330,7 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 
 ### Special Abilities
 **Phase Shift:** At start of each of its turns, roll 1d6:
-- **1-2:** Fully Material (vulnerable to physical damage, immune to spectral attacks, has DR 2)
+- **1-2:** Fully Material (vulnerable to physical damage, immune to spectral attacks, has Armor 2)
 - **3-4:** Partially phased (resistant to all damage, takes half from everything)
 - **5-6:** Fully Spectral (incorporeal, immune to physical damage, vulnerable to Radiant)
 
@@ -367,7 +367,7 @@ Gravewind Entities are ancient spirits of wind and death, formed in places where
 ### Statistics
 - **HP:** 75
 - **DV:** 6 (1 + Shadow 5)
-- **Damage Reduction:** Special (Incorporeal + Resistant)
+- **Armor:** Special (Incorporeal + Resistant)
 - **Movement:** Fly 60 feet (12 squares), hover
 - **Attributes:** Fury 3, Soul 5, Shadow 5, Will 4, Focus 3, Blood 0
 - **Skills:** Intimidation 5, Concentration 4

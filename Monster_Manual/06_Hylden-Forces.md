@@ -50,7 +50,7 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 - **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 3 (Physical and Will saves), 2 (other saves)
 - **Movement**: 7 tiles per turn
-- **Armor**: Medium (bio-tempered flesh, DR 2 vs Physical, immune to Spectral damage)
+- **Armor**: Medium (bio-tempered flesh, Armor 2 vs Physical, immune to Spectral damage)
 
 **Attributes**:
 - Fury: 4
@@ -84,7 +84,7 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 #### Abilities
 **Hylden Nature**: Immune to Spectral effects, possession, and mind control (already possessed). Resistant to Soul damage (half damage). Vulnerable to Radiant damage (takes +2 damage, the light harms the possessing entity).
 
-**Bio-Tempered Flesh**: The host's body has been enhanced by Hylden biomancy. It has DR 2 vs Physical damage and does not need to eat or sleep (the Hylden sustains it).
+**Bio-Tempered Flesh**: The host's body has been enhanced by Hylden biomancy. It has Armor 2 vs Physical damage and does not need to eat or sleep (the Hylden sustains it).
 
 **Tactical Coordination**: When within 20 feet of another Hylden creature, the Shock Trooper gains +1 die on attack rolls (Hylden share tactical data telepathically).
 
@@ -128,7 +128,7 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 - **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 4 (Will and Soul saves), 2 (Physical saves)
 - **Movement**: 5 tiles per turn (frail host)
-- **Armor**: Light (grafted bio-plates, DR 1 vs Physical, immune to Spectral damage)
+- **Armor**: Light (grafted bio-plates, Armor 1 vs Physical, immune to Spectral damage)
 
 **Attributes**:
 - Fury: 2
@@ -207,7 +207,7 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 - **Defense Value (DV)**: 3
 - **Difficulty Rating (DR)**: 2 (Physical saves), 0 (Mental saves, mindless)
 - **Movement**: 6 tiles per turn (lurching gait)
-- **Armor**: Medium (fused flesh, DR 2 vs Physical)
+- **Armor**: Medium (fused flesh, Armor 2 vs Physical)
 
 **Attributes**:
 - Fury: 4
@@ -230,7 +230,7 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 **Corrosive Bile** (Fury 4 + Spew 2 = 6d6, Recharge 5-6)
 - Range: 15-foot cone
 - Damage: 5 Acid damage to all creatures in the cone
-- Effect: Affected creatures' armor DR is reduced by 1 for 3 rounds (corrosive effect).
+- Effect: Affected creatures' Armor is reduced by 1 for 3 rounds (corrosive effect).
 
 #### Abilities
 **Bio-Construct**: Immune to fear, charm, poison, disease, and mental effects (no mind of its own). Does not need to eat, sleep, or breathe.
@@ -354,7 +354,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 - **Defense Value (DV)**: 7
 - **Difficulty Rating (DR)**: 4 (Shadow and Will saves), 3 (Physical saves)
 - **Movement**: 9 tiles per turn (enhanced agility)
-- **Armor**: Light (bio-enhanced skin, DR 2 vs Physical, immune to Spectral damage)
+- **Armor**: Light (bio-enhanced skin, Armor 2 vs Physical, immune to Spectral damage)
 
 **Attributes**:
 - Fury: 4
@@ -433,7 +433,7 @@ They're strategic thinkers, not frontline fighters. They open rifts to bring in 
 - **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 5 (Will and Soul saves), 3 (Physical saves)
 - **Movement**: 6 tiles per turn
-- **Armor**: Medium (dimensional anchors, DR 2 vs Physical, DR 3 vs Magic, immune to Spectral damage)
+- **Armor**: Medium (dimensional anchors, Armor 2 vs Physical, Armor 3 vs Magic, immune to Spectral damage)
 
 **Attributes**:
 - Fury: 2
@@ -516,7 +516,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 5 (all saves)
 - **Movement**: 6 tiles per turn (floats above ground)
-- **Armor**: Heavy (reality shell, DR 3 vs Physical, DR 5 vs Magic, immune to Spectral damage)
+- **Armor**: Heavy (reality shell, Armor 3 vs Physical, Armor 5 vs Magic, immune to Spectral damage)
 
 **Attributes**:
 - Fury: 3
@@ -554,7 +554,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 
 **Telepathic Coordination**: All Hylden allies within 100 feet of the Oracle gain +2 dice on all rolls (the Oracle coordinates their actions telepathically). If the Oracle is killed, all Hylden allies lose this bonus and must pass a DR 4 Will save or be **Stunned** for 1 round (psychic backlash).
 
-**Reality Shell**: The Oracle is surrounded by a shell of warped reality. They have DR 3 vs Physical and DR 5 vs Magic. Additionally, ranged attacks against the Oracle have Disadvantage (projectiles curve around them).
+**Reality Shell**: The Oracle is surrounded by a shell of warped reality. They have Armor 3 vs Physical and Armor 5 vs Magic. Additionally, ranged attacks against the Oracle have Disadvantage (projectiles curve around them).
 
 **Prophecy Sight**: The Oracle can see 3 rounds into the future. They have Advantage on all Defense rolls (they see attacks coming before they happen).
 
@@ -602,7 +602,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 - **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 4 (Will saves), 3 (other saves)
 - **Movement**: 6 tiles per turn
-- **Armor**: Heavy (tormentor's plate, DR 3 vs Physical, immune to Spectral damage)
+- **Armor**: Heavy (tormentor's plate, Armor 3 vs Physical, immune to Spectral damage)
 
 **Attributes**:
 - Fury: 4
@@ -654,7 +654,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 
 #### Loot
 - Barbed chain (weapon, 15-foot reach, deals +2 damage when Grappling) - **Trade Value**: 45 supplies
-- Tormentor's plate (Heavy armor, DR 3 Physical, grants +1 die on Intimidation) - **Trade Value**: 60 supplies
+- Tormentor's plate (Heavy armor, Armor 3 Physical, grants +1 die on Intimidation) - **Trade Value**: 60 supplies
 - Psychic prison shard (can trap one creature's consciousness, one-time use) - **Trade Value**: 70 supplies, dangerous item
 - Suffering essence (crystallized pain, harvested by the Warden) - **Trade Value**: 40 supplies, used in dark rituals or alchemy
 

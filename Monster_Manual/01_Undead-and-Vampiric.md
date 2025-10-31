@@ -18,12 +18,12 @@ Feralslave Ghouls are the remains of mortals who died in agony, their souls too 
 ### Statistics
 - **HP:** 8
 - **DV:** 2 (1 + Shadow 1)
-- **Damage Reduction:** 0
+- **Armor:** 0
 - **Movement:** 25 feet (5 squares)
 - **Attributes:** Fury 2, Soul 0, Shadow 1, Will 1, Focus 0, Blood 1
 - **Skills:** None (act on instinct)
 
-### Attacks
+### Attacks & Abilities
 **Clawing Grasp** (Action)
 - **Dice Pool:** Fury 2 + 0 = 2d6
 - **Damage:** 3 physical (Slashing)
@@ -40,7 +40,7 @@ Feralslave Ghouls are the remains of mortals who died in agony, their souls too 
 
 **Death Throes:** When reduced to 0 HP, makes one final Clawing Grasp attack as a Reaction.
 
-### Tactics
+### Tactics & Strategy
 Ghouls rush the nearest living creature mindlessly. They use Feral Pack to swarm isolated targets and grapple them for the killing bite. No strategy, just hunger.
 
 ### Loot (Optional)
@@ -48,7 +48,7 @@ Ghouls rush the nearest living creature mindlessly. They use Feral Pack to swarm
 - Occasionally clutching old coins (1d6 ancient coins)
 - Ghoul flesh (used in necromantic rituals, disgusting)
 
-### Scaling
+### Scaling Options
 - **Veteran Ghoul (Standard, TV 1):** HP 15, DV 3, +1 to all attributes, gains Diseased Bite (inflicts Weakened on hit)
 - **Ghoul Alpha (Elite, TV 2):** HP 25, DV 4, Fury 3, commands pack tactics, all ghouls within 30 feet act on its initiative
 
@@ -66,7 +66,7 @@ Not all vampires retain their nobility and cunning. Those who give in completely
 ### Statistics
 - **HP:** 35
 - **DV:** 5 (1 + Shadow 4)
-- **Damage Reduction:** 2 (supernatural resilience)
+- **Armor:** 2 (supernatural resilience)
 - **Movement:** 40 feet (8 squares), Climb 30 feet
 - **Attributes:** Fury 4, Soul 2, Shadow 4, Will 2, Focus 3, Blood 4
 - **Skills:** Athletics 3, Observation 2, Stealth 3
@@ -130,7 +130,7 @@ Revenants are the restless dead bound to unfinished purpose. Unlike mindless und
 ### Statistics
 - **HP:** 22
 - **DV:** 4 (1 + Will 3)
-- **Damage Reduction:** 1 (spectral resilience)
+- **Armor:** 1 (spectral resilience)
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 3, Soul 3, Shadow 2, Will 3, Focus 2, Blood 0
 - **Skills:** Weapon Mastery 2, Intimidation 3, Will 2
@@ -172,7 +172,7 @@ Methodical and intelligent fighter. Protects its bound location/object/person ze
 
 ### Scaling
 - **Weakened Revenant (Minion, TV 0.25):** HP 10, DV 3, -1 to attributes, no Undying Purpose
-- **Elite Revenant Knight (Elite, TV 2):** HP 40, DV 5, Fury 4, wears spectral plate armor (DR 3), can use Undying Purpose twice
+- **Elite Revenant Knight (Elite, TV 2):** HP 40, DV 5, Fury 4, wears spectral plate armor (Armor 3), can use Undying Purpose twice
 
 ---
 
@@ -188,7 +188,7 @@ Created through necromantic rituals involving immolation, Bone-Pyre Skeletons ar
 ### Statistics
 - **HP:** 6
 - **DV:** 3 (1 + Shadow 2)
-- **Damage Reduction:** 1 (bone structure)
+- **Armor:** 1 (bone structure)
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 2, Soul 1, Shadow 2, Will 1, Focus 1, Blood 0
 - **Skills:** None
@@ -236,7 +236,7 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 ### Statistics
 - **HP:** 38
 - **DV:** 5 (1 + Shadow 4)
-- **Damage Reduction:** 3 (ancient plate armor + unnatural resilience)
+- **Armor:** 3 (ancient plate armor + unnatural resilience)
 - **Movement:** 25 feet (5 squares)
 - **Attributes:** Fury 4, Soul 3, Shadow 4, Will 4, Focus 2, Blood 0
 - **Skills:** Weapon Mastery 3, Intimidation 4, Tactics 2
@@ -274,7 +274,7 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 Commands lesser undead from back line while using Aura of Dread to control battlefield. Shadow Steps to isolated targets for Life Drain. Uses Parry defensively. If bloodied, becomes aggressive and uses Ancient Greatsword relentlessly.
 
 ### Loot
-- Ancient armor (can be restored, DR 3, 100 barter value to collector)
+- Ancient armor (can be restored, Armor 3, 100 barter value to collector)
 - Greatsword with necromantic enchantment (6 base damage + 2 Necrotic)
 - Crypt treasure: 2d6 x 10 ancient coins
 - Wight essence (rare component for necromancy, 75 barter value)
@@ -298,7 +298,7 @@ When lesser vampires are destroyed, their remaining essence sometimes animates n
 ### Statistics
 - **HP:** 30
 - **DV:** 5 (1 + Shadow 4)
-- **Damage Reduction:** 0 (but see Swarm Nature)
+- **Armor:** 0 (but see Swarm Nature)
 - **Movement:** 30 feet (6 squares), Climb 30 feet, Fly 30 feet
 - **Attributes:** Fury 3, Soul 1, Shadow 4, Will 2, Focus 3, Blood 3
 - **Skills:** Stealth 4, Observation 3
@@ -351,7 +351,7 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 ### Statistics
 - **HP:** 20
 - **DV:** 3 (1 + Will 2)
-- **Damage Reduction:** 0 (cloth robes)
+- **Armor:** 0 (cloth robes)
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 2, Soul 4, Shadow 2, Will 2, Focus 3, Blood 3
 - **Skills:** Rituals 4, Forbidden Knowledge 3, Persuasion 2
@@ -409,7 +409,7 @@ Vampires destroyed by fire sometimes leave behind vengeful spirits—Bloodflame 
 ### Statistics
 - **HP:** 18
 - **DV:** 4 (1 + Shadow 3)
-- **Damage Reduction:** Special (see Incorporeal)
+- **Armor:** Special (see Incorporeal)
 - **Movement:** 30 feet (6 squares), Fly 40 feet (hover)
 - **Attributes:** Fury 2, Soul 4, Shadow 3, Will 3, Focus 2, Blood 2
 - **Skills:** Stealth 3, Intimidation 3

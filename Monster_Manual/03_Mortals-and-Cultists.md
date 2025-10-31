@@ -104,7 +104,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 - **Defense Value (DV)**: 3
 - **Difficulty Rating (DR)**: 2 (all saves)
 - **Movement**: 5 tiles per turn
-- **Armor**: Light (blessed robes, DR 1 vs Physical)
+- **Armor**: Light (blessed robes, Armor 1 vs Physical)
 
 **Attributes**:
 - Fury: 1
@@ -153,7 +153,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 
 #### Loot
 - Corrupted holy symbol - **Trade Value**: 10 supplies (to cultists), 5 supplies (to scholars)
-- Blessed robes (Light armor, DR 1) - **Trade Value**: 15 supplies
+- Blessed robes (Light armor, Armor 1) - **Trade Value**: 15 supplies
 - Ritual components - **Trade Value**: 8 supplies
 - Prayer book with crossed-out passages - **Trade Value**: 12 supplies (lore/history)
 
@@ -253,7 +253,7 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 3 (all saves)
 - **Movement**: 6 tiles per turn
-- **Armor**: Heavy (blessed plate armor, DR 3 vs Physical, DR 2 vs Soul/Necrotic)
+- **Armor**: Heavy (blessed plate armor, Armor 3 vs Physical, Armor 2 vs Soul/Necrotic)
 
 **Attributes**:
 - Fury: 4
@@ -278,7 +278,7 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 **Judgement Strike** (Fury 4 + Vampire Hunting 4 = 8d6, Recharge 5-6)
 - Range: Melee
 - Damage: 8 Physical + 4 Radiant damage
-- Effect: This attack automatically bypasses any DR from armor or supernatural defenses. If the target is a vampire, they are also Branded (disadvantage on Stealth and Shadow-based rolls for 1 hour).
+- Effect: This attack automatically bypasses any Armor and supernatural defenses. If the target is a vampire, they are also Branded (disadvantage on Stealth and Shadow-based rolls for 1 hour).
 
 **Crossbow of Purity** (Focus 3 + Ranged Combat 2 = 5d6)
 - Range: 40 feet
@@ -302,7 +302,7 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 
 #### Loot
 - Silver longsword (Melee weapon, +2 damage vs undead) - **Trade Value**: 35 supplies
-- Blessed plate armor (Heavy, DR 3 Physical, DR 2 Soul) - **Trade Value**: 50 supplies
+- Blessed plate armor (Heavy, Armor 3 Physical, Armor 2 Soul) - **Trade Value**: 50 supplies
 - Silvered crossbow bolts (10 bolts) - **Trade Value**: 15 supplies
 - Holy water (1d3 vials, deals 4 Radiant damage to undead on contact) - **Trade Value**: 8 supplies per vial
 - Sarafan insignia (proves membership in the Order) - **Trade Value**: 20 supplies (to collectors), could grant access to Sarafan strongholds or cause hostility depending on PC actions
@@ -330,7 +330,7 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 - **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 1 (all saves)
 - **Movement**: 7 tiles per turn (unarmored)
-- **Armor**: Light (leather and furs, DR 1 vs Physical)
+- **Armor**: Light (leather and furs, Armor 1 vs Physical)
 
 **Attributes**:
 - Fury: 3
@@ -433,7 +433,7 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 - Effect: The target must pass a DR 3 Will save or be Stunned until the end of their next turn as agony wracks their mind.
 
 #### Abilities
-**Runic Shielding**: The Warlock's runes flare when attacked, granting DR 2 against all damage types. However, each time the Warlock takes damage, they lose 1 SE as the runes consume energy to protect them.
+**Runic Shielding**: The Warlock's runes flare when attacked, granting Armor 2 against all damage types. However, each time the Warlock takes damage, they lose 1 SE as the runes consume energy to protect them.
 
 **Blood Price**: The Warlock can spend HP instead of SE to cast spells. For every 2 HP spent, gain 1 SE. This can be used even when the Warlock has 0 SE remaining.
 
@@ -477,7 +477,7 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 - **Defense Value (DV)**: 7 (agile and trained to evade)
 - **Difficulty Rating (DR)**: 3 (Shadow and Focus saves), 2 (other saves)
 - **Movement**: 8 tiles per turn (light armor, acrobatic)
-- **Armor**: Light (dark leathers, DR 1 vs Physical)
+- **Armor**: Light (dark leathers, Armor 1 vs Physical)
 
 **Attributes**:
 - Fury: 3
@@ -554,7 +554,7 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 3 (all saves, trained resilience)
 - **Movement**: 6 tiles per turn
-- **Armor**: Heavy (rune-inscribed plate, DR 3 vs Physical, DR 2 vs Magic)
+- **Armor**: Heavy (rune-inscribed plate, Armor 3 vs Physical, Armor 2 vs Magic)
 
 **Attributes**:
 - Fury: 4
@@ -604,7 +604,7 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 
 #### Loot
 - Rune-etched longsword (Melee weapon, +2 dice vs spellcasters) - **Trade Value**: 40 supplies
-- Rune-inscribed plate armor (Heavy, DR 3 Physical, DR 2 Magic) - **Trade Value**: 60 supplies
+- Rune-inscribed plate armor (Heavy, Armor 3 Physical, Armor 2 Magic) - **Trade Value**: 60 supplies
 - Witch-Hunter insignia (grants access to Witch-Hunter strongholds) - **Trade Value**: 25 supplies (or story leverage)
 - Anti-magic manacles (magical restraints, prevents spellcasting while worn) - **Trade Value**: 30 supplies
 
@@ -752,7 +752,7 @@ When running **Elite** or **Boss**-tier mortals in climactic encounters, conside
 **For Black Rune Warlocks**:
 - **Teleport**: The mortal teleports up to 20 feet to an unoccupied space they can see.
 - **Cantrip**: The mortal casts a minor spell (Void Bolt at reduced dice, 4d6 instead of 9d6).
-- **Runic Barrier** (costs 2 actions): The mortal creates a magical barrier, granting themselves +2 DV and DR 2 until the start of their next turn.
+- **Runic Barrier** (costs 2 actions): The mortal creates a magical barrier, granting themselves +2 DV and Armor 2 until the start of their next turn.
 
 **For Bleeding Eye Assassins**:
 - **Shadow Step**: The mortal teleports up to 15 feet to a shadowed area and becomes Hidden.
