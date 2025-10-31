@@ -1,10 +1,27 @@
 # Chapter 10: Dice System
 
-## Dice Success System
+## At a glance
+- 10.1 Dice Success System
+- 10.2 Extra Successes: Enhancing Actions
+- 10.3 Advantage and Disadvantage
+- 10.4 Combat System
+   - 10.4.1 Initiative
+   - 10.4.2 Attacks
+   - 10.4.3 Defense and Armor
+   - 10.4.4 Damage and Health
+   - 10.4.5 Special Actions
+   - 10.4.6 Critical Success and Failure
+   - 10.4.7 Environmental Combat
+   - 10.4.8 Reactions
+- 10.5 Closing Note
+
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Soul, and Soulfire interactions are detailed in Chapters 5 (Magic), 8 (Corruption), and 9 (Combat).
+
+## 10.1 Dice Success System
 
 The Legacy of Kain: Bloodbound RPG uses a **D6-based success system**. This mechanic drives all core actions, from combat to exploration, and is designed to emphasize risk, tension, and the dramatic weight of every roll.
 
-### Rolling Dice
+### 10.1.1 Rolling Dice
 
 * Players roll a **pool of D6s** equal to **Attribute + Skill**.
 * **5 or 6 = 1 Success.**
@@ -24,7 +41,7 @@ The Legacy of Kain: Bloodbound RPG uses a **D6-based success system**. This mech
 
 ---
 
-### Extra Successes: Enhancing Actions
+## 10.2 Extra Successes: Enhancing Actions
 
 If a player rolls more successes than required, they may choose to **enhance their outcome**:
 
@@ -63,7 +80,7 @@ Some damage types have unique effects that are not traditional statuses:
 
 ---
 
-### Advantage & Disadvantage
+## 10.3 Advantage and Disadvantage
 
 Situational factors can grant you **Advantage** or impose **Disadvantage** on a roll. This system gives you a second chance—either to turn failure into success, or to have your success snatched away by fate.
 
@@ -89,11 +106,11 @@ The GM decides how extra successes manifest, but players are encouraged to propo
 
 ---
 
-## Combat System
+## 10.4 Combat System
 
 Combat in Nosgoth reflects the brutal, tactical, and often supernatural struggle of its denizens. Every exchange carries weight—each strike a test of willpower, blood, and fate.
 
-### Initiative
+### 10.4.1 Initiative
 
 * Roll D6s equal to **Shadow + (Tactics or Concentration)**.
 * Highest number of successes acts first.
@@ -101,7 +118,7 @@ Combat in Nosgoth reflects the brutal, tactical, and often supernatural struggle
 
 ---
 
-### Attacks
+### 10.4.2 Attacks
 
 1. Roll a pool equal to **Attribute + Weapon Mastery**.
 2. Each 5–6 = 1 success.
@@ -115,7 +132,7 @@ Target DV = 1 → hit. One excess success remains (usable for bonus damage or an
 
 ---
 
-### 🛡 Defense & Armor
+### 10.4.3 Defense and Armor
 
 * **DV:** Base = 1 + (Shadow or Will, higher). Modified by armor, perks, or effects.
 * **Armor:** Flat reduction of damage (e.g., -2 damage).
@@ -123,7 +140,7 @@ Target DV = 1 → hit. One excess success remains (usable for bonus damage or an
 
 ---
 
-### 💥 Damage & Health
+### 10.4.4 Damage and Health
 
 * **Weapons/abilities** define base damage.
 * **Health Points (HP):** Track physical harm.
@@ -132,7 +149,7 @@ Target DV = 1 → hit. One excess success remains (usable for bonus damage or an
 
 ---
 
-### 🧠 Special Actions
+### 10.4.5 Special Actions
 
 * **Spellcasting:** Roll **Soul + Glyphcasting**.
 * **Grappling:** Use Unarmed Combat to restrain/disarm.
@@ -141,7 +158,7 @@ Target DV = 1 → hit. One excess success remains (usable for bonus damage or an
 
 ---
 
-### 💣 Critical Success & Failure
+### 10.4.6 Critical Success and Failure
 
 Exceptional outcomes, for better or worse, can dramatically alter a situation.
 
@@ -161,14 +178,14 @@ When you fail a roll, you may be able to push it by drawing on your inner Corrup
 
 ---
 
-### 🧬 Environmental Combat
+### 10.4.7 Environmental Combat
 
 * The battlefield may feature **Spectral/Material terrain, glyph traps, cursed objects**.
 * Players can **interact with or destroy terrain** using Strength or Craft.
 
 ---
 
-### ⚡ Reactions
+### 10.4.8 Reactions
 
 Each character gets **1 Reaction per round**.
 
@@ -196,7 +213,7 @@ Each character gets **1 Reaction per round**.
 
 ---
 
-## Closing Note
+## 10.5 Closing Note
 
 Combat in Nosgoth is **visceral and cinematic**, blending the brutality of battle with the mysticism of the realms. Success is never binary—extra successes create opportunities for stunts, narrative flourishes, and dramatic escalation. Power always comes with a price, and the dice ensure that every moment hangs in the balance.
 

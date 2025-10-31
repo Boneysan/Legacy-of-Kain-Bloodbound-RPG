@@ -340,6 +340,20 @@ Each damage type has specific associated status effects.
    - Converted class names to numbered subheaders (3.4.1–3.4.8: Blood Knight → Hylden Warlock). Left extensive perk lists as-is for now; table conversion can follow in a focused pass.
    - Content unchanged apart from structure; DV/DR/Armor terms preserved as defined.
 
+### Player's Handbook — Numbering & TOC Phase 4 — Oct 31, 2025
+- 05_Spellcasting-and-Magic.md:
+   - Added compact At-a-glance TOC and first-use terminology note; converted Roman numeral sections to 5.x numbering (5.1–5.10); numbered tier headers in Spell Compendium (5.10.1–5.10.4). Content unchanged.
+- 08_Corruption.md:
+   - Inserted compact At-a-glance TOC and first-use terminology note; kept existing 8.x structure intact. No mechanics changed.
+- 09_Combat:
+   - Added compact At-a-glance TOC and first-use terminology note; existing 9.1–9.14 structure retained. No rules altered.
+
+### Player's Handbook — Numbering & TOC Phase 5 — Oct 31, 2025
+- 11_Realms-Terraign-Arcane-Power:
+   - Added compact At-a-glance TOC and first-use terminology note; numbered sections 11.1–11.4; converted Quick Reference into a proper Markdown table; updated cross-references to Chapter 5 (Spellcasting) and Chapter 9 (Combat) for consistency.
+- 12_Glossary:
+   - Added compact At-a-glance TOC and first-use terminology note; numbered major entries 12.1–12.4 (Short Rest, Long Rest, Sanity, Scenes). Content unchanged beyond structure.
+
 ### GM_Guide — Numbering & TOC Phase 1 — Oct 31, 2025
 - 01_Running-the-Game.md:
    - Added compact At-a-glance TOC linking sections 1.1–1.11.

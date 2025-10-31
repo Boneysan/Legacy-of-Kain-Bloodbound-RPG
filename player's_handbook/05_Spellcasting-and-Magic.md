@@ -2,7 +2,21 @@
 
 Magic in Nosgoth is a volatile fusion of soul force, elemental essence, and corrupted power. It serves as both a tool and a curse, capable of shaping reality while often exacting a steep toll on the caster. Characters harness spells through skill checks, drawing upon their attributes and training in various magical disciplines. This chapter outlines the fundamentals of spellcasting, from basic mechanics to advanced techniques, resource management, and a comprehensive compendium of spells.
 
-## I. Spell Categories and Tiers
+## At a glance
+- Spell Categories and Tiers
+- Spellcasting Basics
+- The Spellcasting Process
+- Advanced Spell Mechanics
+- Corruption Dice in Spellcasting
+- Reactions to Spells
+- Resource Pools
+- Defining a "Scene" in Spellcasting
+- Learning and Preparing Spells
+- Spell Compendium
+
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Soul, and Soulfire interactions are detailed in Chapters 5 (Magic), 8 (Corruption), and 9 (Combat).
+
+## 5.1 Spell Categories and Tiers
 
 Spells are divided into four primary categories, each with distinct flavors and applications:
 
@@ -18,7 +32,7 @@ Spells are further organized into four tiers based on character level and comple
 - **Expert Tier:** Levels 11–15 (potent crowd control and high-impact effects).
 - **Master Tier:** Levels 16–20 (epic, reality-altering magic).
 
-## II. Spellcasting Basics
+## 5.2 Spellcasting Basics
 
 - **Action to Cast:** Most spells require an Action, though some use a Bonus Action or Reaction as specified.
 - **Concentration:** Certain spells demand ongoing focus. A caster can concentrate on only one spell at a time; starting a new one ends the previous. If damaged while concentrating, make a Concentration check (Will attribute + Concentration skill rank successes vs. a DR based on the damage or situation). Concentration breaks if incapacitated or voluntarily ended (no action required).
@@ -26,7 +40,7 @@ Spells are further organized into four tiers based on character level and comple
 - **Range and Targeting:** Spells specify range (e.g., touch, 30 feet) and targets (creatures, objects, areas, self). Line of sight and a clear path (line of effect) are usually required; obstructions like total cover block most spells.
 - **Difficulty Ratings (DR):** Saving throws against spells use the listed DR, often tied to tier: Initiate (DR 1–2), Adept (DR 2–3), Expert (DR 3–4), Master (DR 4+). Heightened castings or abilities may adjust DR.
 
-## III. The Spellcasting Process
+## 5.3 The Spellcasting Process
 
 1. **Choose the Spell:** Select from your known or prepared list. Review type, casting time, cost, range, duration, components, and requirements.
 2. **Determine Spell Type & Required Roll:**
@@ -43,14 +57,14 @@ Spells are further organized into four tiers based on character level and comple
 4. **Resolve the Effect:** Apply damage, conditions, or changes. Extra successes enable stunts (e.g., +damage, status effects, precision).
 5. **Apply Corruption (If Applicable):** See Section V.
 
-## IV. Advanced Spell Mechanics
+## 5.4 Advanced Spell Mechanics
 
 - **Area of Effect (AoE):** Affects shapes like radii or cones; targets save to halve/negate. No attack roll needed for point-targeted AoE.
 - **Resistances and Immunities:** Creatures may resist (half damage) or be immune to types (e.g., Fire, Soul). Corrupted beings may be vulnerable to holy effects.
 - **Critical Spell Effects:** Attack rolls with 3+ successes or exceeding DV by 2+ deal bonus damage, inflict status, or trigger spell-specific effects.
 - **Spell Duration:** Instantaneous, rounds/minutes, concentration-based, or permanent until dispelled.
 
-## V. Corruption Dice in Spellcasting
+## 5.5 Corruption Dice in Spellcasting
 
 Corruption Dice (CD) tap perilous energies, especially for Forbidden spells or pushing limits.
 
@@ -60,7 +74,7 @@ Corruption Dice (CD) tap perilous energies, especially for Forbidden spells or p
   - At 3+ Corruption, '1's also trigger a 2d6 roll on the Corruption Dice Failure Table (e.g., Specter Cling: a hostile spirit attaches; Crimson Hunger: intense bloodlust; Eldritch Attention: draws otherworldly notice).
   - Escalating Corruption unlocks perks but imposes penalties (detailed in Corruption rules).
 
-## VI. Reactions to Spells
+## 5.6 Reactions to Spells
 
 Use your single Reaction per round to respond:
 
@@ -69,26 +83,26 @@ Use your single Reaction per round to respond:
 - **Absorb:** Will + Concentration to reduce damage or negate status post-hit.
 - **Spell-Specific:** Perks may grant unique reactions.
 
-## VII. Resource Pools
+## 5.7 Resource Pools
 
 - **Soul Energy (SE):** Maximum = 3 + Will attribute + (Character Level / 2, rounded up). Start combat at maximum; regain via rest, soul shards, or channeling.
 - **Blood Points (BP):** Maximum = 4 + Shadow attribute + (Character Level / 2, rounded up). Start combat at maximum (if not starved); regain via feeding or relics.
 
-## VIII. Defining a "Scene" in Spellcasting
+## 5.8 Defining a "Scene" in Spellcasting
 
 A "scene" is a distinct narrative segment (e.g., combat encounter, social negotiation, exploration of a chamber). Abilities limited to "once per scene" refresh when the GM declares a new scene begins.
 
-## IX. Learning and Preparing Spells
+## 5.9 Learning and Preparing Spells
 
 - **Starting Spells:** Characters know spells per class and level (see class descriptions).
 - **Leveling Up:** Gain new spells from class lists meeting tier requirements (e.g., 1 per level).
 - **Discovery:** Learn via scrolls, tomes, mentors, or glyphs. Requires skill check (e.g., Will + Forbidden Knowledge) and downtime/resources (GM sets DR based on tier/rarity).
 
-## X. Spell Compendium
+## 5.10 Spell Compendium
 
 This compendium lists spells by tier and category, with class access noted. Costs assume SE for Glyph/Ritual/Forbidden, BP for Blood. Casting time is 1 Action unless specified; saves use tier-appropriate DR (Initiate: 2; Adept: 2–3; Expert: 3; Master: 3–4+). Damage is static.
 
-### Initiate Tier (Levels 1–5)
+### 5.10.1 Initiate Tier (Levels 1–5)
 
 #### Glyph Spells
 - **Glyph of Anchoring:** Cost: 1 SE. Touch; triggers on teleportation attempt adjacent. DR 2 Will save or teleport fails.
@@ -137,7 +151,7 @@ This compendium lists spells by tier and category, with class access noted. Cost
 - **Shadow Infestation:** Cost: 1 SE. 30 ft; DR 2 Will save or -1 die Perception + dim light for 1 min.
 - **Whispershade:** Cost: 1 SE. Bonus; 60 ft; one-way telepathic whispers for concentration 1 min.
 
-### Adept Tier (Levels 6–10)
+### 5.10.2 Adept Tier (Levels 6–10)
 
 #### Glyph Spells
 - **Glyph of Binding:** Cost: 2 SE. Touch; triggers on entry; DR 2 Evasion or Restrained for Soul rounds (up to 3 targets).
@@ -187,7 +201,7 @@ This compendium lists spells by tier and category, with class access noted. Cost
 - **Spectral Lash:** Cost: 2 SE. 15 ft; spell attack 5 Soul (single) or 3 Soul line (DR 2 Evasion).
 - **Unravel Mind:** Cost: 2 SE (+1 Sanity). 30 ft; DR 3 Will or no spells/complex actions 1 min.
 
-### Expert Tier (Levels 11–15)
+### 5.10.3 Expert Tier (Levels 11–15)
 
 #### Glyph Spells
 - **Glyph Lockdown:** Cost: 3 SE. Touch; triggers on entry; DR 3 Might or Immobilized in 10-ft field 3 rounds.
@@ -236,7 +250,7 @@ This compendium lists spells by tier and category, with class access noted. Cost
 - **Soul Fracture:** Cost: 3 SE (+1 Sanity). 30 ft; DR 3 Soul or -2 Will/Soul checks + increased SE costs 1 min; harder resurrection if killed.
 - **Starving Veil:** Cost: 3 SE. Self; 15-ft aura; 2 Soul/round + heal 1 HP per creature (max Soul/round) for concentration 1 min.
 
-### Master Tier (Levels 16–20)
+### 5.10.4 Master Tier (Levels 16–20)
 
 #### Glyph Spells
 - **Eternal Glyph Lock:** Cost: 5 SE. 1 hr; touch; permanent magical lock (DR 5 to breach) + defensive ward.

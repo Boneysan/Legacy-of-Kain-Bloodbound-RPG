@@ -6,6 +6,17 @@ In the cursed land of Nosgoth, power and damnation are often intertwined. Corrup
 
 This system treats Corruption as a double-edged sword. As your taint deepens, you unlock potent and terrible abilities. But this power comes at a price, demanding to be unleashed and carrying with it the constant risk of backfiring in spectacular fashion.
 
+## At a glance
+- 8.1 Corruption Level and Thresholds
+- 8.2 The Corruption Pool
+- 8.3 Rolling Corruption Dice
+- 8.4 Pushing a Roll
+- 8.5 Other Effects of Corruption
+- 8.6 Paths to Purification
+- 8.7 Corrupted Perks
+
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Soul, and Soulfire interactions are detailed in Chapters 5 (Magic), 8 (Corruption), and 9 (Combat).
+
 ## 8.1 Corruption Level and Thresholds
 
 Your **Corruption Level** is a score from 0 to 15 that tracks how far you have fallen into darkness. A character begins with 0 Corruption unless a racial or class trait specifies otherwise. As your Corruption Level increases, you cross thresholds that unlock access to powerful **Corrupted Perks**.

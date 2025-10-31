@@ -1,6 +1,24 @@
 # Chapter 9: Combat and Damage Types in Nosgoth
 In the cursed land of Nosgoth, combat is a brutal dance of blood and shadow, where steel clashes with sorcery, and the veil between Material and Spectral realms quivers. Whether wielding a reaver blade, weaving glyphs of decay, or phasing through realms to strike from the unseen, every action carries weight—and a price. This chapter combines the rules for combat with the diverse damage types that define Nosgoth’s conflicts, using the D6 dice success system to resolve attacks, defenses, and special maneuvers. Prepare to face the consequences of power in a world where survival demands sacrifice.
 
+## At a glance
+- 9.1 Combat Overview
+- 9.2 Initiative
+- 9.3 Actions: Attacking
+- 9.4 Defense and Armor
+- 9.5 Damage and Health
+- 9.6 Extra Successes: Enhancing Actions
+- 9.7 Damage Types and Effects
+- 9.8 Reactions
+- 9.9 Advantage and Disadvantage
+- 9.10 Special Actions
+- 9.11 Critical Hits and Failures
+- 9.12 Environmental Combat
+- 9.13 Combat Example
+- 9.14 GM Guidance
+
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Soul, and Soulfire interactions are detailed in Chapters 5 (Magic) and 8 (Corruption).
+
 ## 9.1 Combat Overview
 
 Combat in *Legacy of Kain: Bloodbound RPG* is structured into rounds, each representing 6–10 seconds of chaotic, high-stakes action. Within each round, combatants act in initiative order, weaving a tapestry of strikes, spells, and tactical decisions. A combatant’s turn consists of:

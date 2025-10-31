@@ -1,6 +1,15 @@
 # Chapter 11: Realms, Terrain, and Arcane Power
 In the shattered world of Nosgoth, the veil between the Material and Spectral Realms is thin, and the land itself pulses with ancient magic. This chapter details how your character’s Realm Affinity shapes their interaction with these realms, how Terrain Types influence movement and combat, and how Energy Foci amplify magical power. Together, these systems govern how you navigate the ruins, battlefields, and cursed places of Nosgoth, whether you’re a blood-hungry Vampire, a spectral Wraith, or a Glyph-marked wanderer caught between worlds.
-## Section 1: Realm Affinity Explained
+
+## At a glance
+- 11.1 Realm Affinity
+- 11.2 Terrain Types
+- 11.3 Energy Foci
+- 11.4 Integrating Realms, Terrain, and Foci
+
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Soul, and Soulfire interactions are detailed in Chapters 5 (Magic), 8 (Corruption), and 9 (Combat).
+
+## 11.1 Realm Affinity
 ### Overview
 Every character in Legacy of Kain: Bloodbound RPG is tied to one of two realms—or, in rare cases, both. Your Realm Affinity determines how you perceive and interact with the world, from the tangible stone and blood of the Material Realm to the ethereal whispers and hidden pathways of the Spectral Realm. Affinity shapes your strengths, weaknesses, and tactical options, making it a cornerstone of your character’s identity.
 Affinity Types
@@ -16,7 +25,7 @@ Targeting and Resistance: Spells or damage types (e.g., Spectral, Void) affect c
 Visibility: Some enemies, artifacts, or pathways are only visible or interactable in one realm. A Material-affined character might walk past a Spectral glyph, unaware of its power, while a Spectral character could miss a Material trap.
 
 Example: A Spectral Wraith slips through a crumbling wall to flank a Sarafan patrol, unseen in the Material Realm. Meanwhile, a Material-affined Vampire struggles to interact with a Spectral relic, requiring a Glyphcaster’s aid to unlock its power.
-## Section 2: Terrain Types
+## 11.2 Terrain Types
 ### Overview
 Nosgoth’s landscapes are as deadly as its inhabitants. From blood-soaked battlegrounds to spectral mists, terrain shapes every encounter. Terrain Types affect movement, combat, and strategy, and their effects often depend on your Realm Affinity. Understanding terrain is key to survival, whether you’re navigating the ash-choked ruins of Meridian or the corrupted marshes of the Termogent Forest.
 Terrain Descriptions and Effects
@@ -79,7 +88,7 @@ Spectral Affinity: Characters can bypass some physical obstacles (e.g., moving t
 Hybrid Affinity: Characters can adapt to both realms, gaining tactical advantages (e.g., using Spectral Terrain to ambush while retaining Material combat effectiveness).
 
 Example: During a skirmish in the ruins of Avernus, a Blood Mage stands on Bloodsoaked Terrain, gaining +1 success on their spellcasting. A Spectral enemy uses Obscuring Terrain (mist) to hide, forcing the Mage to rely on a Hybrid ally to spot the foe.
-## Section 3: Energy Foci
+## 11.3 Energy Foci
 ### Overview
 An Energy Foci (plural: Foci) is a locus of concentrated magical power—a place, object, or formation where ambient arcane energy is naturally or supernaturally amplified. These Foci are often remnants of the Pillars of Nosgoth, spectral bleed-throughs, or Hylden constructs. Spellcasters can tap into Foci to enhance their magic, but doing so comes with risks.
 Mechanical Benefits
@@ -139,7 +148,7 @@ Attract attention from Spectral entities or nearby factions (e.g., Sarafan patro
 
 Optional Rule: One Foci at a Time
 Characters may only be attuned to one Foci at a time, unless they possess a rare Foci Conduit Relic or a perk like:“Anchor of the Arcane” – You may maintain two concurrent Foci attunements without backlash.
-Section 4: Integrating Realms, Terrain, and Foci
+## 11.4 Integrating Realms, Terrain, and Foci
 Synergies
 The interplay of Realm Affinity, Terrain Types, and Energy Foci creates dynamic tactical opportunities:
 
@@ -156,37 +165,11 @@ Narrative Stakes: Tie Foci to Nosgoth’s lore—e.g., a Foci tied to a fallen P
 
 Quick Reference Table
 
+| Element          | Material Affinity                | Spectral Affinity                 | Hybrid Affinity                    |
+| :--------------- | :------------------------------- | :-------------------------------- | :--------------------------------- |
+| Open Ground      | Normal movement                  | Normal movement                   | Normal movement                    |
+| Spectral Terrain | Cannot interact without glyphs   | Can move through freely           | Can interact with limits           |
+| Arcane Nexus     | Can attune with effort           | Easier attunement (DR -1)         | Can attune and shift realms        |
+| Corrupted Ground | Takes stress/corruption          | Immune to corruption              | Takes reduced stress               |
 
-
-Element
-Material Affinity
-Spectral Affinity
-Hybrid Affinity
-
-
-
-Open Ground
-Normal movement
-Normal movement
-Normal movement
-
-
-Spectral Terrain
-Cannot interact without glyphs
-Can move through freely
-Can interact with limits
-
-
-Arcane Nexus
-Can attune with effort
-Easier attunement (DR -1)
-Can attune and shift realms
-
-
-Corrupted Ground
-Takes stress/corruption
-Immune to corruption
-Takes reduced stress
-
-
-Cross-Reference: For how Foci affect spellcasting, see Chapter 6: Spellcasting Rules. For terrain in combat, see Chapter 7: Combat Rules.
+Cross-Reference: For how Foci affect spellcasting, see Chapter 5: Spellcasting and Magic. For terrain in combat, see Chapter 9: Combat.
