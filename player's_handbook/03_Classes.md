@@ -1,8 +1,8 @@
-Chapter 3: Classes and Perks
+# Chapter 3: Classes and Perks
 In the blood-soaked ruins of Nosgoth, where the Wheel of Fate grinds souls to dust, characters rise as avatars of power, defiance, or despair. The Classes of Legacy of Kain: Bloodbound RPG embody mythic archetypes, each tied to Nosgoth’s fractured history of vampiric wars, spectral unrest, and cosmic betrayal. From the relentless fury of Blood Knights to the entropy-wielding Hylden Warlocks, every class carries a legacy that shapes their abilities and narrative destiny. This chapter details the eight core classes, their lore, mechanics, and progression, alongside the Universal Perks System that allows characters to transcend their roles, and the perilous Corrupted Perks that tempt with forbidden power.
-Class Overview
+## Class Overview
 Each class reflects a unique aspect of Nosgoth’s mythos, blending martial prowess, arcane mastery, and divine purpose. Players select a class at character creation, defining their core abilities, stats, and role in the party. Progression includes Class Perks (gained every level) and Universal Perks (gained at specific milestones), with humans receiving additional perks via their racial trait. Corrupted Perks offer dark power at a cost, unlocked through narrative events or a Corruption Threshold.
-Class Progression
+## Class Progression
 
 Starting Stats: Each class begins with 5–6 skill points, 8–12 starting HP, and +4–6 HP per level.
 Skill Progression: Gain +1 skill point per level to allocate to skills like Weapon Mastery, Stealth, or Glyphcasting.
@@ -13,7 +13,7 @@ Human Racial Trait: Humans gain one extra Universal Perk at Levels 4, 8, 12, 16,
 Multiclassing: At Level 5+, players may request a Tier 1 perk from another class’s tree with GM approval, enabling hybrid builds (e.g., a Blood Mage with Outcast stealth perks).
 Custom Perks: GMs may create unique perks tied to backstory, story moments, or relics (e.g., Blade of the Broken Circle: +3 damage vs. former allies, once per session).
 
-Universal Perks Progression
+## Universal Perks Progression
 
 Tier 1 (Levels 1–5): Foundational perks; no prerequisites.
 Tier 2 (Levels 6–10): Requires one Tier 1 Universal Perk; may choose lower-tier perks.
@@ -21,7 +21,7 @@ Tier 3 (Levels 11–15): Requires one Tier 2 Universal Perk; may choose lower-ti
 Tier 4 (Levels 16–20): Requires one Tier 3 Universal Perk; may choose lower-tier perks.
 Corrupted Perks: Unlocked at Corruption 3–6 (Tier 1), 7–10 (Tier 2), or 11–15 (Tier 3), chosen in place of Universal Perks with GM approval.
 
-Classes
+## Classes
 Blood Knight
 Lore: Once temple guardians and arena champions, Blood Knights are forged in blood rites and combat’s crucible. Descended from vampiric warlords who survived Kain’s purges, they broke from the Dumahim to form martial sects. For them, pain is purpose, and battle is a sacrament. They channel rage and resilience into overwhelming might, standing as unyielding bulwarks against Nosgoth’s horrors.
 Role: Tank / Melee BruiserStarting Stats: 5 skill points, 12 HP, +6 HP per levelCore Stats: Fury, BloodSkill Suggestions: Weapon Mastery, Evasion, Unarmed Combat, Tactics, PresenceCore Abilities:

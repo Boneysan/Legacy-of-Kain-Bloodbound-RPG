@@ -1,14 +1,14 @@
-Chapter 4: Perks System
+# Chapter 4: Perks System
 In the cursed land of Nosgoth, where blood and shadow weave destinies, power is a double-edged blade. The Perks System allows characters to transcend their class and lineage, forging unique identities through abilities that blend mechanical advantage with narrative weight. Universal Perks are available to all, enhancing combat, exploration, or lore interactions. Corrupted Perks, unlocked through dark pacts or forbidden knowledge, offer immense power at the cost of sanity, body, and soul. This chapter details perk selection, progression, and the perilous path of corruption, guiding players and Game Masters (GMs) through Nosgoth’s treacherous landscape.
-Perk Progression
+## Perk Progression
 Perks define a character’s growth, reflecting their triumphs, struggles, and temptations. Characters gain Class Perks and Universal Perks as they level, with humans receiving additional perks via their racial trait. Perks are permanent once chosen, representing a commitment to a character’s path.
-Class Perks
+## Class Perks
 
 Frequency: One Class Perk per level (1–20).
 Selection: Chosen from the character’s specific Class Perk list, corresponding to their current level (e.g., a Blood Knight at Level 5 selects their Level 5 perk, such as Crushing Blow).
 Purpose: These define core class identity, offering specialized abilities tied to the character’s role (e.g., combat, magic, or stealth).
 
-Universal Perks
+## Universal Perks
 
 Frequency: One Universal Perk slot at Levels 1, 3, 5, 6, 8, 10, 11, 13, 15, 16, 18, and 20.
 Tier Progression:
@@ -20,29 +20,29 @@ Tier 4 (Levels 16–20): Requires one Tier 3 Universal Perk. Players may choose 
 
 Human Racial Trait (Extra Perk): Humans gain one additional Universal Perk at Levels 4, 8, 12, 16, and 20, following the same tier unlock conditions (e.g., Level 4 grants a Tier 1 perk; Level 16 grants a Tier 4 or lower-tier perk).
 
-Corrupted Perks
+## Corrupted Perks
 
 Unlock Conditions: Available at Corruption Thresholds (3–6 for Tier 1, 7–10 for Tier 2, 11–15 for Tier 3) or through narrative triggers (e.g., soulbinding, Hylden pacts).
 Selection: Chosen in place of a Universal Perk slot, subject to GM approval and narrative justification. No tier prerequisites apply within Corrupted Perks, but Corruption Score limits access.
 Risks: Each carries drawbacks (e.g., Sanity loss, social penalties), reflecting Nosgoth’s theme of power at a cost.
 
-Multiclassing and Hybrid Perks
+## Multiclassing and Hybrid Perks
 
 Eligibility: At Level 5+, players may request a Tier 1 perk from another class’s perk tree if narratively justified (e.g., a Blood Mage taking an Outcast stealth perk).
 GM Oversight: Requires GM approval to ensure thematic fit and balance. Hybrid builds enable unique playstyles, such as a Sarafan Crusader with Scholar rituals.
 
-GM Optional Rule: Custom Perks
+## GM Optional Rule: Custom Perks
 GMs may create unique perks tied to:
 
 Character backstory (e.g., a vampire’s ancient lineage).
 Critical story moments (e.g., surviving a Hylden encounter).
 Regional or relic-based training (e.g., Blade of the Broken Circle: +3 damage vs. former allies, once per session).Custom perks should balance mechanical impact with narrative significance, matching the power level of equivalent Universal or Corrupted Perks.
 
-Universal Perks
+## Universal Perks
 Universal Perks enhance characters across all classes and lineages, offering tactical versatility and narrative depth. They are tiered to reflect growing power and influence in Nosgoth’s brutal world.
-Tier 1 Universal Perks (Levels 1–5)
+### Tier 1 Universal Perks (Levels 1–5)
 These foundational abilities provide minor boosts, ideal for early survival in Nosgoth’s dangers.
-Summary Table: Tier 1 Universal Perks
+#### Summary Table: Tier 1 Universal Perks
 
 
 
@@ -124,7 +124,7 @@ Battle MeditationEffect: Regain 2 HP after combat if no Sanity was lost.Cost/Dra
 TombbornEffect: Sense undead or cursed ground within 30 ft (6 squares).Cost/Drawback: None.Narrative Hook: Nosgoth’s vampiric and cursed landscapes pulse in your awareness, guiding you away from or toward danger.
 Focused RitualistEffect: +1 die to glyphcasting rolls if uninjured.Cost/Drawback: None.Narrative Hook: Your precision with glyphs shines when unscathed, rewarding careful positioning in Nosgoth’s magic-heavy conflicts.
 Death WatcherEffect: Detect when an enemy drops below 25% HP.Cost/Drawback: None.Narrative Hook: Your keen senses spot a foe’s weakness, enabling precise strikes or party coordination in brutal combat.
-Tier 2 Universal Perks (Levels 6–10)
+### Tier 2 Universal Perks (Levels 6–10)
 Prerequisite: One Tier 1 Universal Perk.These perks enhance mobility, defense, and versatility, reflecting growing mastery.
 Summary Table: Tier 2 Universal Perks
 

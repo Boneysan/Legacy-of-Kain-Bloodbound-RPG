@@ -1,44 +1,44 @@
-Chapter 7: Equipment of Nosgoth
+# Chapter 7: Equipment of Nosgoth
 In the shadowed lands of Nosgoth, where vampires clash with holy crusaders and spectral entities haunt the realms, the tools of war define a warrior’s fate. This chapter details the weapons and armor available in Legacy of Kain: Bloodbound RPG, tailored for tactical narrative combat across tabletop and digital platforms like TaleSpire. From blood-forged blades to radiant plate, each item carries unique traits and powers, shaped by the dark forces of Nosgoth. Availability of rare and relic items depends on your GM’s discretion or story progression.
-Weapons of Nosgoth
+## Weapons of Nosgoth
 Weapons in Bloodbound deal fixed damage on a successful hit, with traits that trigger special effects under specific conditions. They are divided into class-specific, universal, rare, and relic categories, each reflecting the wielder’s role and the world’s lore.
-Class-Specific Weapons
-Vampire Class
+### Class-Specific Weapons
+#### Vampire Class
 Vampires wield blades infused with blood and shadow, excelling in savage precision.
 
 Scion Blade: Deals 6 damage. On critical hit, inflicts Bleed (1 damage/round). Gains +1 damage if the wielder earned a blood point this round.
 Bloodfang Dagger: Deals 4 damage. Adds +2 damage against bleeding foes, perfect for exploiting weakened enemies.
 Nightblade Saber: Deals 5 damage. Grants +1 armor penetration and operates silently, ideal for stealth strikes.
 
-Sarafan Crusader Class
+#### Sarafan Crusader Class
 Sarafan weapons are blessed to purge the undead, combining martial prowess with divine power.
 
 Sarafan Pike: Deals 5 damage. Has Reach (2 tiles) and +2 damage against undead, suited for holding the line.
 Blessed Mace: Deals 6 damage. On hit, undead must pass a DR 2 check or be stunned, crippling their advance.
 Crusader Broadsword: Deals 5 damage. Grants +1 DV (Defense Value) when wielded, balanced for offense and defense.
 
-Wraith / Spirit-Bound Class
+#### Wraith / Spirit-Bound Class
 Wraiths wield ethereal weapons that manipulate the Spectral Realm.
 
 Spectral Talons: Deals 4 spiritual damage. Ignores armor but requires the Spectral Realm to use.
 Echoblade: Deals 5 damage. On hit, copies the last minor spell cast, amplifying magical synergy.
 Phantom Claws: Deals 3 damage. On hit, inflicts -1 to enemy rolls for 1 round, weakening their resolve.
 
-Blood Mage Class
+#### Blood Mage Class
 Blood Mages channel crimson power through their weapons, blending damage with vitality.
 
 Bloodstaff: Deals 3 damage. Instead of damage, heals the caster, sustaining them in battle.
 Veinbinder Rod: Deals 4 damage. Targets take 1 damage per round unless healed, draining their life slowly.
 Crimson Spear: Deals 5 damage. Has Range 2 tiles and grants 1 HP on critical hit, rewarding precision.
 
-Forbidden Scholar / Cultist Class
+#### Forbidden Scholar / Cultist Class
 Scholars and cultists wield arcane blades that corrupt and disrupt.
 
 Hexbrand: Deals 5 damage. Targets gain 1 Corruption and have their next spell disrupted.
 Ritual Blade: Deals 4 damage. On crit, absorbs 1 Soul Energy, fueling forbidden rites.
 Whisperknife: Deals 3 damage. Can be summoned/dismissed freely and bypasses normal wards, perfect for subterfuge.
 
-Multi-Class / Universal Weapons
+### Multi-Class / Universal Weapons
 These weapons are accessible to multiple classes, offering versatility across Nosgoth’s factions.
 
 Iron Longsword: Deals 5 damage. Versatile (one- or two-handed). Available to all non-spectral martial classes.
@@ -52,7 +52,7 @@ Huntsman’s Bow: Deals 5 damage. Long range (12 tiles), +1 vs. beasts/corrupted
 Spiritshard Wand: Deals 3 spiritual damage. Ranged, passes through walls in Spectral Realm. For casters with Soul > 2.
 Twin Knives: Deals 3 damage each. Can strike twice as one action if targeting the same enemy. For Vampires, Rogues, Scholars.
 
-Rare Weapons (GM Discretion)
+### Rare Weapons (GM Discretion)
 These powerful weapons require special circumstances or GM approval.
 
 Moonlit Fang: Deals 6 damage. +2 damage in moonlight/darkness, +1 Evasion. For Vampires, Rogues, Spirit-bound.
@@ -61,7 +61,7 @@ Soulbrand Blade: Deals 6 soulfire damage. Wounds cannot be healed for 2 turns, b
 Dreadhammer of Threnos: Deals 8 damage. On crit, knocks target prone and silences for 1 round, wielder takes 1 Corruption. For Outcasts, Cultists, GM unlock.
 Bloodwoven Whip: Deals 5 damage. Range 3 tiles, grapples (DR 2), immobilizes bleeding targets. For Blood Mages, Scholars.
 
-Relic Weapons (Legendary or Unique)
+### Relic Weapons (Legendary or Unique)
 Relic weapons are tied to Nosgoth’s deepest lore and require epic story progression.
 
 Soulreaver Prime: Deals 9 soulfire/spectral damage. Absorbs souls of the slain, grants 1 extra action next round. Only for those chosen by the Pillars.
@@ -70,7 +70,7 @@ Voidrend Scepter: Deals 6 void damage. On hit, target must pass DR 3 or be pulle
 Sanctified Claymore of Avernus: Deals 8 radiant damage. Double damage to undead, +1 to ally saves in sight. For Sarafan, Crusaders, chosen defenders.
 Abyssal Fang: Deals 6 corruption damage. On crit, adds 1 permanent Corruption. +2 damage if wielder has 6+ Corruption. For Cultists, Abyss-bonded.
 
-Special Damage Types
+## Special Damage Types
 Weapons may deal unique damage types, each with distinct effects:
 
 Void Damage: Represents dimensional collapse. Bypasses all armor and resistances, cannot be healed normally, and inflicts disadvantage on the target’s next DR save.

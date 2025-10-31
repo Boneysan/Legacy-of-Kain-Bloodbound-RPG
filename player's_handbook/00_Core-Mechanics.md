@@ -1,4 +1,4 @@
-# Core Mechanics
+# Chapter 0: Core Mechanics
 
 ## Overview
 

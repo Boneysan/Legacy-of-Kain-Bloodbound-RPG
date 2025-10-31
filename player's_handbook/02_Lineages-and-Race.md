@@ -1,8 +1,9 @@
-### Summary of Lineages in Nosgoth
+# Chapter 2: Lineages & Race
+## Overview
 
 The *Legacy of Kain: Bloodbound RPG* presents six primary Lineages, each with distinct lore, mechanical traits, and narrative potential. These Lineages are deeply tied to Nosgoth’s metaphysical and physical struggles, shaped by prophecy, corruption, and the eternal conflict between fate and free will.
 
-#### 🧛 Vampires
+### Vampires
 **Lore**: Immortal predators descended from Kain’s lieutenants, vampires are cursed, sterile, and slowly decaying. Once enforcers of balance, their corruption followed Kain’s refusal to sacrifice himself for the Pillars. Each brood reflects its progenitor’s strengths and flaws, with territorial and bestial tendencies.
 - **Movement**: 30 ft (6 squares); move through rubble without penalty.
 - **Stealth**: +1 in darkness/moonlight.
@@ -25,7 +26,7 @@ The *Legacy of Kain: Bloodbound RPG* presents six primary Lineages, each with di
     - **Bonus**: +1 Thievery.
     - **Feature**: *Cling* (Bonus Action to cling to vertical surfaces for 3 rounds, potential +1 combat/awareness or cover benefits).
 
-#### 👻 Wraiths
+### Wraiths
 **Lore**: Souls severed by violent death or unfinished destiny, existing between Material and Spectral Realms. They draw power from memory and Soul energy, risking madness but retaining purpose.
 - **Movement**: 25 ft (5 squares); 35 ft (7 squares) while phased.
 - **Terrain Bonus**: Ignore Spectral Realm terrain penalties.
@@ -35,7 +36,7 @@ The *Legacy of Kain: Bloodbound RPG* presents six primary Lineages, each with di
 - **Unique Trait**: *Wraith Phasing* (Bonus Action, Will uses per long rest, phase into Spectral Realm: translucent, 35 ft speed, ignore terrain/obstacles ≤1 ft thick, deal Soul damage, resist non-magical physical damage, immune to non-magical grapples/restraints).
 - **Narrative Hook**: Forgotten by death, hunted by time.
 
-#### 🧠 Hylden-Blooded
+### Hylden-Blooded
 **Lore**: Humans corrupted by Hylden influence (artifacts, rituals, or whispers), marked by glyphs, biomechanical growths, and warped minds. They wield glyphcasting but lose sanity, driven by alien directives or ambition.
 - **Movement**: 30 ft (6 squares); full speed on corrupted/glyph-infused terrain.
 - **Stealth**: No bonus, but Glyphcasting can alter terrain visibility.
@@ -44,7 +45,7 @@ The *Legacy of Kain: Bloodbound RPG* presents six primary Lineages, each with di
 - **Unique Trait**: Cast one spell per long rest without cost, gain Corruption.
 - **Narrative Hook**: Bearers of ancient wrath, seeking dominion or revenge.
 
-#### 🧙 Humans
+### Humans
 **Lore**: Mortal survivors of vampire purges and Hylden incursions, diverse and adaptable. Driven by belief, memory, and legacy, they range from Nomads to Sarafan warriors and Oracle-Blooded seers.
 - **Movement**: 30 ft (6 squares); ignore one terrain penalty per session.
 - **Stealth**: +1 in crowds/chaotic environments.
@@ -63,7 +64,7 @@ The *Legacy of Kain: Bloodbound RPG* presents six primary Lineages, each with di
     - **Bonus**: +1 Insight or Forbidden Knowledge.
     - **Feature**: *Fleeting Omen* (Bonus Action, once per scene: 1d6 for cryptic insight on target, e.g., +1 die to resist harm, detect deception, or gain narrative clues).
 
-#### 🧬 Revenants
+### Revenants
 **Lore**: Half-wraith, half-corpse beings risen by will, rejected by death, or revived by necromancy. Driven by unfinished business, they rot but persist.
 - **Movement**: 25 ft (5 squares); treat graves/crypts as normal ground.
 - **Stealth**: +1 in fog/smoke/decay.
@@ -72,7 +73,7 @@ The *Legacy of Kain: Bloodbound RPG* presents six primary Lineages, each with di
 - **Unique Trait**: *Unyielding Purpose* (Passive: revive with 1 HP once per arc at 0 HP; Active: Bonus Action, once per scene, ignore difficult terrain/+1 vs. forced movement or +2 damage/+1 die toward unfinished business).
 - **Narrative Hook**: Defying the grave, serving a second purpose.
 
-#### 🌑 Unbound
+### Unbound
 **Lore**: Anomalies outside fate’s pattern, possibly temporal echoes or Elder God shards. They resist prophecy and exhibit unnatural luck.
 - **Movement**: 30 ft (6 squares); treat difficult terrain as normal for 1 round per rest.
 - **Stealth**: +1 when moving unpredictably.
@@ -83,7 +84,7 @@ The *Legacy of Kain: Bloodbound RPG* presents six primary Lineages, each with di
 
 ---
 
-### Observations and Potential Uses
+## Guidance
 - **Lore Integration**: The Lineages are deeply tied to Nosgoth’s themes of fate, corruption, and rebellion. GMs can use their narrative hooks to craft stories around restoring balance (Turelim, Sarafan), defying destiny (Unbound, Razielim), or succumbing to alien influence (Hylden-Blooded).
 - **Mechanical Balance**: Each Lineage offers unique movement, stealth, and combat advantages, balanced by limitations (e.g., Vampire sterility, Wraith Soul stress, Hylden Corruption). Subtypes add variety without overwhelming complexity.
 - **Campaign Hooks**: Social prejudice (e.g., humans vs. Hylden-Blooded), relic quests (e.g., Razielim seeking lost heritage), or prophecy conflicts (e.g., Unbound disrupting fate) can drive encounters and campaigns.

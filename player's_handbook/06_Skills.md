@@ -1,8 +1,8 @@
-Chapter 6: Skill Checks and Abilities
+# Chapter 6: Skill Checks and Abilities
 In the shadowed ruins of Nosgoth, every action carries weight—whether weaving through a vampire’s claws, inscribing forbidden glyphs, or swaying a crowd with honeyed words. The skill check system governs how characters attempt tasks, face challenges, and shape the narrative through their choices. This chapter details how to resolve actions using the D6 dice pool system, how skills define a character’s capabilities, and how success or failure can alter the course of your journey in the Legacy of Kain: Bloodbound RPG.
-Skill Check Mechanics
+## Skill Check Mechanics
 Skill checks are the heart of resolving actions in Nosgoth. Whether you’re leaping across crumbling spires, countering a Hylden’s arcane trap, or convincing a Sarafan lord to spare your life, a skill check determines your success.
-How to Roll a Skill Check
+### How to Roll a Skill Check
 To attempt a skill check:
 
 Identify the Task: The Game Master (GM) determines the relevant Attribute and Skill for the action.
@@ -11,7 +11,7 @@ Roll and Count Successes: Roll the dice pool. Each 5 or 6 counts as one success.
 Compare to Difficulty: The number of successes must meet or exceed the task’s Difficulty Rating (DR) to succeed.
 
 Players may enhance their rolls by pushing (see below) or leveraging narrative advantages, subject to GM approval.
-Difficulty Ratings (DR)
+## Difficulty Ratings (DR)
 Every task is assigned a Difficulty Rating, reflecting the number of successes needed for a standard success. The table below outlines typical difficulties and example tasks:
 
 
@@ -59,7 +59,7 @@ Extreme/Legendary
 Possessing a powerful boss, breaking chains of prophecy
 
 
-Pushing a Roll
+## Pushing a Roll
 If a skill check fails, a player may choose to push the roll for another chance at success, at great risk:
 
 Reroll Non-Successes: Reroll all dice that did not result in a 5 or 6.
@@ -67,14 +67,14 @@ Add Corruption Die (CD): Include one additional D6, called a Corruption Die, in 
 Corruption Risk: For each 1 rolled on a Corruption Die, the character’s Corruption score increases by 1. If the Corruption score was 3 or higher before the roll, and a 1 is rolled on the CD, the character must immediately roll 2d6 on the Corruption Dice Failure Table (see Chapter 5: Corruption and Consequences).
 Narrative Impact: Pushing reflects desperation or tapping into forbidden power, adding tension and risk to the story.
 
-Opposed Rolls
+## Opposed Rolls
 When two characters directly compete (e.g., a vampire sneaking past a guard’s watchful eyes), use an opposed roll:
 
 Both characters roll their relevant dice pools (Attribute + Skill).
 The character with the most 6s wins.
 If tied, the GM determines the outcome, which may result in a standoff, stalemate, or unexpected consequence.
 
-Degrees of Success
+## Degrees of Success
 The number of successes rolled determines not only whether you succeed but how impressively you do so:
 
 
@@ -100,7 +100,7 @@ Strong Success: Gain a bonus, such as extra information or faster completion.
 Critical Success: Choose a bonus effect or narrate a dramatic outcome, subject to GM approval.
 
 
-Bonus Effects for Extra Successes
+## Bonus Effects for Extra Successes
 Extra successes beyond the DR enhance the outcome, allowing for tactical or narrative advantages. Below are sample effects:
 
 

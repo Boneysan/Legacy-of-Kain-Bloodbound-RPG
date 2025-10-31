@@ -1,10 +1,6 @@
-Here’s a polished **chapter draft** that merges your *Dice Success System* and *Combat Rules* into a single structured rules chapter. I kept it in a style consistent with a tabletop RPG corebook—clear, modular, and with headings for easy reference.
+# Chapter 10: Dice System
 
----
-
-# Chapter 3: Dice & Combat System
-
-## 🎲 Dice Success System
+## Dice Success System
 
 The Legacy of Kain: Bloodbound RPG uses a **D6-based success system**. This mechanic drives all core actions, from combat to exploration, and is designed to emphasize risk, tension, and the dramatic weight of every roll.
 
@@ -28,7 +24,7 @@ The Legacy of Kain: Bloodbound RPG uses a **D6-based success system**. This mech
 
 ---
 
-### 💥 Extra Successes: Enhancing Actions
+### Extra Successes: Enhancing Actions
 
 If a player rolls more successes than required, they may choose to **enhance their outcome**:
 
@@ -67,7 +63,7 @@ Some damage types have unique effects that are not traditional statuses:
 
 ---
 
-### 🎲 Advantage & Disadvantage
+### Advantage & Disadvantage
 
 Situational factors can grant you **Advantage** or impose **Disadvantage** on a roll. This system gives you a second chance—either to turn failure into success, or to have your success snatched away by fate.
 
@@ -93,11 +89,11 @@ The GM decides how extra successes manifest, but players are encouraged to propo
 
 ---
 
-## ⚔ Combat System
+## Combat System
 
 Combat in Nosgoth reflects the brutal, tactical, and often supernatural struggle of its denizens. Every exchange carries weight—each strike a test of willpower, blood, and fate.
 
-### 🧮 Initiative
+### Initiative
 
 * Roll D6s equal to **Shadow + (Tactics or Concentration)**.
 * Highest number of successes acts first.
@@ -105,7 +101,7 @@ Combat in Nosgoth reflects the brutal, tactical, and often supernatural struggle
 
 ---
 
-### 🗡 Attacks
+### Attacks
 
 1. Roll a pool equal to **Attribute + Weapon Mastery**.
 2. Each 5–6 = 1 success.

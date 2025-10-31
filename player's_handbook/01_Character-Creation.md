@@ -1,6 +1,7 @@
-Chapter 1: Level 1 Character Creation Guide
+# Chapter 1: Character Creation
+## Overview
 Welcome to the dark and perilous world of Nosgoth, where your character’s choices will shape their destiny. This guide will walk you through creating a Level 1 character, from their origins to their gear, ready to face the cursed realms of vampires, humans, wraiths, and Hylden. Follow these steps to forge a hero, villain, or something in between.
-🧱 Step 1: Concept & Background
+### Step 1: Concept & Background
 Begin by envisioning your character’s core identity:
 
 Choose your origin: Are you a cursed vampire noble, bound by ancient blood? A human Sarafan zealot, wielding faith against the undead? A spectral wraith, caught between life and death? Or perhaps another archetype that fits Nosgoth’s grim tapestry?
@@ -8,7 +9,7 @@ Determine your faction allegiance or independence: Are you loyal to a vampire cl
 Pick a core motivation: Is your character driven by vengeance, redemption, survival, or unraveling the mysteries of fate?
 
 This step sets the narrative foundation for your character’s journey.
-🧬 Step 2: Choose a Race
+### Step 2: Choose a Race
 Your character’s lineage defines their inherent abilities and connection to Nosgoth. Each race comes with unique traits and starting bonuses. Choose one:
 
 Vampire:
@@ -48,7 +49,7 @@ Narrative Hook: Bearers of ancient wrath, seeking dominion or revenge.
 
 
 
-🧙 Step 3: Choose a Class
+### Step 3: Choose a Class
 Select a class to define your character’s combat style and abilities. Each class grants unique perks, starting HP, a skill point pool (6–10 points), perk tree access, and starting gear. Examples include:
 
 Blood Mage: Spellcaster focused on blood magic and life manipulation.
@@ -57,7 +58,7 @@ Forbidden Scholar: Uses corrupted spells and arcane relics.
 Outcast Warden: Hybrid survivalist and rogue.
 
 Consult your GM for the full class list and specific perks.
-🎲 Step 4: Assign Attributes
+### Step 4: Assign Attributes
 Distribute 15 points across six attributes, with a maximum of 3 per attribute. Each governs specific aspects of your character:
 
 Fury: Aggression and emotional force. Governs raw power, rage, and intimidation. Key for classes like Blood Knight or Dreadblade. Linked to skills like Weapon Mastery and Presence.
@@ -67,26 +68,26 @@ Will: Mental resilience and discipline. Key for Glyph Seeker or Hylden Warlock. 
 Focus: Mental acuity and precision. Important for perception and complex tasks. Linked to Observation, History, and Craft.
 Blood: Physical vitality and life essence. Core for Blood Knight or Sangromancer. Influences Blood Point reserves and blood magic.
 
-Calculating Starting Resource Pools
+#### Calculating Starting Resource Pools
 
 Soul Energy (SE): For classes using Soul Energy, maximum SE = 3 + Will attribute + 1 (Character Level / 2, rounded up). See the Spellcasting in Nosgoth section for details.
 Blood Points (BP): For classes or lineages using Blood Points, maximum BP = 4 + Shadow attribute + 1. See the Spellcasting in Nosgoth section for details.
 
-🧠 Step 5: Assign Skills
+### Step 5: Assign Skills
 Assign skill points (typically 6–10, based on class and race) to skills like Glyphcasting, Weapon Mastery, Stealth, or Forbidden Knowledge. Each skill is tied to an attribute and contributes to dice pools.
 
 At Level 1, no skill rank can exceed 3 or the highest associated attribute (e.g., Weapon Mastery cannot exceed your Fury or Shadow if either is 2).
 The absolute maximum for any skill is 5 ranks.
 Consult the Skill-to-Attribute Summary Table for associations.
 
-🗡 Step 6: Choose Starting Gear
+### Step 6: Choose Starting Gear
 Select starting gear based on your class archetype. General rules:
 
 Choose one weapon from your class’s list.
 Select appropriate armor or a universal option.
 Optionally include 1 minor relic or spell scroll (GM discretion).
 
-Example Gear by Class
+#### Example Gear by Class
 
 Blood Knight:
 Weapons: Scion Blade (6 damage, Bleed on crit), Bloodfang Dagger (4 damage, +2 vs. bleeding foes), Nightblade Saber (5 damage, +1 armor penetration), or universal options like Nosgothian War Axe.
@@ -129,22 +130,22 @@ Armor: Ritual Vestments, Woven Shadows, Inkbound Mantle.
 
 
 
-Calculating Defense Value (DV)
+#### Calculating Defense Value (DV)
 Base DV = 1 + (higher of Shadow or Will). Add modifiers from armor or other sources.
-📜 Step 7: Pick Perks
+### Step 7: Pick Perks
 At Level 1, gain two perks:
 
 Class Perk: From your class’s perk tree (e.g., Blood Knight’s “Iron Hide”).
 Universal Perk: Choose one Tier 1 Universal Perk (e.g., “Blood for Blood”).
 
-🧩 Step 8: Define Corruption Path
+### Step 8: Define Corruption Path
 Choose a Corruption Path (for forbidden magic users or Hylden-blooded) to reflect how your character manifests their growing taint.
-🗂 Step 9: Final Touches
+### Step 9: Final Touches
 
 Choose a name, appearance, and notable symbol.
 Write 1–2 flaws or fears.
 Select 1 short-term and 1 long-term goal.
 Consult your GM for campaign-specific adjustments.
 
-Conclusion
+## Conclusion
 Your character is now ready to step into Nosgoth—cursed, powerful, and hunted. Let their choices echo across the realms. Consult your GM for additional rules or setting details, and prepare to face the darkness.

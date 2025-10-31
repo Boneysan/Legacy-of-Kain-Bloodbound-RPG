@@ -1,6 +1,6 @@
-Glossary
+# Chapter 12: Glossary
 
-Short Rest (Moment's Respite)
+## Short Rest (Moment's Respite)
 
 Duration: Approximately 1 hour.
 
@@ -21,7 +21,7 @@ Regain 1 expended use of a "per scene" ability, if not heavily used.
 
 
 
-Long Rest (Abyssal Slumber)
+## Long Rest (Abyssal Slumber)
 
 Duration: At least 6–8 hours of largely uninterrupted downtime in a secure environment. Interruptions (e.g., an hour or more of combat or strenuous activity) negate benefits.
 
@@ -50,7 +50,7 @@ Lineage Specifics: Each lineage rests uniquely (e.g., Zephonim dissolve into ins
 
 
 
-Sanity
+## Sanity
 Sanity represents a character’s mental resilience against Nosgoth’s horrors, forbidden knowledge, and reality-bending forces. It measures psychological integrity, eroded by "sanity damage" from terrifying entities, Hylden magic, spells like Nightmare Seed, or psychic trauma. Particularly central to classes like the Hylden Warlock, any character may face Sanity tests.
 
 Effects of Sanity Loss:
@@ -66,5 +66,5 @@ Recover Sanity during rests or through potent magical intervention for severe ca
 
 
 
-Scenes
+## Scenes
 A scene is a narrative segment, such as a combat encounter, social negotiation, or exploration sequence. Scene-based abilities (e.g., “once per scene”) reset when transitioning to a new context, like moving from battle to conversation or changing major locations. Requires one Tier 2 perk.

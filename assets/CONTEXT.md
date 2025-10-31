@@ -303,6 +303,20 @@ Each damage type has specific associated status effects.
 - Header styles in early chapters remain as originally authored (Attacks + Special Abilities), aligning with the Introduction’s allowance for mixed schema.
  - Verification checks: no remaining "Damage Reduction" strings in 01–06; Chapter 05 shows no "Armor … DR" patterns; no stray "AC"/"DC" remain; DR saves preserved.
 
+### Player's Handbook — Header & Document Standardization — Oct 31, 2025
+- Standardized chapter titles to "# Chapter N: Title" across Player's Handbook files (00–12).
+- Normalized common section headers per chapter type:
+   - Character Creation: Introduced "Overview" and converted Steps 1–9 into proper "### Step N" headings; promoted subtopics to "####".
+   - Lineages & Race: Added "Overview"; converted lineage headers to plain "###" without emojis; renamed closing section to "Guidance".
+   - Classes: Added H1 and structured early sections (Class Overview, Class Progression, Universal Perks Progression) as H2.
+   - Perks: Added H1; promoted major sections (Perk Progression, Class/Universal/Corrupted Perks, Multiclassing, GM Optional Rule) to H2; tier groups to H3.
+   - Skills and Equipment: Added H1 and converted plain section labels to H2/H3/H4 as appropriate.
+   - Combat (Ch. 9): Removed stray opening code fences; preserved core content. Tail clean-up is pending minimal follow-up to remove an old draft note.
+   - Dice System (Ch. 10): Removed draft preface; set proper chapter number and normalized emoji headers.
+   - Realms/Terrain/Arcane Power (Ch. 11): Added H1 and promoted section labels and Overviews to headings.
+   - Glossary (Ch. 12): Added H1 and converted entries to H2 sections.
+- Scope: Content unchanged apart from heading normalization and light cleanup. No rules or mechanics altered.
+
 ### GM_Guide Chapters Completed ✓
 1. **00_GM-Introduction.md** - GM philosophy, themes, tone, session structure, safety tools
 2. **01_Running-the-Game.md** - DR guidelines, advantage adjudication, session pacing, common rulings
