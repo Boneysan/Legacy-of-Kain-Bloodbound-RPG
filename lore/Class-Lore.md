@@ -12,6 +12,10 @@ This document summarizes the class flavor, origins, and narrative roles of Nosgo
 - Warden of Balance
 - Hylden Warlock
 
+See also:
+- Player’s Handbook — Chapter 03: Classes (`player's_handbook/03_Classes.md`) for mechanics and progression.
+- Lore — World Primer (`lore/World-Primer.md`) for factions, locations, and themes to embed classes in play.
+
 ---
 
 ## Blood Knight

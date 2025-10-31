@@ -331,6 +331,15 @@ Each damage type has specific associated status effects.
    - Added compact At-a-glance TOC; inserted first-use terminology note; applied 7.x numbering across weapons/armor/crafting/tactics; promoted plain labels to headings; converted Universal Armor list into a Markdown table.
 - Scope: Content unchanged apart from heading normalization and light cleanup. No rules or mechanics altered.
 
+### Player's Handbook — Numbering & TOC Phase 3 — Oct 31, 2025
+- 02_Lineages-and-Race.md:
+   - Added compact At-a-glance TOC; inserted first-use terminology note; applied 2.x numbering across lineages; promoted Vampire and Human subtypes to numbered subheaders (2.2.1–2.2.4, 2.5.1–2.5.3); normalized “Guidance” to 2.8.
+   - Content unchanged apart from structure; DV/DR/Armor terms preserved as defined.
+- 03_Classes.md:
+   - Added compact At-a-glance TOC; inserted first-use terminology note; applied 3.x numbering to major sections: Class Overview (3.1), Class Progression (3.2), Universal Perks (3.3), and Classes (3.4).
+   - Converted class names to numbered subheaders (3.4.1–3.4.8: Blood Knight → Hylden Warlock). Left extensive perk lists as-is for now; table conversion can follow in a focused pass.
+   - Content unchanged apart from structure; DV/DR/Armor terms preserved as defined.
+
 ### GM_Guide — Numbering & TOC Phase 1 — Oct 31, 2025
 - 01_Running-the-Game.md:
    - Added compact At-a-glance TOC linking sections 1.1–1.11.
@@ -471,6 +480,28 @@ Each damage type has specific associated status effects.
 - Regional effects for legendary creatures
 
 ---
+
+### Lore — Cross-Linking Pass — Oct 31, 2025
+- World Primer cross-links:
+   - Key Factions → GM Guide NPC Compendium; Class-Lore; Lineage-Lore
+   - Legendary Figures → GM Guide NPC Compendium
+   - Spectral Realm → PHB Ch. 11 (Realms), Ch. 08 (Corruption), Ch. 05 (Magic)
+   - Using this in play → GM Guide 01 (Running), 02 (Encounter Design)
+- Class-Lore: Added See also links to PHB Ch. 03 (Classes) and the World Primer.
+- Lineage-Lore: Added See also links to PHB Ch. 02 (Lineages) and the World Primer.
+
+### Lore — World Primer Atmospheric Enhancement — Oct 31, 2025
+- Enhanced `lore/World-Primer.md` with gothic horror atmosphere and evocative flavor text:
+   - **Opening Hook:** Added iconic "History abhors a paradox" quote and immersive introduction establishing tone, setting, and central themes.
+   - **Overview:** Expanded with sensory details (gray skies, iron-tasting air, abandoned villages, warning stones).
+   - **Key Factions:** Transformed bullet points into atmospheric paragraphs with visual descriptions (Sarafan armor glowing with sigils, vampire politics as "dance of blood debts," Hylden influence causing metal to grow like cancer).
+   - **Legendary Figures:** Created character portraits with physical descriptions, personality beats, and thematic resonance (Kain's light-drinking armor, Raziel's skeletal form, Moebius "smiles when he lies, which is always").
+   - **Key Locations:** Added sensory atmosphere to each location (Pillars humming discordantly, Abyss tasting of salt and copper, Citadel as "monument to refusal").
+   - **Regional Descriptions:** Expanded North/East/South/West regions with gothic imagery (avalanches carrying voices, children learning vampire silhouettes, fireflies leading travelers astray, wind carrying scent of ash and ambition).
+   - **Timeline:** Converted bullet points into narrative paragraphs capturing stakes, motivations, and cyclical tragedy of each major event.
+   - **Spectral Realm:** Added "What it feels like" section with visceral descriptions; dramatically expanded principles (Distortion, Perception, Interaction, Consequence) with unsettling details of disorientation, danger, and transformation.
+   - **Campaign Seeds & Quick Hooks:** Transformed simple prompts into fully atmospheric adventure premises with specific stakes, complications, and haunting imagery (Calling Lighthouse, Name Market, Skipped Day, Ferryman's Price).
+- Scope: Maintained clean reference structure while immersing readers in world's atmosphere; no mechanical changes, pure flavor enhancement.
 
 ## GM_Guide Overview
 

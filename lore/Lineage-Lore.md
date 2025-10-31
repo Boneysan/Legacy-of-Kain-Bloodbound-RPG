@@ -10,6 +10,10 @@ This document distills the narrative background and cultural myths of Nosgoth’
 - Revenants
 - Unbound
 
+See also:
+- Player’s Handbook — Chapter 02: Lineages & Race (`player's_handbook/02_Lineages-and-Race.md`) for mechanical traits and options.
+- Lore — World Primer (`lore/World-Primer.md`) for setting context, factions, and key locations tied to each lineage.
+
 ---
 
 ## Vampires

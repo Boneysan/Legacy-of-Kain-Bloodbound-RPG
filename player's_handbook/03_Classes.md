@@ -1,8 +1,25 @@
 # Chapter 3: Classes and Perks
 In the blood-soaked ruins of Nosgoth, where the Wheel of Fate grinds souls to dust, characters rise as avatars of power, defiance, or despair. The Classes of Legacy of Kain: Bloodbound RPG embody mythic archetypes, each tied to Nosgoth’s fractured history of vampiric wars, spectral unrest, and cosmic betrayal. From the relentless fury of Blood Knights to the entropy-wielding Hylden Warlocks, every class carries a legacy that shapes their abilities and narrative destiny. This chapter details the eight core classes, their lore, mechanics, and progression, alongside the Universal Perks System that allows characters to transcend their roles, and the perilous Corrupted Perks that tempt with forbidden power.
-## Class Overview
+
+## At a glance
+- Class Overview
+- Class Progression
+- Universal Perks Progression
+- Classes
+	- Blood Knight
+	- Soul Reaver
+	- Shadowmancer
+	- Sangromancer
+	- Glyph Seeker
+	- Dreadblade
+	- Warden of Balance
+	- Hylden Warlock
+
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Soul, and Soulfire interactions are detailed in Chapters 5 (Magic), 8 (Corruption), and 9 (Combat). For faction and setting context, see Lore — World Primer.
+
+## 3.1 Class Overview
 Each class reflects a unique aspect of Nosgoth’s mythos, blending martial prowess, arcane mastery, and divine purpose. Players select a class at character creation, defining their core abilities, stats, and role in the party. Progression includes Class Perks (gained every level) and Universal Perks (gained at specific milestones), with humans receiving additional perks via their racial trait. Corrupted Perks offer dark power at a cost, unlocked through narrative events or a Corruption Threshold.
-## Class Progression
+## 3.2 Class Progression
 
 Starting Stats: Each class begins with 5–6 skill points, 8–12 starting HP, and +4–6 HP per level.
 Skill Progression: Gain +1 skill point per level to allocate to skills like Weapon Mastery, Stealth, or Glyphcasting.
@@ -13,7 +30,7 @@ Human Racial Trait: Humans gain one extra Universal Perk at Levels 4, 8, 12, 16,
 Multiclassing: At Level 5+, players may request a Tier 1 perk from another class’s tree with GM approval, enabling hybrid builds (e.g., a Blood Mage with Outcast stealth perks).
 Custom Perks: GMs may create unique perks tied to backstory, story moments, or relics (e.g., Blade of the Broken Circle: +3 damage vs. former allies, once per session).
 
-## Universal Perks Progression
+## 3.3 Universal Perks Progression
 
 Tier 1 (Levels 1–5): Foundational perks; no prerequisites.
 Tier 2 (Levels 6–10): Requires one Tier 1 Universal Perk; may choose lower-tier perks.
@@ -21,8 +38,8 @@ Tier 3 (Levels 11–15): Requires one Tier 2 Universal Perk; may choose lower-ti
 Tier 4 (Levels 16–20): Requires one Tier 3 Universal Perk; may choose lower-tier perks.
 Corrupted Perks: Unlocked at Corruption 3–6 (Tier 1), 7–10 (Tier 2), or 11–15 (Tier 3), chosen in place of Universal Perks with GM approval.
 
-## Classes
-Blood Knight
+## 3.4 Classes
+### 3.4.1 Blood Knight
 Lore: Once temple guardians and arena champions, Blood Knights are forged in blood rites and combat’s crucible. Descended from vampiric warlords who survived Kain’s purges, they broke from the Dumahim to form martial sects. For them, pain is purpose, and battle is a sacrament. They channel rage and resilience into overwhelming might, standing as unyielding bulwarks against Nosgoth’s horrors.
 Role: Tank / Melee BruiserStarting Stats: 5 skill points, 12 HP, +6 HP per levelCore Stats: Fury, BloodSkill Suggestions: Weapon Mastery, Evasion, Unarmed Combat, Tactics, PresenceCore Abilities:
 
@@ -167,7 +184,7 @@ Blood Rites: Blood Knights might seek ancient vampiric relics to enhance their p
 Honor’s Cost: Their martial code could clash with party goals, forcing moral dilemmas.
 Dumahim Legacy: Former clan ties may bring allies or enemies, tying quests to Nosgoth’s vampire wars.
 
-Soul Reaver
+### 3.4.2 Soul Reaver
 Lore: Wielding echoes of Raziel’s Reaver blade, Soul Reavers tread between Material and Spectral Realms. Haunted by visions of past and future, they blend magic and combat to strike body and soul. Hunted by Sarafan and Hylden for their potential, they are rare, enigmatic warriors whose existence defies Nosgoth’s fate.
 Role: Phase Warrior / Hybrid CasterStarting Stats: 5 skill points, 10 HP, +5 HP per levelCore Stats: Soul, FurySkill Suggestions: Weapon Mastery, Observation, Glyphcasting, Forbidden Knowledge, ConcentrationCore Abilities:
 
@@ -312,7 +329,7 @@ Spectral Visions: Visions of Raziel or future fates could drive quests to unrave
 Hunted Outcast: Sarafan or Hylden pursuit creates tension, forcing alliances or betrayals.
 Reaver Legacy: Seeking the true Reaver blade or its fragments ties to ancient ruins or Elder God plots.
 
-Shadowmancer
+### 3.4.3 Shadowmancer
 Lore: Born from Zephonim assassin cults, Shadowmancers wield the darkness between realms. Masters of illusion, fear, and sudden violence, they serve as spies or saboteurs, hiding in forgotten towers. The veil is their weapon and sanctuary, making them elusive predators in Nosgoth’s gloom.
 Role: Stealth / Controller / SummonerStarting Stats: 6 skill points, 8 HP, +4 HP per levelCore Stats: Shadow, SoulSkill Suggestions: Stealth, Deception, Thievery, Possession, ObservationCore Abilities:
 
@@ -457,7 +474,7 @@ Zephonim Legacy: Ties to assassin cults could involve reclaiming lost relics or 
 Veil’s Sanctuary: Shadowmancers might seek hidden towers, uncovering secrets or traps.
 Dark Alliances: Their stealth makes them ideal spies, drawing them into factional intrigue.
 
-Sangromancer
+### 3.4.4 Sangromancer
 Lore: Heirs to Nosgoth’s darkest sorcery, Sangromancers wield blood magic from Hylden rituals and vampiric biology. Banned by Sarafan and feared by Balance Wardens, they hide in ruined temples, reshaping flesh and controlling battlefields with spilled vitae. Every pulse fuels their power.
 Role: Blood Mage / Battlefield ControlStarting Stats: 6 skill points, 9 HP, +5 HP per levelCore Stats: Blood, SoulSkill Suggestions: Rituals, Forbidden Knowledge, Concentration, Presence, Craft (Alchemy)Core Abilities:
 
@@ -602,7 +619,7 @@ Forbidden Arts: Sangromancers’ blood magic draws Sarafan hunters or Hylden all
 Blood-Wells: Seeking ancient blood fonts could unlock new powers or curses.
 Moral Decay: Their reliance on blood may strain party trust, especially with Wardens.
 
-Glyph Seeker
+### 3.4.5 Glyph Seeker
 Lore: Arcane scholars and sigil-scribes, Glyph Seekers channel structured magic through symbols and relics. Born from pre-Pillar magical studies, they aim to restore order via enchantment. Exiled Hylden researchers or human vault-dwellers, they craft Nosgoth’s remaining wards with precision.
 Role: Support / Utility CasterStarting Stats: 6 skill points, 8 HP, +5 HP per levelCore Stats: Soul, WillSkill Suggestions: Glyphcasting, Rituals, Forbidden Knowledge, Craft, ObservationCore Abilities:
 
@@ -747,7 +764,7 @@ Pillar Restoration: Quests to repair the Balance Pillars could define their purp
 Exiled Scholars: Hylden or human mentors may offer forbidden knowledge or betrayal.
 Ward Keepers: Maintaining Nosgoth’s wards ties them to ancient ruins or factions.
 
-Dreadblade
+### 3.4.6 Dreadblade
 Lore: Assassins moving like wind through shadow, Dreadblades descend from Sarafan enforcers or cursed Zephonim survivors. Blending martial precision with spectral poisons, they deliver single-strike kills as elite scouts in cursed lands. Each step foretells death.
 Role: Assassin / Burst DamageStarting Stats: 5 skill points, 9 HP, +5 HP per levelCore Stats: Shadow, FurySkill Suggestions: Stealth, Weapon Mastery, Thievery, Evasion, ObservationCore Abilities:
 
@@ -892,7 +909,7 @@ Sarafan Shadows: Past ties to Sarafan or Zephonim could spark vengeance or redem
 Spectral Poisons: Crafting unique toxins might require rare ingredients from cursed lands.
 Lone Predators: Their solitary nature could create tension with party dynamics or factions.
 
-Warden of Balance
+### 3.4.7 Warden of Balance
 Lore: Sworn to protect the shattered Balance Pillars, Wardens are priests, enforcers, and oracles chosen by visions or divine ritual. Part Sarafan, part Oracle-Blooded, they maintain equilibrium between realms and morality, fueled by cosmic duty.
 Role: Judge / Fate Caster / SupportStarting Stats: 6 skill points, 10 HP, +5 HP per levelCore Stats: Will, SoulSkill Suggestions: Rituals, Glyphcasting, Insight, Persuasion, ReligionCore Abilities:
 
@@ -1037,7 +1054,7 @@ Pillar Guardians: Protecting or restoring Pillars could drive epic quests.
 Divine Visions: Oracular insights might reveal Elder God schemes or party betrayals.
 Cosmic Duty: Balancing moral conflicts within the party tests their resolve.
 
-Hylden Warlock
+### 3.4.8 Hylden Warlock
 Lore: Exiled prophets wielding glyph decay and soul leeching, Hylden Warlocks are Nosgoth’s most feared casters. Escaped from the Spectral Realm, they twist time and sanity, whispering truths too dangerous to speak. Power is their only god.
 Role: Dark Mage / DebufferStarting Stats: 6 skill points, 8 HP, +4 HP per levelCore Stats: Soul, WillSkill Suggestions: Forbidden Knowledge, Glyphcasting, Rituals, Deception, ConcentrationCore Abilities:
 
