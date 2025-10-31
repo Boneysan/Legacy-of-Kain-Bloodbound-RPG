@@ -253,8 +253,8 @@ Each damage type has specific associated status effects.
 - `05_Constructs-and-Automatons.md` - 8 creatures (Clockwork Knights to Soul-Towers) ✓ COMPLETE
 - `06_Hylden-Forces.md` - 8 creatures (Shock Troopers to Void-Spoken Oracles) ✓ COMPLETE
 - `07_Elemental-and-Arcane.md` - 8 creatures (Elemental & Arcane) ✓ COMPLETE
-- `08_Ancient-Creatures.md` - Primordial beings (PENDING)
-- `09_Legendary-Entities.md` - Story-bound threats (PENDING)
+- `08_Ancient-Creatures.md` - 8 creatures (Ancients & Ruinspawn) ✓ COMPLETE
+- `09_Legendary-Entities.md` - 8 creatures (Legendary & Story-Bound) ✓ COMPLETE
 
 ### Lore Documentation
 - `World-Primer.md` - Overview of Nosgoth (empty, needs population)
@@ -285,7 +285,7 @@ Each damage type has specific associated status effects.
 - **Corruption system with all Tier 1-3 Corrupted Perks (08_Corruption.md - COMPLETE)**
 - **Project Context document (assets/CONTEXT.md - COMPLETE)**
 - **GM_Guide folder structure with 6 chapters (COMPLETE)**
-- **Monster_Manual folder structure with Introduction + 7 chapters (IN PROGRESS)**
+- **Monster_Manual folder structure with Introduction + 9 chapters (COMPLETE)**
 
 ### GM_Guide Chapters Completed ✓
 1. **00_GM-Introduction.md** - GM philosophy, themes, tone, session structure, safety tools
@@ -367,6 +367,28 @@ Each damage type has specific associated status effects.
    - Thundercrack Behemoth
    - Mist Binder
    - Plus: Elemental hazards, anti-magic counters, encounter variants by terrain/weather
+
+9. **08_Ancient-Creatures.md** - 8 fully statted creatures:
+   - Relic-Watcher Colossus (Boss, TV 16)
+   - Stone-Chime Oracle (Controller, TV 12)
+   - Blackmarrow Leviathan (Boss, TV 17)
+   - Bound Pillar Shade (Elite, TV 11)
+   - Vaultspawn Ravager (Elite, TV 10)
+   - Titan-Kin Stalker (Major, TV 12)
+   - Forgotten Dreambeast (Major, TV 13)
+   - Root-Entombed Horror (Deadly, TV 15)
+   - Plus: Site-locked guardians, lair effects, terrain-denial tools
+
+10. **09_Legendary-Entities.md** - 8 fully statted creatures:
+   - Razielic Remnant (Boss, TV 18)
+   - Kain’s Echo-Knight (Boss, TV 17)
+   - Ariel’s Spectral Wrath (Deadly, TV 16)
+   - The Blood Moon Prophet (Major, TV 15)
+   - Keeper of the Abyssal Heart (Boss, TV 19)
+   - Unseen Monarch (Deadly, TV 16)
+   - The Pale Sarafan (Deadly, TV 17)
+   - Warden of Lost Names (Deadly, TV 16)
+   - Plus: Lair actions, regional effects, narrative stakes and foreshadowing guidance
 
 ### In Progress / Needs Refinement
 - Equipment lists and weapon statistics (07_Equipment.md)
