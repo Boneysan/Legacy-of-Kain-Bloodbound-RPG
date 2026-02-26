@@ -53,7 +53,7 @@ Wraith:
 
 Description: Souls untethered from flesh, wraiths walk the boundary of life and death, manipulating the Spectral Realm.
 Bonuses: +1 to Possession and +1 to Observation skills.
-Unique Trait: Wraith Phasing allows translucency, movement through thin barriers, Soul damage ignoring physical armor, and resistance to non-magical physical damage.
+Unique Trait: Wraith Phasing allows translucency, movement through thin barriers, Spectral damage ignoring physical armor, and resistance to non-magical physical damage.
 Movement: Ignore terrain penalties; advantage on Stealth checks in the Spectral Realm.
 Narrative Hook: Forgotten by death, hunted by time.
 
