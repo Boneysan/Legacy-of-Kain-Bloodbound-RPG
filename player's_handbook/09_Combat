@@ -76,20 +76,13 @@ Nosgoth’s warriors turn success into dominance. Extra successes (beyond those 
 
 ### In Combat:
 - **+1 Damage**: Add 1 damage per extra success (up to weapon or GM limit).
-- **Status Effects** (GM approval may be required):
-  - **Bludgeoning**: Staggered (target cannot take Reactions until their next turn) or Prone (target falls; must spend movement to stand).
-  - **Piercing**: Deep Wounds (disadvantage on physical checks for 1 round).
-  - **Slashing**: Bleeding (1 damage at the start of their turn for 2 rounds).
-  - **Fire**: Burning (2 damage per round for 2 rounds, extinguished with a DR 2 action).
-  - **Cold**: Slowed (movement halved for 1 round) or Frozen (immobilized for 1 round, DR 3 to break free).
-  - **Lightning**: Shocked (disadvantage on attacks for 1 round).
-  - **Soul**: Soul Drain (target loses 1 Soul Energy, and the attacker gains it).
-  - **Soulfire**: Blighted (prevents natural healing for 1 round).
-  - **Radiant**: Blinded (disadvantage on attacks and perception checks for creatures of darkness).
-  - **Corruption**: Corruption Point (adds to target’s Corruption track).
-  - **Necrotic**: Weakened (–2 damage on next attack).
-  - **Void**: Frayed Reality (–2 dice on next saving throw).
-  - **Force**: Pushed (target is moved 5 feet) or Prone.
+- **Status Effects**:
+  - **Physical**: *Staggered* (cannot take Reactions) or *Bleeding* (1 damage/round for 2 rounds).
+  - **Elemental**: *Slowed* (movement halved) or *Shocked* (disadvantage on attacks).
+  - **Force**: *Prone* (target falls) or *Pushed* (moved 5-10 ft).
+  - **Spectral**: *Soul Drain* (target loses 1 Soul Energy, attacker gains 1).
+  - **Radiant**: *Blinded* (disadvantage on attacks/perception) or *Purged* (ends 1 shadowy effect).
+  - **Entropic**: *Decay* (target cannot heal HP this round) or *Corrupted* (adds 1 Corruption Point).
 - **Multi-Target Strike**: Hit additional targets (GM discretion for area or sweeping attacks).
 - **Bypass Armor**: Ignore 1 point of armor per extra success (if applicable).
 
@@ -99,91 +92,64 @@ Nosgoth’s warriors turn success into dominance. Extra successes (beyond those 
 - Gain narrative advantages (e.g., repositioning, uncovering hidden lore).
 - Create stunts (e.g., leaping to a chandelier, grabbing a relic mid-fight).
 
-**Example**: Kain rolls 5 successes against a foe with DV 2 using a Soulfire attack. With 3 extra successes, he could deal +3 damage, inflict Blighted and Bleeding, or bypass 3 points of armor.
+**Example**: Kain rolls 5 successes against a foe with DV 2 using a Spectral attack. With 3 extra successes, he could deal +3 damage, inflict Soul Drain, or bypass 3 points of armor.
 
 The GM adjudicates extra success outcomes, balancing player creativity with narrative coherence. Players are encouraged to propose flavorful effects tied to damage types.
 
 ## 9.7 Damage Types and Effects
 
-Nosgoth’s conflicts are shaped by diverse damage types, each with unique properties that influence combat outcomes. These reflect the supernatural and physical forces at play in the cursed land.
+Nosgoth’s conflicts are shaped by diverse damage types, consolidated into six categories to reflect the supernatural and physical forces at play.
 
-### 9.7.1 Physical Damage Types
-- **Bludgeoning**: From maces, hammers, or fists. Reduces armor by 1 for the attack. Effective against brittle structures or undead like skeletons. Can cause Staggered or Prone.
-- **Piercing**: From spears, arrows, or fangs. Ignores 1 point of armor (unless specified). Can cause Deep Wounds.
-- **Slashing**: From swords, axes, or claws. Effective against unarmored foes. Can cause Bleeding.
+### 9.7.1 Physical Damage
+- **Includes**: Bludgeoning, Piercing, Slashing.
+- **Definition**: Mundane trauma from weapons, claws, or falling debris.
+- **Effects**: Reduced by Armor. Effective against most biological foes.
+  - *Bludgeoning* tends to Stagger.
+  - *Piercing* tends to ignore 1 Armor naturally.
+  - *Slashing* tends to cause Bleeding.
 
-**Sources**: Common weaponry, creature attacks, environmental hazards.
+### 9.7.2 Elemental Damage
+- **Includes**: Fire, Cold, Lightning.
+- **Definition**: Raw natural energies, often summoned by glyphs or alchemical items.
+- **Effects**: Halves Armor effectiveness (round down).
+  - *Fire* causes Burning (damage over time).
+  - *Cold* causes Slowed or Frozen.
+  - *Lightning* causes Shocked (disadvantage).
 
-### 9.7.2 Soul Damage
-- **Definition**: Bypasses physical defenses to assault a being’s spiritual essence. Associated with Spectral Realm energies or soul-manipulating powers.
-- **Effects**: Ignores all physical armor. Resisted by Will or Soul attributes (via saving throws) or magical wards. Can cause Soul Stress or lingering Spectral Realm effects. Effective against ethereal or spectral creatures.
-- **Sources**: Soul Reaver abilities (e.g., Soul Bolt), wraith attacks, Sangromancer or Hylden Warlock spells, spectral weapons.
+### 9.7.3 Force Damage
+- **Includes**: Telekinesis, gravity magic, pure magical impact.
+- **Definition**: Concentrated kinetic energy that slams opponents.
+- **Effects**: Bypasses Physical Armor entirely.
+  - Primarily causes *Knockback* (Pushed 5-10ft) or *Prone*.
 
-### 9.7.3 Fire Damage
-- **Definition**: Harm from intense heat or magical flames. Scorches flesh and ignites materials.
-- **Effects**: Ignores armor for unarmored targets. Vulnerable creatures (e.g., ice-based) take increased damage. Can cause Burning. Resisted by fire-resistant gear or magic.
-- **Sources**: Glyph Seeker spells (e.g., Glyph of Flame), environmental fires, alchemical mixtures, demonic entities.
+### 9.7.4 Spectral Damage
+- **Includes**: Soul, Spiritual, Void, Soulfire (partial).
+- **Definition**: Attacks that target the heavy soul or spiritual essence directly.
+- **Effects**: Ignores all Physical Armor. Resisted by Will or Soul attributes.
+  - Often drains resources (Soul Energy) or damages creatures in the Spectral Realm.
 
-### 9.7.4 Electrical Damage
-- **Definition**: Injury from lightning or arcane discharges. Disrupts biological or magical functions.
-- **Effects**: More effective against metal-armored or water-bound targets (+1 damage or disadvantage on saves). Can cause Shocked or arc to nearby targets (1 damage, GM discretion).
-- **Sources**: Glyph Seeker abilities (e.g., Shock Sigil), Hylden technology, storm-based magic.
+### 9.7.5 Radiant Damage
+- **Includes**: Holy light, "Soulfire" (purifying aspect), divine energy.
+- **Definition**: Anathema to the undead and the corrupted.
+- **Effects**: Deals **double damage** to Undead and Spectral entities.
+  - Causes *Blindness* in creatures of darkness.
 
-### 9.7.5 Frost Damage
-- **Definition**: Harm from extreme cold or magical ice. Numbs and slows biological processes.
-- **Effects**: Resisted by cold-resistant gear or magic. Vulnerable creatures (e.g., fire-based) take increased damage. Can cause Slowed or Frozen.
-- **Sources**: Glyph Seeker spells (e.g., Glyph of Frost), ice-based magic, frozen environments.
-
-### 9.7.6 Void Damage
-- **Definition**: An esoteric force from reality collapse or Hylden’s chaotic dimension. Unravels existence itself.
-- **Effects**: Bypasses all armor and resistances. Cannot be healed by normal means, requiring rare rituals or artifacts. Causes Frayed Reality.
-- **Sources**: Forbidden Hylden magic, chaotic artifacts, void entities, unstable reality zones.
-
-### 9.7.7 Soulfire Damage
-- **Definition**: A hybrid of spectral and fiery energy that sears body and soul. Appears as an ethereal blaze.
-- **Effects**: Ignores all physical armor and undead fire/soul immunities. Causes Blighted. Resisted only by specific magical defenses.
-- **Sources**: Soul Reaver blade, high-level Soul Reaver abilities, ancient divine conflagrations.
-
-### 9.7.8 Radiant Damage
-- **Definition**: Harm from divine light or positive energy. Anathema to darkness and undeath.
-- **Effects**: Deals double damage to undead and spectral creatures. Resisted by corrupted or demonic entities (bonus dice on saves). Can cause Blinded or dispel shadow effects.
-- **Sources**: Sarafan spells, blessed weapons, holy sites, Pillar-touched artifacts.
-
-### 9.7.9 Corruption Damage
-- **Definition**: Vile energy that infuses targets with unnatural taint, advancing their Corruption track.
-- **Effects**: Adds Corruption Points. On critical hits, increases Corruption or triggers debilitating effects. Disrupts concentration (DR 3 check). Resisted by strong Will or specific wards.
-- **Sources**: Corrupted beings, Hylden Gate energies, cursed artifacts, forbidden rituals.
-
-### 9.7.10 Necrotic Damage
-- **Definition**: Life-draining unholy energy that withers flesh and vitality.
-- **Effects**: Effective against living creatures; undead may be resistant or healed. Prevents HP regeneration or magical healing for 1 round. Causes Weakened.
-- **Sources**: Necromantic spells, undead touch, curses, negative energy zones.
-
-### 9.7.11 Force Damage
-- **Definition**: Pure magical energy manifested as concussive impact or invisible force.
-- **Effects**: Bypasses physical armor. Rarely resisted except by broad magic resistance. Can cause Pushed or Prone.
-- **Sources**: Spells (e.g., Rift Pulse), telekinetic impacts, arcane beings.
+### 9.7.6 Entropic Damage
+- **Includes**: Necrotic, Corruption, Void (decay aspect), Hylden energies.
+- **Definition**: Forces that unravel reality, rot flesh, or warp the mind.
+- **Effects**: Damage cannot be healed by non-magical means until a rest.
+  - Increases the target's Corruption Level or inflicts *Decay*.
 
 ### Damage Type Summary Table
 
-| Damage Type      | Associated Status Effect(s) or Special Property                               |
-| :--------------- | :---------------------------------------------------------------------------- |
-| **Physical**     |                                                                               |
-| Bludgeoning      | *Staggered* (target cannot take Reactions) or *Prone*                         |
-| Piercing         | *Deep Wounds* (disadvantage on physical checks)                               |
-| Slashing         | *Bleeding* (damage over time)                                                 |
-| **Elemental**    |                                                                               |
-| Fire             | *Burning* (damage over time)                                                  |
-| Cold             | *Slowed* (movement halved) or *Frozen* (immobilized)                          |
-| Lightning        | *Shocked* (disadvantage on attacks)                                           |
-| Force            | *Pushed* (target is moved 5ft) or *Prone*                                     |
-| **Supernatural** |                                                                               |
-| Soul             | *Soul Drain* (target loses 1 Soul Energy, and the attacker gains it).         |
-| Soulfire         | *Blighted* (prevents natural healing)                                         |
-| Radiant          | *Blinded* (for creatures of darkness); Deals double damage to undead.         |
-| Corruption       | Adds *Corruption Points* to the target's track.                               |
-| Necrotic         | *Weakened* (target deals less damage); Prevents healing for 1 round.          |
-| Void             | *Frayed Reality* (target has penalty on next save); Damage cannot be healed normally. |
+| Damage Type      | Key Property                                  | Common Status Effect on Extra Success |
+| :--------------- | :-------------------------------------------- | :------------------------------------ |
+| **Physical**     | Reduced by Armor                              | Bleeding, Staggered                   |
+| **Elemental**    | Halves Armor                                  | Burning, Slowed, Shocked              |
+| **Force**        | Bypasses Armor                                | Prone, Pushed                         |
+| **Spectral**     | Ignores Physical Armor; Hits Spectral foes    | Soul Drain                            |
+| **Radiant**      | Double Dmg vs Undead/Spectral                 | Blinded, Purged                       |
+| **Entropic**     | Prevents Heating; Adds Corruption             | Decay, Corrupted                      |
 
 ## 9.8 Reactions
 

@@ -15,7 +15,7 @@ In the blood-soaked ruins of Nosgoth, where the Wheel of Fate grinds souls to du
 	- Warden of Balance
 	- Hylden Warlock
 
-Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Soul, and Soulfire interactions are detailed in Chapters 5 (Magic), 8 (Corruption), and 9 (Combat). For faction and setting context, see Lore — World Primer.
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Damage types like Force, Spectral, and Entropic have special interactions detailed in Chapters 5, 8, and 9. For faction and setting context, see Lore — World Primer.
 
 ## 3.1 Class Overview
 Each class reflects a unique aspect of Nosgoth’s mythos, blending martial prowess, arcane mastery, and divine purpose. Players select a class at character creation, defining their core abilities, stats, and role in the party. Progression includes Class Perks (gained every level) and Universal Perks (gained at specific milestones), with humans receiving additional perks via their racial trait. Corrupted Perks offer dark power at a cost, unlocked through narrative events or a Corruption Threshold.
@@ -189,7 +189,7 @@ Lore: Wielding echoes of Raziel’s Reaver blade, Soul Reavers tread between Mat
 Role: Phase Warrior / Hybrid CasterStarting Stats: 5 skill points, 10 HP, +5 HP per levelCore Stats: Soul, FurySkill Suggestions: Weapon Mastery, Observation, Glyphcasting, Forbidden Knowledge, ConcentrationCore Abilities:
 
 Phase Walk (Bonus Action, 1/short rest): Move through objects (5 ft thick max), no opportunity attacks.
-Soul Bolt (Action, 0 SE): Ranged spell attack, 3 Soul damage, bypasses non-magical Armor.
+Soul Bolt (Action, 0 SE): Ranged spell attack, 3 Spectral damage, bypasses non-magical Armor.
 Soul Reaver’s Perception (Passive): Auto-detect traps (+1 die Observation), sense spirits within 30 ft.
 
 Class Perks
@@ -217,7 +217,7 @@ Passive/Active
 
 3
 Spirit Chain
-2 Soul damage, pull 15 ft, stun (DR 2 Might).
+2 Spectral damage, pull 15 ft, stun (DR 2 Might).
 Action, 1 SE
 
 
@@ -253,7 +253,7 @@ Bonus Action, 1 SE
 
 9
 Reaver Ascension
-+2 Soul damage, +1 die melee/fear saves (1 min).
++2 Spectral damage, +1 die melee/fear saves (1 min).
 Action, 3 SE, 1/long rest
 
 
@@ -301,7 +301,7 @@ Action, 1/long rest
 
 17
 Soul Siphon Mastery
-+1 SE on Soul damage; +3 SE on significant kill.
++1 SE on Spectral damage; +3 SE on significant kill.
 Passive
 
 
@@ -319,7 +319,7 @@ Passive
 
 20
 Reaver Incarnate
-+4 Soul damage, free Ethereal Blink, flight (1 min).
++4 Spectral damage, free Ethereal Blink, flight (1 min).
 Action, 1/long rest
 
 
@@ -501,7 +501,7 @@ Action, 1/long rest
 
 2
 Vital Leech
-3 Soul damage, heal damage dealt.
+3 Entropic (Blood) damage, heal damage dealt.
 Action, 1 BP
 
 
@@ -537,7 +537,7 @@ Passive
 
 8
 Bloodburst
-5-ft zone, 4 Soul damage (DR 2 Evasion).
+5-ft zone, 4 Entropic (Blood) damage (DR 2 Evasion).
 Action, 2 BP
 
 
@@ -851,7 +851,7 @@ Passive
 
 12
 Spectral Sepsis
-Venom Edge Soul damage, halves healing.
+Venom Edge deals Spectral damage, halves healing.
 Passive
 
 
@@ -1058,7 +1058,7 @@ Cosmic Duty: Balancing moral conflicts within the party tests their resolve.
 Lore: Exiled prophets wielding glyph decay and soul leeching, Hylden Warlocks are Nosgoth’s most feared casters. Escaped from the Spectral Realm, they twist time and sanity, whispering truths too dangerous to speak. Power is their only god.
 Role: Dark Mage / DebufferStarting Stats: 6 skill points, 8 HP, +4 HP per levelCore Stats: Soul, WillSkill Suggestions: Forbidden Knowledge, Glyphcasting, Rituals, Deception, ConcentrationCore Abilities:
 
-Void Shard (Action, 1 SE): 3 Soul damage or dispel effect (DR 2–4).
+Void Shard (Action, 1 SE): 3 Entropic (Void) damage or dispel effect (DR 2–4).
 Entropic Curse (Action, 1 SE): -1 die attacks/saves (Concentration, 1 min).
 Entropic Surge (Passive): +1 die spellcasting at ≤50% Sanity.
 
@@ -1081,7 +1081,7 @@ Reactive, 1/short rest
 
 2
 Hex Spark
-1 Soul damage to nearby on spell hit.
+1 Spectral damage to nearby on spell hit.
 Passive
 
 
@@ -1643,13 +1643,13 @@ Glyph roots, 2 Corruption damage (DR 2).
 
 
 Soul Leech
-Steal 1 SE, 3 Soul damage (DR 2 Will).
+Steal 1 SE, 3 Spectral damage (DR 2 Will).
 Non-corrupted healing -2 HP until long rest.
 1/short rest
 
 
 Abyssal Echo
-Reroll failed save vs. magic, 2 Void damage.
+Reroll failed save vs. magic, 2 Entropic (Void) damage.
 -1 die Insight; 1 Sanity.
 1/scene
 
@@ -1702,25 +1702,25 @@ Truthful vision (1 Sanity).
 
 
 The Rot Within
-Crit hit deals 2 Soul damage to attacker.
+Crit hit deals 2 Spectral damage to attacker.
 -2 die social rolls with pure NPCs.
 On crit hit
 
 
 Soulrend Dominion
-15-ft AoE, 6 Soul damage, Frightened (DR 3 Will).
+15-ft AoE, 6 Spectral damage, Frightened (DR 3 Will).
 +1 Corruption; -2 die vs. Radiant/holy.
 1/long rest
 
 
 Bloodforged Apotheosis
-+4 Blood damage, +5 temp HP/turn (1 min).
++4 Entropic (Blood) damage, +5 temp HP/turn (1 min).
 Permanent warp; -2 die Persuasion; 4 self-damage.
 1/short rest
 
 
 Hylden’s Rift
-10-ft zone, 4 Void damage, slow (DR 3 Might).
+10-ft zone, 4 Entropic (Void) damage, slow (DR 3 Might).
 +2 Corruption; -5 max HP; Hylden attention.
 1/long rest
 

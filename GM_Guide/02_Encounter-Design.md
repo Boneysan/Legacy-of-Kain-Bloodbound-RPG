@@ -15,7 +15,7 @@ Creating balanced, engaging encounters is an art. This chapter provides tools an
 - 2.10 Sample Encounters
 - 2.11 Quick Reference: Encounter Checklist
 
-Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. See Player's Handbook Chapters 5 (Spellcasting and Magic), 8 (Corruption), and 9 (Combat) for Force, Soul, and Soulfire details.
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. See Player's Handbook Chapters 5 (Spellcasting and Magic), 8 (Corruption), and 9 (Combat) for Force, Spectral, and Entropic details.
 
 ---
 
@@ -167,11 +167,11 @@ Add objects players can interact with:
 
 | Hazard | Effect | DR/Damage |
 |--------|--------|-----------|
-| Crumbling Floor | Save or fall through | DR 2 Evasion, 2d6 falling damage |
-| Collapsing Ceiling | Area damage | DR 3 Evasion or 4d6 bludgeoning |
+| Crumbling Floor | Save or fall through | DR 2 Evasion, 2d6 Physical (Bludgeoning) |
+| Collapsing Ceiling | Area damage | DR 3 Evasion or 4d6 Physical (Bludgeoning) |
 | Spectral Rift | Pull toward Spectral Realm | DR 2 Will or phased for 1 round |
 | Corrupted Aura | Gain Corruption | DR 2 Will or +1 Corruption |
-| Poison Gas | Ongoing damage | 2 damage/round, DR 2 Might to resist |
+| Poison Gas | Ongoing damage | 2 Entropic (Poison) damage/round |
 
 ---
 

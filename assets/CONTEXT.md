@@ -76,28 +76,31 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 
 ## Damage System
 
-### 13 Damage Types
+### 6 Damage Categories
 
-**Physical (3):**
-- Bludgeoning → Stunned/Prone
-- Piercing → Bleeding
-- Slashing → Bleeding/Reduced Armor
+**Physical:** (Bludgeoning, Piercing, Slashing)
+- Reduced by Armor.
+- Effects: Bleeding, Staggered, Prone.
 
-**Elemental (4):**
-- Fire → Burning
-- Cold → Slowed
-- Lightning → Shocked
-- Force → Pushed/Stunned
+**Elemental:** (Fire, Cold, Lightning)
+- Halves Armor.
+- Effects: Burning, Slowed, Shocked.
 
-**Supernatural (6):**
-- Soul → Soul Drained
-- Soulfire → Soul Burned
-- Radiant → Blinded
-- Corruption → Corrupted
-- Necrotic → Weakened
-- Void → Unraveled
+**Force:**
+- Bypasses Armor.
+- Effects: Pushed, Prone.
 
-Each damage type has specific associated status effects.
+**Spectral:** (Soul, Spiritual)
+- Ignores Armor; Drains Soul Energy.
+- Effects: Soul Drain.
+
+**Radiant:** (Holy, Soulfire)
+- Double Damage vs Undead/Spectral.
+- Effects: Blinded, Purged.
+
+**Entropic:** (Necrotic, Corruption, Void)
+- Unhealable; Adds Corruption.
+- Effects: Decay, Corrupted.
 
 ---
 
@@ -106,23 +109,24 @@ Each damage type has specific associated status effects.
 ### Core Concept
 "Power at a Price" - Characters can tap into corruption for enhanced abilities but risk losing themselves.
 
-### Corruption Pool Mechanics
-- **Pool Size:** 2× Corruption Level in d6
-- **Must spend ALL pool dice each session**
-- **Corruption Die Results:**
-  - 1 = Taint (complication/drawback)
+### Corruption Dice Mechanics
+- **Pushing Rolls:** Add 1-3 d6 to a failed roll.
+- **Risk:**
+  - 1 = Increases Corruption Level
   - 2-4 = Neutral (no effect)
   - 5-6 = Success (adds to your roll)
 
 ### Corruption Levels & Thresholds
 - **0-2:** Minimal corruption
-- **3-6:** Tier 1 Corrupted Perks available (Bloodstained Sight, Spectral Whisper, Corrupted Surge)
-- **7-10:** Tier 2 Corrupted Perks available (Veil of the Damned, Hunger's Blade, Hylden's Grasp, Soul Leech, Abyssal Echo, Corrupted Ferocity)
-- **11-15:** Tier 3 Corrupted Perks available (Soulrend Dominion, Bloodforged Apotheosis, Hylden's Rift, Abyssal Pact, Wraith's Lament, Corrupted Ascension)
+- **3-6:** Tier 1 Corrupted Perks available
+- **7-10:** Tier 2 Corrupted Perks available
+- **11-14:** Tier 3 Corrupted Perks available
+- **15:** Character Lost (NPC)
 
 ### Pushing Rolls
-- Cost: (Corruption Level ÷ 3, rounded up) dice from Corruption Pool
-- Adds successes but risks Taint results
+- Decide *after* failing a roll.
+- Add 1-3 Corruption Dice.
+- Each '1' rolled adds +1 Corruption Level.
 
 ### Purification Methods
 1. **Rituals of Purification** - Rare, demanding rites requiring specific components and locations
@@ -270,8 +274,8 @@ Each damage type has specific associated status effects.
 ### Lore — Play Sidebars for Class & Lineage — Oct 31, 2025
 ## Current Development Status
 
-- Corruption Pool system ("power at a price" model)
-- Status effects by damage type (13 damage types)
+- Corruption Push system ("power at a price" model)
+- Status effects by damage type (6 categories)
 - All 8 classes with 20-level progression
 - All 6 lineages with variants
 - Resource pool calculations (SE, BP, HP)

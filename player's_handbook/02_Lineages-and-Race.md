@@ -9,7 +9,7 @@
 - Unbound
 - Guidance
 
-Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Soul, and Soulfire interactions are detailed in Chapters 5 (Magic), 8 (Corruption), and 9 (Combat).
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Damage types like Force, Spectral, and Entropic have special interactions detailed in Chapters 5, 8, and 9.
 ## 2.1 Overview
 
 The *Legacy of Kain: Bloodbound RPG* presents six primary Lineages, each with distinct lore, mechanical traits, and narrative potential. These Lineages are deeply tied to Nosgoth’s metaphysical and physical struggles, shaped by prophecy, corruption, and the eternal conflict between fate and free will.

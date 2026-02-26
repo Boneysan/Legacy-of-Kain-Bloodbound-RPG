@@ -165,69 +165,56 @@ Achieved when you roll 3+ successes on an attack roll OR exceed target's DV by 2
 
 ## Pushing Rolls
 
-Sometimes characters need to push beyond their limits. This system allows re-rolling failures at the cost of Corruption.
+Sometimes characters need to push beyond their limits. This system allows you to force a success at the risk of Corruption.
 
 ### How to Push a Roll
-1. **Declare Before Rolling:** You must decide to push before making your initial roll
-2. **Pay the Cost:** Roll a number of Corruption Dice equal to (Corruption Level ÷ 3, rounded up) from your Corruption Pool
-3. **Resolve Corruption Dice:**
-   - **1 = Taint:** Immediate complication (see Chapter 8: Corruption)
-   - **2-4 = Neutral:** No effect
-   - **5-6 = Success:** Each adds 1 success to your total
-4. **Apply Results:** Add Corruption successes to your main roll total
+When desperate, you can tap into the corrupted energies of Nosgoth to turn failure into success.
 
-**You must spend all Corruption Pool dice each session.** See Chapter 8: Corruption for full details.
+1. **Declare the Push:** You may push *after* seeing the result of a failed roll.
+2. **Add Corruption Dice:** Choose to add **1, 2, or 3** additional d6s (Corruption Dice) to your result.
+   - Each **5** or **6** on these dice adds a success to your total.
+   - Each **1** on these dice increases your **Corruption Level by 1**.
+3. **The Limit:**
+   - If your Corruption Level reaches **15**, your character is lost to madness or the abyss (becoming an NPC).
 
-**Example:** Lyssa has Corruption Level 6. She pushes a roll, spending 2 Corruption Dice (6÷3=2). She rolls [1, 5] → 1 Taint (complication) + 1 Success added to her roll.
+**Example:**
+Lyssa fails a critical attack roll with 2 successes against DV 3. She chooses to Push with **2 Corruption Dice**. She rolls a 5 and a 1.
+- The 5 adds a success (Total: 3), allowing her to hit.
+- The 1 increases her Corruption Level by 1 immediately.
 
 ---
 
 ## Status Effects by Damage Type
 
-### Physical Damage Types
+Legacy of Kain: Bloodbound streamlines damage into six categories, each with distinct status effects on a successful Critical Hit or Extra Success.
 
-**Bludgeoning**
-- Status: **Stunned** (lose next action) or **Knocked Prone**
+### Physical (Bludgeoning, Piercing, Slashing)
+- **Staggered**: Target cannot take Reactions until their next turn.
+- **Bleeding**: Target takes 1 damage at the start of their turn (stacks duration).
+- **Prone**: Target is knocked down.
 
-**Piercing**  
-- Status: **Bleeding** (2 damage/round until treated)
+### Elemental (Fire, Cold, Lightning)
+- **Burning**: Continued fire damage each round.
+- **Slowed**: Movement speed halved.
+- **Shocked**: Disadvantage on next action.
 
-**Slashing**
-- Status: **Bleeding** (2 damage/round) or **Reduced Armor** (-1 Armor for encounter)
+### Force
+- **Pushed**: Target is moved 5-10 feet away.
+- **Prone**: Target is knocked down by the impact.
 
-### Elemental Damage Types
+### Spectral (Soul, Spiritual)
+- **Soul Drain**: Target loses 1 Soul Energy; attacker may gain 1.
+- **Bypasses Armor**: Spectral attacks ignore Physical Armor.
 
-**Fire**
-- Status: **Burning** (continued fire damage each round)
+### Radiant (Holy, Soulfire)
+- **Blinded**: Disadvantage on attack rolls and perception.
+- **Purged**: Removes one darkness/shadow effect.
+- **Anathema**: Deals double damage to Undead.
 
-**Cold**
-- Status: **Slowed** (movement speed halved)
-
-**Lightning**
-- Status: **Shocked** (disadvantage on next action)
-
-**Force**
-- Status: **Pushed Back** (forced movement) or **Stunned**
-
-### Supernatural Damage Types
-
-**Soul**
-- Status: **Soul Drained** (disadvantage on Will saves)
-
-**Soulfire**
-- Status: **Soul Burned** (ongoing Soul damage)
-
-**Radiant**
-- Status: **Blinded** (disadvantage on attack rolls/perception)
-
-**Corruption**
-- Status: **Corrupted** (gain 1 Corruption point)
-
-**Necrotic**
-- Status: **Weakened** (reduced maximum HP temporarily)
-
-**Void**
-- Status: **Unraveled** (reduced to core stats, abilities disrupted)
+### Entropic (Necrotic, Corruption, Void)
+- **Decay**: Target cannot heal HP this round.
+- **Corrupted**: Target gains 1 Corruption Point.
+- **Unhealable**: Damage lingers requires magic to heal.
 
 ---
 

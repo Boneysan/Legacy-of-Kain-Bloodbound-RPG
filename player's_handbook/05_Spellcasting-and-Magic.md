@@ -14,7 +14,7 @@ Magic in Nosgoth is a volatile fusion of soul force, elemental essence, and corr
 - Learning and Preparing Spells
 - Spell Compendium
 
-Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Soul, and Soulfire interactions are detailed in Chapters 5 (Magic), 8 (Corruption), and 9 (Combat).
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Damage types like Force, Spectral, and Entropic have special interactions detailed in Chapters 5, 8, and 9.
 
 ## 5.1 Spell Categories and Tiers
 

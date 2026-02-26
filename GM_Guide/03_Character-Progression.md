@@ -16,7 +16,7 @@ This chapter covers how characters advance, gain milestones, and grow in power t
 - 3.11 Post-Campaign Progression
 - 3.12 Quick Reference: Milestone Checklist
 
-Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. For Force, Soul, and Soulfire interactions, see Player's Handbook Chapters 5 (Spellcasting and Magic), 8 (Corruption), and 9 (Combat).
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Damage types like Force, Spectral, and Entropic have special interactions detailed in Player's Handbook Chapters 5, 8, and 9.
 
 ---
 

@@ -14,7 +14,7 @@ Nosgoth is a world of scarcity where traditional currency has collapsed. This ch
 - 4.9 Example Transactions
 - 4.10 Quick Reference: Barter Values
 
-Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. For damage type interactions such as Force, Soul, and Soulfire, see Player's Handbook Chapters 5 (Spellcasting and Magic), 8 (Corruption), and 9 (Combat).
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Damage types like Force, Spectral, and Entropic have special interactions detailed in Player's Handbook Chapters 5, 8, and 9.
 
 ---
 

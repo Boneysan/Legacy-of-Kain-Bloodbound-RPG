@@ -15,7 +15,7 @@ This chapter covers the practical aspects of running *Legacy of Kain: Bloodbound
 - [1.10 When Players Surprise You](#110-when-players-surprise-you)
 - [1.11 Quick Reference: GM Calls](#111-quick-reference-gm-calls)
 
-> Terminology note: In combat, target Defense Value (DV). For checks/saves and environmental challenges, compare successes to Difficulty Rating (DR). “Armor” is flat damage mitigation. Some effects may bypass Armor (e.g., Force vs Physical), or interact with Soul/Soulfire as defined in the Player’s Handbook.
+> Terminology note: In combat, target Defense Value (DV). For checks/saves and environmental challenges, compare successes to Difficulty Rating (DR). “Armor” is flat damage mitigation. Some effects may bypass Armor (e.g., Force, Spectral), or interact with damage types as defined in the Player’s Handbook.
 
 ---
 
@@ -129,44 +129,27 @@ Understanding the distinction between these two mechanics is essential:
 - **Bypass Armor:** Ignore 1 or 2 points of target's Armor
 - **Tactical Advantage:** Create opening (target loses Reaction, ally gets advantage)
 
-**Example:** Critical Hit with a piercing weapon might deal +3 damage OR inflict Bleeding (2 damage/round).
+**Example:** Critical Hit with a piercing weapon might deal +3 damage OR inflict Bleeding (1 damage/round).
 
 ---
 
 ## 1.4 Handling Pushing Rolls
 
-When players want to push a roll using Corruption:
+When players fail a roll, they can choose to Push it by drawing on their inner Corruption. This gambling mechanic is central to the game's risk/reward loop.
 
-### Step-by-Step Process
-1. **Player Declares Intent:** Must be before initial roll
-2. **Verify Corruption Pool:** Check available Corruption Dice
-3. **Calculate Cost:** Corruption Level ÷ 3 (rounded up) dice
-4. **Roll Corruption Dice:** 1 = Taint, 2-4 = Neutral, 5-6 = Success
-5. **Narrate the Corruption:** Make it feel meaningful
-6. **Apply Results:** Add successes, enforce Taint consequences
+### How to Push
+1.  **Player Fails:** The result of a roll is insufficient.
+2.  **Player Declares Push:** "I'm pushing this roll with 2 Corruption Dice!"
+3.  **Roll Corruption Dice (d6):** The player rolls the declared number of dice (1, 2, or 3).
+    *   **5 or 6:** Adds 1 Success to the total.
+    *   **1:** Increases **Corruption Level** by 1 immediately.
+    *   **2-4:** No effect.
+4.  **Narrate the Surge:** Describe how the character's dark nature manifests to force the success.
 
-### Handling Taint Results
-When Corruption Dice roll 1s, impose immediate complications:
-
-**Minor Taints (1-2 dice showing 1):**
-- Unnatural physical sign (eyes glow, veins darken)
-- NPCs nearby become uneasy or fearful
-- Equipment gains corrupted appearance
-- Temporary disadvantage on social checks
-
-**Major Taints (3+ dice showing 1):**
-- Attract unwanted attention (spectral predators, Sarafan)
-- Corruption Level increases by 1
-- Suffer Soul Drain (disadvantage on Will saves)
-- Temporary loss of control (GM narrates brief dark impulse)
-
-### Making Corruption Tempting
-For the system to work, pushing rolls must feel worthwhile:
-- Make critical moments hinge on single rolls
-- Create scenarios where failure means disaster
-- Show NPCs using corruption successfully
-- Describe the rush of power gained
-- Then enforce the costs dramatically
+### Example in Play
+*Raziel fails a climb check with 1 success against DR 2. He pushes with 2 dice. He rolls a 5 and a 1.*
+*   **Mechanics:** The 5 gives him the 2nd success he needs. The 1 increases his Corruption Level by 1.
+*   **Narrative:** "Your claws dig into the stone, cracking it. Shadowy tendrils erupt from your back to brace you, but the exertion leaves your soul feeling colder."
 
 ---
 
@@ -179,20 +162,15 @@ Each character has a Corruption Level (0-15):
 - **0-2:** Untouched
 - **3-6:** Tier 1 Corrupted (Tier 1 perks available)
 - **7-10:** Tier 2 Corrupted (Tier 2 perks available)
-- **11-15:** Tier 3 Corrupted (Tier 3 perks available)
-
-### Corruption Pool Management
-- **Pool Size:** 2× Corruption Level in d6
-- **Must Spend All:** Players MUST use all pool dice each session
-- Creates urgency and temptation throughout play
+- **11-14:** Tier 3 Corrupted (Tier 3 perks available)
+- **15:** **Lost.** The character becomes an NPC (monster).
 
 ### Ways to Gain Corruption
-- Using forbidden magic or Hylden artifacts
-- Making morally dark choices with mechanical benefit
-- Feeding excessively (for vampires)
-- Exposure to corrupted locations or entities
-- Failing to resist corruption-causing effects
-- Voluntary corruption to gain power quickly
+- **Rolling a 1 on a Corruption Die.**
+- Using forbidden magic or Hylden artifacts.
+- Making morally dark choices with mechanical benefit.
+- Exposure to heavily corrupted locations (Entropic damage).
+- Voluntary corruption to gain power quickly (GM discretion).
 
 ### Narrating Corruption
 Make corruption visible and meaningful:

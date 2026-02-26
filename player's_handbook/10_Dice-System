@@ -56,21 +56,12 @@ If a player rolls more successes than required, they may choose to **enhance the
 
 Spending extra successes allows you to apply a status effect, but the available effects are determined by the damage type of your attack.
 
-*   **Bludgeoning**: *Staggered* (target cannot take Reactions until their next turn) or *Prone* (target falls).
-*   **Piercing**: *Deep Wounds* (disadvantage on physical checks for 1 round).
-*   **Slashing**: *Bleeding* (1 damage at the start of their turn for 2 rounds).
-*   **Fire**: *Burning* (2 damage per round for 2 rounds, extinguished with a DR 2 action).
-*   **Cold**: *Slowed* (movement halved for 1 round) or *Frozen* (immobilized for 1 round, DR 3 to break free).
-*   **Lightning**: *Shocked* (disadvantage on attacks for 1 round).
-*   **Soul**: *Soul Drain* (target loses 1 Soul Energy, and the attacker gains it).
-*   **Radiant**: *Blinded* (disadvantage on attacks and perception checks for creatures of darkness).
-*   **Necrotic**: *Weakened* (–2 damage on next attack).
-*   **Force**: *Pushed* (target is moved 5 feet) or *Prone*.
-
-Some damage types have unique effects that are not traditional statuses:
-*   **Soulfire**: *Blighted* (prevents natural healing for 1 round).
-*   **Corruption**: *Corruption Point* (adds to target’s Corruption track).
-*   **Void**: *Frayed Reality* (–2 dice on next saving throw).
+*   **Physical**: *Staggered* (cannot take Reactions), *Bleeding* (damage over time), or *Prone* (knocked down).
+*   **Elemental**: *Burning* (fire damage), *Slowed* (half speed), or *Shocked* (disadvantage).
+*   **Force**: *Pushed* (moved 5-10 ft) or *Prone*.
+*   **Spectral**: *Soul Drain* (transfer Soul Energy from target to attacker) or *Bypasses Armor*.
+*   **Radiant**: *Blinded* (disadvantage) or *Purged* (removes shadow effects).
+*   **Entropic**: *Decay* (prevents healing), *Corrupted* (adds Corruption), or *Weakened* (penalty on saves).
 
 **Outside Combat:**
 
@@ -154,7 +145,7 @@ Target DV = 1 → hit. One excess success remains (usable for bonus damage or an
 * **Spellcasting:** Roll **Soul + Glyphcasting**.
 * **Grappling:** Use Unarmed Combat to restrain/disarm.
 * **Shifting Realms:** Abilities may allow shifting between Spectral/Material realms mid-combat.
-* **Pushes:** Players may reroll failures by adding a **Corruption Die (CD)**.
+* **Pushes:** Players may add 1–3 **Corruption Dice** to a failed roll to try and succeed (at a risk).
 
 ---
 

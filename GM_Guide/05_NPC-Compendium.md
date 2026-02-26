@@ -12,7 +12,7 @@ This chapter provides quick narrative references for major characters in Nosgoth
 - 5.7 Running Legendary NPC Encounters
 - 5.8 Quick Reference: NPC Summary
 
-Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. See Player's Handbook Chapters 5 (Spellcasting and Magic), 8 (Corruption), and 9 (Combat) for Force, Soul, and Soulfire details relevant when legendary NPCs influence or engage in conflict.
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Damage types like Force, Spectral, and Entropic have special interactions detailed in Player's Handbook Chapters 5, 8, and 9.
 
 ---
 
