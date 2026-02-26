@@ -206,7 +206,7 @@ Legacy of Kain: Bloodbound streamlines damage into six categories, each with dis
 - **Soul Drain**: Target loses 1 Soul Energy; attacker may gain 1.
 - **Bypasses Armor**: Spectral attacks ignore Physical Armor.
 
-### Radiant (Holy, Soulfire)
+### Radiant (Holy, Spectral Fire)
 - **Blinded**: Disadvantage on attack rolls and perception.
 - **Purged**: Removes one darkness/shadow effect.
 - **Anathema**: Deals double damage to Undead.
