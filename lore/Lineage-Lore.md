@@ -21,10 +21,10 @@ See also:
 Once stewards of balance, now immortal predators fractured by Kain’s defiance, the vampire broods echo their progenitors’ power and flaws. Their houses grew territorial and bestial as the Pillars fell and time twisted. Every clan is a theology of hunger—part empire, part curse.
 
 Sublineages and notes:
-- Razielim: Cast into the Abyss and reborn in spectral flame, winged pariahs believed extinct. Ghost-proud, fate-obsessed, seeking revenge, answers, or heritage.
-- Turelim: Warrior-kings with seismic voices. Fortress builders, loyalist conquerors, suspicious of corruption.
-- Dumahim: Stoic titans—entombed, patient, relentless. Awaken beneath cathedrals or war engines.
-- Zephonim: Parasitic mutations adapted to vertical ruins. Ambushers, secret-keepers, masters of ascent.
+- Razielim: The lost clan. Most were annihilated by Kain after Raziel's execution. Survivors are incredibly rare anomalies, perhaps spared by stasis or resurrected through paradoxes. They are ghost-proud and often seek vengeance or the truth of their sire's fate.
+- Turelim: Warrior-kings with telekinetic force. Fortress builders and loyalist conquerors who served as Kain's heavy enforcement.
+- Dumahim: Stoic titans—entombed, patient, relentless. They act as the shock troops and heavy infantry of the vampire legions.
+- Zephonim: Parasitic mutations adapted to vertical ruins. Ambushers, secret-keepers, spider-like masters of ascent.
 
 Common threads:
 - Immortality without legacy; sterile and hunted by time.
@@ -63,9 +63,9 @@ Common threads:
 Frail yet defiant, humanity endures purges, invasions, and its own zealotry. Adaptive, divided, and unquiet, they swing between faith and survival. Where vampires build dominion, humans build stories—and resistance.
 
 Subgroups and notes:
-- Sarafan: Zealous knightly orders—once divine enforcers, now secretive hunters and ward-keepers. Discipline, purity rites, and glyph-lit sanctums.
+- Sarafan: Zealous knightly orders dedicated to the eradication of vampires. Depending on the era, they are either the ruling military theocracy or scattered, fanatical cells keeping the "purity" laws alive.
 - Nomads: Refusers of thrones and temples. Roaming reclamationists who map wildlands and barter with ruins.
-- Oracle-Blooded: Born under omens, touched by whispers. Seers, healers, truth-speakers—feared and sought in equal measure.
+- Oracle-Blooded: Born under omens, touched by the whispers of Moebius or the Time Stream. Seers and healers feared for their foresight.
 
 Common threads:
 - Barter economies and covenant debts.

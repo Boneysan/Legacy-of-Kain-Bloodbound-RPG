@@ -71,10 +71,10 @@ Narrative Hook: Bearers of ancient wrath, seeking dominion or revenge.
 ## 1.4 Step 3: Choose a Class
 Select a class to define your character’s combat style and abilities. Each class grants unique perks, starting HP, a skill point pool (6–10 points), perk tree access, and starting gear. Examples include:
 
-Blood Mage: Spellcaster focused on blood magic and life manipulation.
-Sarafan Crusader: Frontline holy warrior with anti-undead bonuses.
-Forbidden Scholar: Uses corrupted spells and arcane relics.
-Outcast Warden: Hybrid survivalist and rogue.
+Sangromancer: Spellcaster focused on blood magic and life manipulation.
+Blood Knight: Frontline warrior fueled by rage and vitality.
+Hylden Warlock: Uses corrupted entropy and forbidden glyphs.
+Shadowmancer: Stealth specialist manipulating darkness and fear.
 
 Consult your GM for the full class list and specific perks.
 ## 1.5 Step 4: Assign Attributes
@@ -109,37 +109,37 @@ Optionally include 1 minor relic or spell scroll (GM discretion).
 ### 1.7.1 Example Gear by Class
 
 Blood Knight:
-Weapons: Scion Blade (6 damage, Bleed on crit), Bloodfang Dagger (4 damage, +2 vs. bleeding foes), Nightblade Saber (5 damage, +1 armor penetration), or universal options like Nosgothian War Axe.
+Weapons: Scion Blade (6 Physical damage, Bleed on crit), Bloodfang Dagger (4 Physical, +2 vs. bleeding foes), Nightblade Saber (5 Physical, +1 armor penetration), or universal options like Nosgothian War Axe.
 Armor: Bloodsteel Cuirass (reduces damage by 2, +1 HP on melee crit), Fleshwoven Mail (regenerate 1 HP in blood), or universal Nosgothian Chainmail.
 
 
 Soul Reaver:
-Weapons: Spectral Talons (4 spiritual damage, ignores armor), Echoblade (5 damage, copies last minor spell), Phantom Claws (3 damage, inflicts -1 on enemy rolls).
+Weapons: Spectral Talons (4 Spectral damage, ignores armor), Echoblade (5 Physical, copies last minor spell), Phantom Claws (3 Spectral, inflicts -1 on enemy rolls).
 Armor: Shroud of Echoes (reduces damage by 1, ignores terrain), Gravewind Mantle (attacks against you have -1 in first round).
 
 
 Shadowmancer:
-Weapons: Nightblade Saber, Whisperknife (3 damage, summonable), or universal Throwing Dagger.
+Weapons: Nightblade Saber, Whisperknife (3 Physical, summonable), or universal Throwing Dagger.
 Armor: Nightshade Cloak (Stealth bonus, shadow resistance), Woven Shadows (+1 DR vs. mind effects).
 
 
 Sangromancer (Blood Mage):
-Weapons: Bloodstaff (3 damage, heals caster), Veinbinder Rod (4 damage, 1 damage per round to targets), Crimson Spear (5 damage, +1 HP on crit).
+Weapons: Bloodstaff (3 Physical, heals caster), Veinbinder Rod (4 Physical, 1 damage per round to targets), Crimson Spear (5 Physical, +1 HP on crit).
 Armor: Veinsilk Robes (heals 1 HP after Blood spell), Sanguine Mantle (+1 Blood spell damage).
 
 
 Glyph Seeker:
-Weapons: Spiritshard Wand (3 spiritual damage, passes through walls), Throwing Dagger.
+Weapons: Spiritshard Wand (3 Spectral damage, passes through walls), Throwing Dagger.
 Armor: Ritual Vestments (reduces corruption cost), Inkbound Mantle (+1 Glyph rolls).
 
 
 Dreadblade:
-Weapons: Bloodfang Dagger, Hexbrand (5 damage, adds Corruption), Ritual Blade (4 damage, absorbs Soul Energy on crit).
+Weapons: Bloodfang Dagger, Hexbrand (5 Entropic damage, adds Corruption), Ritual Blade (4 Physical, absorbs Soul Energy on crit).
 Armor: Nightshade Cloak, Woven Shadows, or Traveler’s Leathers.
 
 
 Warden of Balance (Sarafan Crusader):
-Weapons: Sarafan Pike (5 damage, +2 vs. undead), Blessed Mace (6 damage, stuns undead), Crusader Broadsword (+1 DV).
+Weapons: Sarafan Pike (5 Physical, +2 vs. undead), Blessed Mace (6 Physical, stuns undead), Crusader Broadsword (+1 DV).
 Armor: Sarafan Plate (reduces damage by 3, undead fear disadvantage), Radiant Tabard (+1 Will saves for allies).
 
 

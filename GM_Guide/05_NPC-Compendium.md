@@ -300,7 +300,7 @@ A massive, tentacled entity dwelling in the depths of the Spectral Realm. Its bo
 **As Cosmic Horror:**
 - Encounters should evoke dread, not just danger
 - Its very presence warps reality
-- Understanding its true nature risks sanity (Soul Drain)
+- Understanding its true nature risks madness and Corruption
 - Cannot be reasoned with—it is hunger given form
 - Example: Party enters deep Spectral Realm and feels its attention—lights dim, whispers fill air, tentacles probe at edge of perception
 

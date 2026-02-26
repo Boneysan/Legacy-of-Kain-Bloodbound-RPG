@@ -17,7 +17,7 @@ In the cursed land of Nosgoth, combat is a brutal dance of blood and shadow, whe
 - 9.13 Combat Example
 - 9.14 GM Guidance
 
-Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Soul, and Soulfire interactions are detailed in Chapters 5 (Magic) and 8 (Corruption).
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Spectral, and Entropic interactions are detailed in Chapters 5 (Magic) and 8 (Corruption).
 
 ## 9.1 Combat Overview
 
@@ -123,19 +123,19 @@ Nosgoth’s conflicts are shaped by diverse damage types, consolidated into six 
   - Primarily causes *Knockback* (Pushed 5-10ft) or *Prone*.
 
 ### 9.7.4 Spectral Damage
-- **Includes**: Soul, Spiritual, Void, Soulfire (partial).
+- **Includes**: Ghostly wails, spectral blades, raw soul energy.
 - **Definition**: Attacks that target the heavy soul or spiritual essence directly.
 - **Effects**: Ignores all Physical Armor. Resisted by Will or Soul attributes.
   - Often drains resources (Soul Energy) or damages creatures in the Spectral Realm.
 
 ### 9.7.5 Radiant Damage
-- **Includes**: Holy light, "Soulfire" (purifying aspect), divine energy.
+- **Includes**: Holy light, "Spectral Fire" (purifying aspect), divine energy.
 - **Definition**: Anathema to the undead and the corrupted.
 - **Effects**: Deals **double damage** to Undead and Spectral entities.
   - Causes *Blindness* in creatures of darkness.
 
 ### 9.7.6 Entropic Damage
-- **Includes**: Necrotic, Corruption, Void (decay aspect), Hylden energies.
+- **Includes**: Necrotic, Corruption, Void, Hylden energies.
 - **Definition**: Forces that unravel reality, rot flesh, or warp the mind.
 - **Effects**: Damage cannot be healed by non-magical means until a rest.
   - Increases the target's Corruption Level or inflicts *Decay*.
@@ -215,7 +215,7 @@ Exceptional skill or catastrophic missteps shape Nosgoth’s battles.
 
 - **Critical Failure**: A Critical Failure occurs when a player **pushes a roll** by using a Corruption Die and the subsequent roll results in **0 successes** while the **Corruption Die shows a 1**. This triggers a dire consequence, such as a weapon breaking, a spell backfiring spectacularly, or a new, immediate threat appearing on the scene, as determined by the GM.
 
-**Example**: A Melchahim claws at a foe (DV 3) with Necrotic damage, rolling 5 successes (critical hit). The GM allows +2 damage and Weakened (–2 damage on target’s next attack).
+**Example**: A Melchahim claws at a foe (DV 3) with Entropic damage, rolling 5 successes (critical hit). The GM allows +2 damage and Weakened (–2 damage on target’s next attack).
 
 ## 9.12 Environmental Combat
 
@@ -233,11 +233,11 @@ Nosgoth’s battlefields are as deadly as its warriors, with shifting realms and
 
 - **Initiative**: Kain rolls Shadow 3 + Tactics 2 (5 dice: 2 successes). The knight rolls 3 successes, acting first.
 - **Knight’s Turn**: Rolls Fury 3 + Weapon Mastery 4 (7 dice, –1 highest die for disadvantage) for a Piercing attack (spear, 3 damage, ignores 1 Armor). Results: 6, 5, 4, 4, 3, 2, 1. Remove 6, leaving 2 successes. Misses Kain’s DV 4.
-- **Kain’s Turn**: Attacks with a Soulfire Reaver Blade (7 dice, –1 for disadvantage, 3 Soulfire damage, ignores armor). Results: 6, 6, 5, 4, 3, 2, 1. Remove 6, leaving 3 successes (hits DV 3). Deals 3 Soulfire damage (knight HP 7) and uses 1 extra success to inflict Blighted (no natural healing for 1 round).
+- **Kain’s Turn**: Attacks with a Spectral Fire Reaver Blade (7 dice, –1 for disadvantage, 3 Spectral Fire damage, ignores armor). Results: 6, 6, 5, 4, 3, 2, 1. Remove 6, leaving 3 successes (hits DV 3). Deals 3 Spectral Fire damage (knight HP 7) and uses 1 extra success to inflict Blighted (no natural healing for 1 round).
 - **Knight’s Reaction**: Parries (Fury + Weapon Mastery, 2 successes), reducing damage by 2 (to 1 damage, knight HP 9). Blighted remains.
 - **Next Round**: Knight cannot heal naturally due to Blighted and acts with reduced effectiveness.
 
-**Narrative**: Kain’s Soulfire blade sears the knight’s essence, the altar’s curse hampering his strike. The Sarafan’s shield mitigates the blow, but the unnatural flame lingers, weakening their resolve.
+**Narrative**: Kain’s Spectral Fire blade sears the knight’s essence, the altar’s curse hampering his strike. The Sarafan’s shield mitigates the blow, but the unnatural flame lingers, weakening their resolve.
 
 ## 9.14 GM Guidance
 

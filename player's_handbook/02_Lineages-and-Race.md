@@ -51,7 +51,7 @@ Insectoid, parasitic vampires adept at ambush and mutation.
 - **Stealth**: Advantage on Stealth checks in Spectral Realm.
 - **Movement Effects**: Pass through thin barriers while phased.
 - **Bonuses**: +1 Possession, +1 Observation, +1 Will.
-- **Unique Trait**: *Wraith Phasing* (Bonus Action, Will uses per long rest, phase into Spectral Realm: translucent, 35 ft speed, ignore terrain/obstacles ≤1 ft thick, deal Soul damage, resist non-magical physical damage, immune to non-magical grapples/restraints).
+- **Unique Trait**: *Wraith Phasing* (Bonus Action, Will uses per long rest, phase into Spectral Realm: translucent, 35 ft speed, ignore terrain/obstacles ≤1 ft thick, deal Spectral damage, resist non-magical physical damage, immune to non-magical grapples/restraints).
 - **Narrative Hook**: Forgotten by death, hunted by time.
 
 ## 2.4 Hylden-Blooded

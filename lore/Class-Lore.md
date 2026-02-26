@@ -20,12 +20,12 @@ See also:
 
 ## Blood Knight
 
-Once temple guardians and arena champions, Blood Knights are forged in battle and raised in blood rites. Their legacy stems from vampiric warlords who survived Kain’s purges and founded martial sects. Bound by honor and violence, they treat combat as sacrament—pain as proof of purpose. Many are former Dumahim who broke ranks to launch new crusades across Nosgoth, channeling rage and resilience into overwhelming might.
+Warriors dedicated to the art of vascular combat. Historically, the most famous Blood Knights were Vorador's disciples or the elite guard of the Turelim clan. They view battle as a sacrament, channeling their own vitality—or their enemy's—to fuel supernatural resilience. In the current era, they are mercenaries or champions of the independent vampire covens.
 
 Common threads:
-- Origins in vampiric war-cults and fortress orders.
-- Honor-bound dueling and ritualized violence.
-- Seen as tyrants or protectors, depending on the valley’s faction politics.
+- Origins in vampiric blood-cults or as survivors of the arena pits.
+- Code of honor centered on strength and the "purity" of combat.
+- Mastery of *Telekinesis* (Turelim heritage) or blood-magic infusions.
 
 ### Using this in play
 - Quest seeds:
@@ -56,12 +56,12 @@ Common threads:
 
 ## Shadowmancer
 
-Stalkers of the unseen and masters of misdirection, Shadowmancers arise from the remnants of Zephonim assassin cults. They draw power from the darkness between realms, preferring illusion, terror, and sudden violence over open battle. They serve as spies and saboteurs in long-forgotten towers where the veil is thin—making secrecy both weapon and sanctuary.
+Masters of stealth and illusion, often tracing their techniques back to the spider-clan of Zephon. They manipulate shadows not just to hide, but as physical weapons. In the fractured world, they serve as spies for the high clans or assassins for the highest bidder. Their connection to the darkness is almost symbiotic.
 
 Common threads:
-- Legacies in Zephonim rites and clandestine cells.
-- Supernatural stealth; warfare through fear and confusion.
-- Trusted by few, indispensable to those who understand shadows.
+- Legacies in Zephonim rites or the training of human thieves' guilds.
+- Focus on verticality, silence, and the psychological impact of fear.
+- Often adorned with insectoid or chitinous motifs in homage to their progenitor.
 
 ### Using this in play
 - Quest seeds:
@@ -92,12 +92,12 @@ Common threads:
 
 ## Glyph Seeker
 
-Glyph Seekers are sigil-scribes and arcane geometers who channel structured magic through symbols, relics, and spatial law. Their lineage predates the Pillars’ fall. They aim to restore order by precise enchantment. Many are exiled Hylden researchers or humans trained in mountain vault academies. Their wards and circuits keep what’s left of the world from collapsing into chaos.
+Scholars of the forbidden Hylden technologies. While the Hylden are banished, their glyph-magic—logical, geometric, and devastating—remains. Glyph Seekers are often humans or renegade vampires who have studied these alien designs to create wards, traps, and energy weapons. They walk a dangerous line, as prolonged contact with Hylden glyphs risks madness.
 
 Common threads:
-- Ritual engineers of wards, locks, and latticed energies.
-- Quiet alliances with archivists, wardens, and city stewards.
-- Measured faith that rules—properly drawn—can still hold.
+- Engineers of reliable, structured magic (in contrast to blood sorcery).
+- Often hunted by Sarafan inquisitors who brand them heretics.
+- Carry heavy tomes or etched plates; their magic is prepared, not innate.
 
 ### Using this in play
 - Quest seeds:

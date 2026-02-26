@@ -1484,7 +1484,7 @@ Survivability
 None
 
 
-Soulfire Conversion
+Spectral Fire Conversion
 Burn HP for SE/Blood/Glyph (max Level/3).
 1/rest, Bonus Action
 Resource Trade
