@@ -50,7 +50,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 2 | **Brutal Counter** | Deal 1 unpreventable damage to melee attacker on a miss. | Reaction |
 | 3 | **Iron Veins** | Immune to Bleeding status. | Passive |
 | 4 | **Bloodrush** | Take an extra Move action. | Bonus Action, 1 BP |
-| 5 | **Crushing Blow** | Melee attack stuns target (Target: Might vs Difficulty 3). | Action |
+| 5 | **Crushing Blow** | Melee attack stuns target (Target: Blood vs Difficulty 3). | Action |
 | 6 | **Juggernaut** | Charge attack knocks target Prone. | Action |
 | 7 | **Deathbound** | When reduced to 0 HP, drop to 1 HP instead. | Reaction, 1/scene |
 | 8 | **Warpath** | Melee attacks ignore 1 point of Armor. | Passive |
@@ -157,7 +157,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Key Skills**: Rituals, Forbidden Knowledge, Concentration, Presence, Craft (Alchemy)
 
 #### Core Abilities
-*   **Hemorrhage** (Action, 1 BP): Deal 2 ongoing damage/round (Resist: Might vs Diff 2).
+*   **Hemorrhage** (Action, 1 BP): Deal 2 ongoing damage/round (Resist: Blood vs Diff 2).
 *   **Blood Puppet** (Action, 2 BP): Control actions of a bleeding target (Resist: Will vs Diff 2).
 *   **Resurgent Vitae** (Passive): Regain 1 HP/turn when below 25% HP.
 
@@ -179,7 +179,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 13 | **Voracious Siphon** | Vital Leech heals +Soul HP, steals 1 BP. | Passive |
 | 14 | **Blood Scent** | Sense living creatures within 60ft automatically. | Passive |
 | 15 | **Master Puppeteer** | Blood Puppet affects 2 targets or lasts longer. | Passive |
-| 16 | **Plague of Clots** | Target cannot heal and is Slowed (Might Save). | Action, 1 BP |
+| 16 | **Plague of Clots** | Target cannot heal and is Slowed (Blood Save). | Action, 1 BP |
 | 17 | **Heartblood Invigoration** | Reduce all BP costs by 1 (min 1). | Passive |
 | 18 | **Sanguine Eruption** | Bloodburst area +5ft and knocks Prone. | Passive |
 | 19 | **Crimson Transfusion** | Blood Pact can revive dead allies (recent death). | Ritual, 5 BP |

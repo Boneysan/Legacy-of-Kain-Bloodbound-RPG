@@ -63,7 +63,7 @@ Echo Serpents are the spectral remnants of great serpents that died in places of
 
 **Coiling Grasp** (Action, requires hit with Spectral Bite)
 - **Effect:** Target becomes Grappled (Restrained in spectral coils). Takes automatic 3 Soul damage at start of each turn while grappled.
-- **Escape:** DR 3 Might or Shadow save as Action
+- **Escape:** DR 3 Blood or Shadow save as Action
 
 **Phase Strike** (Bonus Action)
 - **Effect:** Become fully incorporeal until start of next turn. Gain +2 DV, can move through creatures and objects freely.
@@ -273,7 +273,7 @@ Silent Mourners are souls bound to places of great tragedy—battlefields, execu
 **Spectral Bonds** (Action)
 - **Dice Pool:** Will 3 + 0 = 3d6
 - **Range:** 30 feet (6 squares)
-- **Effect:** Target must make DR 2 Will save or become Restrained by spectral chains. Takes 3 Soul damage at start of each turn while Restrained. Can attempt DC 3 Might or Will save to break free as Action.
+- **Effect:** Target must make DR 2 Will save or become Restrained by spectral chains. Takes 3 Soul damage at start of each turn while Restrained. Can attempt DR 3 Blood or Will save to break free as Action.
 
 ### Special Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
@@ -381,7 +381,7 @@ Gravewind Entities are ancient spirits of wind and death, formed in places where
 
 **Gravewind Vortex** (Action, Recharge 5-6)
 - **Range:** 30-foot radius (6 squares), centered on self
-- **Effect:** All creatures in area must make DR 4 Might save or be pulled 15 feet toward Entity and take 12 Soul + 6 Cold damage. Success: half damage, not pulled. Creates difficult terrain in area for 1 minute.
+- **Effect:** All creatures in area must make DR 4 Blood save or be pulled 15 feet toward Entity and take 12 Soul + 6 Cold damage. Success: half damage, not pulled. Creates difficult terrain in area for 1 minute.
 
 **Spectral Storm** (Action, costs 2 actions)
 - **Range:** 60-foot line (12 squares), 10 feet wide

@@ -27,7 +27,7 @@ Feralslave Ghouls are the remains of mortals who died in agony, their souls too 
 **Clawing Grasp** (Action)
 - **Dice Pool:** Fury 2 + 0 = 2d6
 - **Damage:** 3 physical (Slashing)
-- **Special:** On hit, target must make DR 1 Might save or be Grappled
+- **Special:** On hit, target must make DR 1 Blood save or be Grappled
 
 **Feral Bite** (Action, requires Grapple)
 - **Dice Pool:** Fury 2 + 0 = 2d6
@@ -85,7 +85,7 @@ Not all vampires retain their nobility and cunning. Those who give in completely
 **Pounce** (Action, requires at least 20 feet movement)
 - **Dice Pool:** Fury 4 + Athletics 3 = 7d6
 - **Damage:** 7 physical (Bludgeoning)
-- **Special:** Target must make DR 3 Might save or be knocked Prone and Grappled
+- **Special:** Target must make DR 3 Blood save or be knocked Prone and Grappled
 
 ### Special Abilities
 **Vampiric Regeneration:** Regains 5 HP at start of its turn unless it took Radiant or Fire damage last round.

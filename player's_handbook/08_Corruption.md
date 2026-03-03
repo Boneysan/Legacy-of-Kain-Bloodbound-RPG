@@ -114,7 +114,7 @@ Characters may select one Corrupted Perk each time they cross a new threshold.
 
 #### Hylden's Grasp
 
-**Effect (Active):** As an Action, once per scene, you conjure a glyph of Hylden energy at a point within 30 feet (6 squares). Enemies within a 5-foot (1 square) radius must make a DR 2 Might or Evasion save (their choice). On a failure, they are Rooted for 1 round and take 2 Corruption damage. Costs 2 Soul Energy.
+**Effect (Active):** As an Action, once per scene, you conjure a glyph of Hylden energy at a point within 30 feet (6 squares). Enemies within a 5-foot (1 square) radius must make a DR 2 Blood or Evasion save (their choice). On a failure, they are Rooted for 1 round and take 2 Corruption damage. Costs 2 Soul Energy.
 
 **Drawback:** Using this ability adds 1 Corruption Point to your total, and you suffer 1 Soul Drain as Hylden whispers invade your mind.
 
@@ -140,7 +140,7 @@ Characters may select one Corrupted Perk each time they cross a new threshold.
 
 **Effect (Active):** As a Bonus Action, once per short rest, you can enter a frenzied state for 1 minute. Your melee attacks deal +3 damage, but you take 1 physical damage (bypassing Armor) each time you attack. Costs 2 Soul Drain.
 
-**Drawback:** After the frenzy ends, you're exhausted, suffering a -1 die penalty on all Might and Evasion checks until you complete a short rest.
+**Drawback:** After the frenzy ends, you're exhausted, suffering a -1 die penalty on all Blood and Evasion checks until you complete a short rest.
 
 **Narrative Flavor:** You unleash a torrent of corrupted rage, your body sprouting jagged, bone-like protrusions. Your laughter grows unhinged, and allies may fear you're losing control. This perk fits Blood Knights or Turelim, enhancing their combat prowess at a steep cost.
 
@@ -166,7 +166,7 @@ Characters may select one Corrupted Perk each time they cross a new threshold.
 
 #### Hylden's Rift
 
-**Effect (Active):** As an Action, once per long rest, you tear open a rift to the Hylden's banished dimension at a point within 60 feet (12 squares), creating a 10-foot (2 squares) radius zone of chaotic energy for 1 minute. Enemies entering or starting their turn in the zone take 4 Void damage (bypassing all Armor and resistances) and must make a DR 3 Might save or be slowed (half speed) for 1 round. Costs 4 SE and 3 Soul Drain.
+**Effect (Active):** As an Action, once per long rest, you tear open a rift to the Hylden's banished dimension at a point within 60 feet (12 squares), creating a 10-foot (2 squares) radius zone of chaotic energy for 1 minute. Enemies entering or starting their turn in the zone take 4 Void damage (bypassing all Armor and resistances) and must make a DR 3 Blood save or be slowed (half speed) for 1 round. Costs 4 SE and 3 Soul Drain.
 
 **Drawback:** The rift destabilizes you; you gain 2 Corruption Points, and your maximum HP is reduced by 5 until you complete a long rest. The rift may attract Hylden attention, potentially summoning a minor Hylden entity (GM discretion).
 
@@ -192,7 +192,7 @@ Characters may select one Corrupted Perk each time they cross a new threshold.
 
 **Effect (Active):** As an Action, once per long rest, you ascend into a corrupted state for 1 minute. You gain a fly speed equal to your movement speed, your attacks deal +3 Corruption damage (bypassing physical Armor), and you ignore difficult terrain. Costs 3 BP or 3 SE and 2 Corruption Points.
 
-**Drawback:** Your body mutates (e.g., wings of shadow, glowing veins); you suffer a -2 die penalty on all social skill checks with non-corrupted NPCs permanently. After the effect ends, you're exhausted, suffering a -2 die penalty on all Might and Evasion checks until you complete a long rest.
+**Drawback:** Your body mutates (e.g., wings of shadow, glowing veins); you suffer a -2 die penalty on all social skill checks with non-corrupted NPCs permanently. After the effect ends, you're exhausted, suffering a -2 die penalty on all Blood and Evasion checks until you complete a long rest.
 
 **Narrative Flavor:** You rise on currents of corrupted energy, your form a blasphemy against Nosgoth's balance. Your voice carries an otherworldly resonance, and the Pillars seem to shudder in your presence. This perk suits any class, offering mobility and offense but marking you as an outcast. GMs may have the Sarafan or Balance Wardens target you.
 

@@ -449,7 +449,7 @@ Effect: You expend a measure of your vampiric vitae to fuel a burst of supernatu
 Lvl 5: Crushing Blow
 Action Cost: Bonus Action to prepare.
 Frequency: Once per short rest.
-Effect: You focus your strength into your next attack. If your next successful melee weapon attack made before the end of your current turn hits a creature, in addition to normal damage, the target must make a Difficulty Rating (DR) 2 Might save. If the save fails, the target is Stunned for 1 round (they cannot take Actions or Move on their next turn, and cannot take Reactions until the start of their turn after that).
+Effect: You focus your strength into your next attack. If your next successful melee weapon attack made before the end of your current turn hits a creature, in addition to normal damage, the target must make a Difficulty Rating (DR) 2 Blood save. If the save fails, the target is Stunned for 1 round (they cannot take Actions or Move on their next turn, and cannot take Reactions until the start of their turn after that).
 Lvl 6: Juggernaut
 Action Cost: 1 Action.
 Effect: You lower your shoulder and charge forward with unstoppable force, moving up to your full Speed in a straight line. You can attempt to move through the spaces of any creatures of your size or smaller in this path.
@@ -564,8 +564,8 @@ Action Cost: 1 Action.
 Cost: 1 Soul Energy.
 Range: 30 feet (6 squares).
 Effect: You unleash a chain of spectral energy at one creature you can see. Make a spell attack roll (using Soul + your primary spellcasting skill like Glyphcasting or Rituals, versus the target's Defense Value).
-On a hit: The target suffers 2 Soul damage (this damage type bypasses physical Armor). The target must then succeed on a DR 2 Might save or be pulled up to 15 feet (3 squares) directly towards you and become Stunned for 1 round (unable to take Actions or Move on their next turn, and no Reactions until their turn after that).
-If the Might save succeeds, the target is pulled only 5 feet (1 square) and is not Stunned.
+On a hit: The target suffers 2 Soul damage (this damage type bypasses physical Armor). The target must then succeed on a DR 2 Blood save or be pulled up to 15 feet (3 squares) directly towards you and become Stunned for 1 round (unable to take Actions or Move on their next turn, and no Reactions until their turn after that).
+If the Blood save succeeds, the target is pulled only 5 feet (1 square) and is not Stunned.
 Lvl 4: Soul Fortify
 Effect (Passive): Whenever you expend one or more Soul Energy points to activate one of your Soul Reaver class abilities or cast a spell, your spirit bolsters your physical form. You immediately gain Temporary Hit Points equal to the number of Soul Energy points spent. These Temporary HP last for 1 minute or until depleted. Gaining new Temporary HP from this perk replaces any existing Temporary HP granted by it.
 Lvl 5: Echo Sweep
@@ -778,7 +778,7 @@ Cost: 2 Soul Energy.
 Range: 30 feet (6 squares).
 Target: One creature you can see that is standing in an area of dim light or darkness, or is adjacent to a significant source of shadow.
 Duration: A number of rounds equal to your Soul attribute, or until the target breaks free or the shadow source is eliminated.
-Effect: Tendrils of living shadow erupt to grasp the target. The target must succeed on a DR 2 Evasion save (to dodge) or a DR 2 Might save (to break through as they form) – target chooses.
+Effect: Tendrils of living shadow erupt to grasp the target. The target must succeed on a DR 2 Evasion save (to dodge) or a DR 2 Blood save (to break through as they form) – target chooses.
 On a failed save: The target is Rooted (cannot move from their current space, including any forced movement). They can still take other actions. A Rooted creature can use its Action on its turn to attempt a fury check against the original DR to break free.
 On a successful save: The target’s speed is halved for 1 round as shadows momentarily cling to them.
 Lvl 9: Veil of Nosgoth
@@ -850,7 +850,7 @@ Target: One living creature you can see that possesses blood or similar vital fl
 Duration of Bleed: A number of rounds equal to your Soul attribute (minimum 1 round).
 
 
-Effect: The targeted creature must make a Difficulty Rating (DR) 2 Might save as their body attempts to resist the unnatural bleeding.
+Effect: The targeted creature must make a Difficulty Rating (DR) 2 Blood save as their body attempts to resist the unnatural bleeding.
 
 
 On a failed save: The target gains the Bleeding (Hemorrhage) condition for the duration. A creature suffering from Bleeding (Hemorrhage):
@@ -936,7 +936,7 @@ Cost: 2 Blood Points.
 Range: Target a point on the ground you can see within 60 feet (12 squares).
 Area of Effect: A 10-foot (2 squares) radius circle centered on the target point.
 Duration: A number of rounds equal to your Soul attribute, or until a creature breaks free.
-Effect: Thick, grasping tendrils of animated blood erupt from the ground. Each creature within the area when the spell is cast, or that enters the area for the first time on a turn, must make a Difficulty Rating (DR) 2 Might save (to power through) or a DR 2 Evasion save (to dodge the grasping tendrils) – target chooses.
+Effect: Thick, grasping tendrils of animated blood erupt from the ground. Each creature within the area when the spell is cast, or that enters the area for the first time on a turn, must make a Difficulty Rating (DR) 2 Blood save (to power through) or a DR 2 Evasion save (to dodge the grasping tendrils) – target chooses.
 On a failed save: The creature is Rooted (cannot move from its current space; this includes any forced movement). It can still take other actions. A Rooted creature can use its Action on its turn to attempt another fury check against the original DR to break free.
 On a successful save: The creature's speed is halved while it remains within the affected area.
 Lvl 4: Fleshcraft
@@ -983,7 +983,7 @@ Effect: You weave your will into the target's own vitae, attempting to seize con
 On a failed save: You gain full mental control over the target. It acts on its own initiative but obeys your telepathic commands on its turn to the best of its ability for the duration. Commanded actions cannot be obviously suicidal (like jumping off a cliff for no reason), but can include attacking its allies or putting itself in extreme danger. If the dominated target takes damage from any source other than itself, it can make a new Will save against the original DR at the end of that turn, ending the effect on a success. The effect also ends if your concentration is broken.
 On a successful save: The target is immune to your Hemodominate ability for the next 24 hours.
 Level 11: Profound Hemorrhage
-Effect: Your "Hemorrhage" core ability becomes more debilitating. Targets actively bleeding from your Hemorrhage now also suffer a -1 die penalty on all skill checks relying on Might or Evasion due to weakness and blood loss. Additionally, the base damage per round of your Hemorrhage increases by 1.
+Effect: Your "Hemorrhage" core ability becomes more debilitating. Targets actively bleeding from your Hemorrhage now also suffer a -1 die penalty on all skill checks relying on Blood or Evasion due to weakness and blood loss. Additionally, the base damage per round of your Hemorrhage increases by 1.
 Level 12: True Fleshcrafting
 Effect: Your "Fleshcraft" (Lvl 4 perk) ability is enhanced. You can now expend an Action and target one fresh Medium-sized corpse (or two Small corpses) within 30 feet. The corpse(s) animate as a "Bloodied Servitor" under your command for 10 minutes. A Bloodied Servitor has HP equal to (your Level x 2), moves at 20 feet, and makes one melee attack dealing 3 physical damage (gaining +1 success to hit if its target is bleeding). You can control a number of Servitors equal to your Soul attribute. If you attempt to animate more, the oldest one crumbles.
 Level 13: Voracious Siphon
@@ -993,18 +993,18 @@ Effect: Your passive ability to "feel the pulse of every living thing" intensifi
 Level 15: Master Puppeteer
 Effect: Your control over "Blood Puppet" (core ability) and "Hemodominate" (Lvl 10 perk) is refined. Targets under these effects now act with unnatural coordination if you desire, gaining +1 die on attack rolls you force them to make. Alternatively, once per controlled puppet per turn, you can force them into a reckless action, causing them to suffer an attack from another enemy as if that enemy had gained +1 success on their attack roll. The duration of your basic "Blood Puppet" ability is extended by an additional round.
 Level 16: Plague of Clots
-Effect: Once per short rest, as an Action, you can touch one creature or imbue a weapon you are holding with this power for a single attack. If the attack hits (or you touch the creature), the target must make a DR 3 Might save. On a failure, its blood congeals and rebels. For the next minute, the target's Speed is halved, and they cannot benefit from any magical healing; any attempt to magically heal them instead causes 2 Soul damage. They can attempt the Might save again at the end of each of their turns to end the effect.
+Effect: Once per short rest, as an Action, you can touch one creature or imbue a weapon you are holding with this power for a single attack. If the attack hits (or you touch the creature), the target must make a DR 3 Blood save. On a failure, its blood congeals and rebels. For the next minute, the target's Speed is halved, and they cannot benefit from any magical healing; any attempt to magically heal them instead causes 2 Soul damage. They can attempt the Blood save again at the end of each of their turns to end the effect.
 Level 17: Heartblood Invigoration
 Effect: Your mastery over your own vitae and that of others allows for rapid recovery. When you cast a spell or use an ability that costs Blood Points (BP), reduce its BP cost by 1 (to a minimum of 0 BP for abilities that originally cost 1 BP). Additionally, your "Blood Memory" (Lvl 1 perk) now allows you to recall and cast the chosen spell without spending any of its original resource costs (BP, HP, or Soul Energy).
 Level 18: Sanguine Eruption
-Effect: Your "Bloodburst" (Lvl 8 perk) AoE is now more devastating. The radius of the explosion increases by 5 feet (to a 10-foot radius around the bloodied foe, for example, if it was 5ft). All targets caught in the blast (including the original target if they survive) now also must succeed on a DR 2 Might save or be knocked prone. You can now shield a number of allies equal to your Soul attribute within the blast radius from all effects of your Bloodburst.
+Effect: Your "Bloodburst" (Lvl 8 perk) AoE is now more devastating. The radius of the explosion increases by 5 feet (to a 10-foot radius around the bloodied foe, for example, if it was 5ft). All targets caught in the blast (including the original target if they survive) now also must succeed on a DR 2 Blood save or be knocked prone. You can now shield a number of allies equal to your Soul attribute within the blast radius from all effects of your Bloodburst.
 Level 19: Crimson Transfusion
 Effect: Your "Blood Pact" (Lvl 6 perk) can now be used more effectively and with greater range. The range at which you can form or maintain the Blood Pact increases to 30 feet (6 squares). When you transfer HP to an ally, you can choose to transfer an additional amount up to your Soul attribute at no extra cost to yourself (e.g., if you spend 5 HP, they can receive 5 + Soul HP). When an ally transfers HP to you, you receive an additional amount equal to your Soul attribute. This extra transfusion can only occur once per pact target per scene.
 Level 20: Avatar of Living Vitae
 Effect: You reach the pinnacle of sangromancy, able to command blood on an epic scale. Once per long rest, as an Action, you can embody the Avatar of Living Vitae for 1 minute:
 You are constantly aware of the precise location and current HP of all creatures with blood within 120 feet.
 Any of your Sangromancer abilities or spells that target or are enhanced by a creature bleeding (e.g., Vein Strike, Hemodominate, Blood Puppet) automatically treat targets as if they are bleeding, and if they are bleeding, these abilities gain the effect of +1 automatic success on any required check or save you make (or impose +1 DR if the target saves).
-Once during this state, as an Action, you can attempt to exsanguinate all hostile creatures within a 30-foot radius centered on you. Each target must make a DR 3 Might save. On a failure, they suffer 8 direct Health Point loss (bypassing armor) and are Stunned for 1 round. On a success, they suffer 4 HP loss and are not Stunned. For each creature from which you drain HP this way, you regain 1 Blood Point.
+Once during this state, as an Action, you can attempt to exsanguinate all hostile creatures within a 30-foot radius centered on you. Each target must make a DR 3 Blood save. On a failure, they suffer 8 direct Health Point loss (bypassing armor) and are Stunned for 1 round. On a success, they suffer 4 HP loss and are not Stunned. For each creature from which you drain HP this way, you regain 1 Blood Point.
 Your "Vital Leech" ability, if used during this time, also allows you to heal one ally within 30 feet for the same amount you heal yourself
 
 
@@ -1208,8 +1208,8 @@ Uses/Doses: You can prepare and apply a number of doses of this magical venom eq
 Application: When you use this ability, you coat one melee weapon you are currently wielding, OR up to three pieces of ammunition (such as arrows, bolts, or throwing daggers). The applied venom remains potent on the weapon or ammunition for 1 minute or until it is delivered by a successful attack.
 Delivery & Effect: The next time you successfully hit a living creature with an attack using a venom-coated weapon or piece of ammunition, the venom is delivered in addition to the attack's normal damage and other effects.
 Immunity Note: Creatures that lack vital biological processes (such as most constructs or elementals) or those specifically immune to poison effects are generally unaffected by this venom (GM's discretion for unique creatures).
-The creature struck by the venom must immediately make a Difficulty Rating (DR) 2 Might save to resist its effects.
-On a failed save: The creature becomes Poisoned for 1 minute. A creature Poisoned in this way suffers a -1 die penalty on all of its attack rolls and skill checks for the duration. At the end of each of its turns, the Poisoned creature can make another Might save against the original DR (DR 2) to end this effect on itself prematurely.
+The creature struck by the venom must immediately make a Difficulty Rating (DR) 2 Blood save to resist its effects.
+On a failed save: The creature becomes Poisoned for 1 minute. A creature Poisoned in this way suffers a -1 die penalty on all of its attack rolls and skill checks for the duration. At the end of each of its turns, the Poisoned creature can make another Blood save against the original DR (DR 2) to end this effect on itself prematurely.
 On a successful save: The creature manages to fight off the main debilitating effects of the venom, suffering no ill effects beyond the normal damage of your attack.
 Magical Nature:
 This is a magical poison. As such, it may affect creatures resistant to common, non-magical poisons (GM's discretion). The potency of this base venom (represented by the DR 2 save) is a foundation that can be improved by higher-level Dreadblade perks (like "Virulent Toxins").
@@ -1278,7 +1278,7 @@ Effect: You can use your Reaction to become a momentary blur of shadow and motio
 Lvl 9: Death’s Whisper
 Action Cost: 1 Action (as part of making a melee attack).
 Target: A living creature you hit with a melee attack that has 15 Hit Points or fewer (or is below 25% of its maximum HP, if the GM prefers that for more powerful foes).
-Effect: If your melee attack hits a qualifying low-health target, instead of dealing normal damage, you whisper a fatal incantation or strike a hidden vital point. The target must succeed on a Difficulty Rating (DR) 3 Might save (representing their physical will to live against a precise, lethal blow).
+Effect: If your melee attack hits a qualifying low-health target, instead of dealing normal damage, you whisper a fatal incantation or strike a hidden vital point. The target must succeed on a Difficulty Rating (DR) 3 Blood save (representing their physical will to live against a precise, lethal blow).
 On a failed save: The target dies instantly.
 On a successful save: The target takes your normal weapon damage + an additional 5 damage from the potent attempt.
 Lvl 10: Assassinate
@@ -1286,7 +1286,7 @@ Action Cost: 1 Action.
 Conditions: Can only be attempted if you are undetected by the target, and the target is unaware of any immediate hostile intent from you.
 Target: One living creature susceptible to critical hits or precision-based death (GM's discretion for creatures without discernible vital anatomy like oozes or massive elementals).
 Frequency: Once per long rest.
-Effect: You attempt a single, perfectly aimed strike intended to end the target's life. The target must make a Difficulty Rating (DR) 4 Might or Evasion save (target's choice – to either physically resist the blow's lethality or make a desperate last-second evasion).
+Effect: You attempt a single, perfectly aimed strike intended to end the target's life. The target must make a Difficulty Rating (DR) 4 Blood or Evasion save (target's choice – to either physically resist the blow's lethality or make a desperate last-second evasion).
 On a failed save: The target dies instantly. If the GM rules the target is too powerful or lacks vitals for an instant kill (e.g., a major antagonist or unique entity), they instead suffer massive damage equal to (your Level x 3) bypassing Armor.
 On a successful save: The attack is a painful, glancing blow but not instantly fatal. The target takes your normal weapon damage + additional damage equal to your Character Level. You are no longer undetected after the attempt.
 
@@ -1317,7 +1317,7 @@ Effect: You are a legend whispered in fear, a true blade in the dark. Once per l
 Your movement speed is doubled, and you can move through other creatures and obstacles as if they were difficult terrain (you cannot end your turn inside an obstacle or creature).
 Your "Auto-crit from stealth" passive applies to every attack you make against a target that has not yet acted in the current combat round OR is unaware of you.
 You can use your "Blink Strike" ability as a Bonus Action each turn without expending its normal uses.
-Any target damaged by your "Venom Edge" during this state must immediately succeed on a DR 3 Might save or be Paralyzed for 1 round by an unnaturally potent toxin.
+Any target damaged by your "Venom Edge" during this state must immediately succeed on a DR 3 Blood save or be Paralyzed for 1 round by an unnaturally potent toxin.
 
 
 
@@ -2434,7 +2434,7 @@ Effect (Passive): When you deal damage with a melee weapon attack to a living cr
 Drawback: Your hunger intensifies; you must succeed on a DR 2 Will save each scene to avoid attacking or feeding on a bleeding ally within 10 feet (2 squares). Failure imposes a -1 die penalty on non-attack actions for 1 round.
 Narrative Flavor: Your weapon pulses with a sickly red glow, drinking deeply from your foes. Your fangs lengthen, and your eyes glint with predatory need, alarming even your allies. This perk suits vampires or Sangromancers, amplifying their bloodlust while offering sustain.
 Hylden’s Grasp
-Effect (Active): As an Action, once per scene, you conjure a glyph of Hylden energy at a point within 30 feet (6 squares). Enemies within a 5-foot (1 square) radius must make a DR 2 Might or Evasion save (their choice). On a failure, they are Rooted for 1 round and take 2 Corruption damage. Costs 2 Soul Energy.
+Effect (Active): As an Action, once per scene, you conjure a glyph of Hylden energy at a point within 30 feet (6 squares). Enemies within a 5-foot (1 square) radius must make a DR 2 Blood or Evasion save (their choice). On a failure, they are Rooted for 1 round and take 2 Corruption damage. Costs 2 Soul Energy.
 Drawback: Using this ability adds 1 Corruption Point to your total, and you suffer 1 sanity damage as Hylden whispers invade your mind.
 Narrative Flavor: You channel the banished Hylden’s entropy, your hands glowing with sickly green sigils. Your voice occasionally carries an alien timbre, and you dream of a desolate, glyph-scarred wasteland. GMs may use this to foreshadow Hylden incursions or faction suspicion.
 Soul Leech
@@ -2447,7 +2447,7 @@ Drawback: The Abyss’s touch lingers; you suffer a -1 die penalty on Insight ch
 Narrative Flavor: You deflect magic with a ripple of void energy, your form briefly glitching like a broken tapestry. Your reflection shows a stranger’s face, and you hear faint, mocking laughter. This perk suits Unbound or Hylden characters, tying to their resistance to fate.
 Corrupted Ferocity
 Effect (Active): As a Bonus Action, once per short rest, you can enter a frenzied state for 1 minute. Your melee attacks deal +3 damage, but you take 1 physical damage(bypassing Armor) each time you attack. Costs 1 Corruption Point or 2 sanity damage.
-Drawback: After the frenzy ends, you’re exhausted, suffering a -1 die penalty on all Might and Evasion checks until you complete a short rest.
+Drawback: After the frenzy ends, you’re exhausted, suffering a -1 die penalty on all Blood and Evasion checks until you complete a short rest.
 Narrative Flavor: You unleash a torrent of corrupted rage, your body sprouting jagged, bone-like protrusions. Your laughter grows unhinged, and allies may fear you’re losing control. This perk fits Blood Knights or Turelim, enhancing their combat prowess at a steep cost.
 🔥 Tier 3 Corrupted Perks
 Embodiment of Decay – Your presence wilts plants and rusts weapons; enemies in 1-tile radius suffer -1 to all attack rolls.
@@ -2463,7 +2463,7 @@ Effect (Active): As an Action, once per short rest, you transform into a blood-w
 Drawback: Your body warps permanently (e.g., crimson veins pulse visibly, or bone spurs protrude); you suffer a -2 die penalty on Persuasion checks with uncorrupted NPCs (e.g., Sarafan, Nomads). After the effect ends, you take 4 physical damage (bypassing Armor) from overexertion.
 Narrative Flavor: Your blood boils, reshaping you into a living weapon. Your laughter is guttural, and your presence terrifies mortals. This perk suits vampires or Sangromancers, amplifying their bloodlust but marking them as monstrous. GMs may have factions hunt you as a threat.
 Hylden’s Rift
-Effect (Active): As an Action, once per long rest, you tear open a rift to the Hylden’s banished dimension at a point within 60 feet (12 squares), creating a 10-foot (2 squares) radius zone of chaotic energy for 1 minute. Enemies entering or starting their turn in the zone take 4 Void damage (bypassing all Armor and resistances) and must make a DR 3 Might save or be slowed (half speed) for 1 round. Costs 4 SE and 3 sanity damage.
+Effect (Active): As an Action, once per long rest, you tear open a rift to the Hylden’s banished dimension at a point within 60 feet (12 squares), creating a 10-foot (2 squares) radius zone of chaotic energy for 1 minute. Enemies entering or starting their turn in the zone take 4 Void damage (bypassing all Armor and resistances) and must make a DR 3 Blood save or be slowed (half speed) for 1 round. Costs 4 SE and 3 sanity damage.
 Drawback: The rift destabilizes you; you gain 2 Corruption Points, and your maximum HP is reduced by 5 until you complete a long rest. The rift may attract Hylden attention, potentially summoning a minor Hylden entity (GM discretion).
 Narrative Flavor: You channel the Hylden’s entropy, your hands glowing with otherworldly sigils. Your dreams are plagued by visions of a shattered realm, and your shadow writhes independently. This perk aligns with Hylden Warlocks, risking cosmic consequences for immense power.
 Abyssal Pact
@@ -2476,7 +2476,7 @@ Drawback: Your connection to the Spectral Realm deepens; you gain 1 Corruption P
 Narrative Flavor: Your wail echoes with the sorrow of lost souls, your form flickering like a dying flame. Your touch grows cold, and mirrors show a gaunt, spectral version of you. This perk fits Wraiths or Shadowmancers, enhancing their spectral prowess but binding them to the Spectral Realm’s torment.
 Corrupted Ascension
 Effect (Active): As an Action, once per long rest, you ascend into a corrupted state for 1 minute. You gain a fly speed equal to your movement speed, your attacks deal +3 Corruption damage (bypassing physical Armor), and you ignore difficult terrain. Costs 3 BP or 3 SE and 2 Corruption Points.
-Drawback: Your body mutates (e.g., wings of shadow, glowing veins); you suffer a -2 die penalty on all social skill checks with non-corrupted NPCs permanently. After the effect ends, you’re exhausted, suffering a -2 die penalty on all Might and Evasion checks until you complete a long rest.
+Drawback: Your body mutates (e.g., wings of shadow, glowing veins); you suffer a -2 die penalty on all social skill checks with non-corrupted NPCs permanently. After the effect ends, you’re exhausted, suffering a -2 die penalty on all Blood and Evasion checks until you complete a long rest.
 Narrative Flavor: You rise on currents of corrupted energy, your form a blasphemy against Nosgoth’s balance. Your voice carries an otherworldly resonance, and the Pillars seem to shudder in your presence. This perk suits any class, offering mobility and offense but marking you as an outcast. GMs may have the Sarafan or Balance Wardens target you.
 
 
@@ -3088,7 +3088,7 @@ Duration: Until triggered or dispelled (can be long-lasting if undisturbed). Max
 Trigger: When a creature attempts to open, pass through, or interact with the warded object/area without speaking a pass-phrase set by you during casting.
 Effect: When triggered, the glyph emits a loud alarm (audible up to 100 feet) for 1 round. Additionally, you can choose one of the following minor effects to occur (chosen when casting):
 A flash of light (as Glyph of Sparks, but no damage, DR 2 Will save vs. Blinded for 1 round for the triggerer).
-A magical tether (triggerer must make a DR 2 Might save or be Rooted for 1 round).
+A magical tether (triggerer must make a DR 2 Blood save or be Rooted for 1 round).
 A minor shock (triggerer takes 2 Electrical damage).
 Glyph of Binding Light
 
@@ -3175,7 +3175,7 @@ Cost: 1 BP
 Range: 30 feet
 Target: One creature.
 Duration: Concentration, up to 1 minute.
-Effect: A tendril of living blood extends from you to the target. The target must succeed on a DR 2 Might save or be tethered by the blood leash. While leashed, the target cannot willingly move more than 15 feet away from you. If it attempts to, it is halted. The target can use its Action to make a DR 2 fury check to break the leash. The leash also breaks if you move more than 30 feet from the target or your concentration ends.
+Effect: A tendril of living blood extends from you to the target. The target must succeed on a DR 2 Blood save or be tethered by the blood leash. While leashed, the target cannot willingly move more than 15 feet away from you. If it attempts to, it is halted. The target can use its Action to make a DR 2 fury check to break the leash. The leash also breaks if you move more than 30 feet from the target or your concentration ends.
 Minor Bloodshield
 
 
@@ -3248,7 +3248,7 @@ Casting Time: 1 Action
 Cost: 1 BP
 Range: 30 feet
 Target: One living creature with blood.
-Effect: You send a jolt of focused pressure through the target's bloodstream. Make a ranged spell attack (Soul + Rituals). On a hit, the target takes 1 Soul damage and must make a DR 2 Might save. On a failed save, the target is disoriented and suffers a -1 die penalty on its next attack roll or skill check made before the end of its next turn.
+Effect: You send a jolt of focused pressure through the target's bloodstream. Make a ranged spell attack (Soul + Rituals). On a hit, the target takes 1 Soul damage and must make a DR 2 Blood save. On a failed save, the target is disoriented and suffers a -1 die penalty on its next attack roll or skill check made before the end of its next turn.
 Heartburst
 Tier: Expert (Sangromancer L9 Perk, also on "Selected Spells")
 Type: Blood (Attack/Execute)
@@ -3258,7 +3258,7 @@ Cost: 4 Blood Points (BP)
 Range: 30 feet
 Target: One living creature with a heart.
 Frequency: Once per long rest.
-Effect: Target makes DR 3 Might save. Failure: If target has 20 HP or fewer, dies instantly. If >20 HP, suffers (Level x 2) Soul damage and is Stunned 1 round. Success: Suffers (Level) Soul damage.
+Effect: Target makes DR 3 Blood save. Failure: If target has 20 HP or fewer, dies instantly. If >20 HP, suffers (Level x 2) Soul damage and is Stunned 1 round. Success: Suffers (Level) Soul damage.
 
 
 
@@ -3453,7 +3453,7 @@ Cost: 1 SE
 Range: 30 feet
 Target: One creature.
 Duration: 3 rounds.
-Effect: You touch the target with entropic energy or project a faint aura of decay. The target must make a DR 2 Might save. On a failure, their flesh begins to tingle with a faint rot. For the duration, any mundane (non-magical) healing the target receives is halved, and they emit a faint, unsettling odor of decay.
+Effect: You touch the target with entropic energy or project a faint aura of decay. The target must make a DR 2 Blood save. On a failure, their flesh begins to tingle with a faint rot. For the duration, any mundane (non-magical) healing the target receives is halved, and they emit a faint, unsettling odor of decay.
 Blind Insight
 
 
@@ -3471,7 +3471,7 @@ Type: Forbidden (Attack/Debuff)
 Casting Time: 1 Action
 Cost: 1 SE
 Range: 15-foot cone.
-Effect: You exhale a cloud of nearly invisible, choking gas tainted with otherworldly energies. Creatures in the cone must make a DR 2 Might save. On a failure, they begin coughing uncontrollably, suffering 1 Soul damage and are unable to speak or cast spells with verbal components for 1 round. On a success, they only cough for a moment with no further penalty.
+Effect: You exhale a cloud of nearly invisible, choking gas tainted with otherworldly energies. Creatures in the cone must make a DR 2 Blood save. On a failure, they begin coughing uncontrollably, suffering 1 Soul damage and are unable to speak or cast spells with verbal components for 1 round. On a success, they only cough for a moment with no further penalty.
 Dissonant Pulse
 
 
@@ -3556,7 +3556,7 @@ Cost: 2 SE
 Range (Placement): Touch
 Duration: 10 minutes, or until triggered.
 Trigger: Creature (not designated ally) of Medium size or larger moves within 10 feet of the glyph.
-Effect: Spectral chains erupt from the glyph and attempt to bind the triggering creature. The target must make a DR 3 Might save. On a failure, it is Restrained and cannot use magical teleportation or phasing abilities for up to 1 minute. The creature can use its Action on its turn to repeat the Might save, ending the effect on a success.
+Effect: Spectral chains erupt from the glyph and attempt to bind the triggering creature. The target must make a DR 3 Blood save. On a failure, it is Restrained and cannot use magical teleportation or phasing abilities for up to 1 minute. The creature can use its Action on its turn to repeat the Blood save, ending the effect on a success.
 Glyph of Entropy
 
 
@@ -3578,7 +3578,7 @@ Cost: 2 SE
 Range (Placement): Touch (must be on a natural earth or loose debris surface)
 Duration: 10 minutes, or until triggered.
 Trigger: When a creature weighing more than 50 lbs moves onto the glyph's space.
-Effect: The 5-foot square space the glyph is on and all adjacent squares (a 3x3 square area, or 15x15ft) transform into treacherous, magically-induced quicksand for 1 minute. This area is difficult terrain. Any creature starting its turn in the quicksand or entering it must make a DR 2 Might save or become Restrained as they sink. A Restrained creature can use its action to make another DR 2 fury check to free itself. Creatures who are Restrained at the end of their turn sink deeper, suffering 1 Soul Stress.
+Effect: The 5-foot square space the glyph is on and all adjacent squares (a 3x3 square area, or 15x15ft) transform into treacherous, magically-induced quicksand for 1 minute. This area is difficult terrain. Any creature starting its turn in the quicksand or entering it must make a DR 2 Blood save or become Restrained as they sink. A Restrained creature can use its action to make another DR 2 fury check to free itself. Creatures who are Restrained at the end of their turn sink deeper, suffering 1 Soul Stress.
 Glyph of Displacement
 
 
@@ -3600,7 +3600,7 @@ Cost: 2 SE
 Range (Placement): Touch (often placed on a weapon or path)
 Duration: 10 minutes, or until triggered.
 Trigger: When the glyph is touched by a creature or a weapon bearing the glyph strikes a creature.
-Effect: The glyph discharges a cutting wave of energy. The creature triggering it (or struck by the weapon) takes 4 Soul damage (bypasses armor) and must make a DR 2 Might save. On a failed save, one non-magical item they are carrying or wearing (e.g., a shield strap, a belt pouch, a weapon's haft if not magical) is severed or broken. The GM determines the item if not obvious.
+Effect: The glyph discharges a cutting wave of energy. The creature triggering it (or struck by the weapon) takes 4 Soul damage (bypasses armor) and must make a DR 2 Blood save. On a failed save, one non-magical item they are carrying or wearing (e.g., a shield strap, a belt pouch, a weapon's haft if not magical) is severed or broken. The GM determines the item if not obvious.
 
 Blood Spells (Focus: Sangromancers, Dreadblades)
 Blood Puppet
@@ -3623,7 +3623,7 @@ Casting Time: 1 Action
 Cost: 2 BP
 Range (Area): 10-foot radius from a point within 60 feet.
 Duration: Soul attribute rounds.
-Effect: Creatures in area make DR 2 Might or Evasion save. Failure: Rooted (can use Action to attempt DR 2 Might to break free). Success: speed halved in area.
+Effect: Creatures in area make DR 2 Blood or Evasion save. Failure: Rooted (can use Action to attempt DR 2 Blood to break free). Success: speed halved in area.
 Echo Wound
 
 
@@ -3654,7 +3654,7 @@ Cost: 2 BP
 Range: Self
 Area: 10-foot radius sphere centered on you.
 Duration: Instantaneous effect, but bleed lasts 2 rounds.
-Effect: You unleash a wave of blood-seeking energy. All other creatures (friend or foe) within the radius must make a DR 2 Might save. Those who fail take 2 Soul damage (bypasses armor) and gain the Bleeding condition (1 damage at start of turn) for 2 rounds. Those who succeed take -1 damage. If the player rolls more than 1 success, they do not take the bleeding condition. 
+Effect: You unleash a wave of blood-seeking energy. All other creatures (friend or foe) within the radius must make a DR 2 Blood save. Those who fail take 2 Soul damage (bypasses armor) and gain the Bleeding condition (1 damage at start of turn) for 2 rounds. Those who succeed take -1 damage. If the player rolls more than 1 success, they do not take the bleeding condition. 
 Sangral Lance
 
 
@@ -3663,7 +3663,7 @@ Type: Blood (Attack)
 Casting Time: 1 Action
 Cost: 2 BP
 Range: 60 feet (line)
-Effect: You conjure and hurl a spear made of solidified, supernaturally sharp blood. Make a ranged spell attack roll (Soul + Rituals) against one target. On a hit, the Sangral Lance deals 5 Physical (Piercing) damage and the target must make a DR 2 Might save or begin Bleeding (1 damage/round for 2 rounds). If the attack roll results in 2 or more successes beyond what was needed to hit the target's DV, the lance pierces through and can hit a second target directly behind the first (make a new attack roll with -1 die against the second target).
+Effect: You conjure and hurl a spear made of solidified, supernaturally sharp blood. Make a ranged spell attack roll (Soul + Rituals) against one target. On a hit, the Sangral Lance deals 5 Physical (Piercing) damage and the target must make a DR 2 Blood save or begin Bleeding (1 damage/round for 2 rounds). If the attack roll results in 2 or more successes beyond what was needed to hit the target's DV, the lance pierces through and can hit a second target directly behind the first (make a new attack roll with -1 die against the second target).
 Blood Mirror
 
 
@@ -3694,7 +3694,7 @@ Casting Time: 1 Action
 Cost: 2 BP
 Range: 30 feet
 Target: One living creature.
-Effect: You send out a grasping tendril of blood. Make a ranged spell attack roll (Soul + Rituals). On a hit, the target suffers 2 Soul damage and you form a blood link. As a Bonus Action on your subsequent turns while the link persists (up to 1 minute, requires concentration), you can attempt to pull the target. The target must make a DR 2 Might save or be pulled 10 feet (2 squares) closer to you. The link breaks if they move out of 30 feet or you lose concentration.
+Effect: You send out a grasping tendril of blood. Make a ranged spell attack roll (Soul + Rituals). On a hit, the target suffers 2 Soul damage and you form a blood link. As a Bonus Action on your subsequent turns while the link persists (up to 1 minute, requires concentration), you can attempt to pull the target. The target must make a DR 2 Blood save or be pulled 10 feet (2 squares) closer to you. The link breaks if they move out of 30 feet or you lose concentration.
 Crimson Mantle
 
 
@@ -3871,9 +3871,9 @@ Cost: 2 SE
 Range: Touch
 Target: One living creature.
 Duration: 1 minute.
-Effect: Your touch carries Hylden energies that grotesquely twist the target's flesh. The target must make a DR 2 Might save. On a failure, one of their limbs (your choice – arm or leg) becomes temporarily warped and dysfunctional.
+Effect: Your touch carries Hylden energies that grotesquely twist the target's flesh. The target must make a DR 2 Blood save. On a failure, one of their limbs (your choice – arm or leg) becomes temporarily warped and dysfunctional.
 Warped Arm: -2 dice penalty on attack rolls or skill checks made using that arm. Cannot hold items effectively with that hand.
-Warped Leg: Movement speed is halved, and they suffer a -2 dice penalty on Evasion checks. The target can repeat the Might save at the end of each of their turns, ending the effect on a success.
+Warped Leg: Movement speed is halved, and they suffer a -2 dice penalty on Evasion checks. The target can repeat the Blood save at the end of each of their turns, ending the effect on a success.
 Cursed Equation
 
 
@@ -3947,7 +3947,7 @@ Cost: 3 SE
 Range (Placement): Touch (inscribe on a surface)
 Duration: 10 minutes, or until triggered. Max active: Will attribute / 2 (rounded up).
 Trigger: When a creature (not designated ally) enters a 10-foot radius area around the glyph.
-Effect: When triggered, the glyph projects a field of binding energy in a 10-foot radius sphere for 3 rounds. Creatures within this area when it activates, or that enter it, must make a DR 3 Might save. On a failure, they are Immobilized (Bound) – their speed becomes 0 and they cannot be forcibly moved. They can use their Action to repeat the Might save, ending the effect on themselves on a success. Creatures that succeed the initial save or break free still treat the area as difficult terrain.
+Effect: When triggered, the glyph projects a field of binding energy in a 10-foot radius sphere for 3 rounds. Creatures within this area when it activates, or that enter it, must make a DR 3 Blood save. On a failure, they are Immobilized (Bound) – their speed becomes 0 and they cannot be forcibly moved. They can use their Action to repeat the Blood save, ending the effect on themselves on a success. Creatures that succeed the initial save or break free still treat the area as difficult terrain.
 Glyph of Reflection
 
 
@@ -3968,7 +3968,7 @@ Cost: 3 SE
 Range (Placement): Touch
 Duration: 10 minutes, or until triggered.
 Trigger: When a creature (not designated ally) moves within 10 feet of the glyph.
-Effect: The glyph unleashes a pulse of intensified gravity in a 10-foot radius sphere around itself for 1 round. Creatures in this area when it triggers, or who enter it, must make a DR 3 Might save. On a failed save, they are pulled Prone and their speed is halved for their next turn. Flying creatures that fail are pulled to the ground and knocked Prone. Even on a success, movement within the area costs double (difficult terrain). The glyph is then expended.
+Effect: The glyph unleashes a pulse of intensified gravity in a 10-foot radius sphere around itself for 1 round. Creatures in this area when it triggers, or who enter it, must make a DR 3 Blood save. On a failed save, they are pulled Prone and their speed is halved for their next turn. Flying creatures that fail are pulled to the ground and knocked Prone. Even on a success, movement within the area costs double (difficult terrain). The glyph is then expended.
 Glyph of Doom
 
 
@@ -3990,7 +3990,7 @@ Cost: 3 Soul Energy (SE)
 Range (Placement): Touch (inscribe on a surface)
 Duration: 10 minutes, or until triggered. Max active: Will attribute / 2 (rounded up).
 Trigger: When a creature (not designated ally) enters a 10-foot radius area around the glyph.
-Effect: When triggered, the glyph projects a field of binding energy in a 10-foot radius sphere for 3 rounds. Creatures within this area when it activates, or that enter it, must make a DR 3 Might save. On a failure, they are Immobilized (Bound) – their speed becomes 0 and they cannot be forcibly moved. They can use their Action to repeat the Might save, ending the effect on themselves on a success. Creatures that succeed the initial save or break free still treat the area as difficult terrain.
+Effect: When triggered, the glyph projects a field of binding energy in a 10-foot radius sphere for 3 rounds. Creatures within this area when it activates, or that enter it, must make a DR 3 Blood save. On a failure, they are Immobilized (Bound) – their speed becomes 0 and they cannot be forcibly moved. They can use their Action to repeat the Blood save, ending the effect on themselves on a success. Creatures that succeed the initial save or break free still treat the area as difficult terrain.
 
 
 Glyph of Collapse
@@ -4013,7 +4013,7 @@ Cost: 3 SE
 Range (Placement): Touch (must be on a surface adjacent to or capable of holding a significant volume of liquid, or you provide the liquid via other means).
 Duration: 10 minutes, or until triggered.
 Trigger: When a creature (not designated ally) moves within 5 feet of the glyph.
-Effect: The glyph rapidly conjures or draws existing water (if available) to fill a 5-foot cube space around the triggering creature, attempting to engulf their head. The target must make a DR 3 Evasion save to avoid being caught. If they fail, they are enveloped in water and begin to suffocate (see system rules for suffocation). They must also make a DR 3 Might save at the start of each of their turns or be unable to speak or cast spells with verbal components. They can use an action to make a DR 3 fury check to break free from the localized water pressure and end the effect on themselves. The conjured water dissipates after 1 minute or if the target breaks free.
+Effect: The glyph rapidly conjures or draws existing water (if available) to fill a 5-foot cube space around the triggering creature, attempting to engulf their head. The target must make a DR 3 Evasion save to avoid being caught. If they fail, they are enveloped in water and begin to suffocate (see system rules for suffocation). They must also make a DR 3 Blood save at the start of each of their turns or be unable to speak or cast spells with verbal components. They can use an action to make a DR 3 fury check to break free from the localized water pressure and end the effect on themselves. The conjured water dissipates after 1 minute or if the target breaks free.
 Glyph of Ruin (Debilitating Ward)
 
 
@@ -4057,7 +4057,7 @@ Cost: 3 BP + 2 SE
 Range: 30 feet
 Target: One living creature with a heart.
 Frequency: Once per long rest.
-Effect: Target makes DR 3 Might save. Failure: If target has 20 HP or fewer, dies instantly. If >20 HP, suffers (Level x 2) Soul damage and is Stunned 1 round. Success: Suffers (Level) Soul damage.
+Effect: Target makes DR 3 Blood save. Failure: If target has 20 HP or fewer, dies instantly. If >20 HP, suffers (Level x 2) Soul damage and is Stunned 1 round. Success: Suffers (Level) Soul damage.
 Blood Cyclone
 
 
@@ -4067,7 +4067,7 @@ Casting Time: 1 Action
 Cost: 3 BP
 Range: Self
 Area: 20-foot radius sphere centered on you.
-Effect: You cause your own blood (or ambient spilled blood) to erupt outwards in a violent, razor-sharp vortex. All other creatures in the radius suffer 5 Physical (Slashing) damage and must make a DR 3 Might save or be pushed 10 feet (2 squares) directly away from you and knocked Prone. A successful save halves the damage and negates the push/prone. You are unharmed by your own cyclone.
+Effect: You cause your own blood (or ambient spilled blood) to erupt outwards in a violent, razor-sharp vortex. All other creatures in the radius suffer 5 Physical (Slashing) damage and must make a DR 3 Blood save or be pushed 10 feet (2 squares) directly away from you and knocked Prone. A successful save halves the damage and negates the push/prone. You are unharmed by your own cyclone.
 Curse of Ash
 
 
@@ -4078,7 +4078,7 @@ Cost: 2 BP
 Range: 30 feet
 Target: One living creature.
 Duration: 3 rounds.
-Effect: You curse the target's blood to turn sluggish and ashen. The target must succeed on a DR 3 Might save. On a failure, for the duration, the target cannot regain Hit Points by any means. Furthermore, if any effect (magical or mundane) would cause them to regain HP, they instead suffer 2 Soul damage as their vital essence rebels. They can attempt the Might save again at the end of each of their turns to end the effect.
+Effect: You curse the target's blood to turn sluggish and ashen. The target must succeed on a DR 3 Blood save. On a failure, for the duration, the target cannot regain Hit Points by any means. Furthermore, if any effect (magical or mundane) would cause them to regain HP, they instead suffer 2 Soul damage as their vital essence rebels. They can attempt the Blood save again at the end of each of their turns to end the effect.
 Crimson Surge
 
 
@@ -4088,7 +4088,7 @@ Casting Time: 1 Action
 Cost: 3 BP
 Range: Self
 Area: 15-foot cone.
-Effect: You expel a pressurized torrent of your own blood (or commandeered blood) in a cone. Creatures in the area suffer 6 Physical (Bludgeoning) damage and must succeed on a DR 3 Might save or be knocked Prone. A successful save halves the damage and negates the prone effect. You lose HP equal to half the BP cost of this spell (rounded up) when casting it, representing the significant vitae expended.
+Effect: You expel a pressurized torrent of your own blood (or commandeered blood) in a cone. Creatures in the area suffer 6 Physical (Bludgeoning) damage and must succeed on a DR 3 Blood save or be knocked Prone. A successful save halves the damage and negates the prone effect. You lose HP equal to half the BP cost of this spell (rounded up) when casting it, representing the significant vitae expended.
 Arterial Harvest
 
 
@@ -4117,7 +4117,7 @@ Type: Blood (Attack/Debuff)
 Casting Time: 1 Action
 Cost: 3 BP (and you lose 2 HP)
 Range: 30-foot cone.
-Effect: You vomit forth a torrent of caustic blood and semi-digested vitae. Creatures in the cone suffer 4 Soul damage and must make a DR 3 Might save. On a failed save, they are also Poisoned (suffer -1 die on attacks and skill checks, save ends at end of their turn) for 1 minute and are covered in gore, suffering a -2 dice penalty to Stealth checks until cleaned. On a success, they take 1 less damage. On a successful save, take -1 damage. On each additional successful save they can take -1 damage per success or not suffer other effects.
+Effect: You vomit forth a torrent of caustic blood and semi-digested vitae. Creatures in the cone suffer 4 Soul damage and must make a DR 3 Blood save. On a failed save, they are also Poisoned (suffer -1 die on attacks and skill checks, save ends at end of their turn) for 1 minute and are covered in gore, suffering a -2 dice penalty to Stealth checks until cleaned. On a success, they take 1 less damage. On a successful save, take -1 damage. On each additional successful save they can take -1 damage per success or not suffer other effects.
 
 
 Crimson Shackle
@@ -4140,7 +4140,7 @@ Casting Time: 1 Action
 Cost: 3 BP
 Range: Touch
 Target: One living creature with a skeletal structure.
-Effect: You touch the target and attempt to draw out the vital essence from their bones. The target must make a DR 3 Might save. On a failed save, they suffer 5 Soul damage and their bones become brittle for 1 minute; any bludgeoning or slashing damage they take during this time is increased by +2, and they suffer a -1 die penalty to checks resisting being knocked Prone. On a successful save, they take  On a success, they take 1 less damage. On a successful save, take -1 damage. On each additional successful save they can take -1 damage per success or not suffer other effects.
+Effect: You touch the target and attempt to draw out the vital essence from their bones. The target must make a DR 3 Blood save. On a failed save, they suffer 5 Soul damage and their bones become brittle for 1 minute; any bludgeoning or slashing damage they take during this time is increased by +2, and they suffer a -1 die penalty to checks resisting being knocked Prone. On a successful save, they take  On a success, they take 1 less damage. On a successful save, take -1 damage. On each additional successful save they can take -1 damage per success or not suffer other effects.
 .
 Bloodrite Brand
 
@@ -4282,7 +4282,7 @@ Casting Time: 1 Action
 Cost: 3 SE
 Range: Self
 Area: 20-foot line, 5 feet wide.
-Effect: You unleash a brief, tearing pulse of raw dimensional energy along a line. Creatures in the line suffer 5 Void damage (bypasses all armor/resistance, cannot be healed normally, target suffers -2 dice on next DR save) and must make a DR 3 Might save or be pushed 10 feet directly away from you along the line's path. A weak, shimmering (and unsettling) after-image of a rift hangs in the air for 1 round where the pulse travelled.  On a successful save, take -1 damage. On each additional successful save they can take -1 damage per success or not suffer other effects.
+Effect: You unleash a brief, tearing pulse of raw dimensional energy along a line. Creatures in the line suffer 5 Void damage (bypasses all armor/resistance, cannot be healed normally, target suffers -2 dice on next DR save) and must make a DR 3 Blood save or be pushed 10 feet directly away from you along the line's path. A weak, shimmering (and unsettling) after-image of a rift hangs in the air for 1 round where the pulse travelled.  On a successful save, take -1 damage. On each additional successful save they can take -1 damage per success or not suffer other effects.
 Soul Fracture
 
 
@@ -4423,7 +4423,7 @@ Cost: 4 SE
 Range (Placement): Touch
 Duration: 1 minute, or until triggered.
 Trigger: Command (as a Bonus Action by you if within 60 feet) or when a creature (not designated ally) moves within 10 feet.
-Effect: When triggered, the glyph erupts into a swirling vortex of arcane energy in a 15-foot radius sphere for 3 rounds. Creatures starting their turn in the vortex or entering it must make a DR 3 Might save. On a failure, they are pulled 10 feet towards the glyph's center and take 4 Soul damage (bypasses armor).  On a successful save, take -1 damage. On each additional successful save they can take -1 damage or not suffer other effects.
+Effect: When triggered, the glyph erupts into a swirling vortex of arcane energy in a 15-foot radius sphere for 3 rounds. Creatures starting their turn in the vortex or entering it must make a DR 3 Blood save. On a failure, they are pulled 10 feet towards the glyph's center and take 4 Soul damage (bypasses armor).  On a successful save, take -1 damage. On each additional successful save they can take -1 damage or not suffer other effects.
 
 Glyph of Unmaking
 
@@ -4553,7 +4553,7 @@ Casting Time: 1 Action
 Cost: 4 BP
 Range: 30 feet
 Target: Two living creatures you can see (one can be yourself).
-Effect: You attempt to magically swap the current state of vitality between two creatures by manipulating their blood and life force. Both targets must make a DR 3 Might save.
+Effect: You attempt to magically swap the current state of vitality between two creatures by manipulating their blood and life force. Both targets must make a DR 3 Blood save.
 If both fail (or one is willing and the other fails): Their current Hit Point totals are swapped. (E.g., if Target A has 10 HP and Target B has 50 HP, Target A now has 50 HP and Target B has 10 HP). This cannot raise a creature above its maximum HP (excess is lost).
 If one fails and the other succeeds: The one who failed takes 4 Soul damage, and the one who succeeded gains 4 Temporary HP.
 If both succeed (or one is unwilling and succeeds): The spell fails, but both targets feel a painful jolt and take 2 Soul damage. This is complex and can be unpredictable.
@@ -4630,7 +4630,7 @@ Cost: 5 BP
 Range: Target a point within 120 feet.
 Area: Creates a 30-foot radius, 60-foot high cylinder of swirling, shadowy blood-mist.
 Duration: Concentration, up to 1 minute.
-Effect: The area becomes heavily obscured by the blood-mist, even to darkvision. Living creatures (other than the caster) that start their turn in the mist or enter it feel their vitality drain, suffering 3 Soul damage and must make a DR 3 Might save or suffer one level of exhaustion (if your system uses exhaustion; otherwise, -1 die to all actions for 1 round). Any magical light source of Adept tier or lower brought into the area is extinguished. Healing magic cast within or into the area has its effectiveness halved.
+Effect: The area becomes heavily obscured by the blood-mist, even to darkvision. Living creatures (other than the caster) that start their turn in the mist or enter it feel their vitality drain, suffering 3 Soul damage and must make a DR 3 Blood save or suffer one level of exhaustion (if your system uses exhaustion; otherwise, -1 die to all actions for 1 round). Any magical light source of Adept tier or lower brought into the area is extinguished. Healing magic cast within or into the area has its effectiveness halved.
 Vital Dominion
 
 
@@ -4801,7 +4801,7 @@ Cost: 5 SE (and 2 sanity damage for Hylden Warlock)
 Range: Target a point within 60 feet.
 Area: Creates a 20-foot radius, 40-foot high swirling column of black, corrosive Hylden energy.
 Duration: Concentration, up to 1 minute.
-Effect: The Black Spiral tears at reality. Creatures starting their turn in the spiral or entering it suffer 5 Void damage (bypasses all defenses, special healing, -2 dice to next save) and must make a DR 3 Might save or be pulled 10 feet towards the center and Restrained by entangling void tendrils until the start of their next turn.
+Effect: The Black Spiral tears at reality. Creatures starting their turn in the spiral or entering it suffer 5 Void damage (bypasses all defenses, special healing, -2 dice to next save) and must make a DR 3 Blood save or be pulled 10 feet towards the center and Restrained by entangling void tendrils until the start of their next turn.
 Additionally, you can use a Bonus Action to cause one creature within the spiral to be specifically targeted by a concentrated bolt from the void, forcing a DR 4 Soul save or they take an additional 3 Void damage and are Stunned for 1 round.
 Mind Rupture
 
@@ -4859,7 +4859,7 @@ Casting Time: 1 Action
 Cost: 4 SE
 Range: 60 feet
 Target: One creature.
-Effect: You conjure a chain made of solidified void that lashes out. Make a ranged spell attack (Soul + Forbidden Knowledge). On a hit, the target suffers 5 Void damage and is wrapped by the chains. They must make a DR 4 Might save or be Restrained and pulled 15 feet towards a point you choose within the spell's range (this could be into a hazard or off a ledge). While Restrained by Void Chains, the target also cannot use any form of extra-planar travel or teleportation. They can use an Action to repeat the Might save, breaking free on a success.
+Effect: You conjure a chain made of solidified void that lashes out. Make a ranged spell attack (Soul + Forbidden Knowledge). On a hit, the target suffers 5 Void damage and is wrapped by the chains. They must make a DR 4 Blood save or be Restrained and pulled 15 feet towards a point you choose within the spell's range (this could be into a hazard or off a ledge). While Restrained by Void Chains, the target also cannot use any form of extra-planar travel or teleportation. They can use an Action to repeat the Blood save, breaking free on a success.
 Annihilation Pulse (Pure Destruction)
 
 

@@ -158,7 +158,7 @@ Terrain and environment dramatically affect encounter difficulty:
 ### Interactive Elements
 
 Add objects players can interact with:
-- **Pillars/Columns:** Can be toppled (DR 3 Might check, 4d6 damage in line)
+- **Pillars/Columns:** Can be toppled (DR 3 Blood check, 4d6 damage in line)
 - **Chandeliers:** Can be dropped on enemies (DR 2, 3d6 damage in area)
 - **Levers/Switches:** Change battlefield (open pits, seal doors)
 - **Barrels/Crates:** Can be used as cover or thrown (improvised weapon)
