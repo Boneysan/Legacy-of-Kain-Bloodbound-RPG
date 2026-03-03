@@ -255,7 +255,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 - `09_Combat` - Combat rules and procedures
 - `10_Dice-System` - Detailed dice mechanics
 - `11_Realms-Terraign-Arcane-Power` - Environmental rules
-- `12_Glossary` - Terms and definitions
+- `12_Glossary` - Terms and definitions ✓ COMPLETE (Glossary Overhaul)
 
 ### GM_Guide (Game Master Resources)
 - `00_GM-Introduction.md` - GM philosophy, themes, tone, safety tools ✓ COMPLETE
@@ -686,6 +686,32 @@ Complete rewrite of Chapter 7 based on game design analysis. All 10 recommendati
 - General tips section covering Weapon Damage Scaling, armor flat reduction, extra successes, and DV cap
 
 **Legacy class name fixes:** All instances of Vampire→Blood Knight, Sarafan Crusader→Warden of Balance, Spirit-Bound→Soul Reaver, Blood Mage→Sangromancer, Scholar→Glyph Seeker throughout chapter
+
+### Player's Handbook — Glossary Overhaul (12_Glossary.md) — March 2026
+Complete rewrite of Chapter 12 from 4 entries (all with errors) to 53+ terms across 12 sections.
+
+**Fixes to existing entries:**
+- Removed non-existent "Stress" mechanic from Short Rest and Long Rest (D&D holdover)
+- Removed non-existent "Hit Dice" from Short Rest (D&D 5e holdover)
+- Removed unsubstantiated HP recovery formula "1d6 + Focus" — replaced with canonical Ch. 0 language
+- Fixed 12.3 heading mismatch (TOC said "Sanity", heading said "Corruption and Mental Resilience") — now "Corruption"
+- Removed orphaned "Requires one Tier 2 perk" from Scene definition
+- Fixed Corruption entry: added Push mechanic as primary source, full threshold table, Corrupted Perk tiers, all Corruption sources; removed incorrect "Will or Soul saving throws" as generic resistance
+- Replaced per-scene ability restoration on Short Rest (incorrect) with canonical rest benefits
+
+**New sections added (12.1–12.12):**
+- 12.1 Core Resolution: Dice Pool, DR (with scale table), DV (with cap), Degrees of Success, Extra Successes, Advantage/Disadvantage, Critical Success vs Critical Hit, Critical Failure, Opposed Rolls, Push/Corruption Dice
+- 12.2 Attributes and Resources: Core Attributes table (all 6), HP, SE (with formula), BP (with formula), Temporary HP
+- 12.3 Combat: Initiative, Combat Bonus, Weapon Damage Scaling, Actions in Combat table, Reactions table, Death Saves table, Vampiric Frenzy, Permanent Death
+- 12.4 Damage and Status Effects: 6 Damage Categories table (with armor interactions), 13 Status Effects table (with durations), Armor definition
+- 12.5 Equipment: Weapon Tiers table, Range Categories table, Rare/Relic descriptions
+- 12.6 Corruption: Corruption Level, Thresholds table, Sources list, Purification Methods
+- 12.7 Spellcasting: Spell Tiers table, Spell Categories, Concentration, Save Types table
+- 12.8 Classes and Lineages: 8 Classes table (role + key attributes), 6 Lineages table (subtypes + descriptions)
+- 12.9 Perks: Perk Types table (Class/Universal/Corrupted), Human Racial Bonus, Multiclassing
+- 12.10 Realms and Environment: Material Realm, Spectral Realm, Realm Affinity, Energy Foci, Threat Value (TV)
+- 12.11 Rest and Recovery: Short Rest and Long Rest (with lineage flavor, corrected benefits)
+- 12.12 Scenes and Time: Scene definition, Round definition
 
 ### Recent Changes (March 2026 Session — Systemic Overhaul)
 - **Critical Threshold Fixed**: Changed crit trigger from "3+ successes OR exceed by 2+" to "exceed DR/DV by 2+" only — eliminates auto-crit problem vs DV ≥ 3
