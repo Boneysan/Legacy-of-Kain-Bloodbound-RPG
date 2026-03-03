@@ -1,6 +1,6 @@
 # Legacy of Kain: Bloodbound RPG - Context Document
 
-**Last Updated:** March 3, 2026 (Systemic Overhaul + Equipment Overhaul)  
+**Last Updated:** March 3, 2026 (Systemic Overhaul + Equipment Overhaul + Character Sheet Overhaul)  
 **System Version:** 1.0 (In Development)  
 **Game Type:** Dark Gothic Fantasy Tabletop RPG  
 **Setting:** Nosgoth
@@ -712,6 +712,50 @@ Complete rewrite of Chapter 12 from 4 entries (all with errors) to 53+ terms acr
 - 12.10 Realms and Environment: Material Realm, Spectral Realm, Realm Affinity, Energy Foci, Threat Value (TV)
 - 12.11 Rest and Recovery: Short Rest and Long Rest (with lineage flavor, corrected benefits)
 - 12.12 Scenes and Time: Scene definition, Round definition
+
+### Assets — Character Sheet Overhaul (Character Sheet.md) — March 2026
+Complete rewrite of the player-facing character sheet. Old file `Chatacter Sheet` (typo) deleted and replaced with `Character Sheet.md`.
+
+**Errors fixed (16):**
+- Removed fabricated "Presence" skill (does not exist) — replaced with canonical Intimidation (Fury/Will)
+- Removed fabricated "Sanity Points" mechanic — replaced with Corruption Level 0–15 tracker
+- Removed "Presence" from attribute headers (not an attribute)
+- Renamed "Blood Energy Pool" → Blood Points (BP) with canonical formula
+- Fixed DV formula: now "1 + (higher of Shadow or Will)" with DV Cap: 6 noted
+- Separated Armor from DV — Armor is flat damage reduction, does NOT modify DV
+- Fixed Unarmed Combat attribute pairing from Fury/Shadow → Blood or Fury
+- Fixed Combat skill header to include all associated attributes (Fury/Shadow/Blood/Will/Focus)
+- Fixed Social & Mental header from "Presence/Will/Focus" → "Fury/Will/Soul/Focus"
+- Renamed "Stealth & Deception" → "Stealth & Subterfuge"
+- Added all 4 missing skills: Athletics, Spectral Navigation, Blood Sense, Intimidation (total: 23 canonical skills)
+- Fixed Corruption thresholds: all 5 named (Uncorrupted/Touched/Marked/Deeply Corrupted/Abyss-Bound/Lost)
+- Restructured Perks from Tier 1-4 + Faction/Lineage → Class Perks / Universal Perks / Corrupted Perks
+
+**Missing fields added (21+):**
+- Character Level field
+- Combat Bonus tracker (+1 at levels 5/10/15/20)
+- Weapon Damage Scaling tracker
+- Per-weapon stat blocks (3 slots with name/damage/type/hands/range/tier/special/scaling/total)
+- Structured armor entry (name, flat DR value, traits)
+- Death Save tracker (3 success / 3 failure boxes) with Vampiric Frenzy note
+- Initiative dice pool field (Shadow + Tactics or Concentration)
+- Lineage Subtype field
+- SE/BP formulas pre-printed
+- HP formula reference table (all 8 classes)
+- Attribute growth tracker (levels 4/8/12/16/20)
+- Corruption 0–15 visual checkbox tracker with labeled thresholds and social penalties
+- Structured spell tracking table (Name/Tier/Cost/Type/Concentration)
+- Concentration tracking field
+- Temporary HP field
+- Movement Speed in feet and tiles
+- Progression tracker (Combat Bonus + Weapon Damage at 5/10/15/20, Attribute +1 at 4/8/12/16/20)
+- Equipment section with currency field
+- Character creation checklist
+
+**Layout improvements:**
+- Reordered sections by play frequency: Combat & Vitals first, then Attributes, Resources, Skills, Lineage, Weapons, Armor, Spells, Corruption, Perks, Equipment, Progression, Quick Reference, Notes
+- Per-skill attribute pairings shown inline in skill tables
+- Pre-printed quick-reference tables: Reactions (5 types), Save Types (5), Damage Types vs Armor (6 categories), DR Scale
 
 ### Recent Changes (March 2026 Session — Systemic Overhaul)
 - **Critical Threshold Fixed**: Changed crit trigger from "3+ successes OR exceed by 2+" to "exceed DR/DV by 2+" only — eliminates auto-crit problem vs DV ≥ 3
