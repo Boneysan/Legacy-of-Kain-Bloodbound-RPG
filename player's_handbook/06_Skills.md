@@ -28,26 +28,30 @@ Every task is assigned a Difficulty Rating, reflecting the number of successes n
 ## 6.3 Pushing a Roll
 If a skill check fails, a player may choose to push the roll for another chance at success, at great risk:
 
-Reroll Non-Successes: Reroll all dice that did not result in a 5 or 6.
-Add Corruption Die (CD): Include one additional D6, called a Corruption Die, in the reroll.
-Corruption Risk: For each 1 rolled on a Corruption Die, the character’s Corruption score increases by 1. If the Corruption score was 3 or higher before the roll, and a 1 is rolled on the CD, the character must immediately roll 2d6 on the Corruption Dice Failure Table (see Chapter 5: Corruption and Consequences).
-Narrative Impact: Pushing reflects desperation or tapping into forbidden power, adding tension and risk to the story.
+**Add Corruption Dice:** After seeing the result of a failed roll, the player chooses to add **1, 2, or 3 Corruption Dice (d6)** to their existing result.
+**Resolve Corruption Dice:** Each Corruption Die is rolled independently:
+- **5 or 6:** Adds 1 Success to the total.
+- **1:** Increases the character's Corruption Level by 1.
+- **2–4:** No effect.
+**Corruption Limit:** If a character's Corruption Level reaches 15, they are lost (see Chapter 8: Corruption).
+**Critical Failure on Push:** If a pushed roll still results in **0 total successes** and at least one Corruption Die shows a **1**, a Critical Failure occurs — the GM introduces a dire consequence (weapon breaks, spell backfires, immediate threat appears).
+**Narrative Impact:** Pushing reflects desperation or tapping into forbidden power, adding tension and risk to the story.
 
 ## 6.4 Opposed Rolls
 When two characters directly compete (e.g., a vampire sneaking past a guard’s watchful eyes), use an opposed roll:
 
 Both characters roll their relevant dice pools (Attribute + Skill).
-The character with the most 6s wins.
-If tied, the GM determines the outcome, which may result in a standoff, stalemate, or unexpected consequence.
+The character with the most successes wins.
+If tied on successes, compare the number of 6s rolled as a tiebreaker. If still tied, the GM determines the outcome, which may result in a standoff, stalemate, or unexpected consequence.
 
 ## 6.5 Degrees of Success
 The number of successes rolled determines not only whether you succeed but how impressively you do so:
 | Successes | Outcome                                                                                         |
 |-----------|-------------------------------------------------------------------------------------------------|
 | 0         | Failure: The task fails, potentially with consequences. The GM may allow a retry.               |
-| 1         | Standard Success: You accomplish the task as intended.                                          |
-| 2         | Strong Success: Gain a bonus, such as extra information or faster completion.                   |
-| 3+        | Critical Success: Choose a bonus effect or narrate a dramatic outcome, subject to GM approval.  |
+| 1         | Marginal Success: You accomplish the task, but with a cost, caveat, or complication.            |
+| 2         | Standard Success: You accomplish the task cleanly as intended.                                  |
+| 3+        | Exceptional Success: Gain a bonus effect or narrate a dramatic outcome. If this exceeds the DR by 2+, it is a Critical Success. |
 
 
 ## 6.6 Bonus Effects for Extra Successes
@@ -112,25 +116,28 @@ Weapon Mastery (Fury or Shadow): Expertise with weapons, from forged steel to su
 Evasion (Shadow or Will): The ability to dodge, roll, or sidestep attacks and hazards. Essential for avoiding lethal blows, traps, or glyph-triggered blasts. High ranks grant supernatural reflexes, negating even magical threats.
 Unarmed Combat (Blood or Fury): Fighting without weapons, using fists, claws, grapples, or fangs. Governs grapples, throws, disarms, and limb breaks. Vital for feral vampires or Wraiths, allowing them to challenge armed foes.
 Tactics (Will or Focus): Battlefield awareness and strategic planning. Predict enemy movements, call out flanks, or direct allies. Grants bonuses to allies, reveals vulnerabilities, or allows repositioning without attacks of opportunity. Ideal for leaders like Blood Knights or Sarafan.
+Athletics (Fury or Blood): Raw physical feats—climbing ruined spires, leaping across chasms, swimming through subterranean channels, or sprinting across open ground. Represents body-as-weapon endurance and explosive burst movement. Vampires may use Athletics to enhance pounces and chase-downs; Wraiths in corporeal form rely on it for sustained physical exertion. High ranks allow scaling sheer walls without tools or crossing ground too rough for normal movement.
 
 ### 6.8.2 Arcane & Forbidden
 
 Glyphcasting (Soul or Will): Inscribing, activating, or countering glyphs tied to Nosgoth’s ley-lines. Used for magical traps, sigil-based attacks, and ward defenses. Skilled Glyphcasters can create timed or proximity-triggered effects or disable enemy glyphs. Essential for Glyph Seekers or Hylden Warlocks.
-Rituals (Soul or Religion): Performing complex arcane or divine rites, requiring time and components. Used to summon spirits, consecrate land, seal portals, or alter fate. High ranks enable long-term enchantments or divine boons. Common among Sangromancers and Wardens.
+Rituals (Soul or Will): Performing complex arcane or divine rites, requiring time and components. Used to summon spirits, consecrate land, seal portals, or alter fate. High ranks enable long-term enchantments or divine boons. Common among Sangromancers and Wardens.
 Possession (Soul or Will): Controlling other beings, objects, or spectral anchors. Used by Wraiths or Razielim to enter host bodies, manipulate spirits, or transfer consciousness. High-risk, high-reward skill for escaping death or bypassing barriers.
+Spectral Navigation (Soul or Shadow): Reading, traversing, and surviving the Spectral Realm's shifting geography. Used to find soul anchors, navigate time-warped corridors, locate soul wells, or resist the Realm's erosive pull on material beings. Wraiths suffer no penalties to checks within the Spectral Realm; other lineages depend heavily on this skill when crossing planes. Essential for Soul Reavers, Wraiths, and any character who regularly shifts between the Material and Spectral.
 Forbidden Knowledge (Will, Soul, or Focus): Insight into Hylden technology, fate codes, glyph decay, or time-stream fractures. Recognize cursed relics, navigate impossible timelines, or interpret prophecies. Risks Corruption gain or mental trauma on failure.
 
 ### 6.8.3 Stealth & Subterfuge
 
 Stealth (Shadow or Will): Moving silently and unseen past living or spectral sentries. Used for infiltration, ambushes, or escaping detection. High ranks allow vanishing in plain sight or traversing dangerous terrain unnoticed.
-Deception (Presence or Will): Lying, bluffing, impersonation, or creating false narratives. Useful for espionage or social intrigue. Skilled deceivers can forge documents, mimic voices, or sow doubt. Contested by Insight.
+Deception (Shadow or Will): Lying, bluffing, impersonation, or creating false narratives. Useful for espionage or social intrigue. Skilled deceivers can forge documents, mimic voices, or sow doubt. Contested by Insight.
 Thievery (Shadow or Focus): Lockpicking, pickpocketing, disarming traps, and sleight-of-hand. Detect mechanical traps, crack enchanted locks, or create makeshift tools. Vital for dungeon crawling or urban survival.
 Observation (Focus or Soul): Noticing hidden details, spotting enemies, or reading clues. Counters Stealth and Deception. High ranks predict ambushes, track by sight, or detect magical anomalies.
+Blood Sense (Blood or Soul): Vampiric awareness of living creatures through their blood and life force. Track prey by scent, detect the living through walls, or sense the health and emotional state of nearby beings. High ranks extend range and can pierce magical concealment. Practically useless for non-vampiric characters without a racial trait granting it; utterly peerless for hunting in total darkness or through spectral interference.
 
 ### 6.8.4 Social & Mental
 
-Persuasion (Presence or Will): Influencing, bargaining, or inspiring others through charisma or reason. Convince NPCs, negotiate terms, or dissuade conflict. High ranks can sway crowds or halt attacks.
-Presence (Fury or Will): Force of personality to intimidate, command, or awe. Suppress rebellion, rally allies, or terrify enemies. Used in battle or to demand attention.
+Persuasion (Fury or Will): Influencing, bargaining, or inspiring others through charisma or force of character. Convince NPCs, negotiate terms, or dissuade conflict. High ranks can sway crowds, halt attacks mid-combat, or secure binding oaths.
+Intimidation (Fury or Will): Force of personality to threaten, command, or awe into submission. Suppress rebellion, break enemy morale, rally allies under fire, or terrify enemies into surrendering. Used in battle cries, interrogations, or confrontations where raw power of will matters more than words.
 Insight (Will or Focus): Reading emotions, detecting lies, or sensing intentions. Provides strategic social awareness, exposing manipulation or evaluating threats.
 Concentration (Soul or Will): Mental endurance and resistance to distraction or corruption. Vital for casting under duress, resisting possession, or enduring supernatural stress.
 
@@ -144,28 +151,31 @@ Craft (Focus or Soul): Building, repairing, or modifying weapons, armor, or glyp
 ## 6.9 Skill-to-Attribute Summary
 The following table summarizes the primary attributes for each skill, offering flexibility based on narrative context:
 
-| Skill              | Primary Attribute(s) |
-|--------------------|----------------------|
-| Weapon Mastery     | Fury or Shadow       |
-| Evasion            | Shadow or Will       |
-| Unarmed Combat     | Blood or Fury        |
-| Tactics            | Will or Focus        |
-| Glyphcasting       | Soul or Will         |
-| Rituals            | Soul or Religion     |
-| Possession         | Soul or Will         |
-| Forbidden Knowledge| Will, Soul, or Focus |
-| Stealth            | Shadow or Will       |
-| Deception          | Presence or Will     |
-| Thievery           | Shadow or Focus      |
-| Observation        | Focus or Soul        |
-| Persuasion         | Presence or Will     |
-| Presence           | Fury or Will         |
-| Insight            | Will or Focus        |
-| Concentration      | Soul or Will         |
-| History            | Focus or Will        |
-| Religion           | Soul or Will         |
-| Nature             | Will or Focus        |
-| Craft              | Focus or Soul        |
+| Skill               | Primary Attribute(s)  | Category               |
+|---------------------|-----------------------|------------------------|
+| Weapon Mastery      | Fury or Shadow        | Combat                 |
+| Evasion             | Shadow or Will        | Combat                 |
+| Unarmed Combat      | Blood or Fury         | Combat                 |
+| Athletics           | Fury or Blood         | Combat                 |
+| Tactics             | Will or Focus         | Combat                 |
+| Glyphcasting        | Soul or Will          | Arcane & Forbidden     |
+| Rituals             | Soul or Will          | Arcane & Forbidden     |
+| Possession          | Soul or Will          | Arcane & Forbidden     |
+| Spectral Navigation | Soul or Shadow        | Arcane & Forbidden     |
+| Forbidden Knowledge | Will, Soul, or Focus  | Arcane & Forbidden     |
+| Stealth             | Shadow or Will        | Stealth & Subterfuge   |
+| Deception           | Shadow or Will        | Stealth & Subterfuge   |
+| Thievery            | Shadow or Focus       | Stealth & Subterfuge   |
+| Observation         | Focus or Soul         | Stealth & Subterfuge   |
+| Blood Sense         | Blood or Soul         | Stealth & Subterfuge   |
+| Persuasion          | Fury or Will          | Social & Mental        |
+| Intimidation        | Fury or Will          | Social & Mental        |
+| Insight             | Will or Focus         | Social & Mental        |
+| Concentration       | Soul or Will          | Social & Mental        |
+| History             | Focus or Will         | Lore & Practical       |
+| Religion            | Soul or Will          | Lore & Practical       |
+| Nature              | Will or Focus         | Lore & Practical       |
+| Craft               | Focus or Soul         | Lore & Practical       |
 
 ## 6.10 Playing the Skill System
 The skill system drives both tactical combat and narrative exploration in Nosgoth. Invested skills and attributes make characters more reliable and cinematic, allowing players to shape the story through daring stunts, cunning deceptions, or forbidden knowledge. GMs should encourage creative use of skills, rewarding clever applications with narrative advantages or bonus effects.

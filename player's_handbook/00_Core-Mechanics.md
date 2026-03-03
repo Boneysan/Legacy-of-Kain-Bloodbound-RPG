@@ -15,7 +15,7 @@ Every character has six core attributes that define their capabilities:
 - Governs raw power, rage, and aggressive combat prowess
 - Used for intimidation and overwhelming force
 - Key for: Blood Knight, Soul Reaver, Dreadblade
-- Associated Skills: Weapon Mastery, Unarmed Combat, Presence
+- Associated Skills: Weapon Mastery, Unarmed Combat, Intimidation
 
 ### Soul
 **Spiritual power and connection to the Spectral Realm**
@@ -60,14 +60,18 @@ Every character has six core attributes that define their capabilities:
 
 ### Basic Resolution
 1. **Determine Your Dice Pool:** Attribute + Skill (e.g., Fury 3 + Weapon Mastery 2 = 5 dice)
-2. **Roll All Dice:** Each die showing 5 or 6 = 1 success
-3. **Compare to Target:** Number of successes determines outcome
+2. **Add Combat Bonus (attacks only):** At levels 5, 10, 15, and 20, characters gain a cumulative +1 die to attack rolls (max +4 at level 20). This does not apply to skill checks.
+3. **Roll All Dice:** Each die showing 5 or 6 = 1 success
+4. **Compare to Target:** Number of successes determines outcome
+5. **Apply Damage Scaling (if applicable):** All weapons and damaging abilities gain +1 base damage at levels 5, 10, 15, and 20 (cumulative, max +4).
 
 ### Success Thresholds
-- **0 Successes:** Complete failure
-- **1 Success:** Minimal success, barely adequate
-- **2+ Successes:** Clear success with increasing quality
-- **3+ Successes:** Exceptional success (Critical Success for skill checks, Critical Hit for combat)
+- **0 Successes:** Failure — the action fails, potentially with consequences
+- **1 Success:** Marginal success — accomplished with a cost, caveat, or complication
+- **2 Successes:** Standard success — accomplished cleanly as intended
+- **3+ Successes:** Exceptional success with increasing quality
+
+*Note: Critical Success (skill checks) and Critical Hit (combat) are triggered by exceeding the target number by 2+, not by an absolute success count. See the Critical Success and Critical Hit sections below.*
 
 ---
 
@@ -77,16 +81,20 @@ Every character has six core attributes that define their capabilities:
 **Used for: Skill checks, environmental challenges, saving throws**
 
 DR represents the number of successes needed to accomplish a task:
+- **DR 0 (Trivial):** Automatic success — no roll needed
 - **DR 1 (Simple):** Basic tasks, favorable conditions
 - **DR 2 (Standard):** Average challenges, typical obstacles
 - **DR 3 (Challenging):** Difficult tasks requiring expertise
-- **DR 4+ (Severe):** Nearly impossible feats, extreme challenges
+- **DR 4 (Difficult):** Nearly impossible feats, extreme challenges
+- **DR 5+ (Extreme/Legendary):** Feats of mythic proportions
 
 **Examples:**
+- Opening an unlocked door: DR 0
 - Climbing a wall with handholds: DR 1
 - Picking a standard lock: DR 2
 - Deciphering ancient runes: DR 3
 - Disarming a master-crafted trap: DR 4
+- Breaking the chains of prophecy: DR 5+
 
 ### Defense Value (DV)
 **Used for: Combat attacks only**
@@ -118,9 +126,11 @@ DV represents how hard a creature is to hit in combat:
 ### Disadvantage
 **When you're hindered on a roll:**
 - Roll your normal dice pool
-- **Re-roll all dice that showed 5-6 (successes)**
-- Keep only the results of the re-rolled dice
-- Your original successes are replaced
+- **Re-roll half of your successes (round up)**
+- Only the re-rolled dice that still show 5-6 count; the rest of those dice become failures
+- Your un-rerolled successes are kept
+
+> *Design Note: This makes Disadvantage punishing (roughly halving your success rate on affected dice) without making success nearly impossible, keeping combat tense but fair.*
 
 **Common Sources:**
 - Poor positioning
@@ -135,7 +145,7 @@ DV represents how hard a creature is to hit in combat:
 ### Critical Success
 **Applies to: Skill checks (non-combat)**
 
-Achieved when you roll 3+ successes on a skill check OR exceed the DR by 2+
+Achieved when you **exceed the DR by 2 or more successes** (e.g., rolling 4 successes against DR 2).
 
 **Benefits (choose one):**
 - Gain additional narrative advantage or information
@@ -144,14 +154,14 @@ Achieved when you roll 3+ successes on a skill check OR exceed the DR by 2+
 - GM may offer unique options based on context
 
 **Examples:**
-- Critical lockpicking: Also learn about the lock's creator
-- Critical investigation: Discover hidden clues others missed
-- Critical persuasion: Turn enemy into temporary ally
+- Critical lockpicking (DR 2, rolled 4+): Also learn about the lock's creator
+- Critical investigation (DR 2, rolled 4+): Discover hidden clues others missed
+- Critical persuasion (DR 2, rolled 4+): Turn enemy into temporary ally
 
 ### Critical Hit
 **Applies to: Combat attacks only**
 
-Achieved when you roll 3+ successes on an attack roll OR exceed target's DV by 2+
+Achieved when you **exceed the target's DV by 2 or more successes** (e.g., rolling 5 successes against DV 3).
 
 **Benefits (choose one):**
 - **Bonus Damage:** Deal +2 or +3 additional damage
@@ -159,7 +169,7 @@ Achieved when you roll 3+ successes on an attack roll OR exceed target's DV by 2
 - **Bypass Armor:** Ignore 1 or 2 points of target's Armor
 - **Tactical Advantage:** Create opening for allies
 
-**Example:** Attacking enemy with DV 3. You roll 5 successes → Critical Hit! You deal extra damage and knock them prone.
+**Example:** Attacking enemy with DV 3. You roll 5 successes (exceeds DV by 2) → Critical Hit! You deal extra damage and knock them prone.
 
 ---
 
@@ -184,37 +194,79 @@ Lyssa fails a critical attack roll with 2 successes against DV 3. She chooses to
 
 ---
 
+## Initiative
+
+At the start of combat, all combatants determine acting order:
+
+1. **Roll Initiative:** Each combatant rolls **Shadow + Tactics** (or Shadow + Concentration, player's choice). Each 5 or 6 = 1 success.
+2. **Order:** Highest successes acts first. Ties broken by highest Shadow, then GM discretion.
+3. **Held Turns:** A character may choose to delay their turn to act later in the round; once used, their new position persists until they choose to change it again.
+
+> See Chapter 9: Combat for full initiative rules and examples.
+
+---
+
+## Opposed Rolls
+
+When two characters directly compete (e.g., sneaking past a guard, grappling, resisting a spell), both roll:
+
+1. Each character rolls their relevant **Attribute + Skill** pool.
+2. The character with the **most successes wins**.
+3. **Tie on successes:** Compare the number of 6s rolled as tiebreaker.
+4. **Still tied:** GM determines the outcome — typically a standoff, stalemate, or unexpected consequence.
+
+**Example:** A vampire (Shadow 4 + Stealth 3) tries to sneak past a guard (Will 3 + Investigation 2). The vampire rolls 7 dice and gets 3 successes; the guard rolls 5 dice and gets 2. The vampire slips by unnoticed.
+
+---
+
+## Death and Dying
+
+When a character drops to **0 HP**, they fall **Unconscious** and begin making **Death Saves** at the start of each of their turns:
+
+1. **Death Save:** Roll **1d6**.
+   - **5-6 (Success):** You cling to life. Accumulate **3 successes** to stabilize (unconscious but no longer dying).
+   - **1 (Critical Failure):** Count as **2 failures**.
+   - **2-4 (Failure):** Accumulate **3 failures** and your character **dies**.
+2. **Taking Damage at 0 HP:** Each hit while unconscious counts as 1 automatic death save failure. A critical hit counts as 2 failures.
+3. **Healing at 0 HP:** Any healing resets death save progress and restores the character to consciousness with the healed amount of HP.
+4. **Vampiric Last Stand (Vampires only):** Instead of making death saves, a vampire at 0 HP may enter a **Frenzy** — acting for 1d3 rounds with Advantage on all attacks but unable to distinguish friend from foe. At the end of the frenzy, the vampire falls unconscious and must be fed blood or they die.
+
+> **Permanent Death:** At the GM's discretion, certain attacks (e.g., Soul Reaver consumption, immolation by Spectral Fire) may cause instant permanent death, bypassing death saves entirely.
+
+---
+
 ## Status Effects by Damage Type
 
-Legacy of Kain: Bloodbound streamlines damage into six categories, each with distinct status effects on a successful Critical Hit or Extra Success.
+Legacy of Kain: Bloodbound streamlines damage into six categories, each with distinct armor interactions and status effects on a Critical Hit or Extra Success.
 
-### Physical (Bludgeoning, Piercing, Slashing)
-- **Staggered**: Target cannot take Reactions until their next turn.
-- **Bleeding**: Target takes 1 damage at the start of their turn (stacks duration).
-- **Prone**: Target is knocked down.
+### Damage Type vs. Armor Interaction Table
 
-### Elemental (Fire, Cold, Lightning)
-- **Burning**: Continued fire damage each round.
-- **Slowed**: Movement speed halved.
-- **Shocked**: Disadvantage on next action.
+| Damage Type | Armor Interaction | Available Status Effects |
+| :--- | :--- | :--- |
+| **Physical** (Bludgeon/Pierce/Slash) | Reduced by Armor normally | Staggered, Bleeding, Prone |
+| **Elemental** (Fire/Cold/Lightning) | Armor value **halved** (round down) | Burning, Slowed, Shocked |
+| **Force** (Telekinetic/Explosive) | **Bypasses** Armor entirely | Pushed (5-10 ft), Prone |
+| **Spectral** (Soul/Spiritual) | **Ignores** Armor; affects spirits | Soul Drain, Bypasses Armor |
+| **Radiant** (Holy/Spectral Fire) | Normal; **×2 damage** vs. Undead/Spectral | Blinded, Purged |
+| **Entropic** (Necrotic/Void/Corruption) | Normal; damage **cannot be healed** without magic | Decay, Corrupted, Weakened |
 
-### Force
-- **Pushed**: Target is moved 5-10 feet away.
-- **Prone**: Target is knocked down by the impact.
+### Status Effect Definitions and Durations
 
-### Spectral (Soul, Spiritual)
-- **Soul Drain**: Target loses 1 Soul Energy; attacker may gain 1.
-- **Bypasses Armor**: Spectral attacks ignore Physical Armor.
-
-### Radiant (Holy, Spectral Fire)
-- **Blinded**: Disadvantage on attack rolls and perception.
-- **Purged**: Removes one darkness/shadow effect.
-- **Anathema**: Deals double damage to Undead.
-
-### Entropic (Necrotic, Corruption, Void)
-- **Decay**: Target cannot heal HP this round.
-- **Corrupted**: Target gains 1 Corruption Point.
-- **Unhealable**: Damage lingers requires magic to heal.
+| Status Effect | Duration | Description |
+| :--- | :--- | :--- |
+| **Staggered** | Until end of target's next turn | Cannot take Reactions. |
+| **Bleeding** | 1d3 rounds (stacks duration) | Takes 1 damage at the start of each turn. |
+| **Prone** | Until target uses half movement to stand | Melee attacks against have Advantage; ranged attacks have Disadvantage. |
+| **Burning** | 1d3 rounds or until extinguished | Takes 1 fire damage at the start of each turn. |
+| **Slowed** | 1d3 rounds | Movement speed halved; cannot Dash. |
+| **Shocked** | 1 round | Disadvantage on next action. |
+| **Pushed** | Instant | Moved 5-10 feet in a direction chosen by the attacker. |
+| **Soul Drain** | Instant | Target loses 1 Soul Energy; attacker may gain 1. |
+| **Blinded** | 1d3 rounds | Disadvantage on attacks and Perception-based checks. |
+| **Purged** | Instant | Removes one darkness, shadow, or corruption effect. |
+| **Decay** | Until next rest | Cannot regain HP through non-magical means. |
+| **Corrupted** | Permanent | Target gains +1 Corruption Level. |
+| **Weakened** | 1d3 rounds | −1 die on all saves and resistance checks. |
 
 ---
 
@@ -245,7 +297,8 @@ Legacy of Kain: Bloodbound streamlines damage into six categories, each with dis
 ### Defense Value (DV)
 **How hard you are to hit:**
 - Base DV = 1 + (higher of Shadow or Will)
-- Modified by armor, cover, tactical position
+- Modified by armor, perks, and tactical position
+- **DV Cap:** A character's DV from attributes, armor, and perks cannot exceed **6**. Temporary cover and active defense reactions can push effective DV higher, but the base cap ensures combat remains viable at all levels.
 - Attackers must meet or exceed your DV to hit
 
 ### Armor
@@ -317,7 +370,7 @@ Legacy of Kain: Bloodbound streamlines damage into six categories, each with dis
 
 | **Roll Type** | **Target** | **Used For** |
 |---------------|-----------|-------------|
-| Skill Check | DR (1-4+) | Environmental challenges, saves, non-combat |
+| Skill Check | DR (0-5+) | Environmental challenges, saves, non-combat |
 | Attack Roll | DV (varies) | Combat attacks only |
 
 | **Dice Result** | **Effect** |
@@ -327,8 +380,8 @@ Legacy of Kain: Bloodbound streamlines damage into six categories, each with dis
 
 | **Critical Type** | **Trigger** | **Applies To** |
 |------------------|------------|---------------|
-| Critical Success | 3+ successes or exceed DR by 2+ | Skill checks |
-| Critical Hit | 3+ successes or exceed DV by 2+ | Combat attacks |
+| Critical Success | Exceed DR by 2+ successes | Skill checks |
+| Critical Hit | Exceed DV by 2+ successes | Combat attacks |
 
 ---
 

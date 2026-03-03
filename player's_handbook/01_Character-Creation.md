@@ -89,8 +89,8 @@ Blood: Physical vitality and life essence. Core for Blood Knight or Sangromancer
 
 ### 1.5.1 Calculating Starting Resource Pools
 
-Soul Energy (SE): For classes using Soul Energy, maximum SE = 3 + Will attribute + 1 (Character Level / 2, rounded up). See the Spellcasting in Nosgoth section for details.
-Blood Points (BP): For classes or lineages using Blood Points, maximum BP = 4 + Shadow attribute + 1. See the Spellcasting in Nosgoth section for details.
+Soul Energy (SE): For classes using Soul Energy, maximum SE = 3 + Will attribute + (Character Level ÷ 2, rounded up). See the Spellcasting in Nosgoth section for details.
+Blood Points (BP): For classes or lineages using Blood Points, maximum BP = 4 + Shadow attribute + (Character Level ÷ 2, rounded up). See the Spellcasting in Nosgoth section for details.
 
 ## 1.6 Step 5: Assign Skills
 Assign skill points (typically 6–10, based on class and race) to skills like Glyphcasting, Weapon Mastery, Stealth, or Forbidden Knowledge. Each skill is tied to an attribute and contributes to dice pools.

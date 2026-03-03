@@ -24,20 +24,27 @@ The Legacy of Kain: Bloodbound RPG uses a **D6-based success system**. This mech
 ### 10.1.1 Rolling Dice
 
 * Players roll a **pool of D6s** equal to **Attribute + Skill**.
+* **Attack rolls** also add a **Combat Bonus**: +1 die at levels 5, 10, 15, and 20 (cumulative, max +4). This does not apply to skill checks.
 * **5 or 6 = 1 Success.**
 * The number of successes required for any **non-combat task** is determined by its **Difficulty Rating (DR)**. This is a number set by the Game Master, typically from 1 to 4, based on the challenge's complexity.
 
 | DR | Challenge Level | Required Successes |
 | -- | --------------- | ------------------ |
-| 1  | Trivial         | 1 success          |
-| 2  | Challenging     | 2 successes        |
-| 3  | Dangerous       | 3 successes        |
-| 4+ | Severe          | 4+ successes       |
+| 0  | Trivial         | 0 (auto-success)   |
+| 1  | Simple          | 1 success          |
+| 2  | Standard        | 2 successes        |
+| 3  | Challenging     | 3 successes        |
+| 4  | Difficult       | 4 successes        |
+| 5+ | Extreme/Legendary | 5+ successes     |
 
 **Resolution:**
 
-* **1 success = success** (action completes as intended).
-* **0 successes = failure** (action fails, complications may arise).
+| Successes | Outcome | Result |
+| --- | --- | --- |
+| 0 | **Failure** | The action fails; the GM may introduce a complication or consequence. |
+| 1 | **Marginal** | The action barely succeeds, often with a cost, caveat, or unforeseen complication. |
+| 2 | **Standard** | The action succeeds cleanly as intended. |
+| 3+ | **Exceptional** | An outstanding result. If this exceeds the DR/DV by 2+, it is a Critical Success or Critical Hit — see section 10.4.6. |
 
 ---
 
@@ -47,21 +54,23 @@ If a player rolls more successes than required, they may choose to **enhance the
 
 **In Combat:**
 
-* +1 damage per extra success (up to weapon or GM limit).
+* +1 damage per extra success (maximum +3, or up to the weapon's listed cap; whichever is lower).
 * Inflict a status effect based on the attack's damage type (see below).
 * Strike multiple targets (GM discretion).
-* Ignore 1 point of armor per extra success.
+* Ignore 1 point of armor per extra success (maximum equal to the weapon's base damage).
 
 **Status Effects by Damage Type:**
 
-Spending extra successes allows you to apply a status effect, but the available effects are determined by the damage type of your attack.
+Spending extra successes allows you to apply a status effect. Available effects depend on damage type. Armor interactions are noted below — these apply to all attacks of that type, not only when spending extra successes.
 
-*   **Physical**: *Staggered* (cannot take Reactions), *Bleeding* (damage over time), or *Prone* (knocked down).
-*   **Elemental**: *Burning* (fire damage), *Slowed* (half speed), or *Shocked* (disadvantage).
-*   **Force**: *Pushed* (moved 5-10 ft) or *Prone*.
-*   **Spectral**: *Soul Drain* (transfer Soul Energy from target to attacker) or *Bypasses Armor*.
-*   **Radiant**: *Blinded* (disadvantage) or *Purged* (removes shadow effects).
-*   **Entropic**: *Decay* (prevents healing), *Corrupted* (adds Corruption), or *Weakened* (penalty on saves).
+| Damage Type | Armor Interaction | Available Status Effects |
+| :--- | :--- | :--- |
+| **Physical** (Bludgeon/Pierce/Slash) | Reduced by Armor normally | *Staggered* (no Reactions), *Bleeding* (damage over time), *Prone* |
+| **Elemental** (Fire/Cold/Lightning) | Armor value halved | *Burning* (fire damage over time), *Slowed* (half speed), *Shocked* (Disadvantage) |
+| **Force** (Telekinetic/Explosive) | Bypasses Armor entirely | *Pushed* (5–10 ft), *Prone* |
+| **Spectral** (Soul/Spiritual) | Ignores Armor; affects spirits | *Soul Drain* (transfer SE from target to attacker), *Bypasses Armor* |
+| **Radiant** (Holy/Soulfire) | Normal; ×2 damage vs. Undead/Spectral | *Blinded* (Disadvantage), *Purged* (removes shadow/corruption effects) |
+| **Entropic** (Necrotic/Void/Corruption) | Normal; damage cannot be healed | *Decay* (prevents healing), *Corrupted* (+1 Corruption), *Weakened* (−1 die on saves) |
 
 **Outside Combat:**
 
@@ -79,9 +88,9 @@ Situational factors can grant you **Advantage** or impose **Disadvantage** on a 
 
 When you have Advantage, roll your dice pool once. After the roll, you may **pick up any dice that failed (showing 4 or less) and re-roll them**. Add any new successes to your initial total. This gives you a chance to improve a mediocre outcome.
 
-**Disadvantage (Re-roll Successes)**
+**Disadvantage (Re-roll Half Successes)**
 
-When you have Disadvantage, roll your dice pool once. After the roll, you **must pick up any dice that succeeded (showing 5 or 6) and re-roll them**. Your final result is only the successes achieved on this second, mandatory roll. Any successes from your first roll are lost if they do not succeed again.
+When you have Disadvantage, roll your dice pool once. After the roll, you must **pick up half of your successes (round up) and re-roll them**. Only those re-rolled dice that still show 5 or 6 count as successes; the rest become failures. Successes not selected for re-rolling are kept. This makes Disadvantage punishing without making success nearly impossible.
 
 **Canceling**
 
@@ -103,7 +112,7 @@ Combat in Nosgoth reflects the brutal, tactical, and often supernatural struggle
 
 ### 10.4.1 Initiative
 
-* Roll D6s equal to **Shadow + (Tactics or Concentration)**.
+* Roll D6s equal to **Shadow + Tactics**.
 * Highest number of successes acts first.
 * Ties broken by Shadow stat, then GM discretion.
 
@@ -125,7 +134,7 @@ Target DV = 1 → hit. One excess success remains (usable for bonus damage or an
 
 ### 10.4.3 Defense and Armor
 
-* **DV:** Base = 1 + (Shadow or Will, higher). Modified by armor, perks, or effects.
+* **DV:** Base = 1 + higher of (Shadow or Will) + modifiers (worn armor, perks, active defense).
 * **Armor:** Flat reduction of damage (e.g., -2 damage).
 * **Active Defense:** Characters may roll reactions such as Dodge or Parry.
 
@@ -145,7 +154,7 @@ Target DV = 1 → hit. One excess success remains (usable for bonus damage or an
 * **Spellcasting:** Roll **Soul + Glyphcasting**.
 * **Grappling:** Use Unarmed Combat to restrain/disarm.
 * **Shifting Realms:** Abilities may allow shifting between Spectral/Material realms mid-combat.
-* **Pushes:** Players may add 1–3 **Corruption Dice** to a failed roll to try and succeed (at a risk).
+* **Pushes:** After failing a roll, a player may add 1–3 **Corruption Dice** (d6). Each **5–6** adds a success; each **1** increases the character's Corruption Score by 1. See Chapter 8: Corruption for full mechanics.
 
 ---
 
@@ -155,13 +164,15 @@ Exceptional outcomes, for better or worse, can dramatically alter a situation.
 
 **Critical Success (Skill Checks)**
 
-When making a non-combat skill check against a DR, achieving **3 or more successes** or **beating the DR by 2 or more** results in a Critical Success. This doesn't just mean you succeed, but that you do so with extraordinary results, granting a significant narrative benefit.
+When making a non-combat skill check against a DR, **exceeding the DR by 2 or more successes** results in a Critical Success. This doesn't just mean you succeed, but that you do so with extraordinary results, granting a significant narrative benefit.
 
 *   *Examples:* A successful *History* roll might also reveal a hidden secret. A *Persuasion* check might turn a hostile guard into a long-term ally. A *Stealth* check might allow you to map out the entire area.
 
 **Critical Hit (Combat)**
 
-In combat, achieving **3 or more successes on an attack** or **beating the target's DV by 2 or more** results in a Critical Hit. This allows for powerful combat effects like bonus damage, bypassing armor, or applying potent status effects. (See Chapter 9: Combat for more details).
+In combat, a Critical Hit is triggered when you **exceed the target's DV by 2 or more successes**. This reflects dominating advantage over a foe — the wider the margin of success, the more devastating the strike.
+
+A Critical Hit allows: bonus damage (+1 per extra success, up to the +3 cap), ignoring Armor, or applying a potent status effect from the damage type table above. See Chapter 9: Combat for the full list of Critical Hit options.
 
 **Pushing a Roll**
 

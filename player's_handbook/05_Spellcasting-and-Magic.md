@@ -60,7 +60,7 @@ When a spell lists a save (e.g., *DR 2 Blood save*), the target rolls **Attribut
 2. **Determine Spell Type & Required Roll:**
    - **Core Dice Mechanic:** Roll D6s equal to Attribute + Skill rank; successes are 5s or 6s.
    - **Attack Spells:** Roll Attribute + Spellcasting Skill (e.g., Soul + Rituals) vs. target's Defense Value (DV). Successes ≥ DV hit.
-   - **Save-Based Spells:** Target rolls Attribute + Relevant Skill vs. spell's DR. Guidelines: DR 1 (trivial), DR 2 (challenging), DR 3 (dangerous), DR 4+ (epic).
+   - **Save-Based Spells:** Target rolls Attribute + Relevant Skill vs. spell's DR. Guidelines: DR 1 (Simple), DR 2 (Standard), DR 3 (Challenging), DR 4+ (Difficult/Extreme).
    - **Utility/Ritual Spells:** May require a caster skill check vs. GM-set DR or auto-succeed if conditions met.
    - **Forbidden Spells:** Often use high DR saves (3–4+); may require or allow Corruption Dice.
 3. **Spend Resources:**
@@ -291,25 +291,25 @@ This compendium lists spells by tier and category. Class access by spell school 
 - **Wound Reversal:** Cost: 4 BP. 30 ft; swap HP totals between 2 targets (DR 3 Blood).
 
 #### Ritual Spells
-- **Binding of the Starborn:** Cost: 5 SE. 1 hr under stars; summon celestial entity for task (DR 4 Soul attribute + Rituals).
-- **Chrono Collapse:** Cost: 5 SE. 1 min; 20-ft radius in 120 ft; DR 4 Will or limited actions 3 rounds.
+- **Binding of the Starborn:** Cost: 5 SE. 1 hr under stars; summon celestial entity for task (DR 4 Soul + Rituals).
+- **Chrono Collapse:** Cost: 5 SE. 1 min; 20-ft radius in 120 ft; DR 4 Will save or limited actions 3 rounds.
 - **Curse of the Nine Moons:** Cost: 5 SE. 1 hr night; lunar curse (madness/transformation/withering) until removed.
-- **Dirge of Ruin:** Cost: 5 SE. 10 min; 60-ft radius; 3 Spectral damage + -1 die actions (DR 2 Will + Concentration to maintain).
+- **Dirge of Ruin:** Cost: 5 SE. 10 min; 60-ft radius; 3 Spectral damage + -1 die actions (DR 2 Will save + Concentration to maintain).
 - **Eternal Sigil:** Cost: 5 SE. 1 hr; permanent ward (unbreachable, dimensional lock, elemental bane).
-- **Invocation of Chains:** Cost: 4 SE. 20-ft radius in 60 ft; DR 3 Evasion or Restrained + no external targeting 1 min.
-- **Last Rite of Balance:** Cost: 5 SE (-2 Exhaustion). 1 hr; cleanse 1-mile area of corruption (DR 4–5 Soul attribute + Rituals).
-- **Realmshift:** Cost: 5 SE. 10 min; 60-ft overlay Spectral/other plane (DR 3 Soul attribute + Rituals/min).
+- **Invocation of Chains:** Cost: 4 SE. 20-ft radius in 60 ft; DR 3 Evasion save or Restrained + no external targeting 1 min.
+- **Last Rite of Balance:** Cost: 5 SE (-2 Exhaustion). 1 hr; cleanse 1-mile area of corruption (DR 4–5 Soul + Rituals).
+- **Realmshift:** Cost: 5 SE. 10 min; 60-ft overlay Spectral/other plane (DR 3 Soul + Rituals per min).
 - **Ritual of Eclipse:** Cost: 5 SE. 10 min; 1-mile twilight; weaken sunlight users + empower shadows 1 hr.
-- **Soulforge Resurrection:** Cost: 5 SE/BP. 8 hrs; revive with full faculties (DR 4 Soul attribute + Rituals).
+- **Soulforge Resurrection:** Cost: 5 SE/BP. 8 hrs; revive with full faculties (DR 4 Soul + Rituals).
 
 #### Forbidden Spells
 - **Annihilation Pulse:** Cost: 5 SE (-5 HP). Self; 20-ft radius; 10 Entropic (Void) damage (no save).
-- **Astral Shackle:** Cost: 4 SE. 60 ft; DR 4 Soul attribute or Paralyzed + potential banish (3 failed saves) 1 hr.
+- **Astral Shackle:** Cost: 4 SE. 60 ft; DR 4 Soul save or Paralyzed + potential banish (3 failed saves) 1 hr.
 - **Black Spiral:** Cost: 5 SE (+2 Corruption). 20-ft radius in 60 ft; 5 Entropic (Void) damage + pull/Restrained + Bonus bolt (DR 4 Soul Stun) 1 min.
-- **Corruption Crown:** Cost: 4 SE (+1 Corruption). Self; +2 Presence/Deception + Charm on damage (DR 3 Will) + dread aura 10 min.
-- **Mind Rupture:** Cost: 4 SE (+1d2 Corruption). 30 ft; DR 3 Will or madness until cured (once/long rest).
-- **Reaver Unleashed:** Cost: 4 SE (+1 Corruption). 60-ft cone/30-ft burst; 7 Spectral (Fire) damage (DR 3 halves) + Reaver boost 1 min.
+- **Corruption Crown:** Cost: 4 SE (+1 Corruption). Self; +2 Intimidation/Deception + Charm on damage (DR 3 Will save) + dread aura 10 min.
+- **Mind Rupture:** Cost: 4 SE (+2 Corruption). 30 ft; DR 3 Will save or madness until cured (once/long rest).
+- **Reaver Unleashed:** Cost: 4 SE (+1 Corruption). 60-ft cone/30-ft burst; 7 Spectral damage (DR 3 Soul save halves) + Reaver boost 1 min.
 - **Soul Storm:** Cost: 5 SE. 30-ft radius in 120 ft; 6 Spectral damage + Frightened (DR 3 Will) + obscured 3 rounds.
 - **The God’s Rebuttal:** Cost: 5 SE (+2 Corruption). Reaction on divine; opposed check to counter + 4 Entropic (Void) damage backlash.
-- **The Whispering Gate:** Cost: 5 SE (+1d4 Corruption). 1 hr; open gate to hostile plane (DR 4 Soul attribute + Forbidden).
+- **The Whispering Gate:** Cost: 5 SE (+3 Corruption). 1 hr; open gate to hostile plane (DR 4 Soul + Forbidden Knowledge).
 - **Void Chain:** Cost: 4 SE. 60 ft; spell attack, 5 Void + DR 4 Blood or Restrained/pull + no teleport.

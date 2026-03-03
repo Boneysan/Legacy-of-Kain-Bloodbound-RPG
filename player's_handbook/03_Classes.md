@@ -24,8 +24,11 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 *   **Starting Stats**: 5–6 skill points.
 *   **Skill Point Gain**: +1 skill point per level.
 *   **Attribute Growth**: Increase one Core Attribute by +1 at Levels 4, 8, 12, 16, and 20 (Max 5).
+*   **Combat Bonus**: +1 die to attack rolls at Levels 5, 10, 15, and 20 (cumulative, max +4). Does not apply to skill checks.
+*   **Weapon Damage Scaling**: All weapons and damaging abilities gain +1 base damage at Levels 5, 10, 15, and 20 (cumulative, max +4). A base 3-damage sword deals 7 at Level 20.
 *   **Class Perks**: Gain one Class Perk every level (1–20).
 *   **Universal Perks**: Gain one Universal Perk at Levels 1, 3, 5, 6, 8, 10, 11, 13, 15, 16, 18, and 20. (See Chapter 4).
+*   **DV Cap**: A character's DV from attributes, armor, and perks cannot exceed 6. Temporary cover and active defense reactions can push effective DV higher.
 
 ## 3.3 Classes
 
@@ -35,8 +38,8 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Lore**: Once temple guardians and arena champions, Blood Knights are forged in blood rites and combat’s crucible. They channel rage and resilience into overwhelming might, standing as unyielding bulwarks against Nosgoth’s horrors.
 **Role**: Tank / Melee Bruiser
 **Core Attributes**: Fury, Blood
-**Starting HP**: 12 + Blood (+6 per level)
-**Key Skills**: Weapon Mastery, Evasion, Unarmed Combat, Tactics, Presence
+**Starting HP**: 12 + Blood (+4 per level)
+**Key Skills**: Weapon Mastery, Evasion, Unarmed Combat, Tactics, Intimidation
 
 #### Core Abilities
 *   **Blood Frenzy** (Passive): Gain +1 Fury to your dice pool for the next action when you take damage.
@@ -75,7 +78,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Lore**: Bound to the Spectral Realm, Soul Reavers are warriors who have touched the abyss and returned changed. They are phasing skirmishers, capable of striking from the spirit world and weaving soul energy into devastating attacks. Often misunderstood as ghosts, they walk the line between life and death.
 **Role**: Phase Warrior / Hybrid Caster
 **Core Attributes**: Soul, Fury
-**Starting HP**: 10 + Soul (+5 per level)
+**Starting HP**: 10 + Soul (+4 per level)
 **Key Skills**: Weapon Mastery, Athletics, Insight, Spectral Lore, Stealth
 
 #### Core Abilities
@@ -114,7 +117,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Lore**: Born from Zephonim assassin cults, Shadowmancers wield the darkness between realms. Masters of illusion, fear, and sudden violence, they serve as spies or saboteurs. They don't just hide in shadows; they weaponize them.
 **Role**: Stealth / Controller / Summoner
 **Core Attributes**: Shadow, Soul
-**Starting HP**: 8 + Soul (+4 per level)
+**Starting HP**: 8 + Soul (+3 per level)
 **Key Skills**: Stealth, Deception, Thievery, Possession, Observation
 
 #### Core Abilities
@@ -153,8 +156,8 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Lore**: Heirs to Nosgoth’s darkest sorcery, Sangromancers wield blood magic derived from Hylden rituals and vampiric biology. They reshape flesh and control battlefields with spilled vitae. Every pulse fuels their power.
 **Role**: Blood Mage / Battlefield Control
 **Core Attributes**: Blood, Soul
-**Starting HP**: 9 + Blood (+5 per level)
-**Key Skills**: Rituals, Forbidden Knowledge, Concentration, Presence, Craft (Alchemy)
+**Starting HP**: 9 + Blood (+3 per level)
+**Key Skills**: Rituals, Forbidden Knowledge, Concentration, Intimidation, Craft (Alchemy)
 
 #### Core Abilities
 *   **Hemorrhage** (Action, 1 BP): Deal 2 ongoing damage/round (Resist: Blood vs Diff 2).
@@ -192,7 +195,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Lore**: Arcane scholars and sigil-scribes, Glyph Seekers channel structured magic through symbols. Exiled researchers or human vault-dwellers, they craft Nosgoth’s remaining wards with precision.
 **Role**: Support / Utility Caster
 **Core Attributes**: Soul, Will
-**Starting HP**: 8 + Soul (+5 per level)
+**Starting HP**: 8 + Soul (+3 per level)
 **Key Skills**: Glyphcasting, Rituals, Forbidden Knowledge, Craft, Observation
 
 #### Core Abilities
@@ -231,7 +234,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Lore**: Assassins moving like wind through shadow, Dreadblades descend from Sarafan enforcers or cursed Zephonim survivors. Blending martial precision with spectral poisons, they deliver single-strike kills.
 **Role**: Assassin / Burst Damage
 **Core Attributes**: Shadow, Fury
-**Starting HP**: 9 + Soul (+5 per level)
+**Starting HP**: 9 + Shadow (+3 per level)
 **Key Skills**: Stealth, Weapon Mastery, Thievery, Evasion, Observation
 
 #### Core Abilities
@@ -270,7 +273,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Lore**: Sworn to protect the shattered Balance Pillars, Wardens are priests, enforcers, and oracles. Part Sarafan, part Oracle-Blooded, they maintain equilibrium between realms and morality, fueled by cosmic duty.
 **Role**: Judge / Fate Caster / Support
 **Core Attributes**: Will, Soul
-**Starting HP**: 10 + Will (+5 per level)
+**Starting HP**: 10 + Will (+4 per level)
 **Key Skills**: Rituals, Glyphcasting, Insight, Persuasion, Religion
 
 #### Core Abilities
@@ -309,7 +312,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Lore**: Exiled prophets wielding glyph decay and soul leeching, Hylden Warlocks are Nosgoth’s most feared casters. Escaped from the Spectral Realm, they twist time and fate, whispering truths too dangerous to speak.
 **Role**: Dark Mage / Debuffer
 **Core Attributes**: Soul, Will
-**Starting HP**: 8 + Soul (+4 per level)
+**Starting HP**: 8 + Soul (+3 per level)
 **Key Skills**: Forbidden Knowledge, Glyphcasting, Rituals, Deception, Concentration
 
 #### Core Abilities

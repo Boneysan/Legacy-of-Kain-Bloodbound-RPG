@@ -1,6 +1,6 @@
 # Legacy of Kain: Bloodbound RPG - Context Document
 
-**Last Updated:** October 31, 2025  
+**Last Updated:** March 3, 2026 (Systemic Overhaul + Equipment Overhaul)  
 **System Version:** 1.0 (In Development)  
 **Game Type:** Dark Gothic Fantasy Tabletop RPG  
 **Setting:** Nosgoth
@@ -21,16 +21,18 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 - **Resolution:** Compare successes to Difficulty Rating (DR) or Defense Value (DV)
 
 ### Key Distinctions
-- **DR (Difficulty Rating):** Used for skill checks, environmental challenges, saves
-- **DV (Defense Value):** Used for combat attacks only (1 + higher of Shadow or Will)
+- **DR (Difficulty Rating):** Used for skill checks, environmental challenges, saves (scale: 0 Trivial – 5+ Extreme)
+- **DV (Defense Value):** Used for combat attacks only; base = 1 + higher of Shadow or Will; **capped at 6** from attributes, armor, and perks (temporary cover and active defense can exceed cap)
+- **Combat Bonus:** +1 die to attack rolls at levels 5, 10, 15, 20 (cumulative, max +4; does not apply to skill checks)
+- **Weapon Damage Scaling:** All weapons and damaging abilities gain +1 base damage at levels 5, 10, 15, 20 (cumulative, max +4)
 
 ### Advantage/Disadvantage System
 - **Advantage:** Re-roll all failures (1-4), add new successes to total
-- **Disadvantage:** Re-roll all successes (5-6), keep only new results
+- **Disadvantage:** Re-roll **half** your successes (round up); only those that still show 5-6 count; un-rerolled successes are kept
 
 ### Critical Mechanics
-- **Critical Success:** 3+ successes or exceed DR by 2+ (skill checks only)
-- **Critical Hit:** 3+ successes or exceed DV by 2+ (combat only)
+- **Critical Success:** Exceed DR by 2+ successes (skill checks only)
+- **Critical Hit:** Exceed DV by 2+ successes (combat only)
 
 ---
 
@@ -44,6 +46,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 6. **Blood** - Vitality, life essence, vampiric power
 
 **Starting Distribution:** 15 points, max 3 per attribute at creation
+**Attribute Growth:** +1 to one Core Attribute at Levels 4, 8, 12, 16, 20 (max 5)
 
 ---
 
@@ -70,7 +73,9 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 7. **Warden of Balance** - Divine judge, fate manipulation, support
 8. **Hylden Warlock** - Dark mage, entropy and forbidden magic
 
-**Progression:** 20 levels, perks gained at each level
+**Progression:** 20 levels; one Class Perk per level; Universal Perks at milestone levels; Combat Bonus +1 at levels 5/10/15/20; Weapon Damage +1 at levels 5/10/15/20; DV capped at 6
+**Starting Skill Points:** 5-6 (per 03_Classes.md); +1 skill point per level
+**Skill Cap:** Max 3 at Level 1 (or highest associated attribute, whichever is lower); absolute max 5 ranks
 
 ---
 
@@ -79,28 +84,28 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 ### 6 Damage Categories
 
 **Physical:** (Bludgeoning, Piercing, Slashing)
-- Reduced by Armor.
+- Reduced by Armor normally.
 - Effects: Bleeding, Staggered, Prone.
 
 **Elemental:** (Fire, Cold, Lightning)
-- Halves Armor.
+- Armor value **halved** (round down).
 - Effects: Burning, Slowed, Shocked.
 
-**Force:**
-- Bypasses Armor.
+**Force:** (Telekinetic, Explosive)
+- **Bypasses** Armor entirely.
 - Effects: Pushed, Prone.
 
 **Spectral:** (Soul, Spiritual)
-- Ignores Armor; Drains Soul Energy.
+- **Ignores** physical Armor; affects spirits.
 - Effects: Soul Drain.
 
-**Radiant:** (Holy, Soulfire)
-- Double Damage vs Undead/Spectral.
+**Radiant:** (Holy, Spectral Fire)
+- Normal Armor; **×2 damage** vs Undead/Spectral.
 - Effects: Blinded, Purged.
 
 **Entropic:** (Necrotic, Corruption, Void)
-- Unhealable; Adds Corruption.
-- Effects: Decay, Corrupted.
+- Normal Armor; damage **cannot be healed** without magic.
+- Effects: Decay, Corrupted, Weakened.
 
 ---
 
@@ -117,11 +122,12 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
   - 5-6 = Success (adds to your roll)
 
 ### Corruption Levels & Thresholds
-- **0-2:** Minimal corruption
-- **3-6:** Tier 1 Corrupted Perks available
-- **7-10:** Tier 2 Corrupted Perks available
-- **11-14:** Tier 3 Corrupted Perks available
-- **15:** Character Lost (NPC)
+- **0:** Uncorrupted — baseline state
+- **1-2:** Touched by Corruption — roleplaying cues; animals skittish, unsettling aura
+- **3-6:** Marked by Corruption — Tier 1 Corrupted Perks available; dim lights flicker; **-1 die** Social
+- **7-10:** Deeply Corrupted — Tier 2 Corrupted Perks available; weakened in holy areas (-1 die); **-2 dice** Social
+- **11-14:** Abyss-Bound — Tier 3 Corrupted Perks available; pain in sanctified zones (-2 dice); dark entities drawn to you; **-3 dice** Social
+- **15:** Lost — Character becomes a GM-controlled NPC
 
 ### Pushing Rolls
 - Decide *after* failing a roll.
@@ -129,10 +135,10 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 - Each '1' rolled adds +1 Corruption Level.
 
 ### Purification Methods
-1. **Rituals of Purification** - Rare, demanding rites requiring specific components and locations
-2. **Acts of Atonement** - Significant narrative actions demonstrating change of heart
-3. **NPC Aid** - Seek help from powerful beings (at steep price)
-4. **Downtime Recovery** - Gradual reduction through meditation and focused contemplation
+1. **Ritual of Cleansing** — Requires rare components (Pillar dust, untainted blood) and a holy site; DR 3-4 Soul + Rituals check; reduces Corruption by 1-2; failure = +1 Corruption
+2. **Act of Atonement** — Meaningful sacrifice or heroism (GM adjudicated); reduces Corruption by 1-3
+3. **Purifier NPC** — Seek an ancient Vampire elder or Warden of Balance; requires a service, debt, or sacrifice; reduces Corruption by 2-4
+4. **Contemplation** — Weeks of downtime; DR 2-3 Will + Concentration check; reduces Corruption by 1
 
 ---
 
@@ -150,8 +156,13 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 
 ### Hit Points (HP)
 - **Varies by class**
-- **Starting:** 8-12 HP
-- **Per Level:** +4 to +6 HP
+- **Starting:** Base (8-12) + Core Attribute (e.g., Blood Knight = 12 + Blood)
+- **Per Level:** +3 to +4 HP (reduced from +4 to +6 to fix HP bloat)
+- **HP Tiers at Level 20:**
+  - Tank (Blood Knight): ~93 HP
+  - Bruiser (Soul Reaver, Balance Warden): ~91 HP
+  - Mid (Sangromancer, Dreadblade, Glyph Seeker): ~70-71 HP
+  - Caster (Shadowmancer, Hylden Warlock, Temporal Sentinel): ~70 HP
 
 ---
 
@@ -170,7 +181,13 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 
 ### Corrupted Perks
 - Unlocked via corruption thresholds (3+, 7+, 11+)
-- Powerful but come with narrative consequences
+- Chosen in place of a Universal Perk slot; only Corruption Score limits access (no tier prerequisites)
+- **31 total:** 9 Tier 1, 10 Tier 2, 12 Tier 3
+- Powerful but come with narrative consequences, social penalties, and environmental drawbacks
+- **Note:** 04_Perks.md is the canonical source for corrupted perk mechanics (costs/effects); 08_Corruption.md contains an earlier draft with some conflicting values
+
+### Multiclassing
+- At Level 5+, players may request a Tier 1 perk from another class's perk tree if narratively justified (GM discretion)
 
 ### Human Racial Bonus
 - Humans gain 1 extra Universal Perk at levels 4, 8, 12, 16, 20
@@ -233,7 +250,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 - `04_Perks.md` - Universal and class perk systems (needs formatting fix)
 - `05_Spellcasting-and-Magic.md` - Magic rules and spell lists
 - `06_Skills.md` - Skill descriptions and usage
-- `07_Equipment.md` - Weapons, armor, and items
+- `07_Equipment.md` - Weapons, armor, and items ✓ COMPLETE (Equipment Overhaul)
 - `08_Corruption.md` - Corruption system mechanics ✓ COMPLETE (with all Tier 1-3 perks)
 - `09_Combat` - Combat rules and procedures
 - `10_Dice-System` - Detailed dice mechanics
@@ -281,7 +298,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 - Resource pool calculations (SE, BP, HP)
 - Perk progression framework
 - **Core Mechanics documentation (00_Core-Mechanics.md - COMPLETE)**
-- **Corruption system with all Tier 1-3 Corrupted Perks (08_Corruption.md - COMPLETE)**
+- **Corruption system with all Tier 1-3 Corrupted Perks (08_Corruption.md - see note: 04_Perks.md is canonical, contains expanded 31-perk list)**
 - **Project Context document (assets/CONTEXT.md - COMPLETE)**
 - **GM_Guide folder structure with 6 chapters (COMPLETE)**
 - **Monster_Manual folder structure with Introduction + 9 chapters (COMPLETE)**
@@ -487,6 +504,10 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 - Combat procedures and initiative (09_Combat)
 - Environmental interaction rules (11_Realms-Terraign-Arcane-Power)
 - Perk formatting standardization (04_Perks.md has formatting issues preventing automated editing)
+- **08_Corruption.md sections 8.5 (Other Effects of Corruption) and 8.6 (Paths to Purification) are TOC-only with no content; purification mechanics live in 04_Perks.md section 4.4**
+- **Resolve corrupted perk mechanical conflicts between 08_Corruption.md and 04_Perks.md (04_Perks.md is canonical)**
+- **Resolve skill point count discrepancy between 01_Character-Creation.md (6–10) and 03_Classes.md (5–6)**
+- **01_Character-Creation.md Step 2 missing Revenants and Unbound lineages**
 
 ### Lore — Class Lore Population — Oct 31, 2025
 - Populated `lore/Class-Lore.md` using narrative material from `Source-Docs/Main-Rules` (Class Lore Compendium).
@@ -500,12 +521,12 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 - Sample adventures and one-shots
 
 ### Future Considerations for Monster_Manual
-- Chapter 7: Elemental & Arcane (Fire djinn, arcane wyrms, bound elementals)
-- Chapter 8: Ancient Creatures (Titan-Kin, Pillar guardians, primordial beings)
-- Chapter 9: Legendary Entities (Razielic Remnant, Kain's Echo-Knight, campaign bosses)
+- ~~Chapter 7: Elemental & Arcane~~ ✓ COMPLETE
+- ~~Chapter 8: Ancient Creatures~~ ✓ COMPLETE
+- ~~Chapter 9: Legendary Entities~~ ✓ COMPLETE
 - Additional creature variants and templates
-- Lair actions for boss-tier creatures
-- Regional effects for legendary creatures
+- Lair actions for additional boss-tier creatures
+- Regional effects for additional legendary creatures
 
 ---
 
@@ -610,6 +631,8 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 6. **Milestone XP** - Narrative-driven advancement tied to story achievements
 7. **Threat Value System** - Simple encounter balancing using sum of PC levels
 8. **Barter Economy** - Context-based trading instead of fixed prices
+9. **Attribute Growth** - +1 to one attribute at levels 4/8/12/16/20 (max 5) for long-term progression
+10. **Corruption Social & Environmental Penalties** - Escalating dice penalties (-1 to -3) and environmental effects at each corruption threshold
 
 ---
 
@@ -620,24 +643,82 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 - **Soul Stress** - Consolidated into general stress/consequence system
 - **Generic Status Effects** - Replaced with damage-type-specific conditions
 
-### Recent Changes (October 2025 Session)
+### Known Internal Conflicts
+- **08_Corruption.md vs 04_Perks.md**: Several corrupted perks appear in both files with different costs (e.g., Corrupted Surge costs 1 SE in Ch.8 vs 1 Corruption in Ch.4; Soulrend Dominion costs 5 SE in Ch.8 vs 3 SE + 2 Corruption in Ch.4; Hylden's Rift costs 7 SE in Ch.8 vs 4 SE + 2 Corruption in Ch.4; Bloodforged Apotheosis deals Entropic damage in Ch.8 vs Blood damage in Ch.4). **04_Perks.md is the canonical source.**
+- **Skill points at creation**: 01_Character-Creation.md says 6-10; 03_Classes.md says 5-6. **03_Classes.md is the canonical source.**
+- **01_Character-Creation.md Step 2** only details 4 of 6 lineages (missing Revenants and Unbound); full lineage info is in 02_Lineages-and-Race.md.
+- **Initiative formula**: Ch9 says "Shadow + Tactics or Concentration (player's choice)"; Ch10 says "Tactics" only. **Ch9 is the canonical source** (player's choice of Tactics or Concentration).
+
+- **Presence → Intimidation**: Ch0 Fury skills and Ch3 Blood Knight/Sangromancer key skills corrected from "Presence" to "Intimidation" (matches Ch6 canonical skill list)
+- **Dreadblade HP**: Corrected from "9 + Soul" to "9 + Shadow" (matches Core Attributes: Shadow, Fury)
+- **SE/BP Formulas in Ch1**: Corrected from "+1" to "+(Level ÷ 2, rounded up)" to match Ch0 canonical formulas
+
+### Player's Handbook — Equipment Overhaul (07_Equipment.md) — March 2026
+Complete rewrite of Chapter 7 based on game design analysis. All 10 recommendations implemented:
+
+**Weapon System:**
+- All 8 classes now have 3 signature weapons each with full stat blocks (damage type, handedness, range, special effects)
+- Added 3 new class weapon sections: Shadowmancer, Glyph Seeker, Dreadblade (previously missing)
+- Weapon Tier Progression system: Standard (1–7), Enhanced (8–14, +1 dmg), Masterwork (15–20, +2 dmg total)
+- 10 Universal Weapons with stat blocks, class restrictions, and correct mechanic references (STR→Blood+Athletics, marks→specific effects)
+- 6 Rare Weapons (GM Discretion) with full stat blocks; Dreadhammer reduced from 8→7 base damage; Soulreaver Prototype moved from Universal to Rare tier
+- 5 Relic Weapons (Legendary/Unique); Soulreaver Prime fixed (removed "extra action", now gives +2 bonus dmg + 2 SE on kill); Void damage reclassified as Entropic subtype (no longer "bypasses all")
+
+**Damage Types:**
+- Canonical 6-category reference table with armor interactions: Physical (normal), Elemental (armor halved), Force (bypasses), Spectral (ignores physical), Radiant (normal, ×2 vs Undead), Entropic (normal, unhealable)
+- Spectral Fire reclassified as Radiant subtype (follows Radiant armor rules, NOT Spectral)
+- Void reclassified as Entropic subtype with standard armor interaction
+- Corruption subtype clarified (critical hits may increase target's Corruption score)
+
+**Armor System:**
+- ALL armor converted from +DV notation to flat damage reduction (Armor X)
+- 8 class-specific armor sections (5 per class, 40 total entries) with correct class names
+- Added 3 new class armor sections: Shadowmancer, Glyph Seeker, Dreadblade
+- Fixed legacy terminology: "fear saves"→Will saves, "spell saves"→DR saves, "spell level"→spell tier
+- 5 Universal Armor entries in table format
+- NEW §7.3.3 Rare Armor (4 entries, Armor 3)
+- NEW §7.3.4 Relic Armor (3 entries, Armor 3–4)
+
+**Crafting & Tactics:**
+- Crafting section rewritten with tier-specific acquisition table (Standard→Enhanced→Masterwork→Rare→Relic)
+- 5-step crafting process with DR requirements per tier
+- Tactics section updated with all 8 correct class names and weapon+armor synergy recommendations
+- General tips section covering Weapon Damage Scaling, armor flat reduction, extra successes, and DV cap
+
+**Legacy class name fixes:** All instances of Vampire→Blood Knight, Sarafan Crusader→Warden of Balance, Spirit-Bound→Soul Reaver, Blood Mage→Sangromancer, Scholar→Glyph Seeker throughout chapter
+
+### Recent Changes (March 2026 Session — Systemic Overhaul)
+- **Critical Threshold Fixed**: Changed crit trigger from "3+ successes OR exceed by 2+" to "exceed DR/DV by 2+" only — eliminates auto-crit problem vs DV ≥ 3
+- **Push Mechanic Unified**: Ch6 outlier version (reroll all failures + 1 CD + Failure Table) replaced with canonical model (add 1-3 CDs to result) matching Ch0/Ch8/Ch10
+- **DR Labels Standardized**: Unified to 0(Trivial) / 1(Simple) / 2(Standard) / 3(Challenging) / 4(Difficult) / 5+(Extreme) across Ch0, Ch6, Ch10
+- **Degrees of Success Unified**: 0=Failure / 1=Marginal / 2=Standard / 3+=Exceptional across all files
+- **DV Cap Added**: Maximum DV of 6 from attributes/armor/perks; cover and active defense can exceed
+- **Combat Bonus Added**: +1 die to attack rolls at levels 5/10/15/20 (max +4)
+- **Weapon Damage Scaling Added**: +1 base damage to all weapons/abilities at levels 5/10/15/20 (max +4)
+- **Disadvantage Rebalanced**: Changed from "re-roll ALL successes" (p≈11%) to "re-roll HALF successes round up" (p≈22%) — still punishing, no longer crippling
+- **HP Scaling Reduced**: Per-level HP gains reduced ~30% across all classes to fix HP bloat
+- **Missing Core Rules Added to Ch0**: Initiative, Opposed Rolls, Death & Dying (with Death Saves table and Vampiric Frenzy), Status Effect duration table, Damage Type vs Armor interaction table
+- **Death & Dying Mechanics Added to Ch9**: Full Death Saves system (1d6), Vampiric Frenzy, Permanent Death rules
+- **Cross-References Fixed**: Presence→Intimidation, Dreadblade HP Soul→Shadow, SE/BP formula scaling in Ch1
 - Advantage/Disadvantage redesigned from "remove highest die" to "re-roll failures/successes"
 - Critical mechanics split into Success (skills) vs Hit (combat)
 - Corruption changed from pure penalty to "power at a price" model
+- Corruption social penalties added (-1 to -3 dice at thresholds) and environmental effects at each level
 - Status effects made damage-type-specific for tactical depth
-- Core Mechanics file fully populated with comprehensive rules reference
-- Corruption system completed with all 15 Corrupted Perks (3 Tier 1, 6 Tier 2, 6 Tier 3)
+- Core Mechanics file fully populated with comprehensive rules reference (includes movement/distance, combat actions, rest/recovery, armor mechanics)
+- **Corruption system completed with 31 Corrupted Perks (9 Tier 1, 10 Tier 2, 12 Tier 3) — canonical source: 04_Perks.md**
 - GM_Guide folder created with 6 foundational chapters
 - Economy system detailed with barter mechanics and factional currencies
 - NPC Compendium created with narrative guidance for 5 major characters
 - Milestone XP system documented with pacing recommendations
 - Reality Fracture and narrative ability adjudication guidelines added
-- **Monster_Manual folder created with Introduction + 6 complete chapters (7 total files)**
-- **48 fully-statted creatures** across Undead/Vampiric, Spectral, Mortal/Cultist, Beast, Construct, and Hylden categories
+- **Monster_Manual folder created with Introduction + 9 complete chapters (10 total files)**
+- **80 fully-statted creatures** across Undead/Vampiric, Spectral, Mortal/Cultist, Beast, Construct, Hylden, Elemental/Arcane, Ancient, and Legendary categories
 - **Threat Value (TV) system integrated with GM_Guide encounter design**
 - **Legendary Actions rules for boss-tier creatures**
 - **Each creature includes: full stats, multiple attacks, special abilities, tactical guidelines, loot tables, scaling options, sample encounters, and story hooks**
 - **Boss-tier creatures feature Legendary Actions, multi-phase mechanics, and targetable weaknesses**
+- **Chapters 07-09 include lair actions, regional effects, and narrative foreshadowing guidance for legendary creatures**
 
 ---
 
@@ -648,7 +729,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 2. Select Lineage (Race)
 3. Choose Class
 4. Assign Attributes (15 points, max 3)
-5. Assign Skills (6-10 points, max 3 at Level 1)
+5. Assign Skills (5-6 points per 03_Classes.md, max 3 or highest associated attribute at Level 1; absolute max 5)
 6. Choose Starting Gear
 7. Select Level 1 Class Perk + 1 Universal Perk (Tier 1)
 8. Define Corruption Path (if applicable)
