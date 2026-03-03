@@ -15,7 +15,7 @@
    - 10.4.8 Reactions
 - 10.5 Closing Note
 
-Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Soul, and Soulfire interactions are detailed in Chapters 5 (Magic), 8 (Corruption), and 9 (Combat).
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Soul, and Spectral interactions are detailed in Chapters 5 (Magic), 8 (Corruption), and 9 (Combat).
 
 ## 10.1 Dice Success System
 
@@ -136,7 +136,7 @@ Target DV = 1 → hit. One excess success remains (usable for bonus damage or an
 * **Weapons/abilities** define base damage.
 * **Health Points (HP):** Track physical harm.
 * 0 HP → unconscious or dying.
-* Certain attacks may cause **Wounds or Sanity Loss**.
+* Certain attacks may cause **Wounds or Corruption**.
 
 ---
 

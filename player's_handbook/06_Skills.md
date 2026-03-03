@@ -118,7 +118,7 @@ Tactics (Will or Focus): Battlefield awareness and strategic planning. Predict e
 Glyphcasting (Soul or Will): Inscribing, activating, or countering glyphs tied to Nosgoth’s ley-lines. Used for magical traps, sigil-based attacks, and ward defenses. Skilled Glyphcasters can create timed or proximity-triggered effects or disable enemy glyphs. Essential for Glyph Seekers or Hylden Warlocks.
 Rituals (Soul or Religion): Performing complex arcane or divine rites, requiring time and components. Used to summon spirits, consecrate land, seal portals, or alter fate. High ranks enable long-term enchantments or divine boons. Common among Sangromancers and Wardens.
 Possession (Soul or Will): Controlling other beings, objects, or spectral anchors. Used by Wraiths or Razielim to enter host bodies, manipulate spirits, or transfer consciousness. High-risk, high-reward skill for escaping death or bypassing barriers.
-Forbidden Knowledge (Will, Soul, or Focus): Insight into Hylden technology, fate codes, glyph decay, or time-stream fractures. Recognize cursed relics, navigate impossible timelines, or interpret prophecies. Risks Corruption or Sanity loss on failure.
+Forbidden Knowledge (Will, Soul, or Focus): Insight into Hylden technology, fate codes, glyph decay, or time-stream fractures. Recognize cursed relics, navigate impossible timelines, or interpret prophecies. Risks Corruption gain or mental trauma on failure.
 
 ### 6.8.3 Stealth & Subterfuge
 

@@ -56,7 +56,7 @@ Surviving Nosgoth’s battlefields requires cunning defense and resilience.
 While skill checks are made against a static DR, attacks in combat are resolved by comparing your successes against your opponent's **Defense Value (DV)**. A character's DV is a dynamic score that reflects their innate evasiveness, armor, and training, making them a much harder target than a simple locked door.
 
 - **Defense Value (DV)**: A passive score (1 + higher of Shadow or Will, plus modifiers) that attackers must meet or exceed to hit. For example, a vampire with Shadow 3 and Nosgothian Chainmail (+2 DV) has DV 6.
-- **Armor**: Reduces incoming physical damage (Bludgeoning, Piercing, Slashing) by a flat amount (e.g., 1–3, depending on gear). For example, Leather Armor reduces damage by 1, while Sarafan Plate reduces by 3. Some damage types (e.g., Soul, Soulfire, Void) ignore armor entirely.
+- **Armor**: Reduces incoming physical damage (Bludgeoning, Piercing, Slashing) by a flat amount (e.g., 1–3, depending on gear). For example, Leather Armor reduces damage by 1, while Sarafan Plate reduces by 3. Some damage types (e.g., Spectral, Void) ignore armor entirely.
 - **Active Defense**: Characters can use their Reaction (see Section 9.8) to actively defend with skills like Shadow + Evasion (Dodge) or Fury + Weapon Mastery (Parry).
 
 ## 9.5 Damage and Health
@@ -65,8 +65,8 @@ Damage reflects the toll of Nosgoth’s brutal conflicts, from claw slashes to s
 
 - **Damage Calculation**: Based on the weapon or ability (e.g., Reaver Blade: 3 Slashing damage, Fire Glyph: 4 Fire damage). Subtract the target’s armor from physical damage types; other types may bypass armor or have unique effects (see Section 9.6).
 - **Health Points (HP)**: Tracks physical endurance. At 0 HP, a character falls unconscious or begins dying (GM discretion, based on narrative).
-- **Wounds and Sanity Loss**: Some attacks (e.g., cursed weapons, Soul or Corruption damage) inflict Wounds (lasting injuries) or Sanity Loss (mental strain), detailed in the Character Creation Guide.
-- **Healing**: Limited in Nosgoth, often requiring blood consumption (for vampires), glyphs, or rare artifacts. Some damage types (e.g., Void, Soulfire) may resist conventional healing.
+- **Wounds and Sanity Loss**: Some attacks (e.g., cursed weapons, Soul or Corruption damage) inflict Wounds (lasting injuries) or Corruption (spiritual taint), detailed in the Character Creation Guide.
+- **Healing**: Limited in Nosgoth, often requiring blood consumption (for vampires), glyphs, or rare artifacts. Some damage types (e.g., Void, Spectral Fire) may resist conventional healing.
 
 **Example**: A Dumahim vampire (HP 10, Armor 2) takes 5 Piercing damage from a spear (ignores 1 Armor). After Armor, 4 damage is applied (5 – 1 = 4), reducing HP to 6.
 
@@ -242,7 +242,7 @@ Nosgoth’s battlefields are as deadly as its warriors, with shifting realms and
 ## 9.14 GM Guidance
 
 - **Balancing Encounters**: Set DV and HP to challenge but not overwhelm. A DV 3–5 foe suits most parties; DR 4+ tasks should be rare and climactic. Consider damage type resistances (e.g., undead immune to Necrotic).
-- **Cinematic Descriptions**: Describe extra successes vividly (e.g., “Your Soulfire blade erupts, charring their soul as they stagger”). Tailor to damage types for flavor.
+- **Cinematic Descriptions**: Describe extra successes vividly (e.g., “Your Spectral blade erupts, charring their soul as they stagger”). Tailor to damage types for flavor.
 - **Environmental Depth**: Use Nosgoth’s terrain (e.g., blood fountains, Spectral rifts, Void-tainted zones) to reward clever tactics and reflect damage type hazards.
 - **Corruption Risks**: Emphasize the cost of pushing rolls, tying failures to Nosgoth’s dark themes (e.g., a critical failure with Corruption damage summons a spectral wraith).
 

@@ -62,7 +62,7 @@ As you cross Corruption thresholds, you gain access to powerful but dangerous Co
 
 *   **Tier 1 (Level 3+)**: Minor powers with social drawbacks.
 *   **Tier 2 (Level 7+)**: Significant powers with physical costs or risks.
-*   **Tier 3 (Level 11+)**: Game-altering powers that threaten your sanity.
+*   **Tier 3 (Level 11+)**: Game-altering powers that corrupt your soul.
 
 Characters may select one Corrupted Perk each time they cross a new threshold.
 

@@ -59,7 +59,7 @@ Iron Longsword: Deals 5 damage. Versatile (one- or two-handed). Available to all
 Nosgothian War Axe: Deals 6 damage. On crit, removes 1 reaction from the target. For Warriors, Vampires, Outcasts.
 Throwing Dagger: Deals 3 damage. Thrown (Range 8 tiles), marks target for 1 turn. For Rogues, Vampires, Scholars.
 Repeater Crossbow: Deals 4 damage. Ignores 1 armor, reloads every 2 rounds. For ranged-trained classes.
-Soulreaver Prototype: Deals 7 spectral/soulfire damage. Causes 1 corruption per hit, ignores mundane armor. For artifact-bound classes or GM story reward.
+Soulreaver Prototype: Deals 7 Spectral (Fire) damage. Gain 1 Corruption per hit (wielder), ignores mundane armor. For artifact-bound classes or GM story reward.
 Nosgothian Cleaver: Deals 6 damage. Brutal (-1 to hit, ignores 2 armor). For Vampires, Cultists, Outcasts.
 Steel Javelin: Deals 4 damage. Thrown or melee, pins target (DR 2 vs. STR to move). For martial/hybrid classes.
 Huntsman’s Bow: Deals 5 damage. Long range (12 tiles), +1 vs. beasts/corrupted wildlife. For Rogues, Outcasts, Rangers.
@@ -71,14 +71,14 @@ These powerful weapons require special circumstances or GM approval.
 
 Moonlit Fang: Deals 6 damage. +2 damage in moonlight/darkness, +1 Evasion. For Vampires, Rogues, Spirit-bound.
 Requiem Pike: Deals 7 damage. On kill, emits a 1-damage shockwave (2-tile radius), cannot be parried. For Sarafan, Blood Mages.
-Soulbrand Blade: Deals 6 soulfire damage. Wounds cannot be healed for 2 turns, bypasses shields. For soul-bound or Abyssal Heart characters.
+Soulbrand Blade: Deals 6 Spectral (Fire) damage. Wounds cannot be healed for 2 turns, bypasses shields. For soul-bound or Abyssal Heart characters.
 Dreadhammer of Threnos: Deals 8 damage. On crit, knocks target prone and silences for 1 round, wielder takes 1 Corruption. For Outcasts, Cultists, GM unlock.
 Bloodwoven Whip: Deals 5 damage. Range 3 tiles, grapples (DR 2), immobilizes bleeding targets. For Blood Mages, Scholars.
 
 ### 7.1.4 Relic Weapons (Legendary or Unique)
 Relic weapons are tied to Nosgoth’s deepest lore and require epic story progression.
 
-Soulreaver Prime: Deals 9 soulfire/spectral damage. Absorbs souls of the slain, grants 1 extra action next round. Only for those chosen by the Pillars.
+Soulreaver Prime: Deals 9 Spectral (Fire) damage. Absorbs souls of the slain, grants 1 extra action next round. Only for those chosen by the Pillars.
 Blade of Balance: Deals 7 damage. Wielder chooses +2 damage or +2 DV each turn. For those who restored a Pillar.
 Voidrend Scepter: Deals 6 void damage. On hit, target must pass DR 3 or be pulled into the Spectral Realm (disadvantage on next action). For Forbidden Casters, Wraith-Knights.
 Sanctified Claymore of Avernus: Deals 8 radiant damage. Double damage to undead, +1 to ally saves in sight. For Sarafan, Crusaders, chosen defenders.
@@ -88,7 +88,7 @@ Abyssal Fang: Deals 6 corruption damage. On crit, adds 1 permanent Corruption. +
 Weapons may deal unique damage types, each with distinct effects:
 
 Void Damage: Represents dimensional collapse. Bypasses all armor and resistances, cannot be healed normally, and inflicts disadvantage on the target’s next DR save.
-Soulfire Damage: Spectral and spiritual fire. Ignores physical armor, bypasses undead immunities, and prevents natural healing for 1 round unless cleansed.
+Spectral Fire Damage: Spectral and spiritual fire. Ignores physical armor, bypasses undead immunities, and prevents natural healing for 1 round unless cleansed.
 Radiant Damage: Divine energy. Deals double damage to undead/spectral foes, but often resisted by corrupted/abyssal enemies.
 Corruption Damage: Inflicts long-term corruption buildup. On crit, may increase target’s corruption score, disrupting concentration effects.
 Spiritual Damage: Targets the soul, ignoring mundane armor. Resisted by soulbound items or high Spirit saves, with lingering effects in the Spectral Realm.

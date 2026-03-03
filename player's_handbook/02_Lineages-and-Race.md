@@ -55,7 +55,7 @@ Insectoid, parasitic vampires adept at ambush and mutation.
 - **Narrative Hook**: Forgotten by death, hunted by time.
 
 ## 2.4 Hylden-Blooded
-**Lore**: Humans corrupted by Hylden influence (artifacts, rituals, or whispers), marked by glyphs, biomechanical growths, and warped minds. They wield glyphcasting but lose sanity, driven by alien directives or ambition.
+**Lore**: Humans corrupted by Hylden influence (artifacts, rituals, or whispers), marked by glyphs, biomechanical growths, and warped minds. They wield glyphcasting but risk Corruption, driven by alien directives or ambition.
 - **Movement**: 30 ft (6 squares); full speed on corrupted/glyph-infused terrain.
 - **Stealth**: No bonus, but Glyphcasting can alter terrain visibility.
 - **Movement Effects**: Surge 10 ft once per scene with Corruption Die.
@@ -109,6 +109,6 @@ Seers touched by divinity or prophecy.
 
 ## 2.8 Guidance
 - **Lore Integration**: The Lineages are deeply tied to Nosgoth’s themes of fate, corruption, and rebellion. GMs can use their narrative hooks to craft stories around restoring balance (Turelim, Sarafan), defying destiny (Unbound, Razielim), or succumbing to alien influence (Hylden-Blooded).
-- **Mechanical Balance**: Each Lineage offers unique movement, stealth, and combat advantages, balanced by limitations (e.g., Vampire sterility, Wraith Soul stress, Hylden Corruption). Subtypes add variety without overwhelming complexity.
+- **Mechanical Balance**: Each Lineage offers unique movement, stealth, and combat advantages, balanced by limitations (e.g., Vampire sterility, Wraith Soul Energy needs, Hylden Corruption). Subtypes add variety without overwhelming complexity.
 - **Campaign Hooks**: Social prejudice (e.g., humans vs. Hylden-Blooded), relic quests (e.g., Razielim seeking lost heritage), or prophecy conflicts (e.g., Unbound disrupting fate) can drive encounters and campaigns.
 

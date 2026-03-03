@@ -246,7 +246,7 @@ This compendium lists spells by tier and category, with class access noted. Cost
 - **Oblivion Whisper:** Cost: 3 SE (+1 Corruption). Touch/15 ft; DR 3 Will or forget spell/clue 24 hrs.
 - **Rift Pulse:** Cost: 3 SE. 20-ft line; 5 Entropic (Void) damage + DR 3 Might or pushed.
 - **Rotmind Rift:** Cost: 3 SE (+1 Corruption). 30 ft; DR 3 Will or 1 Corruption/round + random madness effect 1 min.
-- **Sanity Spike:** Cost: 3 SE (+1 Corruption). 30 ft; 4 Spectral damage + DR 3 Will or Corruption Die/paranoia 1 round.
+- **Mind Spike:** Cost: 3 SE (+1 Corruption). 30 ft; 4 Spectral damage + DR 3 Will or Corruption Die/paranoia 1 round.
 - **Soul Fracture:** Cost: 3 SE (+1 Corruption). 30 ft; DR 3 Soul or -2 Will/Soul checks + increased SE costs 1 min; harder resurrection if killed.
 - **Starving Veil:** Cost: 3 SE. Self; 15-ft aura; 2 Spectral damage/round + heal 1 HP per creature (max Spectral/round) for concentration 1 min.
 
