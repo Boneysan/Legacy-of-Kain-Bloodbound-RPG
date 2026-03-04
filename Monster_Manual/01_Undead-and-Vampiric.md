@@ -513,4 +513,169 @@ Bosses take Legendary Actions at the end of other creatures' turns, maintaining 
 
 ---
 
+## 1.11 Nosgothian Vampire Overlord
+
+**Type:** Undead (Vampiric, Noble)  
+**Threat Tier:** Boss  
+**Threat Value (TV):** 4
+
+### Lore
+Nosgothian Vampire Overlords are the apex predators of undead society — ancient vampires who have survived centuries through cunning, cruelty, and raw power. Unlike feral vampires who surrendered to the Blood Thirst, Overlords *mastered* it. They rule from crumbling estates and hidden strongholds, commanding legions of lesser undead and mortal thralls through sheer force of will.
+
+An Overlord's presence alone warps the battlefield. The air grows cold, shadows deepen, and lesser creatures instinctively cower. They fight with aristocratic grace — each claw strike deliberate, each blood-sorcery precisely aimed. They do not rage. They *reign*.
+
+Most Overlords were once members of the great vampire clans, and some still carry the sigils of houses long destroyed. Their memories stretch back to the Pillars' golden age, and they view the current age of decay with bitter contempt. They are not mindless monsters — they are rulers deposed, and they want their kingdom back.
+
+### Statistics
+- **HP:** 90
+- **DV:** 6 (1 + Shadow 5)
+- **Armor:** 3 (supernatural resilience)
+- **Movement:** 35 feet (7 squares), Fly 40 feet
+- **Attributes:** Fury 5, Soul 4, Shadow 5, Will 5, Focus 4, Blood 6
+- **Skills:** Athletics 4, Intimidation 5, Melee 3, Stealth 3
+- **SE:** 15 | **BP:** 8
+
+### Attacks & Abilities
+
+**Sovereign Claws** (Action)
+- **Dice Pool:** Fury 5 + Melee 3 = 8d6
+- **Damage:** 8 physical (Slashing) + Bleeding
+- **Special:** **Multiattack:** The Overlord makes two Sovereign Claw attacks as a single Attack action
+
+**Blood Dominion** (Action, costs 3 SE)
+- **Dice Pool:** Soul 4 + Intimidation 5 = 9d6
+- **Range:** 60 feet (12 squares)
+- **Damage:** None
+- **Special:** Target must make DR 4 Will save or be **Dominated** (Charmed — must obey verbal commands, cannot willingly attack the Overlord) for 1 round. On Critical Hit (3+ successes), duration extends to 2 rounds. Vampiric and undead targets automatically fail.
+
+**Crimson Torrent** (Action, Recharge 5-6)
+- **Dice Pool:** Blood 6 + 0 = 6d6
+- **Range:** 30-foot cone (6 squares)
+- **Damage:** 10 Blood damage to all creatures in cone
+- **Special:** DR 3 Blood save to halve damage. Allied undead and vampires in the area regain 5 HP instead of taking damage.
+
+**Blood Drain** (Action, requires Grapple)
+- **Dice Pool:** Fury 5 + Athletics 4 = 9d6
+- **Damage:** 12 Blood damage (bypasses physical armor)
+- **Special:** The Overlord regains HP equal to damage dealt. Target's max HP is reduced by half the damage until they complete a long rest.
+
+### Special Abilities
+
+**Vampiric Regeneration:** Regains 8 HP at start of its turn unless it took Radiant or Fire damage last round.
+
+**Blood Frenzy:** When bloodied (below 45 HP), gains +2 dice on all attack rolls.
+
+**Command Undead:** As a Bonus Action, all lesser undead (TV 2 or lower) within 60 feet may immediately move up to half their speed and make one attack.
+
+**Mist Form:** When reduced to 0 HP for the first time, the Overlord does not die. Instead, it dissolves into mist (Incorporeal, immune to all damage, 60 feet Fly speed) for 1 round. At the start of its next turn, it reforms with 20 HP at any location within 60 feet. Blocking this requires Radiant damage, anti-undead wards, or sunlight in the area where it attempts to reform.
+
+**Sunlight Vulnerability:** Takes 15 Fire damage at start of turn in direct sunlight. DV reduced by 3 in sunlight.
+
+**Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+
+**Legendary Resistance (3/day):** When the Overlord fails a save, it can choose to succeed instead.
+
+### Legendary Actions (3 per round)
+- **Move:** Fly or walk up to full speed without provoking opportunity attacks (1 action)
+- **Sovereign Claws:** Make one Sovereign Claw attack (1 action)
+- **Blood Dominion:** Use Blood Dominion on one target (2 actions)
+- **Crimson Torrent:** Use Crimson Torrent, even if not recharged (3 actions)
+
+### Reactions
+**Lordly Contempt** (Reaction, when hit by a melee attack)
+- Roll Shadow 5 + Stealth 3 = 8d6 vs DR 3
+- On success, the Overlord sidesteps with supernatural grace, taking no damage and appearing 10 feet away
+
+### Tactics
+The Overlord opens with Blood Dominion on the party's strongest melee fighter, turning them against their allies. It uses Crimson Torrent when enemies cluster, healing allied undead while damaging PCs. It saves Sovereign Claws for isolated targets and uses Blood Drain on grappled prey to sustain itself. When bloodied, Blood Frenzy makes it extremely aggressive. Legendary Actions maintain constant pressure — using Move to reposition and Sovereign Claws to punish overextension. Mist Form gives it a second chance if the party thinks they've won.
+
+**Key Weakness:** Sunlight and Radiant damage shut down regeneration and Mist Form. Parties that bring Radiant sources or fight during the day have a significant advantage.
+
+### Loot
+- Overlord's signet ring (ancient clan identifier, grants +1 die on Intimidation) — **Barter Value:** 150
+- Bloodforged cloak (reduces Radiant damage by 2 when worn, but grants 1 Corruption per week of use) — **Barter Value:** 200
+- Ancient vampire fang (legendary alchemical component) — **Barter Value:** 100
+- Clan treasury key (leads to hidden vault, GM determines contents) — **Barter Value:** Priceless
+- Blood chalice (if filled with blood, restores 10 HP to drinker; usable once per day) — **Barter Value:** 120
+
+### Scaling Options
+- **Diminished Overlord (Elite, TV 2):** HP 50, DV 5, -2 to all attributes, no Legendary Actions or Legendary Resistance. Remove Mist Form. Reduce Crimson Torrent to 15-foot cone.
+- **Ancient Overlord (Legendary, TV 6+):** HP 140, Blood 7, Will 6, Legendary Resistance 4/day. Add "Sanguis Imperium" — all vampiric creatures within 120 feet obey the Overlord's will (no save). Add Lair Actions.
+
+---
+
+## 1.12 Grave-Knight Commander
+
+**Type:** Undead (Intelligent, Martial)  
+**Threat Tier:** Elite (Strong)  
+**Threat Value (TV):** 3
+
+### Lore
+Grave-Knight Commanders are the risen remnants of great military leaders — Sarafan generals, vampire clan warlords, or mercenary captains whose ambition burned so fiercely that death could not extinguish it. Unlike mindless Revenants, Grave-Knights retain their tactical brilliance and martial skill. They rise in full armor, weapons in hand, and immediately begin rebuilding their command.
+
+They are most dangerous not in isolation but at the head of an undead formation. A Grave-Knight Commander transforms a shambling mob of ghouls and skeletons into a disciplined fighting force. They issue orders in a voice like grinding stone, and lesser undead obey without hesitation — drawn by the necromantic authority radiating from the Commander's cursed form.
+
+Grave-Knights are often bound to a specific location (a battlefield, a fortress, a throne room) or a specific objective (defend this gate, destroy this bloodline, reclaim this banner). They are relentless in pursuit of their mission and will rebuild their forces indefinitely if the source of their binding is not destroyed.
+
+### Statistics
+- **HP:** 55
+- **DV:** 5 (1 + Shadow 4)
+- **Armor:** 3 (ancient plate mail)
+- **Movement:** 30 feet (6 squares)
+- **Attributes:** Fury 4, Soul 3, Shadow 4, Will 4, Focus 3, Blood 3
+- **Skills:** Melee 3, Athletics 3, Intimidation 4, Leadership (Will) 3
+- **SE:** 0 | **BP:** 0
+
+### Attacks
+
+**Cursed Greatsword** (Action)
+- **Dice Pool:** Fury 4 + Melee 3 = 7d6
+- **Damage:** 9 physical (Slashing) + 2 Cold damage
+- **Special:** On Critical Hit (3+ successes), target is **Weakened** (Disadvantage on attack rolls) for 1 round as necrotic frost seeps into the wound
+
+**Gravetide Strike** (Action, Recharge 5-6)
+- **Dice Pool:** Fury 4 + Athletics 3 = 7d6
+- **Range:** Melee
+- **Damage:** 12 physical (Slashing) + 4 Cold damage
+- **Special:** Target must make DR 3 Blood save or be knocked **Prone** and lose their Reaction until end of their next turn
+
+**Death's Command** (Action, 1/encounter)
+- **Dice Pool:** Will 4 + Leadership 3 = 7d6
+- **Range:** 60 feet (12 squares)
+- **Damage:** None
+- **Special:** All undead allies within 60 feet immediately make one free weapon attack against the nearest enemy. Additionally, all undead allies within range gain +1 DV until end of the Commander's next turn.
+
+### Special Abilities
+
+**Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+
+**Commander's Presence:** All undead allies within 30 feet gain +1 die on attack rolls (the Commander's tactical aura organizes their assault).
+
+**Deathless Fortitude:** The first time the Grave-Knight is reduced to 0 HP per encounter, it makes a DR 3 Will save. On success, it remains at 1 HP instead and gains +2 dice on all attacks for 2 rounds (death rage).
+
+**Armored Undead:** Immune to Critical Hits (necrotic energy reinforces its form — all critical hits deal normal damage instead).
+
+**Bound Purpose:** The Grave-Knight cannot willingly leave the area it is bound to (typically a 500-foot radius). If forced outside, it loses Commander's Presence and has Disadvantage on all rolls until it returns.
+
+### Reactions
+**Parry** (Reaction, when hit by a melee attack)
+- Reduce damage taken by 5 (deflected by cursed greatsword)
+
+### Tactics
+The Grave-Knight Commander fights from within a formation of lesser undead, using Commander's Presence to strengthen them and Death's Command to unleash a devastating alpha strike. It engages the party's frontline fighter with Cursed Greatsword while its minions swarm flanks. It saves Gravetide Strike for targets that break through to threaten it directly. Deathless Fortitude makes it deceptively hard to finish — parties that expend resources to "kill" it once may find themselves facing an enraged Commander surrounded by empowered undead.
+
+**Encounter Design:** Pair with 4–6 Feralslave Ghouls (TV 0.25) or 2–3 Bone-Pyre Skeletons (TV 0.25) and 1 Nosgothian Revenant (TV 1) for a well-structured TV 5–6 encounter. The Commander's Death's Command can turn a manageable fight into a lethal one if the party ignores the minions.
+
+### Loot
+- Cursed greatsword (deals +2 Cold damage, but wielder takes 1 Cold damage per hour of use) — **Barter Value:** 80
+- Ancient commander's plate (Armor 3 physical, but cannot be removed without a Remove Curse ritual) — **Barter Value:** 60
+- Battle standard (grants +1 die on Will saves to allies within 30 feet, but attracts undead attention) — **Barter Value:** 90
+- Commander's orders (fragment of parchment revealing its original mission — plot hook) — **Barter Value:** Varies
+
+### Scaling Options
+- **Grave-Knight Squire (Standard, TV 1):** HP 25, DV 4, Fury 3, no Leadership skill. Remove Death's Command and Commander's Presence. Armor 2.
+- **Grave-Knight Warlord (Boss, TV 4):** HP 80, DV 6, Fury 5, Will 5, Leadership 5. Add Legendary Resistance (2/day) and 2 Legendary Actions per round: Cursed Greatsword (1), Death's Command (2). Commander's Presence radius increases to 60 feet.
+
+---
+
 *"Death is not the end in Nosgoth. It is merely... a transition."*

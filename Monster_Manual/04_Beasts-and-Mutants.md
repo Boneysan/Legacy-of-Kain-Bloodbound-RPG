@@ -606,6 +606,96 @@ Their most unsettling trait is their ability to seemingly vanish mid-combat, onl
 
 ---
 
+### 9. Blightmaw Alpha
+
+**Type**: Beast (Corrupted Apex Predator)  
+**Threat Tier**: Elite (Strong)  
+**Threat Value (TV):** 3  
+**Recommended Levels**: 5-9
+
+#### Lore
+Blightmaw Alphas are the apex predators of Nosgoth's corrupted wilderness — massive, six-legged reptilian beasts that have absorbed so much environmental Corruption that their bodies have mutated into living weapons. They are the dominant hunters in blighted forests, poisoned marshes, and the irradiated wastes surrounding collapsed Pillar sites.
+
+An adult Blightmaw Alpha stands eight feet at the shoulder, with a jaw span wide enough to engulf a human torso. Their hide is a patchwork of scales, tumorous growths, and exposed muscle — horrific to behold but extraordinarily tough. They hunt by ambush, lying motionless in contaminated terrain (which they are immune to) and erupting from cover when prey approaches.
+
+The most dangerous feature of a Blightmaw is its namesake — a toxic spray organ in the back of its throat that can launch a cone of corrosive, Corruption-laced bile. This spray dissolves armor, poisons flesh, and leaves lingering pools of toxic sludge that deny terrain to pursuers.
+
+Blightmaw Alphas are solitary territorial hunters. They tolerate no other large predators in their domain, and their territory often encompasses several square miles. When a Blightmaw moves into an area, everything else leaves or dies. The presence of a Blightmaw Alpha near a settlement is a crisis event.
+
+*Cross-Reference: Blightmaw corruption patterns indicate Hylden activity in the region. See Chapter 6: Hylden Forces for environmental corruption rules.*
+
+#### Stats
+- **HP**: 60
+- **Defense Value (DV)**: 5
+- **Difficulty Rating (DR)**: 3 (Physical and Blood saves), 2 (other saves)
+- **Movement**: 40 feet per turn, Swim 20 feet
+- **Armor**: 3 (corrupted hide)
+- **SE:** 0 | **BP:** 6
+
+**Attributes**:
+- Fury: 5
+- Soul: 2
+- Shadow: 3
+- Will: 3
+- Focus: 2
+- Blood: 4
+
+**Skills**:
+- Savage Attack (Fury): 3
+- Athletics (Fury): 3
+- Survival (Focus): 2
+
+#### Attacks
+**Crushing Jaws** (Fury 5 + Savage Attack 3 = 8d6)
+- Range: Melee
+- Damage: 9 Physical (Piercing)
+- Effect: On hit, the target is **Grappled** (caught in the Blightmaw's jaws). While grappled, the target takes 4 automatic Physical damage at the start of each of their turns. Escape requires a contested Fury + Athletics check against the Blightmaw's 8d6.
+
+**Toxic Spray** (Blood 4 + 0 = 4d6, 20-foot cone, Recharge 5-6)
+- Range: 20-foot cone
+- Damage: 7 Poison damage
+- Effect: All creatures in the cone must make a DR 3 Blood save. Failure: **Poisoned** (Disadvantage on all rolls) for 2 rounds. The spray leaves a pool of toxic sludge in the cone area — difficult terrain that deals 3 Poison damage to any creature that starts its turn or moves through it. The sludge persists for 3 rounds.
+
+**Trampling Charge** (Fury 5 + Athletics 3 = 8d6, requires 20 feet of movement before the attack)
+- Range: Melee
+- Damage: 10 Physical (Bludgeoning)
+- Effect: Target must make a DR 3 Blood save or be knocked **Prone**. If the Blightmaw moves through a creature's space during the charge, that creature takes 4 Bludgeoning damage (no attack roll, DR 2 Shadow save to avoid).
+
+#### Abilities
+**Corrupted Resilience**: Resistant to Poison damage (half). Immune to disease and the Poisoned condition. The Blightmaw thrives in toxic environments that would kill normal creatures.
+
+**Alpha's Roar** (1/encounter): As an Action, the Blightmaw releases a thunderous roar audible for a mile. All beast allies within 40 feet gain +2 dice on attacks for 2 rounds (rallying lesser corrupted beasts). All enemies within 40 feet must make a DR 2 Will save or be **Frightened** for 1 round.
+
+**Regeneration**: Regains 3 HP at the start of each turn. This regeneration is stopped for 1 round if the Blightmaw takes Fire or Radiant damage.
+
+**Territorial Rage**: When bloodied (below 30 HP), the Blightmaw gains +5 feet of movement speed and Advantage on Grapple-related attacks. It will not retreat from its territory under any circumstances.
+
+**Corruption-Touched**: The Blightmaw radiates faint Corruption. Creatures that start their turn grappled by it must make a DR 1 Blood save or gain 1 Corruption point (the toxins seep through contact).
+
+#### Reactions
+**Tail Lash** (Reaction, when a creature moves within 10 feet behind the Blightmaw)
+- Makes a free attack: Fury 5 + 0 = 5d6, dealing 6 Physical (Bludgeoning) and pushing the target 10 feet away
+
+#### Tactics
+The Blightmaw Alpha ambushes from concealment in corrupted terrain. It opens with Trampling Charge to knock the most armored target Prone, then follows with Crushing Jaws to grapple them. While holding prey, it uses Toxic Spray on clustered enemies who try to rescue their ally. When bloodied, Territorial Rage makes it a relentless grappler. Alpha's Roar summons any nearby corrupted beasts to join the fight.
+
+**Key Weakness:** Fire damage shuts down regeneration and deals full damage. The Blightmaw's Intelligence is animal-level — it can be baited, lured, and tricked. It will pursue fleeing prey rather than fight tactically. Destroying its lair (typically a toxic nesting pit) forces it to relocate, solving the problem without combat.
+
+**Encounter Design:** A lone Blightmaw Alpha (TV 3) is a solid mid-tier encounter. For higher challenge, pair with 2–4 Blight-Boars (TV 1) that serve as outriders flushing prey toward the Alpha. Place the encounter in a swamp or corrupted forest where the Toxic Spray sludge creates terrain denial.
+
+#### Loot
+- Blightmaw hide (extremely tough, Corruption-resistant material) — **Trade Value**: 60 supplies, can be crafted into Armor 2 that grants Poison resistance
+- Toxic spray gland (alchemical component, used to brew potent poisons or anti-toxins) — **Trade Value**: 40 supplies
+- Alpha fang (2 fangs, each the length of a human forearm) — **Trade Value**: 25 supplies each, can be crafted into a dagger that inflicts Poisoned on critical hit
+- Corrupted beast core (pulsing organic gem found in the skull) — **Trade Value**: 50 supplies, studied for Corruption research or used in Hylden-related crafting
+
+#### Scaling Options
+**Juvenile Blightmaw** (Standard, TV 1): HP 25, DV 4, Fury 3, Blood 2. Remove Alpha's Roar and Territorial Rage. Toxic Spray is a 10-foot cone dealing 4 Poison damage. No grapple on Crushing Jaws.
+
+**Blightmaw Matriarch** (Boss, TV 4): HP 85, DV 6, Fury 6, Blood 5. Add Legendary Resistance (2/day) and 2 Legendary Actions per round: Crushing Jaws (1), Toxic Spray (2, even if not recharged). Add "Brood Call" (1/encounter): summons 1d4+1 Juvenile Blightmaws from the surrounding terrain.
+
+---
+
 ## Combat Tactics & Encounter Design
 
 ### Using Beasts Effectively

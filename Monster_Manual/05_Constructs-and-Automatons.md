@@ -683,6 +683,89 @@ Drones are often the first encounter players have with Hylden technology. Their 
 
 ---
 
+### 9. Rune-Forged Warden
+
+**Type**: Construct (Ancient Guardian)  
+**Threat Tier**: Elite (Strong)  
+**Threat Value (TV):** 3  
+**Recommended Levels**: 6-10
+
+#### Lore
+Rune-Forged Wardens are among the oldest and most formidable constructs still operational in Nosgoth. They were built during the golden age of the Pillars — forged from enchanted stone and living metal, inscribed with hundreds of interlocking runic circuits that channel ambient magical energy into defensive protocols. Unlike simpler constructs that follow basic commands, Wardens possess a rudimentary tactical intelligence that allows them to adapt to threats, prioritize targets, and coordinate with other constructs.
+
+Wardens stand ten feet tall, their bodies a seamless fusion of grey stone and silver-traced runes that pulse with pale blue light. They wield massive halberds integrated into their arms — not held, but *part of them* — and project a constant runic field that punishes anyone who lingers too close. Their movements are deliberate and heavy, each step cracking stone floors, but deceptively fast when they strike.
+
+They guard the most important sites in Nosgoth: Pillar vaults, ancient libraries, sealed tombs, and dimensional barriers. A Rune-Forged Warden does not negotiate, does not tire, and does not leave its post. They have stood sentinel for thousands of years, and they will stand for thousands more — or until someone breaks them.
+
+#### Stats
+- **HP**: 60
+- **Defense Value (DV)**: 5
+- **Difficulty Rating (DR)**: 3 (Physical saves), 2 (Mental saves — partially immune)
+- **Movement**: 25 feet per turn
+- **Armor**: 4 (runic plating: Armor 4 vs Physical, Armor 2 vs Magic)
+- **Soul Energy (SE):** 10
+
+**Attributes**:
+- Fury: 4
+- Soul: 3
+- Shadow: 2
+- Will: 3
+- Focus: 4
+- Blood: 0
+
+**Skills**:
+- Melee (Fury): 3
+- Runic Defense (Focus): 4
+
+#### Attacks
+**Rune-Etched Halberd** (Fury 4 + Melee 3 = 7d6)
+- Range: Melee (10-foot reach)
+- Damage: 9 Physical (Slashing) + 3 Force damage
+- Effect: The halberd's runes flare on impact. On Critical Hit (3+ successes), the target is **Disrupted** (loses 1 SE or BP) as the runes interfere with magical energy.
+
+**Glyph Pulse** (Focus 4 + Runic Defense 4 = 8d6, Recharge 5-6, costs 3 SE)
+- Range: 20-foot radius centered on self
+- Damage: 8 Force damage
+- Effect: All creatures in the radius must make a DR 3 Shadow save or be **Pushed** 15 feet away from the Warden. Creatures that fail are also knocked **Prone**. The pulse is a visible shockwave of blue runic energy that cracks stone.
+
+**Arcane Bolt** (Soul 3 + 0 = 3d6)
+- Range: 50 feet
+- Damage: 5 Force damage
+- Effect: A minor ranged attack for targets beyond halberd reach. The Warden fires a bolt of condensed runic energy from its eyes.
+
+#### Abilities
+**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Engineering, DR 3, restores 10 HP per success).
+
+**Runic Shielding**: At the start of each of the Warden's turns, it generates a shield of 5 temporary HP (runic barrier). This shield absorbs damage before HP and does not stack — if the previous shield was not fully depleted, the remainder is replaced.
+
+**Sentinel Protocol**: The Warden cannot be moved against its will. Immune to Push, Pull, knockback, and forced teleportation effects. It stays where it stands.
+
+**Zone of Denial** (Passive): Enemies that start their turn within 10 feet of the Warden take 3 Force damage (the runic field punishes proximity). This damage is automatic and requires no roll.
+
+**Defensive Stance** (Reaction, when an ally within 10 feet is attacked): The Warden interposes, imposing **Disadvantage** on the attack roll against the ally. If both the Warden and the ally are constructs, this ability also redirects half the damage to the Warden instead.
+
+**Guardian's Vigil**: The Warden has Advantage on Observation checks to detect invisible, hidden, or disguised creatures within 60 feet (runic sensors).
+
+#### Tactics
+The Rune-Forged Warden does not pursue. It holds position and punishes anyone who enters its zone. It uses Zone of Denial to wear down melee attackers, Glyph Pulse to clear the area when surrounded, and Rune-Etched Halberd to devastate anyone in reach. It fires Arcane Bolt at ranged attackers between melee rounds. Defensive Stance protects other constructs or objects it guards.
+
+**Key Weakness:** The Warden is slow (25 feet). Kiting it at range is effective — its Arcane Bolt deals only moderate damage. Lightning damage bypasses Runic Shielding (the shield short-circuits). Destroying the runes on its body (called shot: DR 4 Focus + appropriate skill, requires declaring intent) permanently disables Runic Shielding and Zone of Denial, making it far more manageable.
+
+**Encounter Design:** A single Warden (TV 3) makes an excellent "guardian puzzle" encounter — the party must figure out how to get past it or through it. Pair with 2–4 Obsidian Drones (TV 0.25) for a TV 3.5–4 encounter where the Drones harass at range while the Warden blocks the passage.
+
+#### Loot
+- Runic core (the Warden's power source, a fist-sized crystal etched with ancient formulas) — **Trade Value**: 100 supplies, used in construct repair, ward crafting, or sold to scholars
+- Rune-etched halberd fragments (the weapon is integrated into the body and breaks on destruction, but fragments retain magical properties) — **Trade Value**: 30 supplies per fragment (1d4 fragments), used in weapon enchantment
+- Runic plating (sections of the Warden's armor) — **Trade Value**: 50 supplies, can be crafted into a shield that grants +1 DV and 3 Force resistance
+- Ancient memory log (the Warden's runic memory records thousands of years of observations — who passed, what they carried, what they said) — **Trade Value**: Priceless for historians; may contain critical plot information
+
+#### Scaling Options
+**Runic Sentry** (Standard, TV 1): HP 25, DV 4, Fury 3, Focus 3. Remove Glyph Pulse and Runic Shielding. Armor 2. Zone of Denial deals 2 Force damage.
+
+**Pillar-Forged Warden** (Boss, TV 4): HP 90, DV 6, Fury 5, Focus 5, Runic Defense 5. Add Legendary Resistance (2/day) and 2 Legendary Actions per round: Rune-Etched Halberd (1), Glyph Pulse (2, even if not recharged). Runic Shielding generates 10 temporary HP. Zone of Denial deals 5 Force damage and also reduces movement speed by 10 feet for enemies in range.
+
+---
+
 ## Combat Tactics & Encounter Design
 
 ### Using Constructs Effectively

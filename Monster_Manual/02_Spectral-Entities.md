@@ -570,4 +570,84 @@ A Gravewind Entity terrorizes the countryside, growing stronger with each soul i
 
 ---
 
+## 2.12 Wraith of the Abyss
+
+**Type:** Spectral Aberration (Abyssal)  
+**Threat Tier:** Elite (Strong)  
+**Threat Value (TV):** 3
+
+### Lore
+Wraiths of the Abyss are not merely dead souls — they are souls that fell *through* death into something worse. When the Spectral Realm's cycle of reincarnation breaks down (near corrupted Pillars, in areas where the Elder God's influence wanes, or at sites of massive soul-expenditure), some spirits plunge into the Abyss — the lightless void beneath the Spectral Realm where even wraiths fear to tread.
+
+What returns is changed. Wraiths of the Abyss carry the cold of absolute nothingness. Their forms are darker than shadow, rimmed with faint blue-white light like stars seen from the bottom of an ocean. They do not speak, but those near them hear whispers — fragments of prayers from souls the Abyss consumed. Their touch drains not just life, but *identity* — victims forget their name, their purpose, their reason for fighting.
+
+In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he was reborn. Wraiths of the Abyss may be echoes of that event — souls caught in the wake of Raziel's fall, forever tumbling through the space between existence and oblivion.
+
+### Statistics
+- **HP:** 50
+- **DV:** 5 (1 + Shadow 4)
+- **Armor:** Special (Incorporeal — immune to nonmagical physical attacks; resistant to Fire, Cold, Lightning — half damage)
+- **Movement:** 35 feet (7 squares), Fly 40 feet (hover)
+- **Attributes:** Fury 3, Soul 5, Shadow 4, Will 4, Focus 4, Blood 0
+- **Skills:** Stealth 4, Intimidation 4, Death Touch (Soul) 2
+- **SE:** 12
+
+### Attacks
+
+**Abyss Touch** (Action)
+- **Dice Pool:** Soul 5 + Death Touch 2 = 7d6
+- **Range:** Melee
+- **Damage:** 8 Soul damage
+- **Special:** Target must make DR 3 Will save or lose 2 SE. If the target has 0 SE, they take +4 bonus Soul damage instead. The touch is ice-cold and leaves black frost on the wound.
+
+**Void Scream** (Action, Recharge 5-6)
+- **Dice Pool:** Soul 5 + Intimidation 4 = 9d6
+- **Range:** 30-foot radius (6 squares), centered on self
+- **Damage:** 10 Soul damage
+- **Special:** DR 3 Will save to halve damage. Creatures that fail are also **Frightened** for 1 round and lose 1 SE. The scream sounds like a thousand voices crying out simultaneously and then going silent.
+
+**Soul Siphon** (Action, costs 3 SE)
+- **Dice Pool:** Soul 5 + Death Touch 2 = 7d6
+- **Range:** 40 feet (8 squares)
+- **Damage:** 6 Soul damage
+- **Special:** The Wraith regains HP equal to damage dealt. If this kills the target, the Wraith gains 10 temporary HP.
+
+### Special Abilities
+
+**Incorporeal:** Immune to nonmagical physical attacks. Can move through solid objects and creatures; takes 5 Force damage if it ends its turn inside a solid object.
+
+**Spectral Nature:** Immune to physical conditions (grappled, restrained, prone by physical means), poison, disease.
+
+**Abyssal Resilience:** Resistant to Fire, Cold, and Lightning damage (half damage from each). The Abyss has burned away conventional weaknesses.
+
+**Dimensional Anchor:** Cannot be banished, forced to plane-shift, or turned by conventional means. The Abyss holds the Wraith here — it has already been cast out of the afterlife and has nowhere to go.
+
+**Consume the Fallen:** When a creature dies within 30 feet of the Wraith, it gains 10 temporary HP and +1 die on its next attack roll (gorging on released soul energy).
+
+**Phase Shift:** As a Bonus Action, the Wraith becomes invisible until the start of its next turn or until it attacks. Recharge 4-6.
+
+### Reactions
+
+**Abyssal Fade** (Reaction, when hit by an attack)
+- Roll Shadow 4 + Stealth 4 = 8d6 vs DR 3
+- On success, the Wraith phases partially into the Abyss, halving all damage from the triggering attack
+
+### Tactics
+The Wraith of the Abyss is a patient predator. It uses Phase Shift to stalk the party invisibly, waiting until a PC is isolated or low on SE. It opens with Void Scream to Frighten and drain SE from the group, then focuses Abyss Touch on the most SE-depleted target for maximum damage. Soul Siphon sustains it through prolonged fights. It uses Abyssal Fade to shrug off retaliation and Consume the Fallen to snowball if it scores a kill.
+
+**Key Weakness:** The Wraith is vulnerable to Radiant damage (full damage, ignores Incorporeal — pure holy light reaches even the Abyss). Magical weapons can hit it normally. Abilities that restore SE to allies counteract its drain strategy.
+
+**Encounter Design:** A single Wraith of the Abyss makes an excellent solo encounter for a mid-level party (TV 3). Pair with 2–3 Soul-Eater Shades (TV 1 each) for a harrowing spectral ambush at TV 5–6. Place the encounter near a corrupted Pillar site or in the deep Spectral Realm for maximum thematic impact.
+
+### Loot
+- Abyssal essence (crystallized void energy, dark purple crystal) — **Barter Value:** 100, used in Spectral Realm rituals or anti-divination wards
+- Void fragment (one-use item: when shattered, creates a 10-foot radius zone of total darkness and silence for 1 minute) — **Barter Value:** 60
+- Memory shard (contains fragmented memories of the Wraith's former life — potential plot hook linking to Raziel's fall or the Abyss) — **Barter Value:** varies
+
+### Scaling Options
+- **Lesser Abyssal Shade (Standard, TV 1):** HP 22, DV 4, Soul 3, no Phase Shift or Void Scream. Remove Abyssal Resilience.
+- **Abyssal Revenant (Boss, TV 4):** HP 75, DV 6, Soul 6, Death Touch 3. Add Legendary Resistance (2/day) and 2 Legendary Actions per round: Abyss Touch (1), Void Scream (2). Add "Abyssal Gate" (1/encounter): opens a portal to the Abyss in a 20-foot radius — all creatures in the area must make DR 4 Will save or be pulled into the Spectral Realm for 1d4 rounds.
+
+---
+
 *"The Spectral Realm hungers. And what hungers never sleeps, never rests, never stops coming."*

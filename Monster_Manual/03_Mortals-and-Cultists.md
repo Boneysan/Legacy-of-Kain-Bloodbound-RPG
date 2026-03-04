@@ -716,6 +716,186 @@ The Vessel begins combat with Voice of the Pit to scatter the party, then target
 
 ---
 
+### 11. Sarafan Grand Inquisitor
+
+**Type**: Mortal Humanoid (Holy Warrior, Commander)  
+**Threat Tier**: Boss (TV 4)  
+**Recommended Levels**: 8-14
+
+#### Lore
+The Sarafan Grand Inquisitor is the highest battlefield authority of the Sarafan Order — a living weapon of faith forged through decades of undead persecution, theological indoctrination, and merciless combat. Where lesser Inquisitors question heretics, the Grand Inquisitor *judges civilizations*. They carry the full weight of the Sarafan's mandate: the extermination of all vampiric life and the purification of Nosgoth.
+
+Grand Inquisitors are terrifying not because they are monsters, but because they are *right* — or believe they are, with absolute conviction. They have seen the horrors vampires inflict. They have buried the children. They have watched villages burn. Their hatred is not blind; it is *earned*, and that makes it far more dangerous than any spell or blade.
+
+In battle, the Grand Inquisitor is a force multiplier. Their prayers empower allies, their presence breaks enemy morale, and their blessed weapons burn undead flesh on contact. They fight at the center of Sarafan formations, directing troops with battlefield precision while wading into melee personally against the greatest threats.
+
+For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mortal who cannot be intimidated, cannot be corrupted, and will never, ever stop hunting them.
+
+#### Stats
+- **HP**: 85
+- **Defense Value (DV)**: 6
+- **Difficulty Rating (DR)**: 4 (all saves)
+- **Movement**: 30 feet per turn
+- **Armor**: Heavy (Sarafan blessed plate, Armor 4 vs Physical, Armor 2 vs Magic)
+- **Soul Energy (SE):** 20
+
+**Attributes**:
+- Fury: 4
+- Soul: 5
+- Shadow: 2
+- Will: 6
+- Focus: 5
+- Blood: 3
+
+**Skills**:
+- Divine Authority (Will): 5
+- Melee (Fury): 4
+- Tactics (Focus): 4
+- Observation (Focus): 3
+
+#### Attacks
+**Purifier's Mace** (Fury 4 + Melee 4 = 8d6)
+- Range: Melee
+- Damage: 9 Physical (Bludgeoning) + 3 Radiant
+- Effect: On Critical Hit (3+ successes), the target is **Stunned** for 1 round (holy shock disrupts undead animation and mortal focus alike). Undead and vampiric creatures take +2 bonus Radiant damage on every hit.
+
+**Divine Condemnation** (Soul 5 + Divine Authority 5 = 10d6, costs 3 SE)
+- Range: 60 feet
+- Damage: 8 Radiant + 4 Soul damage
+- Effect: Undead and vampiric targets take double the Radiant portion (16 Radiant). On Critical Hit, the target is **Marked by the Sarafan** — all Sarafan allies gain +1 die on attacks against it for 3 rounds.
+
+**Sanctified Judgment** (Will 6 + Divine Authority 5 = 11d6, Recharge 5-6, costs 5 SE)
+- Range: 40-foot radius centered on self
+- Damage: 12 Radiant damage to all enemies in radius
+- Effect: DR 4 Will save to halve. Undead and vampiric creatures that fail are also **Frightened** for 2 rounds. Allied Sarafan in the area regain 5 HP.
+
+#### Abilities
+**Sanctified Aura** (Passive): All Sarafan allies within 20 feet gain +1 die on Will saves. Undead and vampiric PCs have **Disadvantage** on attack rolls while within the aura. The aura is suppressed for 1 round if the Grand Inquisitor takes 15+ damage in a single hit.
+
+**Unshakable Faith**: Immune to fear, charm, Domination, and Corruption. Automatically succeeds on Will saves against mind-control effects.
+
+**Inquisitor's Judgment**: The Grand Inquisitor can sense undead and vampiric creatures within 120 feet, regardless of disguise, invisibility, or Mist Form. This detection is supernatural (holy instinct) and cannot be fooled by mundane means. Magical concealment requires a contested roll: the concealer's pool vs the Inquisitor's Will 6 + Observation 3 = 9d6.
+
+**Legendary Resistance (2/day)**: When the Grand Inquisitor fails a save, it can choose to succeed instead.
+
+**Legendary Actions (3 per round)**:
+- **Move**: Move up to half speed without provoking opportunity attacks (1 action)
+- **Purifier's Mace**: Make one Purifier's Mace attack (1 action)
+- **Divine Condemnation**: Use Divine Condemnation (2 actions)
+- **Rally the Faithful** (2 actions): All Sarafan allies within 30 feet regain 5 HP and gain +1 DV until the start of the Grand Inquisitor's next turn
+
+#### Reactions
+**Sarafan Shield** (Reaction, when an ally within 10 feet is hit by an attack)
+- The Grand Inquisitor interposes, redirecting the attack to itself. The Grand Inquisitor takes the damage instead, reduced by its Armor.
+
+#### Tactics
+- **Open with Sanctified Judgment**: The Grand Inquisitor begins by blasting enemies in a massive Radiant AoE, Frightening undead and healing allies simultaneously.
+- **Focus on Vampires**: Divine Condemnation deals devastating double Radiant to undead/vampiric targets. The Inquisitor prioritizes vampire PCs relentlessly.
+- **Sanctified Aura Control**: The Inquisitor positions centrally to maximize aura coverage. Moving away from the aura is the single most important tactical decision for vampire PCs.
+- **Rally the Faithful**: Legendary Actions sustain Sarafan troops, making them harder to kill and creating an attrition fight the party struggles to win.
+- **Sarafan Shield**: Protects key allies (priests, archers) from being picked off by assassination tactics.
+
+**Key Weakness:** The Grand Inquisitor is mortal. No regeneration, no Mist Form, no resurrection. Overwhelm with sustained damage, separate from allies, or attack at range to avoid the Sanctified Aura. Disrupting SE (via drain or anti-magic effects) severely limits Divine Condemnation and Sanctified Judgment.
+
+#### Loot
+- Purifier's Mace (holy weapon, deals +3 Radiant to undead; wielder who is undead/vampiric takes 3 Radiant per round while holding it) — **Trade Value**: 150 supplies
+- Sarafan Grand Plate (Armor 4 Physical, Armor 2 Magic, grants immunity to fear; bears Sarafan insignia, making the wearer a target for all vampire factions) — **Trade Value**: 200 supplies
+- Holy symbol of the Grand Inquisitor (cast Divine Condemnation 1/day, DR 3 Soul check required) — **Trade Value**: 120 supplies
+- Sealed orders (reveals Sarafan strategic objectives, troop movements, or targeted individuals — major plot hook) — **Trade Value**: Priceless to the right faction
+- Sanctified oil (3 doses, weapons coated deal +2 Radiant for 1 hour) — **Trade Value**: 30 supplies per dose
+
+#### Scaling Options
+**Sarafan Inquisitor-Captain** (Elite, TV 2): HP 50, DV 5, -1 to all attributes. Remove Legendary Actions and Legendary Resistance. Remove Sanctified Judgment. Reduce SE to 10.
+
+**Sarafan High Inquisitor** (Legendary, TV 6+): HP 130, Will 7, Soul 6. Legendary Resistance 3/day. Add "Holy Crusade" Legendary Action (3 actions): All Sarafan within 60 feet make one free attack and gain +2 DV for 1 round. Add Lair Actions for Sarafan fortresses.
+
+---
+
+### 12. The Turning
+
+**Type**: Mortal/Undead Hybrid (Mid-Transformation)  
+**Threat Tier**: Elite (Strong)  
+**Threat Value (TV):** 3  
+**Recommended Levels**: 5-9
+
+#### Lore
+The Turning is neither human nor vampire — it is the horrific, agonizing space *between*. When a mortal is infected with vampiric blood but the transformation stalls — through incomplete ritual, interrupted feeding, magical interference, or sheer biological incompatibility — the result is a creature trapped in metamorphosis. Bones crack and reform. Skin splits and heals wrong. The mind fractures between mortal terror and vampiric hunger.
+
+Turnings are pitiable and extremely dangerous. They lash out at everything nearby, unable to control their new strength or distinguish friend from foe. They scream in voices that shift between human sobbing and bestial snarling. Some retain enough humanity to beg for death. Others have already surrendered to the hunger.
+
+The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire clans see them as failed experiments or tragic accidents. For the victims themselves, every second is agony.
+
+**Narrative Note:** The Turning is designed as a moral encounter. The creature was recently a person — possibly someone the party knew. A successful Rituals check can save them. This creates tension between "kill the monster" and "save the victim."
+
+#### Stats
+- **HP**: 55
+- **Defense Value (DV)**: 5
+- **Difficulty Rating (DR)**: 3 (Physical and Blood saves), 2 (others)
+- **Movement**: 35 feet per turn
+- **Armor**: 2 (twisted, hardening flesh)
+- **SE:** 0 | **BP:** 3
+
+**Attributes**:
+- Fury: 5
+- Soul: 2
+- Shadow: 3
+- Will: 2
+- Focus: 2
+- Blood: 4
+
+**Skills**:
+- Savage Attack (Fury): 3
+- Endurance (Blood): 3
+
+#### Attacks
+**Rending Claws** (Fury 5 + Savage Attack 3 = 8d6)
+- Range: Melee
+- Damage: 8 Physical (Slashing) + Bleeding
+- Effect: On Critical Hit (3+ successes), inflicts 2 Bleeding stacks (4 damage per turn). The Turning's newly formed claws are ragged and tear flesh in jagged strips.
+
+**Desperate Bite** (Fury 5 + Savage Attack 3 = 8d6, requires target is Grappled or Prone)
+- Range: Melee
+- Damage: 10 Physical (Piercing) + 5 HP drain
+- Effect: The Turning regains 5 HP. The bitten target must make a DR 2 Blood save or contract **Vampiric Taint** (1 Corruption point; if the target reaches 5+ Corruption from this source, they begin their own Turning in 1d6 days — plot hook, not mechanical transformation).
+
+**Blood Cry** (Blood 4 + 0 = 4d6, 20-foot radius, Recharge 5-6)
+- Range: Self-centered, 20-foot radius
+- Damage: None
+- Effect: All enemies in the radius must make a DR 3 Will save or be **Frightened** for 1 round. Creatures that fail by 3+ are also **Shaken** (−1 die on all rolls) for 2 rounds. The cry is a harrowing blend of human screaming and vampiric shrieking.
+
+#### Abilities
+**Unstable Form**: At the start of each of the Turning's turns, roll 1d6:
+- **1–2**: The transformation falters. The Turning suffers 5 damage as its body rejects the vampiric blood (muscle tears, bone fractures). It has Disadvantage on its next attack.
+- **3–4**: No change. The transformation holds.
+- **5–6**: The transformation surges. The Turning regains 5 HP as vampiric vitality floods through it. It gains +1 die on its next attack.
+
+**Vampiric Resilience**: Regenerates 3 HP at the start of each turn. This regeneration is stopped for 1 round if the Turning takes Radiant or Fire damage.
+
+**Feral Desperation**: When reduced below half HP (27 or less), the Turning gains +2 dice on all attack rolls but loses the ability to distinguish friend from foe — it attacks the nearest creature regardless of allegiance. The GM controls targeting.
+
+**Tragic Nature**: A DR 4 Medicine or Rituals check as an Action can identify that this creature was recently human and that the transformation is incomplete. A DR 5 Rituals check performed over 3 consecutive rounds (the caster must maintain concentration and remain within 5 feet) can halt the transformation, reverting the creature to an unconscious mortal with 1 HP and 3 Corruption. The Turning fights normally during this process.
+
+#### Reactions
+**Lashing Reflex** (Reaction, when a creature enters melee range)
+- The Turning makes one Rending Claws attack with Disadvantage against the triggering creature (uncontrolled flailing)
+
+#### Tactics
+The Turning has no tactics — it is a creature in agony, acting on fractured instinct. It charges the nearest creature and uses Rending Claws repeatedly. When an enemy is Prone or Grappled, it uses Desperate Bite to feed. It uses Blood Cry reflexively when surrounded. When Feral Desperation triggers, it becomes a true hazard for everyone on the battlefield.
+
+**Encounter Design:** The Turning works best as a morally complex encounter. Place it in a location where the party has context — a village, a friend's home, a Sarafan prison. Pair with environmental storytelling (broken chains, scattered personal belongings, blood trails) to establish that this was someone. The Tragic Nature ability gives compassionate parties a path to salvation, but the 3-round Rituals check is risky while the creature fights.
+
+#### Loot
+- Shredded personal effects (reveal identity of the victim) — **Trade Value**: Varies
+- Vampiric blood sample (unstable, useful in alchemy or Corruption research) — **Trade Value**: 20 supplies
+- If saved: the living victim, who may become an ally, informant, or ongoing responsibility
+
+#### Scaling Options
+**Early Turning** (Standard, TV 1): HP 25, DV 4, Fury 3, Blood 2. Remove Feral Desperation. Unstable Form always rolls 1–2 (the transformation is failing). DR 3 Rituals check to save (only 1 round needed).
+
+**Complete Turning** (Boss, TV 4): HP 75, DV 6, Fury 6, Blood 5. Remove Tragic Nature (the person is gone). Add Vampiric Regeneration 5 HP/turn. Add Legendary Actions (2/round): Rending Claws (1), Blood Cry (2). The creature is now a full feral vampire in all but name.
+
+---
+
 ## Combat Tactics & Encounter Design
 
 ### Using Mortals Effectively

@@ -1,7 +1,7 @@
 # Monster Manual — Improvement Roadmap
 
 > **Audit Date:** March 3, 2026  
-> **Last Updated:** June 2025 — Tier 1–4 fixes applied across all chapters  
+> **Last Updated:** March 2026 — Tier 1–4 fixes applied across all chapters; Tier 2 critical content gaps resolved  
 > **Scope:** All 10 chapters (00–09) reviewed against Core Mechanics, Combat, Dice System, Encounter Design, and Character Progression rules.
 
 ---
@@ -51,11 +51,11 @@ These are cross-chapter inconsistencies that break mechanical compatibility and 
 
 | TV Tier | Ch1 Undead | Ch2 Spectral | Ch3 Mortals | Ch4 Beasts | Ch5 Constructs | Ch6 Hylden | Ch7 Elemental | Ch8 Ancient | Ch9 Legendary | **Total** |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **0.25 (Minion)** | 2 | 1 | 2 | 1 | 1 | **0** | 0 | 0 | 0 | **7** |
+| **0.25 (Minion)** | 2 | 1 | 2 | 1 | 1 | 1 | 0 | 0 | 0 | **8** |
 | **1 (Standard)** | 3 | 4 | 3 | 3 | 2 | 2 | 0 | 0 | 0 | **17** |
 | **2 (Elite)** | 3 | 2 | 5 | 4 | 3 | 5 | 0 | 0 | 0 | **22** |
-| **3** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
-| **4 (Boss)** | 0 | 1 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | **4** |
+| **3** | 1 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | **6** |
+| **4 (Boss)** | 1 | 1 | 1 | 0 | 2 | 1 | 0 | 0 | 0 | **6** |
 | **9–14** | 0 | 0 | 0 | 0 | 0 | 0 | 8 | 5 | 0 | **13** |
 | **15–19** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 8 | **11** |
 | **20+** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **0** | **0** |
@@ -64,13 +64,13 @@ These are cross-chapter inconsistencies that break mechanical compatibility and 
 
 | Gap | Impact | Priority |
 |---|---|---|
-| **TV 3 is completely empty** | No bridge between Elite (TV 2) and Boss (TV 4) — entire mid-tier missing | **CRITICAL** |
+| **TV 3 is completely empty** | No bridge between Elite (TV 2) and Boss (TV 4) — entire mid-tier missing | ✅ **RESOLVED** — 6 TV 3 creatures added (1 per Ch1–6) |
 | **TV 5–8 is empty** | Massive jump from Ch1–6 (TV 0.25–4) to Ch7 (TV 9+); mid-level play has no dedicated creatures in upper chapters | **HIGH** |
 | **TV 20+ is absent** | No true apex entity for endgame campaigns | **HIGH** |
-| **Ch1 and Ch3 have no Boss stat blocks** | Only scaling sidebars — most-used chapters lack standalone Boss entries | **HIGH** |
-| **Ch6 has no Minion tier** | Can't run Hylden fodder encounters | **MEDIUM** |
+| **Ch1 and Ch3 have no Boss stat blocks** | Only scaling sidebars — most-used chapters lack standalone Boss entries | ✅ **RESOLVED** — Nosgothian Vampire Overlord (Ch1, TV 4) and Sarafan Grand Inquisitor (Ch3, TV 4) added |
+| **Ch6 has no Minion tier** | Can't run Hylden fodder encounters | ✅ **RESOLVED** — Hylden-Possessed Grunt (TV 0.25) added to Ch6 |
 | **TV 14 has only 1 creature** (Bloodhail Cyclone) | Thin mid-high tier | **MEDIUM** |
-| **Only 7 Minions total** across the entire book | Low-level encounter variety is constrained | **MEDIUM** |
+| **Only 7 Minions total** across the entire book | Low-level encounter variety is constrained — now 8 Minions | **MEDIUM** |
 
 ---
 
@@ -259,7 +259,7 @@ These are cross-chapter inconsistencies that break mechanical compatibility and 
 
 | TV | Current Count | Target Count | Action Required |
 |---|---|---|---|
-| **TV 3** | 0 | ~5–6 | Add 1 per chapter across Ch1–6 |
+| **TV 3** | 6 | ~5–6 | ✅ **RESOLVED** — 1 added per chapter across Ch1–6 |
 | **TV 5–8** | 0 | ~4–6 | Add bridge creatures connecting low and high chapters |
 | **TV 14** | 1 | 2–3 | Add 1–2 creatures in Ch7/Ch8 |
 | **TV 20+** | 0 | 1–2 | Elder God + one other apex entity in Ch9 |
@@ -279,16 +279,23 @@ These are cross-chapter inconsistencies that break mechanical compatibility and 
 3. ✅ **Add Legendary Resistance to all Ch9 entities**  
    All 8 Legendary Entities now have Legendary Resistance (2–3/day based on TV).
 
-### Tier 2 — Critical Content Gaps (REMAINING)
+### Tier 2 — Critical Content Gaps ✅ ALL RESOLVED
 
-4. **Write full Boss stat blocks for Ch1 (Vampire Lord) and Ch3 (Grand Inquisitor)**  
-   The two most-used chapters have no standalone Boss entries — only scaling sidebars. A properly statted TV 4 Boss for each is essential.
+4. ✅ **Write full Boss stat blocks for Ch1 (Vampire Lord) and Ch3 (Grand Inquisitor)**  
+   **Nosgothian Vampire Overlord** (Ch1, §1.11, TV 4): HP 90, DV 6, Legendary Resistance 3/day, 3 Legendary Actions/round. Full Boss with Blood Dominion (Charm), Crimson Torrent (cone AoE), Mist Form (death-save mechanic), and Command Undead. Includes scaling from TV 2 Diminished to TV 6+ Ancient Overlord.  
+   **Sarafan Grand Inquisitor** (Ch3, §11, TV 4): HP 85, DV 6, Legendary Resistance 2/day, 3 Legendary Actions/round. Full Boss with Sanctified Aura (anti-vampire debuff zone), Divine Condemnation (double Radiant vs undead), Sanctified Judgment (40ft Radiant AoE). Includes scaling from TV 2 Captain to TV 6+ High Inquisitor with Lair Actions.
 
-5. **Create TV 3 creatures**  
-   At minimum, one per chapter across Ch1–6 to fill the complete void between Elite (TV 2) and Boss (TV 4).
+5. ✅ **Create TV 3 creatures**  
+   Six TV 3 creatures added, one per chapter across Ch1–6, filling the void between Elite (TV 2) and Boss (TV 4):  
+   - **Grave-Knight Commander** (Ch1, §1.12): Intelligent undead martial leader with Commander's Presence (+1 die to undead allies) and Deathless Fortitude.  
+   - **Wraith of the Abyss** (Ch2, §2.12): Abyssal spectral entity with SE drain, Void Scream AoE, Phase Shift invisibility, and Dimensional Anchor (immune to banishment).  
+   - **The Turning** (Ch3, §12): Mortal mid-vampiric transformation with Unstable Form (random d6 effects), Feral Desperation (attacks anyone when bloodied), and Tragic Nature (can be saved with Rituals checks).  
+   - **Blightmaw Alpha** (Ch4, §9): Corrupted apex predator with Crushing Jaws grapple, Toxic Spray cone, Trampling Charge, and Alpha's Roar rallying ability.  
+   - **Rune-Forged Warden** (Ch5, §9): Ancient Pillar-era construct with Zone of Denial (passive damage aura), Runic Shielding (regenerating temp HP), Sentinel Protocol (immune to forced movement), and Defensive Stance.  
+   - **Hylden Rift-Priest** (Ch6, §9): Hylden caster with Corruption Lance, Rift Tear (AoE teleport scatter), Corruption Pulse, and Dimensional Tether (summons Grunts).
 
-6. **Add a Hylden Minion (Ch6) and expand Minions overall**  
-   Ch6 has zero Minion-tier creatures. The whole book only has 7 Minions across ~60+ entries.
+6. ✅ **Add a Hylden Minion (Ch6) and expand Minions overall**  
+   **Hylden-Possessed Grunt** (Ch6, §10, TV 0.25): HP 8, DV 3. Expendable possessed mortal with Crude Weapon Strike, Corrupted Grasp, Hivemind Fodder (+1 die near other Hylden), and Expendable Host (25% death-lash). Designed as cannon fodder for combined-arms Hylden encounters. Total Minion count: 7→8.
 
 ### Tier 3 — Balance Corrections ✅ ALL RESOLVED
 

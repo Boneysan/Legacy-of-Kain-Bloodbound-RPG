@@ -682,6 +682,166 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 
 ---
 
+### 9. Hylden Rift-Priest
+
+**Type**: Hylden (Ritualist/Caster)  
+**Threat Tier**: Elite (Strong)  
+**Threat Value (TV):** 3  
+**Recommended Levels**: 8-13
+
+#### Lore
+Hylden Rift-Priests are the spiritual leaders of Hylden incursions — ancient Hylden minds that specialize in tearing holes between dimensions and flooding the material world with Corruption. Where Shock Troopers are the fist of a Hylden invasion, Rift-Priests are the door. They possess hosts with strong magical aptitude (sorcerers, hedge-witches, or rarely, Pillar acolytes) and transform them into living conduits for dimensional energy.
+
+Rift-Priests are recognizable by the geometric scars that cover their host’s body — Hylden ritual circuits burned into the flesh. Their eyes glow not green like standard Hylden-possessed, but deep violet, reflecting the energy of the dimension beyond. When they channel their power, the scars light up in sequence, and the fabric of reality visibly warps around them — walls bend, gravity shifts, and the air fills with the acrid taste of ozone and copper.
+
+They serve as force multipliers for Hylden operations: opening rifts to bring reinforcements, spreading Corruption to weaken defenders, and performing rituals that permanently compromise the barrier between dimensions. A Rift-Priest left unchecked can turn an isolated incursion into a full-scale invasion.
+
+#### Stats
+- **HP**: 55
+- **Defense Value (DV)**: 5
+- **Difficulty Rating (DR)**: 4 (Will saves), 3 (other saves)
+- **Movement**: 30 feet per turn
+- **Armor**: 2 (bio-ritual vestments: Armor 2 vs Physical, immune to Spectral damage)
+- **Soul Energy (SE):** 15
+
+**Attributes**:
+- Fury: 2
+- Soul: 5
+- Shadow: 3
+- Will: 5
+- Focus: 4
+- Blood: 2
+
+**Skills**:
+- Rift Channeling (Soul): 4
+- Corruption Rituals (Will): 4
+- Forbidden Knowledge (Soul): 3
+
+#### Attacks
+**Corruption Lance** (Soul 5 + Rift Channeling 4 = 9d6, costs 2 SE)
+- Range: 60 feet
+- Damage: 7 Corruption + 3 Soul damage
+- Effect: On hit, target must make a DR 3 Will save or gain 1 Corruption point. The lance appears as a beam of violet-black energy that leaves hairline fractures in reality along its path.
+
+**Rift Tear** (Soul 5 + Rift Channeling 4 = 9d6, Recharge 5-6, costs 5 SE)
+- Range: 30-foot radius centered on a point within 60 feet
+- Damage: 10 Force damage to all creatures in the radius
+- Effect: DR 3 Shadow save or be teleported 2d6 × 5 feet in a random direction (1d8 for direction). The Rift-Priest tears open a momentary hole in reality, scattering enemies and breaking formations.
+
+**Corruption Pulse** (Will 5 + Corruption Rituals 4 = 9d6, 1/encounter)
+- Range: 20-foot radius centered on self
+- Damage: None
+- Effect: All enemies in the radius must make a DR 4 Will save. On failure: gain 2 Corruption points + **Disadvantage** on next roll. On success: gain 1 Corruption point. The Rift-Priest pulses raw dimensional energy outward, contaminating everything nearby.
+
+#### Abilities
+**Hylden Nature:** Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage). *(See Shared Traits at the beginning of this chapter.)*
+
+**Rift Conduit**: At the start of each of the Rift-Priest's turns, it regains 2 SE (drawing power directly from the dimension beyond). Maximum SE: 15.
+
+**Corruption Aura** (Passive): Creatures that start their turn within 15 feet of the Rift-Priest must make a DR 2 Will save or gain 1 Corruption point. Each creature can only be affected once per encounter by this aura. The air around the Rift-Priest shimmers with visible dimensional distortion.
+
+**Dimensional Tether** (1/encounter, Bonus Action): The Rift-Priest tears open a small rift within 30 feet, summoning 1d4 **Hylden-Possessed Grunts** (TV 0.25, see entry below) that appear in unoccupied spaces adjacent to the rift. The Grunts act on the Rift-Priest’s initiative and fight until destroyed. The rift closes at the end of the Rift-Priest’s next turn.
+
+**Reality Distortion Aura** (Optional): As described in Shared Traits — enemies within 15 feet have Disadvantage on Observation checks.
+
+#### Reactions
+**Dimensional Flicker** (Reaction, when hit by a melee attack)
+- The Rift-Priest briefly phases between dimensions, reducing the damage by 5 and teleporting 10 feet in any direction
+
+#### Tactics
+The Rift-Priest fights from the backline behind Shock Troopers or summoned Grunts. It opens with Corruption Pulse to contaminate the party, then uses Corruption Lance to wear down targets from range. Rift Tear scatters the party when they try to close distance or form formations. Dimensional Tether provides expendable meat shields. Rift Conduit ensures it rarely runs dry on SE.
+
+**Key Weakness:** The Rift-Priest is fragile in melee (Fury 2, Armor 2). Closing to melee range and staying there — past the Dimensional Flicker reaction — forces it into a losing fight. Radiant damage bypasses its resistances and deals bonus damage. Anti-magic effects or abilities that suppress SE regeneration cripple its offensive capability.
+
+**Encounter Design:** Pair with 2 Hylden Shock Troopers (TV 2 each) for a TV 7 encounter that captures the combined-arms feel of a Hylden incursion. The Rift-Priest opens rifts and spreads Corruption while Troopers hold the line. Alternatively, pair with 4–6 Hylden-Possessed Grunts (TV 0.25 each) for a TV 4–4.5 encounter focused on the Rift-Priest as the priority target.
+
+#### Loot
+- Rift-attuned focus crystal (glowing violet crystal used to channel dimensional energy) — **Trade Value**: 80 supplies, can be used to detect dimensional weaknesses or power anti-Hylden wards
+- Bio-ritual vestments (robes inscribed with Hylden circuit-scars) — **Trade Value**: 60 supplies, can be studied for Corruption resistance research or used as a disguise in Hylden-controlled areas
+- Dimensional anchor shard (one-use item: when activated, suppresses teleportation and dimensional travel within 30 feet for 1 minute) — **Trade Value**: 50 supplies
+- Rift-Priest’s journal (encoded in Hylden, details invasion plans, ritual schedules, and Corruption spread targets) — **Trade Value**: Priceless for intelligence; decoding requires DR 4 Forbidden Knowledge check
+
+#### Scaling Options
+**Hylden Rift Acolyte** (Standard, TV 1): HP 25, DV 4, Soul 3, Will 3. Remove Corruption Pulse and Dimensional Tether. Corruption Lance deals 4 Corruption + 2 Soul, costs 1 SE. No Corruption Aura.
+
+**Hylden Arch-Priest** (Boss, TV 4): HP 80, DV 6, Soul 6, Will 6. Add Legendary Resistance (2/day) and 2 Legendary Actions per round: Corruption Lance (1), Rift Tear (2, even if not recharged). Dimensional Tether summons 2d4 Grunts. Add "Permanent Rift" (1/encounter): tears open a rift that persists for 1 minute, summoning 1d4 Grunts each round.
+
+---
+
+### 10. Hylden-Possessed Grunt
+
+**Type**: Hylden (Possessed Mortal)  
+**Threat Tier**: Minion (TV 0.25)  
+**Recommended Levels**: 1-6
+
+#### Lore
+Hylden-Possessed Grunts are the lowest tier of Hylden military force — ordinary mortals seized by minor Hylden spirits that lack the power or skill to properly control their hosts. The result is a crude, barely functional puppet: strong enough to swing a weapon, tough enough to absorb a hit, but clumsy, uncoordinated, and operating on the simplest possible instructions.
+
+Grunts are easy to spot. Their movements are wrong — arms swinging out of sync with legs, heads lolling at uncomfortable angles, eyes flickering between the host’s natural color and sickly Hylden green. They groan and mutter in a blend of the host’s language and fragments of Hylden, producing an unsettling babble that is more animal than intelligent.
+
+The Hylden use Grunts as expendable shock troops, scouts, and distractions. They are thrown at enemies to absorb attacks and buy time for more valuable forces. The possessing spirits know they are disposable and feel nothing for their hosts — when the body breaks, the spirit simply dissipates, leaving a dead mortal behind.
+
+For GMs, Grunts solve a critical gap in Hylden encounters: the need for low-tier Hylden fodder. Without them, every Hylden fight involves Elite or Boss creatures, making the faction inaccessible for lower-level parties or overwhelming in large-scale battles. Grunts provide the cannon fodder that makes combined-arms Hylden encounters possible.
+
+#### Stats
+- **HP**: 8
+- **Defense Value (DV)**: 3
+- **Difficulty Rating (DR)**: 1 (all saves)
+- **Movement**: 30 feet per turn
+- **Armor**: 1 (patchwork armor scavenged from the host’s surroundings)
+- **SE:** 0 | **BP:** 0
+
+**Attributes**:
+- Fury: 3
+- Soul: 1
+- Shadow: 2
+- Will: 2
+- Focus: 1
+- Blood: 2
+
+**Skills**:
+- Melee (Fury): 1
+
+#### Attacks
+**Crude Weapon Strike** (Fury 3 + Melee 1 = 4d6)
+- Range: Melee
+- Damage: 4 Physical damage
+- Effect: On Critical Hit (3+ successes), the target must make a DR 1 Will save or gain 1 Corruption point (Hylden essence bleeds through the weapon on impact).
+
+**Corrupted Grasp** (Fury 3 + 0 = 3d6)
+- Range: Melee
+- Damage: 3 Physical + 1 Corruption damage
+- Effect: Target must make a DR 1 Blood save or be **Grappled** (the Grunt clings with unnatural tenacity). While grappled, the target takes 1 Corruption damage at the start of each of their turns.
+
+#### Abilities
+**Hylden Nature:** Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage). *(See Shared Traits at the beginning of this chapter.)*
+
+**Expendable Host**: When reduced to 0 HP, the possessed body collapses. There is a 25% chance (roll 1d4; on a 1) the Hylden spirit lashes out in its death throes: all creatures within 5 feet must make a DR 1 Will save or take 2 Soul damage.
+
+**Hivemind Fodder**: Gains +1 die on attack rolls when within 10 feet of another Hylden creature (telepathic coordination from more powerful Hylden nearby). Maximum bonus: +2 dice.
+
+**Distorted Movement**: The Grunt moves with eerie, jerky motions that are difficult to predict. Creatures making Opportunity Attacks against the Grunt have **Disadvantage**.
+
+**Barely Functional**: The possessing spirit has limited control. The Grunt cannot use complex tactics, operate machinery, or communicate intelligibly. It follows one-word commands from higher-ranking Hylden: "attack," "guard," "advance," "hold."
+
+#### Tactics
+Grunts swarm in groups of 4–8. They charge the nearest enemy and use Crude Weapon Strike repeatedly. If directed by a higher-ranking Hylden (Shock Trooper, Rift-Priest, Oracle), they focus fire on a single target or use Corrupted Grasp to pin down priority enemies (healers, casters) for the rest of the force to finish. They never retreat.
+
+**Encounter Design:** Use Grunts as the filler in Hylden encounters. They provide action economy, absorb hits, and spread minor Corruption. A group of 4 Grunts (TV 1 total) paired with 1 Shock Trooper (TV 2) creates a TV 3 encounter. A wave of 8 Grunts (TV 2) led by a Rift-Priest (TV 3) creates a TV 5 encounter with asymmetric threat distribution.
+
+#### Loot
+- Crude weapon (club, axe, or improvised) — **Trade Value**: 1 supply
+- Patchwork armor (barely functional) — **Trade Value**: 1 supply
+- Host’s personal effects (identity documents, family trinkets, letters — reminders that this was a person) — **Trade Value**: varies; often serve as plot hooks or moral weight
+- Faint Hylden residue (trace amounts of dimensional energy on the corpse) — **Trade Value**: 5 supplies if harvested with DR 2 Forbidden Knowledge check; used in Hylden detection rituals
+
+#### Scaling Options
+**Fresh Grunt** (Minion, TV 0.125): HP 4, DV 2, Fury 2. The possession is minutes old; the host is still partially conscious and may cry for help. Deals only 2 Physical damage. Morally devastating to fight.
+
+**Veteran Grunt** (Standard, TV 1): HP 18, DV 4, Fury 4, Melee 2. The possessing spirit has fully integrated with the host. Add "Hylden Surge" ability (Soul 1 + 0 = 1d6, 10-foot radius, 1/encounter): deals 3 Corruption damage to all creatures in the area. More coordinated and dangerous.
+
+---
+
 ## Combat Tactics & Encounter Design
 
 ### Using Hylden Effectively
