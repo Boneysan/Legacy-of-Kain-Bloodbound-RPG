@@ -67,6 +67,24 @@ Movement: Full speed across corrupted or glyph-infused terrain; surge 10 ft once
 Narrative Hook: Bearers of ancient wrath, seeking dominion or revenge.
 
 
+Revenant:
+
+Description: Half-wraith, half-corpse beings risen by will, rejected by death, or revived by necromancy. Driven by unfinished business, they rot but persist.
+Bonuses: +1 to Concentration and +1 to Rituals skills.
+Unique Trait: Unyielding Purpose — revive with 1 HP once per arc at 0 HP; once per scene, ignore difficult terrain or gain +2 damage toward unfinished business.
+Movement: Treat graves and crypts as normal ground; collapse into ash once per rest to move through bars or cracks.
+Narrative Hook: Defying the grave, serving a second purpose.
+
+
+Unbound:
+
+Description: Anomalies outside fate's pattern — possibly temporal echoes or Elder God shards. They resist prophecy and exhibit unnatural luck.
+Bonuses: +1 to any skill and +1 to Insight or Observation.
+Unique Trait: Untethered Soul — immune to one fate-altering magical effect per session; Probability Shift allows re-rolling 1–2 dice once per scene.
+Movement: Treat difficult terrain as normal for 1 round per rest; teleport 20 ft as Bonus Action once per session.
+Narrative Hook: Broken from destiny's tapestry, proof fate can be hacked.
+
+
 
 ## 1.4 Step 3: Choose a Class
 Select a class to define your character’s combat style and abilities. Each class grants unique perks, starting HP, a skill point pool (6–10 points), perk tree access, and starting gear. Examples include:

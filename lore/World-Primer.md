@@ -17,6 +17,10 @@ This primer orients players and GMs to the people, powers, and places of Nosgoth
 - Major Themes
 - Key Factions
 - Legendary Figures
+- The Nine Pillars — Domains and Corruption
+- Religions, Beliefs, and Philosophies
+- Daily Life in a Dying World
+- Prophecy Compendium
 - Key Locations
 - Timeline of Major Events
 - The Spectral Realm
@@ -45,15 +49,61 @@ This is a world where the past refuses to die, where destinies loop back upon th
 
 **Sarafan Order:** Zealot humans hunting the undead with glyph magic—once the wrathful arm of the Circle, now a resurrected crusade. They march in white and gold, chanting hymns that burn the air, their armor etched with sigils that glow faintly in darkness. Historically wiped out by Kain, they have returned (through time-magic or fanatical revival) to cleanse Nosgoth. To see a Sarafan inquisitor is to see conviction without mercy: they will torch a village to kill one vampire, and call it salvation.
 
-**Vampire Clans:** Fractured broods under Kain's shadow; proud, territorial, and bound by ancient slights. Each clan bears the mark of their progenitor—some with wings like torn silk, others with claws that carve stone. They gather in crypts and towers, speaking in riddles and veiled insults, their politics a dance of blood debts centuries old. To be sired is to inherit grudges you did not earn.
+- **Structure:** The Order is ruled by a Grand Castellan and a council of Knight-Confessors, each commanding a fortress-diocese. Rank is earned through purges and proclaimed by brand-marks on the forearm—one scar per confirmed kill.
+- **Internal fractures:** The "Hollow Sarafan" faction, protected by forbidden glyphs and soul engines in the Hollow Fortress, has declared total crusade—razing settlements and defiling even sacred sites. Moderate Sarafan view them as heretics wearing the Order's face.
+- **What they want from PCs:** Recruits, informants, proof of vampire nests. What they offer: sanctuary, glyph-warded equipment, absolution of sins. What they take: obedience, free will, and sometimes your neighbors.
+- **Conflicts with:** Vampire Clans (eradication goal), Pale Accord (branded heretics for studying forbidden knowledge), Hylden Remnants (unholy alien presence), Crimson Fracture (abominations to be purged). Zealotry makes negotiation nearly impossible, but individual commanders may be corruptible or pragmatic.
+
+**Vampire Clans (Scions of Kain):** Fractured broods under Kain's shadow; proud, territorial, and bound by ancient slights. Each clan bears the mark of their progenitor—some with wings like torn silk, others with claws that carve stone. They gather in crypts and towers, speaking in riddles and veiled insults, their politics a dance of blood debts centuries old. To be sired is to inherit grudges you did not earn.
+
+- **The six clans:** Razielim (decimated, spectral), Turelim (fortress-builders, telekinetic), Dumahim (stoic titans), Zephonim (spider-kin, infiltrators), Melchiahim (flesh-weavers, corpsecraft), Rahabim (water-dwellers, amphibious). Each controls territory reflecting its nature—spires, catacombs, swamps, flooded ruins.
+- **Governance:** A Truce of Nights can be called by any clan matriarch, binding all broods to parley. Breaking truce is punishable by the Blood Tithe—a century of service to the wronged clan.
+- **Human thralls:** Every clan maintains a mortal underclass—blood-bound servants, willing worshippers, and cattle—whose labor sustains the immortal courts. Thrall hierarchies are a society unto themselves, with senior thralls wielding significant influence as intermediaries between vampire masters and the mortal world.
+- **What they want from PCs:** Blood tribute, relic recovery, proxy wars against rival clans. What they offer: immortality (maybe), safe passage, ancient knowledge. What they demand: fealty spoken in blood.
+- **Conflicts with:** Sarafan Order (mutual destruction), Hylden Remnants (ancestral enmity—the binding was *their* curse), Crimson Fracture (internal betrayal—evolved vampires rejecting clan structure), each other (blood debts, territory, pride). The Elder God manipulates them all.
 
 **Hylden Remnants:** Banished sorcerers of entropy, reaching into Nosgoth from the Demon Realm. Defeated by the Ancients eons ago, they cannot set foot in the material world without a host. They whisper through dimensional cracks—possessing the strong, animating constructs of brass and bone, and scarring the land with green-glowing glyphs. Their goal is simple: to break the binding that holds them, exterminate the Vampires, and reclaim the world they believe was stolen.
 
-**Circle of Nine / Pale Accord:** Broken stewards of the Pillars turned seekers of forbidden knowledge. Once they were guardians; now they are archivists of failure. They hoard scrolls in flooded libraries, perform rituals in the shells of temples, and speak in thesis and counter-thesis. Some seek redemption. Others seek only to leverage the decay for power.
+- **Methods of infiltration:** Possession of mortals through prolonged proximity to Hylden artifacts, sleeper agents implanted during the Sarafan Lord's reign (some still dormant), and bio-mechanical war-engines that wander without orders, enslaving those they find.
+- **Glyph-static:** Bursts of magical interference that scramble wards, corrode metal, and drive sensitives mad. Where glyph-static is detected, a Hylden device or agent is near.
+- **Philosophical framework:** The Remnants operate under *Hylden Rationalism*—the belief that gods are parasites and the universe is a mechanism to be mastered (see Religions, Beliefs, and Philosophies). Not all Rationalists serve the Remnants, but all Remnants are Rationalists. They recruit through logic, not faith.
+- **What they want from PCs:** Vessels, allies of convenience, someone to open a sealed gate. What they offer: power without the Wheel's price, technology that defies magic's rules. What they cost: sanity, identity, and everything you were.
+- **Conflicts with:** Vampire Clans (ancestral enemies—the war never ended, only the battlefield changed), Sarafan Order (alien abomination to be destroyed), Wardens of Balance (entropic corruption threatens the Pillars), Pale Accord (the Accord studies what the Hylden *are*, which makes them useful enemies and dangerous allies).
+
+**Circle of Nine / Pale Accord:** Broken stewards of the Pillars turned seekers of forbidden knowledge. The original Circle fell to madness after Nupraptor's psychic scream poisoned the minds of all Guardians. Now the remnants have reformed as the Pale Accord—not as protectors of balance, but as archivists of failure. They hoard scrolls in flooded libraries, perform rituals in the shells of temples, and speak in thesis and counter-thesis. Some seek redemption. Others seek only to leverage the decay for power.
+
+- **Organization:** The Accord operates in cells called "Chapters," each focused on a single Pillar's lost knowledge. The Chapter of Time is the most feared; the Chapter of Nature has gone feral and may no longer be human.
+- **Glyphborn:** Among the Accord have risen mortals touched by ancient echoes—marked by glyphs that shimmer with spectral fire. These glyphborn are hunted by all factions, for their very presence hints at a means to rewrite destiny's design.
+- **What they want from PCs:** Field research, artifact recovery, test subjects (willing or otherwise). What they offer: forbidden knowledge, glyph-craft, and answers to questions no one else will touch. What they cost: you may not like what you learn.
+- **Conflicts with:** Sarafan Order (branded heretics studying forbidden lore), Hylden Remnants (the Accord's research threatens Hylden secrecy), Elder God / Cult of the Wheel (the Accord's Chapter of Time directly challenges the Wheel's authority). Internally fractured—the feral Chapter of Nature has gone silent, and no one wants to investigate why.
+
+**Crimson Fracture:** A radical sect of evolved vampires with spectral resonance. Believing the only future lies in merging the Spectral and Material Realms, they conduct horrific experiments and rituals to create "unified forms"—beings existing simultaneously in both planes. Their ambitions threaten planar stability itself.
+
+- **Philosophy:** They view the separation of realms as the original wound—the lie that makes death possible and the Wheel necessary. If the realms merge, death becomes irrelevant, and the Elder God starves.
+- **Methods:** Ritual scarification with spectral residue, forced phasing of unwilling subjects, construction of "resonance engines" in the deep ruins. Their agents shimmer at the edges, their voices echo a half-second late.
+- **What they want from PCs:** Wraiths, Soul Reavers, anyone who walks between. What they offer: transcendence—or their version of it. What they cost: your definition of alive.
+- **Conflicts with:** Vampire Clans (traitors to the blood), Sarafan Order (monstrosities to be purged), Wardens of Balance (planar merging would destroy what little equilibrium remains), Elder God (merging realms would collapse the Wheel). Everyone fears them; no one allies with them willingly.
 
 **Elder God / Cult of the Wheel:** A cosmic parasite masking as divinity, preaching the inevitability of the cycle. The Wheel turns: birth, death, consumption, rebirth. The cult's priests wear masks of bone and offer comfort through surrender. Beneath their temples, the Elder God waits—tentacles coiled in the deep, feeding on the souls of all who believe death is rest.
 
-**Outcasts and Guilds:** Mercenaries, scavengers, rogue traders—survivors in the ruins between powers. They deal in coin, relics, secrets, and silence. A guild mark buys you entry to a black market, a smuggler's route, or a blade in the dark. They have no ideology, only pragmatism: the world is ending slowly, so sell what you can and die rich.
+- **The Elder God's reach:** Though weakened after Raziel's sacrifice exposed its nature, it now whispers through dreams, through madness, and through forgotten hymns embedded in stone and blood. Its influence is everywhere—in the doctrine of inevitability, in the resignation of the hopeless, in every prayer that asks for nothing to change.
+- **The Cult:** Operates in shadows, often hidden within cities and among the dead. Priests of the Wheel offer funeral rites, tend graveyards, and counsel the dying—all to ensure souls flow into the Wheel's maw. Some cultists genuinely believe they serve a benevolent god. That makes them more dangerous, not less.
+- **What they want from PCs:** Compliance. Acceptance. Death, eventually—everyone's, on schedule. What they offer: peace, purpose, the comfort of inevitability. What they cost: everything that makes you *you*.
+- **Conflicts with:** Unbound (invisible to the Wheel—an existential affront), Crimson Fracture (realm-merging would starve the God), Soul Reavers and Wardens (both threaten the cycle's integrity), Razielim survivors (Raziel's defiance is a wound that won't close). The Elder God does not negotiate; it *waits*.
+
+**Outcasts and Guilds (Outlands Guilds):** Mercenaries, scavengers, rogue traders—survivors in the ruins between powers. They deal in coin, relics, secrets, and silence. A guild mark buys you entry to a black market, a smuggler's route, or a blade in the dark. They have no ideology, only pragmatism: the world is ending slowly, so sell what you can and die rich.
+
+- **Notable guilds:** The Ashwalkers (ruin-delvers and cartographers of spectral crossings), the Red Ledger (debt enforcers and bounty hunters), the Hollowmen (smugglers who move goods and people through spectral-bleed zones), and the Tongues (information brokers who trade in names, secrets, and prophecy fragments).
+- **Guild law:** Disputes are settled by the Rule of Three: three witnesses, three days to answer, three prices for betrayal (loss of mark, loss of hand, loss of name). A de-named outcast is erased from guild records and sold to whoever pays first.
+- **What they want from PCs:** Hands, blades, brains—and someone willing to go where no sane person would. What they offer: coin, contacts, safe houses, and no questions asked. What they cost: favors owed, and favors always come due.
+- **Conflicts with:** Sarafan Order (smuggling and heresy), any faction that disrupts trade routes. The Guilds are pragmatic—they'll work with anyone, including enemies, as long as the coin is good. Their true enemy is instability; war is bad for business unless you're selling weapons.
+
+**The Cult of Hash'ak'gik:** A demon of immense cunning and patience, Hash'ak'gik is not Hylden, not Elder God, not vampire—something older, or something that slipped through when the dimensional binding was forged. It operates through Avernus Cathedral, its original seat of power, corrupting mortal worshippers through possession, prophetic visions, and promises of power outside the Wheel. The Cult is small but fanatical, its members convinced they serve a god that predates the parasites. Hash'ak'gik's true agenda is unclear—it may seek to consume both the Elder God and the Hylden, or it may simply enjoy the suffering. It is the perfect "B-plot" antagonist: a threat that operates independently of the main factions, complicating alliances and providing enemies that no faction can claim credit for creating.
+
+- **Methods:** Possession of key individuals (priests, merchants, minor nobles), blood-sacrifice rituals that generate localized reality distortions, and the creation of "Vessels"—mortals hollowed out and rebuilt as living conduits for the demon's will. Vessels retain their memories and personalities, making them nearly impossible to detect.
+- **Presence:** Centered in Avernus Cathedral but spreading through trade routes and refugee camps. Cult cells operate in major human settlements, disguised as charitable orders or philosophical circles.
+- **What they want from PCs:** Nothing—at first. Hash'ak'gik prefers to observe, then tempt, then trap. By the time you realize you're dealing with the Cult, you may already be useful to it.
+- **Conflicts with:** Everyone, but subtly. The Sarafan hunt its Vessels without understanding what they are. The Hylden recognize a rival and despise it. The Elder God cannot consume souls the demon has claimed. Vampires who stray too close to Avernus territory find their blood-gifts unreliable. Hash'ak'gik has no allies—only assets it hasn't discarded yet.
 
 See also:
 - GM Guide — NPC Compendium (`GM_Guide/05_NPC-Compendium.md`) for notable leaders and rivals.
@@ -76,7 +126,105 @@ See also:
 
 **Janos Audron:** The Last Ancient; a figure of tragedy and grace. A member of the original winged race that birthed the vampire bloodline. Kept imprisoned for centuries, his heart torn from his chest to power the beating heart of darkness in Avernus. He represents the nobility the vampires lost, a stark contrast to the decay of the modern clans.
 
+**Nupraptor the Mentalist:** Guardian of the Pillar of the Mind, and the architect of the Circle's collapse. When his lover Ariel was murdered, his grief detonated like a psychic bomb—a wave of madness that infected every other Guardian simultaneously. He retreated to his skull-shaped fortress, stitching his eyes shut to see only inner visions, whispering equations of sorrow. His insanity was patient zero for the corruption of the Pillars. Kill him, and the Mind Pillar flickers toward healing. Spare him, and madness spreads like ink in water.
+
+**Mortanius the Necromancer:** Guardian of the Pillar of Death, and the hand that resurrected Kain. Mortanius murdered Ariel at the behest of the dark entity possessing him—the Hylden Lord who rode his body like a puppet. But Mortanius also orchestrated Kain's rebirth, gambling that a vampire champion could purge the Circle's corruption. He is both murderer and redeemer, architect of Nosgoth's ruin and its only chance of salvation—a paradox who understood he was doomed the moment he raised his hand.
+
+**Ariel:** Former Guardian of Balance, now a spectral oracle chained to the ruined Pillars. In life, she was the heart of the Circle; in death, she is its conscience—trapped, mournful, and increasingly bitter. She guided Kain to slay each corrupted Guardian, never revealing that the final sacrifice required was his own. She waits at the Pillars still, translucent and weeping, offering counsel to those who listen and curses to those who don't.
+
 See also: GM Guide — NPC Compendium (`GM_Guide/05_NPC-Compendium.md`) for roleplay notes and plot uses.
+
+---
+
+## The Nine Pillars — Domains and Corruption
+
+The Pillars of Nosgoth are nine monoliths of crystalline stone, each bound to a principle that sustains reality. When their Guardians were sane, the Pillars shone white and hummed in harmony. Now they are cracked, weeping black ichor, and the principles they represent have curdled into their opposites. Understanding the Pillars helps players and GMs connect locations, quests, and themes to the deeper structure of the world.
+
+| Pillar | Domain | Corruption Effect | Quest Potential |
+|:---|:---|:---|:---|
+| **Mind** | Thought, reason, communication | Paranoia, psychic static, false memories | Deciphering corrupted texts; NPCs who can't trust their own thoughts |
+| **Dimension** | Spatial boundaries, planar barriers | Spectral bleed, rift-born geography, spaces that fold | Sealing rifts; navigating impossible architecture |
+| **Conflict** | Just warfare, martial discipline | Endless violence, berserker plagues, blood-madness | Brokers of peace hunted; weapons that refuse to stop killing |
+| **Nature** | Growth, seasons, animal instinct | Feral mutation, carnivorous forests, beast-madness | Druids gone feral; crops that eat farmers; beast-cults |
+| **Energy** | Power, elemental force, lightning | Wild surges, dead zones, machines that run on screams | Glyph-engines overloading; lightning storms with intent |
+| **Time** | Sequence, memory, causality | Temporal loops, age storms, tomorrow arriving before yesterday | Objects from erased timelines; NPCs who remember futures |
+| **States** | Transformation, phase, material form | Uncontrolled shapeshifting, petrification plagues, matter rot | Potions that change the drinker permanently; cursed polymorphs |
+| **Death** | The boundary between life and death | Undead surges, the dead refusing to stay down, soul-leakage | Graveyards emptying; spirits demanding resolution; necromantic epidemics |
+| **Balance** | Equilibrium of all, the fulcrum | Everything else worsening; no force can mediate or moderate | The absence of a center—moral, magical, political—driving everything to extremes |
+
+**Using the Pillars in play:** Each corrupted Pillar can anchor a region, a story arc, or a recurring environmental hazard. A campaign organized around "healing" or "exploiting" the Pillars gains built-in structure: nine principles, nine quests, nine terrible choices.
+
+---
+
+## Religions, Beliefs, and Philosophies
+
+In Nosgoth, faith is never simple. Gods are parasites or absent, prophecy is a weapon, and the afterlife is a feeding machine. Yet people believe—because not believing is harder.
+
+**The Wheel of Fate (Orthodox):** The dominant spiritual framework. The Wheel teaches that all souls cycle through birth, death, and rebirth, guided by cosmic order. What the faithful don't know is that the Elder God *is* the Wheel—or at least, the thing that feeds on it. Orthodox Wheel-worship is practiced by most humans who haven't been given reason to question it. Funerary rites, death-prayers, and ancestor veneration all funnel souls into the cycle. Priests of the Wheel wear bone masks and speak of "the turning" with serene certainty.
+
+**The Defiant Creed (Kainite Heresy):** Worship of Kain as a reluctant messiah—the one who refused fate and survived. Followers are outlaws in Sarafan territories, but their ranks grow in the ruins. They believe free will is sacred, that prophets are liars, and that the only honest prayer is defiance. Their symbol is a cracked pillar. Their sacrament is a cup of blood drunk in silence.
+
+**The Razielite Martyrdom:** Veneration of Raziel as a holy sacrifice. Razielite monks believe that true salvation requires surrender—not to the Wheel, but to purpose greater than self. They are pacifists in theory, warriors when cornered, and tend hospitals and refugee camps in the blighted territories. Their symbol is a broken wing.
+
+**Hylden Rationalism:** Not a religion, but a philosophy—one the Hylden themselves would recognize, and the intellectual foundation of the Hylden Remnants' worldview (see Key Factions). It holds that gods are parasites, souls are energy, and the universe is a machine to be understood and mastered. The Wheel of Fate is not divine order but a feeding mechanism; the Pillars are not sacred architecture but a containment grid built by the Ancients to imprison the Hylden and maintain their monopoly on reality. Hylden-influenced scholars, Glyph Seekers, and even some disillusioned Sarafan have adopted Rationalist thinking—not because it is comforting, but because it *works*. Rationalist "rites" are experiments: controlled breaches, energy measurements, glyph-field calibrations performed with the cold precision of surgeons operating on a patient they do not love. To the faithful of the Wheel, Rationalism is the most dangerous heresy—not because it denies the gods, but because it offers *proof* that the gods are unnecessary. Not all Rationalists are Hylden loyalists; some are human scholars who adopted the philosophy after studying Hylden artifacts and concluded the math was simply correct. But the Hylden Remnants weaponize Rationalism as recruitment—every convert is a step toward breaking the binding.
+
+**Ancestor Reverence (Nomad Tradition):** Nomads don't worship gods—they honor the dead by remembering their names. Every Nomad carries a memory-thread: a braided cord with a knot for every ancestor they can name. To forget a name is to lose a knot; to lose all knots is to become nobody. Nomad rites involve fire, storytelling, and the ceremonial untying of a knot when an ancestor's unfinished business is resolved.
+
+**The Silence (Nihilist Undercurrent):** In the worst corners of Nosgoth, some have stopped believing in anything. The Silence is not a creed but an absence—people who've seen too much, lost too much, and concluded that meaning is a luxury for the unburned. They don't proselytize. They just stare. GMs can use Silence-touched NPCs to mark the emotional bottom of a setting—the point where even cynicism fails.
+
+---
+
+## Daily Life in a Dying World
+
+Nosgoth is not only a stage for heroes and monsters—it is a place where people wake, eat, work, and sleep under a bruised sky. Knowing what ordinary life looks like helps GMs and players ground extraordinary events.
+
+**Economy:** Formal currency collapsed generations ago. Most trade operates on barter—preserved food, clean water, salvaged metal, and glyph-charged stones serve as de facto money. In Sarafan territory, stamped iron discs ("seals") have limited use; in vampire domains, blood itself is currency, measured in vials called "tithes." The Outlands Guilds issue their own credit—guild-marks scratched into bone tokens—redeemable for services, not goods.
+
+**Food and Water:** Agriculture exists, but barely. The corruption of the Pillar of Nature means crops grow wrong—too fast, too sharp, too hungry. Livestock mutate. Fishing in tainted rivers yields things with too many eyes. Most settlements rely on root cellars, preserved rations, and mushroom farms grown in basements. Clean water is worth killing for; every town guard knows the wells are the first target in any raid.
+
+**Shelter:** Nosgoth's settlements cluster in three forms: *walled towns* (human holdouts behind patchwork fortifications), *clan-holds* (vampire territories in towers, catacombs, or fortified ruins), and *drift-camps* (Nomad caravans that never stop moving). Architecture is repurposed—ancient stone over new timber, glyph-wards hammered into doorframes, windows boarded except for arrow slits. Privacy is a luxury. Silence is suspicious.
+
+**Communication:** Long-distance messaging relies on bonded couriers, signal-fires (unreliable—things mimic fire), and in rare cases, glyph-relay stations maintained by the Pale Accord. Rumors travel faster than truth. A lie can circle a settlement in hours; a fact takes days and arrives bruised.
+
+**Law and Justice:** Varies by territory. Sarafan zones operate under the Lex Luminis—religious law enforced by Knight-Confessors, where heresy is punished more severely than murder. Vampire territories follow clan law: blood-debts, dueling codes, and the word of the eldest. Outlands settlements improvise—elected councils, strongman rule, or raw democracy enforced by whoever has the most crossbows.
+
+**Entertainment:** People tell stories—always. Bards are rare but revered; traveling storytellers can trade a tale for a week's lodging. Games of chance use carved bone dice (superstition says glyph-marked dice cheat). Theater exists in the larger settlements, though plays about vampires are banned in Sarafan territory and plays about humans are considered comedy in clan-holds.
+
+---
+
+## Prophecy Compendium
+
+Nosgoth runs on prophecy the way a clock runs on springs—except the springs are loaded, the clock lies, and the hands point in directions that don't exist. The following prophecies are known to scholars, cultists, and madmen. GMs can use them as quest hooks, red herrings, or the bones of entire campaign arcs. Players who encounter these in-game should treat them as *clues*, not *instructions*—prophecy in Nosgoth is a weapon wielded by someone, and that someone always has an agenda.
+
+> **The Scion of Balance:** *"One shall be given the choice: to fall for the world or rise against it. If he falls, the Pillars will stand. If he stands, the world will fall."*
+> — Refers to Kain's choice. Already fulfilled—and defied.
+
+> **The Reflected Path:** *"The blade shall drink the soul of the martyr, and through the blade shall truth awaken. One face, two fates—neither can walk forward until one bleeds into the other."*
+> — Raziel and the Soul Reaver. Fulfilled, but echoes persist.
+
+> **The Return of the Hylden Core:** *"When metal sings and the sky weeps flame, the cursed children shall breach their cage. Only when nine voices become one again shall their gate be sealed."*
+> — Unfulfilled. Implies the Pillars must be restored—or replaced—to seal the Hylden gate permanently.
+
+> **The Abyssal Heart:** *"Buried beneath truth and beyond death, the Heart calls to those forgotten by gods and time. To wield it is to defy all fate—to break the wheel or remake it."*
+> — An artifact older than the Pillars. Rumors of its existence are spreading. Campaign-defining quest potential.
+
+> **The Silent Moons:** *"When the twin moons stand still, and the stars refuse their dance, Nosgoth's soul shall be judged by the Echo of the First Betrayal."*
+> — Astronomical omens are appearing. What is "the First Betrayal"? The Hylden war? Kain's refusal? Something older?
+
+> **The Wheel's Undoing:** *"A soul devours a god, and thus ends the turning. Bound no longer, the dead shall choose their rest."*
+> — The endgame prophecy. What happens when the Elder God dies? Do souls go free—or simply vanish?
+
+> **Blood Without End:** *"The river shall run red, not from war but from hunger. When blood is no longer taken but given freely, the curse shall be reborn."*
+> — Implies the vampiric curse can be transformed. What does "freely given" blood mean for a society built on predation?
+
+> **The One Who Waits Upside Down:** *"Beneath the Spectral horizon, a prisoner stirs. Neither god nor ghost, it waits for the key hidden in the lie of resurrection."*
+> — Something is trapped below the Spectral Realm. Something that isn't the Elder God. What was buried down there, and who buried it?
+
+> **The Final Glyph:** *"Nine lines, one circle. Carve it where light cannot reach. Speak it when silence reigns. Only then shall the lock break."*
+> — A formula? A weapon? A seal? Glyph Seekers would kill for this.
+
+> **Prophets of Dust:** *"Those who breathe the ash of the Pillars will dream true. In their madness lies the map to what was never written."*
+> — Pilgrims who reach the Pillars sometimes gain visions. Some go mad. Some return with truths no one wants to hear.
 
 ---
 
@@ -92,6 +240,16 @@ See also: GM Guide — NPC Compendium (`GM_Guide/05_NPC-Compendium.md`) for role
 
 **The Spectral Realm:** A parallel, distorted echo; physics lie, memory rules. Everything here is the color of bruises—purples, greens, sickly golds. Gravity is a suggestion. Walls breathe. The dead walk, and some of them remember you. It is a place of truth: you cannot hide what you are when flesh is optional. Linger too long, and the material world begins to feel like the dream.
 
+**The Sanctuary of the Clans:** Ancient neutral meeting place of the vampire clans, built around the tomb of the original Pillar Guardians. Its vaulted chambers are carved from black basalt, inlaid with silver sigils that glow faintly in the presence of vampiric blood. By ancient law, no weapon may be drawn within its walls—violators are subject to the Blood Tithe of all six clans simultaneously. The Sanctuary has been sealed for centuries, its location known only to the eldest matriarchs. Rumors say the tomb at its heart still whispers.
+
+**Avernus Cathedral:** Once the holiest site in human Nosgoth, now a festering wound of demonic corruption. Its spires still gleam white from a distance, but up close the stone weeps black fluid and the stained glass depicts scenes that shift when you look away. Beneath the nave, the cult of Hash'ak'gik conducts its rites—blood sacrifice, possession ceremonies, and communion with something that speaks from behind a door that should not exist. The Cathedral is a perfect source for dark magic, moral quandaries, and enemies who believe absolutely in what they are doing.
+
+**Dumah's Fortress:** The silent, ruinous seat of the Dumahim clan, a mountain of grey stone and iron silence in the eastern wastes. Once it thundered with the march of Dumah's legions; now it stands empty, its corridors choked with dust and the faint echo of commands no one obeys. Dumah fell here—impaled on his own throne by the vampire hunters of Uschtenheim—and the clan scattered into apathy. It is a monument to fallen glory: intact, defensible, and waiting for someone with the will to claim it. Every faction wants it. None have dared.
+
+**Uschtenheim:** A mountain fortress-village carved into the granite peaks of the northern range, home to the original human Vampire Hunters who predated the Sarafan by centuries. Its people are hard, insular, and carry a hatred of vampires that is not religious but *personal*—passed down through blood and scarred flesh. Uschtenheim's forges still produce the silver-edged weapons that killed Dumah. Its vaults hold relics and records the Sarafan would kill to possess—or destroy.
+
+**The Chronoplast:** Moebius's time-streaming chamber, hidden deep beneath the ruins of his stronghold. A vast orrery of crystal, mercury, and stolen starlight, the Chronoplast allows its operator to observe—and, with terrible risk, manipulate—the timestream. Moebius used it to orchestrate centuries of betrayal. Now the chamber sits unattended, its mechanisms still turning, its mirrors still reflecting futures that may or may not come to pass. For Unbound or Oracle-Blooded characters, the Chronoplast is the most dangerous room in Nosgoth: a place where one wrong touch can erase you from history or trap you in a loop of your own making.
+
 **Regional sketch (narrative map):**
 
 - **North: Mountains of the Hylden Gate.** Ice-wastes where the wind cuts like broken glass. Tombs carved into glaciers, filled with frozen warriors who do not decay. At the summit, the Gate—a scar in reality, sealed by ancient wards, behind which the Hylden press and whisper. Avalanches here carry voices. The snow remembers footprints from a thousand years ago.
@@ -100,7 +258,7 @@ See also: GM Guide — NPC Compendium (`GM_Guide/05_NPC-Compendium.md`) for role
 
 - **South: Swamps of the Forgotten God.** Drowned temples half-sunk in black water, choked with moss and the hum of alchemical engines still grinding after centuries. The air is thick enough to chew. Fireflies are the only light, and they lead travelers astray. Somewhere in the deep, something sleeps—old, vast, and dreaming of a world that drowned it. The locals leave offerings at the water's edge and do not speak its name.
 
-- **West: The Abyss, the Pillars, and the Citadel.** Canyon country, all sharp edges and sudden drops. The Pillars stand in a blasted heath where nothing grows. Nearby, the Abyss screams. Above it all, the Citadel perches like a raptor, watching, waiting. The wind here carries the scent of ash and ambition. This is the seat of power—vampiric, inevitable, and crumbling only as slowly as stone can bear.
+- **West: The Abyss, the Pillar Heath, and the Citadel.** Canyon country, all sharp edges and sudden drops. The Pillars stand in the **Pillar Heath**—a blasted, treeless expanse at the Heart of Nosgoth where nothing grows and the earth itself is cracked like fired clay. This is the geographic and metaphysical center of the world; the ground thrums with a subsonic pulse felt in the bones. Nearby, the Abyss screams. Above it all, the Citadel perches like a raptor, watching, waiting. The wind here carries the scent of ash and ambition. This is the seat of power—vampiric, inevitable, and crumbling only as slowly as stone can bear.
 
 ---
 

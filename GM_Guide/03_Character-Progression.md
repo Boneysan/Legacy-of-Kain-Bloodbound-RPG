@@ -269,6 +269,29 @@ Tie advancement to Corruption for thematic campaign:
 - Risk: May make Corruption too attractive
 - **Example:** "At Corruption Level 6, you've unlocked insights into forbidden power. Gain one additional Tier 2 Corrupted Perk."
 
+### Mid-Campaign Class Transformation: Soul Reaver
+
+The Soul Reaver class supports a unique progression path: a character of any class who undergoes a soul-scarring death and resurrection can become a Soul Reaver mid-campaign. This is a major narrative event, not a casual multiclass option.
+
+**Triggering Events (any one):**
+- Consumed by the Abyss and returned
+- Death near a shattered Pillar
+- Surviving a Soul Reaver's feeding
+- Failed resurrection or necromantic ritual that tears the soul loose
+
+**Mechanical Transition (over 1–2 sessions):**
+1. **Session 1 (Transformation):** The character returns from death with their existing class abilities but gains the Soul Reaver's *Detect Planar Echoes* as a Bonus Action (DR 1–3). They experience involuntary phasing—once per scene, the GM may trigger an uncontrolled shift to the Spectral Realm lasting 1 round. The character retains their current HP and level.
+2. **Session 2 (Settling):** The character's original class abilities begin to fade. Replace one original class feature per session with a Soul Reaver feature of equivalent tier (consult the Soul Reaver perk tree in Player's Handbook Chapter 3). The character's resource pool shifts from its original type to SE (Soul Energy) over the course of the session.
+3. **Completion:** By the end of the second session, the character is fully a Soul Reaver at their current level, with appropriate perks selected from the Soul Reaver tree. Any perks that no longer apply are lost; the player selects replacements from the Soul Reaver tree.
+
+**GM Guidance:**
+- Discuss this with the player *before* the triggering event—forced class changes without consent are not fun.
+- The transformation should feel earned, dramatic, and irreversible. It's a second death and second birth.
+- Other PCs and NPCs should react. A party member becoming a Soul Reaver is a seismic event in Nosgoth's metaphysics.
+- If the player doesn't want to change classes, the triggering event can instead grant a single Soul Reaver feature as a "soul scar" (a permanent minor ability with narrative weight) without full class transformation.
+
+See also: `lore/Class-Lore.md` — Soul Reaver entry for the full lore context and origin pathway.
+
 ---
 
 ## 3.7 Handling Different Player Attendance

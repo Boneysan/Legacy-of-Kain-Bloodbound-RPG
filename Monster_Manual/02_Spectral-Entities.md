@@ -425,7 +425,70 @@ Opens with Spectral Storm to thin ranks, then uses Gravewind Vortex to cluster e
 
 ---
 
-## 2.9 Spectral Combat Tactics
+## 2.9 Sluagh (Spectral Carrion-Feeder)
+
+**Type:** Spectral Swarm
+**Threat Tier:** Standard (single) / Elite (swarm of 3–5)
+**Threat Value (TV):** 1 (single), 3 (swarm)
+
+### Lore
+The Sluagh are the carrion-feeders of the Spectral Realm—scavengers that devour the residue of spent souls, broken memories, and the detritus left behind when wraiths Fade or spectral creatures are destroyed. They resemble emaciated, hunched figures with too-long arms and hollow, lightless eyes, their forms perpetually trailing wisps of grey mist. They are not intelligent in any meaningful sense, but they are *patient* and *numerous*.
+
+Sluagh are essential to the spectral ecosystem. Without them, the Spectral Realm would choke on its own refuse—unprocessed soul-fragments accumulating like silt in a dead river. Their presence near a location indicates recent spectral violence, a Fading wraith, or a breach between realms. They are drawn to Soul energy the way flies are drawn to rot. To Wraith PCs, Sluagh are a constant, low-level threat—nuisances individually, but lethal when they gather in feeding swarms around a weakened target.
+
+In the Legacy of Kain canon, the Sluagh haunt the spaces between meaningful afterlives, filling the ecological niche of vultures in a world where the dead don't stay dead cleanly.
+
+### Statistics (Single Sluagh)
+- **HP:** 18
+- **DV:** 3 (1 + Shadow 2)
+- **Armor:** 0 (Incorporeal—immune to nonmagical physical attacks)
+- **Movement:** 30 feet (6 squares), Fly 20 feet (hover)
+- **Attributes:** Fury 2, Soul 2, Shadow 2, Will 1, Focus 2, Blood 0
+- **Skills:** Stealth 3, Observation 2
+
+### Attacks
+**Carrion Grasp** (Action)
+- **Dice Pool:** Soul 2 + 1 = 3d6
+- **Damage:** 4 Spectral damage (ignores physical armor)
+- **Special:** On hit, the target loses 1 SE (Soul Energy). If the target has no SE remaining, the Sluagh instead deals +2 bonus damage as it feeds on residual soul-stuff.
+
+**Feeding Frenzy** (Bonus Action, only usable when target is below half HP or has 0 SE)
+- **Effect:** The Sluagh latches onto the target. At the start of each of the target's turns, they take 3 Spectral damage and lose 1 SE. Escape requires a DR 2 Will save as an Action. Other Sluagh within 30 ft are drawn to the target, gaining +1 to their next attack roll against them.
+
+### Special Abilities
+**Incorporeal:** Immune to nonmagical physical attacks. Magical weapons, Spectral damage, and Soul-based effects work normally.
+
+**Spectral Nature:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease, Frightened.
+
+**Carrion Sense:** Detects creatures with reduced SE, below half HP, or actively Fading within 120 feet, regardless of walls or concealment. This is the Sluagh's primary hunting sense.
+
+**Cowardly Scavenger:** A Sluagh will not attack a target at full HP unless it is part of a swarm of 3+ Sluagh. If reduced below half HP while alone, it flees into the Spectral Realm.
+
+**Swarm Intelligence (Swarm only):** When 3+ Sluagh are within 30 ft of each other, they gain +1 DV and their Carrion Grasp deals +2 damage. At 5+, they gain an additional +1 to hit.
+
+### Tactics
+Sluagh lurk at the edges of combat, waiting for someone to weaken. They do not initiate fights against healthy parties. Instead, they trail the group at a distance (detectable via Carrion Sense—a PC with Observation may notice the growing "pressure" of spectral attention). Once a PC drops below half HP or expends significant SE, the Sluagh close in. In the Spectral Realm, they are bolder and attack in swarms from multiple directions, targeting Wraiths and phased characters.
+
+**GM Note:** Sluagh are atmospheric threats, not boss monsters. Use them to make the Spectral Realm feel alive and predatory. A swarm of Sluagh descending on a Fading NPC Wraith is a memorable horror set-piece. A lone Sluagh trailing the party through spectral corridors builds tension without requiring combat.
+
+### Encounter Hooks
+- **Carrion Trail:** The party finds a corridor in the Spectral Realm picked clean—no soul-residue, no echoes, nothing. Something massive has fed here recently. Following the trail leads to a Sluagh swarm gathered around something they shouldn't be able to eat.
+- **The Fading Watch:** A Wraith ally is beginning to Fade. Sluagh are gathering, drawn by the weakening soul. The party must find a new anchor for the Wraith before the swarm descends.
+- **Swarm Surge:** A breach between realms has flooded a material-world location with Sluagh. They're not attacking the living—yet—but they're consuming every spectral ward and enchantment in the area, leaving the location defenseless against *other* threats.
+
+### Loot
+- Spectral residue (grey, viscous substance with faint luminescence) – 10 barter value; alchemical component for Spectral-resistance crafting
+- Memory fragment (a brief, vivid sensory impression from whatever the Sluagh last consumed) – no trade value, but may provide plot information
+- Carrion essence (harvestable with DR 2 Rituals check) – 15 barter value; can be used to create Sluagh lures or repellents
+
+### Scaling Options
+**Elder Sluagh** (Elite, TV 2): +15 HP, increase Soul to 3 and Shadow to 3. Carrion Grasp deals 6 Spectral damage and drains 2 SE. Add "Devour Echo" ability (Action, 1/encounter): consume a single memory, enchantment, or ward within 10 ft, permanently destroying it. This can strip a Wraith's anchor if they fail a DR 3 Will save.
+
+**Sluagh Tide** (Boss encounter, TV 5): A swarm of 8+ Sluagh acting as a single entity. HP 60, DV 4, Armor 0 (Incorporeal). Attacks all creatures in a 20 ft radius for 6 Spectral damage + 2 SE drain. The Tide is attracted by any use of Soul-based abilities within 200 ft and arrives 1d4 rounds later. It cannot be reasoned with, frightened, or turned. It can only be outrun, outwaited (it disperses after 10 rounds without feeding), or destroyed through concentrated Spectral or magical damage.
+
+---
+
+## 2.10 Spectral Combat Tactics
 
 ### For Game Masters
 
@@ -464,7 +527,7 @@ Opens with Spectral Storm to thin ranks, then uses Gravewind Vortex to cluster e
 
 ---
 
-## 2.10 Spectral Realm Encounters
+## 2.11 Spectral Realm Encounters
 
 ### Location-Based Encounters
 

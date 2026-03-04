@@ -1,7 +1,7 @@
 # Chapter 2: Lineages & Race
 ## At a glance
 - Overview
-- Vampires (Razielim, Turelim, Dumahim, Zephonim)
+- Vampires (Razielim, Turelim, Dumahim, Zephonim, Melchiahim, Rahabim)
 - Wraiths
 - Hylden-Blooded
 - Humans (Sarafan, Nomads, Oracle-Blooded)
@@ -43,6 +43,20 @@ Stoic, hulking brutes, entombed for centuries.
 Insectoid, parasitic vampires adept at ambush and mutation.
 - **Bonus**: +1 Thievery.
 - **Feature**: *Cling* (Bonus Action to cling to vertical surfaces for 3 rounds, potential +1 combat/awareness or cover benefits).
+
+### 2.2.5 Melchiahim
+Flesh-weavers whose bodies decay constantly, surviving by grafting the flesh of others onto their rotting frames. Horrifying, resourceful, and intimately familiar with the cost of immortality.
+- **Bonus**: +1 Craft or Nature.
+- **Feature**: *The Mending* (Action, once per scene: graft harvested flesh onto yourself to restore 1d6 HP. Requires a fresh corpse or flesh component within 5 ft. If used in sight of non-Melchiahim NPCs, impose −1 to Presence checks with them for the rest of the scene).
+- **Feature**: *Decay Resilience* (Passive: +1 Armor against Entropic damage. Advantage on saves vs. disease and poison).
+- **Vulnerability**: At the start of each new arc (or every 3 sessions), make a DR 1 Fortitude check. On failure, take 1 Corruption representing bodily decay; this can only be removed by performing a successful Mending.
+
+### 2.2.6 Rahabim
+Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's flooded ruins and coastal cave systems, controlling territory no other clan can reach.
+- **Bonus**: +1 Nature or Observation.
+- **Feature**: *Amphibious* (Passive: breathe underwater indefinitely. Swim speed 40 ft (8 squares). Advantage on all checks and attacks while submerged or in heavy rain).
+- **Feature**: *Current-Reader* (Bonus Action, once per scene: while touching a body of water, read faint impressions — detect the number and general nature of creatures that have passed through the water within the last hour, DR 1–3 based on detail sought).
+- **Vulnerability**: Prolonged exposure to dry air (more than 1 hour without immersion or specialized wrappings) imposes −1 to all physical checks and attacks. After 4 hours, take 1d4 damage per hour. Specialized alchemical moisturizers negate this for 8 hours.
 
 ## 2.3 Wraiths
 **Lore**: Souls severed by violent death or unfinished destiny, existing between Material and Spectral Realms. They draw power from memory and Soul energy, risking madness but retaining purpose.

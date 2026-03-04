@@ -190,9 +190,9 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 
 ### 3.3.5 Glyph Seeker
 
-**"The Pillars are broken. The laws of magic remain."**
+**"They decipher the logic of alien gods, binding it into circuits of brass and bone at the cost of their sanity."**
 
-**Lore**: Arcane scholars and sigil-scribes, Glyph Seekers channel structured magic through symbols. Exiled researchers or human vault-dwellers, they craft Nosgoth’s remaining wards with precision.
+**Lore**: Not sorcerers but scavengers of divine intellect. Glyph Seekers excavate the ruins of the Hylden, reverse-engineering alien technology into structured magic—devices and wards of crystal, brass, and bone that replicate the miracles of their creators. But prolonged exposure to impossible geometries frays the seeker's mind, leading to prophetic madness, mutations, and the constant whispering echo of the void.
 **Role**: Support / Utility Caster
 **Core Attributes**: Soul, Will
 **Starting HP**: 8 + Soul (+3 per level)

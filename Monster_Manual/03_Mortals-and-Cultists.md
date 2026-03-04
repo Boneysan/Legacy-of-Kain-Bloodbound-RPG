@@ -613,6 +613,105 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 
 ---
 
+### 9. Acolyte of Hash'ak'gik
+
+**Type**: Mortal Humanoid (Demon Cultist)
+**Threat Tier**: Minion (TV 0.25)
+**Recommended Levels**: 2–5
+
+#### Lore
+The outer ring of Hash'ak'gik's worship—mortals seduced by visions of a god that predates the Wheel. Acolytes have undergone preliminary blood-rites at Avernus Cathedral or one of its satellite cells, granting them minor demonic resilience and an unsettling calm. They appear normal—merchants, laborers, minor clergy—until the blood-prayer is spoken and their eyes go flat and dark. They fight with disturbing coordination, as if guided by a single will.
+
+#### Stats
+- **HP**: 12
+- **Defense Value (DV)**: 2
+- **Difficulty Rating (DR)**: 1 (Will saves), 2 (Focus saves)
+- **Movement**: 6 tiles per turn
+- **Armor**: 1 (ritual scarification)
+
+**Attributes**:
+- Fury: 2
+- Soul: 2
+- Shadow: 2
+- Fortitude: 2
+- Focus: 1
+- Will: 1
+
+#### Abilities
+**Blood-Prayer** (Bonus Action, 1/scene): Speak the demon's name. All Acolytes within 30 ft gain +1 to their next attack roll and become immune to the Frightened condition until end of next turn.
+
+**Vessel's Calm** (Passive): Immune to Morale checks. Acolytes of Hash'ak'gik never flee, never surrender, and never negotiate once combat begins. This should unnerve players accustomed to mortal enemies breaking.
+
+**Sacrificial Strike** (Melee, 1 Action): +2 to hit, 4 damage (Force). On a critical hit, the target gains 1 Corruption as demonic energy bleeds through the wound.
+
+#### Encounter Role
+Acolytes are disposable screening troops. Their true danger is the Blood-Prayer coordination and refusal to break. Use them in groups of 4–6, supporting a Vessel of Hash'ak'gik or guarding a ritual site.
+
+#### Tactics
+Acolytes activate Blood-Prayer in the first round, then advance in tight formation. They prioritize spellcasters and anyone displaying holy symbols. If a Vessel is present, they move to protect it, forming a living wall. They will sacrifice themselves without hesitation to buy the Vessel time to complete a ritual.
+
+#### Loot
+- Ritual dagger (black iron, warm to the touch) – **Trade Value**: 3 supplies
+- Avernus sigil pendant – **Trade Value**: 5 supplies (to scholars; 10 to the Sarafan, who will also ask questions)
+- Vial of donor blood (1 dose) – **Trade Value**: 2 supplies; can be used as a Corruption-tainted alchemical component
+
+#### Scaling Options
+**Devoted Acolyte** (TV 0.5): +8 HP, +1 Soul. Sacrificial Strike deals 6 damage and inflicts Weakened on critical hit in addition to Corruption.
+
+---
+
+### 10. Vessel of Hash'ak'gik
+
+**Type**: Mortal Humanoid (Possessed)
+**Threat Tier**: Elite (TV 2)
+**Recommended Levels**: 5–9
+
+#### Lore
+A mortal hollowed out by Hash'ak'gik's will and rebuilt as a living conduit for demonic power. Vessels retain their original memories, personality, and social connections—making them nearly impossible to identify until they act. A town mayor, a trusted healer, a beloved priest—any of them could be a Vessel, smiling and serving the community by day, conducting blood-rites by night. When the demon's will surges through them, their eyes go black, their voice drops an octave, and the air around them tastes of copper and ash.
+
+#### Stats
+- **HP**: 35
+- **Defense Value (DV)**: 3
+- **Difficulty Rating (DR)**: 3 (all saves)
+- **Movement**: 6 tiles per turn
+- **Armor**: 2 (demonic resilience)
+
+**Attributes**:
+- Fury: 3
+- Soul: 4
+- Shadow: 3
+- Fortitude: 3
+- Focus: 3
+- Will: 4
+
+#### Abilities
+**Demon's Mask** (Passive): While not in combat, the Vessel is indistinguishable from a normal mortal. Detection requires a DR 4 Observation or Insight check, or magic that specifically detects demonic influence. The Vessel passes all mundane scrutiny.
+
+**Voice of the Pit** (Action, Recharge 5–6): The Vessel speaks with Hash'ak'gik's voice. All enemies within 30 ft must make a DR 3 Will save or become Frightened for 2 rounds. Creatures that fail by 3+ are also Stunned for 1 round. This ability has no visible magical effect—it is simply *words*, spoken with absolute authority.
+
+**Demonic Surge** (Melee or Ranged, 1 Action): +4 to hit, 8 damage (Force). The Vessel's hands crackle with black-red energy. On hit, the target must make a DR 2 Fortitude save or gain 1 Corruption.
+
+**Blood Conduit** (Reaction, 1/scene): When reduced below half HP, the Vessel sacrifices one adjacent Acolyte (killing them instantly) to restore 15 HP and gain +1 DV until end of next turn.
+
+**Possession Cascade** (Special, 1/encounter): If the Vessel is killed, the demonic essence attempts to leap to the nearest mortal within 15 ft (including PCs). Target must make a DR 4 Will save. On failure, they are Stunned for 1 round and gain 2 Corruption. On success, the essence dissipates—for now.
+
+#### Encounter Role
+Vessels are mid-tier bosses designed for investigation-heavy encounters. The challenge is often *finding* the Vessel before combat, not winning the fight itself. Pair with 4–6 Acolytes for a full cult encounter.
+
+#### Tactics
+The Vessel begins combat with Voice of the Pit to scatter the party, then targets spellcasters with Demonic Surge. It uses Blood Conduit when threatened, sacrificing Acolytes without hesitation. If the fight turns against it, the Vessel attempts to flee rather than die—it has social connections to protect and information Hash'ak'gik doesn't want exposed.
+
+#### Loot
+- Personal effects matching their cover identity – **Trade Value**: varies
+- Black iron ring (warm, hums faintly) – **Trade Value**: 10 supplies; functions as a minor glyph focus
+- Journal with coded cult communications – **Trade Value**: priceless to the right faction; decoding requires DR 3 Forbidden Knowledge check
+- Residual demonic essence (harvestable with DR 3 Rituals check) – **Trade Value**: 15 supplies; alchemical component for Corruption-related crafting
+
+#### Scaling Options
+**Greater Vessel** (Boss, TV 4): +25 HP, increase Soul and Will to 5. Add 2 Legendary Actions per round: Demonic Surge, Move, or Voice of the Pit (costs 2). Possession Cascade affects all mortals within 30 ft.
+
+---
+
 ## Combat Tactics & Encounter Design
 
 ### Using Mortals Effectively

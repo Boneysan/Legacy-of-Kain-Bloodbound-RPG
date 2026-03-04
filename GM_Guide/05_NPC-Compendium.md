@@ -10,7 +10,8 @@ This chapter provides quick narrative references for major characters in Nosgoth
 - 5.5 The Elder God – The Wheel's Devourer
 - 5.6 Vorador – The Ancient Defiant
 - 5.7 Running Legendary NPC Encounters
-- 5.8 Quick Reference: NPC Summary
+- 5.8 Faction Representative NPCs
+- 5.9 Quick Reference: NPC Summary
 
 Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Damage types like Force, Spectral, and Entropic have special interactions detailed in Player's Handbook Chapters 5, 8, and 9.
 
@@ -468,7 +469,308 @@ A powerful, aristocratic vampire with green-tinged skin and ancient features. He
 
 ---
 
-## 5.8 Quick Reference: NPC Summary
+## 5.8 Faction Representative NPCs
+
+> *While legendary figures shape the arc of history, it is faction leaders, field captains, and cult prophets who shape the players' weekly reality. The following NPCs serve as the faces, voices, and swords of Nosgoth's major power blocs.*
+
+Use these characters as recurring allies, antagonists, or morally complex contacts. Unlike the legendary NPCs in sections 5.2–5.6, faction representatives **can** be fought, bargained with, or even killed — though doing so will reshape the political landscape.
+
+---
+
+### 5.8.1 Commander Malthus — Sarafan Inquisitor
+
+**Identity**
+- **Title:** Knight-Commander of the Sarafan Eastern Garrison
+- **Faction:** Sarafan Order
+- **Threat Value:** 3 (Elite)
+- **Alignment:** Lawful zealot — genuinely believes vampires are a blight on the Pillars
+
+**Appearance**
+Malthus is a broad-shouldered man in his late forties, face mapped with scars from a lifetime of vampire hunts. He wears consecrated plate etched with the Sarafan sigil, and his left gauntlet is bolted permanently shut around a relic-blade — a reminder of a wound that never fully healed. His eyes are pale grey and rarely blink.
+
+**Personality**
+- Methodical, patient, and terrifyingly calm
+- Views mercy toward the undead as spiritual weakness
+- Respects courage, even in enemies — will offer mortal opponents a clean death
+- Privately haunted by doubts he will never voice
+
+**Stats (if combat is needed)**
+| Attribute | Value |
+|:----------|:------|
+| Fury | 3 |
+| Fortitude | 4 |
+| Focus | 3 |
+| Shadow | 1 |
+| Soul | 2 |
+| Will | 3 |
+| DV | 4 |
+| DR | 2 |
+| Armor | 3 (consecrated plate) |
+| HP | 28 |
+
+**Abilities**
+- **Relic-Blade Strike:** Melee attacks deal +2 damage to undead targets.
+- **Inspiring Command (1/encounter):** All Sarafan allies within 30 ft gain +1 DV for 2 rounds.
+- **Iron Resolve:** Advantage on saves vs. fear, charm, and Corruption effects.
+- **Inquisitor's Eye:** Can detect vampiric taint within 15 ft (contested Soul vs. Shadow check).
+
+**Campaign Use**
+- Primary antagonist for vampire-lineage parties
+- Reluctant ally if party shares a common enemy (Hylden, Hash'ak'gik cult)
+- Source of moral tension: his cause is monstrous but his conviction is sincere
+- Killing him destabilises the eastern Sarafan garrison, creating a power vacuum
+
+**Signature Trait**
+> *"Mercy is a currency I no longer carry. Spend yours wisely."*
+
+---
+
+### 5.8.2 Elder Seripha — Crimson Fracture Blood-Matriarch
+
+**Identity**
+- **Title:** Blood-Matriarch of the Crimson Fracture inner circle
+- **Faction:** The Crimson Fracture
+- **Threat Value:** 3 (Elite)
+- **Alignment:** Chaotic traditionalist — believes vampires must return to open dominion
+
+**Appearance**
+Seripha appears no older than thirty but has walked Nosgoth for over four centuries. Her skin is marble-white, her hair a cascade of deep crimson kept braided in the style of the original Kainite courts. She dresses in antiquated finery — velvet and bone — and her fingernails have been filed to ritual points. She is never without her reliquary locket, which she claims holds a drop of Kain's blood.
+
+**Personality**
+- Aristocratic, passionate, and utterly contemptuous of mortal authority
+- Views the Pale Accord as a species betraying itself
+- Genuinely maternal toward young vampires she recruits
+- Capable of shocking cruelty when the cause demands it
+
+**Stats (if combat is needed)**
+| Attribute | Value |
+|:----------|:------|
+| Fury | 2 |
+| Fortitude | 2 |
+| Shadow | 4 |
+| Soul | 3 |
+| Focus | 2 |
+| Will/Blood | 3 |
+| DV | 3 |
+| DR | 3 |
+| Armor | 1 (unarmoured, preternatural dodge) |
+| HP | 22 |
+| SE | 12 |
+
+**Abilities**
+- **Blood Sovereignty (1/encounter):** Targets one vampire within 30 ft. The target must succeed on a Soul save (DR 3) or become charmed for 1 minute — feeling overwhelming loyalty to the Crimson Fracture's cause.
+- **Crimson Lash:** Ranged attack (40 ft), DV 3 — a whip of coagulated blood deals 6 damage and pulls the target 10 ft closer.
+- **Ancient Vitality:** Regenerates 2 HP at the start of each round unless she has taken fire or sunlight damage.
+- **Martyr's Fury:** When below half HP, gains +1 DV and +1 DV to all attacks until healed.
+
+**Campaign Use**
+- Recruiter or antagonist for mixed-lineage parties
+- Temptation arc: offers vampire PCs power, belonging, purpose — at a terrible cost
+- Political rival to the Pale Accord; assassination target or co-conspirator
+- Killing her martyrs the Crimson Fracture, making them more dangerous
+
+**Signature Trait**
+> *"The Accord asks you to file your fangs and beg at mortal tables. I ask you to remember what you are."*
+
+---
+
+### 5.8.3 Chronicler Adamas — Pale Accord Diplomat
+
+**Identity**
+- **Title:** Senior Chronicler and Field Diplomat of the Pale Accord
+- **Faction:** The Pale Accord
+- **Threat Value:** 2 (Standard)
+- **Alignment:** Pragmatic moderate — believes coexistence is the only survivable path
+
+**Appearance**
+Adamas is a lean, ageless vampire with close-cropped grey hair and spectacles he does not need — an affectation to put mortals at ease. He dresses in simple scholar's robes, carries a leather satchel of diplomatic correspondence, and bears a silver peace-brand on his wrist (a voluntary scar proving he endured silver to seal a pact). His voice is soft, measured, and carries an undertone of exhaustion.
+
+**Personality**
+- Patient, empathetic, and deeply pragmatic
+- Genuinely likes mortals, which other vampires find unsettling
+- Will lie fluently if it prevents bloodshed
+- Privately terrified the Accord is failing
+
+**Stats (if combat is needed)**
+| Attribute | Value |
+|:----------|:------|
+| Fury | 1 |
+| Fortitude | 2 |
+| Focus | 4 |
+| Shadow | 3 |
+| Soul | 3 |
+| Will/Blood | 3 |
+| DV | 2 |
+| DR | 3 |
+| Armor | 0 |
+| HP | 16 |
+| SE | 8 |
+
+**Abilities**
+- **Silver Tongue:** Advantage on all Persuasion, Deception, and Diplomacy checks. Can reroll one failed social check per scene.
+- **Accord Cipher:** Can encode/decode Pale Accord diplomatic messages. Carries sealed letters that, if delivered, can call in favours from Accord contacts across Nosgoth.
+- **Pact of Restraint:** Adamas has voluntarily suppressed his vampiric feeding instinct. He does not regenerate naturally but is immune to Blood Frenzy.
+- **Emergency Mist (1/day):** Can dissolve into mist and flee if reduced below 5 HP.
+
+**Campaign Use**
+- Quest-giver for diplomacy, escort, and intelligence missions
+- Moral anchor for parties tempted by extremism
+- Target for both Sarafan purges and Crimson Fracture assassinations
+- If killed, the Pale Accord loses its most effective field agent — local truces collapse
+
+**Signature Trait**
+> *"I have spent three lifetimes building bridges. I would very much prefer you not set fire to this one."*
+
+---
+
+### 5.8.4 Speaker Vreth — Hylden Remnant Agent
+
+**Identity**
+- **Title:** Speaker of the Bridging Conclave (Hylden cell operating in mortal territory)
+- **Faction:** Hylden Remnants
+- **Threat Value:** 3 (Elite)
+- **Alignment:** Cold rationalist — views the Pillars as a prison to be dismantled
+
+**Appearance**
+Vreth maintains a mortal disguise — a gaunt merchant with amber eyes and a faint chemical smell. His true form, rarely seen, is unmistakably Hylden: elongated skull, greyish-green skin stretched tight over angular bone, and vestigial horn ridges above the brow. He keeps his hands gloved to conceal the faint green luminescence of Hylden blood beneath thin skin.
+
+**Personality**
+- Intellectually arrogant but not needlessly cruel
+- Views vampires as evolutionary mistakes and mortals as useful tools
+- Capable of genuine curiosity — will spare an interesting enemy to study them
+- Utterly loyal to the Hylden cause; views death as a minor inconvenience
+
+**Stats (if combat is needed)**
+| Attribute | Value |
+|:----------|:------|
+| Fury | 2 |
+| Fortitude | 2 |
+| Focus | 4 |
+| Shadow | 3 |
+| Soul | 1 |
+| Will | 4 |
+| DV | 3 |
+| DR | 3 |
+| Armor | 2 (warded coat) |
+| HP | 20 |
+
+**Abilities**
+- **Glyph Disruption (1/encounter):** Targets one magical effect or warded area within 30 ft. The effect is suppressed for 2 rounds (no save) as Vreth destabilises its glyph matrix.
+- **Dimensional Whisper:** Can communicate telepathically with any Hylden within 1 mile. Other creatures in range feel a faint buzzing headache.
+- **Rationalist's Shield:** Immune to fear, charm, and divine compulsion effects. Treats all Corruption-based abilities as one tier lower. 
+- **Contingency Shift (1/day):** If reduced to 0 HP, Vreth's body phases partially into the Demon Realm; he stabilises at 1 HP and teleports up to 60 ft. Usable only once before requiring a long rest in a Hylden sanctum.
+
+**Campaign Use**
+- Primary intelligence antagonist — always three steps ahead
+- Potential uneasy ally against the Elder God or Hash'ak'gik cult
+- Gateway to Hylden lore, Rationalism philosophy, and Demon Realm hooks
+- Killing him triggers retaliation from the Bridging Conclave; capturing him yields invaluable intelligence
+
+**Signature Trait**
+> *"Your Pillars are a cage gilded with prophecy. We simply wish to open the door."*
+
+---
+
+### 5.8.5 Guildmaster Thessa — Outcast Fixer
+
+**Identity**
+- **Title:** Guildmaster of the Freeport Syndicate (Outcast trade network)
+- **Faction:** The Outcasts
+- **Threat Value:** 2 (Standard)
+- **Alignment:** Neutral survivor — loyalty is to her people and her purse, in that order
+
+**Appearance**
+Thessa is a stocky Revenant woman in her fifties with burn scars across the right side of her face and neck — a reminder of the Sarafan purge that killed her first family. She wears practical leathers, keeps a loaded crossbow under every desk she owns, and smells faintly of alchemical reagents. Her left eye is glass, replaced after a deal went wrong.
+
+**Personality**
+- Blunt, irreverent, and intensely loyal to those who earn her trust
+- Runs the Outcast trade network like a business — profit enables survival
+- Despises ideology but respects competence
+- Has a soft spot for orphans, strays, and anyone the world discarded
+
+**Stats (if combat is needed)**
+| Attribute | Value |
+|:----------|:------|
+| Fury | 2 |
+| Fortitude | 3 |
+| Focus | 3 |
+| Shadow | 3 |
+| Soul | 2 |
+| Will | 2 |
+| DV | 3 |
+| DR | 2 |
+| Armor | 2 (reinforced leathers) |
+| HP | 20 |
+
+**Abilities**
+- **Black Market Contacts:** Can procure any non-legendary item within 1d4 days for 150% market price. Rare components available at GM discretion.
+- **Escape Route (1/encounter):** Thessa always has an exit planned. She and up to 3 allies can immediately disengage and flee to a pre-arranged safe house.
+- **Crossbow Expertise:** Ranged attacks with crossbows gain +1 DV. She carries a modified hand crossbow (DV 3, 60 ft range, poison-tipped on demand).
+- **Street Wisdom:** Advantage on Insight, Investigation, and Streetwise checks in urban environments.
+
+**Campaign Use**
+- Primary quest-giver for heist, smuggling, and underworld missions
+- Equipment source, fence, and information broker
+- Gateway into the Outcast faction and Nosgoth's grey economy
+- Killing her collapses the Freeport Syndicate, cutting off black market access across the region
+
+**Signature Trait**
+> *"Everyone's got a price. Mine's just honest about it."*
+
+---
+
+### 5.8.6 Prophet Nakthos — Voice of Hash'ak'gik
+
+**Identity**
+- **Title:** Prophet-Aspirant of the Cult of Hash'ak'gik
+- **Faction:** Cult of Hash'ak'gik
+- **Threat Value:** 3 (Elite)
+- **Alignment:** Fanatical devotee — believes the Unspoken is a god of liberation
+
+**Appearance**
+Nakthos was once a Sarafan cleric. Now he is something else. His robes are stained with ash and old blood, his head is shaved, and ritual brands cover his scalp in concentric spirals — a map, he claims, of the Unspoken's whispers. His eyes have a faint amber glow that intensifies when he channels his patron's power. He carries a censer that burns a sickly-sweet incense capable of inducing visions.
+
+**Personality**
+- Eerily serene, speaking in a gentle cadence that belies horrific content
+- Genuinely believes he is saving souls from the Wheel
+- Views violence as regrettable but necessary sacrament
+- Charismatic enough to recruit from every walk of Nosgothic life
+
+**Stats (if combat is needed)**
+| Attribute | Value |
+|:----------|:------|
+| Fury | 1 |
+| Fortitude | 2 |
+| Focus | 3 |
+| Shadow | 2 |
+| Soul | 4 |
+| Will | 4 |
+| DV | 3 |
+| DR | 3 |
+| Armor | 1 (ritual vestments) |
+| HP | 18 |
+| Corruption | 6 |
+
+**Abilities**
+- **Whisper of the Unspoken (1/encounter):** All creatures within 20 ft must succeed on a Soul save (DR 3) or gain 1 Corruption and become frightened for 1 round as they briefly hear Hash'ak'gik's voice.
+- **Sacrificial Rite:** If Nakthos kills a creature during combat, he heals 4 HP and gains +1 to his next ability check. Cult acolytes within 30 ft gain +1 DV for 1 round.
+- **Veil of Incense:** The censer creates a 15 ft radius cloud of hallucinogenic smoke. Creatures inside have disadvantage on Focus checks and cannot distinguish illusions from reality.
+- **Martyr's Escape:** When reduced to 0 HP, Nakthos detonates in a burst of Corruption energy (15 ft radius, 4 damage, +1 Corruption on failed Soul save). His body dissolves, leaving only the censer — which still whispers.
+
+**Campaign Use**
+- Primary villain for horror-themed arcs and cult investigation quests
+- Recruitment threat: can turn allied NPCs or even weak-willed PCs
+- Connection to Hash'ak'gik lore and the deeper Demon Realm mystery
+- Killing him only silences one voice — the cult will anoint another Prophet within days
+
+**Signature Trait**
+> *"The Wheel grinds your soul to dust and calls it mercy. The Unspoken offers you a door. All you need do is knock."*
+
+---
+
+## 5.9 Quick Reference: NPC Summary
+
+### Legendary NPCs
 
 | Character | Primary Role | Power Level | Interaction Style | Campaign Use |
 |:----------|:-------------|:------------|:------------------|:-------------|
@@ -477,6 +779,17 @@ A powerful, aristocratic vampire with green-tinged skin and ancient features. He
 | **Moebius** | Manipulator / False Prophet | Very High (DV 5) | Deceptive, prophetic | Antagonist/deceiver |
 | **Elder God** | Cosmic Horror / True Enemy | God-Tier (Special) | Alien, manipulative | Campaign villain |
 | **Vorador** | Mentor / Wild Card | Very High (DV 5) | Defiant, hedonistic | Mentor/ally/hook |
+
+### Faction Representatives
+
+| Character | Faction | TV | Interaction Style | Campaign Use |
+|:----------|:--------|:---|:------------------|:-------------|
+| **Commander Malthus** | Sarafan Order | 3 | Calm, zealous | Antagonist / reluctant ally |
+| **Elder Seripha** | Crimson Fracture | 3 | Aristocratic, passionate | Recruiter / political rival |
+| **Chronicler Adamas** | Pale Accord | 2 | Measured, diplomatic | Quest-giver / moral anchor |
+| **Speaker Vreth** | Hylden Remnants | 3 | Arrogant, curious | Intelligence antagonist / uneasy ally |
+| **Guildmaster Thessa** | The Outcasts | 2 | Blunt, pragmatic | Fixer / equipment source |
+| **Prophet Nakthos** | Cult of Hash'ak'gik | 3 | Serene, fanatical | Horror villain / cult arc |
 
 ---
 

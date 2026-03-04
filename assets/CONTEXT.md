@@ -53,7 +53,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 ## Lineages (Races)
 
 ### Playable Lineages
-1. **Vampires** (Subtypes: Razielim, Turelim, Dumahim, Zephonim)
+1. **Vampires** (Subtypes: Razielim, Turelim, Dumahim, Zephonim, Melchiahim, Rahabim)
 2. **Wraiths** - Souls between life and death, can phase into Spectral Realm
 3. **Humans** (Subtypes: Sarafan, Nomads, Oracle-Blooded)
 4. **Hylden-Blooded** - Corrupted by ancient alien influence
@@ -283,7 +283,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 ### Lore — Lineage Lore Population — Oct 31, 2025
 - Populated `lore/Lineage-Lore.md` using narrative material from `Source-Docs/Main-Rules` (Lineage Lore Compendium and Lineages).
 - Added H1, compact At-a-glance TOC, and per-lineage sections:
-   - Vampires (Razielim, Turelim, Dumahim, Zephonim)
+   - Vampires (Razielim, Turelim, Dumahim, Zephonim, Melchiahim, Rahabim)
    - Wraiths; Humans (Sarafan, Nomads, Oracle-Blooded)
    - Hylden-Blooded; Revenants; Unbound
 - Kept it flavor-only; added concise “Common threads” bullets for each lineage to guide NPCs, prejudices, and quest seeds.
