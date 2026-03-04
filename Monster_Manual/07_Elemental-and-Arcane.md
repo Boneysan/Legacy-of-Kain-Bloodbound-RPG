@@ -50,7 +50,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 - **Range:** Melee (5ft)
 - **Dice Pool:** Fury (6) + 3 vs. Dodge
 - **Damage:** 10 Fire Damage. On hit, the target gains 1 stack of **Immolate**.
-- **Immolate:** Target takes 2 Fire damage at the start of their turn. Stacks up to 5 times. Can be doused with an Action and a successful Willpower check (DC 12) or by taking Cold damage.
+- **Immolate:** Target takes 2 Fire damage at the start of their turn. Stacks up to 5 times. Can be doused with an Action and a successful Willpower check (DC 12) (removes all stacks) or by taking Cold damage (removes all stacks).
 
 **2. Emberstorm (Area of Effect)**
 - **Action:** 1 Action
@@ -158,7 +158,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 **4. Pack Hunter's Sorrow (Innate Ability)**
 - **Passive**
-- **Effect:** If the Spiritbound Flame Wolf is the only hostile creature engaged in combat, it gains +2 to all its attack dice pools. If it is fighting alongside allies, it instead gains +2 to its Armor as it coordinates its movements.
+- **Effect:** If the Spiritbound Flame Wolf is the only hostile creature on the battlefield (no other enemies present), it gains +2 to all its attack dice pools. If it is fighting alongside allies, it instead gains +2 to its Armor as it coordinates its movements.
 
 ---
 
@@ -375,93 +375,94 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 ---
 
-## Frostbound Guardian
+## Glacial Warden
 
-*A towering figure of living ice, formed from the frozen essence of ancient glaciers. It moves with deliberate purpose, its crystalline form glowing with an inner cold light. It is a sentinel of the frozen wastes, bound to protect a sacred site or artifact.*
+*A massive construct of translucent, layered ice, standing nearly twelve feet tall. Its body is a lattice of crystalline formations that shift and reform with grinding, percussive cracks. It does not chase. It does not rage. It stands between you and what it guards, and it makes you come to it.*
 
-**Threat Value:** 10 (Medium)
+**Threat Value:** 11 (Medium)
 
 **Attributes:**
-- **Fury:** 5 (Primary)
-- **Soul:** 2
-- **Shadow:** 4
-- **Will:** 5
-- **Focus:** 2
+- **Fury:** 4
+- **Soul:** 3
+- **Shadow:** 2
+- **Will:** 6 (Primary)
+- **Focus:** 3
 - **Blood:** 0
 
 **Resources:**
-- **Health:** 90
-- **Soul Energy (SE):** 20
+- **Health:** 100
+- **Soul Energy (SE):** 25
 - **Blood Points (BP):** N/A
-- **Armor:** 6 (Thick crystalline ice)
+- **Armor:** 7 (Crystalline Ice)
 
-**Movement:** 6 (Slow, deliberate)
-**Initiative:** 3
+**Defense Value (DV):** 5
+**Movement:** 5 (Very slow)
+**Initiative:** 2
 
 **Skills:**
-- **Intimidation (Will):** 8
-- **Athletics (Fury):** 8
-- **Perception (Focus):** 5
+- **Intimidation (Will):** 9
+- **Athletics (Fury):** 7
+- **Perception (Focus):** 6
 
 **Immunities:** Cold, Fear, Charm, Poison
-**Vulnerabilities:** Fire
+**Vulnerabilities:** Fire, Sonic
 **Resistances:** Slashing and Piercing damage from non-magical weapons.
 
 ---
 
 ### Attacks & Abilities
 
-**1. Frostblade Strike (Basic Attack)**
+**1. Icebound Slam (Basic Attack)**
 - **Action:** 1 Action
-- **Range:** Melee (5ft)
-- **Dice Pool:** Fury (5) + 4 vs. Parry/Dodge
-- **Damage:** 12 Physical (Slashing) Damage + 4 Cold Damage. On hit, the target's movement speed is halved until the end of their next turn.
+- **Range:** Melee (10ft reach)
+- **Dice Pool:** Fury (4) + 4 vs. Parry/Dodge
+- **Damage:** 10 Physical Damage + 6 Cold Damage. On hit, the target must make a Fury check (DC 13) or be knocked prone.
 
-**2. Avalanche Crush (Area of Effect)**
+**2. Permafrost Zone (Area Control)**
 - **Action:** 1 Action
-- **Cost:** 6 SE
-- **Range:** 15ft cone
-- **Dice Pool:** Fury (5) + 3 vs. Agility
-- **Effect:** The guardian unleashes a wave of frost and ice. Creatures in the cone must defend. On a failure, they take 10 Cold damage and are Restrained (frozen in place) for one round. A successful defense results in half damage and no restraint.
+- **Cost:** 8 SE
+- **Range:** 20ft radius centered on self
+- **Effect:** The Warden freezes the ground and air around it, creating a zone of extreme cold lasting 3 rounds. All creatures entering the zone or starting their turn within it take 4 Cold damage and have their movement halved. The Warden is immune to this effect. The zone persists even if the Warden moves away from its origin point.
 
-**3. Guardian's Vigil (Innate Ability)**
-- **Passive**
-- **Effect:** When combat begins, the Frostbound Guardian designates the nearest creature as its "Intruder." It will relentlessly move towards this target, ignoring all other creatures unless they are directly blocking its path. The guardian has +2 on all attack dice pools against its designated Intruder. It only chooses a new Intruder if its current one is neutralized or has left its sensory range for more than a minute.
+**3. Ice Wall (Reaction)**
+- **Trigger:** An ally within 30ft is targeted by a ranged attack.
+- **Cost:** 5 SE
+- **Effect:** The Warden raises a wall of solid ice between the attacker and the target. The wall is 10ft wide, 10ft tall, and has 20 HP and Armor 4. It provides total cover until destroyed or until the end of the Warden's next turn, whichever comes first.
 
-**4. Frozen Anchor (Passive)**
+**4. Crystalline Reformation (Passive)**
 - **Passive**
-- **Effect:** The guardian cannot be knocked prone, pushed, or pulled against its will as long as it is standing on solid ground. Its icy form is anchored to the earth.
+- **Effect:** At the start of each of its turns, the Warden regenerates 5 HP if it is standing on ice or stone. If the Warden is reduced to 0 HP, it shatters violently. All creatures within 10ft must make an Agility save (DC 14) or take 8 Cold damage (half on a success).
 
 ---
 
 ### Lore & Behavior
 
-**Lore:** Frostbound Guardians are ancient protectors, formed from the primordial ice of Nosgoth's frozen regions. They are created by powerful elemental rituals to safeguard sacred sites, such as hidden temples or powerful artifacts buried in glaciers. They remain dormant, indistinguishable from natural ice formations, until disturbed by intruders.
+**Lore:** Unlike the vengeance-driven Frost-Wrought Avenger, the Glacial Warden is a deliberate creation — formed by ancient Nosgothian sorcerers to guard places of power in the frozen highlands. It does not pursue; it defends. Its crystalline body reshapes itself to block passages and seal entrances. Approaching a Glacial Warden's sanctum means fighting through layers of ice walls, frozen terrain, and the Warden's patient, grinding attrition.
 
-**Behavior:** The guardian is a slow but unstoppable force. It will identify its Intruder and march towards them. It uses Avalanche Crush if multiple enemies are clustered together or blocking its path to its primary target. Otherwise, it will use Frostblade Strike on its chosen victim until they are neutralized. It will smash through obstacles rather than detour, unless ordered otherwise by its creator or warding geas.
+**Behavior:** The Warden is a territorial defender. It establishes Permafrost Zones around entry points and uses Ice Walls to funnel attackers into kill zones. It engages in melee only when intruders breach its defenses, using Icebound Slam to knock enemies back into frozen terrain. It fights with cold logic, not rage — repositioning to maximize the effectiveness of its zones rather than chasing fleeing targets.
 
 ---
 
 ### Tactics & Strategy
 
-**For Players:** The guardian's single-mindedness is its greatest weakness. The designated Intruder will be under immense pressure, but this allows the rest of the party to act with relative impunity. Use Fire damage to melt its armor and exploit its vulnerability. The Intruder should focus on defense and evasion (kiting), while their allies deal damage. Spells that can immobilize it, despite its Frozen Anchor, are valuable for buying time.
+**For Players:** The Warden's weakness is its immobility. Kite it, use Fire damage to overwhelm its regeneration, and destroy its Ice Walls quickly before they funnel you into its Permafrost Zones. Sonic damage bypasses its crystalline armor effectively. Don't cluster in its Permafrost Zone — the halved movement and Cold damage will grind your party down. Spread out and attack from multiple angles to force it to choose which direction to wall off.
 
-**For the GM:** Make the guardian's relentless nature the focus of the encounter. Describe it walking through a bonfire, ignoring the flames, to continue its pursuit. The challenge for the party is not just defeating it, but protecting the Intruder. If the Intruder goes down, the guardian will immediately designate the next closest creature as its new Intruder.
+**For the GM:** Use the Warden as a set-piece encounter in a frozen dungeon. Place it at the end of a corridor full of its Permafrost Zones. It should feel like a siege — players must break through layers of defenses to reach the Warden itself. The Warden does not chase; if players retreat, it simply rebuilds its defenses and waits. Pair it with environmental hazards like collapsing ice or frozen pits to amplify the oppressive, defensive theme.
 
 ---
 
 ### Loot & Rewards
 
-- **Core of Eternal Frost:** A shard of ice that remains at absolute zero. Can be used to craft a weapon that deals extra Cold damage and can slow targets.
-- **Guardian's Ice Shard:** A piece of the guardian's core. Can be incorporated into existing armor to grant the wearer immunity to being knocked prone.
-- **Protected Relic:** The guardian was protecting something. Its destruction may reveal a hidden treasure, a dangerous artifact, or a source of great power.
+- **Warden's Frostcore:** A sphere of solid magical ice that radiates intense cold. Can be used to craft armor that grants Cold Resistance and immunity to being knocked prone.
+- **Crystalline Shard:** A fragment of the Warden's body, humming with residual magic. Can be used as a material component for ice-based spells, granting +2 to the casting roll.
+- **Frozen Sanctum Key:** The Warden was guarding something — its destruction reveals a passage, a vault, or a sealed artifact. The nature of what lies beyond is campaign-specific.
 
 ---
 
 ### Scaling Options
 
-- **Threat Value 13 (Major):** Increase Health to 120 and Armor to 8. **Frostblade Strike** now deals 15 Physical + 6 Cold damage. The range of **Avalanche Crush** increases to a 20ft cone. Gains a new aura: **Rimefrost Aura (5ft)** - creatures starting their turn in the aura take 3 Cold damage and cannot take reactions.
-- **Threat Value 17 (Deadly):** As above, but its **Guardian's Vigil** is now more potent. It can use its reaction to make a **Frostblade Strike** attack against its Intruder if they try to move away from it. It also gains one Legendary Resistance, allowing it to succeed on a saving throw it would have failed.
+- **Threat Value 14 (Major):** Increase Health to 140 and Armor to 9. Permafrost Zone radius increases to 30ft. Ice Wall now has 30 HP and Armor 6. Gains **Glacial Command (Legendary Action, 1/round)**: The Warden can create an additional Ice Wall or move an existing Permafrost Zone up to 10ft.
+- **Threat Value 17 (Deadly):** As above, but the Warden gains 2 Legendary Actions per round. Crystalline Reformation now heals 10 HP per turn. When shattered at 0 HP, the death burst deals 15 Cold damage in a 15ft radius and all creatures hit are Restrained for 1 round.
 
 ---
 
@@ -514,11 +515,11 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 - **Dice Pool:** Soul (6) + 3 vs. Agility
 - **Effect:** All creatures within the area must defend. On a failed defense, they take 12 Fire damage and are Blinded for one round. On a success, they take half damage and no Blindness.
 
-**3. Spell Echo (Reaction Ability)**
+**3. Spell Echo (Reaction Ability, 1/round)**
 - **Reaction:** When a creature within 30ft casts a spell, the Wyrm can attempt to echo it.
 - **Cost:** 10 SE
 - **Dice Pool:** Soul (6) + 4 vs. the spellcaster's Soul
-- **Effect:** If successful, the Wyrm casts the same spell at the same target, but with half the normal damage or effect. This can only be done once per spell cast.
+- **Effect:** If successful, the Wyrm casts the same spell at the same target, but with half the normal damage or effect. This can only be done once per spell cast and once per round.
 
 **4. Volatile Essence (Innate Ability)**
 - **Passive**
@@ -586,7 +587,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 - **Intimidation (Will):** 6
 
 **Immunities:** Lightning, Thunder, Non-magical physical damage
-**Vulnerabilities:** Earth-based effects (e.g., grounding, earthen barriers)
+**Vulnerabilities:** Grounding effects, anti-magic fields, and abilities that dispel or suppress magical energy
 **Resistances:** Fire, Cold
 
 ---
@@ -695,7 +696,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 - **Cost:** 8 SE per turn
 - **Range:** 20ft
 - **Dice Pool:** Soul (5) + 3 vs. Willpower
-- **Effect:** The Binder attempts to bind a creature's soul. On a failed defense, the target cannot move or take actions for one minute, as their soul is tethered to the mist. They can attempt to break free at the start of each turn with a Willpower check (DC 15). The Binder can maintain this on multiple targets but must divide its attention.
+- **Effect:** The Binder attempts to bind a creature's soul. On a failed defense, the target cannot move or take actions for one minute, as their soul is tethered to the mist. They can attempt to break free at the start of each turn with a Willpower check (DC 15). The Binder can maintain Soul Bind on only one target at a time.
 
 **3. Obscuring Veil (Aura)**
 - **Passive**

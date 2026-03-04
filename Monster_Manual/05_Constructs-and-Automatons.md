@@ -51,6 +51,7 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 - **Difficulty Rating (DR)**: 3 (Physical saves), 0 (Mental saves, immune)
 - **Movement**: 5 tiles per turn (heavy and mechanical)
 - **Armor**: Heavy (blessed plate, Armor 4 vs Physical, Armor 2 vs Soul/Necrotic)
+- **Soul Energy (SE):** N/A
 
 **Attributes**:
 - Fury: 4
@@ -129,6 +130,7 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 - **Difficulty Rating (DR)**: 4 (Physical saves), 3 (Magical saves), 0 (Mental, immune)
 - **Movement**: 6 tiles per turn (slow but unstoppable)
 - **Armor**: Massive (stone body, Armor 5 vs Physical, Armor 3 vs Elemental, Armor 1 vs Magic)
+- **Soul Energy (SE):** 50
 
 **Attributes**:
 - Fury: 6
@@ -175,7 +177,7 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 
 **Guardian Protocol**: The Sentinel will not attack creatures who are not threatening the Pillar site or attempting to steal artifacts. Clever players can negotiate or withdraw to avoid combat. However, once combat begins, the Sentinel fights until destroyed or intruders flee the area.
 
-**Core Weakness**: Hidden within the Sentinel's chest is a magical core (DV 8, 30 HP). If a player can specifically target the core (requires a called shot with Disadvantage and DR 4), they can damage it directly. If the core is destroyed, the Sentinel collapses (instant death).
+**Core Weakness**: Hidden within the Sentinel's chest is a magical core (DV 8, 30 HP). If a player can specifically target the core (requires a called shot with Disadvantage and DR 4), they can damage it directly. If the core is destroyed, the Sentinel collapses (instant death). (A called shot requires the attacker to declare they are targeting the core before rolling. The attack is made at Disadvantage. If it hits, apply damage directly to the core, bypassing the Sentinel's normal Armor.)
 
 **Legendary Actions (3 per round)**: The Sentinel can use Legendary Actions at the end of another creature's turn. It has 3 Legendary Actions per round.
 - **Move**: The Sentinel moves up to half its movement speed.
@@ -221,6 +223,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 - **Difficulty Rating (DR)**: 2 (Physical saves), 1 (Magical saves), 0 (Mental, immune)
 - **Movement**: 4 tiles per turn (slow and lumbering)
 - **Armor**: Medium (stone/clay body, Armor 3 vs Physical, Armor 1 vs Elemental)
+- **Soul Energy (SE):** N/A
 
 **Attributes**:
 - Fury: 3
@@ -296,6 +299,7 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 - **Difficulty Rating (DR)**: 2 (Physical saves), 3 (Soul saves), 1 (Mental saves)
 - **Movement**: 9 tiles per turn (very fast, quadruped)
 - **Armor**: Medium (iron frame + tough hide, Armor 2 vs Physical, Armor 1 vs Soul)
+- **Soul Energy (SE):** N/A
 
 **Attributes**:
 - Fury: 4
@@ -335,14 +339,14 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 
 **Trapped Soul**: The soul within the Beast is suffering. Characters with Soul-based abilities (Wraiths, Soul Reavers, etc.) can attempt to free the soul with a DR 4 Soul + Rituals roll (requires 1 action in combat). If successful, the Beast collapses (instant death) and the soul is released (may provide information or gratitude).
 
-**Erratic Behavior**: At the start of each of the Beast's turns, roll 1d6. On a 1, the trapped soul briefly resists, and the Beast skips its turn (stunned by internal conflict). This represents the soul fighting the Hylden programming.
+**Erratic Behavior:** When first reduced to half HP (bloodied), the Iron-Cage Beast's conflicting commands cause it to lose its next turn as it recalibrates. This happens only once per encounter.
 
 #### Tactics
 - **Fast and Aggressive**: Iron-Cage Beasts charge in with Pounce, knocking targets Prone, then follow up with Clawed Iron Limbs.
 - **Soul Scream for Disruption**: They use Soul Scream to Frighten enemies, creating space for allies or preventing retaliation.
 - **Pack Coordination**: They work with other Hylden creatures, using Pack Tactics to amplify attacks.
 - **Agonized Fury Finish**: When wounded, they become even more dangerous, attacking relentlessly until destroyed.
-- **Erratic Behavior Unpredictability**: The 1-in-6 chance of skipping a turn makes them unreliable but tragic—the soul is fighting back.
+- **Erratic Behavior**: When bloodied, the Beast loses its next turn once as the trapped soul fights back—tragic and dramatic.
 
 #### Loot
 - Iron frame pieces (twisted metal, still humming with energy) - **Trade Value**: 15 supplies, can be used in crafting or sold to engineers
@@ -369,10 +373,11 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 
 #### Stats
 - **HP**: 55
-- **Defense Value (DV)**: 7
+- **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 3 (all saves), 0 (Mental, immune)
 - **Movement**: 7 tiles per turn (agile)
 - **Armor**: Medium (arcane plating, Armor 3 vs Physical, Armor 4 vs Magic)
+- **Soul Energy (SE):** 25
 
 **Attributes**:
 - Fury: 3
@@ -406,13 +411,13 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 #### Abilities
 **Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Arcane Lore, DR 4, restores 15 HP).
 
-**Glyph Adaptation**: At the start of each of the Automaton's turns, its glyphs shift. It gains resistance to the last damage type it took (half damage from that type until it shifts again). This makes it progressively harder to damage with repeated attacks.
+**Glyph Adaptation (1/encounter)**: After being hit by a damage type, the Automaton gains Resistance to that type until the end of its next turn.
 
 **Arcane Deflection**: The Automaton has Advantage on saves vs spells and magical effects. When it successfully saves against a spell, it regains 2 SE.
 
-**Phase Step**: As a bonus action, the Automaton can teleport up to 15 feet to any unoccupied space it can see (glyphs allow brief reality shifts). This can be used once per turn.
+**Phase Step (Recharge 5-6)**: As a bonus action, the Automaton can teleport up to 15 feet to any unoccupied space it can see (glyphs allow brief reality shifts). This can be used once per turn.
 
-**Self-Repair Protocol**: When reduced below 20 HP, the Automaton spends 1 round repairing itself (cannot attack, gains +4 DV). At the end of the round, it regains 20 HP. This can only be used once per encounter.
+**Self-Repair Protocol**: When reduced below 20 HP, the Automaton spends 1 round repairing itself (cannot attack, gains +4 DV). At the end of the round, it regains 10 HP. This can only be used once per encounter.
 
 #### Tactics
 - **Glyph Bolt at Range**: Automatons open combat with Glyph Bolt, targeting casters or priority threats from afar.
@@ -452,6 +457,7 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 - **Difficulty Rating (DR)**: 5 (Physical saves), 4 (Magical saves), 0 (Mental, immune)
 - **Movement**: 4 tiles per turn (slow but unstoppable)
 - **Armor**: Massive (bio-metal plating, Armor 6 vs Physical, Armor 4 vs Elemental, Armor 2 vs Soul)
+- **Soul Energy (SE):** 50
 
 **Attributes**:
 - Fury: 7
@@ -525,6 +531,8 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 #### Scaling Options
 **Awakened Soul-Tower** (Legendary, TV 6+): +100 HP, increase Fury to 8, Soul to 7. Add 2 additional Soul Cores (5 total, each with 50 HP). Add "Soul Storm" ability (60-foot radius, 18 Soul damage, Recharge 4-6). Increase Legendary Actions to 5 per round. Add "Summon Hylden Constructs" Legendary Action (costs 3 actions, summons 1d3 Iron-Cage Beasts).
 
+*GM Note: The Soul-Tower is designed as a 'siege encounter' — an entire session's challenge, not a single combat. Its astronomical effective HP (200 + 120 in cores + regeneration) is intentional but requires multiple approaches: the party may need to disable cores, interrupt regeneration, or find the Tower's power source. Consider telegraphing the Tower's mechanics in advance so players can prepare.*
+
 ---
 
 ### 7. Bound-Logic Scribe
@@ -542,26 +550,27 @@ Scribes are valuable sources of information. They can answer questions about the
 
 #### Stats
 - **HP**: 28
-- **Defense Value (DV)**: 5
+- **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 2 (Physical saves), 3 (Magical saves), 0 (Mental, immune)
 - **Movement**: 6 tiles per turn
 - **Armor**: Light (bronze frame, Armor 2 vs Physical, Armor 3 vs Magic)
+- **Soul Energy (SE):** 12
 
 **Attributes**:
 - Fury: 2
 - Soul: 3
 - Shadow: 3
 - Will: 0
-- Focus: 5
+- Focus: 4
 - Blood: 0
 
 **Skills**:
-- Knowledge (all subjects): 5
+- Knowledge (all subjects): 4
 - Precision Combat: 3
 - Archive Defense: 2
 
 #### Attacks
-**Scribe's Stylus** (Focus 5 + Precision Combat 3 = 8d6)
+**Scribe's Stylus** (Focus 4 + Precision Combat 3 = 7d6)
 - Range: Melee
 - Damage: 5 Physical damage
 - Effect: On Critical Hit (3+ successes), the Scribe strikes a pressure point, causing the target to be **Stunned** until the end of their next turn (exploiting anatomical knowledge).
@@ -571,7 +580,7 @@ Scribes are valuable sources of information. They can answer questions about the
 - Damage: None
 - Effect: The Scribe inscribes a glyph in the air that binds one target. Target must pass a DR 3 Will save or be **Silenced** (cannot speak, cast spells with verbal components, or use abilities requiring speech) for 3 rounds.
 
-**Knowledge Blast** (Focus 5 + Knowledge 5 = 10d6, once per encounter, costs 3 SE)
+**Knowledge Blast** (Focus 4 + Knowledge 4 = 8d6, once per encounter, costs 3 SE)
 - Range: 30-foot cone
 - Damage: 6 Soul damage
 - Effect: The Scribe overwhelms targets with a telepathic torrent of information. Targets must pass a DR 3 Will save or be **Confused** (Disadvantage on all rolls for 2 rounds, as their minds reel from information overload).
@@ -623,6 +632,7 @@ Drones are often the first encounter players have with Hylden technology. Their 
 - **Difficulty Rating (DR)**: 1 (Physical saves), 0 (Mental, immune)
 - **Movement**: 4 tiles per turn (ground), 10 tiles per turn (flying)
 - **Armor**: None (obsidian shell, but no mitigation)
+- **Soul Energy (SE):** N/A
 
 **Attributes**:
 - Fury: 2
@@ -734,6 +744,8 @@ Drones are often the first encounter players have with Hylden technology. Their 
 **Environmental Factor**: The archive is filled with flammable texts. Using Fire damage risks destroying valuable knowledge (and angering the Scribe further).
 
 **Twist**: The Scribe can be bargained with. If the party offers to repair the archive (restore damaged texts, return stolen books from elsewhere), it may allow them to copy (not take) one text as payment.
+
+> **Glyphfused Automaton Minions**: (Use the Obsidian Drone stat block from this chapter as a stand-in for scaled-down Automatons, or reduce the Glyphfused Automaton to: HP 5, DV 3, Armor 1, Movement 25 feet, Glyph Strike: Fury 2 + 2 = 4d6 vs Dodge, 3 Physical damage.)
 
 ---
 

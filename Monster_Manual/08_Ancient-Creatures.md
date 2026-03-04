@@ -31,7 +31,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 
 **Movement:** 8; **Initiative:** 4
 
-**Skills:** Athletics 12, Intimidation 9, Arcana 6
+**Skills:** Athletics (Fury) 12, Intimidation (Will) 9, Arcana (Soul) 6
 
 **Immunities:** Poison, Charm, Sleep; **Resistances:** Bludgeoning/Piercing/Slashing (non-magical)
 
@@ -39,21 +39,27 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 
 ### Attacks & Abilities
 
-1) Stone-Hewer Fist (Basic)
-- Action: 1; Range: 10ft reach; Dice: Fury 7 + 4 vs Dodge; Damage: 18 Bludgeoning. On hit, target must pass Fury DR 15 or be knocked prone.
+**Stone-Hewer Fist (Basic Attack)**
+- Action: 1
+- Range: 10ft reach
+- Dice Pool: Fury + Athletics = 11d6 vs Dodge
+- Damage: 18 Bludgeoning. On hit, target must pass Fury DR 15 or be knocked prone.
 
-2) Pillar Shockwave (AoE)
-- Action: 1; Cost: 6 SE; 25ft cone; Dice: Fury 7 + 3 vs Agility; Fail: 16 Force and pushed 15ft; Success: half, no push.
+**Pillar Shockwave (Special)**
+- Action: 1; Cost: 6 SE
+- Range: 25ft cone
+- Dice Pool: Fury + Intimidation = 10d6 vs Agility
+- Fail: 16 Force and pushed 15ft; Success: half, no push.
 
-3) Judgment Sigils (Passive)
+**Judgment Sigils (Passive)**
 - The Colossus marks up to 2 foes at the start of combat. Marked creatures have -1 DV vs its attacks; when a marked creature drops to 0 HP, the Colossus regains 15 Health.
 
-4) Siege Stride (Terrain)
+**Siege Stride (Passive)**
 - Difficult terrain does not slow it; moving within 5ft of walls causes rubble (light cover zones) to form.
 
 Legendary Actions (2/round)
 - Stomp: 5ft shock pulse; adjacent creatures make Agility DR 15 or take 6 Force and are Staggered (no reactions) until end of turn.
-- Hurl Debris: 60ft ranged; Fury 7 + 3 vs Dodge; 12 Bludgeoning + 4 Piercing.
+- Hurl Debris: 60ft ranged; Fury + Athletics = 10d6 vs Dodge; 12 Bludgeoning + 4 Piercing.
 
 ---
 
@@ -82,7 +88,7 @@ Legendary Actions (2/round)
 
 **Movement:** 8 (Hover); **Initiative:** 8
 
-**Skills:** Arcana 12, Insight 10, Perception 9
+**Skills:** Arcana (Soul) 12, Insight (Focus) 10, Perception (Focus) 9
 
 **Immunities:** Prone; **Resistances:** Force, Psychic
 
@@ -90,17 +96,26 @@ Legendary Actions (2/round)
 
 ### Attacks & Abilities
 
-1) Harmonic Lance (Basic)
-- Action: 1; 60ft; Soul 6 + 4 vs Will; 12 Psychic; on hit, -1 to target’s Will checks (1 minute, stacks to -3).
+**Harmonic Lance (Basic Attack)**
+- Action: 1
+- Range: 60ft
+- Dice Pool: Soul + Arcana = 10d6 vs Will
+- Damage: 12 Psychic; on hit, -1 to target's Will checks (1 minute, stacks to -3).
 
-2) Shattering Chorus (AoE)
-- Action: 1; Cost: 10 SE; 20ft radius within 60ft; Agility DR 15 or 16 Force and weapons/shields lose 1 Armor rating (min 0) for 1 hour.
+**Shattering Chorus (Special)**
+- Action: 1; Cost: 10 SE
+- Range: 20ft radius within 60ft
+- Save: Agility DR 15
+- Fail: 16 Force and weapons/shields lose 1 Armor rating (min 0) for 1 hour.
 
-3) Augury Veil (Support)
-- Bonus; Cost: 6 SE; an ally within 30ft gains Advantage on one roll and +2 DV until start of Oracle’s next turn.
+**Augury Veil (Special)**
+- Action: Bonus; Cost: 6 SE
+- Range: 30ft (one ally)
+- Effect: Target gains Advantage on one roll and +2 DV until start of Oracle's next turn.
 
-4) Foretold Step (Reaction)
-- When targeted, spend 6 SE to gain +2 DV vs that attack, then move 10ft without OA.
+**Foretold Step (Special)**
+- Action: Reaction; Cost: 6 SE
+- Effect: When targeted, gain +2 DV vs that attack, then move 10ft without OA.
 
 ---
 
@@ -128,7 +143,7 @@ Legendary Actions (2/round)
 
 **Movement:** 12 (Swim, Burrow-silt 6); **Initiative:** 5
 
-**Skills:** Athletics 13, Perception 8, Survival 8
+**Skills:** Athletics (Fury) 13, Perception (Focus) 8, Survival (Focus) 8
 
 **Immunities:** Poison; **Resistances:** Cold, Physical (non-magical)
 
@@ -136,17 +151,26 @@ Legendary Actions (2/round)
 
 ### Attacks & Abilities
 
-1) Ruin-Crush Jaws (Basic)
-- Action: 1; Melee 10ft; Fury 8 + 4 vs Dodge/Parry; 22 Bludgeoning. Huge or smaller: Agility DR 16 or Grappled (escape DR 16).
+**Ruin-Crush Jaws (Basic Attack)**
+- Action: 1
+- Range: Melee 10ft
+- Dice Pool: Fury + Athletics = 12d6 vs Dodge/Parry
+- Damage: 22 Bludgeoning. Huge or smaller: Agility DR 16 or Grappled (escape: contested Fury + Athletics check, DR 16).
 
-2) Undertow (Zone)
-- Action: 1; 30ft radius in water; creatures must pass Athletics DR 15 or be pulled 15ft toward Leviathan and knocked prone in water.
+**Undertow (Special)**
+- Action: 1
+- Range: 30ft radius in water
+- Save: Athletics (Fury) DR 15
+- Fail: Pulled 15ft toward Leviathan and knocked prone in water.
 
-3) Collapse the Vault (Lair)
-- As a lair action (on 20): sections of ceiling fall; creatures in a 15ft square (GM chooses) make Agility DR 15 or take 14 Bludgeoning, area becomes difficult terrain.
+**Collapse the Vault (Special — Lair Action)**
+- Trigger: Lair action (on initiative 20)
+- Range: 15ft square (GM chooses)
+- Save: Agility DR 15
+- Fail: 14 Bludgeoning; area becomes difficult terrain.
 
 Legendary Actions (2/round)
-- Tail Sweep: 15ft line; Fury 8 + 3; 12 Bludgeoning and push 10ft.
+- Tail Sweep: 15ft line; Fury + Athletics = 11d6 vs Dodge; 12 Bludgeoning and push 10ft.
 - Drown Drag: Move half speed; dragged grappled target moves with it.
 
 ---
@@ -175,7 +199,7 @@ Legendary Actions (2/round)
 
 **Movement:** 12 (Hover, Phasing); **Initiative:** 9
 
-**Skills:** Arcana 9, Stealth 10, Insight 8
+**Skills:** Arcana (Soul) 9, Stealth (Shadow) 10, Insight (Focus) 8
 
 **Immunities:** Non-magical physical; **Resistances:** Radiant, Soul; **Vulnerabilities:** Glyph magic
 
@@ -183,16 +207,22 @@ Legendary Actions (2/round)
 
 ### Attacks & Abilities
 
-1) Balance Lash (Basic)
-- Action: 1; 10ft; Soul 6 + 4 vs Will; 10 Soul + 4 Force; on hit, target loses 1 SE (or BP) if they have any.
+**Balance Lash (Basic Attack)**
+- Action: 1
+- Range: 10ft
+- Dice Pool: Soul + Arcana = 10d6 vs Will
+- Damage: 10 Soul + 4 Force; on hit, target loses 1 SE (or BP) if they have any.
 
-2) Pillar Mark (Debuff)
-- Action: 1; Cost: 6 SE; 60ft; mark a target. First time each round the Shade hits the marked target, it deals +6 Soul.
+**Pillar Mark (Special)**
+- Action: 1; Cost: 6 SE
+- Range: 60ft
+- Effect: Mark a target. First time each round the Shade hits the marked target, it deals +6 Soul.
 
-3) Phase Step (Movement)
-- Bonus; Cost: 3 SE; teleport 20ft to a space it can see.
+**Phase Step (Special)**
+- Action: Bonus; Cost: 3 SE
+- Effect: Teleport 20ft to a space it can see.
 
-Anchored Guardian
+**Anchored Guardian (Passive)**
 - The Shade cannot move more than 100ft from its Pillar shard. If the shard (Health 50, Armor 10) is destroyed, the Shade dissipates.
 
 ---
@@ -203,6 +233,10 @@ Anchored Guardian
 
 ### Loot
 - Fractured Pillar Sliver: Focus +1 for checks to resist corruption or planar effects.
+
+### Scaling Options
+- **Weakened Form (TV 8):** Reduce HP to 55, Armor to 1, and Balance Lash damage to 7 Soul + 3 Force. Remove Pillar Mark.
+- **Empowered Form (TV 14):** Increase HP to 125, Soul to 7, and Balance Lash damage to 14 Soul + 6 Force. Add Legendary Action (1/round): Phase Lash — teleport 10ft and make a Balance Lash as a single action.
 
 ---
 
@@ -218,22 +252,26 @@ Anchored Guardian
 
 **Movement:** 14 (Climb); **Initiative:** 8
 
-**Skills:** Athletics 10, Stealth 9, Perception 7
+**Skills:** Athletics (Fury) 10, Stealth (Shadow) 9, Perception (Focus) 7
 
-**Resistances:** Slashing; **Vulnerabilities:** Thunder (resonance shatters carapace)
+**Immunities:** Poison; **Resistances:** Slashing; **Vulnerabilities:** Thunder (resonance shatters carapace), Fire, Radiant
 
 ---
 
 ### Attacks & Abilities
 
-1) Shard-Talon Flurry (Basic)
-- Action: 1; Melee; Fury 6 + 4; 12 Slashing; on crit, inflict Wounded (3 ongoing until treated).
+**Shard-Talon Flurry (Basic Attack)**
+- Action: 1
+- Range: Melee
+- Dice Pool: Fury + Athletics = 10d6 vs Dodge
+- Damage: 12 Slashing; on crit, inflict Wounded (3 ongoing until treated).
 
-2) Wallrunner (Passive)
+**Wallrunner (Passive)**
 - Can move along vertical surfaces and ceilings without tests.
 
-3) Ambush Pounce (Opener)
-- If unseen at start, first attack this encounter has Advantage and deals +6 damage.
+**Ambush Pounce (Special)**
+- Trigger: If unseen at start of encounter
+- Effect: First attack has Advantage and deals +6 damage.
 
 ---
 
@@ -243,6 +281,10 @@ Anchored Guardian
 
 ### Loot
 - Carapace Splinters: Craft ammo that deals +2 damage vs armored targets.
+
+### Scaling Options
+- **Weakened Form (TV 7):** Reduce HP to 75, Armor to 3, and Shard-Talon Flurry damage to 8 Slashing. Remove Ambush Pounce.
+- **Empowered Form (TV 13):** Increase HP to 145, Fury to 7, and Shard-Talon Flurry damage to 16 Slashing. Add Legendary Action (1/round): Shard Burst — 10ft radius, Agility DR 14 or 8 Piercing.
 
 ---
 
@@ -258,22 +300,27 @@ Anchored Guardian
 
 **Movement:** 16; **Initiative:** 10
 
-**Skills:** Stealth 12, Athletics 10, Survival 9
+**Skills:** Stealth (Shadow) 12, Athletics (Fury) 10, Survival (Focus) 9
 
-**Resistances:** Cold, Poison
+**Immunities:** Fear; **Resistances:** Poison; **Vulnerabilities:** Cold (slows its ancient metabolism)
 
 ---
 
 ### Attacks & Abilities
 
-1) Hunter’s Glaive (Basic)
-- Action: 1; 10ft; Shadow 6 + 4; 14 Slashing; on hit, target bleeds (2/turn) until treated.
+**Hunter's Glaive (Basic Attack)**
+- Action: 1
+- Range: 10ft
+- Dice Pool: Shadow + Stealth = 10d6 vs Dodge
+- Damage: 14 Slashing; on hit, target bleeds (2/turn) until treated.
 
-2) Titan Plate Shift (Reaction)
-- When hit, gain +2 Armor vs that attack and step 5ft.
+**Titan Plate Shift (Special)**
+- Action: Reaction
+- Effect: When hit, gain +2 Armor vs that attack and step 5ft.
 
-3) Unseen Step (Bonus)
-- Spend 4 SE to become Invisible until start of next turn or after attacking.
+**Unseen Step (Special)**
+- Action: Bonus; Cost: 4 SE
+- Effect: Become Invisible until start of next turn or after attacking.
 
 ---
 
@@ -283,6 +330,10 @@ Anchored Guardian
 
 ### Loot
 - Titan Plate Flake: Once/day, gain +2 Armor for one round as a reaction.
+
+### Scaling Options
+- **Weakened Form (TV 9):** Reduce HP to 90, Armor to 2, and Hunter's Glaive damage to 10 Slashing. Remove Unseen Step.
+- **Empowered Form (TV 15):** Increase HP to 170, Shadow to 7, and Hunter's Glaive damage to 18 Slashing. Add Legendary Action (1/round): Phantom Strike — teleport 15ft and make a Hunter's Glaive attack.
 
 ---
 
@@ -298,22 +349,31 @@ Anchored Guardian
 
 **Movement:** 12 (Hover); **Initiative:** 9
 
-**Skills:** Arcana 10, Deception 10, Insight 9
+**Skills:** Arcana (Soul) 10, Deception (Shadow) 10, Insight (Focus) 9
 
-**Immunities:** Prone; **Resistances:** Psychic, Soul
+**Immunities:** Prone, Sleep, Charm; **Resistances:** Psychic, Soul; **Vulnerabilities:** Radiant, effects that banish or disrupt illusions
+
+*GM Design Note: The Dreambeast is intentionally fragile for its TV — it is a 'glass cannon' controller that relies on illusions and crowd control rather than raw durability. If your party has high burst damage, consider pairing it with tankier creatures to protect it.*
 
 ---
 
 ### Attacks & Abilities
 
-1) Nightmare Rend (Basic)
-- Action: 1; 10ft; Soul 7 + 4 vs Will; 14 Psychic; on hit, target suffers Disadvantage on next action.
+**Nightmare Rend (Basic Attack)**
+- Action: 1
+- Range: 10ft
+- Dice Pool: Soul + Arcana = 11d6 vs Will
+- Damage: 14 Psychic; on hit, target suffers Disadvantage on next action.
 
-2) Memory Labyrinth (Zone)
-- Action: 1; Cost: 10 SE; 20ft radius difficult terrain; creatures inside must pass Focus DR 15 to move freely.
+**Memory Labyrinth (Special)**
+- Action: 1; Cost: 10 SE
+- Range: 20ft radius
+- Save: Focus DR 15
+- Effect: Area becomes difficult terrain; creatures inside must pass save to move freely.
 
-3) Borrowed Shape (Deception)
-- Bonus; Cost: 6 SE; assume appearance of a known NPC for 1 minute (illusions break if struck).
+**Borrowed Shape (Special)**
+- Action: Bonus; Cost: 6 SE
+- Effect: Assume appearance of a known NPC for 1 minute (illusions break if struck).
 
 ---
 
@@ -323,6 +383,10 @@ Anchored Guardian
 
 ### Loot
 - Phial of False Memory: Single-use; impose Disadvantage on a target’s next two Insight checks.
+
+### Scaling Options
+- **Weakened Form (TV 10):** Reduce HP to 80, Armor to 1, and Nightmare Rend damage to 10 Psychic. Remove Borrowed Shape.
+- **Empowered Form (TV 16):** Increase HP to 150, Soul to 8, and Nightmare Rend damage to 18 Psychic. Add Legendary Action (1/round): Dream Snap — force one creature within 30ft to make a Will DR 16 save or be Stunned until end of its next turn.
 
 ---
 
@@ -338,7 +402,7 @@ Anchored Guardian
 
 **Movement:** 8; **Initiative:** 3
 
-**Skills:** Athletics 12, Intimidation 8
+**Skills:** Athletics (Fury) 12, Intimidation (Will) 8
 
 **Immunities:** Poison; **Resistances:** Slashing; **Vulnerabilities:** Fire
 
@@ -346,22 +410,33 @@ Anchored Guardian
 
 ### Attacks & Abilities
 
-1) Crushing Vines (Basic)
-- Action: 1; 10ft; Fury 8 + 3; 18 Bludgeoning; on hit, Grapple (escape DR 16). Grappled targets take 6 Bludgeoning at start of their turn.
+**Crushing Vines (Basic Attack)**
+- Action: 1
+- Range: 10ft
+- Dice Pool: Fury + Athletics = 11d6 vs Dodge
+- Damage: 18 Bludgeoning; on hit, Grapple (escape: contested Fury + Athletics check, DR 16). Grappled targets take 6 Bludgeoning at start of their turn.
 
-2) Thornburst (AoE)
-- Action: 1; Cost: 8 SE; 15ft radius; Agility DR 15 or 14 Piercing and movement halved until end of next turn.
+**Thornburst (Special)**
+- Action: 1; Cost: 8 SE
+- Range: 15ft radius
+- Save: Agility DR 15
+- Fail: 14 Piercing and movement halved until end of next turn.
 
-3) Deep Root (Passive)
+**Deep Root (Passive)**
 - Cannot be pushed/pulled while on natural ground. Regains 10 Health at start of its turn if in dense vegetation.
 
 ---
 
 ### Lore & Tactics
 - Born where a great wrong stained the grove. Prefers ambush near brambles.
+- The Root-Entombed Horror is not merely a creature of the forest. Its roots extend deep enough to touch the corrupted ley lines that once fed the Pillars of Nosgoth. As the Pillars decayed, the magical runoff poisoned the earth, and the Horror is the result — a living tumor of corrupted Pillar energy given form. In areas where a Pillar once stood, these creatures are especially powerful and often serve as unwitting guardians of buried Pillar fragments.
 - Pins one foe and zones the rest with thorns.
 
 ### Loot
 - Living Root Core: Planting it purifies a small area or crafts a druidic focus granting +1 to Nature/Survival.
+
+### Scaling Options
+- **Weakened Form (TV 12):** Reduce HP to 200, Armor to 4, and Crushing Vines damage to 14 Bludgeoning. Remove Deep Root's regeneration.
+- **Empowered Form (TV 18):** Increase HP to 280, Fury to 9, and Crushing Vines damage to 22 Bludgeoning. Add Legendary Action (1/round): Root Surge — 15ft line, Agility DR 16 or Grappled and pulled 10ft toward the Horror.
 
 ---

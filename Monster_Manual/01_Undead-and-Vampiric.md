@@ -20,7 +20,7 @@ Feralslave Ghouls are the remains of mortals who died in agony, their souls too 
 - **DV:** 2 (1 + Shadow 1)
 - **Armor:** 0
 - **Movement:** 25 feet (5 squares)
-- **Attributes:** Fury 2, Soul 0, Shadow 1, Will 1, Focus 0, Blood 1
+- **Attributes:** Fury 2, Soul 0, Shadow 1, Will 1, Focus 0, Blood 0 (Immune to Blood-based effects)
 - **Skills:** None (act on instinct)
 
 ### Attacks & Abilities
@@ -69,13 +69,13 @@ Not all vampires retain their nobility and cunning. Those who give in completely
 - **Armor:** 2 (supernatural resilience)
 - **Movement:** 40 feet (8 squares), Climb 30 feet
 - **Attributes:** Fury 4, Soul 2, Shadow 4, Will 2, Focus 3, Blood 4
-- **Skills:** Athletics 3, Observation 2, Stealth 3
+- **Skills:** Athletics 3, Observation 2, Stealth 3, Evasion (Shadow): 0
 
 ### Attacks
 **Savage Claws** (Action)
 - **Dice Pool:** Fury 4 + 0 = 4d6
 - **Damage:** 6 physical (Slashing) + Bleeding
-- **Special:** Can attack twice if using both claws
+- **Special:** **Multiattack:** The Hunger-Warped Vampire makes two Claw attacks as a single Attack action.
 
 **Blood Drain** (Action, requires Grapple)
 - **Dice Pool:** Fury 4 + 0 = 4d6
@@ -133,7 +133,7 @@ Revenants are the restless dead bound to unfinished purpose. Unlike mindless und
 - **Armor:** 1 (spectral resilience)
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 3, Soul 3, Shadow 2, Will 3, Focus 2, Blood 0
-- **Skills:** Weapon Mastery 2, Intimidation 3, Will 2
+- **Skills:** Weapon Mastery 2, Intimidation 3, Resolve (Will): 2
 
 ### Attacks
 **Cursed Blade** (Action)
@@ -304,10 +304,9 @@ When lesser vampires are destroyed, their remaining essence sometimes animates n
 - **Skills:** Stealth 4, Observation 3
 
 ### Attacks
-**Thousand Bites** (Action)
-- **Dice Pool:** Fury 3 + 0 = 3d6
-- **Damage:** 5 physical (Piercing) + 3 Necrotic
-- **Special:** Automatically hits all creatures in the swarm's space (10-foot cube). No attack roll needed.
+**Thousand Bites (Swarm Attack)** (Action)
+- **Damage:** 6 Physical damage (reduced to 3 if the swarm is below half HP)
+- **Special:** Automatically hits all creatures within 5ft of the swarm. No attack roll is required — the sheer volume of biting is unavoidable.
 
 **Blood Drain Swarm** (Action, requires creature in swarm's space)
 - **Dice Pool:** Blood 3 + 0 = 3d6
@@ -354,11 +353,11 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 - **Armor:** 0 (cloth robes)
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 2, Soul 4, Shadow 2, Will 2, Focus 3, Blood 3
-- **Skills:** Rituals 4, Forbidden Knowledge 3, Persuasion 2
+- **Skills:** Rituals 4, Forbidden Knowledge 3, Persuasion 2, Blood Magic 4
 
 ### Attacks
 **Blood Bolt** (Action)
-- **Dice Pool:** Soul 4 + Rituals 4 = 8d6
+- **Dice Pool:** Soul 2 + Blood Magic 4 = 6d6
 - **Damage:** 5 Blood damage
 - **Range:** 60 feet (12 squares)
 - **Special:** Target must make DR 2 Will save or suffer Bleeding

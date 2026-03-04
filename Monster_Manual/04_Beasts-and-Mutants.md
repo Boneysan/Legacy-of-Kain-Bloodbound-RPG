@@ -47,8 +47,10 @@ Unlike their mundane cousins, Dire Cave Wolves are intelligent enough to recogni
 - **HP**: 24
 - **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 1 (all saves)
-- **Movement**: 8 tiles per turn (quadruped)
+- **Movement**: 40 feet per turn (quadruped)
 - **Armor**: None (thick fur, but no mechanical DR)
+- **SE**: N/A
+- **BP**: N/A
 
 **Attributes**:
 - Fury: 3
@@ -67,7 +69,7 @@ Unlike their mundane cousins, Dire Cave Wolves are intelligent enough to recogni
 **Savage Bite** (Fury 3 + Melee 2 = 5d6)
 - Range: Melee
 - Damage: 5 Physical damage on success
-- Effect: On Critical Hit (3+ successes), the target is **Grappled** (the wolf clamps its jaws onto them). While Grappled, the target has Disadvantage on attacks and cannot move. The target can escape with a Fury + Athletics roll vs the wolf's Fury (DR 3).
+- Effect: On Critical Hit (3+ successes), the target is **Grappled** (the wolf clamps its jaws onto them). While Grappled, the target has Disadvantage on attacks and cannot move. The target can escape with a contested roll: target's Fury + Athletics vs the wolf's Fury + Pack Tactics.
 
 **Pounce** (Fury 3 + Pack Tactics 3 = 6d6, once per encounter)
 - Range: 15 feet (charge attack)
@@ -76,6 +78,8 @@ Unlike their mundane cousins, Dire Cave Wolves are intelligent enough to recogni
 
 #### Abilities
 **Pack Tactics**: The wolf gains +1 die on attack rolls for each allied wolf within 10 feet (max +3 dice).
+
+*GM Note: A pack of 5-6 wolves with Pack Tactics can deal 31+ damage in round 1 against a single target via Pounce. At low levels, consider reducing pack size to 3-4 wolves or staggering their initiative to prevent one-rounding PCs.*
 
 **Darkvision**: The wolf can see in complete darkness up to 60 feet.
 
@@ -116,8 +120,10 @@ Drakes are solitary hunters, but mated pairs will defend their nests to the deat
 - **HP**: 45
 - **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 2 (Physical saves), 1 (Mental saves)
-- **Movement**: 6 tiles per turn (ground), 10 tiles per turn (flying)
+- **Movement**: 30 feet per turn (ground), 50 feet per turn (flying)
 - **Armor**: Heavy (scales, Armor 3 vs Physical, Armor 1 vs Elemental)
+- **SE**: N/A (abilities use the Recharge system rather than SE costs)
+- **BP**: N/A
 
 **Attributes**:
 - Fury: 4
@@ -147,6 +153,7 @@ Drakes are solitary hunters, but mated pairs will defend their nests to the deat
 - Range: 30-foot cone
 - Damage: 7 Fire damage to all creatures in the cone
 - Effect: Targets must pass a DR 2 Shadow save or be **Burning** (2 Fire damage per turn for 3 turns).
+- *Note: This ability uses the Recharge system — roll 1d6 at the start of the Drake's turn; on a 5 or 6, the ability recharges. No SE cost.*
 
 #### Abilities
 **Flight**: The Drake can fly, ignoring ground-based obstacles and terrain. While flying, melee attackers have Disadvantage unless they can reach the Drake.
@@ -173,6 +180,8 @@ Drakes are solitary hunters, but mated pairs will defend their nests to the deat
 #### Scaling Options
 **Elder Drake** (Boss, TV 4): +25 HP, increase Fury to 5, Breath Weapon to 5. Add "Inferno Breath" (60-foot cone, 10 Fire damage, Recharge 4-6). Add 2 Legendary Actions per round: Fly, Claw Attack, or Roar.
 
+*Cross-Reference: Corrupted Drakes sometimes nest near ancient construct sites. See Chapter 5: Constructs & Automatons for paired encounters.*
+
 ---
 
 ### 3. Glimmerback Lizard
@@ -190,8 +199,10 @@ Despite their fragility, Glimmerbacks have a defensive mechanism: when threatene
 - **HP**: 8
 - **Defense Value (DV)**: 4 (small and fast)
 - **Difficulty Rating (DR)**: 0 (all saves, very fragile)
-- **Movement**: 7 tiles per turn (quick for their size)
+- **Movement**: 35 feet per turn (quick for their size)
 - **Armor**: None
+- **SE**: N/A
+- **BP**: N/A
 
 **Attributes**:
 - Fury: 1
@@ -247,8 +258,10 @@ Consuming Blight-Boar meat causes illness in mortals. Even vampires find their b
 - **HP**: 28
 - **Defense Value (DV)**: 3
 - **Difficulty Rating (DR)**: 2 (Physical saves, tough), 0 (Mental saves, mindless)
-- **Movement**: 7 tiles per turn (charging boar)
+- **Movement**: 35 feet per turn (charging boar)
 - **Armor**: Light (thick hide, Armor 1 vs Physical)
+- **SE**: N/A (abilities use the Recharge system rather than SE costs)
+- **BP**: N/A
 
 **Attributes**:
 - Fury: 4
@@ -259,8 +272,8 @@ Consuming Blight-Boar meat causes illness in mortals. Even vampires find their b
 - Blood: 3
 
 **Skills**:
-- Charge: 3
-- Intimidation (by presence): 1
+- Charge (Fury): 3
+- Intimidation: 1
 
 #### Attacks
 **Necrotic Tusk Gore** (Fury 4 + Melee 2 = 6d6)
@@ -293,6 +306,8 @@ Consuming Blight-Boar meat causes illness in mortals. Even vampires find their b
 #### Scaling Options
 **Blightlord Boar** (Elite, TV 2): +12 HP, increase Fury to 5. Corruption Aura radius increases to 10 feet and deals 2 Necrotic damage. Add "Plague Burst" ability (when killed, explodes in 15-foot radius, dealing 6 Necrotic damage to all creatures, DR 3 Blood save to halve).
 
+*Cross-Reference: Blight-Boars are frequently found near areas of Hylden activity. See Chapter 6: Hylden Forces for related encounters.*
+
 ---
 
 ### 5. Bloodgullet Hound
@@ -312,8 +327,10 @@ Unlike normal dogs, Bloodgullets are viciously intelligent. They can track prey 
 - **HP**: 26
 - **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 2 (Physical saves), 1 (Mental saves)
-- **Movement**: 9 tiles per turn (very fast)
+- **Movement**: 45 feet per turn (very fast)
 - **Armor**: None
+- **SE**: N/A
+- **BP**: N/A
 
 **Attributes**:
 - Fury: 3
@@ -344,7 +361,7 @@ Unlike normal dogs, Bloodgullets are viciously intelligent. They can track prey 
 
 **Pack Hunter**: The Hound gains +1 die on attack rolls for each allied Hound within 10 feet (max +3 dice).
 
-**Vampiric Resilience**: The Hound regains 3 HP at the start of each of its turns if it dealt damage with Blood Fang Bite on its previous turn.
+**Vampiric Resilience**: The Hound regains 3 HP at the start of each of its turns if it dealt damage with Blood Fang Bite on its previous turn. Regeneration stops for 1 round if the Hound takes Fire damage or Radiant damage.
 
 **Night Vision**: The Hound can see perfectly in darkness.
 
@@ -380,8 +397,10 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 - **HP**: 50
 - **Defense Value (DV)**: 4 (large target, slow)
 - **Difficulty Rating (DR)**: 3 (Physical saves, tough), 1 (Mental saves, dumb)
-- **Movement**: 6 tiles per turn (slow and heavy)
+- **Movement**: 30 feet per turn (slow and heavy)
 - **Armor**: Heavy (stone-like skin, Armor 3 vs Physical, Armor 1 vs Elemental)
+- **SE**: N/A (abilities use the Recharge system rather than SE costs)
+- **BP**: N/A
 
 **Attributes**:
 - Fury: 5
@@ -392,7 +411,7 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 - Blood: 5
 
 **Skills**:
-- Smashing Things: 4
+- Brute Force (Fury): 4
 - Intimidation: 3
 - Survival: 2
 
@@ -407,7 +426,7 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 - Damage: 7 Physical damage
 - Effect: The Troll rips a boulder from the ground and hurls it. On hit, the target and all creatures within 5 feet take damage (area attack).
 
-**Ground Slam** (Fury 5 + Smashing Things 4 = 9d6, Recharge 5-6)
+**Ground Slam** (Fury 5 + Brute Force 4 = 9d6, Recharge 5-6)
 - Range: 20-foot radius centered on Troll
 - Damage: 6 Physical damage to all creatures in range
 - Effect: All affected creatures must pass a DR 3 Fury save or be knocked **Prone**. The ground becomes difficult terrain (costs double movement) for 2 rounds.
@@ -415,7 +434,7 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 #### Abilities
 **Regeneration**: The Troll regains 5 HP at the start of each of its turns, unless it took Fire or Acid damage since its last turn (those damage types prevent regeneration for 1 round).
 
-**Size: Large**: The Troll occupies a 2x2 tile space. It has 10-foot reach on melee attacks. Creatures can move through its space but treat it as difficult terrain.
+**Size: Large**: The Troll occupies a 10-foot-by-10-foot space. It has 10-foot reach on melee attacks. Creatures can move through its space but treat it as difficult terrain.
 
 **Thick Hide**: The Troll has Armor 3 vs Physical damage and Armor 1 vs Elemental damage.
 
@@ -454,8 +473,10 @@ Despite their fearsome appearance, Bramblehide Bears are still animals. They can
 - **HP**: 48
 - **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 3 (Physical saves), 1 (Mental saves)
-- **Movement**: 7 tiles per turn
+- **Movement**: 35 feet per turn
 - **Armor**: Medium (bramble hide, Armor 2 vs Physical, creatures that attack in melee take 2 Physical damage from thorns)
+- **SE**: N/A (abilities use the Recharge system rather than SE costs)
+- **BP**: N/A
 
 **Attributes**:
 - Fury: 5
@@ -466,20 +487,20 @@ Despite their fearsome appearance, Bramblehide Bears are still animals. They can
 - Blood: 4
 
 **Skills**:
-- Mauling: 4
+- Savage Attack (Fury): 4
 - Intimidation: 3
 - Survival: 2
 
 #### Attacks
-**Claw Swipe** (Fury 5 + Mauling 4 = 9d6)
+**Claw Swipe** (Fury 5 + Savage Attack 4 = 9d6)
 - Range: Melee
 - Damage: 7 Physical damage on success
 - Effect: The Bear can make two Claw Swipe attacks per turn (multi-attack).
 
-**Crushing Bite** (Fury 5 + Mauling 4 = 9d6)
+**Crushing Bite** (Fury 5 + Savage Attack 4 = 9d6)
 - Range: Melee
 - Damage: 9 Physical damage on success
-- Effect: On Critical Hit (3+ successes), the target is **Grappled** (held in the Bear's jaws). While Grappled, the target takes 4 automatic Physical damage at the start of each of their turns (crushing bite). Escape requires a Fury + Athletics roll vs DR 4.
+- Effect: On Critical Hit (3+ successes), the target is **Grappled** (held in the Bear's jaws). While Grappled, the target takes 4 automatic Physical damage at the start of each of their turns (crushing bite). Escape requires a contested roll: target's Fury + Athletics vs the Bear's Fury + Savage Attack.
 
 **Bramble Charge** (Fury 5 + Charge 3 = 8d6, Recharge 5-6)
 - Range: 20 feet (straight line charge)
@@ -507,7 +528,7 @@ Despite their fearsome appearance, Bramblehide Bears are still animals. They can
 - Bear meat (enough for 4 rations, edible despite corruption) - **Trade Value**: 5 supplies
 
 #### Scaling Options
-**Ancient Bramblehide** (Boss, TV 4): +25 HP, increase Fury to 6, Mauling to 5. Thorned Hide damage increases to 3. Add "Thorn Burst" ability (once per encounter, all creatures within 15 feet take 6 Physical damage from exploding brambles). Add 2 Legendary Actions per round: Move, Claw Attack, or Roar (Frighten all enemies within 30 feet, DR 3 Will save).
+**Ancient Bramblehide** (Boss, TV 4): +25 HP, increase Fury to 6, Savage Attack to 5. Thorned Hide damage increases to 3. Add "Thorn Burst" ability (once per encounter, all creatures within 15 feet take 6 Physical damage from exploding brambles). Add 2 Legendary Actions per round: Move, Claw Attack, or Roar (Frighten all enemies within 30 feet, DR 3 Will save).
 
 ---
 
@@ -528,8 +549,10 @@ Their most unsettling trait is their ability to seemingly vanish mid-combat, onl
 - **HP**: 40
 - **Defense Value (DV)**: 6 (phasing makes them hard to hit)
 - **Difficulty Rating (DR)**: 3 (Shadow saves), 2 (other saves)
-- **Movement**: 10 tiles per turn (extremely fast)
+- **Movement**: 50 feet per turn (extremely fast)
 - **Armor**: None
+- **SE**: N/A (abilities use the Recharge system rather than SE costs)
+- **BP**: N/A
 
 **Attributes**:
 - Fury: 4
@@ -556,7 +579,7 @@ Their most unsettling trait is their ability to seemingly vanish mid-combat, onl
 - Effect: The Cougar phases out of existence, then reappears adjacent to a target and attacks. This movement does not provoke opportunity attacks. On hit, the target is knocked **Prone**.
 
 #### Abilities
-**Phase Shift**: As a bonus action, the Cougar can become **Incorporeal** (immune to Physical damage, can move through walls and creatures) until the start of its next turn. It cannot attack while Incorporeal, but it can move freely. This ability can be used once per turn.
+**Phase Shift** (Bonus Action, 3/encounter): The Cougar becomes **Incorporeal** (immune to Physical damage, can move through walls and creatures) until the start of its next turn. It cannot attack while Incorporeal, but it can move freely.
 
 **Spectral Ambush**: While Incorporeal or Hidden, the Cougar's next attack has Advantage.
 
@@ -578,6 +601,8 @@ Their most unsettling trait is their ability to seemingly vanish mid-combat, onl
 
 #### Scaling Options
 **Apex Warptooth** (Boss, TV 4): +20 HP, increase Fury to 5, Phase Hunting to 5. Add "Phase Barrage" ability (the Cougar phases rapidly, making 3 attacks in one turn against different targets). Add 2 Legendary Actions per round: Phase Shift, Phase Claws, or Pounce from Nowhere.
+
+*Cross-Reference: Warptooth Cougars often phase into areas overlapping with the Spectral Realm. See Chapter 2: Spectral Entities for complementary encounters.*
 
 ---
 

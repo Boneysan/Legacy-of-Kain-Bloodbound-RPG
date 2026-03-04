@@ -41,7 +41,7 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 - **HP**: 10
 - **Defense Value (DV)**: 2
 - **Difficulty Rating (DR)**: 1 (Will and Focus saves)
-- **Movement**: 6 tiles per turn
+- **Movement**: 30 feet per turn
 - **Armor**: None (robes)
 
 **Attributes**:
@@ -54,8 +54,8 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 
 **Skills**:
 - Melee (Crude Weapons): 1
-- Fanaticism: 3
-- Pain Tolerance: 2
+- Devotion (Will): 3
+- Endurance (Blood): 2
 
 #### Attacks
 **Frenzied Strike** (Fury 2 + Melee 1 = 3d6)
@@ -63,7 +63,7 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 - Damage: 3 Physical damage on success
 - Effect: On Critical Hit (3+ successes), the Fanatic screams a prayer that grants all nearby cultists +1 die on their next attack.
 
-**Martyrdom Lunge** (Fury 2 + Fanaticism 3 = 5d6, once per encounter)
+**Martyrdom Lunge** (Fury 2 + Devotion 3 = 5d6, once per encounter)
 - Range: Melee
 - Damage: 5 Physical damage
 - Effect: The Fanatic throws themselves at an enemy with suicidal abandon. If this attack would reduce the Fanatic to 0 HP (from reactions or opportunity attacks), they gain Advantage on the roll.
@@ -103,7 +103,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 - **HP**: 24
 - **Defense Value (DV)**: 3
 - **Difficulty Rating (DR)**: 2 (all saves)
-- **Movement**: 5 tiles per turn
+- **Movement**: 25 feet per turn
 - **Armor**: Light (blessed robes, Armor 1 vs Physical)
 
 **Attributes**:
@@ -116,6 +116,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 
 **Skills**:
 - Divine Magic (Corrupted): 3
+- Melee (Fury): 1
 - Medicine: 2
 - Intimidation: 2
 - Holy Lore: 3
@@ -177,7 +178,7 @@ Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are ha
 - **HP**: 20
 - **Defense Value (DV)**: 4 (precognition)
 - **Difficulty Rating (DR)**: 3 (Will and Focus saves, representing mental fortitude)
-- **Movement**: 5 tiles per turn
+- **Movement**: 25 feet per turn
 - **Armor**: None (tattered robes)
 
 **Attributes**:
@@ -200,20 +201,17 @@ Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are ha
 - Damage: 5 Soul damage on success
 - Effect: Target experiences visions of their own death. They must pass a DR 3 Will save or be Stunned until the end of their next turn.
 
-**Temporal Echo** (Focus 4 + Precognition 4 = 8d6, Recharge 5-6)
+**Temporal Echo** (Reaction, 1/encounter)
 - Range: 40 feet
 - Damage: None
-- Effect: The Seer forces one enemy to relive the last 6 seconds. That enemy's last action is *undone* (movement, attack, spell, etc.), and they return to their previous position. Resources spent (SE, BP, etc.) are not refunded.
+- Effect: As a reaction, the Seer can force one creature to reroll its last attack roll, taking the new result.
 
 #### Abilities
-**I've Seen This Before**: The Seer has Advantage on all Defense rolls. Once per encounter, they can negate a Critical Hit against them as a reaction (they "saw it coming" and moved at the last moment).
+**I've Seen This Before**: The Seer has Advantage on all Defense rolls (this represents the Seer's precognitive awareness). Once per encounter, they can negate a Critical Hit against them as a reaction (they "saw it coming" and moved at the last moment).
 
 **Prophetic Warnings**: Once per round, as a reaction, the Seer can grant an ally within 30 feet Advantage on a Defense roll by shouting a warning ("Duck!" "Left side!" etc.).
 
-**Fractured Timeline** (Passive): At the start of each of the Seer's turns, roll 1d6:
-- **1-2**: The Seer is *Out of Phase* and cannot act this turn, but is immune to all damage.
-- **3-5**: Normal turn.
-- **6**: The Seer gets two actions this turn (or two uses of the same action).
+**Fractured Timeline** (Passive, 1/encounter): When the Seer would take damage, it can phase slightly out of time, reducing that damage by half.
 
 **Cryptic Prophecy** (Once per encounter): The Seer speaks a prophecy that comes true within the next 3 rounds. The GM should make it ambiguous but mechanically relevant. Examples:
 - "The tall one will fall before the moon rises." (One PC will be reduced to 0 HP within 3 rounds.)
@@ -252,7 +250,7 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 - **HP**: 40
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 3 (all saves)
-- **Movement**: 6 tiles per turn
+- **Movement**: 30 feet per turn
 - **Armor**: Heavy (blessed plate armor, Armor 3 vs Physical, Armor 2 vs Soul/Necrotic)
 
 **Attributes**:
@@ -329,7 +327,7 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 - **HP**: 22
 - **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 1 (all saves)
-- **Movement**: 7 tiles per turn (unarmored)
+- **Movement**: 35 feet per turn (unarmored)
 - **Armor**: Light (leather and furs, Armor 1 vs Physical)
 
 **Attributes**:
@@ -399,7 +397,7 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 - **HP**: 32
 - **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 3 (Will and Soul saves), 2 (Physical saves)
-- **Movement**: 5 tiles per turn
+- **Movement**: 25 feet per turn
 - **Armor**: None (robes), but protected by **Runic Shielding** (see Abilities)
 
 **Attributes**:
@@ -474,9 +472,9 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 
 #### Stats
 - **HP**: 38
-- **Defense Value (DV)**: 7 (agile and trained to evade)
+- **Defense Value (DV)**: 6 (agile and trained to evade)
 - **Difficulty Rating (DR)**: 3 (Shadow and Focus saves), 2 (other saves)
-- **Movement**: 8 tiles per turn (light armor, acrobatic)
+- **Movement**: 40 feet per turn (light armor, acrobatic)
 - **Armor**: Light (dark leathers, Armor 1 vs Physical)
 
 **Attributes**:
@@ -488,33 +486,33 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 - Blood: 2
 
 **Skills**:
-- Assassination: 5
+- Assassination: 3
 - Stealth: 5
-- Acrobatics: 4
+- Acrobatics: 3
 - Poison Craft: 3
 
 #### Attacks
-**Assassin's Blade** (Shadow 5 + Assassination 5 = 10d6)
+**Assassin's Blade** (Shadow 5 + Assassination 3 = 8d6)
 - Range: Melee
 - Damage: 7 Physical damage on success
 - Effect: On Critical Hit (3+ successes), the target is Bleeding (2 Physical damage per turn) and Poisoned (Disadvantage on attacks and saves, lasts 3 turns).
 
-**Poisoned Dart** (Focus 4 + Assassination 5 = 9d6)
+**Poisoned Dart** (Focus 4 + Assassination 3 = 7d6)
 - Range: 30 feet
 - Damage: 3 Physical damage + Poison
 - Effect: Target must pass a DR 3 Blood save or be Poisoned (Disadvantage on attacks and saves, lasts 5 turns). The dart can be thrown silently while Hidden without revealing the Assassin's position.
 
-**Coup de Grace** (Shadow 5 + Assassination 5 = 10d6, only usable when Hidden or vs Stunned/Sleeping targets)
+**Coup de Grace** (Shadow 5 + Assassination 3 = 8d6, only usable when Hidden or vs Stunned/Sleeping targets)
 - Range: Melee
-- Damage: 15 Physical damage on success (ignores armor)
-- Effect: This attack automatically has Advantage. On Critical Hit, the target is reduced to 0 HP immediately (no death saves unless they have special abilities).
+- Damage: Deals triple weapon damage to incapacitated or sleeping targets (ignores armor).
+- Effect: This attack automatically has Advantage.
 
 #### Abilities
 **Shadow Step**: As a bonus action, the Assassin can teleport up to 15 feet to any shadowed area they can see, and immediately become Hidden. This can be used once per turn.
 
-**Master of Stealth**: The Assassin has Advantage on all Stealth rolls. While Hidden, they are immune to area-of-effect attacks (they slip between the blasts).
+**Master of Stealth**: The Assassin has Advantage on all Stealth rolls. While Hidden, the Assassin has Advantage on Dodge rolls against area-of-effect attacks.
 
-**Evasion**: When the Assassin would take damage from an attack, they can use a reaction to attempt a Shadow + Acrobatics roll (10d6) against the attacker's successes. If the Assassin rolls more successes, they take no damage (they dodged).
+**Evasion**: When the Assassin would take damage from an attack, they can use a reaction to attempt a Shadow + Acrobatics roll (8d6) against the attacker's successes. If the Assassin rolls more successes, they take no damage (they dodged).
 
 **Contract Kill** (Passive): At the start of the encounter, the Assassin designates one PC as their "contract target." They deal +2 damage on all attacks against that target and have Advantage on Stealth rolls when sneaking toward them.
 
@@ -553,7 +551,7 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 - **HP**: 45
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 3 (all saves, trained resilience)
-- **Movement**: 6 tiles per turn
+- **Movement**: 30 feet per turn
 - **Armor**: Heavy (rune-inscribed plate, Armor 3 vs Physical, Armor 2 vs Magic)
 
 **Attributes**:
@@ -625,24 +623,27 @@ The outer ring of Hash'ak'gik's worship—mortals seduced by visions of a god th
 #### Stats
 - **HP**: 12
 - **Defense Value (DV)**: 2
-- **Difficulty Rating (DR)**: 1 (Will saves), 2 (Focus saves)
-- **Movement**: 6 tiles per turn
+- **Save DCs**: DR 1 (Will), DR 2 (Focus)
+- **Movement**: 30 feet per turn
 - **Armor**: 1 (ritual scarification)
 
 **Attributes**:
 - Fury: 2
 - Soul: 2
 - Shadow: 2
-- Fortitude: 2
+- Blood: 2
 - Focus: 1
 - Will: 1
+
+**Skills**:
+- Melee (Fury): 1
 
 #### Abilities
 **Blood-Prayer** (Bonus Action, 1/scene): Speak the demon's name. All Acolytes within 30 ft gain +1 to their next attack roll and become immune to the Frightened condition until end of next turn.
 
 **Vessel's Calm** (Passive): Immune to Morale checks. Acolytes of Hash'ak'gik never flee, never surrender, and never negotiate once combat begins. This should unnerve players accustomed to mortal enemies breaking.
 
-**Sacrificial Strike** (Melee, 1 Action): +2 to hit, 4 damage (Force). On a critical hit, the target gains 1 Corruption as demonic energy bleeds through the wound.
+**Sacrificial Strike** (Melee, 1 Action): Fury (2) + Melee (1) = 3d6 vs Dodge. Deals 4 Force damage. On a critical hit, the target gains 1 Corruption as demonic energy bleeds through the wound.
 
 #### Encounter Role
 Acolytes are disposable screening troops. Their true danger is the Blood-Prayer coordination and refusal to break. Use them in groups of 4–6, supporting a Vessel of Hash'ak'gik or guarding a ritual site.
@@ -671,25 +672,28 @@ A mortal hollowed out by Hash'ak'gik's will and rebuilt as a living conduit for 
 
 #### Stats
 - **HP**: 35
-- **Defense Value (DV)**: 3
-- **Difficulty Rating (DR)**: 3 (all saves)
-- **Movement**: 6 tiles per turn
+- **Defense Value (DV)**: 4
+- **Save DCs**: DR 3 (all saves)
+- **Movement**: 30 feet per turn
 - **Armor**: 2 (demonic resilience)
 
 **Attributes**:
 - Fury: 3
 - Soul: 4
 - Shadow: 3
-- Fortitude: 3
+- Blood: 3
 - Focus: 3
 - Will: 4
+
+**Skills**:
+- Forbidden Knowledge (Soul): 2
 
 #### Abilities
 **Demon's Mask** (Passive): While not in combat, the Vessel is indistinguishable from a normal mortal. Detection requires a DR 4 Observation or Insight check, or magic that specifically detects demonic influence. The Vessel passes all mundane scrutiny.
 
 **Voice of the Pit** (Action, Recharge 5–6): The Vessel speaks with Hash'ak'gik's voice. All enemies within 30 ft must make a DR 3 Will save or become Frightened for 2 rounds. Creatures that fail by 3+ are also Stunned for 1 round. This ability has no visible magical effect—it is simply *words*, spoken with absolute authority.
 
-**Demonic Surge** (Melee or Ranged, 1 Action): +4 to hit, 8 damage (Force). The Vessel's hands crackle with black-red energy. On hit, the target must make a DR 2 Fortitude save or gain 1 Corruption.
+**Demonic Surge** (Melee or Ranged, 1 Action): Soul (4) + Forbidden Knowledge (2) = 6d6 vs Dodge. Deals 8 Force damage. The Vessel's hands crackle with black-red energy. On hit, the target must make a DR 2 Blood save or gain 1 Corruption.
 
 **Blood Conduit** (Reaction, 1/scene): When reduced below half HP, the Vessel sacrifices one adjacent Acolyte (killing them instantly) to restore 15 HP and gain +1 DV until end of next turn.
 

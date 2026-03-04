@@ -115,7 +115,7 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 **Spectral Claws** (Action)
 - **Dice Pool:** Shadow 4 + 0 = 4d6
 - **Damage:** 6 Soul damage + 3 Soul Drained effect
-- **Special:** Can attack twice if taking Attack action
+- **Special:** **Multiattack:** The Mirror Wraith makes two Spectral Claw attacks as a single Attack action.
 
 **Life Echo** (Action, Recharge 5-6)
 - **Dice Pool:** Soul 4 + 0 = 4d6
@@ -187,7 +187,7 @@ Soul-Eater Shades are manifestations of pure hunger from the Spectral Realm. The
 
 **Spectral Nature:** Immune to physical conditions, poison, disease.
 
-**Growing Hunger:** Each time Shade reduces a creature to 0 HP, it gains +5 max HP and +1 die on all attacks. Resets on long rest.
+**Growing Hunger:** Each time Shade reduces a creature to 0 HP, it gains +5 max HP and +1 die on all attacks. Maximum 3 stacks (+15 HP, +3 dice). Additional kills beyond 3 stacks grant no further benefit. Resets on long rest.
 
 **Soul Vision:** Automatically detects all living creatures within 60 feet regardless of barriers.
 
@@ -217,7 +217,7 @@ Spectral wolves that hunt in packs across the Material and Spectral Realms. Thei
 - **Armor:** Special (Incorporeal)
 - **Movement:** 50 feet (10 squares)
 - **Attributes:** Fury 3, Soul 2, Shadow 2, Will 1, Focus 2, Blood 0
-- **Skills:** Stealth 2, Perception 2
+- **Skills:** Stealth 2, Observation 2
 
 ### Attacks
 **Spectral Bite** (Action)
@@ -240,6 +240,10 @@ Spectral wolves that hunt in packs across the Material and Spectral Realms. Thei
 
 ### Tactics
 Always travel in packs of 4-6. One Howler uses Disorienting Howl while others surround and attack isolated target. Chase fleeing prey relentlessly.
+
+#### Loot
+- **Howler's Echo Crystal:** A small, shimmering stone that hums faintly. Can be used to amplify sound-based abilities (+1 die to sonic attacks) or sold for 5 supplies.
+- **Spectral Residue (1 dose):** Alchemical component for ghostly wards.
 
 ---
 
@@ -280,7 +284,7 @@ Silent Mourners are souls bound to places of great tragedy—battlefields, execu
 
 **Bound to Tragedy:** Cannot move more than 100 feet from site of its death/trauma.
 
-**Aura of Sorrow:** Living creatures that start turn within 15 feet must make DR 2 Will save or suffer -1 die on all actions that turn.
+**Aura of Sorrow:** Living creatures that start their turn within 10 feet must make DR 2 Will save or suffer -1 die on all actions that turn.
 
 **Cannot Speak:** Immune to spells or effects that require hearing its voice. Cannot be reasoned with verbally.
 
@@ -334,7 +338,7 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 - **3-4:** Partially phased (resistant to all damage, takes half from everything)
 - **5-6:** Fully Spectral (incorporeal, immune to physical damage, vulnerable to Radiant)
 
-**Dimensional Instability:** Area within 15 feet of Phase-Beast is unstable. Creatures entering or starting turn in area must make DR 2 Will save or be teleported 1d4 x 5 feet in random direction.
+**Dimensional Instability:** Area within 15 feet of Phase-Beast is unstable. Creatures entering or starting turn in area must make DR 2 Will save or be teleported 1d4 x 5 feet in a random direction. (Roll 1d8 to determine direction: 1=North, 2=NE, 3=East, 4=SE, 5=South, 6=SW, 7=West, 8=NW.)
 
 **See Between Realms:** Perceives both Material and Spectral simultaneously. Cannot be surprised.
 
@@ -383,7 +387,7 @@ Gravewind Entities are ancient spirits of wind and death, formed in places where
 - **Range:** 30-foot radius (6 squares), centered on self
 - **Effect:** All creatures in area must make DR 4 Blood save or be pulled 15 feet toward Entity and take 12 Soul + 6 Cold damage. Success: half damage, not pulled. Creates difficult terrain in area for 1 minute.
 
-**Spectral Storm** (Action, costs 2 actions)
+**Spectral Storm** (Action, costs 2 Legendary Actions)
 - **Range:** 60-foot line (12 squares), 10 feet wide
 - **Damage:** 15 Soul damage
 - **Special:** All creatures in line must make DR 4 Evasion save or take full damage and be knocked Prone. Success: half damage, not Prone.
@@ -444,16 +448,16 @@ In the Legacy of Kain canon, the Sluagh haunt the spaces between meaningful afte
 - **Armor:** 0 (Incorporeal—immune to nonmagical physical attacks)
 - **Movement:** 30 feet (6 squares), Fly 20 feet (hover)
 - **Attributes:** Fury 2, Soul 2, Shadow 2, Will 1, Focus 2, Blood 0
-- **Skills:** Stealth 3, Observation 2
+- **Skills:** Stealth 3, Observation 2, Death Touch (Soul): 1
 
 ### Attacks
 **Carrion Grasp** (Action)
-- **Dice Pool:** Soul 2 + 1 = 3d6
-- **Damage:** 4 Spectral damage (ignores physical armor)
+- **Dice Pool:** Soul (2) + Death Touch (1) = 3d6
+- **Damage:** 4 Soul damage (ignores physical armor)
 - **Special:** On hit, the target loses 1 SE (Soul Energy). If the target has no SE remaining, the Sluagh instead deals +2 bonus damage as it feeds on residual soul-stuff.
 
 **Feeding Frenzy** (Bonus Action, only usable when target is below half HP or has 0 SE)
-- **Effect:** The Sluagh latches onto the target. At the start of each of the target's turns, they take 3 Spectral damage and lose 1 SE. Escape requires a DR 2 Will save as an Action. Other Sluagh within 30 ft are drawn to the target, gaining +1 to their next attack roll against them.
+- **Effect:** The Sluagh latches onto the target. At the start of each of the target's turns, they take 3 Soul damage and lose 1 SE. Escape requires a DR 2 Will save as an Action. Other Sluagh within 30 ft are drawn to the target, gaining +1 to their next attack roll against them.
 
 ### Special Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons, Spectral damage, and Soul-based effects work normally.
@@ -482,9 +486,9 @@ Sluagh lurk at the edges of combat, waiting for someone to weaken. They do not i
 - Carrion essence (harvestable with DR 2 Rituals check) – 15 barter value; can be used to create Sluagh lures or repellents
 
 ### Scaling Options
-**Elder Sluagh** (Elite, TV 2): +15 HP, increase Soul to 3 and Shadow to 3. Carrion Grasp deals 6 Spectral damage and drains 2 SE. Add "Devour Echo" ability (Action, 1/encounter): consume a single memory, enchantment, or ward within 10 ft, permanently destroying it. This can strip a Wraith's anchor if they fail a DR 3 Will save.
+**Elder Sluagh** (Elite, TV 2): +15 HP, increase Soul to 3 and Shadow to 3. Carrion Grasp deals 6 Soul damage and drains 2 SE. Add "Devour Echo" ability (Action, 1/encounter): consume a single memory, enchantment, or ward within 10 ft, permanently destroying it. This can strip a Wraith's anchor if they fail a DR 3 Will save.
 
-**Sluagh Tide** (Boss encounter, TV 5): A swarm of 8+ Sluagh acting as a single entity. HP 60, DV 4, Armor 0 (Incorporeal). Attacks all creatures in a 20 ft radius for 6 Spectral damage + 2 SE drain. The Tide is attracted by any use of Soul-based abilities within 200 ft and arrives 1d4 rounds later. It cannot be reasoned with, frightened, or turned. It can only be outrun, outwaited (it disperses after 10 rounds without feeding), or destroyed through concentrated Spectral or magical damage.
+**Sluagh Tide** (Boss encounter, TV 5): A swarm of 8+ Sluagh acting as a single entity. HP 60, DV 4, Armor 0 (Incorporeal). Attacks all creatures in a 20 ft radius for 6 Soul damage + 2 SE drain. The Tide is attracted by any use of Soul-based abilities within 200 ft and arrives 1d4 rounds later. It cannot be reasoned with, frightened, or turned. It can only be outrun, outwaited (it disperses after 10 rounds without feeding), or destroyed through concentrated Spectral or magical damage.
 
 ---
 

@@ -30,6 +30,18 @@ Now, the Hylden exist in a dimension of torment, constantly seeking ways to brea
 
 ---
 
+## Shared Traits
+
+### Hylden Nature
+Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage).
+
+*All Hylden creatures in this chapter possess this trait unless noted otherwise.*
+
+### Reality Distortion Aura (Optional)
+Some powerful Hylden emanate a field that warps perception. GMs may add this trait to any Hylden creature of TV 2+: "Creatures within 15ft of this Hylden have Disadvantage on Observation checks. This represents the reality-bending nature of Hylden physiology."
+
+---
+
 ## Creature Entries
 
 ### 1. Hylden Shock Trooper
@@ -82,13 +94,15 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 - Effect: Targets must pass a DR 3 Will save or gain 1 Corruption point. The Shock Trooper releases a wave of Hylden energy from its possessed body.
 
 #### Abilities
-**Hylden Nature**: Immune to Spectral effects, possession, and mind control (already possessed). Resistant to Soul damage (half damage). Vulnerable to Radiant damage (takes +2 damage, the light harms the possessing entity).
+**Hylden Nature**: Immune to Spectral effects, possession, and mind control (already possessed). Resistant to Soul damage (half damage). Vulnerable to Radiant damage (takes +2 damage, the light harms the possessing entity). *(See 'Hylden Nature' under Shared Traits below.)*
 
 **Bio-Tempered Flesh**: The host's body has been enhanced by Hylden biomancy. It has Armor 2 vs Physical damage and does not need to eat or sleep (the Hylden sustains it).
 
 **Tactical Coordination**: When within 20 feet of another Hylden creature, the Shock Trooper gains +1 die on attack rolls (Hylden share tactical data telepathically).
 
 **Soul Override** (1/encounter): When reduced to 0 HP, the Hylden can attempt to possess a nearby mortal (within 10 feet). Target must pass a DR 4 Will save or be possessed. The Shock Trooper's HP becomes half the new host's max HP, and combat continues. If no valid host is nearby, the Hylden dissipates (death).
+
+**PC Possession Resolution:** If Soul Override targets a PC at 0 HP, the player makes a contested Will save (their Will vs the Shock Trooper's Will). On success, the possession fails and the trooper is destroyed. On failure, the PC is possessed for 1d4 rounds — the GM controls the character, who acts on the trooper's initiative. Allies can attempt to exorcise the possession by dealing 10+ Soul damage to the possessed PC (this damages the trooper's spirit, not the PC) or by succeeding on a DR 3 Forbidden Knowledge or Rituals check as an action within 5ft. After 1d4 rounds, the trooper's spirit burns out and the PC regains control, gaining 2 Corruption from the experience.
 
 **Reality Distortion Aura** (Passive): Enemies within 10 feet of the Shock Trooper suffer -1 die on Will saves (reality feels unstable).
 
@@ -157,10 +171,10 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 **Summon Abomination** (Soul 5 + Hylden Rituals 4 = 9d6, once per encounter, costs 5 SE)
 - Range: 20 feet
 - Damage: None
-- Effect: The Architect animates a corpse or reshapes nearby flesh into a **Flesh Abomination** (Minion, TV 0.5, 15 HP, deals 4 damage per attack, lasts until destroyed). The Abomination obeys the Architect's commands.
+- Effect: The Architect animates a corpse or reshapes nearby flesh into a **Flesh Abomination** (Minion, TV 1 (weakened), 15 HP, deals 4 damage per attack, lasts until destroyed). The Abomination obeys the Architect's commands.
 
 #### Abilities
-**Hylden Nature**: Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage).
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
 
 **Biomancy Mastery**: The Architect can manipulate living and dead tissue. Outside combat, they can perform surgeries, create bio-constructs, or enhance allies with grafts (requires 1 hour per procedure).
 
@@ -317,7 +331,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 
 **Hylden Whispers** (Passive): Enemies within 10 feet of the Host hear faint whispers in an alien language. They suffer -1 die on Focus-based rolls (concentration is disrupted).
 
-**Final Transformation** (1/encounter): When reduced to 0 HP, the Host can choose to fully embrace the Corruption. They immediately transform into a **Mind-Tethered Abomination** (Standard, TV 1, as described above) and continue fighting. This is a one-way transformation—they cannot revert.
+**Final Transformation** (1/encounter): When reduced to 0 HP, the Host can choose to fully embrace the Corruption. They immediately transform into a **Mind-Tethered Abomination** (Standard, TV 1, as described above) and continue fighting. This is a one-way transformation—they cannot revert. (When transformed, the Abomination is controlled by the GM as a hostile creature. It retains the original Host's movement and position but loses all Host abilities, replacing them with the Abomination stat block. If the Hylden controller that created the Host is killed, the Abomination collapses at the end of its next turn.)
 
 #### Tactics
 - **Infiltrate First**: Corruption Hosts use Infiltrator's Guise to approach unsuspecting PCs or set up ambushes. They strike when targets are vulnerable (resting, distracted, separated).
@@ -386,7 +400,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 - Effect: The Reaver's sigils flare violently. All affected creatures gain 1 Corruption point.
 
 #### Abilities
-**Hylden Nature**: Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage).
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
 
 **Bio-Sigil Camouflage**: As a bonus action, the Reaver can activate their sigils to become **Invisible** (cannot be seen, attacks against them have Disadvantage). This lasts until they attack or take damage. They can use this ability once per turn.
 
@@ -394,7 +408,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 
 **Master Assassin**: The Reaver has Advantage on attack rolls vs creatures that have not acted yet this encounter (surprise advantage). Additionally, attacks made while Invisible automatically have Advantage.
 
-**Self-Destruct Protocol** (1/encounter): When reduced to 0 HP, the Reaver can choose to detonate their bio-sigils. All creatures within 15 feet take 12 Corruption damage (DR 4 Shadow save to halve) and gain 1 Corruption point. The Reaver's body is completely destroyed (no resurrection, no loot).
+**Self-Destruct Protocol** (1/encounter): When reduced to 0 HP, the Reaver can choose to detonate their bio-sigils. All creatures within 15 feet take 12 damage (untyped) and forces each affected creature to make a DR 3 Will save or gain 2 Corruption points (DR 4 Shadow save to halve the damage). The Reaver's body is completely destroyed (no resurrection, no loot).
 
 #### Tactics
 - **Open with Invisibility**: Reavers start combat Invisible, using Bio-Sigil Camouflage to close unseen.
@@ -465,13 +479,18 @@ They're strategic thinkers, not frontline fighters. They open rifts to bring in 
 - Effect: Basic ranged attack. The Engineer uses this when conserving SE or targeting distant enemies.
 
 #### Abilities
-**Hylden Nature**: Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage).
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
 
-**Open Rift** (1/encounter, requires 1 action, costs 5 SE): The Engineer opens a portal to the Hylden dimension. Roll 1d3:
-- **1**: 2 **Hylden Shock Troopers** (Elite, TV 2 each) emerge.
-- **2**: 1 **Mind-Tethered Abomination** (Standard, TV 1) and 3 **Corruption Hosts** (Standard, TV 1 each) emerge.
-- **3**: 1 **Flesh Architect** (Elite, TV 2) emerges.
-The summoned creatures obey the Engineer and last until destroyed. The rift closes after summoning.
+**Open Rift** (1/encounter, requires 1 action, costs 5 SE): The Engineer opens a portal to the Hylden dimension. Roll 1d6:
+
+| d6 Roll | Summoned Creature(s) |
+|---|---|
+| 1–2 | 1 **Mind-Tethered Abomination** (TV 1) |
+| 3–4 | 1 **Corruption Host** (TV 1) |
+| 5 | 1 **Shock Trooper** (TV 2) |
+| 6 | 1 **Bio-Sigil Reaver** (TV 2) |
+
+The summoned creature appears at the start of the Engineer's next turn. It obeys the Engineer and lasts until destroyed. The rift closes after summoning.
 
 **Dimensional Anchor**: The Engineer can teleport up to 30 feet as a bonus action by creating a micro-rift. This does not provoke opportunity attacks. They can use this once per turn.
 
@@ -548,11 +567,11 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 - Effect: The Oracle rips reality open. All creatures in the radius gain 2 Corruption points and must pass a DR 5 Shadow save or be teleported 2d6 x 5 feet in a random direction (lose positioning, potentially separated from allies).
 
 #### Abilities
-**Hylden Nature**: Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage).
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
 
 **Void Channeling**: The Oracle constantly channels Hylden energy. At the start of each of their turns, they regain 3 SE (max SE: 20).
 
-**Telepathic Coordination**: All Hylden allies within 100 feet of the Oracle gain +2 dice on all rolls (the Oracle coordinates their actions telepathically). If the Oracle is killed, all Hylden allies lose this bonus and must pass a DR 4 Will save or be **Stunned** for 1 round (psychic backlash).
+**Telepathic Coordination**: All Hylden allies within 30 feet of the Oracle gain +1 die on all rolls (the Oracle coordinates their actions telepathically). If the Oracle is killed, all Hylden allies lose this bonus and must pass a DR 4 Will save or be **Stunned** for 1 round (psychic backlash).
 
 **Reality Shell**: The Oracle is surrounded by a shell of warped reality. They have Armor 3 vs Physical and Armor 5 vs Magic. Additionally, ranged attacks against the Oracle have Disadvantage (projectiles curve around them).
 
@@ -565,7 +584,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 - **Prophecy of Doom** (costs 3 actions): The Oracle uses Prophecy of Doom (even if it hasn't recharged).
 
 #### Tactics
-- **Telepathic Coordination Always Active**: The Oracle's presence makes all Hylden forces +2 dice stronger. This is their most dangerous ability.
+- **Telepathic Coordination Always Active**: The Oracle's presence makes all Hylden forces +1 die stronger within 30ft. This is their most dangerous ability.
 - **Dimensional Rupture Opening**: They open combat with Dimensional Rupture, scattering the party and corrupting everyone.
 - **Prophecy of Doom for Control**: They use this to Curse the entire party, making every action harder.
 - **Void Blast for Damage**: They spam Void Blast using Legendary Actions, targeting spellcasters to drain SE.
@@ -634,7 +653,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 - Effect: The Warden traps one target in a psychic cage. Target must pass a DR 4 Will save or be **Paralyzed** (cannot move or act) for 2 rounds. While Paralyzed, they experience vivid hallucinations of their worst fears. The target can attempt a new save at the end of each of their turns to break free.
 
 #### Abilities
-**Hylden Nature**: Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage).
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
 
 **Fear Aura** (Passive): All enemies within 20 feet of the Warden have Disadvantage on Will saves (oppressive dread).
 
@@ -711,7 +730,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 #### Encounter 4: The Oracle's Army (Levels 15-17)
 **Setup**: A **Void-Spoken Oracle** (Boss, TV 4) leads an invasion force: 2 **Bio-Sigil Reavers** (Elite, TV 2 each), 1 **Horror Warden** (Elite, TV 2), and 4 **Shock Troopers** (Elite, TV 2 each). Total TV: 16 (deadly encounter for a level 15 party of 4).
 
-**Tactics**: The Oracle coordinates the entire force with Telepathic Coordination (+2 dice to all allies). It opens with Dimensional Rupture to scatter the party and corrupt everyone. Reavers use Phase Strike to assassinate casters. The Warden uses Cage of Despair to neutralize the party's strongest fighter. Shock Troopers form a shield wall, protecting the Oracle. The Oracle spams Void Blast and Prophecy of Doom using Legendary Actions, debuffing everyone and draining resources.
+**Tactics**: The Oracle coordinates the entire force with Telepathic Coordination (+1 die to all Hylden allies within 30ft). It opens with Dimensional Rupture to scatter the party and corrupt everyone. Reavers use Phase Strike to assassinate casters. The Warden uses Cage of Despair to neutralize the party's strongest fighter. Shock Troopers form a shield wall, protecting the Oracle. The Oracle spams Void Blast and Prophecy of Doom using Legendary Actions, debuffing everyone and draining resources.
 
 **Environmental Factor**: The battle takes place in a Hylden temple. Reality is unstable—at the start of each round, roll 1d6:
 - **1**: Gravity reverses (all creatures fall upward, take falling damage on ceiling)

@@ -39,7 +39,35 @@ Each creature is categorized by threat level, which corresponds to the Threat Va
 - For Hard: 125-150% of Party TV
 - For Deadly: 175%+ of Party TV
 
-*Example: Level 5 party of 4 players has Party TV of 20. A balanced encounter could be 20 Standard enemies (TV 1 each), 10 Elite enemies (TV 2 each), 5 Boss enemies (TV 4 each), or a mix.*
+*Example: Level 5 party of 4 players has Party TV of 20. A balanced encounter could be 20 Standard enemies (TV 1 each), 10 Elite enemies (TV 2 each), 5 Boss enemies (TV 4 each), or a mix.* (This is a mathematical equivalence for TV budgeting, not a practical encounter recommendation. In practice, encounters with more than 8-10 enemies become unwieldy. Use Minion-tier creatures for large groups.)
+
+---
+
+## How to Read Dice Pools — A Primer
+
+This manual uses a **d6 dice pool system**. When a creature makes an attack or ability check, its dice pool is calculated as:
+
+**Attribute + Skill = Xd6**
+
+For example, a creature with Fury 4 and Melee 3 rolls **7d6** to attack. Each die that meets or exceeds the target's **Defense Value (DV)** counts as a **success**. The number of successes determines whether the attack hits and how effective it is.
+
+### Key Terms
+- **Dice Pool**: The total number of d6 rolled (Attribute + Skill)
+- **Defense Value (DV)**: The target number each die must meet or exceed. Hard cap of **6** for base DV; effective DV may be higher through armor, reactions, or lair effects.
+- **Armor**: Reduces damage taken after a successful hit. Physical and Magical armor may differ.
+- **Threat Value (TV)**: A creature's overall power rating used for encounter balancing.
+- **Soul Energy (SE)**: Resource pool for magical abilities. Spent to fuel spells and special abilities.
+- **Blood Points (BP)**: Resource pool for vampiric/blood-based abilities.
+
+### Reading a Stat Block Attack
+When you see: `Fury (4) + Melee (3) = 7d6 vs Dodge`
+- The creature rolls 7d6
+- Compare each die to the target's DV
+- Count successes
+- If at least 1 success: the attack hits and deals its listed damage
+
+### Defense Rolls
+Some creatures force **defense rolls** instead of static checks. The defender rolls their own dice pool against a difficulty determined by the attacker's successes.
 
 ---
 
@@ -59,9 +87,11 @@ Brief description of the creature's nature, origins, and role in Nosgoth.
 
 **Statistics**
 - **HP / Health:** Hit Points (some chapters label this as Health)
-- **DV:** Defense Value (calculated as 1 + higher of Shadow or Will)
+- **DV:** Defense Value (calculated as 1 + higher of Shadow or Will). The DV hard cap from base stats is **6**. No creature's innate DV exceeds 6. Effective DV may be raised above 6 through armor bonuses, magical effects, lair actions, or reactions, but the base stat block DV line should never read higher than 6.
 - **DR / Armor:** Damage Reduction or Armor (some chapters label DR as Armor)
 - **Movement:** Speed in feet (divide by 5 for squares)
+
+> **Movement Note:** All movement in this manual is measured in **feet**. To convert to a grid/square-based map, divide by 5 (e.g., 30 feet = 6 squares). Unless otherwise stated, one round of movement equals the creature's listed Movement value.
 - **Attributes:** Fury, Soul, Shadow, Will, Focus, Blood
 - **Resources:** Soul Energy (SE), Blood Points (BP) when applicable
 - **Skills:** Relevant trained skills
@@ -100,6 +130,8 @@ To scale a creature up or down:
 - -1 DV (minimum 1)
 - -2 damage on attacks
 - Remove one special ability
+
+> **Scaling Note:** The scaling guidelines above are approximations for Tier 1–2 (TV 0.25–4) creatures. At higher Threat Values (TV 9+), scaling is **non-linear** — creatures gain disproportionately more HP, damage, and special abilities per tier. When scaling high-tier creatures, use the stat blocks in Chapters 7–9 as reference points rather than applying simple arithmetic.
 
 ### Adding Variants
 
