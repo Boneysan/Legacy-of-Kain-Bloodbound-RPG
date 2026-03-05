@@ -46,7 +46,7 @@ No vampire society functions without mortal hands. Beneath the broods and the bl
 
 ### Attitudes Toward the Wheel of Fate
 
-Vampires exist outside the Wheel—their souls do not cycle through death and rebirth. This makes them invisible to the Elder God and deeply unsettling to those who serve it. Most vampires regard the Wheel with contempt ("a hamster wheel for mortals") or dread ("what happens to us when we finally die?"). A few—especially among the Razielim—believe Raziel's sacrifice created a crack in the Wheel through which vampire souls might one day pass. This heresy is called the *Razielite Exception* and is fiercely debated.
+Vampires exist outside the Wheel—their souls do not cycle through death and rebirth. This makes them invisible to the Elder God and deeply unsettling to those who serve it. Most vampires regard the Wheel with contempt ("a hamster wheel for mortals") or dread ("what happens to us when we finally die?"). A few—especially among the Razielim—believe Raziel's sacrifice created a crack in the Wheel through which vampire souls might one day pass. This heresy is called the *Razielite Exception* and is fiercely debated. *(See also: World Primer — Religions, Beliefs, and Philosophies for the parallel mortal faith: the* Razielite Martyrdom*, which venerates Raziel as a holy sacrifice among human communities.)*
 
 ### The Six Clans
 
@@ -273,7 +273,7 @@ Revenants exist in a social no-man's-land. They are neither alive nor properly d
 ### Attitudes Toward the Wheel of Fate
 
 Revenants are the Wheel's error messages. They should have cycled through death and rebirth, but their Purpose held them. The Elder God considers them an affront—souls it cannot claim. Revenants who are aware of the Wheel tend to view it with weary resignation: "I'll get on when I'm done." Some Revenants discover they don't *want* to get on—their second life has given them more clarity, more meaning, than their first. The question of whether a Revenant can choose to keep existing after their Purpose is fulfilled is one of Nosgoth's most disturbing theological puzzles.
-
+*Hash'ak'gik's Vessels—mortals hollowed out and rebuilt as demon conduits—present a specific threat to Revenants: a Vessel who encounters a Revenant may recognize their half-spectral nature and attempt to use them as an anchor or amplifier for Hash'ak'gik’s influence. Revenants are neither fully living nor fully dead, and the demon finds this ambiguity useful. Revenants operating near Avernus territory or in regions where Cult cells are active should be aware that they may be perceived as resources, not enemies.*
 Common threads:
 - Unfinished business that bends fate around them.
 - Resisted by sanctified ground; tolerated by pragmatists.

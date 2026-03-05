@@ -24,6 +24,7 @@ Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is
 Combat in *Legacy of Kain: Bloodbound RPG* is structured into rounds, each representing 6–10 seconds of chaotic, high-stakes action. Within each round, combatants act in initiative order, weaving a tapestry of strikes, spells, and tactical decisions. A combatant’s turn consists of:
 
 - **1 Action**: Attack, cast a spell, use an ability, or perform another significant task.
+- **1 Bonus Action**: A swift secondary action granted *only* when a class ability, perk, lineage trait, or spell specifically states it requires a Bonus Action. A character may take only **one Bonus Action per turn**. If nothing grants you a Bonus Action this turn, you do not have one.
 - **1 Movement**: Move up to your Speed stat (in tiles, typically 5 feet per tile).
 - **1 Reaction**: Respond to a trigger (e.g., an attack or enemy movement) once per round.
 - **Free Interactions**: Minor actions like drawing a weapon, speaking, or dropping an item.
@@ -248,11 +249,23 @@ Nosgoth’s battlefields are as deadly as its warriors, with shifting realms and
 
 - **Initiative**: Kain rolls Shadow 3 + Tactics 2 (5 dice: 2 successes). The knight rolls 3 successes, acting first.
 - **Knight’s Turn**: Rolls Fury 3 + Weapon Mastery 4 (7 dice) for a Piercing attack (spear, 3 damage, ignores 1 Armor). Results: 6, 5, 4, 4, 3, 2, 1 — 2 successes. Misses Kain’s DV 4.
-- **Kain’s Turn**: Attacks with the Soul Reaver blade (3 Spectral damage, ignores Armor). Rolls Fury 4 + Weapon Mastery 3 = 7 dice, but the cursed altar imposes Disadvantage: after rolling, all dice showing 5 or 6 must be re-rolled, and only the *new* results count as successes. Initial results: 6, 6, 5, 5, 4, 3, 2 — four potential successes. Re-rolling those four dice: 6, 6, 5, 5 → 4 new successes. Final: 4 successes. Hits DV 3 with 1 extra success. Deals 3 Spectral damage (ignores Armor, knight HP 7) and uses the extra success to inflict Soul Drain (knight loses 1 SE).
+- **Kain's Turn**: Attacks with the Soul Reaver blade (3 Spectral damage, ignores Armor). Rolls Fury 4 + Weapon Mastery 3 = 7 dice, but the cursed altar imposes Disadvantage: after rolling, pick up **half of all successes (round up)** and re-roll them — only those re-rolled dice still showing 5–6 count; the rest become failures. Initial results: 6, 6, 5, 5, 4, 3, 2 — four potential successes. Half (round up) = 2 dice to re-roll. Re-rolling those two: 4, 2 → 0 new successes. Final: 2 successes (the two un-rerolled). Hits DV 3? No — 2 < 3, the attack misses. The altar's curse has done its work.
 - **Knight’s Reaction**: Parries (Fury + Weapon Mastery, 2 successes), reducing incoming damage by 2 (net 1 Spectral damage, knight HP 9). Soul Drain still takes effect.
 - **Next Round**: The knight fights on with depleted soul energy and reduced options.
 
 **Narrative**: Kain’s Soul Reaver blade tears at the Sarafan’s essence, the altar’s curse forcing resolve over raw power. The knight’s swift parry blunts the blow, but the spectral drain robs them of energy, fraying their defenses for the rounds ahead.
+
+## 9.13.5 Short Rests and Long Rests
+
+Many class abilities, perk costs, and recovery mechanics reference a **Short Rest** or **Long Rest**. These are defined as follows:
+
+**Short Rest**
+A period of approximately **10–20 minutes** during which characters may catch their breath, bind wounds, and recover minor resources. Characters must be free from active combat and immediate threat. Permitted activities include tending injuries, brief discussion, and light movement. A Short Rest restores any resource or ability marked "1/short rest."
+
+**Long Rest**
+A period of approximately **6–8 hours** of genuine recuperation — sleep, meditation, or deep trance (for vampires and wraiths). Characters must be in a safe or relatively safe location. A Long Rest restores any resource or ability marked "1/long rest," and fully restores HP (unless otherwise modified by class features or conditions). HP recovered during a Long Rest equals full maximum HP unless a rule specifies otherwise. Characters may take only one Long Rest per 24-hour period.
+
+---
 
 ## 9.14 GM Guidance
 

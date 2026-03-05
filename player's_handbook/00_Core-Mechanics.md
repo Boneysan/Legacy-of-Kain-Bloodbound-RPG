@@ -215,7 +215,7 @@ When two characters directly compete (e.g., sneaking past a guard, grappling, re
 3. **Tie on successes:** Compare the number of 6s rolled as tiebreaker.
 4. **Still tied:** GM determines the outcome — typically a standoff, stalemate, or unexpected consequence.
 
-**Example:** A vampire (Shadow 4 + Stealth 3) tries to sneak past a guard (Will 3 + Investigation 2). The vampire rolls 7 dice and gets 3 successes; the guard rolls 5 dice and gets 2. The vampire slips by unnoticed.
+**Example:** A vampire (Shadow 4 + Stealth 3) tries to sneak past a guard (Will 3 + Observation 2). The vampire rolls 7 dice and gets 3 successes; the guard rolls 5 dice and gets 2. The vampire slips by unnoticed.
 
 ---
 
@@ -262,7 +262,7 @@ Legacy of Kain: Bloodbound streamlines damage into six categories, each with dis
 | **Shocked** | 1 round | Disadvantage on next action. |
 | **Pushed** | Instant | Moved 5-10 feet in a direction chosen by the attacker. |
 | **Soul Drain** | Instant | Target loses 1 Soul Energy; attacker may gain 1. |
-| **Blinded** | 1d3 rounds | Disadvantage on attacks and Perception-based checks. |
+| **Blinded** | 1d3 rounds | Disadvantage on attacks and Observation-based checks. |
 | **Purged** | Instant | Removes one darkness, shadow, or corruption effect. |
 | **Decay** | Until next rest | Cannot regain HP through non-magical means. |
 | **Corrupted** | Permanent | Target gains +1 Corruption Level. |

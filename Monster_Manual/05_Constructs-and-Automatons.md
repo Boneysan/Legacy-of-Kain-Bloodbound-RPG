@@ -24,7 +24,7 @@ Some were created by the Sarafan Order to fight vampires with tireless efficienc
 
 **Vulnerability to Specific Damage**: Constructs often have weaknesses—lightning disrupts their magical cores, acid corrodes their frames, or specific keywords shut them down.
 
-**Repair vs Healing**: Constructs cannot be healed by normal means. They require repair (Focus + Engineering or Arcane Lore rolls) or magical restoration.
+**Repair vs Healing**: Constructs cannot be healed by normal means. They require repair (Focus + Engineering or Forbidden Knowledge rolls) or magical restoration.
 
 **Logic-Based Behavior**: Constructs follow rules. Clever players can exploit loopholes in their programming ("You cannot harm guests of the Master" → "We are guests!").
 
@@ -48,8 +48,8 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 #### Stats
 - **HP**: 50
 - **Defense Value (DV)**: 6
-- **Difficulty Rating (DR)**: 3 (Physical saves), 0 (Mental saves, immune)
-- **Movement**: 5 tiles per turn (heavy and mechanical)
+- **Save DR** *(saves against this creature's abilities)*: 3 (Physical saves), 0 (Mental saves, immune)
+- **Movement**: 25 ft per turn (heavy and mechanical)
 - **Armor**: Heavy (blessed plate, Armor 4 vs Physical, Armor 2 vs Soul/Necrotic)
 - **Soul Energy (SE):** N/A
 
@@ -127,8 +127,8 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 #### Stats
 - **HP**: 120
 - **Defense Value (DV)**: 5
-- **Difficulty Rating (DR)**: 4 (Physical saves), 3 (Magical saves), 0 (Mental, immune)
-- **Movement**: 6 tiles per turn (slow but unstoppable)
+- **Save DR** *(saves against this creature's abilities)*: 4 (Physical saves), 3 (Magical saves), 0 (Mental, immune)
+- **Movement**: 30 ft per turn (slow but unstoppable)
 - **Armor**: Massive (stone body, Armor 5 vs Physical, Armor 3 vs Elemental, Armor 1 vs Magic)
 - **Soul Energy (SE):** 50
 
@@ -220,8 +220,8 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 #### Stats
 - **HP**: 30
 - **Defense Value (DV)**: 3
-- **Difficulty Rating (DR)**: 2 (Physical saves), 1 (Magical saves), 0 (Mental, immune)
-- **Movement**: 4 tiles per turn (slow and lumbering)
+- **Save DR** *(saves against this creature's abilities)*: 2 (Physical saves), 1 (Magical saves), 0 (Mental, immune)
+- **Movement**: 20 ft per turn (slow and lumbering)
 - **Armor**: Medium (stone/clay body, Armor 3 vs Physical, Armor 1 vs Elemental)
 - **Soul Energy (SE):** N/A
 
@@ -254,13 +254,13 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
   - **Force**: Pushed back 10 feet
 
 #### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Arcane Lore, DR 2, restores 10 HP).
+**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Forbidden Knowledge, DR 2, restores 10 HP).
 
 **Elemental Body**: The Golem has resistance to one elemental damage type (Fire, Cold, Lightning, or Acid, chosen when created). It takes half damage from that type.
 
 **Slow but Steady**: The Golem cannot be knocked Prone, Grappled, or moved against its will (too heavy and stable).
 
-**Command Word Vulnerability**: If a character knows the Golem's command word (requires Arcane Lore or research), they can deactivate it with a DR 3 Focus + Arcane Lore roll. The Golem shuts down for 1 minute (or until reactivated).
+**Command Word Vulnerability**: If a character knows the Golem's command word (requires Forbidden Knowledge or research), they can deactivate it with a DR 3 Focus + Forbidden Knowledge roll. The Golem shuts down for 1 minute (or until reactivated).
 
 **Mindless Obedience**: The Golem follows the last order it was given, even if centuries old. Clever players can convince it they're authorized by the "master" (requires Persuasion or Deception, DR 3).
 
@@ -296,8 +296,8 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 #### Stats
 - **HP**: 42
 - **Defense Value (DV)**: 6
-- **Difficulty Rating (DR)**: 2 (Physical saves), 3 (Soul saves), 1 (Mental saves)
-- **Movement**: 9 tiles per turn (very fast, quadruped)
+- **Save DR** *(saves against this creature's abilities)*: 2 (Physical saves), 3 (Soul saves), 1 (Mental saves)
+- **Movement**: 45 ft per turn (very fast, quadruped)
 - **Armor**: Medium (iron frame + tough hide, Armor 2 vs Physical, Armor 1 vs Soul)
 - **Soul Energy (SE):** N/A
 
@@ -333,7 +333,7 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 #### Abilities
 **Hybrid Nature**: The Beast is part construct, part undead. It's immune to poison and disease, but vulnerable to both Radiant damage (harms the soul) and Lightning damage (disrupts the iron frame). Both deal +2 damage.
 
-**Agonized Fury**: When the Beast is reduced below half HP, it enters a rage. It gains +2 dice on all attacks and movement speed increases by 3 tiles per turn. However, it can no longer use Soul Scream (the soul is too fragmented).
+**Agonized Fury**: When the Beast is reduced below half HP, it enters a rage. It gains +2 dice on all attacks and movement speed increases by 15 ft per turn. However, it can no longer use Soul Scream (the soul is too fragmented).
 
 **Pack Tactics**: The Beast gains +1 die on attack rolls for each allied Iron-Cage Beast or Hylden creature within 10 feet (max +3 dice).
 
@@ -374,8 +374,8 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 #### Stats
 - **HP**: 55
 - **Defense Value (DV)**: 5
-- **Difficulty Rating (DR)**: 3 (all saves), 0 (Mental, immune)
-- **Movement**: 7 tiles per turn (agile)
+- **Save DR** *(saves against this creature's abilities)*: 3 (all saves), 0 (Mental, immune)
+- **Movement**: 35 ft per turn (agile)
 - **Armor**: Medium (arcane plating, Armor 3 vs Physical, Armor 4 vs Magic)
 - **Soul Energy (SE):** 25
 
@@ -406,10 +406,10 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 **Glyph Prison** (Soul 5 + Glyph Magic 5 = 10d6, Recharge 5-6, costs 3 SE)
 - Range: 30 feet
 - Damage: None
-- Effect: The Automaton targets one creature and attempts to trap them in a cage of glyphs. Target must pass a DR 4 Shadow save or be **Restrained** (cannot move, Disadvantage on attacks and Defense). The target can attempt to break free with a DR 4 Fury + Athletics or Focus + Arcane Lore roll at the start of each of their turns. The prison lasts up to 3 rounds.
+- Effect: The Automaton targets one creature and attempts to trap them in a cage of glyphs. Target must pass a DR 4 Shadow save or be **Restrained** (cannot move, Disadvantage on attacks and Defense). The target can attempt to break free with a DR 4 Fury + Athletics or Focus + Forbidden Knowledge roll at the start of each of their turns. The prison lasts up to 3 rounds.
 
 #### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Arcane Lore, DR 4, restores 15 HP).
+**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Forbidden Knowledge, DR 4, restores 15 HP).
 
 **Glyph Adaptation (1/encounter)**: After being hit by a damage type, the Automaton gains Resistance to that type until the end of its next turn.
 
@@ -454,8 +454,8 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 #### Stats
 - **HP**: 200
 - **Defense Value (DV)**: 4 (large target, slow)
-- **Difficulty Rating (DR)**: 5 (Physical saves), 4 (Magical saves), 0 (Mental, immune)
-- **Movement**: 4 tiles per turn (slow but unstoppable)
+- **Save DR** *(saves against this creature's abilities)*: 5 (Physical saves), 4 (Magical saves), 0 (Mental, immune)
+- **Movement**: 20 ft per turn (slow but unstoppable)
 - **Armor**: Massive (bio-metal plating, Armor 6 vs Physical, Armor 4 vs Elemental, Armor 2 vs Soul)
 - **Soul Energy (SE):** 50
 
@@ -551,8 +551,8 @@ Scribes are valuable sources of information. They can answer questions about the
 #### Stats
 - **HP**: 28
 - **Defense Value (DV)**: 4
-- **Difficulty Rating (DR)**: 2 (Physical saves), 3 (Magical saves), 0 (Mental, immune)
-- **Movement**: 6 tiles per turn
+- **Save DR** *(saves against this creature's abilities)*: 2 (Physical saves), 3 (Magical saves), 0 (Mental, immune)
+- **Movement**: 30 ft per turn
 - **Armor**: Light (bronze frame, Armor 2 vs Physical, Armor 3 vs Magic)
 - **Soul Energy (SE):** 12
 
@@ -586,7 +586,7 @@ Scribes are valuable sources of information. They can answer questions about the
 - Effect: The Scribe overwhelms targets with a telepathic torrent of information. Targets must pass a DR 3 Will save or be **Confused** (Disadvantage on all rolls for 2 rounds, as their minds reel from information overload).
 
 #### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Engineering or Arcane Lore, DR 2, restores 10 HP).
+**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Engineering or Forbidden Knowledge, DR 2, restores 10 HP).
 
 **Living Archive**: The Scribe has encyclopedic knowledge of its archive's contents. Players can ask it questions about history, magic, creatures, or lore. It answers truthfully but in precise, formal language. It will not answer questions unrelated to its archive.
 
@@ -629,8 +629,8 @@ Drones are often the first encounter players have with Hylden technology. Their 
 #### Stats
 - **HP**: 10
 - **Defense Value (DV)**: 5 (small and fast)
-- **Difficulty Rating (DR)**: 1 (Physical saves), 0 (Mental, immune)
-- **Movement**: 4 tiles per turn (ground), 10 tiles per turn (flying)
+- **Save DR** *(saves against this creature's abilities)*: 1 (Physical saves), 0 (Mental, immune)
+- **Movement**: 20 ft per turn (ground), 50 ft per turn (flying)
 - **Armor**: None (obsidian shell, but no mitigation)
 - **Soul Energy (SE):** N/A
 
@@ -700,7 +700,7 @@ They guard the most important sites in Nosgoth: Pillar vaults, ancient libraries
 #### Stats
 - **HP**: 60
 - **Defense Value (DV)**: 5
-- **Difficulty Rating (DR)**: 3 (Physical saves), 2 (Mental saves — partially immune)
+- **Save DR** *(saves against this creature's abilities)*: 3 (Physical saves), 2 (Mental saves — partially immune)
 - **Movement**: 25 feet per turn
 - **Armor**: 4 (runic plating: Armor 4 vs Physical, Armor 2 vs Magic)
 - **Soul Energy (SE):** 10
@@ -862,7 +862,7 @@ Use these moral complexities to create dilemmas.
 Reward clever players who exploit weaknesses:
 - Lightning damage to disrupt cores
 - Command words to deactivate them
-- Hacking/reprogramming with Focus + Engineering or Arcane Lore
+- Hacking/reprogramming with Focus + Engineering or Forbidden Knowledge
 - Destroying power sources (cores, glyphs) for instant kills
 
 Constructs should feel powerful but not invincible.

@@ -52,7 +52,7 @@ Narrative Hook: The last flickers of resistance and redemption.
 Wraith:
 
 Description: Souls untethered from flesh, wraiths walk the boundary of life and death, manipulating the Spectral Realm.
-Bonuses: +1 to Possession and +1 to Observation skills.
+Bonuses: +1 to Possession, +1 to Observation, and +1 to Will.
 Unique Trait: Wraith Phasing allows translucency, movement through thin barriers, Spectral damage ignoring physical armor, and resistance to non-magical physical damage.
 Movement: Ignore terrain penalties; advantage on Stealth checks in the Spectral Realm.
 Narrative Hook: Forgotten by death, hunted by time.
@@ -87,7 +87,7 @@ Narrative Hook: Broken from destiny's tapestry, proof fate can be hacked.
 
 
 ## 1.4 Step 3: Choose a Class
-Select a class to define your character’s combat style and abilities. Each class grants unique perks, starting HP, a skill point pool (6–10 points), perk tree access, and starting gear. Examples include:
+Select a class to define your character's combat style and abilities. Each class grants unique perks, starting HP, a skill point pool (5–6 points), perk tree access, and starting gear. Examples include:
 
 Sangromancer: Spellcaster focused on blood magic and life manipulation.
 Blood Knight: Frontline warrior fueled by rage and vitality.
@@ -98,7 +98,7 @@ Consult your GM for the full class list and specific perks.
 ## 1.5 Step 4: Assign Attributes
 Distribute 15 points across six attributes, with a maximum of 3 per attribute. Each governs specific aspects of your character:
 
-Fury: Aggression and emotional force. Governs raw power, rage, and intimidation. Key for classes like Blood Knight or Dreadblade. Linked to skills like Weapon Mastery and Presence.
+Fury: Aggression and emotional force. Governs raw power, rage, and intimidation. Key for classes like Blood Knight or Dreadblade. Linked to skills like Weapon Mastery and Intimidation.
 Soul: Spiritual power and connection to the Spectral Realm. Crucial for spellcasters like Soul Reaver or Glyphwright. Influences Soul Energy and skills like Glyphcasting and Possession.
 Shadow: Stealth, evasion, and subtlety. Core for Shadowmancer or Dreadblade. Linked to Stealth, Evasion, and Thievery.
 Will: Mental resilience and discipline. Key for Glyphwright or Hylden Warlock. Used for resisting mental assaults and skills like Tactics and Insight.
@@ -111,7 +111,7 @@ Soul Energy (SE): For classes using Soul Energy, maximum SE = 3 + Will attribute
 Blood Points (BP): For classes or lineages using Blood Points, maximum BP = 4 + Shadow attribute + (Character Level ÷ 2, rounded up). See the Spellcasting in Nosgoth section for details.
 
 ## 1.6 Step 5: Assign Skills
-Assign skill points (typically 6–10, based on class and race) to skills like Glyphcasting, Weapon Mastery, Stealth, or Forbidden Knowledge. Each skill is tied to an attribute and contributes to dice pools.
+Assign skill points (5–6, based on class) to skills like Glyphcasting, Weapon Mastery, Stealth, or Forbidden Knowledge. Each skill is tied to an attribute and contributes to dice pools.
 
 At Level 1, no skill rank can exceed 3 or the highest associated attribute (e.g., Weapon Mastery cannot exceed your Fury or Shadow if either is 2).
 The absolute maximum for any skill is 5 ranks.
@@ -175,8 +175,8 @@ At Level 1, gain two perks:
 Class Perk: From your class’s perk tree (e.g., Blood Knight’s “Iron Hide”).
 Universal Perk: Choose one Tier 1 Universal Perk (e.g., “Blood for Blood”).
 
-## 1.10 Step 8: Define Corruption Path
-Choose a Corruption Path (for forbidden magic users or Hylden-blooded) to reflect how your character manifests their growing taint.
+## 1.10 Step 8: Corruption Starting State
+Note your starting Corruption Level (0 for most characters; some lineages or class choices specified by the GM may begin at 1–2). Your Corruption Level determines which Corrupted Perks you can access (see Chapter 4 and Chapter 8). Hylden-Blooded characters gain 1 Corruption the first time they use their free spell cast. Consult the GM for any campaign-specific starting corruption conditions.
 ## 1.11 Step 9: Final Touches
 
 Choose a name, appearance, and notable symbol.

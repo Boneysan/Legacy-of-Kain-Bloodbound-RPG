@@ -120,10 +120,10 @@ This GM Guide is organized into chapters covering:
 3. **Character Progression** - Milestone XP and advancement
 4. **Economy & Resources** - Barter system and scarcity management
 5. **NPCs & Factions** - Major players in Nosgoth's conflicts
-6. **Corruption Management** - Tracking and adjudicating corruption
-7. **Narrative Perks** - Handling high-level reality-bending abilities
-8. **Campaign Frameworks** - Story arcs and campaign structures
-9. **Random Tables** - Quick reference for improvisation
+6. **Corruption Management** *(Forthcoming)*
+7. **Narrative Perks** *(Forthcoming)*
+8. **Campaign Frameworks** *(Forthcoming)*
+9. **Random Tables** *(Forthcoming)*
 
 Each chapter provides tools, examples, and guidance specific to running *Legacy of Kain: Bloodbound RPG*. Use what serves your table and adapt what doesn't.
 

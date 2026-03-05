@@ -39,7 +39,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Role**: Tank / Melee Bruiser
 **Core Attributes**: Fury, Blood
 **Starting HP**: 12 + Blood (+4 per level)
-**Key Skills**: Weapon Mastery, Evasion, Unarmed Combat, Tactics, Intimidation
+**Key Skills**: Weapon Mastery, Evasion, Unarmed Combat, Tactics, Intimidation, Blood Sense
 
 #### Core Abilities
 *   **Blood Frenzy** (Passive): Gain +1 Fury to your dice pool for the next action when you take damage.
@@ -53,7 +53,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 2 | **Brutal Counter** | Deal 1 unpreventable damage to melee attacker on a miss. | Reaction |
 | 3 | **Iron Veins** | Immune to Bleeding status. | Passive |
 | 4 | **Bloodrush** | Take an extra Move action. | Bonus Action, 1 BP |
-| 5 | **Crushing Blow** | Melee attack stuns target (Target: Blood vs Difficulty 3). | Action |
+| 5 | **Crushing Blow** | Melee attack stuns target (DR 3 Blood save). | Action |
 | 6 | **Juggernaut** | Charge attack knocks target Prone. | Action |
 | 7 | **Deathbound** | When reduced to 0 HP, drop to 1 HP instead. | Reaction, 1/scene |
 | 8 | **Warpath** | Melee attacks ignore 1 point of Armor. | Passive |
@@ -79,7 +79,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Role**: Phase Warrior / Hybrid Caster
 **Core Attributes**: Soul, Fury
 **Starting HP**: 10 + Soul (+4 per level)
-**Key Skills**: Weapon Mastery, Athletics, Insight, Spectral Lore, Stealth
+**Key Skills**: Weapon Mastery, Athletics, Insight, Spectral Navigation, Stealth
 
 #### Core Abilities
 *   **Phase Shift** (Action): Shift between Material and Spectral Realms. (Costs 1 SE if in combat).
@@ -97,8 +97,8 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 6 | **Reaver’s Hunger** | Soul Blade deals +1 Damage. | Passive |
 | 7 | **Flicker** | Teleport 30ft to a visible location. | Move Action, 1 SE |
 | 8 | **Ghost Parry** | +2 Defense against one attack. | Reaction, 1 SE |
-| 9 | **Spectral Nova** | 3d6 Spectral Dmg to all within 10ft (Soul vs Diff 3). | Action, 3 SE |
-| 10 | **Void Walker** | Ethereal Step is now full speed + invisible. | Passive |
+| 9 | **Spectral Nova** | 9 Spectral Dmg to all within 10ft (Soul vs Diff 3). | Action, 3 SE |
+| 10 | **Spectral Fugue** | Ethereal Step is now full speed + invisible. | Passive |
 | 11 | **Soul Consumption** | Soul Siphon restores 3 SE or 1d6 HP. | Passive |
 | 12 | **Phase Mastery** | Shift Realms as a Bonus Action. No cost. | Passive |
 | 13 | **Spirit Rend** | Spectral Strike stuns target (Soul vs Diff 4). | Passive |
@@ -106,8 +106,8 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 15 | **Reaver’s Wrath** | +2 Dice to all Soul/Fury rolls for 1 min. | Action, 3 SE |
 | 16 | **Death’s Door** | Determine target’s exact HP and Resistances. | Bonus Action |
 | 17 | **Ethereal Assassin** | Attack from Spectral Realm without fully shifting. | Action, 2 SE |
-| 18 | **Soul Storm** | Spectral Nova deals 5d6 Dmg + Fear. | Action, 4 SE |
-| 19 | **Wraith Lord** | Permanent Resistance to Physiological Dmg. | Passive |
+| 18 | **Soul Storm** | Spectral Nova deals 15 Spectral Dmg + Fear. | Action, 4 SE |
+| 19 | **Wraith Lord** | Permanent Resistance to Physical Dmg. | Passive |
 | 20 | **Angel of Death** | Fly speed 60ft, all attacks ignore Resistances. | Action, 5 SE |
 
 ### 3.3.3 Shadowmancer
@@ -135,19 +135,19 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 5 | **Darkness** | Create 20ft radius magical darkness. | Action, 2 SE |
 | 6 | **Assassinate** | Auto-crit on surprised targets. | Passive |
 | 7 | **Shadow Bind** | Root target in place using their shadow. | Action, 1 SE |
-| 8 | **Nightmare Fuel** | Fear Toxin deals 1d6 Psychic dmg per turn. | Passive |
+| 8 | **Nightmare Fuel** | Fear Toxin deals 3 Spectral dmg per turn. | Passive |
 | 9 | **Shadow Form** | Become intangible (Resistance to all non-Light/Fire). | Action, 3 SE |
 | 10 | **Master of Shadows** | Shadow Step range increases to 60ft. | Passive |
-| 11 | **Living Darkness** | Darkness spell deals 1d4 Necrotic/turn to enemies. | Passive |
+| 11 | **Living Darkness** | Darkness spell deals 2 Entropic/turn to enemies. | Passive |
 | 12 | **Doppelganger** | Create a combat-capable shadow clone of yourself. | Action, 4 SE |
-| 13 | **Void Blade** | Melee attacks deal +1d8 Necrotic damage. | Passive |
-| 14 | **Shadow Walk** | Travel through the Shadow Realm (Teleport miles). | Ritual, 5 SE |
+| 13 | **Void Blade** | Melee attacks deal +1d8 Entropic damage. | Passive |
+| 14 | **Shadow Walk** | Travel through the Spectral Realm (Teleport miles). | Ritual, 5 SE |
 | 15 | **Terror Aura** | Enemies within 10ft must roll Will or be Frightened. | Passive |
 | 16 | **Eclipse** | Global darkness (1 mile radius) for 1 hour. | Ritual, 10 SE |
-| 17 | **Death from Below** | Pull target into shadow realm (Instant kill non-boss). | Action, 5 SE |
-| 18 | **Umbral Lord** | Regain 1 SE whenever you deal Necrotic damage. | Passive |
+| 17 | **Death from Below** | Pull target into Spectral Realm (DR 3 Soul save; killed on failure, non-boss only). | Action, 5 SE |
+| 18 | **Umbral Lord** | Regain 1 SE whenever you deal Entropic damage. | Passive |
 | 19 | **Eternal Night** | You operate as if in darkness even in sunlight. | Passive |
-| 20 | **Avatar of Zephon** | Transform into giant spider-monster. | Action, 1/long rest |
+| 20 | **Apotheosis of Shadow** | Transcend physical form — become an avatar of living darkness. Gain immunity to Physical damage, Blindsight 60 ft, and all shadow-based abilities cost 0 SE for 1 minute. Enemies that can see you must succeed on a DR 4 Will save or be Frightened. | Action, 1/long rest |
 
 ### 3.3.4 Sangromancer
 
@@ -174,8 +174,8 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 5 | **Vein Strike** | +2 Damage against bleeding targets. | Passive |
 | 6 | **Blood Pact** | Transfer HP to/from a willing ally suitable range. | Action, 1 BP |
 | 7 | **Wound Echo** | Bleeding effects last +1 round longer. | Passive |
-| 8 | **Bloodburst** | 5ft burst dealing 4 Dmg (Dex Save). | Action, 2 BP |
-| 9 | **Sanguine Transfiguration** | Increase speed, heal Soul attr HP. | Bonus Action |
+| 8 | **Bloodburst** | 5ft burst dealing 4 Dmg (DR 2 Evasion save). | Action, 2 BP |
+| 9 | **Sanguine Transfiguration** | Gain +15 ft speed for 1 minute; heal HP equal to your Soul attribute. | Bonus Action |
 | 10 | **Hemodominate** | Control target for 1 min (Will Save). | Action, 3 BP |
 | 11 | **Profound Hemorrhage** | Hemorrhage deals +1 Dmg and is harder to resist. | Passive |
 | 12 | **True Fleshcrafting** | Animate a corpse as a grotesque servitor. | Ritual, 1 BP |
@@ -213,7 +213,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 5 | **Chrono-Ward** | Delay a glyph's trigger (up to 1 min). | Passive |
 | 6 | **Chrono Sigil** | Target loses their next Action (Will Save). | Action, 2 SE |
 | 7 | **Glyph Sentinel** | Glyphs trigger even on hidden/invisible creatures. | Passive |
-| 8 | **Seal of Fire** | 10ft glyph dealing 5 Fire Dmg (Dex Save). | Action, 2 SE |
+| 8 | **Seal of Fire** | 10ft glyph dealing 5 Fire Dmg (DR 2 Evasion save). | Action, 2 SE |
 | 9 | **Nexus Glyph** | Combine two glyph effects into one sigil. | Passive |
 | 10 | **Archglyph** | Create a permanent ward/guardian. | Ritual, 5 SE |
 | 11 | **Resonant Frequencies** | Glyphs deal +2 Damage and apply debuff. | Passive |
@@ -254,7 +254,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 7 | **Shadow Ambush** | Make a free attack if starting combat from stealth. | Passive |
 | 8 | **Blur Step** | Dodge one melee attack automatically. | Reaction, 1/scene |
 | 9 | **Death’s Whisper** | Instantly kill a target below 10 HP. | Action |
-| 10 | **Assassinate** | Deal massive dmg (Crit x3) to Surprised foe. | Action |
+| 10 | **Perfect Kill** | Deal massive dmg (Crit x3) to Surprised foe. | Action |
 | 11 | **Lingering Gloom** | Smoke Veil lasts longer and poisons enemies. | Passive |
 | 12 | **Spectral Sepsis** | Venom Edge prevents healing. | Passive |
 | 13 | **Flashing Phantom** | Blink Strike costs 0 SE if it kills the target. | Passive |
@@ -270,7 +270,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 
 **"The scales must be righted, whatever the cost."**
 
-**Lore**: Sworn to protect the shattered Balance Pillars, Wardens are priests, enforcers, and oracles. Part Sarafan, part Oracle-Blooded, they maintain equilibrium between realms and morality, fueled by cosmic duty.
+**Lore**: Sworn to protect the shattered Balance Pillars, Wardens are priests, enforcers, and oracles. A Warden of Balance emerges when a person — of any lineage — swears themselves to the concept of the Pillars rather than to any earthly faction, driven by cosmic duty rather than blood or creed.
 **Role**: Judge / Fate Caster / Support
 **Core Attributes**: Will, Soul
 **Starting HP**: 10 + Will (+4 per level)
@@ -309,7 +309,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 
 **"Power is the only god worth serving."**
 
-**Lore**: Exiled prophets wielding glyph decay and soul leeching, Hylden Warlocks are Nosgoth’s most feared casters. Escaped from the Spectral Realm, they twist time and fate, whispering truths too dangerous to speak.
+**Lore**: Exiled prophets wielding glyph decay and soul leeching, Hylden Warlocks are Nosgoth’s most feared casters. Escaped from the Demon Dimension, they twist time and fate, whispering truths too dangerous to speak.
 **Role**: Dark Mage / Debuffer
 **Core Attributes**: Soul, Will
 **Starting HP**: 8 + Soul (+3 per level)
@@ -330,7 +330,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 5 | **Forbidden Truth** | Cast a spell using Corruption instead of SE. | Free Action |
 | 6 | **Decay Field** | 10ft Zone, enemies suffer -1 Die on everything. | Action, 2 SE |
 | 7 | **Glyph of Disquiet** | 15ft Aura, enemies are uneasy (-1 Social). | Action, 2 SE |
-| 8 | **Ritual of Pain** | Sacrifice HP to deal extra Damage. | Free Action |
+| 8 | **Ritual of Pain** | Sacrifice 3 HP to deal +3 damage on your next attack this turn. | Free Action |
 | 9 | **Nether Binding** | Target cannot heal or gain resources. | Action, 3 SE |
 | 10 | **Mind Rupture** | Stun target with visions (Will Save). | Action, 3 SE |
 | 11 | **Echoes of Exile** | Debuffs cannot be dispelled easily. | Passive |

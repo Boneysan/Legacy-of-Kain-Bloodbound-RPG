@@ -172,7 +172,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 #### Lore
 Time is broken in Nosgoth. The Time Streaming Chambers lie shattered, the Pillars have fallen, and the very fabric of causality frays at the edges. Some mortals, through tragedy or arcane accident, have become *temporally unmoored*. They see futures that may never be, pasts that never were, and presents that shift with each observation.
 
-Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are harmless madmen. Others are dangerous, their visions granting uncanny tactical awareness. A few serve as agents of Moebius, the Time Streamer, whether they know it or not.
+Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are harmless madmen. Others are dangerous, their visions granting uncanny tactical awareness. A few were once agents of Moebius, the Time Streamer, their minds still bound by enchantments he placed before his death. They serve a dead master's designs without knowing the architect is gone.
 
 #### Stats
 - **HP**: 20
@@ -435,7 +435,7 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 
 **Blood Price**: The Warlock can spend HP instead of SE to cast spells. For every 2 HP spent, gain 1 SE. This can be used even when the Warlock has 0 SE remaining.
 
-**Demon Summoning** (1/day, requires 10-minute ritual): The Warlock summons a **Chainmaw Demon** (Standard, TV 1, from Demonic chapter) to serve them for 1 hour. The demon obeys commands but is hostile and will attack the Warlock if they show weakness.
+**Demon Summoning** (1/day, requires 10-minute ritual): The Warlock summons an **Abyssal Servant** (Standard, TV 1) to serve them for 1 hour. *(Abyssal Servant: HP 12, DV 3, Armor 0; Attack: **Claw** 4d6 melee — 3 Entropic damage; Immune to fear and charm; cannot act independently of summoner's instructions.)* The demon obeys commands but is hostile and will attack the Warlock if they show weakness.
 
 **Rune of Warding** (Reaction, 1/encounter): When targeted by an attack, the Warlock can activate a warding rune. They teleport up to 20 feet to an unoccupied space they can see, and the attack misses automatically.
 

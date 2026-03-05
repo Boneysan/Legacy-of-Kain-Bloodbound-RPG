@@ -131,6 +131,7 @@ Each turn consists of:
 | Component | Description |
 | :--- | :--- |
 | **1 Action** | Attack, Cast a Spell, Dash, Dodge, Help, Use Object |
+| **1 Bonus Action** | A secondary swift action granted *only* when a class ability, perk, lineage trait, or spell specifically states it requires one. A character may take only **one Bonus Action per turn**. |
 | **1 Movement** | Move up to your Speed (typically 6 tiles / 30 ft) |
 | **1 Reaction** | Triggered response — one per round (see Reactions) |
 | **Free Interactions** | Drop an item, speak briefly, open an unlocked door |
@@ -198,7 +199,7 @@ Applied on Critical Hits or Extra Successes. Durations:
 | **Shocked** | 1 round | Disadvantage on next action. |
 | **Pushed** | Instant | Moved 5–10 feet in attacker's chosen direction. |
 | **Soul Drain** | Instant | Target loses 1 SE; attacker may gain 1. |
-| **Blinded** | 1d3 rounds | Disadvantage on attacks and Perception checks. |
+| **Blinded** | 1d3 rounds | Disadvantage on attacks and Observation-based checks. |
 | **Purged** | Instant | Removes one darkness, shadow, or corruption effect. |
 | **Decay** | Until next rest | Cannot regain HP through non-magical means. |
 | **Corrupted** | Permanent | Target gains +1 Corruption Level. |

@@ -30,13 +30,13 @@ Winged pariahs, believed extinct, reborn in spectral flame. Obsessed with fate a
 - **Feature**: *Detect Planar Echoes* (Soul + Observation to sense past events or planar disturbances, DR 1–4+).
 
 ### 2.2.2 Turelim
-Warrior-kings with seismic voices, loyal to Kain’s vision.
+Warrior-kings with telekinetic force, loyal to Kain's vision.
 - **Bonus**: +1 Tactics.
 - **Feature**: *Turelim Protector* (Reaction to take an ally’s hit, +2 Armor for that attack, once per scene).
 
 ### 2.2.3 Dumahim
 Stoic, hulking brutes, entombed for centuries.
-- **Bonus**: +1 Presence.
+- **Bonus**: +1 Intimidation.
 - **Feature**: *Patient Earthshaker* (Action to knock prone or push back enemies within 10 ft, DR 2 check, once per scene).
 
 ### 2.2.4 Zephonim
@@ -47,9 +47,9 @@ Insectoid, parasitic vampires adept at ambush and mutation.
 ### 2.2.5 Melchiahim
 Flesh-weavers whose bodies decay constantly, surviving by grafting the flesh of others onto their rotting frames. Horrifying, resourceful, and intimately familiar with the cost of immortality.
 - **Bonus**: +1 Craft or Nature.
-- **Feature**: *The Mending* (Action, once per scene: graft harvested flesh onto yourself to restore 1d6 HP. Requires a fresh corpse or flesh component within 5 ft. If used in sight of non-Melchiahim NPCs, impose −1 to Presence checks with them for the rest of the scene).
+- **Feature**: *The Mending* (Action, once per scene: graft harvested flesh onto yourself to restore 1d6 HP. Requires a fresh corpse or flesh component within 5 ft. If used in sight of non-Melchiahim NPCs, impose −1 to Intimidation checks with them for the rest of the scene).
 - **Feature**: *Decay Resilience* (Passive: +1 Armor against Entropic damage. Advantage on saves vs. disease and poison).
-- **Vulnerability**: At the start of each new arc (or every 3 sessions), make a DR 1 Fortitude check. On failure, take 1 Corruption representing bodily decay; this can only be removed by performing a successful Mending.
+- **Vulnerability**: At the start of each new arc (or every 3 sessions), make a DR 1 Blood save. On failure, take 1 Corruption representing bodily decay; this can only be removed by performing a successful Mending.
 
 ### 2.2.6 Rahabim
 Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's flooded ruins and coastal cave systems, controlling territory no other clan can reach.

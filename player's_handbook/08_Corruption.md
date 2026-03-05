@@ -139,7 +139,7 @@ Characters may select one Corrupted Perk each time they cross a new threshold.
 
 #### Corrupted Ferocity
 
-**Effect (Active):** As a Bonus Action, once per short rest, you can enter a frenzied state for 1 minute. Your melee attacks deal +3 damage, but you take 1 physical damage (bypassing Armor) each time you attack. Costs 2 SE.
+**Effect (Active):** As a Bonus Action, once per short rest, you can enter a frenzied state for 1 minute. Your melee attacks deal +3 damage, but you take 1 physical damage (bypassing Armor) each time you attack. Gaining 1 Corruption activates this perk; no SE cost.
 
 **Drawback:** After the frenzy ends, you're exhausted, suffering a -1 die penalty on all Blood and Evasion checks until you complete a short rest.
 
@@ -167,7 +167,7 @@ Characters may select one Corrupted Perk each time they cross a new threshold.
 
 #### Hylden's Rift
 
-**Effect (Active):** As an Action, once per long rest, you tear open a rift to the Hylden's banished dimension at a point within 60 feet (12 squares), creating a 10-foot (2 squares) radius zone of chaotic energy for 1 minute. Enemies entering or starting their turn in the zone take 4 Entropic (Void) damage (bypassing all Armor) and must make a DR 3 Blood save or be slowed (half speed) for 1 round. Costs 7 SE.
+**Effect (Active):** As an Action, once per long rest, you tear open a rift to the Hylden's banished dimension at a point within 60 feet (12 squares), creating a 10-foot (2 squares) radius zone of chaotic energy for 1 minute. Enemies entering or starting their turn in the zone take 4 Entropic (Void) damage (bypassing all Armor) and must make a DR 3 Blood save or be slowed (half speed) for 1 round. Costs 4 SE.
 
 **Drawback:** The rift destabilizes you; your Corruption Level increases by 2, and your maximum HP is reduced by 5 until you complete a long rest. The rift may attract Hylden attention, potentially summoning a minor Hylden entity (GM discretion).
 
@@ -183,7 +183,7 @@ Characters may select one Corrupted Perk each time they cross a new threshold.
 
 #### Wraith's Lament
 
-**Effect (Active):** As an Action, once per short rest, you emit a keening wail that affects all enemies within 30 feet (6 squares). Targets must make a DR 3 Will save. On a failure, they take 5 Spectral damage (bypassing Armor) and cannot take Reactions until the end of their next turn. On a success, they take 2 Spectral damage. Costs 4 SE.
+**Effect (Active):** As an Action, once per short rest, you emit a keening wail that affects all enemies within 30 feet (6 squares). Targets must make a DR 3 Will save. On a failure, they take 5 Spectral damage (bypassing Armor) and cannot take Reactions until the end of their next turn. On a success, they take 2 Spectral damage. Costs 2 SE.
 
 **Drawback:** Your connection to the Spectral Realm deepens; your Corruption Level increases by 1, and you lose 1 SE whenever you enter or remain in the Spectral Realm for more than 1 minute per scene until your next long rest.
 
@@ -200,3 +200,33 @@ Characters may select one Corrupted Perk each time they cross a new threshold.
 ---
 
 *"Power demands a price. The question is: how much are you willing to pay?"*
+
+---
+
+## 8.5 Other Effects of Corruption
+
+As Corruption deepens, it bleeds beyond mechanical bonuses into the character's body, mind, and social standing.
+
+**Social Consequences:** Beginning at Marked by Corruption (Level 3+), NPCs sensitive to corruption — Sarafan inquisitors, Balance Wardens, certain Oracle-Blooded — may react negatively. GMs may impose −1 to social checks when the character's corruption is detectable.
+
+**Physical Manifestations:** Deeply Corrupted (Level 7+) characters may exhibit visible signs: pallid or discolored skin, unnatural eye color, faint emanations of void or spectral energy. These are cosmetic but plot-relevant.
+
+**Threshold Pressure:** At Abyss-Bound (Level 11+), the character must succeed on a DR 2 Will save at the start of each session or suffer −1 die on Concentration and Insight checks for that session, as the corruption erodes self-control.
+
+**Total Loss:** At Corruption Level 15 (Lost), the character becomes fully feral — an NPC monster under the GM's control. Consult the GM before reaching this state.
+
+---
+
+## 8.6 Paths to Purification
+
+Corruption is not permanent. Characters willing to sacrifice time, resources, or pride may reduce their Corruption Level through the following methods:
+
+1. **Ritual of Cleansing** — Performed at a holy site using rare components (Pillar dust, untainted blood). Requires a DR 3–4 Soul + Rituals check. Success reduces Corruption by 1–2; failure increases it by 1.
+
+2. **Act of Atonement** — A meaningful sacrifice or heroic act relevant to the character's corruption source (GM discretion). Reduces Corruption by 1–3 depending on the gravity of the act.
+
+3. **Purifier NPC** — Seeking an ancient Vampire elder or Warden of Balance who specializes in corruption removal. Requires fulfilling a service, debt, or sacrifice in exchange. Reduces Corruption by 2–4.
+
+4. **Contemplation** — Extended downtime (weeks of meditation, isolation, or spiritual discipline). Requires a DR 2–3 Will + Concentration check. Reduces Corruption by 1 on success.
+
+No purification method can reduce Corruption below the minimum required to keep already-activated Corrupted Perks. If purification would drop below a perk threshold, the character must choose to relinquish a perk first.

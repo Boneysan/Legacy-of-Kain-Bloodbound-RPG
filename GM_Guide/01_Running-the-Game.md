@@ -77,7 +77,7 @@ The advantage/disadvantage system replaces situational bonuses. Here's when to a
 - Character has relevant perk or ability
 
 ### When to Impose Disadvantage
-**Roll normally, then re-roll all successes (5-6), keeping only new results**
+**Roll normally, then re-roll half your successes (round up), keeping only those re-rolled dice that show 5–6; the rest become failures. Un-rerolled successes are kept.**
 
 - Character is Blinded, Frightened, or Stunned
 - Attacking in darkness without darkvision
@@ -94,7 +94,7 @@ Multiple sources of advantage don't stack—you either have it or you don't. Sam
 
 - **Base Roll:** 7 dice (4+3)
 - **With Advantage** (moving through familiar shadows): Roll 7 dice → Result: 6, 5, 4, 3, 3, 2, 1 (2 successes). Re-roll failures (4, 3, 3, 2, 1) → New rolls: 6, 5, 2, 1, 1 (2 more successes). **Total: 4 successes**
-- **With Disadvantage** (guard is alert and scanning): Roll 7 dice → Result: 6, 5, 4, 3, 3, 2, 1 (2 successes). Re-roll successes (6, 5) → New rolls: 3, 2 (0 new successes). **Total: 0 successes**
+- **With Disadvantage** (guard is alert and scanning): Roll 7 dice → Result: 6, 5, 4, 3, 3, 2, 1 (2 successes). Half of successes (round up) = 1 die to re-roll. Pick up the highest success (6) and re-roll → New roll: 3 (0 new successes). **Total: 1 success**
 
 ---
 
@@ -159,10 +159,11 @@ Track Corruption carefully—it's central to the game's themes:
 
 ### Tracking Corruption Level
 Each character has a Corruption Level (0-15):
-- **0-2:** Untouched
-- **3-6:** Tier 1 Corrupted (Tier 1 perks available)
-- **7-10:** Tier 2 Corrupted (Tier 2 perks available)
-- **11-14:** Tier 3 Corrupted (Tier 3 perks available)
+- **0:** Uncorrupted
+- **1–2:** Touched by Corruption (roleplaying cues: animals skittish, unsettling aura; no perks yet)
+- **3–6:** Marked by Corruption (Tier 1 perks available)
+- **7–10:** Deeply Corrupted (Tier 2 perks available)
+- **11–14:** Abyss-Bound (Tier 3 perks available)
 - **15:** **Lost.** The character becomes an NPC (monster).
 
 ### Ways to Gain Corruption
@@ -311,7 +312,7 @@ When caster takes damage while concentrating:
 - Failure = concentration broken, spell ends
 
 ### Drowning/Suffocation
-- Can hold breath for Will × 10 seconds
+- Can hold breath for Will × 2 rounds before checks begin
 - After that, DR 2 check each round (increasing by 1)
 - Failure = unconscious, begin dying
 

@@ -26,7 +26,7 @@
 | **Hit Points (HP)** | ___ / ___ | See HP Formula below |
 | **Temporary HP** | ___ | Doesn't stack — use highest |
 | **Defense Value (DV)** | ___ | Base DV = 1 + (higher of Shadow or Will). **Cap: 6** from static sources |
-| **Armor (Flat DR)** | ___ | Applied after hit, before HP loss. Does NOT increase DV |
+| **Armor (Flat Damage Reduction)** | ___ | Applied after hit, before HP loss. Does NOT increase DV |
 | **Combat Bonus** | +___ | +1 at Lv 5 / 10 / 15 / 20 (max +4). Attack rolls only |
 | **Weapon Damage Scaling** | +___ | +1 at Lv 5 / 10 / 15 / 20 (max +4). All weapons & abilities |
 | **Initiative Pool** | ___ dice | Shadow ___ + Tactics ___ (or Concentration ___) = ___ |
@@ -156,7 +156,7 @@ Successes: [ ] [ ] [ ]     Failures: [ ] [ ] [ ]
 | **Damage Type** | Physical / Elemental / Force / Spectral / Radiant / Entropic |
 | **Hands** | One-handed / Two-handed |
 | **Range** | Melee / Ranged (___ ft) |
-| **Tier** | Standard / Advanced / Superior |
+| **Tier** | Standard / Enhanced / Masterwork |
 | **Special** | |
 | **Scaling** | +___ (from Weapon Damage Scaling) |
 | **Total Damage** | Base ___ + Scaling ___ = ___ |
@@ -170,7 +170,7 @@ Successes: [ ] [ ] [ ]     Failures: [ ] [ ] [ ]
 | **Damage Type** | Physical / Elemental / Force / Spectral / Radiant / Entropic |
 | **Hands** | One-handed / Two-handed |
 | **Range** | Melee / Ranged (___ ft) |
-| **Tier** | Standard / Advanced / Superior |
+| **Tier** | Standard / Enhanced / Masterwork |
 | **Special** | |
 | **Scaling** | +___ (from Weapon Damage Scaling) |
 | **Total Damage** | Base ___ + Scaling ___ = ___ |
@@ -184,7 +184,7 @@ Successes: [ ] [ ] [ ]     Failures: [ ] [ ] [ ]
 | **Damage Type** | Physical / Elemental / Force / Spectral / Radiant / Entropic |
 | **Hands** | One-handed / Two-handed |
 | **Range** | Melee / Ranged (___ ft) |
-| **Tier** | Standard / Advanced / Superior |
+| **Tier** | Standard / Enhanced / Masterwork |
 | **Special** | |
 | **Scaling** | +___ (from Weapon Damage Scaling) |
 | **Total Damage** | Base ___ + Scaling ___ = ___ |
@@ -196,7 +196,7 @@ Successes: [ ] [ ] [ ]     Failures: [ ] [ ] [ ]
 | Field | Value |
 |---|---|
 | **Name** | |
-| **Armor Value (Flat DR)** | |
+| **Armor Value (Flat Damage Reduction)** | |
 | **Traits** | |
 
 *Armor reduces damage taken — it does NOT increase DV.*

@@ -31,7 +31,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 
 **Movement:** 8; **Initiative:** 4
 
-**Skills:** Athletics (Fury) 12, Intimidation (Will) 9, Arcana (Soul) 6
+**Skills:** Athletics (Fury) 12, Intimidation (Will) 9, Forbidden Knowledge (Soul) 6
 
 **Immunities:** Poison, Charm, Sleep; **Resistances:** Bludgeoning/Piercing/Slashing (non-magical)
 
@@ -58,7 +58,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 - Difficult terrain does not slow it; moving within 5ft of walls causes rubble (light cover zones) to form.
 
 Legendary Actions (2/round)
-- Stomp: 5ft shock pulse; adjacent creatures make Agility DR 15 or take 6 Force and are Staggered (no reactions) until end of turn.
+- Stomp: 5ft shock pulse; adjacent creatures make DR 4 Evasion save or take 6 Force and are Staggered (no reactions) until end of turn.
 - Hurl Debris: 60ft ranged; Fury + Athletics = 10d6 vs Dodge; 12 Bludgeoning + 4 Piercing.
 
 ---
@@ -88,7 +88,7 @@ Legendary Actions (2/round)
 
 **Movement:** 8 (Hover); **Initiative:** 8
 
-**Skills:** Arcana (Soul) 12, Insight (Focus) 10, Perception (Focus) 9
+**Skills:** Forbidden Knowledge (Soul) 12, Insight (Focus) 10, Observation (Focus) 9
 
 **Immunities:** Prone; **Resistances:** Force, Psychic
 
@@ -105,7 +105,7 @@ Legendary Actions (2/round)
 **Shattering Chorus (Special)**
 - Action: 1; Cost: 10 SE
 - Range: 20ft radius within 60ft
-- Save: Agility DR 15
+- Save: DR 4 Evasion save
 - Fail: 16 Force and weapons/shields lose 1 Armor rating (min 0) for 1 hour.
 
 **Augury Veil (Special)**
@@ -143,7 +143,7 @@ Legendary Actions (2/round)
 
 **Movement:** 12 (Swim, Burrow-silt 6); **Initiative:** 5
 
-**Skills:** Athletics (Fury) 13, Perception (Focus) 8, Survival (Focus) 8
+**Skills:** Athletics (Fury) 13, Observation (Focus) 8, Survival (Focus) 8
 
 **Immunities:** Poison; **Resistances:** Cold, Physical (non-magical)
 
@@ -166,7 +166,7 @@ Legendary Actions (2/round)
 **Collapse the Vault (Special — Lair Action)**
 - Trigger: Lair action (on initiative 20)
 - Range: 15ft square (GM chooses)
-- Save: Agility DR 15
+- Save: DR 4 Evasion save
 - Fail: 14 Bludgeoning; area becomes difficult terrain.
 
 Legendary Actions (2/round)
@@ -199,7 +199,7 @@ Legendary Actions (2/round)
 
 **Movement:** 12 (Hover, Phasing); **Initiative:** 9
 
-**Skills:** Arcana (Soul) 9, Stealth (Shadow) 10, Insight (Focus) 8
+**Skills:** Forbidden Knowledge (Soul) 9, Stealth (Shadow) 10, Insight (Focus) 8
 
 **Immunities:** Non-magical physical; **Resistances:** Radiant, Soul; **Vulnerabilities:** Glyph magic
 
@@ -252,7 +252,7 @@ Legendary Actions (2/round)
 
 **Movement:** 14 (Climb); **Initiative:** 8
 
-**Skills:** Athletics (Fury) 10, Stealth (Shadow) 9, Perception (Focus) 7
+**Skills:** Athletics (Fury) 10, Stealth (Shadow) 9, Observation (Focus) 7
 
 **Immunities:** Poison; **Resistances:** Slashing; **Vulnerabilities:** Thunder (resonance shatters carapace), Fire, Radiant
 
@@ -311,7 +311,7 @@ Legendary Actions (2/round)
 **Hunter's Glaive (Basic Attack)**
 - Action: 1
 - Range: 10ft
-- Dice Pool: Shadow + Stealth = 10d6 vs Dodge
+- Dice Pool: Shadow + Weapon Mastery = 10d6 vs Dodge
 - Damage: 14 Slashing; on hit, target bleeds (2/turn) until treated.
 
 **Titan Plate Shift (Special)**
@@ -349,7 +349,7 @@ Legendary Actions (2/round)
 
 **Movement:** 12 (Hover); **Initiative:** 9
 
-**Skills:** Arcana (Soul) 10, Deception (Shadow) 10, Insight (Focus) 9
+**Skills:** Forbidden Knowledge (Soul) 10, Deception (Shadow) 10, Insight (Focus) 9
 
 **Immunities:** Prone, Sleep, Charm; **Resistances:** Psychic, Soul; **Vulnerabilities:** Radiant, effects that banish or disrupt illusions
 
@@ -419,7 +419,7 @@ Legendary Actions (2/round)
 **Thornburst (Special)**
 - Action: 1; Cost: 8 SE
 - Range: 15ft radius
-- Save: Agility DR 15
+- Save: DR 4 Evasion save
 - Fail: 14 Piercing and movement halved until end of next turn.
 
 **Deep Root (Passive)**

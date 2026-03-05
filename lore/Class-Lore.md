@@ -10,7 +10,7 @@ This document summarizes the class flavor, origins, and narrative roles of Nosgo
 - Glyphwright
 - Dreadblade
 - Warden of Balance
-- Hylden Warlock- Inter-Class Tensions
+- Hylden Warlock — Inter-Class Tensions
 - Class and Faction Alignment
 See also:
 - Player’s Handbook — Chapter 03: Classes (`player's_handbook/03_Classes.md`) for mechanics and progression.
@@ -20,20 +20,52 @@ See also:
 
 ## Blood Knight
 
-Warriors dedicated to the art of vascular combat. Historically, the most famous Blood Knights were Vorador's disciples or the elite guard of the Turelim clan. They view battle as a sacrament, channeling their own vitality—or their enemy's—to fuel supernatural resilience. In the current era, they are mercenaries or champions of the independent vampire covens.
+Warriors dedicated to the art of vascular combat. Historically, the most famous Blood Knights were Vorador’s disciples or the elite guard of the Turelim clan. They view battle as a sacrament, channeling their own vitality—or their enemy’s—to fuel supernatural resilience. In the current era, they are mercenaries or champions of the independent vampire covens.
 
 Common threads:
 - Origins in vampiric blood-cults or as survivors of the arena pits.
-- Code of honor centered on strength and the "purity" of combat.
-- Mastery of *Telekinesis* (Turelim heritage) or blood-magic infusions.
+- Code of honor centered on strength and the “purity” of combat.
+- Mastery of blood-magic infusions; Turelim-lineaged Blood Knights also exhibit a residual telekinetic touch—a heritage trait, not a trained school—that manifests as an ambient pressure of force in the heat of battle.
+
+### Roleplay Guidance
+
+Blood Knights are creatures of conviction. Where Dreadblades calculate, Blood Knights commit—fully, visibly, and without hesitation. They do not consider retreat. They do not accept healing they didn’t earn. To a Blood Knight, the body is both weapon and testament: the scars they carry are the only résumé that matters.
+
+- **Voice and manner:** Blunt and declarative. Does not soften statements or defer to social niceties. Speaks of past battles as if they were sacred texts. Prone to long silences followed by single-sentence verdicts.
+- **Social habits:** Respects strength above rank. More comfortable in the fighting pit than the throne room, but will stand at the throne room door as long as someone worthy sits inside. Forms opinions about everyone’s fighting stance before knowing their name.
+- **Fears:** Dying without having tested themselves against a worthy opponent. Being healed by someone they didn’t ask. Becoming irrelevant.
+
+### Factional Ties
+- **Vampire Clans:** Blood Knights find natural homes in the Turelim and Dumahim broods, who value martial discipline and endurance. Vorador’s tradition treats them as honored students of an older school. Kainite courts employ them as champions.
+- **Crimson Fracture:** Deeply conflicted relationship. The Fracture’s philosophy of “purity in predation” appeals to some Blood Knights’ codes, but the Fracture’s embrace of uncontrolled frenzy violates the Blood Knight’s core ethic of *disciplined* strength.
+- **Sarafan Order:** Mutual hostility, but also grudging respect in individual combat. A Sarafan Knight-Confessor and a Blood Knight may despise each other’s existence while still recognizing the other as a genuine warrior. This creates complicated situations when combat honor demands fair terms.
+- **Outlands Guilds:** Blood Knights are in consistent demand as guards, champions, and problem-solvers. The Red Ledger employs several as enforcers. The Guilds pay well and ask no political questions.
+
+### Rites and Traditions
+- **The Blood Sacrament:** Before a significant battle, a Blood Knight opens a shallow wound on their sword-arm and lets blood fall to the earth. It is an offering and a promise—“I bleed willingly before the blade bleeds me.” A Blood Knight who skips this rite before battle is considered either arrogant or desperate.
+- **The Reckoning:** When a Blood Knight is defeated in honorable combat, they owe the victor a *reckoning*—one service that cannot be refused, within the bounds of honor. Reckoning debts are tracked in carving on the sword-hilt. A hilt without carvings belongs to a knight who has never been bested—or one who has never fought honestly.
+- **The Last Sip:** A Blood Knight’s death rite. When a Blood Knight consents to end, their blood is collected in a ritual vessel by those who witnessed their final battle. It is consumed by the next youngest Blood Knight in their lineage—not to feed, but to *remember*. The tradition holds that the strength of every previous knight is carried in the line.
+
+### Sacred Sites
+- **The Arena of Vorador’s First Kill:** A crumbling amphitheater hidden in the ruins of what was once Vorador’s outlying estate, where the elder vampire reportedly first mastered blade-and-blood in tandem. Blood Knights treat this as pilgrimage: they fight three bouts here—against a worthy opponent, against their own fear, and against a memory they believe they have mastered. Only when all three are honest does the pilgrimage count.
+- **The Red Vault:** A subterranean armory beneath a Turelim stronghold, said to hold weapon-relics from champions who earned the right to retire their blades. Weapons are displayed without owners’ names—only the scars they carry, for identification. To deposit your blade in the Red Vault is to acknowledge the weapon outgrew you. To retrieve one is to claim kinship with a lineage you must then justify.
+
+### Famous Blood Knights
+- **Vorador’s Champion (unnamed, pre-Kain era):** A Blood Knight who served as Vorador’s personal guard and, according to fragmentary accounts, trained Vorador’s earliest disciples. Name lost to history. Legacy survives in a fighting style called *the Voradori Press*—three feints, one real cut, all fueled by a blood-offering made mid-sequence.
+- **Kaetha of the Turelim:** A Turelim Blood Knight who challenged three consecutive clan champions and won all three before being exiled for “excessive honor”—she had refused to kill a defeated opponent who asked to surrender, which the council considered weakness. She now teaches blade-rites to outcasts and those the clans have discarded.
+
+### Associated Relics
+- **The Vitality Crest:** A medallion inscribed with radiating blade-lines, worn over the sternum by senior Blood Knights. It does not grant power, but *registers* it—subtle warmth when the wearer is at peak combat vitality, cold when they are compromised. Experienced Blood Knights read a companion’s Crest-temperature at a glance.
+- **The Thirsty Blade:** A broad-curved blade that does not retain blood on its edge—it consumes blood into the metal. Blood Knights who use it report the blade growing heavier and easier to swing simultaneously, as if it has opinions about worthy opponents.
 
 ### Using this in play
 - Quest seeds:
 	- A Blood Rite arena opens for the first time in decades; the champion’s sigil matches a PC’s forgotten lineage.
 	- A war-host marches to “purify” a ruin; the only way to avert massacre is ritual combat by proxy.
 	- A rival knight carries a relic blade that drinks vows; breaking it requires an oath freely forsaken.
+	- The Red Vault has been breached: someone is stealing weapons by name, targeting specific lineages. Who knows these names—and why do they want that legacy dead?
+	- Kaetha of the Turelim asks the party to witness a formal challenge she has no hope of winning. She’s not trying to win. She’s trying to make a point. What point—and who is the real audience?
 - NPC mentor template: Name (old honorific) • Role (duelist-priest or fortress captain) • Quirk (never removes gauntlets) • Ask/Price (sworn promise or service) • Teaches (martial conduct, dueling codes) • Hooks (feud, heretical rite, lost squire).
-
 ---
 
 ## Soul Reaver
@@ -174,7 +206,7 @@ Sangromancers see the world as a circulatory system—connections, flows, pressu
 - **The Offering of Drops:** A Sangromancer never takes blood without offering their own first. It is a code of reciprocity—"I will not ask of your veins what I would not ask of mine." Breaking this code is considered not just unethical but technically dangerous, as unreciprocated blood-magic tends to rebound.
 
 ### Sacred Sites
-- **The Blood-Well of Avernus:** A deep cistern beneath the ruins of Avernus Cathedral, where blood-magic was first codified by Hylden researchers using Janos Audron's stolen heart as a power source. The well still pulses with residual energy. Sangromancers who meditate here can sense the heartbeats of every living creature within a mile.
+- **The Blood-Well of Avernus:** A deep cistern beneath the ruins of Avernus Cathedral, where blood-magic was first codified by Hylden researchers using Janos Audron's stolen heart as a power source. The well still pulses with residual energy. Sangromancers who meditate here can sense the heartbeats of every living creature within a mile. *Note: the Blood-Well predates the Cult of Hash'ak'gik by centuries, but the Cult now controls the upper cathedral and the primary access tunnels above it. Any Sangromancer pilgrimage must pass through active Hash'ak'gik-held territory. This is not optional; it is the price of the Well.*
 - **The Red Library:** A hidden archive where blood-sorcery texts are inscribed on vellum made from donated skin. The books are alive in a sense—they warm to the touch and their ink shifts in response to the reader's vitality.
 
 ### Famous Sangromancers
@@ -224,7 +256,7 @@ Glyphwrights are the closest thing Nosgoth has to scientists—and they act like
 
 ### Rites and Traditions
 - **The Inscription Exam:** No dramatic initiation—just a test. The aspirant must inscribe a functioning ward from memory, under time pressure, with deliberate errors introduced into the template. If the ward works, they pass. If it explodes, they have other career options (assuming they survive).
-- **The Chalk Circle:** Before any major glyph-working, Seekers draw a containment circle in chalk and speak their intent aloud. It's partly practical (containment is important) and partly superstitious (the chalk "listens" and the glyph respects stated boundaries). No one wants to test whether the superstition is wrong.
+- **The Chalk Circle:** Before any major glyph-working, Glyphwrights draw a containment circle in chalk and speak their intent aloud. It's partly practical (containment is important) and partly superstitious (the chalk "listens" and the glyph respects stated boundaries). No one wants to test whether the superstition is wrong.
 - **Archival Oath:** All Glyphwrights swear to document their work. Failure to record a discovery is considered worse than failure to make one. "Knowledge unwritten is knowledge twice lost."
 
 ### Sacred Sites
@@ -332,7 +364,7 @@ Wardens of Balance carry the heaviest burden in Nosgoth: the obligation to be fa
 
 ### Sacred Sites
 - **The Pillar Ruins:** The primary sacred site. Even shattered, the Pillars pulse with residual energy. Wardens who meditate there sometimes receive visions—of what balance looked like, what corruption feels like, and what restoration might require.
-- **The Hall of Equilibrium:** A hidden chamber beneath a forgotten temple where the first Wardens carved their founding oaths into the walls alongside counterarguments to their own principles. The Hall teaches that balance begins with doubting yourself.
+- **The Hall of Equilibrium:** A hidden chamber beneath a forgotten temple where the first Wardens carved their founding oaths into the walls alongside counterarguments to their own principles. The Hall teaches that balance begins with doubting yourself. *(Cross-reference: World Primer — Key Locations for the site's geographical and narrative context.)*
 
 ### Famous Wardens
 - **Arbiter Caelus:** The last Warden who attempted to restore a Pillar (the Pillar of Conflict). He succeeded in stabilizing it for three days before the effort killed him. His method—a combination of blood-magic, glyph-work, and sheer willpower—is studied by every Warden since, though none have replicated it.
@@ -375,6 +407,7 @@ Hylden Warlocks are the loneliest characters in Nosgoth—not because they lack 
 - **Wardens of Balance:** Natural adversaries. Wardens see Hylden Warlocks as walking corruption—entropy made flesh. Warlocks see Wardens as the universe's hall monitors.
 - **Pale Accord:** The most willing employer. The Accord's Chapter of Time and Chapter of Dimension both use Warlock consultants, paying in knowledge and looking the other way about methodology.
 - **Crimson Fracture:** Some Warlocks find common ground with the Fracture's merging agenda—after all, the Hylden's original goal was to break boundaries. Others see the Fracture as amateurs who don't understand what they're breaking.
+- **Cult of Hash'ak'gik:** The Hylden Remnants recognize Hash'ak'gik as an unwelcome interloper—not Hylden, not Elder God, but something that competes for the same reality-bending frequencies the Warlocks exploit. Smart Warlocks treat the Cult as a threat older than their benefactors and twice as unpredictable; the demon has survived both the Ancient War and Kain's empire without taking sides, which makes it dangerous in ways raw power cannot account for.
 
 ### Rites and Traditions
 - **The Void Baptism:** Initiation requires the aspirant to open a controlled breach into the Hylden dimension, endure the whispers for one full minute, and close the breach without assistance. Most aspirants last thirty seconds. The ones who emerge sane-enough are Warlocks. The ones who emerge *too sane* are suspected of being Hylden plants.

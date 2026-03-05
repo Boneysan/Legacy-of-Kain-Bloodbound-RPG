@@ -502,7 +502,7 @@ Use resource scarcity to:
 - Favor owed: Vampire calls in favor later (plot hook)
 - Rival elimination: Assassination quest
 - Information trade: Party shares their knowledge
-- Threat: Risky, might work with right Presence check or backup
+- Threat: Risky, might work with right Will + Intimidation check or backup
 
 ### Scenario 3: Faction Quartermaster
 

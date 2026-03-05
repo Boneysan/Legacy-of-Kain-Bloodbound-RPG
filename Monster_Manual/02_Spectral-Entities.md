@@ -109,7 +109,7 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 **Identity Theft** (Action, requires line of sight to target)
 - **Dice Pool:** Soul 4 + Deception 4 = 8d6
 - **Range:** 30 feet (6 squares)
-- **Effect:** Target must make DR 3 Will save or become Confused. While Confused, sees all allies as enemies and enemies as allies. Can repeat save at end of each turn. Lasts 1 minute.
+- **Effect:** Target must make DR 3 Will save or become Frightened and Weakened. While in this state, perceives allies as enemies. Can repeat save at end of each turn. Lasts 1 minute.
 - **Special:** While target is Confused, Mirror Wraith takes their appearance perfectly
 
 **Spectral Claws** (Action)
@@ -488,7 +488,7 @@ Sluagh lurk at the edges of combat, waiting for someone to weaken. They do not i
 ### Scaling Options
 **Elder Sluagh** (Elite, TV 2): +15 HP, increase Soul to 3 and Shadow to 3. Carrion Grasp deals 6 Soul damage and drains 2 SE. Add "Devour Echo" ability (Action, 1/encounter): consume a single memory, enchantment, or ward within 10 ft, permanently destroying it. This can strip a Wraith's anchor if they fail a DR 3 Will save.
 
-**Sluagh Tide** (Boss encounter, TV 5): A swarm of 8+ Sluagh acting as a single entity. HP 60, DV 4, Armor 0 (Incorporeal). Attacks all creatures in a 20 ft radius for 6 Soul damage + 2 SE drain. The Tide is attracted by any use of Soul-based abilities within 200 ft and arrives 1d4 rounds later. It cannot be reasoned with, frightened, or turned. It can only be outrun, outwaited (it disperses after 10 rounds without feeding), or destroyed through concentrated Spectral or magical damage.
+**Sluagh Tide** (Boss encounter, TV 5): A swarm of 8+ Sluagh acting as a single entity. HP 60, DV 4, Armor 0 (Incorporeal). Attacks all creatures in a 20 ft radius for 6 Soul damage + 2 SE drain. The Tide is attracted by any use of Soul-based abilities within 200 ft and arrives 1d4 rounds later. It cannot be reasoned with, frightened, or Radiant-banished. It can only be outrun, outwaited (it disperses after 10 rounds without feeding), or destroyed through concentrated Spectral or magical damage.
 
 ---
 
@@ -620,7 +620,7 @@ In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he wa
 
 **Abyssal Resilience:** Resistant to Fire, Cold, and Lightning damage (half damage from each). The Abyss has burned away conventional weaknesses.
 
-**Dimensional Anchor:** Cannot be banished, forced to plane-shift, or turned by conventional means. The Abyss holds the Wraith here — it has already been cast out of the afterlife and has nowhere to go.
+**Dimensional Anchor:** Cannot be banished, forced to plane-shift, or affected by Radiant-based banishment. The Abyss holds the Wraith here — it has already been cast out of the afterlife and has nowhere to go.
 
 **Consume the Fallen:** When a creature dies within 30 feet of the Wraith, it gains 10 temporary HP and +1 die on its next attack roll (gorging on released soul energy).
 

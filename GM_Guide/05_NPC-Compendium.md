@@ -68,7 +68,7 @@ Characters like Kain, Raziel, Moebius, and the Elder God are larger-than-life fi
 **Titles:** Vampire Lord, Scion of Balance, The Defiant One, The Time Killer  
 **Nature:** Ancient vampire, former Guardian of Balance, wielder of the Soul Reaver  
 **Era:** From the Age of Corruption to the Age of Fracture  
-**Current Status:** Wandering specter, more legend than ruler
+**Current Status:** Active agent of Nosgoth's restoration — wields the purified Soul Reaver, works to break the Wheel of Fate and rebuild the Pillars
 
 ### Appearance
 Kain appears as a towering, regal vampire with aristocratic features twisted by centuries of vampirism. His pale skin is stretched taut over angular bones, his eyes burn with cold intelligence, and his voice carries the weight of ages. He wears ornate armor that seems to shift between states—sometimes corporeal, sometimes spectral—and always wields the Soul Reaver blade, which pulses with Raziel's essence.
@@ -475,6 +475,8 @@ A powerful, aristocratic vampire with green-tinged skin and ancient features. He
 
 Use these characters as recurring allies, antagonists, or morally complex contacts. Unlike the legendary NPCs in sections 5.2–5.6, faction representatives **can** be fought, bargained with, or even killed — though doing so will reshape the political landscape.
 
+> **Stat Block Note:** In the stat tables below, **DV** = Defense Value (successes needed to hit this NPC), and **DR** = Save DR (the Difficulty Rating for saves made *against this NPC’s abilities*). These are two distinct values.
+
 ---
 
 ### 5.8.1 Commander Malthus — Sarafan Inquisitor
@@ -498,7 +500,7 @@ Malthus is a broad-shouldered man in his late forties, face mapped with scars fr
 | Attribute | Value |
 |:----------|:------|
 | Fury | 3 |
-| Fortitude | 4 |
+| Blood | 4 |
 | Focus | 3 |
 | Shadow | 1 |
 | Soul | 2 |
@@ -511,7 +513,7 @@ Malthus is a broad-shouldered man in his late forties, face mapped with scars fr
 **Abilities**
 - **Relic-Blade Strike:** Melee attacks deal +2 damage to undead targets.
 - **Inspiring Command (1/encounter):** All Sarafan allies within 30 ft gain +1 DV for 2 rounds.
-- **Iron Resolve:** Advantage on saves vs. fear, charm, and Corruption effects.
+- **Iron Resolve:** +2 dice on Will + Concentration checks vs. fear, charm, and Corruption effects.
 - **Inquisitor's Eye:** Can detect vampiric taint within 15 ft (contested Soul vs. Shadow check).
 
 **Campaign Use**
@@ -546,11 +548,11 @@ Seripha appears no older than thirty but has walked Nosgoth for over four centur
 | Attribute | Value |
 |:----------|:------|
 | Fury | 2 |
-| Fortitude | 2 |
 | Shadow | 4 |
 | Soul | 3 |
 | Focus | 2 |
-| Will/Blood | 3 |
+| Will | 3 |
+| Blood | 3 |
 | DV | 3 |
 | DR | 3 |
 | Armor | 1 (unarmoured, preternatural dodge) |
@@ -561,7 +563,7 @@ Seripha appears no older than thirty but has walked Nosgoth for over four centur
 - **Blood Sovereignty (1/encounter):** Targets one vampire within 30 ft. The target must succeed on a Soul save (DR 3) or become charmed for 1 minute — feeling overwhelming loyalty to the Crimson Fracture's cause.
 - **Crimson Lash:** Ranged attack (40 ft), DV 3 — a whip of coagulated blood deals 6 damage and pulls the target 10 ft closer.
 - **Ancient Vitality:** Regenerates 2 HP at the start of each round unless she has taken fire or sunlight damage.
-- **Martyr's Fury:** When below half HP, gains +1 DV and +1 DV to all attacks until healed.
+- **Martyr's Fury:** When below half HP, gains +1 DV and +1 die to attack rolls until healed.
 
 **Campaign Use**
 - Recruiter or antagonist for mixed-lineage parties
@@ -595,11 +597,11 @@ Adamas is a lean, ageless vampire with close-cropped grey hair and spectacles he
 | Attribute | Value |
 |:----------|:------|
 | Fury | 1 |
-| Fortitude | 2 |
 | Focus | 4 |
 | Shadow | 3 |
 | Soul | 3 |
-| Will/Blood | 3 |
+| Will | 3 |
+| Blood | 3 |
 | DV | 2 |
 | DR | 3 |
 | Armor | 0 |
@@ -609,7 +611,7 @@ Adamas is a lean, ageless vampire with close-cropped grey hair and spectacles he
 **Abilities**
 - **Silver Tongue:** Advantage on all Persuasion, Deception, and Diplomacy checks. Can reroll one failed social check per scene.
 - **Accord Cipher:** Can encode/decode Pale Accord diplomatic messages. Carries sealed letters that, if delivered, can call in favours from Accord contacts across Nosgoth.
-- **Pact of Restraint:** Adamas has voluntarily suppressed his vampiric feeding instinct. He does not regenerate naturally but is immune to Blood Frenzy.
+- **Pact of Restraint:** Adamas has voluntarily suppressed his vampiric feeding instinct. He does not regenerate naturally but is immune to vampiric frenzy (the involuntary combat state triggered at 0 HP).
 - **Emergency Mist (1/day):** Can dissolve into mist and flee if reduced below 5 HP.
 
 **Campaign Use**
@@ -644,7 +646,7 @@ Vreth maintains a mortal disguise — a gaunt merchant with amber eyes and a fai
 | Attribute | Value |
 |:----------|:------|
 | Fury | 2 |
-| Fortitude | 2 |
+| Blood | 2 |
 | Focus | 4 |
 | Shadow | 3 |
 | Soul | 1 |
@@ -692,7 +694,7 @@ Thessa is a stocky Revenant woman in her fifties with burn scars across the righ
 | Attribute | Value |
 |:----------|:------|
 | Fury | 2 |
-| Fortitude | 3 |
+| Blood | 3 |
 | Focus | 3 |
 | Shadow | 3 |
 | Soul | 2 |
@@ -740,7 +742,7 @@ Nakthos was once a Sarafan cleric. Now he is something else. His robes are stain
 | Attribute | Value |
 |:----------|:------|
 | Fury | 1 |
-| Fortitude | 2 |
+| Blood | 2 |
 | Focus | 3 |
 | Shadow | 2 |
 | Soul | 4 |

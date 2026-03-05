@@ -60,8 +60,8 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 #### Stats
 - **HP**: 50
 - **Defense Value (DV)**: 5
-- **Difficulty Rating (DR)**: 3 (Physical and Will saves), 2 (other saves)
-- **Movement**: 7 tiles per turn
+- **Save DR** *(saves against this creature's abilities)*: 3 (Physical and Will saves), 2 (other saves)
+- **Movement**: 35 ft per turn
 - **Armor**: Medium (bio-tempered flesh, Armor 2 vs Physical, immune to Spectral damage)
 
 **Attributes**:
@@ -140,8 +140,8 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 #### Stats
 - **HP**: 38
 - **Defense Value (DV)**: 4
-- **Difficulty Rating (DR)**: 4 (Will and Soul saves), 2 (Physical saves)
-- **Movement**: 5 tiles per turn (frail host)
+- **Save DR** *(saves against this creature's abilities)*: 4 (Will and Soul saves), 2 (Physical saves)
+- **Movement**: 25 ft per turn (frail host)
 - **Armor**: Light (grafted bio-plates, Armor 1 vs Physical, immune to Spectral damage)
 
 **Attributes**:
@@ -153,17 +153,17 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 - Blood: 1
 
 **Skills**:
-- Biomancy: 5
+- Biomancy: 3
 - Forbidden Surgery: 4
 - Hylden Rituals: 4
 
 #### Attacks
-**Fleshwarp Touch** (Soul 5 + Biomancy 5 = 10d6)
+**Fleshwarp Touch** (Soul 5 + Biomancy 3 = 8d6)
 - Range: Melee
 - Damage: 6 Soul + 3 Corruption damage
 - Effect: On Critical Hit (3+ successes), the target's flesh begins to mutate. They are **Weakened** (Disadvantage on Fury-based rolls) for 3 rounds as their muscles spasm uncontrollably.
 
-**Bio-Spike Eruption** (Soul 5 + Biomancy 5 = 10d6, costs 3 SE)
+**Bio-Spike Eruption** (Soul 5 + Biomancy 3 = 8d6, costs 3 SE)
 - Range: 30 feet (target creature or corpse)
 - Damage: 8 Physical damage to all creatures within 10 feet of the target
 - Effect: The Architect causes bone spikes to erupt from the target's body, impaling nearby creatures. If the target is a corpse, it's consumed in the process (cannot be revived).
@@ -219,8 +219,8 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 #### Stats
 - **HP**: 35
 - **Defense Value (DV)**: 3
-- **Difficulty Rating (DR)**: 2 (Physical saves), 0 (Mental saves, mindless)
-- **Movement**: 6 tiles per turn (lurching gait)
+- **Save DR** *(saves against this creature's abilities)*: 2 (Physical saves), 0 (Mental saves, mindless)
+- **Movement**: 30 ft per turn (lurching gait)
 - **Armor**: Medium (fused flesh, Armor 2 vs Physical)
 
 **Attributes**:
@@ -243,7 +243,7 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 
 **Corrosive Bile** (Fury 4 + Spew 2 = 6d6, Recharge 5-6)
 - Range: 15-foot cone
-- Damage: 5 Acid damage to all creatures in the cone
+- Damage: 5 Elemental damage to all creatures in the cone
 - Effect: Affected creatures' Armor is reduced by 1 for 3 rounds (corrosive effect).
 
 #### Abilities
@@ -251,16 +251,16 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 
 **Mind-Tethered**: The Abomination is controlled by a Hylden creature within 100 feet. If the controller is killed or the tether is severed (DR 4 Soul + Rituals check to sever psychically), the Abomination collapses instantly (death).
 
-**Regeneration (Fused Flesh)**: The Abomination regains 3 HP at the start of each of its turns (flesh knits together). This regeneration stops if it takes Fire or Acid damage since its last turn.
+**Regeneration (Fused Flesh)**: The Abomination regains 3 HP at the start of each of its turns (flesh knits together). This regeneration stops if it takes Fire or Elemental damage since its last turn.
 
 **Unnatural Resilience**: The Abomination ignores the first instance of being reduced to 0 HP each encounter (it just keeps moving, horror movie style). It collapses on the second instance.
 
-**Terror Presence**: Creatures seeing the Abomination for the first time must pass a DR 2 Will save or be **Shaken** (Disadvantage on next attack) due to its horrific appearance.
+**Terror Presence**: Creatures seeing the Abomination for the first time must pass a DR 2 Will save or be **Weakened** (−1 die on next attack roll) due to its horrific appearance.
 
 #### Tactics
 - **Relentless Advance**: Abominations charge forward, attacking the nearest enemy with Fused Limbs.
 - **Corrosive Bile When Available**: They use this when multiple enemies are in range, reducing armor effectiveness.
-- **Regeneration Reliance**: They rely on regeneration to outlast enemies. Players must use Fire or Acid to stop healing.
+- **Regeneration Reliance**: They rely on regeneration to outlast enemies. Players must use Fire or Elemental damage to stop healing.
 - **Unnatural Resilience Shock**: Players often think they've killed it, only for it to keep attacking. This creates horror and tension.
 - **Distraction Role**: Abominations are meant to soak damage while Flesh Architects or Shock Troopers attack from range.
 
@@ -289,8 +289,8 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 #### Stats
 - **HP**: 28
 - **Defense Value (DV)**: 4
-- **Difficulty Rating (DR)**: 2 (all saves)
-- **Movement**: 6 tiles per turn
+- **Save DR** *(saves against this creature's abilities)*: 2 (all saves)
+- **Movement**: 30 ft per turn
 - **Armor**: None (civilian clothing), but see Abilities
 
 **Attributes**:
@@ -320,7 +320,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 **Corruption Wave** (Soul 3 + Corruption 3 = 6d6, Recharge 6, costs 2 SE)
 - Range: 20-foot radius centered on the Host
 - Damage: 4 Corruption damage to all creatures in the radius
-- Effect: Targets must pass a DR 3 Will save or be **Confused** (Disadvantage on all rolls for 2 rounds, as Hylden whispers fill their minds).
+- Effect: Targets must pass a DR 3 Will save or be **Weakened** (−1 die on all rolls for 2 rounds, as Hylden whispers fill their minds).
 
 #### Abilities
 **Partial Possession**: The Host is between mortal and Hylden. They're immune to Corruption effects (already saturated) but vulnerable to Radiant damage (+2 damage).
@@ -365,9 +365,9 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 
 #### Stats
 - **HP**: 48
-- **Defense Value (DV)**: 7
-- **Difficulty Rating (DR)**: 4 (Shadow and Will saves), 3 (Physical saves)
-- **Movement**: 9 tiles per turn (enhanced agility)
+- **Defense Value (DV)**: 6
+- **Save DR** *(saves against this creature's abilities)*: 4 (Shadow and Will saves), 3 (Physical saves)
+- **Movement**: 45 ft per turn (enhanced agility)
 - **Armor**: Light (bio-enhanced skin, Armor 2 vs Physical, immune to Spectral damage)
 
 **Attributes**:
@@ -445,8 +445,8 @@ They're strategic thinkers, not frontline fighters. They open rifts to bring in 
 #### Stats
 - **HP**: 40
 - **Defense Value (DV)**: 5
-- **Difficulty Rating (DR)**: 5 (Will and Soul saves), 3 (Physical saves)
-- **Movement**: 6 tiles per turn
+- **Save DR** *(saves against this creature's abilities)*: 5 (Will and Soul saves), 3 (Physical saves)
+- **Movement**: 30 ft per turn
 - **Armor**: Medium (dimensional anchors, Armor 2 vs Physical, Armor 3 vs Magic, immune to Spectral damage)
 
 **Attributes**:
@@ -458,12 +458,12 @@ They're strategic thinkers, not frontline fighters. They open rifts to bring in 
 - Blood: 1
 
 **Skills**:
-- Dimensional Manipulation: 5
+- Dimensional Manipulation: 3
 - Hylden Portal Magic: 5
 - Reality Distortion: 4
 
 #### Attacks
-**Reality Tear** (Soul 6 + Dimensional Manipulation 5 = 11d6, costs 3 SE)
+**Reality Tear** (Soul 6 + Dimensional Manipulation 3 = 9d6, costs 3 SE)
 - Range: 40 feet
 - Damage: 8 Force + 3 Soul damage
 - Effect: The Engineer tears a hole in reality, damaging the target. On Critical Hit (3+ successes), the target is **Unraveled** (lose 3 SE or BP, or take 3 additional Soul damage).
@@ -533,8 +533,8 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 #### Stats
 - **HP**: 100
 - **Defense Value (DV)**: 6
-- **Difficulty Rating (DR)**: 5 (all saves)
-- **Movement**: 6 tiles per turn (floats above ground)
+- **Save DR** *(saves against this creature's abilities)*: 5 (all saves)
+- **Movement**: 30 ft per turn (floats above ground)
 - **Armor**: Heavy (reality shell, Armor 3 vs Physical, Armor 5 vs Magic, immune to Spectral damage)
 
 **Attributes**:
@@ -575,7 +575,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 
 **Reality Shell**: The Oracle is surrounded by a shell of warped reality. They have Armor 3 vs Physical and Armor 5 vs Magic. Additionally, ranged attacks against the Oracle have Disadvantage (projectiles curve around them).
 
-**Prophecy Sight**: The Oracle can see 3 rounds into the future. They have Advantage on all Defense rolls (they see attacks coming before they happen).
+**Prophecy Sight**: The Oracle can see 3 rounds into the future. They have Advantage on all Defense rolls (they see attacks coming before they happen). *(Once per round reaction; subsequent attacks in the same round are resolved normally.)*
 
 **Legendary Actions (3 per round)**: The Oracle can use Legendary Actions at the end of another creature's turn.
 - **Move**: The Oracle floats up to half their movement speed.
@@ -619,8 +619,8 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 #### Stats
 - **HP**: 55
 - **Defense Value (DV)**: 5
-- **Difficulty Rating (DR)**: 4 (Will saves), 3 (other saves)
-- **Movement**: 6 tiles per turn
+- **Save DR** *(saves against this creature's abilities)*: 4 (Will saves), 3 (other saves)
+- **Movement**: 30 ft per turn
 - **Armor**: Heavy (tormentor's plate, Armor 3 vs Physical, immune to Spectral damage)
 
 **Attributes**:
@@ -661,7 +661,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 
 **Break the Mind** (Passive): When the Warden reduces a creature to 0 HP, that creature must pass a DR 5 Will save or gain 2 Corruption points (trauma from the encounter).
 
-**Psychic Prison**: If the Warden successfully uses Cage of Despair on a creature, that creature is marked. For the next 24 hours, they have nightmares of the encounter (Disadvantage on rest recovery rolls, regain half HP/SE/BP from rest instead of full).
+**Spectral Prison**: If the Warden successfully uses Cage of Despair on a creature, that creature is marked. For the next 24 hours, they have nightmares of the encounter (Disadvantage on rest recovery rolls, regain half HP/SE/BP from rest instead of full).
 
 #### Tactics
 - **Open with Mind Spike**: Wardens start by Frightening priority targets (fighters, leaders), reducing their effectiveness.
@@ -674,7 +674,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 #### Loot
 - Barbed chain (weapon, 15-foot reach, deals +2 damage when Grappling) - **Trade Value**: 45 supplies
 - Tormentor's plate (Heavy armor, Armor 3 Physical, grants +1 die on Intimidation) - **Trade Value**: 60 supplies
-- Psychic prison shard (can trap one creature's consciousness, one-time use) - **Trade Value**: 70 supplies, dangerous item
+- Spectral prison shard (can trap one creature's consciousness, one-time use) - **Trade Value**: 70 supplies, dangerous item
 - Suffering essence (crystallized pain, harvested by the Warden) - **Trade Value**: 40 supplies, used in dark rituals or alchemy
 
 #### Scaling Options
@@ -699,7 +699,7 @@ They serve as force multipliers for Hylden operations: opening rifts to bring re
 #### Stats
 - **HP**: 55
 - **Defense Value (DV)**: 5
-- **Difficulty Rating (DR)**: 4 (Will saves), 3 (other saves)
+- **Save DR** *(saves against this creature's abilities)*: 4 (Will saves), 3 (other saves)
 - **Movement**: 30 feet per turn
 - **Armor**: 2 (bio-ritual vestments: Armor 2 vs Physical, immune to Spectral damage)
 - **Soul Energy (SE):** 15
@@ -786,7 +786,7 @@ For GMs, Grunts solve a critical gap in Hylden encounters: the need for low-tier
 #### Stats
 - **HP**: 8
 - **Defense Value (DV)**: 3
-- **Difficulty Rating (DR)**: 1 (all saves)
+- **Save DR** *(saves against this creature's abilities)*: 1 (all saves)
 - **Movement**: 30 feet per turn
 - **Armor**: 1 (patchwork armor scavenged from the host’s surroundings)
 - **SE:** 0 | **BP:** 0
@@ -984,7 +984,7 @@ Even winning against Hylden has costs:
 - Corruption spreads
 - Possessed allies may turn traitor
 - Hylden artifacts tempt with power
-- Survivors carry trauma (Break the Mind, Psychic Prison)
+- Survivors carry trauma (Break the Mind, Spectral Prison)
 
 Show that fighting Hylden is never clean or easy.
 

@@ -218,7 +218,7 @@ Poor: "That's enough XP, you level up."
 
 **What Changes at Each Level:**
 
-1. **Hit Points:** Gain HP based on class (4-6 per level)
+1. **Hit Points:** Gain HP based on class (3–4 per level)
 
 2. **Class Perk:** Gain your class's level-specific perk
    - Example: Level 6 Blood Knight gains "Juggernaut"
@@ -583,7 +583,7 @@ Even successful reality-bending can have costs:
 - [ ] Powerful adversary defeated
 - [ ] Character development milestone reached
 - [ ] World state significantly changed
-- [ ] 3-5 sessions passed since last milestone (adjust for level range)
+- [ ] Sessions since last milestone: 2–4 (Levels 1–5) / 3–5 (Levels 6–15) / 4–6 (Levels 16–20)
 - [ ] Party feels achievement is meaningful
 - [ ] Appropriate dramatic moment for advancement
 

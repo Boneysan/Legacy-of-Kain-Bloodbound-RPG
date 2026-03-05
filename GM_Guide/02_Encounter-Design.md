@@ -56,16 +56,18 @@ Each PC has a base TV equal to their level:
 
 | Enemy Type | TV Multiplier |
 |-----------|--------------|
-| **Minion** (1-2 HP, weak attacks) | 0.25× character level |
-| **Standard Enemy** (average stats) | 1× character level |
-| **Elite Enemy** (stronger stats, special abilities) | 1.5× character level |
-| **Boss** (major threat, multiple abilities) | 3-4× character level |
-| **Legendary** (campaign antagonist) | 5-10× character level |
+| **Minion** (3–6 HP, weak attacks) | 0.25× party level |
+| **Standard Enemy** (average stats) | 1× party level |
+| **Elite Enemy** (stronger stats, special abilities) | 1.5× party level |
+| **Boss** (major threat, multiple abilities) | 3–4× party level |
+| **Legendary** (campaign antagonist) | 5–10× party level |
+
+*Use party level (average character level) as the multiplier base. For example, a Boss in a Level 8 party = TV 24–32.*
 
 ### Quick Enemy Stat Creation
 
 **Minion (TV 0.25):**
-- HP: 1-2
+- HP: 3–6
 - DV: 1 + (party level ÷ 4)
 - Armor: 0
 - Attack: Party level d6 (1 attack)
@@ -77,6 +79,7 @@ Each PC has a base TV equal to their level:
 - Armor: 0-2
 - Attack: (Party level + 2) d6
 - Damage: 4-6
+- Contested checks: pool = party level ÷ 2 (round up)
 
 **Elite Enemy (TV 1.5):**
 - HP: 8 + (3 × party level)
@@ -85,6 +88,7 @@ Each PC has a base TV equal to their level:
 - Attack: (Party level + 3) d6
 - Damage: 6-8
 - Special: 1-2 unique abilities
+- Contested checks: pool = party level
 
 **Boss (TV 3-4):**
 - HP: 20 + (5 × party level)
@@ -93,6 +97,7 @@ Each PC has a base TV equal to their level:
 - Attack: (Party level + 4) d6, 2 attacks per turn
 - Damage: 8-12
 - Special: 3-4 unique abilities, resistance to 1-2 damage types
+- Contested checks: pool = party level
 
 ---
 
@@ -147,12 +152,12 @@ Terrain and environment dramatically affect encounter difficulty:
 
 **Elevated Terrain**
 - +1 success on attacks from high ground
-- +1 DR to hit target on high ground
+- +1 DV to target on high ground (attacker needs extra success to hit)
 - **Tactical Use:** Powerful defensive position
 
 **Cover**
-- Half cover: +1 DR to be hit by ranged/spells
-- Full cover: +2 DR to be hit by ranged/spells
+- Half cover: +1 DV against ranged attacks/spells
+- Full cover: +2 DV against ranged attacks/spells
 - **Tactical Use:** Protects ranged enemies, encourages flanking
 
 ### Interactive Elements

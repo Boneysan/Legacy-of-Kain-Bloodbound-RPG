@@ -124,6 +124,8 @@ Opens with Shadow Leap to close distance, then Pounces on isolated target. Uses 
 **Threat Tier:** Standard  
 **Threat Value (TV):** 1
 
+
+> **Note for Players:** This entry describes a mindless, purpose-driven undead creature. The playable Revenant lineage (Player's Handbook Ch02) represents sapient individuals who retain full faculties—they are not equivalent to these monsters.
 ### Lore
 Revenants are the restless dead bound to unfinished purpose. Unlike mindless undead, they retain memories and intelligence from life, but are consumed by singular obsession—vengeance, duty, or protecting something precious. They cannot rest until their purpose is fulfilled or their physical form is destroyed.
 

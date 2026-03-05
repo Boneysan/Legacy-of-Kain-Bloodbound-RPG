@@ -112,7 +112,7 @@ Combat in Nosgoth reflects the brutal, tactical, and often supernatural struggle
 
 ### 10.4.1 Initiative
 
-* Roll D6s equal to **Shadow + Tactics**.
+* Roll D6s equal to **Shadow + Tactics** (or **Shadow + Concentration**).
 * Highest number of successes acts first.
 * Ties broken by Shadow stat, then GM discretion.
 
