@@ -99,9 +99,9 @@ Consult your GM for the full class list and specific perks.
 Distribute 15 points across six attributes, with a maximum of 3 per attribute. Each governs specific aspects of your character:
 
 Fury: Aggression and emotional force. Governs raw power, rage, and intimidation. Key for classes like Blood Knight or Dreadblade. Linked to skills like Weapon Mastery and Presence.
-Soul: Spiritual power and connection to the Spectral Realm. Crucial for spellcasters like Soul Reaver or Glyph Seeker. Influences Soul Energy and skills like Glyphcasting and Possession.
+Soul: Spiritual power and connection to the Spectral Realm. Crucial for spellcasters like Soul Reaver or Glyphwright. Influences Soul Energy and skills like Glyphcasting and Possession.
 Shadow: Stealth, evasion, and subtlety. Core for Shadowmancer or Dreadblade. Linked to Stealth, Evasion, and Thievery.
-Will: Mental resilience and discipline. Key for Glyph Seeker or Hylden Warlock. Used for resisting mental assaults and skills like Tactics and Insight.
+Will: Mental resilience and discipline. Key for Glyphwright or Hylden Warlock. Used for resisting mental assaults and skills like Tactics and Insight.
 Focus: Mental acuity and precision. Important for perception and complex tasks. Linked to Observation, History, and Craft.
 Blood: Physical vitality and life essence. Core for Blood Knight or Sangromancer. Influences Blood Point reserves and blood magic.
 
@@ -146,7 +146,7 @@ Weapons: Bloodstaff (3 Physical, heals caster), Veinbinder Rod (4 Physical, 1 da
 Armor: Veinsilk Robes (heals 1 HP after Blood spell), Sanguine Mantle (+1 Blood spell damage).
 
 
-Glyph Seeker:
+Glyphwright:
 Weapons: Spiritshard Wand (3 Spectral damage, passes through walls), Throwing Dagger.
 Armor: Ritual Vestments (reduces corruption cost), Inkbound Mantle (+1 Glyph rolls).
 

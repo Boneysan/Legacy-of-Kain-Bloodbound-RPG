@@ -438,7 +438,7 @@ Use resource scarcity to:
 - Corrupting influence
 
 **Sought By:**
-- Glyph Seekers (for study)
+- Glyphwrights (for study)
 - Hylden Warlocks (for power)
 - Collectors (for trade)
 - Those foolish enough to use them

@@ -14,7 +14,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | **Soul Reaver** | Phase Warrior / Hybrid Caster | Soul, Fury |
 | **Shadowmancer** | Stealth / Controller | Shadow, Soul |
 | **Sangromancer** | Blood Mage / Control | Blood, Soul |
-| **Glyph Seeker** | Support / Utility Caster | Soul, Will |
+| **Glyphwright** | Support / Utility Caster | Soul, Will |
 | **Dreadblade** | Assassin / Burst Damage | Shadow, Fury |
 | **Warden of Balance** | Support / Fate Caster | Will, Soul |
 | **Hylden Warlock** | Dark Mage / Debuffer | Soul, Will |
@@ -188,11 +188,11 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 19 | **Crimson Transfusion** | Blood Pact can revive dead allies (recent death). | Ritual, 5 BP |
 | 20 | **Avatar of Living Vitae** | Become a being of pure blood. Immune to Phys Dmg. | Action, 1/long rest |
 
-### 3.3.5 Glyph Seeker
+### 3.3.5 Glyphwright
 
 **"They decipher the logic of alien gods, binding it into circuits of brass and bone at the cost of their sanity."**
 
-**Lore**: Not sorcerers but scavengers of divine intellect. Glyph Seekers excavate the ruins of the Hylden, reverse-engineering alien technology into structured magic—devices and wards of crystal, brass, and bone that replicate the miracles of their creators. But prolonged exposure to impossible geometries frays the seeker's mind, leading to prophetic madness, mutations, and the constant whispering echo of the void.
+**Lore**: Not sorcerers but scavengers of divine intellect. Glyphwrights excavate the ruins of the Hylden, reverse-engineering alien technology into structured magic—devices and wards of crystal, brass, and bone that replicate the miracles of their creators. But prolonged exposure to impossible geometries frays the seeker's mind, leading to prophetic madness, mutations, and the constant whispering echo of the void.
 **Role**: Support / Utility Caster
 **Core Attributes**: Soul, Will
 **Starting HP**: 8 + Soul (+3 per level)

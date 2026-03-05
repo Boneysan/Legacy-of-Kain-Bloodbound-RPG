@@ -92,9 +92,9 @@ Every character has six attributes rated 1–5 (starting max 3, absolute max 5):
 | Attribute | Governs | Key Classes |
 | :--- | :--- | :--- |
 | **Fury** | Aggression, raw power, melee combat | Blood Knight, Soul Reaver, Dreadblade |
-| **Soul** | Spiritual power, magic, Spectral Realm | Soul Reaver, Shadowmancer, Sangromancer, Glyph Seeker, Hylden Warlock, Warden of Balance |
+| **Soul** | Spiritual power, magic, Spectral Realm | Soul Reaver, Shadowmancer, Sangromancer, Glyphwright, Hylden Warlock, Warden of Balance |
 | **Shadow** | Stealth, evasion, finesse | Shadowmancer, Dreadblade |
-| **Will** | Mental resilience, discipline, focused magic | Glyph Seeker, Hylden Warlock, Warden of Balance |
+| **Will** | Mental resilience, discipline, focused magic | Glyphwright, Hylden Warlock, Warden of Balance |
 | **Focus** | Mental acuity, concentration, precision | All classes (awareness, crafting, perception) |
 | **Blood** | Physical vitality, life essence, vampiric power | Blood Knight, Sangromancer |
 
@@ -333,7 +333,7 @@ When a spell or ability calls for a save (e.g., "DR 2 Will save"), the target ro
 | **Soul Reaver** | Phase warrior, hybrid caster between realms | Fury, Soul |
 | **Shadowmancer** | Stealth controller, shadow summoner | Shadow, Soul |
 | **Sangromancer** | Blood mage, battlefield control through vitae | Soul, Blood |
-| **Glyph Seeker** | Support caster, arcane geometry and wards | Soul, Will, Focus |
+| **Glyphwright** | Support caster, arcane geometry and wards | Soul, Will, Focus |
 | **Dreadblade** | Assassin, burst damage from shadows | Shadow, Fury |
 | **Warden of Balance** | Divine judge, fate manipulation, support | Will, Soul |
 | **Hylden Warlock** | Dark mage, entropy and forbidden magic | Will, Soul |

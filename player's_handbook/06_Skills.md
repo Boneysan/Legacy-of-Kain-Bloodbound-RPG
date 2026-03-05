@@ -120,7 +120,7 @@ Athletics (Fury or Blood): Raw physical feats—climbing ruined spires, leaping 
 
 ### 6.8.2 Arcane & Forbidden
 
-Glyphcasting (Soul or Will): Inscribing, activating, or countering glyphs tied to Nosgoth’s ley-lines. Used for magical traps, sigil-based attacks, and ward defenses. Skilled Glyphcasters can create timed or proximity-triggered effects or disable enemy glyphs. Essential for Glyph Seekers or Hylden Warlocks.
+Glyphcasting (Soul or Will): Inscribing, activating, or countering glyphs tied to Nosgoth’s ley-lines. Used for magical traps, sigil-based attacks, and ward defenses. Skilled Glyphcasters can create timed or proximity-triggered effects or disable enemy glyphs. Essential for Glyphwrights or Hylden Warlocks.
 Rituals (Soul or Will): Performing complex arcane or divine rites, requiring time and components. Used to summon spirits, consecrate land, seal portals, or alter fate. High ranks enable long-term enchantments or divine boons. Common among Sangromancers and Wardens.
 Possession (Soul or Will): Controlling other beings, objects, or spectral anchors. Used by Wraiths or Razielim to enter host bodies, manipulate spirits, or transfer consciousness. High-risk, high-reward skill for escaping death or bypassing barriers.
 Spectral Navigation (Soul or Shadow): Reading, traversing, and surviving the Spectral Realm's shifting geography. Used to find soul anchors, navigate time-warped corridors, locate soul wells, or resist the Realm's erosive pull on material beings. Wraiths suffer no penalties to checks within the Spectral Realm; other lineages depend heavily on this skill when crossing planes. Essential for Soul Reavers, Wraiths, and any character who regularly shifts between the Material and Spectral.

@@ -228,7 +228,7 @@ Legendary Actions (2/round)
 ---
 
 ### Lore & Tactics
-- A remnant enforcement spirit. Wards respond to proper rites (Glyph Seeker can parley, DR 15).
+- A remnant enforcement spirit. Wards respond to proper rites (Glyphwright can parley, DR 15).
 - Hit-and-run striker, focuses on marked enemies and casters with resources.
 
 ### Loot

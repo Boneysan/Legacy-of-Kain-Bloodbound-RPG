@@ -21,7 +21,7 @@ Every character has six core attributes that define their capabilities:
 **Spiritual power and connection to the Spectral Realm**
 - Represents innate magical aptitude and life essence
 - Crucial for spellcasting and spiritual abilities
-- Key for: Soul Reaver, Shadowmancer, Sangromancer, Glyph Seeker, Hylden Warlock, Warden of Balance
+- Key for: Soul Reaver, Shadowmancer, Sangromancer, Glyphwright, Hylden Warlock, Warden of Balance
 - Associated Skills: Glyphcasting, Possession, Forbidden Knowledge, Observation, Craft
 
 ### Shadow
@@ -35,7 +35,7 @@ Every character has six core attributes that define their capabilities:
 **Mental resilience and discipline**
 - Represents mental fortitude and focused magical energy
 - Used to resist mental influence
-- Key for: Glyph Seeker, Hylden Warlock, Warden of Balance
+- Key for: Glyphwright, Hylden Warlock, Warden of Balance
 - Associated Skills: Evasion, Tactics, Glyphcasting, Forbidden Knowledge, Insight
 
 ### Focus

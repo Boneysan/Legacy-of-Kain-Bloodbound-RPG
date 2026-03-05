@@ -103,13 +103,13 @@ Also: formalize **Pillar geography** — name the physical location (e.g., "The 
 ## Phase 4 — Class-Lineage Integration
 > Deepening how classes connect to their lineage origins.
 
-### Task 4.1 — Sharpen Glyph Seeker vs. Hylden Warlock Distinction
+### Task 4.1 — Sharpen Glyphwright vs. Hylden Warlock Distinction
 **Priority:** 🟡 Medium
 **Files:**
 - `lore/Class-Lore.md` — Both entries.
 
 **Recommended approach from Improvement Notes:**
-- **Glyph Seeker → Engineer/Scholar.** Not channeling Hylden power but reverse-engineering ancient *technology*. Risk = madness from incomprehensible physics, not corruption from malevolent forces.
+- **Glyphwright → Engineer/Scholar.** Not channeling Hylden power but reverse-engineering ancient *technology*. Risk = madness from incomprehensible physics, not corruption from malevolent forces.
 - **Hylden Warlock → Conduit/Apostate.** Direct pacts with Hylden entities or the entropic void. Power = raw, chaotic, deeply corrupting.
 - Add a "Distinguishing the Two" callout, similar to Task 3.1.
 
@@ -148,11 +148,11 @@ Also consider adding NPC entries for: Ariel, Janos Audron, Mortanius, Nupraptor 
 ## Phase 6 — Tone & Voice Polish
 > Improving the evocative quality of specific entries.
 
-### Task 6.1 — Darken Glyph Seeker Voice
+### Task 6.1 — Darken Glyphwright Voice
 **Priority:** 🟢 Low
 **Files:**
-- `lore/Class-Lore.md` — Glyph Seeker entry. Replace functional language like "engineers of structured magic" with more evocative text. Consider applying the rewrite from Improvement Notes Section 8.
-- `player's_handbook/03_Classes.md` — Update the Glyph Seeker flavour blurb to match.
+- `lore/Class-Lore.md` — Glyphwright entry. Replace functional language like "engineers of structured magic" with more evocative text. Consider applying the rewrite from Improvement Notes Section 8.
+- `player's_handbook/03_Classes.md` — Update the Glyphwright flavour blurb to match.
 
 **Optional:** Consider renaming to *Glyphwright* or *Rune Scourge* (per improvement notes). This would be a sweeping rename across all files — **only do this if the team agrees on the new name**.
 
@@ -171,20 +171,20 @@ Also consider adding NPC entries for: Ariel, Janos Audron, Mortanius, Nupraptor 
 | 2 | 1.2 — Character Creation races | 1 | 🟡 | ~10 lines in 1 file | ✅ Done |
 | 3 | 2.1 — Iconic locations | 2 | 🟡 | ~50 lines in 1 file | ✅ Done |
 | 4 | 3.1 — Dreadblade/Shadowmancer | 3 | 🟡 | ~15 lines in 1 file | ✅ Done |
-| 5 | 4.1 — Glyph Seeker/Warlock | 4 | 🟡 | ~20 lines in 1 file | ✅ Done |
+| 5 | 4.1 — Glyphwright/Warlock | 4 | 🟡 | ~20 lines in 1 file | ✅ Done |
 | 6 | 5.1 — Faction "Conflicts With" | 5 | 🟡 | ~30 lines in 1 file | ✅ Done |
 | 7 | 3.2 — Hylden Remnants/Rationalism | 3 | 🟢 | ~10 lines in 1 file | ✅ Done |
 | 8 | 2.2 — Hash'ak'gik | 2 | 🟡 | ~40 lines across 2–3 files | ✅ Done |
 | 9 | 2.3 — Sluagh | 2 | 🟡 | ~40 lines in 1 file | ✅ Done |
 | 10 | 4.2 — Soul Reaver origin pathway | 4 | 🟢 | ~15 lines across 2 files | ✅ Done |
-| 11 | 6.1 — Glyph Seeker voice | 6 | 🟢 | ~15 lines across 2 files | ✅ Done |
+| 11 | 6.1 — Glyphwright voice | 6 | 🟢 | ~15 lines across 2 files | ✅ Done |
 | 12 | 6.2 — Hylden Rationalism tone | 6 | 🟢 | ~10 lines in 1 file | ✅ Done |
 | 13 | 2.4 — Vampire Thralls | 2 | 🟢 | ~20 lines across 2 files | ✅ Done |
 | 14 | 5.2 — Faction NPCs | 5 | 🟢 | ~100 lines in 1 file | ✅ Done |
 
 **Total estimated scope:** ~450–500 lines of new or revised content across ~10 files.
 
-> **Implementation complete — 2026-03-03.** All 14 tasks executed across 10+ files. ~600 lines of new content added. No renaming of Glyph Seeker was applied (requires team approval).
+> **Implementation complete — 2026-03-03.** All 14 tasks executed across 10+ files. ~600 lines of new content added. No renaming of Glyphwright was applied (requires team approval).
 
 ---
 
@@ -199,7 +199,7 @@ When using an AI agent to execute this plan:
    - Draft content matching the existing file's structure, heading level, and voice.
    - Apply edits and verify no new inconsistencies are introduced.
 3. **Cross-reference after each phase.** After completing a phase, verify that `CONTEXT.md` and `World-Primer.md` remain consistent with all changes.
-4. **Do not rename "Glyph Seeker"** without explicit approval — it requires a global find-and-replace across every file.
+4. **Do not rename "Glyphwright"** without explicit approval — it requires a global find-and-replace across every file.
 5. **Preserve existing mechanical balance.** Melchiahim/Rahabim stats should mirror the power level of existing vampire subtypes, not exceed them.
 6. **Flag decisions for review.** Where the Improvement Notes suggest multiple directions (e.g., Crimson Fracture: feral nihilism vs. realm-merging), note the choice made and why.
 

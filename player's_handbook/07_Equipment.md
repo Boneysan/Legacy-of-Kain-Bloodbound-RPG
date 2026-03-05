@@ -94,9 +94,9 @@ Bludgeoning | One-handed | Melee
 Piercing | One-handed | Reach (2 tiles)
 5 Physical (Piercing) damage. On critical hit, wielder regains 1 HP.
 
-#### 7.1.1.5 Glyph Seeker
+#### 7.1.1.5 Glyphwright
 
-Glyph Seekers wield arcane implements inscribed with ancient sigils, enhancing structured magic and providing support.
+Glyphwrights wield arcane implements inscribed with ancient sigils, enhancing structured magic and providing support.
 
 **Runic Focus Rod**
 Force | One-handed | Melee
@@ -190,7 +190,7 @@ Piercing | One-handed | Ranged (8 tiles)
 
 **Repeater Crossbow**
 Piercing | Two-handed | Long Range (12 tiles)
-4 Physical (Piercing) damage. Ignores 1 armor. Must spend 1 action to reload after every 2 shots. For Dreadblade, Shadowmancer, Glyph Seeker.
+4 Physical (Piercing) damage. Ignores 1 armor. Must spend 1 action to reload after every 2 shots. For Dreadblade, Shadowmancer, Glyphwright.
 
 **Nosgothian Cleaver**
 Slashing | Two-handed | Melee
@@ -206,7 +206,7 @@ Piercing | Two-handed | Long Range (12 tiles)
 
 **Spiritshard Wand**
 Spectral | One-handed | Ranged (8 tiles)
-3 Spectral damage. Ignores physical armor. In the Spectral Realm, passes through walls and barriers. Requires Soul 2+. For Soul Reaver, Glyph Seeker, Hylden Warlock, Sangromancer.
+3 Spectral damage. Ignores physical armor. In the Spectral Realm, passes through walls and barriers. Requires Soul 2+. For Soul Reaver, Glyphwright, Hylden Warlock, Sangromancer.
 
 **Twin Knives**
 Piercing | One-handed (pair) | Melee
@@ -335,9 +335,9 @@ Sangromancer armor amplifies blood magic and sustains the wielder through combat
 **Bloodflame Vestment** — Armor 2. When a melee attacker hits you, they take 1 Elemental (Fire) damage.
 **Crimson Channeling Coat** — Armor 1. On a critical success with a spell, regain 1 HP per spell tier (Initiate = 1, Adept = 2, etc.).
 
-#### 7.3.1.5 Glyph Seeker
+#### 7.3.1.5 Glyphwright
 
-Glyph Seeker armor enhances structured magic and provides support to allies.
+Glyphwright armor enhances structured magic and provides support to allies.
 
 **Sigil-Etched Robes** — Armor 1. +1 die to Glyphcasting checks.
 **Warding Mantle** — Armor 2. Allies within 2 tiles gain +1 die to saves against magical effects.
@@ -427,7 +427,7 @@ Relic armor is tied to Nosgoth's deepest lore and requires epic story progressio
 
 1. **Determine the Item:** Choose a weapon or armor from the available tier.
 2. **Gather Materials:** The GM specifies required components (e.g., blood essence for Sangromancer gear, Pillar dust for Warden weapons, spectral ore for Soul Reaver equipment).
-3. **Find a Forge/Workshop:** Some items require specific locations — a bloodforge for blood-infused weapons, a glyph forge for Glyph Seeker items, or the Spectral Realm for spectral gear.
+3. **Find a Forge/Workshop:** Some items require specific locations — a bloodforge for blood-infused weapons, a glyph forge for Glyphwright items, or the Spectral Realm for spectral gear.
 4. **Roll to Craft:** Focus + Craft vs. the DR listed for the tier. Success creates the item. Failure wastes one component (GM discretion). Critical success adds a minor bonus trait.
 5. **Upgrades:** Existing Standard weapons can be upgraded to Enhanced or Masterwork by repeating the crafting process with the weapon as a base, paying only the material cost for the new tier.
 
@@ -441,7 +441,7 @@ Weapons and armor in Bloodbound are designed for strategic depth. Class weapon +
 - **Soul Reaver:** Use *Spectral Talons* with *Soulrift Weave* — phase into the Spectral Realm for the 6-damage bonus, teleport to flank, and ignore all armor. Upgrade to *Soulbrand Blade* (Rare) for anti-healing pressure.
 - **Shadowmancer:** Combine *Shadow Fang* with *Penumbra Wraps* — the Stealth bonuses stack, enabling reliable ambushes. Upgrade with *Nightfall Cloak* armor for bonus stealth-attack damage.
 - **Sangromancer:** Use *Veinbinder Rod* with *Sanguine Mantle* — apply unhealable Bleeding while boosting Blood spell damage. *Bloodwoven Whip* (Rare) adds battlefield control via grapples.
-- **Glyph Seeker:** Pair *Runic Focus Rod* with *Sigil-Etched Robes* — the Force damage bypasses armor entirely while the Robes boost Glyphcasting. *Warding Mantle* protects nearby allies.
+- **Glyphwright:** Pair *Runic Focus Rod* with *Sigil-Etched Robes* — the Force damage bypasses armor entirely while the Robes boost Glyphcasting. *Warding Mantle* protects nearby allies.
 - **Dreadblade:** *Assassin's Fang* with *Nightfall Cloak* — stealth attacks deal +2 (weapon) +1 (armor) = +3 bonus damage. *Deathweave Shroud* enables chain kills with Advantage.
 - **Warden of Balance:** *Blessed Mace* with *Sarafan Plate* — Stagger undead on hit while the Plate imposes Will save penalties on nearby undead. *Holy Valor Guard* adds Entropic resistance for anti-corruption missions.
 - **Hylden Warlock:** *Hexbrand* with *Soulwrack Robes* — Corruption damage is boosted by +1, and the Concentration disruption shuts down enemy casters. *Ritual Vestments* reduce the Corruption cost of your own dark spells.

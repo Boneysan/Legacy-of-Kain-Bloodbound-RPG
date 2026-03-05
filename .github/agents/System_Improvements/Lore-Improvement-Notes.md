@@ -4,6 +4,67 @@
 
 ---
 
+## Implementation Status (Updated March 4, 2026)
+
+### ✅ COMPLETED IMPROVEMENTS
+
+All major improvements from this document have been successfully implemented into the game system:
+
+**1. Missing Content - ADDED:**
+- ✅ Melchiahim vampire lineage (full entry with internal politics, coming-of-age ritual, daily life, philosophy, territory)
+- ✅ Rahabim vampire lineage (full entry with Tide Council, Deep Dive ritual, underwater settlements, philosophy, territory)
+- ✅ Iconic locations: Sanctuary of the Clans, Avernus Cathedral, Dumah's Fortress, Uschtenheim, The Chronoplast
+- ✅ Pillar Geography: "Pillar Heath" at the "Heart of Nosgoth" anchored as geographic center
+- ✅ Hash'ak'gik and his Cult (full faction entry with methods, presence, conflicts)
+- ✅ The Sluagh (full Monster Manual entry in 02_Spectral-Entities.md)
+- ✅ Vampire Thralls/Worshippers (comprehensive section including Blood-Bound Thralls, Willing Worshippers, Cattle, Thrall Culture)
+
+**2. Inconsistencies - RESOLVED:**
+- ✅ Vampire clan count: Now correctly lists all 6 clans (Razielim, Turelim, Dumahim, Zephonim, Melchiahim, Rahabim)
+- ✅ Dreadblade & Zephonim overlap clarified with distinction box explaining differences
+- ✅ Hylden faction/religion disconnect: Hylden Rationalism expanded with connection to Hylden Remnants
+- ✅ Shadowmancer & Zephonim integration: Added explanation of shadows as weaveable substance from spire isolation
+
+**3. Class-Lineage Integration - ENHANCED:**
+- ✅ Soul Reaver origin pathway: Added in-game transformation mechanics box
+- ✅ Glyphwright vs. Hylden Warlock distinction box added
+- ✅ Shadowmancer deep lore: Spire philosophy and shadow-weaving culture expanded
+- ✅ Warden of Balance: Applied suggested rewrite with "tending the spiritual wounds" language
+- ✅ Glyphwright: Applied full suggested rewrite ("scavenger of divine intellect" voice)
+
+**4. Lore Depth - EXPANDED:**
+- ✅ Wardens of Balance: Rituals added (Pillar Communion, Rite of Scales, Soul Auditing)
+- ✅ Human Nomads: Memory-Threads fully detailed with Lore-Tapestries and Thread-Singers
+- ✅ Unbound: Origin (temporal paradox/splinter-souls), social impact, Elder God invisibility detailed
+- ✅ All vampire clans: Internal politics, coming-of-age rituals, daily life, art forms added
+- ✅ All classes: Sacred sites, famous practitioners, associated relics, roleplay guidance added
+
+**5. Faction Coherence - IMPROVED:**
+- ✅ Crimson Fracture: Full rewrite as nihilistic anti-civilization vampire movement
+- ✅ Circle of Nine / Pale Accord relationship clarified (Chapters system, reformation goal)
+- ✅ "Conflicts with:" added to all major factions
+- ✅ Hylden Rationalism: Expanded philosophy section explaining anti-Wheel worldview
+
+**6. Cultural Details - ADDED:**
+- ✅ Per-lineage goals and core problems table (end of Lineage-Lore.md)
+- ✅ Cultural touchstones for all vampire clans (politics, rituals, daily life, art)
+- ✅ Inter-clan relations table
+- ✅ Inter-lineage relations table
+
+**7. Playability Enhancements - IMPLEMENTED:**
+- ✅ Class-specific rites, traditions, sacred sites for all 8 classes
+- ✅ Famous practitioners/notable NPCs for each class
+- ✅ Associated relics and artifacts per class
+- ✅ Roleplay guidance sections (voice, manner, fears) for all classes
+- ✅ Factional ties detailed for each class
+- ✅ Quest seeds and NPC mentor templates throughout
+
+### 📝 ORIGINAL IMPROVEMENT NOTES BELOW
+
+*The sections below contain the original analysis and recommendations. All items have been successfully implemented as of March 4, 2026.*
+
+---
+
 ## 1. Gaps and Missing Content
 
 Several key elements from the Legacy of Kain canon are missing or underdeveloped, leaving significant holes in the world-building.
@@ -48,9 +109,9 @@ Some classes feel like a label applied to a lineage rather than an organic outgr
 ### Shadowmancer & Zephonim
 The Zephonim lineage is described as "spider-kin" — but doesn't explain *why* they are masters of shadow and illusion. Deepen their lore: their long isolation in darkened, web-filled spires led them to perceive shadows not as an absence of light but as a tangible, weaveable substance.
 
-### Hylden Warlock vs. Glyph Seeker
+### Hylden Warlock vs. Glyphwright
 These two Hylden-themed classes overlap significantly. Their distinction needs sharpening:
-- **Glyph Seeker** → *Artisan and scholar.* Not channeling Hylden power but reverse-engineering ancient alien *technology*. Risk is madness from incomprehensible physics, not corruption from malevolent forces. They are the **engineers**.
+- **Glyphwright** → *Artisan and scholar.* Not channeling Hylden power but reverse-engineering ancient alien *technology*. Risk is madness from incomprehensible physics, not corruption from malevolent forces. They are the **engineers**.
 - **Hylden Warlock** → *Conduit and apostate.* Direct pacts with Hylden entities or the entropic void. Power is raw, chaotic, and deeply corrupting. They are the **priests and cultists**.
 
 ### Soul Reaver Origin
@@ -89,7 +150,7 @@ Each faction description should include explicit conflict targets to aid GMs. Ex
 
 ## 6. Tone and Voice Consistency
 
-- **"Glyph Seeker"** — Sounds slightly too modern and technical. Alternatives: *Glyphwright*, *Rune Scourge*, *Hylden Antiquarian*.
+- **"Glyphwright"** — Sounds slightly too modern and technical. Alternatives: *Glyphwright*, *Rune Scourge*, *Hylden Antiquarian*.
 - **"Engineers of structured magic"** — Functional but lacks flavor. More evocative version: *"They decipher the logic of alien gods, binding it into circuits of brass and bone at the cost of their sanity."*
 - The Defiant Creed and Razielite Martyrdom sections are strong in tone. The Hylden Rationalism section is comparatively flat — expand it to give it the same gothic weight.
 
@@ -123,8 +184,8 @@ To roleplay a lineage, players need more than a core gimmick. Add 2–3 cultural
 ### Crimson Fracture (Faction) — Current version is a stub
 > A nihilistic vampire movement, the Crimson Fracture believes Kain's empire is a blasphemy. They hold that vampirism is a divine curse — a predatory gift squandered by building cities, playing at politics, and mimicking human civilization. Led by feral elders who remember the hunts of the old days, the Fracture uses guerrilla warfare and ritual terror to tear down the structures of the clans. They seek to "liberate" their vampire kin into a purely instinctual, blood-soaked existence, viewing the Spectral Realm not as a place of decay but as a hunter's paradise. They are the terror in the woods, the monster under the bed that other monsters fear.
 
-### Glyph Seeker (Class) — Needs darker, more evocative voice
-> Not a sorcerer, but a scavenger of divine intellect. The Glyph Seeker is an obsessive scholar who excavates the ruins of the Hylden, seeking to understand the alien physics of their technology. They see magic not as an art but as a set of blueprints left behind by a forgotten, superior race. By meticulously re-engineering Hylden artifacts, they create "structured magic" — devices of brass, crystal, and bone that replicate the miracles of their creators. But this knowledge comes at a terrible price. Prolonged exposure to these impossible geometries and non-Euclidean constructs inevitably frays the seeker's mind, leading to prophetic madness, physical mutations, and the constant whispering echo of the void in their thoughts.
+### Glyphwright (Class) — Needs darker, more evocative voice
+> Not a sorcerer, but a scavenger of divine intellect. The Glyphwright is an obsessive scholar who excavates the ruins of the Hylden, seeking to understand the alien physics of their technology. They see magic not as an art but as a set of blueprints left behind by a forgotten, superior race. By meticulously re-engineering Hylden artifacts, they create "structured magic" — devices of brass, crystal, and bone that replicate the miracles of their creators. But this knowledge comes at a terrible price. Prolonged exposure to these impossible geometries and non-Euclidean constructs inevitably frays the seeker's mind, leading to prophetic madness, physical mutations, and the constant whispering echo of the void in their thoughts.
 
 ### Human Nomads (Lineage Sub-Group) — Memory-Thread tradition needs depth
 > In a world where history is a weapon, the Nomads of the wastes trust no written word. They are the keepers of the "Memory-Threads," a complex oral and artisanal tradition. Each tribe's history is woven into massive, intricate tapestries where the color of a thread, the tightness of a knot, and the pattern of a weave tells the "true" story of Nosgoth. These Lore-Tapestries are read by specially trained Thread-Singers, whose ritual chants are said to resonate with the world's memory, bypassing Moebius's temporal manipulations. To see a Nomad's tapestry is to see a history free of the Time-Streamer's lies — a truth so dangerous that the Sarafan hunt them as heretics and Moebius's agents erase them from existence wherever they are found.

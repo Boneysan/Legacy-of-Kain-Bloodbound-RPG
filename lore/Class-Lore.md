@@ -7,7 +7,7 @@ This document summarizes the class flavor, origins, and narrative roles of Nosgo
 - Soul Reaver
 - Shadowmancer
 - Sangromancer
-- Glyph Seeker
+- Glyphwright
 - Dreadblade
 - Warden of Balance
 - Hylden Warlock- Inter-Class Tensions
@@ -196,44 +196,44 @@ Sangromancers see the world as a circulatory system—connections, flows, pressu
 
 ---
 
-## Glyph Seeker
+## Glyphwright
 
-Not a sorcerer, but a scavenger of divine intellect. The Glyph Seeker is an obsessive scholar who excavates the ruins of the Hylden, seeking to understand the alien physics of their technology. They see magic not as an art but as a set of blueprints left behind by a forgotten, superior race. By meticulously re-engineering Hylden artifacts, they create "structured magic"—devices of brass, crystal, and bone that replicate the miracles of their creators. But this knowledge comes at a terrible price. Prolonged exposure to these impossible geometries and non-Euclidean constructs inevitably frays the seeker's mind, leading to prophetic madness, physical mutations, and the constant whispering echo of the void in their thoughts.
+Not a sorcerer, but a scavenger of divine intellect. The Glyphwright is an obsessive scholar who excavates the ruins of the Hylden, seeking to understand the alien physics of their technology. They see magic not as an art but as a set of blueprints left behind by a forgotten, superior race. By meticulously re-engineering Hylden artifacts, they create "structured magic"—devices of brass, crystal, and bone that replicate the miracles of their creators. But this knowledge comes at a terrible price. Prolonged exposure to these impossible geometries and non-Euclidean constructs inevitably frays the seeker's mind, leading to prophetic madness, physical mutations, and the constant whispering echo of the void in their thoughts.
 
 Common threads:
 - Engineers of reliable, structured magic (in contrast to blood sorcery).
 - Often hunted by Sarafan inquisitors who brand them heretics.
 - Carry heavy tomes or etched plates; their magic is prepared, not innate.
 
-> **Distinguishing the Glyph Seeker from the Hylden Warlock**
-> Both classes draw on Hylden-derived power, but their relationship to that power is fundamentally opposed. A **Glyph Seeker** is an *engineer and scholar*—they do not channel Hylden energy but *reverse-engineer* ancient alien technology, treating glyphs as blueprints to be decoded, replicated, and improved. Their risk is madness from exposure to incomprehensible physics: geometries that shouldn't fit in a mortal mind, equations that rewrite perception. They decipher the logic of alien gods, binding it into circuits of brass and bone at the cost of their sanity. A **Hylden Warlock** is a *conduit and apostate*—they have formed direct pacts with Hylden entities or the entropic void itself, channeling raw, chaotic power that is deeply and inherently corrupting. The Glyph Seeker's workbench is covered in chalk diagrams; the Warlock's altar is stained with void-residue. The Seeker fears losing their mind; the Warlock fears losing their soul.
+> **Distinguishing the Glyphwright from the Hylden Warlock**
+> Both classes draw on Hylden-derived power, but their relationship to that power is fundamentally opposed. A **Glyphwright** is an *engineer and scholar*—they do not channel Hylden energy but *reverse-engineer* ancient alien technology, treating glyphs as blueprints to be decoded, replicated, and improved. Their risk is madness from exposure to incomprehensible physics: geometries that shouldn't fit in a mortal mind, equations that rewrite perception. They decipher the logic of alien gods, binding it into circuits of brass and bone at the cost of their sanity. A **Hylden Warlock** is a *conduit and apostate*—they have formed direct pacts with Hylden entities or the entropic void itself, channeling raw, chaotic power that is deeply and inherently corrupting. The Glyphwright's workbench is covered in chalk diagrams; the Warlock's altar is stained with void-residue. The Seeker fears losing their mind; the Warlock fears losing their soul.
 
 ### Roleplay Guidance
 
-Glyph Seekers are the closest thing Nosgoth has to scientists—and they act like it, for better and worse. They are methodical, curious, and deeply uncomfortable with uncertainty. Where a Sangromancer feels magic in their pulse, a Glyph Seeker writes it as an equation. They believe every problem is a geometry waiting to be solved, and every disaster is a formula that was written wrong.
+Glyphwrights are the closest thing Nosgoth has to scientists—and they act like it, for better and worse. They are methodical, curious, and deeply uncomfortable with uncertainty. Where a Sangromancer feels magic in their pulse, a Glyphwright writes it as an equation. They believe every problem is a geometry waiting to be solved, and every disaster is a formula that was written wrong.
 
 - **Voice and manner:** Precise, pedantic. Tends to diagram conversations. Corrects others' pronunciation of glyph-terms with visible discomfort at the errors. Carries chalk or a stylus at all times.
 - **Social habits:** Happiest in workshops. Bonds over shared puzzles. Deeply uncomfortable with emotional displays—will attempt to solve grief as if it were an engineering problem. Means well; lands poorly.
-- **Fears:** Loss of mental clarity. A Glyph Seeker's mind is their instrument—corruption, madness, or the creeping influence of Hylden glyph-whispers is an existential threat, not just a personal one.
+- **Fears:** Loss of mental clarity. A Glyphwright's mind is their instrument—corruption, madness, or the creeping influence of Hylden glyph-whispers is an existential threat, not just a personal one.
 
 ### Factional Ties
-- **Pale Accord:** Natural allies. The Accord's research agenda depends on Glyph Seekers, and the Accord protects them from Sarafan persecution—usually.
-- **Sarafan Order:** Branded heretics. The Sarafan see Hylden glyph-magic as enemy technology, regardless of who wields it. Glyph Seekers who fall to the Sarafan face the Lex Luminis tribunal.
-- **Hylden Remnants:** A Glyph Seeker's relationship with the Hylden is like a scholar's relationship with a plague: fascinating, essential to study, and deadly if you get too close.
-- **Outlands Guilds:** The Ashwalkers guild employs Glyph Seekers as ruin-surveyors and trap-disablers. The pay is decent; the hazard insurance is nonexistent.
+- **Pale Accord:** Natural allies. The Accord's research agenda depends on Glyphwrights, and the Accord protects them from Sarafan persecution—usually.
+- **Sarafan Order:** Branded heretics. The Sarafan see Hylden glyph-magic as enemy technology, regardless of who wields it. Glyphwrights who fall to the Sarafan face the Lex Luminis tribunal.
+- **Hylden Remnants:** A Glyphwright's relationship with the Hylden is like a scholar's relationship with a plague: fascinating, essential to study, and deadly if you get too close.
+- **Outlands Guilds:** The Ashwalkers guild employs Glyphwrights as ruin-surveyors and trap-disablers. The pay is decent; the hazard insurance is nonexistent.
 
 ### Rites and Traditions
 - **The Inscription Exam:** No dramatic initiation—just a test. The aspirant must inscribe a functioning ward from memory, under time pressure, with deliberate errors introduced into the template. If the ward works, they pass. If it explodes, they have other career options (assuming they survive).
 - **The Chalk Circle:** Before any major glyph-working, Seekers draw a containment circle in chalk and speak their intent aloud. It's partly practical (containment is important) and partly superstitious (the chalk "listens" and the glyph respects stated boundaries). No one wants to test whether the superstition is wrong.
-- **Archival Oath:** All Glyph Seekers swear to document their work. Failure to record a discovery is considered worse than failure to make one. "Knowledge unwritten is knowledge twice lost."
+- **Archival Oath:** All Glyphwrights swear to document their work. Failure to record a discovery is considered worse than failure to make one. "Knowledge unwritten is knowledge twice lost."
 
 ### Sacred Sites
 - **The Lattice Vault:** A mountain vault where the oldest known Hylden glyph-plates are stored, maintained by a secretive academy of human and vampire seekers who have worked side-by-side for centuries. Access requires solving an entry-puzzle that changes weekly.
-- **The Resonance Pillar:** A crystalline column discovered in the Northern wastes, near the Hylden Gate, that appears to amplify glyph-magic within its radius. Glyph Seekers debate whether it's a tool, a beacon, or a trap. All three camps present compelling arguments.
+- **The Resonance Pillar:** A crystalline column discovered in the Northern wastes, near the Hylden Gate, that appears to amplify glyph-magic within its radius. Glyphwrights debate whether it's a tool, a beacon, or a trap. All three camps present compelling arguments.
 
-### Famous Glyph Seekers
-- **Arcturus Sigil-Tongue:** A human Glyph Seeker who can *speak* glyphs—his voice alone activates certain ward-patterns, without inscription. He is the only known practitioner of this ability, and the Sarafan, the Accord, and the Hylden Remnants all want to know how.
-- **Sev the Unglyphed:** A Glyph Seeker who was once corrupted by a Hylden device and had every glyph burned from her mind. She rebuilt her knowledge from scratch—different, stranger, and arguably more effective than before.
+### Famous Glyphwrights
+- **Arcturus Sigil-Tongue:** A human Glyphwright who can *speak* glyphs—his voice alone activates certain ward-patterns, without inscription. He is the only known practitioner of this ability, and the Sarafan, the Accord, and the Hylden Remnants all want to know how.
+- **Sev the Unglyphed:** A Glyphwright who was once corrupted by a Hylden device and had every glyph burned from her mind. She rebuilt her knowledge from scratch—different, stranger, and arguably more effective than before.
 
 ### Associated Relics
 - **The Architect's Compass:** A Hylden-era drafting tool that draws perfect glyph-circles on any surface—including air. Wards drawn with this compass last twice as long.
@@ -304,7 +304,7 @@ Dreadblades are not murderers. They are *finishers*—the final punctuation in a
 
 ## Warden of Balance
 
-Sworn to the shattered Pillars, Wardens are chosen by visions or remade through divine ritual. They are part priest, part enforcer, and part oracle, seeking equilibrium between realm, magic, and morality. Some are lapsed Sarafan or Oracle-Blooded granted insight. Duty—not power—fuels their gifts, and judgment is their burden.
+A Warden of Balance is a soul sworn to a thankless, impossible duty: tending the spiritual wounds of the Pillars. They are not priests of a dead religion but caretakers of a dying world. Through deep meditation at the sites of the Pillars, they receive fractured, agonizing visions of the past and future, using this fragmented insight to act as part priest, part enforcer, and part oracle. They wield authority granted by no king, seeking to prune timelines that lead to absolute ruin and destroy those whose unchecked power—be it vampiric, human, or Hylden—threatens to unmake Nosgoth entirely. Theirs is a lonely path of duty over power, sacrifice over glory.
 
 Common threads:
 - Oaths to weigh ends against means.
@@ -413,7 +413,7 @@ Nosgoth's classes are not just mechanical choices—they represent philosophical
 | **Blood Knight vs. Dreadblade** | Open combat vs. assassination. Blood Knights consider assassination dishonorable; Dreadblades consider frontal assault wasteful. | Each secretly envies the other's certainty. |
 | **Soul Reaver vs. Hylden Warlock** | Both walk between worlds, but Soul Reavers seek harmony with the realms while Warlocks seek to exploit them. | Fascination masked as contempt—they understand each other too well. |
 | **Shadowmancer vs. Warden of Balance** | Secrecy vs. transparency. Wardens demand accountability; Shadowmancers consider it a death sentence. | A Warden who works with a Shadowmancer has already compromised; a Shadowmancer who trusts a Warden has already lost. |
-| **Sangromancer vs. Glyph Seeker** | Organic magic vs. structured magic. Blood sorcery is intuitive, messy, and alive; glyph-magic is precise, clean, and cold. | Mutual professional disdain. Each considers the other's methodology primitive. |
+| **Sangromancer vs. Glyphwright** | Organic magic vs. structured magic. Blood sorcery is intuitive, messy, and alive; glyph-magic is precise, clean, and cold. | Mutual professional disdain. Each considers the other's methodology primitive. |
 | **Warden of Balance vs. Hylden Warlock** | Order vs. entropy. The Wardens' oldest theological enemy. | Genuine moral conflict—Wardens *need* to believe Warlocks can be redeemed; Warlocks need to believe Wardens are wrong. |
 | **Blood Knight vs. Sangromancer** | Both use blood, but Blood Knights use it as fuel while Sangromancers use it as medium. Blood Knights see Sangromancers as parasites wearing a healer's mask. | Can become a powerful partnership if trust is established—the Knight protects, the Sangromancer sustains. |
 
@@ -429,7 +429,7 @@ This table maps common (not exclusive) associations between classes and Nosgoth'
 | **Soul Reaver** | Razielim survivors, Wardens | Sarafan, Hylden Remnants | Crimson Fracture |
 | **Shadowmancer** | Zephonim Clan, Outlands Guilds | Sarafan (ex-Veil Ops) | Pale Accord |
 | **Sangromancer** | Pale Accord, Outlands Guilds | Sarafan, Wardens | Vampire Clans |
-| **Glyph Seeker** | Pale Accord, Outlands Guilds | Sarafan, Hylden Remnants | Wardens |
+| **Glyphwright** | Pale Accord, Outlands Guilds | Sarafan, Hylden Remnants | Wardens |
 | **Dreadblade** | Outlands Guilds, Zephonim Clan, Sarafan (Silent Chapter) | Wardens | Vampire Clans |
 | **Warden of Balance** | Pillar faithful, Oracle-Blooded | Cult of the Wheel, Hylden Remnants | Sarafan, Vampire Clans |
 | **Hylden Warlock** | Pale Accord, Crimson Fracture | Wardens, Sarafan | Hylden Remnants |

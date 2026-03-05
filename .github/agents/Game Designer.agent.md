@@ -172,7 +172,7 @@ Nosgoth uses a **barter system** with no universal currency. Factions have their
 | **Soul Reaver** | Phase Warrior / Hybrid | Soul, Fury | Phase between realms, spectral-physical hybrid |
 | **Shadowmancer** | Stealth / Controller | Shadow, Soul | Shadow summoner, battlefield control from darkness |
 | **Sangromancer** | Blood Mage / Control | Blood, Soul | Blood magic, battlefield control through vitae |
-| **Glyph Seeker** | Support / Utility | Soul, Will | Arcane geometry, wards, glyph-based support |
+| **Glyphwright** | Support / Utility | Soul, Will | Arcane geometry, wards, glyph-based support |
 | **Dreadblade** | Assassin / Burst | Shadow, Fury | Shadow assassin, devastating burst damage |
 | **Warden of Balance** | Support / Fate Caster | Will, Soul | Divine judge, fate manipulation, party support |
 | **Hylden Warlock** | Dark Mage / Debuffer | Soul, Will | Entropy, dimensional magic, forbidden power |

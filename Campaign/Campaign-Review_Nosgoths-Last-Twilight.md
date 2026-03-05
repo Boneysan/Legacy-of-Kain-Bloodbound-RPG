@@ -78,7 +78,7 @@ What a GM needs to run this that isn't here:
 | **Sarafan Order** | Yes (1 sentence) | **Shallow.** No mention of Grand Castellan, Knight-Confessors, Hollow Sarafan schism, Lex Luminis, or internal fractures. Described only as "fanatical knight-priests." |
 | **Vampire Clans** | Yes (generic) | **Generic.** No mention of any of the six clans, Truce of Nights, Blood Tithe, thrall hierarchies, or inter-clan tensions. |
 | **Hylden Remnants** | **MISSING** | Entirely absent. A primary antagonist faction of the entire series — the species responsible for the vampiric curse, the Sarafan Lord's reign, and the dimensional binding. |
-| **Pale Accord** | **MISSING** | Entirely absent. The natural faction home for Glyph Seekers and Sangromancers, organized into Chapters studying each Pillar's lost knowledge. |
+| **Pale Accord** | **MISSING** | Entirely absent. The natural faction home for Glyphwrights and Sangromancers, organized into Chapters studying each Pillar's lost knowledge. |
 | **Crimson Fracture** | **MISSING** | Entirely absent. A faction whose goal — merging the Spectral and Material Realms — directly threatens the campaign's premise and provides a potential villain faction more interesting than "collect the shards." |
 | **Elder God / Cult of the Wheel** | **MISSING** | Entirely absent. THE cosmic antagonist of the series. The being whose parasitic feeding on souls through the Wheel of Fate is the central metaphysical problem of the setting. |
 | **Outcasts / Guilds** | Yes (skeletal) | **Skeletal.** No mention of the four named guilds (Ashwalkers, Red Ledger, Hollowmen, Tongues), the Rule of Three, or guild-marks as currency. |
@@ -122,7 +122,7 @@ Use the Encounter Design chapter's format (`GM_Guide/02_Encounter-Design.md`): s
 Map each shard to an existing location: one in Avernus Cathedral (Hash'ak'gik's seat), one in Dumah's Fortress (claimed by Turelim or contested), one near the Hylden Gate (Hylden Remnants interfere), one in the Chronoplast (time-paradox encounter), one at the Pillar Heath (endgame).
 
 ### Recommendation 10 — Reference class hooks explicitly.
-`lore/Class-Lore.md` provides a Class-and-Faction Alignment table. The campaign should specify which classes have natural entry points for each arc. Soul Reavers are drawn to Spectral Realm encounters. Glyph Seekers are essential for deciphering shard wards. Wardens of Balance face theological crises at every shard. Sangromancers can *sense* the shards through blood resonance.
+`lore/Class-Lore.md` provides a Class-and-Faction Alignment table. The campaign should specify which classes have natural entry points for each arc. Soul Reavers are drawn to Spectral Realm encounters. Glyphwrights are essential for deciphering shard wards. Wardens of Balance face theological crises at every shard. Sangromancers can *sense* the shards through blood resonance.
 
 ### Recommendation 11 — Remove the emojis.
 The 📜🎭🖤🔥🏰🧭 formatting actively undermines the gothic tone. The World-Primer and GM Introduction establish the voice: formal, weighted, Shakespearean. Use that voice consistently.

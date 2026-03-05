@@ -68,7 +68,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 2. **Soul Reaver** - Phase warrior, hybrid caster between realms
 3. **Shadowmancer** - Stealth controller, shadow summoner
 4. **Sangromancer** - Blood mage, battlefield control through vitae
-5. **Glyph Seeker** - Support caster, arcane geometry and wards
+5. **Glyphwright** - Support caster, arcane geometry and wards
 6. **Dreadblade** - Assassin, burst damage from shadows
 7. **Warden of Balance** - Divine judge, fate manipulation, support
 8. **Hylden Warlock** - Dark mage, entropy and forbidden magic
@@ -161,7 +161,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 - **HP Tiers at Level 20:**
   - Tank (Blood Knight): ~93 HP
   - Bruiser (Soul Reaver, Balance Warden): ~91 HP
-  - Mid (Sangromancer, Dreadblade, Glyph Seeker): ~70-71 HP
+  - Mid (Sangromancer, Dreadblade, Glyphwright): ~70-71 HP
   - Caster (Shadowmancer, Hylden Warlock, Temporal Sentinel): ~70 HP
 
 ---
@@ -511,7 +511,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 
 ### Lore — Class Lore Population — Oct 31, 2025
 - Populated `lore/Class-Lore.md` using narrative material from `Source-Docs/Main-Rules` (Class Lore Compendium).
-- Added H1, compact At-a-glance TOC, and per-class sections (Blood Knight, Soul Reaver, Shadowmancer, Sangromancer, Glyph Seeker, Dreadblade, Warden of Balance, Hylden Warlock).
+- Added H1, compact At-a-glance TOC, and per-class sections (Blood Knight, Soul Reaver, Shadowmancer, Sangromancer, Glyphwright, Dreadblade, Warden of Balance, Hylden Warlock).
 - Preserved Source-Docs flavor text; organized each class with brief “Common threads” bullets for quick reference. No mechanics included; this is flavor-only.
 
 ### Future Considerations for GM_Guide
@@ -658,7 +658,7 @@ Complete rewrite of Chapter 7 based on game design analysis. All 10 recommendati
 
 **Weapon System:**
 - All 8 classes now have 3 signature weapons each with full stat blocks (damage type, handedness, range, special effects)
-- Added 3 new class weapon sections: Shadowmancer, Glyph Seeker, Dreadblade (previously missing)
+- Added 3 new class weapon sections: Shadowmancer, Glyphwright, Dreadblade (previously missing)
 - Weapon Tier Progression system: Standard (1–7), Enhanced (8–14, +1 dmg), Masterwork (15–20, +2 dmg total)
 - 10 Universal Weapons with stat blocks, class restrictions, and correct mechanic references (STR→Blood+Athletics, marks→specific effects)
 - 6 Rare Weapons (GM Discretion) with full stat blocks; Dreadhammer reduced from 8→7 base damage; Soulreaver Prototype moved from Universal to Rare tier
@@ -673,7 +673,7 @@ Complete rewrite of Chapter 7 based on game design analysis. All 10 recommendati
 **Armor System:**
 - ALL armor converted from +DV notation to flat damage reduction (Armor X)
 - 8 class-specific armor sections (5 per class, 40 total entries) with correct class names
-- Added 3 new class armor sections: Shadowmancer, Glyph Seeker, Dreadblade
+- Added 3 new class armor sections: Shadowmancer, Glyphwright, Dreadblade
 - Fixed legacy terminology: "fear saves"→Will saves, "spell saves"→DR saves, "spell level"→spell tier
 - 5 Universal Armor entries in table format
 - NEW §7.3.3 Rare Armor (4 entries, Armor 3)
@@ -685,7 +685,7 @@ Complete rewrite of Chapter 7 based on game design analysis. All 10 recommendati
 - Tactics section updated with all 8 correct class names and weapon+armor synergy recommendations
 - General tips section covering Weapon Damage Scaling, armor flat reduction, extra successes, and DV cap
 
-**Legacy class name fixes:** All instances of Vampire→Blood Knight, Sarafan Crusader→Warden of Balance, Spirit-Bound→Soul Reaver, Blood Mage→Sangromancer, Scholar→Glyph Seeker throughout chapter
+**Legacy class name fixes:** All instances of Vampire→Blood Knight, Sarafan Crusader→Warden of Balance, Spirit-Bound→Soul Reaver, Blood Mage→Sangromancer, Scholar→Glyphwright throughout chapter
 
 ### Player's Handbook — Glossary Overhaul (12_Glossary.md) — March 2026
 Complete rewrite of Chapter 12 from 4 entries (all with errors) to 53+ terms across 12 sections.
