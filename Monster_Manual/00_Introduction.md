@@ -26,20 +26,23 @@ The manual is divided into thematic chapters, each containing creatures appropri
 
 Each creature is categorized by threat level, which corresponds to the Threat Value (TV) system from **GM_Guide Chapter 2: Encounter Design**:
 
-- **Minion (TV 0.25):** Weak enemies, 4 equal one standard character
-- **Standard (TV 1):** Equal to one PC of the same level
-- **Elite (TV 2):** Powerful opponent, equal to two PCs
-- **Boss (TV 4):** Major threat, equal to four PCs
-- **Legendary (TV 6+):** Campaign-defining entity
+- **Minion (TV ×0.25):** Weak enemies; 4 equal one Standard enemy of the same level
+- **Standard (TV ×1):** Equal to one PC of the same level
+- **Elite (TV ×2):** Powerful opponent, equal to two PCs
+- **Boss (TV ×4):** Major threat, equal to four PCs
+- **Legendary (TV ×6+):** Campaign-defining entity
+
+*TV values are multipliers. To find a creature's absolute encounter budget contribution, multiply its TV tier by the party's average level (e.g., an Elite enemy facing a Level 6 party contributes TV 12 = ×2 × 6).*
 
 **Calculating Encounter TV:**
 - Party TV = Sum of all PC levels
-- For Balanced Encounter: Enemy TV should equal Party TV
+- Enemy absolute TV = TV tier multiplier × party's average level
+- For Balanced Encounter: Total Enemy TV should equal Party TV
 - For Easy: 50-75% of Party TV
 - For Hard: 125-150% of Party TV
 - For Deadly: 175%+ of Party TV
 
-*Example: Level 5 party of 4 players has Party TV of 20. A balanced encounter could be 20 Standard enemies (TV 1 each), 10 Elite enemies (TV 2 each), 5 Boss enemies (TV 4 each), or a mix.* (This is a mathematical equivalence for TV budgeting, not a practical encounter recommendation. In practice, encounters with more than 8-10 enemies become unwieldy. Use Minion-tier creatures for large groups.)
+*Example: A Level 5 party of 4 has Party TV 20. A balanced encounter (TV 20) could be: 4 Standard enemies (TV 5 each = 20), 2 Elite enemies (TV 10 each = 20), 1 Boss (TV 20), or a mix such as 1 Elite (TV 10) + 2 Standard (TV 5 each) = TV 20.* (In practice, more than 8-10 enemies becomes unwieldy. Use Minion-tier creatures for large groups.)
 
 ---
 

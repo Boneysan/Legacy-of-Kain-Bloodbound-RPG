@@ -58,11 +58,11 @@ Each PC has a base TV equal to their level:
 |-----------|--------------|
 | **Minion** (3–6 HP, weak attacks) | 0.25× party level |
 | **Standard Enemy** (average stats) | 1× party level |
-| **Elite Enemy** (stronger stats, special abilities) | 1.5× party level |
-| **Boss** (major threat, multiple abilities) | 3–4× party level |
-| **Legendary** (campaign antagonist) | 5–10× party level |
+| **Elite Enemy** (stronger stats, special abilities) | 2× party level |
+| **Boss** (major threat, multiple abilities) | 4× party level |
+| **Legendary** (campaign antagonist) | 6+× party level |
 
-*Use party level (average character level) as the multiplier base. For example, a Boss in a Level 8 party = TV 24–32.*
+*Use party level (average character level) as the multiplier base. For example, a Boss in a Level 8 party = TV 32 (4 × 8).*
 
 ### Quick Enemy Stat Creation
 
@@ -74,30 +74,39 @@ Each PC has a base TV equal to their level:
 - Damage: 2-3
 
 **Standard Enemy (TV 1):**
-- HP: 4 + (2 × party level)
+- HP: 10 + (3 × party level)
 - DV: 2 + (party level ÷ 3)
 - Armor: 0-2
 - Attack: (Party level + 2) d6
 - Damage: 4-6
 - Contested checks: pool = party level ÷ 2 (round up)
 
-**Elite Enemy (TV 1.5):**
-- HP: 8 + (3 × party level)
-- DV: 3 + (party level ÷ 2)
+**Elite Enemy (TV 2):**
+- HP: 15 + (4 × party level)
+- DV: 3 + (party level ÷ 2), max 6 (excess becomes effective DV via Armor or reactions)
 - Armor: 2-3
 - Attack: (Party level + 3) d6
 - Damage: 6-8
 - Special: 1-2 unique abilities
 - Contested checks: pool = party level
 
-**Boss (TV 3-4):**
+**Boss (TV 4):**
 - HP: 20 + (5 × party level)
-- DV: 4 + (party level ÷ 2)
+- DV: 4 + (party level ÷ 2), max 6 (excess becomes effective DV via Armor or reactions)
 - Armor: 3-4
 - Attack: (Party level + 4) d6, 2 attacks per turn
 - Damage: 8-12
 - Special: 3-4 unique abilities, resistance to 1-2 damage types
 - Contested checks: pool = party level
+
+**Legendary (TV 6+):**
+- HP: 30 + (6 × party level)
+- DV: 6 (base cap; layer additional defense through Armor, reactions, and lair bonuses)
+- Armor: 4-6
+- Attack: (Party level + 6) d6, 3 attacks per turn
+- Damage: 14-18
+- Special: 5+ unique abilities, damage immunities, Legendary Actions (3/round)
+- Contested checks: pool = party level + 2
 
 ---
 
@@ -122,7 +131,7 @@ A boss with 50 HP facing 4 PCs will still get overwhelmed because:
 **Option 2: Legendary Actions**
 - Boss can take actions on player turns
 - Example: "The vampire lord can make one claw attack after any PC's turn ends"
-- Count each legendary action as +0.5 TV
+- Count each legendary action as +0.5× party level to the creature's TV
 
 **Option 3: Multi-Attack**
 - Boss makes 2-3 attacks per Action
@@ -399,12 +408,12 @@ Reading your table and adjusting mid-encounter:
 
 ### Level 3 Party (4 PCs, Party TV = 12)
 
-**Encounter: Vampire's Thralls (Standard, TV 12)**
-- 1 Vampire Spawn (Elite, TV 4.5)
+**Encounter: Vampire's Thralls (Challenging, TV 15)**
+- 1 Vampire Spawn (Elite, TV 6)
   - HP: 18, DV: 3, Armor: 1
   - Attack: 5d6, Damage: 6 Slashing
   - Ability: Blood Drain (heal 4 HP on hit)
-- 3 Human Thralls (Standard, TV 2.5 each = 7.5 total)
+- 3 Human Thralls (Standard, TV 3 each = 9 total)
   - HP: 10, DV: 2, Armor: 0
   - Attack: 4d6, Damage: 4 Bludgeoning
 - **Terrain:** Crumbling mansion, pillars can be toppled
@@ -413,22 +422,22 @@ Reading your table and adjusting mid-encounter:
 ### Level 8 Party (4 PCs, Party TV = 32)
 
 **Encounter: Hylden War Machine (Challenging, TV 40)**
-- 1 Hylden Construct (Boss, TV 28)
+- 1 Hylden Construct (Boss, TV 32)
   - HP: 60, DV: 6, Armor: 4
   - Attack: 10d6 (2 attacks/turn), Damage: 10 Force
   - Abilities: Energy Blast (AoE, 3d6 Lightning), Phase Shift (1/scene, become incorporeal)
-- 3 Corrupted Cultists (Standard, TV 4 each = 12 total)
+- 1 Corrupted Cultist (Standard, TV 8)
   - HP: 20, DV: 4, Armor: 2
   - Attack: 7d6, Damage: 6 Soul
   - Ability: Entropic Curse (target -1 to rolls)
 - **Terrain:** Ancient Hylden temple, glyph pillars that can be activated
-- **Tactics:** Construct uses AoE to damage group, cultists debuff strongest PCs
+- **Tactics:** Construct uses AoE to damage group, cultist debuffs the strongest PC
 
 ### Level 15 Party (4 PCs, Party TV = 60)
 
-**Encounter: Elder Vampire Lord (Deadly, TV 90)**
-- 1 Ancient Vampire Lord (Legendary, TV 75)
-  - HP: 120, DV: 9, Armor: 3
+**Encounter: Elder Vampire Lord (Legendary, TV 165)**
+- 1 Ancient Vampire Lord (Legendary, TV 90)
+  - HP: 120, DV: 6, Armor: 3 (effective DV higher via lair blood pools and reactions)
   - Attack: 16d6 (3 attacks/turn), Damage: 14 Slashing + Bleeding
   - Abilities: 
     - Dominate (1/scene, control 1 PC for 1 round)
@@ -436,7 +445,7 @@ Reading your table and adjusting mid-encounter:
     - Summon Bats (create difficult terrain, obscure vision)
     - Blood Frenzy (deal 2× damage when below 50% HP)
   - Legendary Actions: Make 1 claw attack after each PC turn
-- 5 Vampire Warriors (Standard, TV 3 each = 15 total)
+- 5 Vampire Warriors (Standard, TV 15 each = 75 total)
   - HP: 30, DV: 6, Armor: 2
   - Attack: 12d6, Damage: 8 Slashing
 - **Terrain:** Vampire Citadel throne room, elevated platforms, blood pools (heal vampires)
