@@ -8,6 +8,8 @@ The Ancient Creatures of Nosgoth predate empires and faiths. Some are remnants o
 
 Expect unusual defenses, lair effects, and battlefield-scale abilities. These beings reward research, ritual preparation, and clever positioning. Many are tied to specific sites—defeating them can alter the world.
 
+> **Loot Format Note:** Ancient Creature loot consists of unique relics, fragments, and crafting components with individual mechanics rather than standard “Trade Value: X supplies” values. Craftable components (scales, plates, essences) are worth 100–400 supplies to the right buyer; unique armor, weapons, and keystones are effectively priceless outside of faction-barter contexts. GMs should treat this loot as campaign objectives and long-term rewards.
+
 ---
 
 ## Relic-Watcher Colossus

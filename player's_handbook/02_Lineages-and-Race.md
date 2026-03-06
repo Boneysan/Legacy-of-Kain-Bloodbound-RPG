@@ -66,6 +66,7 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 - **Movement Effects**: Pass through thin barriers while phased.
 - **Bonuses**: +1 Possession, +1 Observation, +1 Will.
 - **Unique Trait**: *Wraith Phasing* (Bonus Action, Will uses per long rest, phase into Spectral Realm: translucent, 35 ft speed, ignore terrain/obstacles ≤1 ft thick, deal Spectral damage, resist non-magical physical damage, immune to non-magical grapples/restraints).
+- **Anchor:** At character creation, designate one Anchor — an object, location, or living NPC tied to your purpose. If destroyed without replacement within 7 days, make a **DR 2 Will check** at the start of each session; failure = **+1 Corruption**. Replacing an Anchor requires 1 hour of ritual and a meaningful new connection. *(Full rules: Lineage Lore — Wraiths.)*
 - **Narrative Hook**: Forgotten by death, hunted by time.
 
 ## 2.4 Hylden-Blooded

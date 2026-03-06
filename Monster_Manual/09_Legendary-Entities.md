@@ -11,6 +11,8 @@ Guidance:
 - Use lair/regional effects to shape the battlefield and stakes.
 - Failure should create interesting consequences, not dead ends.
 
+> **Loot Format Note:** Legendary Entity loot is artifact-tier — named, singular items with campaign-altering effects. No standard “Trade Value: X supplies” is given because these items are not trade goods; they are plot objects, power sources, and legacy rewards. A faction would trade an entire city for some of them. GMs should introduce these items with appropriate weight and consider their long-term impact before placing them in players’ hands.
+
 ---
 
 ## Razielic Remnant
@@ -232,7 +234,7 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 
 **Skills:** Arcana 12, Deception 11, Persuasion 12, Insight 10
 
-**Resistances:** Psychic; **Vulnerabilities:** Radiant
+**Resistances:** Spectral; **Vulnerabilities:** Radiant
 
 ---
 

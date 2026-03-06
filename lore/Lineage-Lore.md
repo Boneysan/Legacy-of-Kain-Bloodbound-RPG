@@ -140,6 +140,16 @@ Wraiths have no unified society—most are solitary by necessity and temperament
 - **The Fading:** Wraiths who lose purpose gradually lose coherence—their form blurs, their memories fragment, and they eventually dissolve into the Spectral Realm's background noise. Other Wraiths call this the *Long Whisper*. It is the Wraith equivalent of dying, and it terrifies them.
 - **Anchors:** Most stable Wraiths maintain a physical *anchor*—an object, location, or (rarely) a living person tied to their purpose. If the anchor is destroyed, the Wraith must find a new one within days or begin Fading.
 
+#### Wraith Anchor Rules
+*For playable Wraith characters (see also Player's Handbook Ch02 §2.3).*
+
+At character creation, designate one **Anchor** — an object, location, or living person tied to your character's defining purpose or memory. Work with your GM to establish what it is and why it matters.
+
+- **If the Anchor is destroyed or lost:** The Wraith must find and bond to a new Anchor within **7 days** (roughly 1–2 sessions).
+- **Each session without an Anchor:** Make a **DR 2 Will check** at the start of the session. On failure, gain **+1 Corruption** as your coherence frays and the Fading begins.
+- **Replacing an Anchor:** Requires a short ritual of 1 hour and a meaningful new connection — a place where something significant happened, an object with personal resonance, or a person whose fate the Wraith is genuinely invested in. GMs may require a narrative scene to validate the bond.
+- **In the Spectral Realm:** Your Anchor casts a faint spectral echo. Creatures who know the Anchor's location can follow the resonance to find you across planar boundaries.
+
 ### Attitudes Toward the Wheel of Fate
 
 Wraiths have the most complex relationship with the Wheel of any lineage. They are *supposed* to be on it but aren't—caught in limbo between the living and the cycled dead. The Elder God considers them defective. Some Wraiths want to rejoin the Wheel (to finally rest). Others refuse it on principle (influenced by Raziel's defiance). A few believe they exist *outside* both the Wheel and the vampire's curse—a third state that neither the Elder God nor Kain's bloodline can claim. These "Free Wraiths" are the most philosophically dangerous beings in Nosgoth.

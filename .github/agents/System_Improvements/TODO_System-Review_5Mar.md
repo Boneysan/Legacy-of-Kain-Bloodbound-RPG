@@ -291,7 +291,7 @@
   DV is a required field per Ch00 format. Add explicit DV lines to all entries in Ch07 and the Legendary Entities missing them in Ch09.
   **Files:** `Monster_Manual/07_Elemental-and-Arcane.md`, `Monster_Manual/09_Legendary-Entities.md`
 
-- [ ] **MM-M4 — Loot currency inconsistency across chapters**
+- [x] **MM-M4 — Loot currency inconsistency across chapters**
   Ch01/02 use "barter value"; Ch03–07 use "Trade Value: X supplies"; Ch08–09 omit currency entirely. Standardize to one format across all chapters.
   **Files:** All Monster Manual chapters
 
@@ -303,7 +303,7 @@
   Ch01 Nosgothian Revenant describes mindless goal-driven undead. "Revenant" is also a playable PC lineage. Add a callout: *"Note: Playable Revenant characters (PHB Ch02) are sapient beings who retain full faculties. This entry represents a mindless variant."*
   **File:** `Monster_Manual/01_Undead-and-Vampiric.md`
 
-- [ ] **MM-M7 — TV 5–8 gap (zero creatures for this tier)**
+- [x] **MM-M7 — TV 5–8 gap (zero creatures for this tier)**
   Monster Manual jumps from TV 4 (Ch01–06 bosses) directly to TV 9 (Ch07). Six threat levels representing mid-level play (~Levels 8–13) have no purpose-built creatures. Create or designate bridge entries.
   **Files:** New content addition to appropriate chapters
 
@@ -400,7 +400,7 @@
   More accurately: the Sarafan as a formal military theocracy predates Kain; Kain destroyed the Sarafan Lord in Blood Omen 2; the original Sarafan knights were killed during Raziel's time period. Revise to a more accurate summary.
   **File:** `lore/World-Primer.md`
 
-- [ ] **LORE-L2 — Wraith Anchor has no mechanical representation**
+- [x] **LORE-L2 — Wraith Anchor has no mechanical representation**
   Central to Lineage-Lore (Fading = Wraith equivalent of death) but no mechanics in PHB Ch2. Add a light rule: designate one anchor object/location/NPC; if destroyed without replacement, DR 2 Will check per session; failure = +1 Corruption.
   **Files:** `lore/Lineage-Lore.md`, `player's_handbook/02_Lineages-and-Race.md`
 
@@ -435,19 +435,19 @@
   Attack pool: Shadow + Stealth = 10d6. Stealth is concealment/evasion, not offense. Replace with Fury + Weapon Mastery or Shadow + Weapon Mastery.
   **File:** `Monster_Manual/08_Ancient-Creatures.md`
 
-- [ ] **MM-L6 — Crimson Fracture has no creature representation**
+- [x] **MM-L6 — Crimson Fracture has no creature representation**
   A major World-Primer faction with zero stat blocks. Add at minimum: Fracture Zealot (TV 1), Fracture Dimension-Walker (TV 3), Fracture Void-Touched (TV 4 Boss).
   **File:** `Monster_Manual/01_Undead-and-Vampiric.md` or new entries
 
-- [ ] **MM-L7 — No aquatic creatures in the entire Monster Manual**
+- [x] **MM-L7 — No aquatic creatures in the entire Monster Manual**
   Nosgoth has rivers, subterranean lakes, flooded ruins, and the entire Rahabim clan. Zero aquatic entries.
   **File:** `Monster_Manual/04_Beasts-and-Mutants.md` (new content)
 
-- [ ] **MM-L8 — No clan-identified vampire variants in Ch01**
+- [x] **MM-L8 — No clan-identified vampire variants in Ch01**
   Every vampire in Ch01 is generic. Basic clan template sidebars (one per clan) would greatly improve lore density and combat variety.
   **File:** `Monster_Manual/01_Undead-and-Vampiric.md`
 
-- [ ] **MM-L9 — Blood Moon Prophet lore is vague**
+- [x] **MM-L9 — Blood Moon Prophet lore is vague**
   Roadmap flags this as unresolved. "A seer bound to cycles of red light" has no franchise connection. Add a specific lore anchor tying the Blood Moon to Nosgoth's history.
   **File:** `Monster_Manual/09_Legendary-Entities.md`
 
@@ -455,7 +455,7 @@
   Glyphfused Automaton: "Focus + Arcane Lore, DR 4." Canonical skill is **Forbidden Knowledge**.
   **File:** `Monster_Manual/05_Constructs-and-Automatons.md`
 
-- [ ] **MM-L11 — Hylden physical presence in Ch06 is ambiguous**
+- [x] **MM-L11 — Hylden physical presence in Ch06 is ambiguous**
   Some Ch06 entries describe Hylden with native corporeal physiology; lore establishes they interact via possession and constructs post-banishment. Add a clarifying intro paragraph to Ch06 explaining what these creatures are (possessed hosts, fabricated constructs, or dimensional projections).
   **File:** `Monster_Manual/06_Hylden-Forces.md`
 

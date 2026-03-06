@@ -1,4 +1,4 @@
-# Chapter 7: Elemental & Arcane
+﻿# Chapter 7: Elemental & Arcane
 
 *Where raw magical energy takes monstrous form, and the very elements rise to kill.*
 
@@ -7,6 +7,8 @@
 The energies that flow through Nosgoth are not always benign. In places where the veil between realms is thin, or where catastrophic magical events have occurred, raw power can coalesce into sentient, often hostile, forms. These are the elementals—beings of pure fire, ice, lightning, or shadow—and the arcane horrors that defy sane categorization. They are not born, but made; not living, but manifest.
 
 This chapter details the entities born from Nosgoth’s magical lifeblood. From the raging Fire-Spite Djinn bound in ancient ruins to the chilling Frost-Touched Revenants that haunt frozen battlefields, these creatures represent a direct and often unpredictable threat. They are forces of nature given will and purpose, their logic alien and their power immense. Slaying such a creature is less like hunting an animal and more like trying to extinguish a star or halt a storm.
+
+> **Loot Format Note:** Creatures in Chapters 7-9 drop rare or unique magical items rather than standard trade goods. Unlike Chapter 1-6 loot which lists "Trade Value: X supplies," items here are one-of-a-kind -- weapons, foci, and components with their own mechanics. Consumable alchemical components from these creatures are worth 100-300 supplies each on the open market; unique weapons and armor are effectively priceless outside of faction-barter contexts. GMs should treat this loot as campaign rewards rather than currency.
 
 ---
 
@@ -1173,3 +1175,4 @@ The SE-Feeder enters from concealment (Stealth 3), immediately opening with Siph
 ### Scaling Options
 - **SE-Nibbler (Minion, TV 1):** HP 22, DV 4, Soul 3, SE 20. SE Drain pools drain 4 SE (not 8). No Siphon Burst or Arcane Lash. Trivial solo; concerning in groups of 4–5.
 - **Soul Gestalt (TV 14):** HP 180, DV 6, Soul 7, SE starts at 80. SE Drain drains 12 SE. Siphon Burst affects 50-foot radius, drains 10 SE per target. Soul Gluttony triggers at 120/180/250. Legendary Resistance (2/day), Legendary Actions (2/round): SE Drain (1), Siphon Burst (2).
+

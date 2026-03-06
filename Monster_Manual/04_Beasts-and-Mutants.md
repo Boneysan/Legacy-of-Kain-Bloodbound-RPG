@@ -1,4 +1,4 @@
-# Chapter 4: Beasts & Mutants
+﻿# Chapter 4: Beasts & Mutants
 
 ## Understanding Nosgoth's Wildlife
 
@@ -1238,8 +1238,89 @@ Use them to preface larger combat encounters — a party that wades through a Le
 
 ---
 
+
+
+---
+
+### 16. Sunken Tide-Drake
+
+**Type**: Beast (Aquatic, Apex Predator)
+**Threat Tier**: Elite (TV 3)
+**Recommended Levels**: 6–10
+
+#### Lore
+The Sunken Tide-Drake is Nosgoth's great ambush predator of the deep — a massive, armoured reptile eighteen to twenty-four feet in length that inhabits flooded ruins, subterranean lakes, and the river-cavern networks threading beneath Nosgoth's wastelands. Its origins are uncertain: some scholars believe Tide-Drakes are mundane crocodilians warped by generations of exposure to Pillar-blighted water; others argue they predate the Pillars entirely and are simply very old.
+
+The truth matters little to anything that shares the water with one. Tide-Drakes strike from absolute stillness beneath the surface, exploding upward with a force that has been known to capsize small boats. Their preferred kill method — a crushing bite followed by the death roll — drowns as much as it tears.
+
+The Rahabim have a nuanced relationship with Tide-Drakes. They cannot be tamed, but they can be tolerated. Rahabim clans mark territories patrolled by Tide-Drakes as effectively guarded. In some submerged keeps, Tide-Drakes have become de facto wardens — keeping land-intruders out better than any lock.
+
+#### Stats
+- **HP**: 50
+- **DV**: 5 (3 natural + 2 aquatic agility bonus while submerged)
+- **Armor**: 3 (thick bony plates along spine and flanks)
+- **Movement**: 25 feet (5 squares) land, 50 feet (10 squares) swim
+- **SE**: N/A | **BP**: N/A
+
+**Attributes**:
+- Fury: 4
+- Soul: 0
+- Shadow: 2
+- Will: 2
+- Focus: 3
+- Blood: 3
+
+**Skills**:
+- Aquatic Strike (Fury): 4
+- Stealth (in water): 4
+- Athletics (Blood): 3
+
+#### Attacks
+**Surge Bite** (Fury 4 + Aquatic Strike 4 = 8d6)
+- Range: Melee
+- Damage: 10 Piercing
+- Effect: On hit, target is **Grappled** (held in the Drake's jaws; escape requires DR 3 Blood or DR 3 Fury check as an action). If target is already Grappled, this attack automatically triggers Death Roll instead.
+
+**Death Roll** (Fury 4 + Athletics 3 = 7d6, requires target is Grappled)
+- Range: Melee (Grappled target only)
+- Damage: 12 Physical (rending + impact)
+- Effect: Target is dragged 10 feet in a random direction. If in water, target begins **Drowning** (DR 3 Blood save at the start of each turn; failure = 1 Suffocation stack. At 3 stacks, the target falls Unconscious).
+
+**Tail Sweep** (Bonus Action, once per round)
+- Range: 15-foot cone behind the Drake
+- Dice Pool: Fury 4 = 4d6 vs DV
+- Damage: 6 Bludgeoning
+- Effect: Creatures hit must pass DR 3 Blood save or be knocked Prone.
+
+#### Abilities
+**Ambush Rise:** If the Tide-Drake attacks a target that has not yet acted this combat (or is Surprised), it gains Advantage on the attack roll and the target must additionally pass a DR 2 Blood save or be knocked Prone from the impact.
+
+**Plated Hide:** The Tide-Drake's Armor (3) applies to both physical and non-magical damage types. Magical attacks bypass 1 point of this Armor.
+
+**Aquatic Apex:** While fully submerged, the Tide-Drake is automatically Invisible until it attacks or surfaces. It can hold its breath indefinitely and ignores underwater difficult terrain.
+
+**Death Throes:** When reduced to 0 HP, the Tide-Drake makes one final wild Death Roll (no Grapple requirement) against any creature within melee reach, dealing 8 Physical damage on a hit (DR 2 Blood save for half).
+
+#### Tactics
+The Tide-Drake never engages on the surface if it can avoid it. It sinks to the bottom of the deepest part of the water and waits for a target to enter its range, then surges upward with Ambush Rise to trigger Surge Bite. Once it has a target Grappled, it immediately uses Death Roll and drags them deeper. It ignores other targets while the Death Roll is active — isolating one creature and drowning them is more efficient than fighting a whole party.
+
+On land (when cornered), the Drake loses its DV bonus and Aquatic Apex but retains full Armor and Fury. It becomes more dangerous in a different way: panicked, thrashing, and using Tail Sweep aggressively to create space to return to water.
+
+**Encounter Design:** Place a Tide-Drake in any encounter with significant water terrain as an environmental hazard that activates when a PC enters the water. At TV 3 it is a serious threat to a mid-tier party — pair with Rahabim vampires who have deliberately positioned the encounter to funnel the party into the water. Its Death Throes ability can deal final surprising damage to an already-wounded party member after the Drake appears to be dead.
+
+#### Loot
+- Drake-plate scales (exceptional crafting material; 1d6+2 usable plates per Drake) — **Trade Value**: 25 supplies per plate (60–100 total)
+- Drake bile gland (produces a potent paralytic compound; careful extraction required) — **Trade Value**: 45 supplies
+- Jaw assembly (intact teeth usable as components for alchemical or ritual purposes) — **Trade Value**: 30 supplies
+
+#### Scaling Options
+**River Tide-Drake (Standard, TV 2):** HP 30, DV 4, Armor 2, Fury 3. Remove Death Throes. Smaller and less patient — found in rivers and marsh territories.
+
+**Elder Tide-Drake (Boss, TV 5):** HP 85, DV 6 (submerged), Armor 4, Fury 5, Blood 4. Add *Crushing Maw*: the Grapple from Surge Bite requires a DR 4 check to escape. Add *Territorial Roar* (1/encounter): all creatures within 60 feet must pass DR 3 Will save or be Frightened for 2 rounds. Add Legendary Resistance (1/day).
+
 **End of Chapter 4: Beasts & Mutants**
 
 *"The beasts of Nosgoth have learned to survive in a world that despises life. In that, perhaps, we are not so different."*  
 — Raziel, Soul Reaver
+
 

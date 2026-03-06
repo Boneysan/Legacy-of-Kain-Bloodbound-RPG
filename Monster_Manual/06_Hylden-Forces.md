@@ -42,6 +42,20 @@ Some powerful Hylden emanate a field that warps perception. GMs may add this tra
 
 ---
 
+## How Hylden Appear in This Chapter
+
+The Hylden were banished beyond the veil of reality — they cannot simply walk into the material world. Every creature in this chapter represents one of three mechanisms by which Hylden presence manifests in Nosgoth:
+
+- **Possession:** The Hylden spirit has seized a mortal or vampire host, suppressing or destroying the original personality. The host body is physically twisted by the occupation: joints bend at wrong angles, the voice carries a hollow echo, and flesh warps to suit the possessor’s needs. Shock Troopers, Rift-Priests, and the Void-Spoken Oracle are possessed hosts. They are not willing participants — they are occupied territories.
+
+- **Fabricated Constructs:** Hylden who have established a material foothold can build biomechanical servants from captured flesh, metal, and dimensional energy fused into autonomous forms. These constructs are not possessed but are built extensions of Hylden will — purpose-built weapons and tools. The Iron-Cage Beast, Bio-Sigil Reaver, and similar entries represent this category.
+
+- **Dimensional Projections:** The most powerful Hylden can extend partial physical presence through the walls of their prison dimension — a semi-corporeal avatar, a concentrated point of ancient consciousness given temporary physical form. These manifestations are inherently unstable and grow more powerful near dimensional rifts or weakened Pillar sites. The Dimension Lord is the clearest example of this manifestation type.
+
+GMs should feel free to describe any creature in this chapter through whichever of these frameworks best serves the encounter — and may combine them. A Shock Trooper’s possessed host might be wearing a partially fabricated Hylden armament. A Dimension Lord might flicker between corporeal projection and possessing a captured body. The Hylden are nothing if not adaptable.
+
+---
+
 ## Creature Entries
 
 ### 1. Hylden Shock Trooper

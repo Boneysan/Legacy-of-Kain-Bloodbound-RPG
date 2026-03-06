@@ -970,3 +970,285 @@ Skeletal Knights are the doorstep guardians of Nosgoth's dungeons. They hold cor
 ---
 
 *"Death is not the end in Nosgoth. It is merely... a transition. But for the mindless dead, it is not even a beginning."*
+
+---
+
+## The Crimson Fracture
+
+The Crimson Fracture is a nihilistic vampire movement born from despair and forbidden knowledge. Where most vampires seek to maintain or expand their power within Nosgoth's existing order, Fracture adherents seek to *end* it — specifically, to tear down the permanent barrier between the Material and Spectral Realms, merging the two planes in a catastrophic act of nihilistic liberation. They study the echoes of the Soul Reaver's passage through both realms, believing the blade left a wound in reality they can exploit.
+
+Led by the secretive **Feral Council** — a cabal of ancient vampires who have spent so long near dimensional boundaries that their minds and bodies have begun to phase — the Crimson Fracture wages a campaign of guerrilla terrorism, ritual horror, and apostasy against established vampire society and human settlements alike. They recruit from the desperate, the disillusioned, and the philosophically curious.
+
+*See also: World Primer — The Crimson Fracture for full faction context and GM guidance.*
+
+---
+
+## 1.18 Fracture Zealot
+
+**Type:** Undead (Vampire, Standard)
+**Threat Tier:** Standard
+**Threat Value (TV):** 1
+
+### Lore
+Fracture Zealots are the foot soldiers of the Crimson Fracture — recruited from fledglings and disaffected low-bloods who have embraced the faction's nihilism as liberation. They have shed the trappings of vampire civilization: no titles, no clan obligations, no feeding restraint. What remains is something more feral than a typical vampire, burning with an almost spiritual abandon.
+
+Most Zealots barely understand the Fracture's true goals. They know they are part of something that frightens powerful vampires, and that is enough. The faint spectral shimmer around their strikes is a side-effect of constant proximity to Feral Council rituals — an unplanned mutation that even the Council finds interesting.
+
+### Statistics
+- **HP:** 20
+- **DV:** 3 (1 + Blood 2)
+- **Armor:** 0
+- **Movement:** 35 feet (7 squares)
+- **Attributes:** Fury 3, Soul 1, Shadow 2, Will 2, Focus 1, Blood 2
+- **Skills:** Melee (Fury): 3, Stealth (Shadow): 2, Athletics (Blood): 2
+- **Soul Energy (SE):** 10
+- **Blood Points (BP):** 12
+
+### Attacks & Abilities
+
+**Frenzied Claw** (Action)
+- **Dice Pool:** Fury 3 + Melee 3 = 6d6 vs DV
+- **Range:** Melee
+- **Damage:** 6 Physical (Slashing)
+- **Special:** On Critical Hit, target Bleeds (1 Physical damage per round until treated or a DR 1 Blood check is passed as an action).
+
+**Berserker Rush** (Action, 1/encounter)
+- **Dice Pool:** Fury 3 + Melee 3 = 6d6 vs DV
+- **Range:** Melee (move up to full speed before attacking)
+- **Damage:** 8 Physical (Impact)
+- **Special:** On hit, target is knocked back 10 feet.
+
+### Special Abilities
+
+**Undead Nature:** Immune to Soul Drain, poison, disease.
+
+**Feral Senses:** The Zealot cannot be Surprised while conscious.
+
+**Realm-Touched:** Attacks carry faint spectral resonance from proximity to Feral Council rituals. On a hit with 3 or more successes, deal an additional 2 Spectral damage.
+
+### Tactics
+Zealots charge the nearest target without hesitation, prioritizing isolated or unarmored party members. They never retreat — if reduced below 5 HP, they become even more reckless, spending their Berserker Rush without regard for positioning. A pack of 3-4 Zealots is a resource-drain designed to leave the party wounded before the real Fracture threat appears.
+
+**Encounter Design:** Use 3-4 Zealots as a wave encounter before introducing Dimension-Walkers or a Void-Touched. Total TV 3-4 encounter at that composition.
+
+### Loot
+- Bloodstained doctrine fragment (a torn page of Fracture scripture) — **Trade Value:** 0 supplies (plot item; reveals Fracture ideology on a DR 2 Focus check)
+- Fractured fang (a tooth etched with dimension-sigils, usable in spectral ward rituals) — **Trade Value:** 10 supplies
+
+### Scaling Options
+- **Fracture Recruit (Standard, TV 0.5):** HP 12, remove Realm-Touched. BP 6. Pure frenzy, no spectral aspect.
+- **Fracture Fanatic (Elite, TV 2):** HP 32, DV 4, Blood 3. Add *Bloodlust*: on killing a target, immediately make one free attack against the nearest enemy.
+
+---
+
+## 1.19 Fracture Dimension-Walker
+
+**Type:** Undead (Vampire, Elite)
+**Threat Tier:** Elite
+**Threat Value (TV):** 3
+
+### Lore
+Dimension-Walkers are the Fracture's shock operatives — vampires who have studied the spectral resonance patterns left by the Soul Reaver's passage through both realms and learned, imperfectly, to replicate them. They can punch brief holes in the boundary between planes, stepping in and out of material existence to appear where they are least expected.
+
+The process is not without cost. Every Dimension-Walker bears the mark of their training: eyes that periodically go spectral-hollow, voices heard from two directions at once, and the distinctive scar of a "first breach" — a permanent translucent patch on the skin where they first phased successfully. Older Dimension-Walkers sometimes speak with a spatial echo, as though their Spectral-self is still catching up.
+
+### Statistics
+- **HP:** 45
+- **DV:** 4 (1 + Blood 3)
+- **Armor:** 1
+- **Movement:** 35 feet (7 squares)
+- **Attributes:** Fury 3, Soul 3, Shadow 3, Will 3, Focus 2, Blood 3
+- **Skills:** Melee (Fury): 3, Spectral Lore (Soul): 3, Stealth (Shadow): 4, Athletics (Blood): 3
+- **Soul Energy (SE):** 20
+- **Blood Points (BP):** 20
+
+### Attacks & Abilities
+
+**Voidblade** (Action)
+- **Dice Pool:** Fury 3 + Melee 3 = 6d6 vs DV
+- **Range:** Melee
+- **Damage:** 8 Physical + 3 Spectral
+- **Special:** On Critical Hit, target must pass a DR 3 Will save or be Disoriented (Disadvantage on their next action roll).
+
+**Spectral Strike** (Action)
+- **Dice Pool:** Soul 3 + Spectral Lore 3 = 6d6 vs Will
+- **Range:** 30 feet
+- **Damage:** 7 Spectral
+- **Special:** Ignores non-magical Armor.
+
+### Special Abilities
+
+**Undead Nature:** Immune to Soul Drain, poison, disease.
+
+**Realm Shift** (Action, costs 5 SE): The Dimension-Walker briefly steps through the Spectral Realm and re-emerges at any point within 30 feet, passing through walls and obstacles up to 5 feet thick. Until the start of its next turn, attacks against it have Disadvantage from the residual spectral shimmer.
+
+**Dimension-Scarred:** Resistance to Spectral damage (halved). Immune to being involuntarily pulled into the Spectral Realm.
+
+### Tactics
+The Dimension-Walker opens combat behind the front line, using Realm Shift to appear adjacent to squishier targets. It alternates Spectral Strike (to drain Will) and Voidblade (for split physical/spectral damage), using Realm Shift to disengage whenever threatened. Below 20 HP, it uses Realm Shift offensively — phasing behind party members to attack their rear arc.
+
+**Encounter Design:** A pair of Dimension-Walkers flanking a Fracture Void-Touched creates one of the most disorienting encounters in Chapter 1 — the constant positional teleportation makes zone control nearly impossible.
+
+### Loot
+- Dimension-shard amulet (spectral magic focus; +1 die on Spectral Lore checks; crumbles to dust in 1d6 weeks if not maintained with Fracture ritual oil) — **Trade Value:** 60 supplies
+- Void-touched blood vial (component for spectral ward rituals; one use) — **Trade Value:** 40 supplies
+
+### Scaling Options
+- **Fracture Phase-Scout (Elite, TV 2):** HP 30, remove Spectral Strike. Realm Shift recharges on 5-6 (roll 1d6 at start of each turn). Focus 1.
+- **Fracture Rift-Breaker (Boss, TV 5):** HP 75, DV 5. Realm Shift can carry one willing or unwilling creature within 5 feet. Add *Rift Bomb* (Action, costs 10 SE): 20-foot radius Spectral blast, 10 Spectral damage; DR 3 Will save for half.
+
+---
+
+## 1.20 Fracture Void-Touched
+
+**Type:** Undead (Vampire, Boss)
+**Threat Tier:** Boss
+**Threat Value (TV):** 4
+
+### Lore
+The Void-Touched are the Feral Council's lieutenants — ancient vampires who have spent so long at the boundary between realms that the boundary has begun to spend time in *them*. Their bodies phase in and out of material existence without conscious control. Their voices carry spatial distortion. The air around them flickers with phantom spectral geometry.
+
+They are not insane — most Void-Touched are as calculating and dangerous as any elder vampire. But their frame of reference has shifted. They no longer experience time, space, or consequence in quite the same way as other vampires. Some have been walking the line between planes for so long that they have ceased to fully believe in the Material Realm as anything other than a temporary inconvenience.
+
+### Statistics
+- **HP:** 75
+- **DV:** 5 (1 + Blood 4)
+- **Armor:** 2
+- **Movement:** 40 feet (8 squares)
+- **Attributes:** Fury 4, Soul 4, Shadow 3, Will 4, Focus 3, Blood 4
+- **Skills:** Melee (Fury): 4, Spectral Lore (Soul): 4, Command (Will): 4, Stealth (Shadow): 3, Athletics (Blood): 3
+- **Soul Energy (SE):** 30
+- **Blood Points (BP):** 28
+
+### Attacks & Abilities
+
+**Void Rend** (Action)
+- **Dice Pool:** Fury 4 + Melee 4 = 8d6 vs DV
+- **Range:** Melee
+- **Damage:** 12 Physical + 5 Spectral
+- **Special:** On Critical Hit, target is *Phased* (can pass through solid objects but takes 3 Spectral damage at the start of each of their turns; lasts until they pass a DR 3 Will save as an action).
+
+**Reality Fracture** (Action, costs 8 SE)
+- **Dice Pool:** Soul 4 + Spectral Lore 4 = 8d6 vs Will (area)
+- **Range:** 25-foot radius burst centered on the Void-Touched
+- **Damage:** 10 Physical + 8 Spectral
+- **Special:** Creatures who fail their save are Disoriented (Disadvantage on the next 2 action rolls). Half damage on successful save.
+
+**Commanding Roar** (Bonus Action, 1/round)
+- All Crimson Fracture allies within 60 feet gain +1 die on their next attack roll.
+
+### Special Abilities
+
+**Undead Nature:** Immune to Soul Drain, poison, disease.
+
+**Dimensional Instability:** The Void-Touched partially exists in both realms simultaneously. Physical attacks against it have a 1-in-6 chance of passing through harmlessly (roll 1d6 on each hit; on a result of 1, the attack misses regardless of other rolls). Spectral, Soul, and Radiant attacks bypass this effect.
+
+**Merge Protocol** (Action, 1/encounter): Two Fracture Dimension-Walkers (TV 3) step through a dimensional breach and appear within 30 feet of the Void-Touched. These allies act on the Void-Touched's initiative count.
+
+**Feral Council Authority:** All Crimson Fracture allies within 60 feet gain +1 die on attack rolls.
+
+**Legendary Resistance (2/day):** When the Void-Touched fails a saving throw, it may choose to succeed instead.
+
+### Legendary Actions (2/round)
+- **Void Rend (1 action):** Make one Void Rend attack at half damage (6 Physical + 2 Spectral).
+- **Realm Pulse (1 action):** All creatures within 15 feet must pass a DR 3 Will save or be pushed 15 feet and Staggered (-1 die on next action).
+- **Summon Zealot (2 actions):** One Fracture Zealot (TV 1) tears through a dimensional breach and arrives within 30 feet.
+
+### Lair Action
+**Dimensional Seam:** On initiative count 20, the boundary between realms tears open at a random 15-foot radius zone within the encounter area. Creatures in the zone are Deafened (-1 die on Focus checks) until they leave the area or the Void-Touched is defeated.
+
+### Tactics
+The Void-Touched opens with Merge Protocol to establish numerical advantage — turning a TV 4 Boss encounter into a TV 4 Boss plus two TV 3 Elites. It positions itself centrally to maximize Feral Council Authority for all Fracture allies, using Commanding Roar every round. It reserves Reality Fracture for clustered party members or as a "reset" when one side has consolidated. When bloodied (below 38 HP), the Void-Touched becomes erratic — using Reality Fracture every turn it recharges and burning Legendary Actions more aggressively. This escalation is intentional: a Void-Touched under pressure loses fine control of its dimensional instability.
+
+**Encounter Design:** Pre-position 2-3 Fracture Zealots and 1 Dimension-Walker already engaged when the Void-Touched enters. Merge Protocol will add 2 more Dimension-Walkers mid-fight, for a total encounter value of TV 10-12. Stage this in a location where the planar boundary is thin — flickering spectral terrain overlap and environmental Spectral damage (1 per round for non-Wraith PCs) intensify the encounter's identity.
+
+### Loot
+- Void-touched sigil crystal (opens a controlled 5-foot portal to the Spectral Realm for 1 minute; 1 use) — **Trade Value:** 150 supplies
+- Council cipher (encoded message bearing the Feral Council seal; major campaign plot hook — requires DR 4 Forbidden Knowledge check or an allied Wraith to decipher) — **Trade Value:** N/A (campaign item)
+- Dimension-locked blade (a shortsword that phases between realms on each strike; deals +2 Spectral damage and ignores 1 point of Armor) — **Trade Value:** 120 supplies
+
+---
+
+*"They do not want to rule Nosgoth. They want to watch it end — with them at the boundary, half-in and half-out, laughing."*
+
+*— Elder Vampiress Serath-Vane, on the Feral Council*
+
+
+---
+
+## 1.21 Vampire Clan Templates
+
+Vampires are not a monolithic faction — the six clans of Kain's bloodline each embody a distinct martial and supernatural identity. Use these templates to quickly convert any generic vampire stat block (Hunger-Warped Vampire, Vampiric Fledgling, Vampire Overlord, etc.) into a clan-specific enemy that reflects the faction the party has encountered.
+
+**How to Use:** Apply the listed attribute bonuses and add the Unique Ability as an additional Special Ability (or replace an existing ability with similar flavor). The Weakness modifies how the creature behaves or can be exploited.
+
+---
+
+> **Razielim Vampire** — *The Lost Clan; spectral-winged survivors carrying the weight of extinction*
+>
+> *Modify any vampire stat block:* +1 Soul, +1 Shadow.
+>
+> **Spectral Glide** (Bonus Action, once per scene): Until the start of its next turn, the Razielim may move up to 40 feet horizontally through the air, gaining the benefits of elevation and not provoking opportunity attacks. Attacks against it have -1 die while gliding.
+>
+> *Weakness:* Razielim take +2 damage from Entropic effects — the structural instability of their spectral wings makes them vulnerable to dissolution damage.
+
+---
+
+> **Turelim Vampire** — *Warrior-kings, fortress-builders, and enforcers of Kain's order*
+>
+> *Modify any vampire stat block:* +1 Fury, +1 Will. +1 Armor (telekinetic reinforcement).
+>
+> **Telekinetic Bulwark** (Reaction, once per scene): When an ally within 30 feet is hit by an attack, the Turelim interposes with telekinetic force — the ally gains +2 Armor against that single attack. If the attack still hits, the Turelim takes 2 Force damage (redirected kinetic energy).
+>
+> *Weakness:* Turelim cannot benefit from Stealth checks — their presence announces itself through subconscious telekinetic tremors that cause minor vibrations in nearby surfaces.
+
+---
+
+> **Dumahim Vampire** — *Stoic titans; entombed for centuries, patient beyond mortal comprehension*
+>
+> *Modify any vampire stat block:* +2 Blood, +1 Armor. Movement reduced by 5 feet (minimum 25 ft).
+>
+> **Earthshaker Strike** (Action, once per scene): The Dumahim drives its weapon or fist into the ground with seismic force. All creatures within 10 feet must pass a DR 3 Blood save or be knocked Prone and Staggered (-1 die on next action).
+>
+> *Weakness:* Dumahim are -1 die on initiative rolls — centuries of dormancy have slowed their reflexes slightly compared to other vampires.
+
+---
+
+> **Zephonim Vampire** — *Insectoid ambushers; wall-crawlers, secret-keepers, masters of vertical space*
+>
+> *Modify any vampire stat block:* +1 Shadow, +1 Focus.
+>
+> **Ceiling Drop** (Action, 1/encounter): If the Zephonim is clinging to a surface above its target, it drops onto them from height. The target must pass a DR 3 Blood save or take +6 Physical damage and be knocked Prone. This counts as an Ambush — the Zephonim's location is not revealed until impact.
+>
+> *Weakness:* In open, unobstructed terrain, the Zephonim suffers -1 DV — their instincts are calibrated for vertical, enclosed spaces and they lose their positional advantage in the open.
+
+---
+
+> **Melchiahim Vampire** — *Flesh-weavers; horrifying, resourceful, perpetually in the process of becoming*
+>
+> *Modify any vampire stat block:* +1 Fury, +1 Blood.
+>
+> **The Mending** (Bonus Action, once per scene): If a corpse or large flesh component is within 5 feet, the Melchiahim grafts it onto themselves, restoring 1d6+2 HP and gaining +1 Armor until their next rest.
+>
+> **Decay Aura** (Passive): Living creatures that start their turn within 5 feet of the Melchiahim take 2 Entropic damage from the necrotizing field generated by the Mending-process.
+>
+> *Weakness:* Melchiahim take +2 damage from Fire and Radiant attacks — accelerated decay.
+
+---
+
+> **Rahabim Vampire** — *Aquatic predators; translucent-skinned, scaled, and deeply territorial*
+>
+> *Modify any vampire stat block:* +1 Blood, +1 Focus. Gain swim speed 40 ft and Amphibious (breathe underwater indefinitely).
+>
+> **Amphibious Lunge** (Action, when in water or wet terrain): The Rahabim moves at double speed through water and immediately makes an attack. If the target is not aquatic, they must pass a DR 2 Blood save or be Grappled (and pulled underwater if applicable).
+>
+> **Hydraulic Pressure** (Active, costs 3 SE, while submerged): All creatures within 15 feet of the Rahabim in water take 4 Force damage as it manipulates local water pressure.
+>
+> *Weakness:* In dry environments (away from water for more than 1 hour), the Rahabim suffers -1 DV and Disadvantage on physical checks as its skin cracks and bleeds from low humidity.
+
+---
+
+*"Six clans. Six philosophies of what it means to be eternal. And every one of them wrong in the same fundamental way."*
+
+*— Raziel*
+
