@@ -923,6 +923,272 @@ Every construct tells a story. Who built it? Why? What does its presence reveal 
 
 ---
 
+## Corruption and Constructs
+
+Nosgoth's pervasive corruption raises a natural question: can constructs be corrupted?
+
+### The Short Answer
+Standard constructs are **immune to Corruption** as a mental effect — they have no soul to taint and no will to subvert. Their Construct Nature trait explicitly includes corruption immunity.
+
+### The Exceptions
+However, three categories of construct can interact with Corruption:
+
+1. **Soul-Powered Constructs:** Any construct powered by a trapped soul (e.g., Soul-Fused Sentinel, certain Hylden devices) retains the soul's vulnerability. If the powering soul accumulates Corruption, the construct's behavior degrades — it may ignore its original orders, attack indiscriminately, or develop a cruel intelligence. Mechanically, treat the construct as gaining Corruption as if it were the trapped soul. At Corruption 5+, the construct becomes **Rogue** (hostile to all creatures, including its creators).
+
+2. **Pillar-Linked Constructs:** Constructs tied to the Pillars of Nosgoth (e.g., Pillar Sentinels, Glyph-Powered Knights in corrupted areas) can be warped by Pillar corruption. A corrupted Pillar-linked construct gains +2 to Fury and -2 to Focus, and its attacks deal an additional 2 Corruption damage. Its programming becomes erratic — roll a d6 at the start of each round; on a 1, it attacks the nearest creature regardless of allegiance.
+
+3. **Prolonged Exposure:** A construct stationed in a high-Corruption area (Corruption Rating 3+) for decades or centuries may develop a semblance of malevolent awareness. This is not true corruption but rather the ambient dark energy seeping into its magical framework. Such constructs gain the **Corrupted Core** trait: when destroyed, they release a Corruption pulse (10ft radius, all creatures must pass Will DR 3 or gain 1 Corruption).
+
+### Design Note
+Corruption-tainted constructs make excellent mid-campaign twists — the party's allied construct begins behaving strangely, or a dungeon's "safe" guardians have been slowly corrupted over centuries. Use sparingly for maximum impact.
+
+---
+
+### 10. Restoration Engine
+
+**Type**: Construct (Support, Ancient)
+**Threat Tier**: Elite (TV 2)
+**Recommended Levels**: 4–9
+
+#### Lore
+Restoration Engines were built during the height of the Pillars' power to serve the Circle of Nine and their allies — mobile medical constructs capable of repairing bone and flesh with focused arcane energy. They resemble a floating, four-armed torso of polished pale stone, each arm ending in a different tool: a beam emitter, a resonance wand, a diagnostic array, and a pressure cuff. Their faces are blank hemispheres of crystal that glow when active.
+
+Most existing Restoration Engines are millennia old, and many have degraded — their targeting protocols corrupted, their beam emitters charged with residual Pillar energy that occasionally does more harm than good. The ones that still function correctly are extraordinary, and both Sarafan and vampiric factions will go to lengths to recover or destroy them before the enemy can use them.
+
+In combat, a Restoration Engine is not a primary threat. It exists to sustain allies. But a pack of enemies with a Restoration Engine is dramatically more durable, and pulling the Engine's attention away from healing often requires attacking it directly — which activates its suppression defenses.
+
+#### Stats
+- **HP**: 30
+- **DV**: 4
+- **Armor**: 2 (stone casing)
+- **Movement**: 25 feet (5 squares), Fly 25 feet (hover)
+- **Soul Energy (SE):** 24
+
+**Attributes**:
+- Fury: 1
+- Soul: 3
+- Shadow: 1
+- Will: 2
+- Focus: 4
+- Blood: 0
+
+**Skills**:
+- Field Medicine (Focus): 4
+- Runic Maintenance (Focus): 3
+
+#### Attacks
+**Suppression Bolt** (Action)
+- **Dice Pool:** Focus 4 + Field Medicine 4 = 8d6 (targeting protocol, not a weapon)
+- **Range:** 40 feet
+- **Damage:** 4 physical (Force, targeting joints and limbs)
+- **Effect:** On hit, target has −1 die on their next attack roll (suppressed, not harmed effectively — the Engine is shooting to slow, not kill)
+
+#### Abilities
+**Repair Beam (Action, costs 3 SE):**
+- Range: 30 feet
+- Effect: One target (ally or self) regains 12 HP and the Engine removes one of the following conditions from the target: Bleeding, Burning, Slowed, or Staggered.
+
+**Emergency Overload (2 Actions, costs 10 SE, Recharge 5-6):**
+- Range: 20-foot radius centered on Engine
+- Effect: All allies in range regain 8 HP and gain +1 die on their next roll. The Engine emits a pulse of concentrated healing energy. Any Corruption Leeches attached to creatures in range are automatically detached and take 5 Force damage.
+
+**Triage Protocol (Passive):** The Restoration Engine prioritizes allies below half HP. If any ally it can see is at or below half HP, the Engine will use Repair Beam on that ally on its turn before taking any other action, spending SE to do so.
+
+**Construct Nature:** Immune to Frightened, Charmed, Corrupted (as mental effect), poison, disease. Cannot be healed by standard means — requires Focus + Engineering DR 3 (10 HP per success).
+
+**Hardened Frame (Reaction):** When the Engine takes damage exceeding 8 from a single hit, its self-preservation protocol activates and it immediately uses Repair Beam on itself (costs 3 SE; heals 12).
+
+#### Tactics
+The Restoration Engine positions itself at the edge of combat, maintaining Repair Beam cycles on the most damaged allied creature. It fires Suppression Bolt only when directly targeted (to dissuade attackers) or when its allies are clearly winning (spare actions with nothing better to do). Emergency Overload is reserved for a moment when 2+ allies drop below half HP simultaneously.
+
+**Key Weakness:** The Engine is not dangerous offensively. PCs who focus it down quickly remove it from the equation efficiently. Its DV 4 and Armor 2 are reasonable but not impressive. Given its role, PCs targeting it are making a smart tactical decision.
+
+**Encounter Design:** A single Restoration Engine (TV 2) supporting 4 Sarafan Footsoldiers (TV 0.25 × 4 = TVeff ~1.5) creates a TV ~3.5 encounter where the smart move is killing the Engine first, which forces immediate choices on the party.
+
+#### Loot
+- Engine core crystal (medical-grade arcane power source) — **Trade Value**: 60 supplies
+- Repair beam emitter (detachable component; can be jury-rigged to heal 1d4+2 HP as a single-use item) — **Trade Value**: 25 supplies
+- Diagnostic scroll output (contains medical notes on creatures the Engine has treated — potential plot hook) — **Trade Value**: varies
+
+#### Scaling Options
+**Field Medic Drone (Minion, TV 0.5):** HP 15, DV 3, SE 10. Only has Repair Beam (heals 6 HP). No Emergency Overload or Triage Protocol. One arm, simplified version.
+**Master Restoration Engine (Boss, TV 4):** HP 60, DV 5, Armor 3, SE 40. Repair Beam heals 18 HP. Add Full Restoration (2/day, 1 minute channel): fully heals one allied creature. Add Shielding Protocol: when an ally within 20ft is hit, grants that ally +2 DV against all attacks until start of Engine's next turn.
+
+---
+
+### 11. Glyph Spider
+
+**Type**: Construct (Surveillance, Small)
+**Threat Tier**: Minion (TV 0.25)
+**Recommended Levels**: 2–6
+
+#### Lore
+Glyph Spiders are palm-sized arachnoid constructs used throughout Nosgoth's ancient architecture as sensor nodes, alarm triggers, and trap-deployment devices. They skitter across walls, ceilings, and narrow passages where larger constructs cannot follow, trailing invisible runic threads behind them that activate subsequent mechanisms.
+
+Most are inert — deactivated for centuries, waiting for a command signal that never came. But in still-active vaults and research facilities, Glyph Spiders are a persistent low-level hazard: they detect intruders, relay position information to controlling constructs, and deploy trip-wire glyphs in corridors before retreating. They are not fighters. But they are excellent trap-layers, alarms, and harbingers of what's coming next.
+
+A party that kills a Glyph Spider before it can retreat probably prevented a Rune-Forged Warden from receiving the alert. Probably.
+
+#### Stats
+- **HP**: 5
+- **DV**: 4 (nimble, small)
+- **Armor**: 0
+- **Movement**: 30 feet (6 squares), Spider Climb
+- **Soul Energy (SE):** 6
+
+**Attributes**:
+- Fury: 1
+- Soul: 1
+- Shadow: 2
+- Will: 1
+- Focus: 2
+- Blood: 0
+
+**Skills**:
+- Stealth (Shadow): 3
+
+#### Attacks
+**Glyph Bite** (Action, last resort)
+- **Dice Pool:** Focus 2 + Melee 1 = 3d6
+- **Damage:** 2 Piercing + 2 Soul (the bite injects a rune-fragment)
+- **Effect:** Used only when cornered
+
+#### Abilities
+**Trip-Wire Glyph (Bonus Action, costs 2 SE):**
+- The Glyph Spider lays an invisible rune trip-wire along a 5-foot segment of terrain it passes through (wall, floor, doorway edge). Any creature that crosses the wire (unless keyed by the Spider's controller) must make DR 2 Focus save or be knocked Prone and take 3 Soul damage. The wire is detectable with magic or DR 3 Focus + Observation passive check.
+- Maximum 3 active trip-wires per Spider.
+
+**Spider Climb:** The Glyph Spider can traverse vertical surfaces and ceilings at full speed.
+
+**Relay Signal (Bonus Action, no SE cost):** The Spider sends a signal to any connected construct within 300 feet, alerting it to the presence and approximate location of intruders. This activates dormant constructs if any are in range.
+
+**Construct Nature:** Immune to Frightened, Charmed, poison, disease. Cannot be charmed into cooperation.
+
+**Tiny Profile:** Cannot be targeted by area effects that require a creature to be Medium or larger. Ranged attackers have Disadvantage against it in dim light.
+
+#### Tactics
+Glyph Spiders flee combat. Upon detecting intruders, a Spider's priority is (1) activate Relay Signal, (2) lay Trip-Wire Glyphs across retreat routes and chokepoints, (3) retreat out of reach. They will only use Glyph Bite if cornered with no escape route.
+
+**Encounter Design:** 2–4 Glyph Spiders preceding a Rune-Forged Warden encounter create a 2-phase dungeon structure: the party fights the Spiders (and hopefully destroys them before they relay), then the potentially-alerted Warden.
+
+#### Loot
+- Glyph Spider chassis (intact, rare) — **Trade Value**: 20 supplies (can be reprogrammed by a skilled artificer)
+- Rune-filament spool (intact trip-wire material) — **Trade Value**: 8 supplies
+- Sensor crystal (the "eye" lens) — **Trade Value**: 5 supplies
+
+#### Scaling Options
+**Glyph Spider Swarm (Elite, TV 2):** A concentrated swarm of 8–12 Glyph Spiders acting as one. HP 20, DV 4. Swarming Bite: 5 Soul damage, all targets in shared space. Can lay 2 trip-wires per turn. Produces Relay Signal automatically on first damage taken.
+
+---
+
+### 12. Animated Ward
+
+**Type**: Construct (Defensive, Magical)
+**Threat Tier**: Standard (TV 1)
+**Recommended Levels**: 3–7
+
+#### Lore
+Animated Wards are magical constructs that blur the line between trap and creature. They were created to defend specific areas — doorways, vault entrances, treasure chambers, sanctum thresholds — and given enough rudimentary intelligence to respond to changing conditions rather than just firing once and resetting.
+
+They manifest as softly glowing geometric shapes (usually a ring or lattice of light) that float at chest height, pulsing with quiet arcane energy. They appear decorative until something they've identified as a threat crosses their trigger threshold, at which point the geometric patterns snap into a harsh violet-white and the Ward begins actively pushing, burning, and locking.
+
+Most Animated Wards are paired with other constructs or physical doors — they are not meant to win a fight alone, but to stall, harm, and control while heavier reinforcements respond.
+
+#### Stats
+- **HP**: 12
+- **DV**: 4
+- **Armor**: 0
+- **Movement**: Stationary (unless repositioned by a controller with 1 Action)
+- **Soul Energy (SE):** 14
+
+**Attributes**:
+- Fury: 0
+- Soul: 3
+- Shadow: 1
+- Will: 2
+- Focus: 2
+- Blood: 0
+
+**Skills**:
+- Ward Projection (Soul): 3
+
+#### Attacks
+**Ward Pulse (Action, costs 4 SE):**
+- **Dice Pool:** Soul 3 + Ward Projection 3 = 6d6
+- **Range:** 20-foot cone
+- **Damage:** 4 Soul damage
+- **Effect:** All enemies in range must make DR 2 Will save or be **Pushed** 10 feet back. Creatures who fail and are pushed into a wall take an additional 2 Bludgeoning.
+
+#### Abilities
+**Barrier Projection (Reaction, costs 3 SE):**
+- When an ally within 30 feet is targeted by an attack, the Ward projects a momentary barrier. The attacking creature must roll 3 fewer dice (−3 to pool) for that one attack only.
+- Can only be used once per round regardless of triggers.
+
+**Arcane Lock (2 Actions, costs 5 SE):**
+- Magically seals one door, gate, chest, or portal within 10 feet. The seal holds for 8 hours or until dispelled (DR 3 Arcana to dispel). Even characters with physical keys cannot open the sealed object while the lock persists.
+- The Ward prioritizes locking exits when intruders are present.
+
+**Threat Assessment (Passive):** The Animated Ward identifies creatures who have dealt damage to it or its allies as Threat-Marked. It will prioritize using Ward Pulse on Threat-Marked creatures over neutral or unknown creatures.
+
+**Construct Nature:** Immune to Frightened, Charmed, poison, disease, Corruption (mental). Immune to Prone, Grappled, Restrained (no body to grab).
+
+**Disruption Vulnerability:** Lightning damage disrupts the Ward's projection matrix — Lightning deals double damage to Animated Wards and causes them to lose their next Reaction (short-circuit).
+
+#### Tactics
+The Animated Ward holds its position and uses Ward Pulse to push enemies back from whatever it's guarding. It uses Barrier Projection on any allied construct being attacked. Arcane Lock activates early in the encounter to seal the most obvious escape route. Against aggressive melee PCs, it will repeatedly attempt to push them back, creating distance.
+
+**Encounter Design:** Two Animated Wards (TV 2 combined) flanking a doorway with 1 Obsidian Drone (TV 1) behind them creates a TV 3 encounter that rewards creative solutions (Lightning, flanking through alternative routes, dispelling the Wards before engaging).
+
+#### Loot
+- Ward projection crystal (intact, fist-sized) — **Trade Value**: 22 supplies (craftable into a one-use Ward Pulse item)
+- Arcane lock mechanism (disassembled) — **Trade Value**: 15 supplies
+- Ward housing fragment (the geometric frame; decorative but valuable to collectors) — **Trade Value**: 5 supplies
+
+#### Scaling Options
+**Minor Ward (Minion, TV 0.5):** HP 8, DV 3, SE 6. Only has Ward Pulse (costs 2 SE, 2 Soul damage, no push). No Arcane Lock or Barrier Projection. Cannot reposition.
+**Guardian Ward (Elite, TV 2):** HP 28, DV 5, SE 25. Ward Pulse deals 7 Soul damage, push 20 feet. Barrier Projection grants full immunity to one attack (no dice penalty — full block, 1/round). Add Dispel Backlash: when the Ward is dispelled or reduced to 0 HP by magical means, it releases a 10-foot radius burst (6 Soul damage, DR 3 Will save to halve).
+
+---
+
+## Constructs as Allies
+
+### Using Constructs in Player Factions
+
+Ancient constructs are not exclusively enemies. Some may be reprogrammed, bargained with (for those with enough intelligence), or inherited through control tokens or command words found alongside them. This section provides GM guidance for constructs that join the party or a faction temporarily.
+
+### Acquisition
+
+A construct becomes a temporary ally through one of:
+- **Control Token/Command Word:** Found as loot in the same location as the construct. Requires a Focus + Arcana DR 2 roll to use correctly.
+- **Reprogramming:** A skilled artificer (PC or NPC) can rewrite targeting protocols with Focus + Engineering/Runic Craft check (DR 3–5 depending on construct complexity). Requires access to the construct's runic core and 1 hour of work.
+- **Damage Limitation:** Some ancient constructs have incomplete or degraded orders — a Warden with damaged orders may simply not attack ("Protect the vault" but no "attack intruders" protocol still active) and can be directed to assist.
+
+### Ally Construct Rules
+
+**Initiative:** Ally constructs act on the controller's initiative count (moved to match when acquired).
+
+**Commands:** A controller can issue one command per turn (Free Action). A construct without a current command defaults to its last order. Constructs obey commands literally — they do not infer intent.
+
+**Hit Points:** Ally constructs do not recover HP between encounters unless repaired (Focus + Engineering, DR 3, heals 10 HP per hour of work per success). Some constructs have passive regeneration as noted in their statblock.
+
+**Soul Energy:** Ally constructs regenerate 2 SE per short rest (15–30 minutes of low activity).
+
+**Combat Role by Type:**
+| Construct | TV | Role |
+|---|---|---|
+| Glyph Spider | 0.25 | Scout, trap-layer, alarm relay |
+| Risen Thrall* | 0.25 | Meat shield, expendable disruptor (\*undead, not construct) |
+| Animated Ward | 1 | Area denial, barrier projection, exit-sealing |
+| Restoration Engine | 2 | Primary healer, condition clearer |
+| Obsidian Drone | 1 | Ranged harassment, target marking |
+| Rune-Forged Warden | 3 | Frontline tank, choke-point holder |
+
+**Losing a Construct Ally:** When a construct ally is reduced to 0 HP, it is disabled (not destroyed unless specified). It can be repaired to 1 HP with a DR 3 Focus + Engineering check taking 10 minutes. Some constructs self-destruct instead — see individual entries.
+
+**Corruption Warning:** Soul-Powered Constructs (see p. XXX) that serve as allies are vulnerable to Corruption. GMs should track the powering soul's Corruption separately and apply behavioral changes as that value increases.
+
+---
+
 **End of Chapter 5: Constructs & Automatons**
 
 *"They are not alive, yet they serve. They are not dead, yet they do not rest. They are tools—nothing more, nothing less. And tools can be broken."*  

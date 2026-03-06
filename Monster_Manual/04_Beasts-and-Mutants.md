@@ -836,6 +836,408 @@ Beasts aren't just random encounters:
 
 ---
 
+### 10. Nosgothian Alpha Wyrm
+
+**Type**: Beast (Corrupted, Apex Predator)  
+**Threat Tier**: Legendary  
+**Threat Value (TV):** 7  
+**Recommended Levels**: 12-16
+
+#### Lore
+The Nosgothian Alpha Wyrm is the undisputed apex predator of the wilds — a massive, serpentine dragon descended from the same lineage as the lesser Nosgothian Drakes (§2), but warped by centuries of feeding on Corruption-saturated prey. Its scales are black as pitch, laced with veins of sickly green light that pulse with absorbed Corruption energy. A full-grown Alpha Wyrm stretches over forty feet from snout to tail, and its wingspan blots out the sun.
+
+Alpha Wyrms are territorial nightmares. They claim mountain ranges, forest canopies, or ruined cities as their domains and tolerate no rivals. Lesser Drakes serve as their scouts and pack-hunters. The ecosystem bends around a Wyrm — corrupted beasts flee its territory, Hylden constructs avoid its airspace, and even vampires tread carefully in Wyrm country.
+
+The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the attempt. The beasts are intelligent enough to recognize traps, patient enough to wait for ambushes, and savage enough to rip apart anything that enters their lair.
+
+> **Cross-Reference:** For lesser variants, see Nosgothian Drake (Ch4 §2). For construct-drake hybrids, see Ch5. For Hylden-influenced beasts, see Blight-Boar (Ch4 §4) and the Hylden War-Stalker concept in Ch6.
+
+#### Stats
+- **HP**: 160
+- **Defense Value (DV)**: 6
+- **Difficulty Rating (DR)**: 4 (Physical saves), 3 (Mental saves)
+- **Movement**: 40 feet per turn (ground), 80 feet (flying)
+- **Armor**: 5 (Corrupted Scale Plating)
+- **Soul Energy (SE):** 25
+- **Blood Points (BP):** 10
+
+**Attributes**:
+- Fury: 6
+- Soul: 3
+- Shadow: 4
+- Will: 4
+- Focus: 3
+- Blood: 4
+
+**Skills**:
+- Savage Attack (Fury): 5
+- Athletics (Fury): 5
+- Perception (Focus): 4
+- Stealth (Shadow): 3
+- Intimidation (Will): 4
+
+#### Attacks
+**Rending Jaws** (Fury 6 + Savage Attack 5 = 11d6 vs Dodge)
+- Range: Melee (10 feet)
+- Damage: 14 Physical (Piercing) + 4 Corruption
+- Effect: On hit, target must pass a DR 4 Blood save or be Grappled in the Wyrm's jaws. While grappled, the target takes 8 automatic Piercing damage at the start of each of its turns. Escape requires a contested Fury + Athletics check against the Wyrm's 11d6.
+
+**Corruption Breath** (Action, costs 10 SE, Recharge 5-6)
+- Range: 50-foot cone
+- Dice Pool: Soul 3 + 4 = 7d6 vs Will
+- Damage: 16 Corruption damage
+- Effect: Half damage on successful defense. Creatures that take full damage must pass a DR 3 Will save or gain 1 Corruption point. The affected area becomes Corruption-tainted difficult terrain for 3 rounds.
+
+**Tail Sweep** (Bonus Action, 1/round)
+- Dice Pool: Fury 6 + Athletics 5 = 11d6 vs Dodge
+- Range: 15-foot arc behind the Wyrm
+- Damage: 10 Physical (Bludgeoning)
+- Effect: Hit creatures must pass a DR 4 Fury save or be knocked prone and pushed back 10 feet.
+
+**Wing Buffet** (Reaction, when a creature moves within 10 feet)
+- Dice Pool: Fury 6 + 3 = 9d6 vs Dodge
+- Damage: 8 Physical (Bludgeoning)
+- Effect: Target is pushed back 15 feet. If airborne, the Wyrm can use this to maintain distance.
+
+#### Abilities
+**Corrupted Apex** (Passive): The Alpha Wyrm is immune to Corruption effects (it has fully metabolized ambient Corruption). It is also immune to fear, charm, and poison.
+
+**Aerial Predator** (Passive): While flying, the Wyrm has +2 DV against ranged attacks from below (effective DV 8 in the air). Melee attacks from grounded creatures have Disadvantage unless the attacker can reach its altitude.
+
+**Territorial Rage** (Passive): While fighting within its lair or territory, the Wyrm gains +2 dice on all attack rolls and regenerates 5 HP at the start of each of its turns.
+
+**Legendary Resistance (2/day):** If the Wyrm fails a saving throw, it can choose to succeed instead.
+
+#### Legendary Actions (2/round)
+- **Tail Sweep (1 action):** Make one Tail Sweep attack.
+- **Wing Reposition (1 action):** Fly up to 40 feet without provoking opportunity attacks.
+- **Apex Roar (2 actions):** All creatures within 30 feet must pass a DR 4 Will save or be Frightened until the end of their next turn. Creatures already Frightened are instead Stunned for 1 round.
+
+#### Lair Action
+**Corruption Surge:** If fought in its lair, on initiative count 20 the following occurs (choose one):
+- **Toxic Vents:** Corruption gas erupts from 2 points within the lair. Creatures within 10 feet of a vent take 6 Corruption damage (DR 3 Blood save for half).
+- **Nest Collapse:** A 15-foot section of the lair collapses. Creatures in the area must pass a DR 3 Shadow save or take 8 Bludgeoning damage and be buried (Restrained, DR 3 Fury to escape as action).
+- **Call the Brood:** 1d3 Nosgothian Drakes (TV 1 each) arrive from nesting tunnels.
+
+#### Tactics
+- **Aerial Dominance**: The Wyrm opens by circling overhead, softening the party with Corruption Breath before landing to engage. It returns to the air whenever multiple melee attackers close in.
+- **Divide and Conquer**: It uses Rending Jaws to grapple the most dangerous target, then Wing Buffet and Tail Sweep to scatter the rest of the party.
+- **Attrition in the Lair**: At home, the Wyrm fights a war of attrition — Territorial Rage regeneration plus Corruption Surge lair actions grind parties down. It retreats deeper into its lair to force pursuit through narrow, trapped tunnels.
+- **Intelligent Retreat**: Unlike lesser beasts, the Alpha Wyrm retreats if reduced below 40 HP and not in its lair. It returns with Drake scouts to harass the party over subsequent days.
+
+#### Loot
+- Alpha Wyrm scales (can craft Armor 4 medium armor with Corruption resistance) — **Trade Value**: 200 supplies
+- Corruption sac (volatile alchemical reagent; can craft 3 Corruption grenades or antitoxin) — **Trade Value**: 120 supplies
+- Wyrm fangs (pair; can be forged into twin daggers dealing +3 Piercing + 2 Corruption) — **Trade Value**: 150 supplies per pair
+- Hoard contents (the Wyrm hoards shiny objects): 4d6 x 20 ancient coins, 1d3 minor magical items (GM's choice), assorted gemstones — **Trade Value**: 300+ supplies total
+
+#### Scaling Options
+**Juvenile Wyrm (Boss, TV 4):** HP 80, DV 5, Fury 5, Armor 3. Loses Legendary Actions, Lair Action, and Corruption Breath. Tail Sweep and Wing Buffet deal half damage. No Territorial Rage. Flying speed 60 feet.
+
+**Elder Wyrm Matriarch (Legendary, TV 10):** HP 220, DV 6, Fury 7, Armor 6. Gains 3 Legendary Actions/round. Corruption Breath recharges on 4-6 and deals 20 damage. Add **Corrupted Apotheosis (1/encounter)**: When reduced to 50 HP, the Matriarch undergoes a transformation — gaining +3 Armor, immunity to all damage for 1 round, and immediately using Corruption Breath (no cost). Regional Effects: wildlife within 3 miles is corrupted and hostile; Corruption checks in the region are made at Disadvantage.
+
+---
+
+### 11. Blightwater Eel
+
+**Type**: Beast (Aquatic, Corrupted)
+**Threat Tier**: Standard (TV 1)
+**Recommended Levels**: 3–7
+
+#### Lore
+Blightwater Eels haunt the polluted rivers, flooded ruins, and stagnant lakes of Nosgoth's blighted interior. They are long, muscular predators — six to eight feet from snout to tail — whose skin has turned a corrosive dark green from prolonged exposure to necrotic runoff. Their saliva carries a paralytic toxin that causes progressive muscle failure in victims, making them extremely dangerous to anyone who ends up in the water.
+
+In the years since the Pillars began to fail, Blightwater Eels have become increasingly common in areas near old sanctums and collapsed Pillar sites where contaminants leach into groundwater. Fishermen returning from blight-touched rivers who report losing nets to something large and aggressive are usually describing an Eel's territory.
+
+#### Stats
+- **HP**: 14
+- **DV**: 3
+- **Armor**: 1 (thick hide)
+- **Movement**: 20 feet (4 squares) land, 40 feet (8 squares) swim
+- **SE**: N/A | **BP**: N/A
+
+**Attributes**:
+- Fury: 3
+- Soul: 0
+- Shadow: 1
+- Will: 1
+- Focus: 2
+- Blood: 2
+
+**Skills**:
+- Aquatic Strike (Fury): 2
+- Stealth (in water): 3
+
+#### Attacks
+**Blight Bite** (Fury 3 + Aquatic Strike 2 = 5d6)
+- Range: Melee
+- Damage: 5 Piercing
+- Effect: On hit, target must make DR 2 Blood save or suffer **Blight Toxin** — takes 3 Poison damage at the start of each of their next 3 turns (cumulative with multiple bites)
+
+**Tail Lash** (Fury 3 + Melee 1 = 4d6, Bonus Action)
+- Range: 10 feet
+- Damage: 3 Bludgeoning
+- Effect: Target is pushed 5 feet and must make DR 2 Blood save or be knocked Prone
+
+#### Abilities
+**Aquatic Predator:** The Blightwater Eel has Advantage on all attack rolls while both it and its target are in water. On land, it has Disadvantage on attack rolls and its movement is reduced to 20 feet.
+
+**Stealth Approach:** While fully submerged, the Eel is automatically Invisible until it attacks or surfaces.
+
+**Contaminating Bite:** Creatures Bitten by the Eel who fail the Blight Toxin save are also considered **Contaminated** — they leave a blood trail in water that attracts additional Eels within 300 feet (1d3 arrive in 1d6 rounds if other Eels are present).
+
+#### Tactics
+The Eel lurks beneath the surface, striking with Blight Bite against anyone who wades into its territory. It prioritizes accumulating Blight Toxin stacks on single targets rather than spreading damage, aiming to incapacitate one creature at a time. On land it fights defensively, using Tail Lash to create space to retreat to water.
+
+#### Loot
+- Eel hide (waterproof, usable as light water-resistant leather) — **Trade Value**: 8 supplies
+- Blight toxin sac (alchemical component, careful extraction required) — **Trade Value**: 15 supplies
+- Eel meat (edible if cleaned thoroughly, though it has a bitter aftertaste) — **Trade Value**: 3 supplies
+
+#### Scaling Options
+**Mature Blightwater Eel (Elite, TV 2):** HP 25, DV 4, Fury 4. Blight Toxin stacks deal 4 damage. Add **Coiling Grip**: on a critical hit (3+ successes), the target is Grappled. Grappled creatures in water begin drowning (DR 3 Blood save per round or start suffocating).
+
+---
+
+### 12. Plague Rat Swarm
+
+**Type**: Beast (Swarm, Diseased)
+**Threat Tier**: Minion (TV 0.25)
+**Recommended Levels**: 1–5
+
+#### Lore
+Nosgoth's rat population has never been modest, and in the years of Pillar corruption and spreading blight, they have become carriers of a dozen varieties of magical and mundane plague. Plague Rat Swarms are the concentrated, agitated version of this: a roiling mass of diseased rodents disturbed from a nest, a crypt, or a grain cellar, now attacking with the shared hunger of a living tide.
+
+A single rat is an annoyance. Two hundred are a hazard. Plague Rat Swarms don't kill strong opponents directly — they wear them down, contaminate their wounds, and make an already-dangerous dungeon significantly more miserable to navigate.
+
+#### Stats
+- **HP**: 10
+- **DV**: 2
+- **Armor**: 0
+- **Movement**: 30 feet (6 squares)
+- **SE**: N/A | **BP**: N/A
+
+**Attributes**:
+- Fury: 1
+- Soul: 0
+- Shadow: 1
+- Will: 0
+- Focus: 1
+- Blood: 2
+
+**Skills**: None
+
+#### Attacks
+**Biting Mass** (Fury 1 + Melee 1 = 2d6)
+- Range: Melee (shares target's space)
+- Damage: 3 physical (Piercing, many small wounds)
+- Effect: Target must make DR 2 Blood save or contract **Plague Fever** — Disadvantage on Blood and Will saves for 24 hours (can be cured by medicine DR 2 or magical healing)
+
+#### Abilities
+**Swarm Form:** The Plague Rat Swarm can occupy the same space as other creatures. It can move through any gap large enough for a rat (6 inches or larger) without squeezing.
+
+**Overwhelming Numbers:** The Swarm ignores Armor for damage calculation (it bites through gaps in protection, not through armor plating).
+
+**Disease Reservoir:** When a Plague Rat Swarm attacks, the target's Plague Fever save DR increases by 1 for every additional Swarm attacking them simultaneously (maximum DR 5 with 4 swarms).
+
+**Half Damage from Standard Attacks:** Weapons deal half damage to the Swarm (it's too diffuse). Area effects, fire, and cold damage the Swarm normally.
+
+#### Tactics
+Swarms are encountered in groups of 2–5. They file through gaps, drop from ceilings, and bubble up from beneath floorboards. In large numbers they are a sustained bleed on resources and HP. Combat is most effective with fire or area attacks; point-and-shoot single-target warriors will find them frustrating and exhausting.
+
+#### Loot
+- Nothing of value
+- Occasionally a shiny trinket at the nest center (1d4 supplies worth of odds and ends)
+
+#### Scaling Options
+**Horde (Elite, TV 2):** A larger, denser swarm. HP 25, DV 3. Biting Mass deals 5 damage. Plague Fever is automatic on hit (no save) on a critical hit. Add **Consume the Fallen**: when a creature is reduced to 0 HP within the Swarm's space, the Swarm regains 5 HP.
+
+---
+
+### 13. Tunnelworm
+
+**Type**: Beast (Burrowing)
+**Threat Tier**: Standard (TV 1)
+**Recommended Levels**: 3–7
+
+#### Lore
+Tunnelworms are large, eyeless burrowing creatures — fifteen to twenty feet long and as thick as a barrel — that honeycomb the underground of Nosgoth's more corrupted regions. They are entirely blind, navigating by detecting vibrations through their sensitive underbelly skin. Anything above-ground that walks, runs, or creates vibration is potential prey.
+
+They have no intelligence beyond predatory instinct, but they are extremely effective at that one thing. A Tunnelworm lurking beneath a dungeon floor is indistinguishable from solid earth — until it erupts upward.
+
+#### Stats
+- **HP**: 16
+- **DV**: 3
+- **Armor**: 2 (thick ringed hide)
+- **Movement**: 30 feet (6 squares) ground, 30 feet burrow
+- **SE**: N/A | **BP**: N/A
+
+**Attributes**:
+- Fury: 3
+- Soul: 0
+- Shadow: 1
+- Will: 1
+- Focus: 0
+- Blood: 3
+
+**Skills**:
+- Burrowing (Fury): 2
+
+#### Attacks
+**Chomp** (Fury 3 + Melee 1 = 4d6)
+- Range: Melee
+- Damage: 6 Piercing (enormous maw)
+- Effect: On a critical hit (3+ successes), the target is Grappled in the Tunnelworm's mouth (escape: DR 3 Fury + Athletics; Grappled targets take 4 Piercing damage at the start of each turn)
+
+**Earth Tremor** (2 Actions, costs 3 SE from ambient vibration, Recharge 5-6)
+- Range: 15-foot radius centered on the Tunnelworm
+- Effect: The Tunnelworm thrashes violently. All creatures in range must make DR 2 Blood save or be knocked Prone.
+- Difficult Terrain: the area remains difficult terrain for 1 round (cracked earth, debris)
+
+#### Abilities
+**Vibration Sense:** The Tunnelworm detects all creatures touching the ground within 60 feet automatically, regardless of visibility or concealment. Flying creatures are invisible to it.
+
+**Eruption Attack:** When the Tunnelworm bursts from underground as its first action in combat, it has Advantage on its first Chomp attack that turn (extra 2 dice), and all creatures within 10 feet must make DR 2 Blood save or be knocked Prone by the eruption.
+
+**Burrowing:** Moves through earth, gravel, and soft stone freely. Cannot burrow through worked stone (dungeon floors older than a century may count as worked stone at GM discretion).
+
+#### Tactics
+The Tunnelworm spends its first round burrowing beneath the party while they enter the area, erupting among them for maximum disruption. It Chomps the most heavily armored target (whose vibration-footstep is largest/heaviest) and uses Earth Tremor to knock prone any melee party members who resist its initial attack. Once at or below half HP, it burrows away.
+
+#### Loot
+- Worm hide (thick, tough; 1d3 sections) — **Trade Value**: 10 supplies (light armor crafting)
+- Worm ichor (slippery, anti-friction oil) — **Trade Value**: 5 supplies
+- Burrowing gland (alchemical component, rare) — **Trade Value**: 20 supplies
+
+#### Scaling Options
+**Elder Tunnelworm (Boss, TV 4):** HP 55, DV 5, Armor 4, Fury 4. Chomp deals 10 damage. Add **Swallow Whole**: when Grappling a creature, can attempt to Swallow (Fury 4 vs DR 4 Blood save). Swallowed creature is Restrained, Blinded, and takes 8 acid per turn; escape requires DR 4 Athletics from inside.
+
+---
+
+### 14. Corrupted Raptor
+
+**Type**: Beast (Corrupted Avian)
+**Threat Tier**: Minion (TV 0.25)
+**Recommended Levels**: 2–5
+
+#### Lore
+Raptors have always been Nosgoth's apex aerial hunters — fast, precise, and adapted to killing. The Corrupted Raptor is what happens when one spends too many seasons nesting near a blighted Pillar site or feeding on Corruption-touched prey. Their feathers have turned dark and oily with purplish iridescence, their eyes glow faintly amber, and they have developed a residual Corruption aura that passes into wounds they inflict.
+
+They are no longer strictly animals; the Corruption has given them a rudimentary predator-awareness that extends beyond normal instinct. They recognize magic as a threat, seek out the most powerful-seeming creature in a group when territorial, and react poorly to radiant light.
+
+#### Stats
+- **HP**: 6
+- **DV**: 4 (nimble, airborne)
+- **Armor**: 0
+- **Movement**: 10 feet (2 squares) ground, 40 feet (8 squares) fly
+- **SE**: N/A | **BP**: N/A
+
+**Attributes**:
+- Fury: 2
+- Soul: 1
+- Shadow: 2
+- Will: 1
+- Focus: 2
+- Blood: 1
+
+**Skills**:
+- Aerial Strike (Fury): 1
+
+#### Attacks
+**Talon Strike** (Fury 2 + Aerial Strike 1 = 3d6)
+- Range: Melee (aerial)
+- Damage: 3 Slashing
+- Effect: On hit, target must make DR 2 Blood save or gain **1 Corruption point** from the corrupted talons
+
+**Dive Bomb** (Fury 2 + Aerial Strike 1 = 3d6, Bonus Action, once per combat)
+- Range: 30 feet (diving charge from height)
+- Damage: 4 Slashing
+- Effect: The Raptor dives from at least 20 feet above the target. On hit, the target is Staggered (−1 die on next action).
+
+#### Abilities
+**Flyby:** The Corrupted Raptor does not provoke opportunity attacks when it moves away from a creature after attacking.
+
+**Corruption Aura (Passive, 5 feet):** Any creature that ends its turn adjacent to the Raptor must make DR 1 Blood save or gain 1 Corruption point (represents ambient Corruption emanation).
+
+**Light Sensitivity:** In bright light (torch or better), the Raptor has Disadvantage on attacks and will retreat toward darkness if damaged.
+
+#### Tactics
+Corrupted Raptors hunt in pairs or trios. They dive, apply Talon Strike, and fly away beyond reach — a sustained aerial harassment that, over many rounds, accumulates alarming amounts of Corruption on the party. Characters without ranged options will find them exceptionally frustrating. Radiant or fire damage will drive them away quickly.
+
+**Encounter Design:** 3–4 Corrupted Raptors (TV 0.75–1) make effective opening-phase harassers in a larger encounter, softening PC Corruption before the real fight begins.
+
+#### Loot
+- Corrupted feathers (1d6, dark and oily) — **Trade Value**: 3 supplies each (alchemical component; Corruption-based rituals)
+- Corrupted raptor talon (1, used as a minor crafting component or sinister trophy) — **Trade Value**: 5 supplies
+
+#### Scaling Options
+**Corrupted Raptor Alpha (Standard, TV 1):** HP 12, DV 5, Fury 3, Focus 3. Talon Strike automatically triggers Corruption on hit (no save). Add Screech (1/combat): all creatures within 20 feet make DR 2 Will save or be Frightened until end of next turn.
+
+---
+
+### 15. Corruption Leech
+
+**Type**: Beast (Parasitic, Corrupted)
+**Threat Tier**: Minion (TV 0.25)
+**Recommended Levels**: 2–6
+
+#### Lore
+Corruption Leeches are worm-like parasites no more than six inches long that proliferate in areas of extreme Corruption saturation — near Hylden ritual sites, around dead Pillar stones, and in the deep mud of blighted swamps. They are nearly invisible in darkness and attack by latching onto exposed skin, where they feed on both blood and the spiritual energy running through living creatures, injecting corrupted ichor in return.
+
+In small numbers they are an irritant. In large numbers — as they appear after heavy rainfall in blighted zones, when they wash up in writhing mats — they are capable of corrupting an entire settlement's worth of inhabitants over a single night.
+
+The creature is not intelligent; it operates entirely on chemical detection of warmth and blood. But the corrupted ichor it injects is alarmingly effective, and a host with a dozen attached Leeches faces serious Corruption accumulation between combat rounds.
+
+#### Stats
+- **HP**: 4
+- **DV**: 3 (small and slippery)
+- **Armor**: 0
+- **Movement**: 15 feet (3 squares) ground, 20 feet swim
+- **SE**: N/A | **BP**: N/A
+
+**Attributes**:
+- Fury: 1
+- Soul: 1
+- Shadow: 2
+- Will: 0
+- Focus: 1
+- Blood: 2
+
+**Skills**: None
+
+#### Attacks
+**Latch-On** (Fury 1 + Melee 1 = 2d6)
+- Range: Melee
+- Damage: 2 Piercing
+- Effect: On hit, the Corruption Leech **attaches** to the target (does not occupy a space; treated as a status). The target can detach a Leech with an Action (DR 2 Athletics check) or salt, fire/cold damage, or magical healing.
+
+**While Attached (Passive):**
+- The Leech does not take actions — it drains passively
+- At the start of each of the host's turns: host loses 1 HP and must make a DR 2 Blood save or gain **1 Corruption point**
+- The Leech regains 2 HP per round while attached
+- A single host can have a maximum of 4 Leeches attached simultaneously
+
+#### Abilities
+**Detach (Reaction):** When the host takes Fire, Cold, or Radiant damage, the Leech detaches automatically and retreats 15 feet (does not provoke opportunity attacks).
+
+**Chemical Tracking:** Corruption Leeches detect blood and life-heat within 60 feet. They can track a specific creature across water or difficult terrain once they have scented them.
+
+**Near-Invisible:** In dim light or darkness, Corruption Leeches are automatically unseen by Passive Observation (require active check DR 3 Focus to spot before they attack).
+
+### Tactics & Strategy
+Corruption Leeches do not engage in traditional combat. They crawl onto creatures during movement through their territory, attempt Latch-On, and drain passively. Their primary danger is mass accumulation: 4 Leeches attached to a PC deals 4 HP + up to 4 Corruption points per round passively while the PC cannot take other actions. Fire is the universal counter-measure (but that may be a problem indoors or in a library).
+
+Use them to preface larger combat encounters — a party that wades through a Leech-infested swamp arrives at the dungeon entrance already at Corruption disadvantage.
+
+#### Loot
+- Leech ichor (when carefully extracted; alchemical component for Corruption potions) — **Trade Value**: 8 supplies
+- Nothing else of value
+
+#### Scaling Options
+**Corrupted Leech Clutch (Elite, TV 2):** A single egg-sac that hatches as a Bonus Action, releasing 3 Corruption Leeches in a 10-foot radius. Treating the sac as a single enemy (HP 8) allows the party to stomp it before it hatches.
+
+---
+
 **End of Chapter 4: Beasts & Mutants**
 
 *"The beasts of Nosgoth have learned to survive in a world that despises life. In that, perhaps, we are not so different."*  

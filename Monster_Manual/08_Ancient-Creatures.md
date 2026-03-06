@@ -14,6 +14,8 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 
 *A towering stone giant animated by ancient runes; a sentinel that judges intruders by forgotten laws.*
 
+**Size/Type:** Huge Construct (Ancient, Stone)
+
 **Threat Value:** 16 (Deadly, Boss)
 
 **Attributes:**
@@ -80,6 +82,8 @@ Legendary Actions (2/round)
 
 *A hovering monolith of resonant stone that sings prophecies; its tones warp mind and matter.*
 
+**Size/Type:** Large Construct (Ancient, Resonant)
+
 **Threat Value:** 12 (Major, Controller)
 
 **Attributes:** Fury 2, Soul 6 (Primary), Shadow 3, Will 6, Focus 5, Blood 0
@@ -134,6 +138,8 @@ Legendary Actions (2/round)
 ## Blackmarrow Leviathan
 
 *A titanic, serpentine ruin-eater that swims through waterways and flooded crypts; a moving ecosystem of ancient stone and lichen.*
+
+**Size/Type:** Gargantuan Beast (Ancient, Aquatic)
 
 **Threat Value:** 17 (Deadly, Boss)
 
@@ -191,6 +197,8 @@ Legendary Actions (2/round)
 
 *A translucent guardian bound to a Pillar fragment; strikes at those who disturb the Balance.*
 
+**Size/Type:** Medium Spectral (Pillar-Bound)
+
 **Threat Value:** 11 (Elite, Skirmisher)
 
 **Attributes:** Fury 4, Soul 6 (Primary), Shadow 5, Will 4, Focus 4, Blood 0
@@ -244,6 +252,8 @@ Legendary Actions (2/round)
 
 *A ruin-born predator grown from collapsed wards, rebar, and bone-like crystal—fast, cunning, territorial.*
 
+**Size/Type:** Medium Beast (Arcane, Ruin-Born)
+
 **Threat Value:** 10 (Elite, Striker)
 
 **Attributes:** Fury 6 (Primary), Soul 2, Shadow 5, Will 3, Focus 3, Blood 0
@@ -288,9 +298,97 @@ Legendary Actions (2/round)
 
 ---
 
+## Ancient Pillar Wyrm
+
+*A serpentine titan coiled through the roots of a shattered Pillar — part guardian, part prisoner, older than any empire that tried to claim the Pillars.*
+
+**Size/Type:** Gargantuan Beast (Ancient, Pillar-Bound)
+
+**Threat Value:** 14 (Major, Boss)
+
+**Attributes:** Fury 7 (Primary), Soul 6, Shadow 4, Will 6, Focus 5, Blood 0
+
+**Resources:** Health 180; SE 50; Armor 7 (Petrified Scale-Plate)
+
+**Movement:** 10 (Burrowing 15); **Initiative:** 6
+
+**Skills:** Athletics (Fury) 12, Arcana (Soul) 10, Intimidation (Will) 10, Perception (Focus) 8
+
+**Immunities:** Poison, Charm, Sleep; **Resistances:** Bludgeoning/Piercing/Slashing (non-magical), Force; **Vulnerabilities:** Radiant (the Pillar energy within reacts violently to purifying light), Thunder
+
+---
+
+### Attacks & Abilities
+
+**Pillar-Fang Bite (Basic Attack)**
+- Action: 1
+- Range: 15ft reach
+- Dice Pool: Fury + Athletics = 12d6 vs Dodge
+- Damage: 18 Piercing + 6 Force (Pillar energy courses through its fangs). On hit, target must pass Fury DR 16 or be Grappled in its jaws. While grappled, target takes 10 automatic Piercing damage at start of each turn. The Wyrm can grapple one creature at a time in its jaws.
+
+**Pillar Breath (Special)**
+- Action: 1; Cost: 12 SE
+- Recharge: 5-6
+- Range: 60ft line, 10ft wide
+- Dice Pool: Soul + Arcana = 10d6 vs Will
+- Damage: 16 Force + 8 Soul (raw Pillar energy). Half on successful defense. Creatures that fail are pushed 20 feet and knocked prone.
+
+**Coiling Crush (Special)**
+- Action: 1; requires a Grappled target
+- Automatic — no roll
+- Damage: 20 Bludgeoning. Target must pass Blood DR 16 or be Restrained (constriction). While Restrained, the target takes 12 automatic Bludgeoning at start of each turn and cannot breathe (suffocation rules apply after 3 rounds).
+
+**Tail Sweep (Bonus Action, 1/round)**
+- Range: 20ft arc
+- Dice Pool: Fury + 5 = 10d6 vs Dodge
+- Damage: 12 Bludgeoning. Hit creatures must pass Fury DR 14 or be knocked prone and pushed 10 feet.
+
+**Legendary Resistance (3/day):** If this entity fails a saving throw, it can choose to succeed instead.
+
+Legendary Actions (2/round)
+- Tail Sweep (1 action): Make a Tail Sweep attack.
+- Burrow (1 action): The Wyrm burrows underground and resurfaces at any point within 15 feet. This does not provoke opportunity attacks.
+- Pillar Surge (2 actions): The Wyrm channels Pillar energy through the ground. All creatures within 20ft must pass Focus DR 15 or take 10 Force damage and have their movement halved until end of their next turn.
+
+Lair Action (on initiative 20)
+The Pillar Wyrm lairs in the underground root-network of a shattered Pillar. One of the following occurs:
+- **Pillar Resonance:** A pulse of energy radiates through the chamber. All magical effects in the area flicker — ongoing buffs must pass a "stability check" (caster rolls Soul + Arcana vs DR 3; failure suspends the effect for 1 round).
+- **Root Eruption:** Petrified roots burst from the ground at 1d3 points. Creatures within 5ft of a root must pass Shadow DR 14 or take 8 Bludgeoning and be Restrained (DR 3 Fury to escape).
+- **Ancient Memory:** The Wyrm's Pillar connection projects a fragmentary vision. One random creature gains Advantage on all rolls until end of next round (the Pillar's memory guides them). Another random creature has Disadvantage (the memory disorients them). The Wyrm cannot control which creatures are chosen.
+
+Regional Effects
+- Within 1 mile: Pillar energy creates faint auroral lights underground. Arcana checks have Advantage. Creatures with Corruption have Disadvantage on stealth (the Pillar energy illuminates taint).
+- The immediate area around the lair shifts subtly — tunnels rearrange overnight, distances feel wrong, and compasses align to the nearest Pillar instead of north.
+
+---
+
+### Lore & Tactics
+
+**Lore:** Ancient Pillar Wyrms predate the Pillars themselves. When the Ancients raised the Pillars of Nosgoth, these titanic serpents were already coiled through the ley lines that the Pillars would be built upon. Some scholars believe the Wyrms *are* the ley lines — that the Ancients built the Pillars on top of them, not the other way around. The Pillar energy suffused the Wyrms over millennia, binding them to the sites they once merely inhabited. Now, they cannot leave. They guard the Pillar roots not out of loyalty, but because they are physically incapable of departing.
+
+Most Pillar Wyrms slumber for centuries at a time. The collapse of the Pillars has disturbed their rest, and they now thrash in confused rage, attacking anything that enters their domain.
+
+**Tactics:** The Wyrm opens by erupting from underground (Burrow) directly beneath the most dangerous target, using Pillar-Fang Bite to grapple them, then Coiling Crush to finish them. It uses Tail Sweep to scatter melee attackers. Pillar Breath targets ranged clusters. It Burrows frequently, using its underground movement to reposition and attack from unexpected angles.
+
+**Encounter Design:** The Pillar Wyrm encounter should feel like a raid boss — the party descends into a Pillar root chamber and must fight in a confined space where the Wyrm has every advantage. Pair with environmental hazards (crumbling rubble, Pillar energy surges, unstable footing). The Wyrm's Regional Effects should foreshadow the encounter over several sessions.
+
+### Loot
+- Pillar-Infused Fang (can forge a weapon dealing +6 Force damage; the weapon hums near Pillar sites) — **Trade Value**: 350 supplies
+- Ancient Scale Plate (can craft Armor 6 heavy armor with Force Resistance) — **Trade Value**: 400 supplies
+- Pillar Root Fragment (a living piece of the Pillar's underground network; key component for Pillar restoration rituals or powerful enchantments) — **Trade Value**: 500 supplies (priceless to the right buyer)
+- Wyrm's Memory Crystal (a calcified gland containing fragmentary memories of Nosgoth before the Pillars; provides lore insight into Ancient history) — **Trade Value**: 200 supplies
+
+### Scaling Options
+- **Weakened Form (TV 10):** Health 100; SE 20; Armor 5. Attributes reduced by 2 across the board. Loses Legendary Actions and Lair Action. Coiling Crush deals 12 Bludgeoning. Pillar Breath recharge 6 only. Suitable for a young Wyrm or a severely weakened ancient one disturbed from deep slumber.
+- **Empowered Form (TV 18):** Health 280; SE 80; Armor 9. Fury 9, Soul 8. Gains 3 Legendary Actions/round. Pillar Breath recharges on 4-6. Add **Pillar Awakening (1/encounter):** The Wyrm channels the full might of the Pillar root. All creatures within 40ft take 20 Force + 10 Soul damage (Will DR 18 for half). For 3 rounds, the Wyrm's attacks deal +8 Force damage and it regenerates 10 HP per round. Regional Effects intensify — tunnels collapse, cutting off retreat.
+
+---
+
 ## Titan-Kin Stalker
 
 *A lank, long-limbed hunter bearing fragments of titan plates; a living heir to a lost giant lineage.*
+
+**Size/Type:** Large Humanoid (Giant-Kin)
 
 **Threat Value:** 12 (Major, Skirmisher)
 
@@ -340,6 +438,8 @@ Legendary Actions (2/round)
 ## Forgotten Dreambeast
 
 *An idea-born predator, half-seen in waking corners; memories give it shape and hunger.*
+
+**Size/Type:** Medium Aberration (Psychic)
 
 **Threat Value:** 13 (Major, Controller)
 
@@ -393,7 +493,7 @@ Legendary Actions (2/round)
 ## Root-Entombed Horror
 
 *A massive, root-wrapped form that crawls with slow inevitability; the forest’s wrath embodied.*
-
+**Size/Type:** Huge Plant (Ancient, Corrupted)
 **Threat Value:** 15 (Deadly, Brute)
 
 **Attributes:** Fury 8 (Primary), Soul 3, Shadow 2, Will 5, Focus 3, Blood 0
@@ -440,3 +540,203 @@ Legendary Actions (2/round)
 - **Empowered Form (TV 18):** Increase HP to 280, Fury to 9, and Crushing Vines damage to 22 Bludgeoning. Add Legendary Action (1/round): Root Surge — 15ft line, Agility DR 16 or Grappled and pulled 10ft toward the Horror.
 
 ---
+
+## Primordial Blood Stalker
+
+**Type:** Ancient Beast (Vampiric, Predator)
+**Threat Tier:** High
+**Threat Value (TV):** 13
+
+### Lore
+The Primordial Blood Stalker is what Nosgoth's deepest wilderness was before the vampire clans imposed their hierarchy on it. This creature predates every clan, perhaps predates the Circle of Nine entirely — a vampiric apex predator that existed before there were lords and serfs among the undead, when the hungers of the night moved on four legs and took what they wanted with tooth and claw rather than ceremony.
+
+It resembles no existing vampire species. Its silhouette is vaguely feline but wrong at scale — too heavy, too long, the spine too high. Its hide is blackened and thickened over millennia into something closer to plate than skin. It does not speak, does not negotiate, and does not tolerate rivals in its territory. Ancient vampires who have crossed hunting grounds with a Blood Stalker do not repeat the mistake.
+
+It is not intelligent. But it is *old*, and old things in Nosgoth have accumulated instincts that function like cunning. It knows how to wait, how to isolate, and how to feed efficiently. The last vampire who tried to claim dominion over a Blood Stalker was found as a significant pile of former lord several weeks later.
+
+### Statistics
+- **HP:** 185
+- **DV:** 6 (1 + Fury 5)
+- **Armor:** 2 (ancient vampiric hide)
+- **Movement:** 45 feet (9 squares)
+- **Attributes:** Fury 6, Soul 3, Shadow 5, Blood 5, Will 3, Focus 4
+- **Skills:** Stealth (Shadow) 4, Athletics (Fury) 3, Tracking (Focus) 3
+- **SE:** 40 | **BP:** 18
+
+### Attacks & Abilities
+
+**Blood Rend** (Action)
+- **Dice Pool:** Fury 6 + Athletics 3 = 9d6
+- **Range:** Melee (15-foot reach — massive creature)
+- **Damage:** 12 physical (Slashing) + **Blood Drain** (target loses 3 BP; if at 0 BP, takes 3 extra Soul damage instead)
+- **Special:** The Stalker regains 4 HP per successful Blood Rend hit (vampiric regeneration)
+
+**Ancient Lunge** (Action, costs 5 SE)
+- **Dice Pool:** Fury 6 + Athletics 3 = 9d6
+- **Range:** Leap up to 30 feet to target; make Blood Rend as part of same action
+- **Effect:** On hit, target is **Pinned** (Grappled, prone; escape DR 4 Blood or Fury + Athletics). Pinned targets take 4 Piercing at the start of each turn as the Stalker's weight bears down.
+
+**Primal Howl** (2 Actions, costs 8 SE, Recharge 5-6)
+- **Dice Pool:** Soul 3 + Intimidation 3 = 6d6 vs Will
+- **Range:** 50-foot radius
+- **Effect:** All creatures in range must make DR 4 Will save or be **Frightened** for 3 rounds. Vampires, undead, and creatures with active Blood Points auto-fail this save (the Stalker's dominance overrides their undead instincts). The howl can be heard for a mile.
+
+### Special Abilities
+
+**Blood Frenzy (Passive):** When the Stalker reduces a creature to 0 HP, it immediately regains 15 HP and may make one free Blood Rend as a Bonus Action against the nearest living creature. This bonus attack also triggers Blood Frenzy if it scores another kill (only once per turn total).
+
+**Ancient Memory (Passive):** In any location the Stalker has inhabited for decades or longer, it has Advantage on all Stealth, Tracking, and Navigation checks. It knows every escape route, every ambush point, and every hiding spot in its lair.
+
+**Supernatural Hide:** The Stalker's ancient hide reduces all damage from nonmagical sources by 3 (in addition to its Armor value). Magical weapon attacks are unaffected.
+
+**Legendary Resistance (2/day):** If the Stalker fails a saving throw, it can choose to succeed instead.
+
+**Legendary Actions (2/round):**
+- **Blood Rend (1 action):** Make one Blood Rend attack
+- **Ancient Lunge (2 actions):** Use Ancient Lunge (still costs 5 SE)
+
+### Tactics & Strategy
+The Blood Stalker opens from Stealth, using Ancient Lunge to Pin the most armored PC (to disable them) before switching attention to the softest target for maximum Blood Drain efficiency. Primal Howl triggers when 3+ PCs are clustered. It maintains Blood Frenzy chains by targeting vulnerable targets. If reduced below 90 HP, it begins targeting healers.
+
+**Encounter Design:** A solo Blood Stalker (TV 13) makes an excellent dungeon-climax encounter in a deep ancient ruin. Pair with 2 Vampiric Fledglings (TV 1 each) that serve as distraction-food for the party's AoE while the Stalker picks off isolated targets.
+
+### Loot
+- Ancient vampire fang (jet-black, unusually long) — **Trade Value**: 60 supplies (alchemical; Vampiric ability component)
+- Hide sections (2d4, each enormous) — **Trade Value**: 30 supplies each (exceptional heavy armor material)
+- Blood-crystal formation (solidified predator blood, only forms in creatures this old) — **Trade Value**: 100 supplies
+
+### Scaling Options
+- **Adolescent Blood Stalker (Boss, TV 5):** HP 95, DV 5, Fury 5, Blood 4. No Legendary Actions or Legendary Resistance. Primal Howl is Recharge 5-6 only.
+- **Elder Blood Stalker (TV 17):** HP 240, DV 6, Fury 7, Soul 5, SE 60. Blood Rend deals 16 + 4 Blood Drain. Add 3 Legendary Actions/round. Blood Frenzy heals 25 HP and triggers two free attacks.
+
+---
+
+## Pillar-Decay Sentinel
+
+**Type:** Ancient Construct-Entity (Corrupted Pillar Guardian)
+**Threat Tier:** High
+**Threat Value (TV):** 12
+
+### Lore
+When a Pillar of Nosgoth began to fail under an unworthy or corrupted Guardian, the built-in protective constructs associated with that Pillar did not simply shut down. They adapted. The corruption spreading from the Guardian seeped into the constructs, and the constructs incorporated it into their purpose.
+
+A Pillar-Decay Sentinel was once a Pillar Guardian-construct: a massive entity of enchanted stone and living light that protected the approaches to the Pillar against intrusion or damage. Now, after centuries of Pillar corruption seeping into its framework, it protects the *corruption* with the same ferocity it once protected the Pillar's purity. It does not know the difference. Its programming no longer processes the distinction.
+
+The result is a construct made of cracked, blackened Pillar stone with corruption energy visible in the fractures like blood in broken skin. Its attacks corrupt rather than defend. Its presence drains the magical of those nearby rather than empowering them. It is a Pillar guardian that has become what it was built to resist.
+
+### Statistics
+- **HP:** 175
+- **DV:** 6 (1 + Will 5)
+- **Armor:** 3 (decayed Pillar stone)
+- **Movement:** 25 feet (5 squares)
+- **Attributes:** Fury 3, Soul 6, Will 5, Focus 4, Shadow 2, Blood 0
+- **Skills:** Corruption Channeling (Soul) 4, Arcana (Soul) 3, Intimidation 3
+- **SE:** 60
+
+### Attacks & Abilities
+
+**Decay Touch** (Action)
+- **Dice Pool:** Soul 6 + Corruption Channeling 4 = 10d6
+- **Range:** 10-foot melee reach
+- **Damage:** 10 Corruption damage (bypasses normal physical armor — it infects rather than wounds)
+- **Special:** On hit, any magical item or enchanted object carried by the target loses 1 enhancement bonus for 24 hours (magical weapons deal −1 damage; magical armor provides −1 DV bonus). This effect does not stack beyond −3 per item.
+
+**Pillar Shard Barrage** (2 Actions, costs 8 SE, Recharge 5-6)
+- **Dice Pool:** Soul 6 + Arcana 3 = 9d6 vs Blood
+- **Range:** 40-foot radius at a point within 80 feet
+- **Damage:** 14 Piercing
+- **Save:** DR 4 Blood save to halve
+- **Effect:** On fail, target's SE is reduced by 6 (the corrupted Pillar energy disrupts magical resonance — the shards carry a soul-disrupting curse, not just physical impact)
+
+**Corruption Pulse** (Action, 1/encounter, free — triggers automatically when Sentinel is first reduced below half HP)
+- **Range:** 30-foot radius
+- **Effect:** All living creatures in range make DR 4 Will save or immediately gain **2 Corruption points**. No damage — pure Corruption burst.
+
+### Special Abilities
+
+**Corruption Aura (Passive, 10 feet):** Creatures who begin their turn within 10 feet must make DR 3 Blood save or gain **1 Corruption point**. This aura cannot be disabled by silencing magic (it is a physical emanation, not a magical broadcast).
+
+**Pillar Link (Special):** If there is any Pillar fragment, Pillar site, or functional Pillar stone within 100 feet, the Sentinel regenerates 8 HP at the start of each turn and Decay Touch deals +3 Corruption damage. In Pillar ruins, this often activates immediately.
+
+**Ancient Construct:** Immune to Frightened, Charmed, Corruption (as mental effect), poison, disease. Cannot be Pushed, Pulled, or Knocked Prone. Immune to Sleep and Paralysis.
+
+**Legendary Resistance (2/day):** If the Sentinel fails a save, it can choose to succeed instead.
+
+### Tactics & Strategy
+The Sentinel advances slowly, using Corruption Aura to force the party to spread out. It targets magical weapon-users with Decay Touch to degrade their equipment. Pillar Shard Barrage is used against clusters of 3+ PCs. Corruption Pulse triggers at half HP — this is a design intent, not a desperation move; the Sentinel is deadliest in the final half of the fight when Corruption points begin cascading into Corruption effects.
+
+**Key Counter:** The Sentinel's weakness is ranged damage from pure physical sources (nonmagical weapons deal full physical damage without triggering Corruption Aura on the attacker, and its DV 6 still applies but its armor is mediocre at 3). Soul-based attacks bypass its Armor 3 entirely. Groups who focus on ranged Soul damage clear it efficiently.
+
+### Loot
+- Corruption-stone fragment (3d4, cracked Pillar stone saturated with Corruption) — **Trade Value**: 20 supplies each (Corruption-based alchemy, Hylden ritual components)
+- Sentinel core crystal (the Sentinel's animating crystal; corrupted, but the base matrix is functional) — **Trade Value**: 80 supplies
+- Pillar-Decay Rune (one still-legible rune inscribed into the stone; could be studied for insights into Pillar magic or Corruption mechanics) — **Trade Value**: 50 supplies (story item)
+
+### Scaling Options
+- **Pillar-Decay Warden (Elite, TV 3):** HP 65, DV 5, Armor 2, Soul 4. SE 25. Decay Touch deals 7 Corruption. No Pillar Shard Barrage or Corruption Pulse. Corruption Aura 5 feet only.
+- **Sovereign Decay Colossus (TV 16):** HP 260, DV 6, Armor 5, Soul 8, SE 90. Decay Touch deals 14 Corruption + destroys one item enchantment permanently. 3 Legendary Actions/round. Corruption Aura 20 feet (DR 4 to avoid). Pillar Link activates anywhere in the same structure.
+
+---
+
+## Living Ward
+
+**Type:** Ancient Construct (Magical Guardian)
+**Threat Tier:** High
+**Threat Value (TV):** 11
+
+### Lore
+Living Wards are the apex of the ancient construct-builder's art: not merely mechanical guardians with runic inscriptions, but magical constructs that have accumulated enough arcane self-awareness over millennia to make independent defensive decisions. They are bound to a location — a vault, a sanctum, a sealed chamber — and they have defended it long past the point where anyone alive remembers what they were built to guard.
+
+They manifest as large geometric constructs of light and pale stone, roughly humanoid but with multiple extra "arms" that are actually defensive projection arrays. Their purpose is reactive rather than offensive: they maintain defenses, neutralize spells, and exist as the final line of arcane protection. An ancient library guarded by a Living Ward is a library that has survived ten thousand years of magical warfare, political upheaval, and deliberate destruction — because every attack on it was answered by something that didn't get tired, didn't run out of mana, and could not be intimidated.
+
+### Statistics
+- **HP:** 160
+- **DV:** 6 (1 + Soul 5)
+- **Armor:** 2 (enchanted stone frame)
+- **Movement:** 30 feet (6 squares), Fly 30 feet
+- **Attributes:** Fury 1, Soul 5, Focus 5, Will 5, Shadow 3, Blood 0
+- **Skills:** Arcana (Soul) 4, Ward Projection (Focus) 4, Observation (Focus) 3
+- **SE:** 50
+
+### Attacks & Abilities
+
+**Arcane Discharge** (Action)
+- **Dice Pool:** Soul 5 + Arcana 4 = 9d6
+- **Range:** 50 feet (10 squares)
+- **Damage:** 10 Soul/Arcane damage
+- **Special:** Penetrates 2 points of armor (the discharge bypasses physical protection)
+
+**Ward Nullify** (2 Actions, costs 10 SE, Recharge 5-6)
+- **Range:** 40-foot radius at a point within 60 feet
+- **Effect:** All active magical effects in range must make a DR 4 Will save (using the original caster's dice pool vs DR 4) or be **Suppressed** for 3 rounds — this includes ongoing spells, curses, enchantments, summoned entities, and temporary magical conditions. The Ward does not distinguish friend from foe; everything magical in range is subject.
+
+**Counter-Glyph (Reaction, costs 6 SE):**
+- **Trigger:** Any creature within 50 feet casts a spell or uses a magical ability
+- **Effect:** Roll Soul 5 + Arcana 4 = 9d6 vs the caster's active dice pool. On a tie or success, the ability is countered — the SE is still spent but no effect occurs. This is explicitly a counter-magic ability, not damage.
+- **Limit:** Can be used once per round regardless of trigger count.
+
+### Special Abilities
+
+**Arcane Resilience (Passive):** Immune to all magical status effects (Frightened, Charmed, Confused, Paralyzed, etc. caused by magical sources). Resistant to Soul and Arcane damage (takes half).
+
+**Ward Lattice (Passive, 20-foot radius):** Allied constructs, bound NPCs, and specifically authorized creatures within 20 feet of the Living Ward gain +1 DV against magical attacks (the Ward extends its protective field).
+
+**Absolute Guardian (Passive):** The Living Ward cannot be magically Teleported, Displaced, or removed from its location against its will. It is anchored to its position.
+
+**Construct Nature:** Immune to Frightened, Charmed, Corruption (mental), poison, disease, physical conditions.
+
+**Legendary Resistance (2/day):** If the Ward fails a save, it can choose to succeed instead.
+
+### Tactics & Strategy
+The Living Ward prioritizes Counter-Glyph against every ability the party uses — this creates immediate pressure on SE-spending decisions. Ward Nullify is used when the party has activated 2+ powerful effects simultaneously (a summoned creature + ongoing spell, for example). Arcane Discharge punishes anyone in the open at range. The Ward doesn't move unless its protected location is being approached; it fights from the optimal position for its Ward Lattice to benefit any mechanical allies also guarding the vault.
+
+**Encounter Design:** A Living Ward (TV 11) + 2 Pillar-Stone Golems (TV 10 each) creates a TV ~17 encounter — a genuine Deadly encounter for high-level groups protecting an ancient vault. The Ward's Counter-Glyph neutralizes caster offense while the Golems absorb physical damage. Parties must choose to neutralize the Ward first (risky, as it has answers) or the Golems first (freeing the Ward to counter everything).
+
+### Loot
+- Ancient ward crystal (the Living Ward's core matrix, intact) — **Trade Value**: 150 supplies (usable to create a one-room permanent magical ward that blocks one spell type of the installer's choice)
+- Defensive projection arrays (3d4 segments) — **Trade Value**: 25 supplies each (enchanted stone fragments with latent protective magic)
+- Arcane ledger (a record of every magical event the Ward has witnessed and countered over millennia — extraordinary historical document) — **Trade Value**: 200+ supplies to a scholar, priceless to certain factions
+
+### Scaling Options
+- **Minor Living Ward (Elite, TV 3):** HP 55, DV 5, Soul 4, SE 20. Only Arcane Discharge and Counter-Glyph (costs 3 SE). No Ward Nullify, no Legendary Resistance. Ward Lattice 10 feet only.
+- **Primordial Living Ward (TV 15):** HP 230, DV 6, Armor 3, Soul 7, SE 80. Arcane Discharge deals 15. Ward Nullify radius 60 feet (permanent within ward boundaries). Counter-Glyph auto-succeeds on any roll of 4+ successes (no opposed roll needed). 3 Legendary Actions/round. Legendary Resistance 4/day.

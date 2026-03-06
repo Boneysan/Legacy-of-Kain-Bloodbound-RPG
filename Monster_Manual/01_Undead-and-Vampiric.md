@@ -45,7 +45,7 @@ Ghouls rush the nearest living creature mindlessly. They use Feral Pack to swarm
 
 ### Loot (Optional)
 - Rotted cloth and rags
-- Occasionally clutching old coins (1d6 ancient coins)
+- Occasionally clutching old coins (Trade Value: 1d6 supplies)
 - Ghoul flesh (used in necromantic rituals, disgusting)
 
 ### Scaling Options
@@ -107,9 +107,9 @@ Not all vampires retain their nobility and cunning. Those who give in completely
 Opens with Shadow Leap to close distance, then Pounces on isolated target. Uses claws to shred enemies while regenerating. When bloodied, enters Blood Frenzy and fights recklessly. Attempts to grapple wounded prey for Blood Drain to heal.
 
 ### Loot
-- Vampire fangs (alchemical component, 50 barter value)
+- Vampire fangs (alchemical component, Trade Value: 50 supplies)
 - Tattered nobleman's clothing (hints at former identity)
-- Blood-stained jewelry (15-30 barter value)
+- Blood-stained jewelry (Trade Value: 15-30 supplies)
 - Occasionally, a trinket from past life
 
 ### Scaling
@@ -170,7 +170,7 @@ Methodical and intelligent fighter. Protects its bound location/object/person ze
 ### Loot
 - Ancient weapon (often family heirloom or significant blade)
 - Locket, letter, or token related to their purpose
-- Revenant essence (component for binding rituals, 30 barter value)
+- Revenant essence (component for binding rituals, Trade Value: 30 supplies)
 
 ### Scaling
 - **Weakened Revenant (Minion, TV 0.25):** HP 10, DV 3, -1 to attributes, no Undying Purpose
@@ -220,9 +220,9 @@ Created through necromantic rituals involving immolation, Bone-Pyre Skeletons ar
 Advance in groups, using Flaming Aura to pressure melee fighters. Use Ember Burst when clustered enemies present themselves. No self-preservation—charge directly at enemies.
 
 ### Loot
-- Charred bones (necromantic component, 5 barter value)
+- Charred bones (necromantic component, Trade Value: 5 supplies)
 - Heat-tempered weapon fragments
-- Occasionally a fire-resistant gem (15 barter value)
+- Occasionally a fire-resistant gem (Trade Value: 15 supplies)
 
 ---
 
@@ -276,10 +276,10 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 Commands lesser undead from back line while using Aura of Dread to control battlefield. Shadow Steps to isolated targets for Life Drain. Uses Parry defensively. If bloodied, becomes aggressive and uses Ancient Greatsword relentlessly.
 
 ### Loot
-- Ancient armor (can be restored, Armor 3, 100 barter value to collector)
+- Ancient armor (can be restored, Armor 3, Trade Value: 100 supplies to collector)
 - Greatsword with necromantic enchantment (6 base damage + 2 Necrotic)
-- Crypt treasure: 2d6 x 10 ancient coins
-- Wight essence (rare component for necromancy, 75 barter value)
+- Crypt treasure (Trade Value: 2d6 x 10 supplies)
+- Wight essence (rare component for necromancy, Trade Value: 75 supplies)
 - Personal effects revealing tragic history
 
 ### Scaling
@@ -336,7 +336,7 @@ Attempts to Engulf isolated targets while using superior mobility to avoid area 
 
 ### Loot
 - Nothing useful from the swarm itself
-- May have consumed valuables: 1d4 x 5 ancient coins, small jewelry
+- May have consumed valuables (Trade Value: 1d4 x 5 supplies), small jewelry
 
 ---
 
@@ -392,8 +392,8 @@ Stays at range, pelting enemies with Blood Bolt. Uses Blood Curse on biggest thr
 
 ### Loot
 - Bloodstained ritual robes
-- Blood Magic tome (20 barter value, can teach Blood Bolt spell)
-- Ritual components (50 barter value total)
+- Blood Magic tome (Trade Value: 20 supplies, can teach Blood Bolt spell)
+- Ritual components (Trade Value: 50 supplies total)
 - Unholy symbol of vampire lord
 
 ---
@@ -442,7 +442,7 @@ Vampires destroyed by fire sometimes leave behind vengeful spirits—Bloodflame 
 Uses Phase Movement to pass through walls and surprise enemies. Focuses Spectral Flame Touch on lightly armored targets. Uses Burning Wail when enemies cluster. Retreats into walls when seriously wounded.
 
 ### Loot
-- Spectral essence (component for banishment rituals, 40 barter value)
+- Spectral essence (component for banishment rituals, Trade Value: 40 supplies)
 - Occasionally haunts a specific object that can be looted
 - Information about its death (may reveal plot points)
 
@@ -594,11 +594,11 @@ The Overlord opens with Blood Dominion on the party's strongest melee fighter, t
 **Key Weakness:** Sunlight and Radiant damage shut down regeneration and Mist Form. Parties that bring Radiant sources or fight during the day have a significant advantage.
 
 ### Loot
-- Overlord's signet ring (ancient clan identifier, grants +1 die on Intimidation) — **Barter Value:** 150
-- Bloodforged cloak (reduces Radiant damage by 2 when worn, but grants 1 Corruption per week of use) — **Barter Value:** 200
-- Ancient vampire fang (legendary alchemical component) — **Barter Value:** 100
-- Clan treasury key (leads to hidden vault, GM determines contents) — **Barter Value:** Priceless
-- Blood chalice (if filled with blood, restores 10 HP to drinker; usable once per day) — **Barter Value:** 120
+- Overlord's signet ring (ancient clan identifier, grants +1 die on Intimidation) — **Trade Value:** 150 supplies
+- Bloodforged cloak (reduces Radiant damage by 2 when worn, but grants 1 Corruption per week of use) — **Trade Value:** 200 supplies
+- Ancient vampire fang (legendary alchemical component) — **Trade Value:** 100 supplies
+- Clan treasury key (leads to hidden vault, GM determines contents) — **Trade Value:** Priceless
+- Blood chalice (if filled with blood, restores 10 HP to drinker; usable once per day) — **Trade Value:** 120 supplies
 
 ### Scaling Options
 - **Diminished Overlord (Elite, TV 2):** HP 50, DV 5, -2 to all attributes, no Legendary Actions or Legendary Resistance. Remove Mist Form. Reduce Crimson Torrent to 15-foot cone.
@@ -669,10 +669,10 @@ The Grave-Knight Commander fights from within a formation of lesser undead, usin
 **Encounter Design:** Pair with 4–6 Feralslave Ghouls (TV 0.25) or 2–3 Bone-Pyre Skeletons (TV 0.25) and 1 Nosgothian Revenant (TV 1) for a well-structured TV 5–6 encounter. The Commander's Death's Command can turn a manageable fight into a lethal one if the party ignores the minions.
 
 ### Loot
-- Cursed greatsword (deals +2 Cold damage, but wielder takes 1 Cold damage per hour of use) — **Barter Value:** 80
-- Ancient commander's plate (Armor 3 physical, but cannot be removed without a Remove Curse ritual) — **Barter Value:** 60
-- Battle standard (grants +1 die on Will saves to allies within 30 feet, but attracts undead attention) — **Barter Value:** 90
-- Commander's orders (fragment of parchment revealing its original mission — plot hook) — **Barter Value:** Varies
+- Cursed greatsword (deals +2 Cold damage, but wielder takes 1 Cold damage per hour of use) — **Trade Value:** 80 supplies
+- Ancient commander's plate (Armor 3 physical, but cannot be removed without a Remove Curse ritual) — **Trade Value:** 60 supplies
+- Battle standard (grants +1 die on Will saves to allies within 30 feet, but attracts undead attention) — **Trade Value:** 90 supplies
+- Commander's orders (fragment of parchment revealing its original mission — plot hook) — **Trade Value:** Varies
 
 ### Scaling Options
 - **Grave-Knight Squire (Standard, TV 1):** HP 25, DV 4, Fury 3, no Leadership skill. Remove Death's Command and Commander's Presence. Armor 2.
@@ -680,4 +680,293 @@ The Grave-Knight Commander fights from within a formation of lesser undead, usin
 
 ---
 
+## 1.13 Bonelord Archon
+
+**Type:** Undead (Intelligent, Spellcaster)  
+**Threat Tier:** Legendary  
+**Threat Value (TV):** 6
+
+### Lore
+Bonelord Archons are the remnants of ancient necromancers who bargained with the Pillars of Death itself — sorcerers so consumed by their craft that they bound their own souls into their skeletal forms rather than submit to the Wheel of Fate. Unlike mindless undead, they are calculating, articulate, and terrifyingly intelligent. Each commands a personal army of lesser undead, animating and coordinating them with a mere thought.
+
+They lair in ruined cathedrals, forgotten crypts, and the shattered remains of the Circle of Nine's sanctums. Some Bonelord Archons remember the world before the Pillars fell. All of them intend to reshape it.
+
+### Statistics
+- **HP:** 120
+- **DV:** 6 (1 + Will 5)
+- **Armor:** 4 (Bone-Warded Plate — necrotic-infused skeletal armor)
+- **Movement:** 30 feet (6 squares)
+- **Attributes:** Fury 3, Soul 6, Shadow 4, Will 5, Focus 5, Blood 0 (Immune to Blood-based effects)
+- **Skills:** Necromancy (Soul): 5, Arcana (Soul): 4, Intimidation (Will): 4, Command Undead (Will): 5, Observation (Focus): 3
+- **Soul Energy (SE):** 50
+- **Blood Points (BP):** N/A
+
+### Attacks & Abilities
+**Soul Scourge** (Action)
+- **Dice Pool:** Soul 6 + Necromancy 5 = 11d6 vs Will
+- **Range:** 60 feet
+- **Damage:** 10 Soul damage
+- **Special:** On hit, target's max SE is reduced by 3 until short rest.
+
+**Bone Lance** (Action)
+- **Dice Pool:** Soul 6 + Arcana 4 = 10d6 vs Dodge
+- **Range:** 40 feet
+- **Damage:** 8 Piercing + 4 Necrotic
+- **Special:** On Critical Hit, target is Impaled (Restrained; DR 4 Blood save to escape as action).
+
+**Raise Dead** (Action, costs 8 SE)
+- **Effect:** Summon 2 Feralslave Ghouls (TV 0.25) or 1 Nosgothian Revenant (TV 1) within 30 feet. Maximum of 6 summoned undead at once. Summoned undead act on the Archon's initiative.
+
+**Necrotic Detonation** (Action, costs 12 SE, Recharge 5-6)
+- **Dice Pool:** Soul 6 + Necromancy 5 = 11d6 vs Will
+- **Range:** 25 foot radius centered on Archon
+- **Damage:** 14 Necrotic
+- **Special:** Half damage on successful defense. Undead allies in the area are healed for 8 HP instead.
+
+### Special Abilities
+**Undead Nature:** Immune to Soul Drain, poison, disease, fear, charm, sleep. Takes double damage from Radiant.
+
+**Phylactery Bond:** The Archon's soul is bound to a hidden phylactery. When reduced to 0 HP, the Archon is destroyed but reforms at its phylactery in 1d6 days. The phylactery has HP 30, DV 4, Armor 6, and is typically hidden in a location 1–5 miles away. Destroying the phylactery first is the only way to permanently kill the Archon.
+
+**Death's Mantle** (Passive): Living creatures that start their turn within 10 feet of the Archon take 3 Necrotic damage (necrotic energy radiating from its form).
+
+**Legendary Resistance (2/day):** If the Archon fails a saving throw, it can choose to succeed instead.
+
+### Legendary Actions (2/round)
+- **Soul Scourge (1 action):** Make one Soul Scourge attack at half damage (5 Soul).
+- **Command Undead (1 action):** One undead ally within 60 feet can immediately move up to its speed or make one attack.
+- **Dark Rebuke (2 actions):** When an enemy within 30 feet casts a spell, the Archon can counter it. Roll Soul 6 + Arcana 4 = 10d6 vs DR 4. On success, the spell is negated and the Archon regains 5 SE.
+
+### Lair Action
+- **Bone Tide:** On initiative count 20, skeletal hands erupt from the ground in a 20-foot radius area. Creatures in the area must pass a DR 4 Blood save or be Restrained until the end of their next turn.
+
+### Tactics
+The Bonelord Archon fights from behind a wall of summoned undead. It opens by casting Raise Dead to establish a screen, then bombards the party with Soul Scourge from maximum range. It uses Necrotic Detonation when enemies cluster or breach its undead line — the simultaneous healing of allies and damage to foes makes melee engagement punishing. It saves Legendary Resistance for disabling effects and uses Command Undead to focus-fire vulnerable targets.
+
+**Encounter Design:** Pair with 4 Feralslave Ghouls and 1 Grave-Knight Commander (TV 3) for a full TV 8 encounter. The Archon uses Command Undead to coordinate the Commander's alpha strikes while maintaining its own ranged pressure.
+
+### Loot
+- Archon's staff (acts as a spellcasting focus; grants +1 die on Necromancy checks) — **Trade Value**: 200 supplies
+- Phylactery shard (if the phylactery is found and shattered — powerful component for anti-undead rituals) — **Trade Value**: 300 supplies
+- Necrotic grimoire (contains 3 Necromancy spells of the GM's choice) — **Trade Value**: 150 supplies
+- Dark essence vial (concentrated necrotic energy; can be used to craft a weapon that deals +4 Necrotic damage) — **Trade Value**: 120 supplies
+
+### Scaling Options
+- **Bonelord Acolyte (Boss, TV 4):** HP 80, DV 5, Soul 5, Necromancy 4. Loses Legendary Actions, Lair Action, and Phylactery Bond. Raise Dead summons only 1 Ghoul. SE reduced to 30.
+- **Bonelord Sovereign (Legendary, TV 9):** HP 180, DV 6, Soul 7, Necromancy 6. Gains 3 Legendary Actions/round. Raise Dead summons 3 Revenants or 1 Grave-Knight Commander. Add Regional Effects: undead within 1 mile are drawn to the Sovereign's lair, and living creatures within 500 feet have Disadvantage on death saves.
+
+---
+
 *"Death is not the end in Nosgoth. It is merely... a transition."*
+
+---
+
+## 1.14 Risen Thrall
+
+**Type:** Undead (Mindless)
+**Threat Tier:** Minion
+**Threat Value (TV):** 0.25
+
+### Lore
+Risen Thralls are the most basic product of necromantic reanimation — freshly dead corpses given just enough dark energy to walk and obey. They retain no memory, no personality, and no purpose beyond whatever crude directive their creator has embedded in the necrotic binding. Most are set to "attack anything living," which is more than sufficient for battlefield fodder.
+
+Unlike Feralslave Ghouls, which are animated by lingering soul-fragments, Risen Thralls are pure constructs of dark energy. They collapse the moment the animating force is disrupted, making them cheap to create and cheap to destroy. Vampire lords and cultists alike favor them as expendable soldiers, obstacle clearers, and distractions.
+
+### Statistics
+- **HP:** 7
+- **DV:** 2
+- **Armor:** 0
+- **Movement:** 20 feet (4 squares)
+- **Attributes:** Fury 2, Soul 0, Shadow 0, Will 0, Focus 0, Blood 0 (Immune to Blood-based effects)
+- **Skills:** None
+- **SE:** N/A | **BP:** N/A
+
+### Attacks & Abilities
+
+**Lurching Strike** (Action)
+- **Dice Pool:** Fury 2 = 2d6
+- **Damage:** 3 physical (Bludgeoning)
+- **Special:** If the Thrall rolls 2 successes, the target is Staggered (−1 die on next action)
+
+### Special Abilities
+
+**Mindless Advance:** Immune to Frightened, Charmed, and Confused. Cannot be demoralized. Ignores difficult terrain caused by writhing undead or corpse-piles.
+
+**Undead Nature:** Immune to Soul Drain, poison, and disease. Takes double damage from Radiant sources.
+
+**Slow:** Cannot use Reactions. Movement is always 20 feet regardless of modifiers.
+
+**Collapse on 0 HP:** When reduced to 0 HP, the Thrall simply crumples — no death throes.
+
+### Tactics & Strategy
+Risen Thralls swarm and absorb damage. Their sole value is being in the way. GMs should use 4–8 at a time to slow down the party and drain resources before the real threats arrive. Players who use area-damage abilities will clear them efficiently; single-target specialists will feel the weight of attrition.
+
+### Loot (Optional)
+- Scraps of armor or fabric (worthless)
+- Necrotic shard (faint residual energy; alchemical component) — **Trade Value**: 2 supplies
+
+### Scaling Options
+- **Armored Thrall (Standard, TV 1):** HP 14, DV 3, Armor 2. Gains Shield Block (Reaction: reduce melee damage by 3).
+- **Charged Thrall (Elite, TV 2):** HP 25, DV 3, Armor 1. Explodes on death: 10-foot radius, 4 Necrotic damage, DR 2 Blood save to halve.
+
+---
+
+## 1.15 Vampiric Fledgling
+
+**Type:** Undead (Intelligent, Newly-Turned)
+**Threat Tier:** Standard
+**Threat Value (TV):** 1
+
+### Lore
+Vampiric Fledglings are the newly-turned — mortals who received the Dark Gift within the last year. They still carry the memories of their human lives but are rapidly losing them to hunger and the territorial instincts of their new nature. Most are confused, desperate, and dangerous.
+
+Fledglings have not yet mastered the full array of vampiric powers, but they are significantly stronger and faster than mortals. Their blood-hunger overrides reason in combat; when wounded, they enter brief frenzies that temporarily make them more lethal. Elder vampires use Fledglings as expendable shock troops, knowing they will be replaced by the next feeding.
+
+### Statistics
+- **HP:** 16
+- **DV:** 4 (1 + Shadow 2 + Blood 1)
+- **Armor:** 0
+- **Movement:** 35 feet (7 squares)
+- **Attributes:** Fury 3, Soul 1, Shadow 2, Will 2, Focus 2, Blood 3
+- **Skills:** Stealth 2, Intimidation 1
+- **SE:** 8 | **BP:** 4
+
+### Attacks & Abilities
+
+**Frenzied Bite** (Action)
+- **Dice Pool:** Fury 3 + Melee 2 = 5d6
+- **Damage:** 5 Piercing + 2 Blood Drain (target loses 2 BP; if 0 BP, takes 2 extra damage)
+- **Special:** The Fledgling regains 2 HP on a successful hit
+
+**Claw Swipe** (Action)
+- **Dice Pool:** Fury 3 + Melee 1 = 4d6
+- **Damage:** 4 physical (Slashing)
+- **Special:** Can be used as a second action if the Frenzied Bite missed
+
+### Special Abilities
+
+**Blood Frenzy (Reaction):** When the Fledgling is reduced below half HP, it immediately makes one free Frenzied Bite attack against the nearest creature. This cannot trigger again until it is at full HP.
+
+**Vampiric Resilience:** Immune to Soul Drain, poison, disease. Regains 2 HP at the start of each turn if it fed within the last minute (has ≥1 BP drained from a living target this combat).
+
+**Sunlight Sensitivity:** In direct sunlight, the Fledgling has −2 dice on all attack rolls and saves and loses Vampiric Resilience regeneration.
+
+**Uncontrolled Hunger:** If the Fledgling witnesses a creature at 0 HP, it must make a DR 2 Will save or spend its next action feeding on that creature instead of engaging other targets.
+
+### Tactics & Strategy
+Fledglings rush the closest target, prioritizing wounded PCs to chain their Blood Frenzy proc. They are reckless — an elder vampire directing them might position them to absorb flanking attacks. When a Fledgling enters its second Frenzy, other enemies should press their advantage; the distraction is free action economy.
+
+### Loot
+- Blood-soaked clothing (still warm; unsettling)
+- Personal effect from their mortal life (potential plot hook) — **Trade Value**: varies
+- Fledgling fang (1, alchemical component; dark vitality) — **Trade Value**: 8 supplies
+
+### Scaling Options
+- **Desperate Fledgling (Minion, TV 0.25):** HP 10, DV 3. Remove Blood Frenzy. Acts as a half-turned thrall with even less control.
+- **Blooded Fledgling (Elite, TV 2):** HP 28, DV 5, Blood 4. Add Mist Step (Bonus Action, 2 SE): teleport 20 feet. Blood Frenzy triggers twice before resetting.
+
+---
+
+## 1.16 Skeletal Archer
+
+**Type:** Undead (Mindless, Ranged)
+**Threat Tier:** Minion
+**Threat Value (TV):** 0.25
+
+### Lore
+Skeletal Archers are the necromancer's answer to a problem: how do you threaten enemies at range when your undead army consists of slow, shambling corpses? The solution is typically the skeleton of a soldier or hunter, animated with specific targeting directives and placed atop walls, in window sills, or on elevated positions. They don't need cover. They don't need to reload. They just aim and fire until destroyed.
+
+Archers are more tactically valuable than their TV suggests; their positioning advantage can punish parties that lack ranged responses, and they draw fire away from the actual threats.
+
+### Statistics
+- **HP:** 5
+- **DV:** 2
+- **Armor:** 0
+- **Movement:** 25 feet (5 squares)
+- **Attributes:** Fury 1, Soul 0, Shadow 1, Will 0, Focus 2, Blood 0 (Immune to Blood-based effects)
+- **Skills:** Ranged 1
+- **SE:** N/A | **BP:** N/A
+
+### Attacks & Abilities
+
+**Shortbow** (Action)
+- **Dice Pool:** Focus 2 + Ranged 1 = 3d6
+- **Damage:** 3 Piercing
+- **Range:** 60 feet (12 squares)
+- **Special:** Skeletal Archers can fire into melee without disadvantage (they lack the judgment to care)
+
+### Special Abilities
+
+**Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant sources.
+
+**Dead Eyes:** Immune to Blinded, Frightened, and all emotion-based effects; unaffected by Darkness (no vision to impair).
+
+**Brittle Frame:** When a Skeletal Archer takes 5 or more damage from a single hit, it must make a DR 2 Blood save (use GM discretion since it has no Blood) or fall to 0 HP (shatters outright). Treat as auto-fail.
+
+### Tactics & Strategy
+Place Skeletal Archers in elevated positions, windows, or behind barricades. They fire at the nearest moving target in the open. Intelligent commanders will position them to cover choke points. Once PCs enter melee range of an Archer, it switches to a desperate Shove (Fury 1 = 1d6, 2 Bludgeoning, no special) and retreats. They are worth 0 XP but serious attrition hazards in swarms of 4–6.
+
+### Loot (Optional)
+- Arrow fragments (2d6, standard quality) — **Trade Value**: 1 supply each
+- Bone material (raw material) — **Trade Value**: 1 supply
+
+### Scaling Options
+- **Veteran Skeletal Archer (Standard, TV 1):** HP 10, DV 3, Focus 3, Ranged 2. Add Pinning Shot: on hit, DR 2 Blood save or target's movement is halved until end of next turn.
+- **Cursed Archer (Elite, TV 2):** HP 18, DV 3. Arrows deal 2 extra Necrotic damage and inflict Bleeding. Add Death's Aim: once per encounter, makes two arrow attacks with one action.
+
+---
+
+## 1.17 Skeletal Knight
+
+**Type:** Undead (Mindless, Armored)
+**Threat Tier:** Standard
+**Threat Value (TV):** 1
+
+### Lore
+Skeletal Knights are the remains of fallen soldiers, tomb guardians, or executed champions, animated with enough purpose to wield the weapons and armor of their former lives. Unlike Feralslave Ghouls, which are driven purely by hunger, Skeletal Knights retain fragments of martial instinct — they hold formation, block doorways, and execute simple commands with grim efficiency.
+
+Vampire lords prize them as palace guards and tomb sentinels. They don't sleep, don't demand pay, and don't frighten. The only maintenance required is occasional re-animation after battlefield losses.
+
+### Statistics
+- **HP:** 12
+- **DV:** 3 (1 + Fury 2)
+- **Armor:** 2 (corroded plate)
+- **Movement:** 25 feet (5 squares)
+- **Attributes:** Fury 2, Soul 0, Shadow 1, Will 1, Focus 1, Blood 0 (Immune to Blood-based effects)
+- **Skills:** Melee 2
+- **SE:** N/A | **BP:** N/A
+
+### Attacks & Abilities
+
+**Longsword** (Action)
+- **Dice Pool:** Fury 2 + Melee 2 = 4d6
+- **Damage:** 5 physical (Slashing)
+
+**Shield Bash** (Bonus Action, requires Shield)
+- **Dice Pool:** Fury 2 = 2d6
+- **Damage:** 3 Bludgeoning
+- **Special:** On hit, target must make DR 2 Blood save or be Staggered (−1 die on next action)
+
+### Special Abilities
+
+**Shield Block (Reaction):** When hit by a melee attack, the Skeletal Knight reduces damage by 3.
+
+**Undead Sentinel:** Immune to Soul Drain, poison, disease. Not affected by Frightened, Charmed, or morale-based effects.
+
+**Martial Echo:** The Skeletal Knight fights with faint remnants of its former training. It will Hold a position, provide cover to adjacent undead, and use Shield Bash before Longsword when outnumbered.
+
+### Tactics & Strategy
+Skeletal Knights are the doorstep guardians of Nosgoth's dungeons. They hold corridors, guard doorways, and block retreat routes. Pair with 2–4 Risen Thralls (who absorb hits) and 2 Skeletal Archers (who fire over the Knight's shoulder) for a TV 3–4 encounter that tests positioning and resource management without being overwhelming.
+
+### Loot
+- Corroded sword (serviceable but degraded) — **Trade Value**: 5 supplies
+- Corroded plate fragments (armorer can salvage) — **Trade Value**: 4 supplies
+- Bone material — **Trade Value**: 1 supply
+
+### Scaling Options
+- **Knight-Commander (Elite, TV 2):** HP 22, DV 4, Armor 3, Fury 3, Will 2, Melee 3. Add **Rally the Dead (Action, 1/encounter):** All undead allies within 30 feet gain +1 die on attacks until end of the Knight-Commander's next turn.
+- **Deathguard Champion (Boss, TV 4):** HP 50, DV 5, Armor 4, Fury 4, Will 3. Add Legendary Resistance (1/day). Longsword deals 8 damage + Bleeding. Add Charge (2 actions): move up to 30 feet in a line; all creatures in path make DR 3 Blood save or take 6 damage and are knocked Prone.
+
+---
+
+*"Death is not the end in Nosgoth. It is merely... a transition. But for the mindless dead, it is not even a beginning."*

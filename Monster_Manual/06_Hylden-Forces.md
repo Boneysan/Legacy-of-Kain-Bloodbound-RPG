@@ -710,6 +710,269 @@ They serve as force multipliers for Hylden operations: opening rifts to bring re
 - Shadow: 3
 - Will: 5
 - Focus: 4
+
+**Skills**:
+- Rift Manipulation (Soul): 5
+- Corruption Channeling (Soul): 4
+- Hylden Lore (Focus): 3
+- Intimidation (Will): 3
+- Observation (Focus): 3
+
+#### Attacks
+**Corruption Lance** (Soul 5 + Corruption Channeling 4 = 9d6 vs Will)
+- Range: 60 feet
+- Damage: 8 Corruption damage
+- Effect: On hit, target must pass a DR 3 Will save or gain 1 Corruption point.
+
+**Rift Tear** (Action, costs 5 SE)
+- Range: 30-foot radius centered on a point within 60 feet
+- Dice Pool: Soul 5 + Rift Manipulation 5 = 10d6 vs Shadow
+- Effect: A dimensional tear opens. Creatures in the area must defend or be teleported to a random location within 30 feet (1d8 direction, 3d6 feet distance). On Critical Hit, the target is also Disoriented (Disadvantage on next action) from dimensional vertigo.
+
+**Corruption Pulse** (Action, costs 8 SE, Recharge 5-6)
+- Range: 20-foot radius centered on the Rift-Priest
+- Dice Pool: Soul 5 + Corruption Channeling 4 = 9d6 vs Will
+- Damage: 10 Corruption damage
+- Effect: Half damage on successful defense. Creatures that take full damage must pass a DR 4 Will save or gain 1 Corruption point. Hylden allies in the area are healed for 5 HP instead.
+
+**Dimensional Tether** (Action, costs 6 SE, 1/encounter)
+- Range: Self
+- Effect: The Rift-Priest opens a small rift and summons 1d3 Hylden-Possessed Grunts (TV 0.25 each) to the battlefield. They appear within 15 feet of the Rift-Priest and act on its initiative.
+
+#### Abilities
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
+
+**Rift Conduit** (Passive): The Rift-Priest's ritual scars glow brighter as it spends SE. For every 10 SE spent, all Hylden allies within 30 feet gain +1 die on their next attack roll (the dimensional energy empowers them).
+
+**Phase Anchor** (Passive): The Rift-Priest cannot be banished, teleported, or moved by force against its will while it maintains concentration on a rift. Destroying the rift (HP 20, DV 3, Armor 0 — attack the air where it shimmers) breaks this protection.
+
+**Sacrificial Host** (Passive): When the Rift-Priest is reduced to 0 HP, the Hylden mind abandons the mortal host. The host dies instantly. If there is a living mortal within 30 feet (PC, NPC, or summoned Grunt), the Hylden can attempt to possess them (target must pass a DR 4 Will save or become the new host — the Rift-Priest returns at half HP on its next turn).
+
+#### Tactics
+- **Support Position**: The Rift-Priest fights from behind Shock Troopers and Grunts, using Corruption Lance at range and Rift Tear to scatter enemy formations.
+- **Corruption Pressure**: It uses Corruption Pulse when enemies cluster, forcing Will saves and spreading Corruption. This creates long-term consequences even if the party wins.
+- **Summoner**: Dimensional Tether provides fodder to absorb attacks and triggers Rift Conduit bonuses.
+- **Hard to Kill**: Sacrificial Host means the party must kill all potential hosts nearby before finishing the Rift-Priest, or it simply transfers to a new body.
+
+#### Loot
+- Rift-attuned focus crystal (can be used to detect dimensional weak points within 100 feet) — **Trade Value**: 80 supplies
+- Bio-ritual vestments (Armor 2 vs Physical, immune to Spectral damage; requires Hylden attunement to wear safely) — **Trade Value**: 60 supplies
+- Dimensional residue (3 vials; component for teleportation magic or crafting phase-shift items) — **Trade Value**: 40 supplies per vial
+- Corruption-stained scroll (contains the ritual for opening minor rifts — dangerous knowledge) — **Trade Value**: 100 supplies (to scholars or rival factions)
+
+#### Scaling Options
+**Rift Initiate (Standard, TV 1):** HP 25, DV 3, Soul 3, Rift Manipulation 2. Loses Corruption Pulse, Dimensional Tether, and Sacrificial Host. Corruption Lance deals 5 damage. SE reduced to 8.
+
+**Rift Archon (Boss, TV 4):** HP 80, DV 5, Soul 6, Rift Manipulation 5. Gains Legendary Resistance (1/day) and 1 Legendary Action/round (Corruption Lance). Rift Tear radius increases to 40 feet. Dimensional Tether summons 1d6 Grunts.
+
+---
+
+### 10. Hylden-Possessed Grunt
+
+**Type**: Hylden (Possessed Mortal, Expendable)  
+**Threat Tier**: Minion  
+**Threat Value (TV):** 0.25  
+**Recommended Levels**: 1-6
+
+#### Lore
+Hylden-Possessed Grunts are the lowest tier of Hylden incursion forces — expendable mortal husks animated by fragmentary Hylden consciousness. Unlike Shock Troopers, which are possessed by complete Hylden minds, Grunts receive only a sliver of alien will — enough to obey commands and wield crude weapons, but not enough to think independently. The host bodies are visibly deteriorating: skin mottled with green-black veins, eyes glowing faintly, movements jerky and mechanical.
+
+Grunts are cannon fodder. Hylden commanders send them in waves to absorb enemy resources, scout defenses, and create chaos. They are disposable by design — the Hylden fragment within them self-destructs when the host body fails, sometimes taking nearby enemies with it.
+
+#### Stats
+- **HP**: 8
+- **Defense Value (DV)**: 3
+- **Difficulty Rating (DR)**: 1 (all saves)
+- **Movement**: 25 feet per turn
+- **Armor**: 0 (rotting flesh)
+- **Soul Energy (SE):** N/A
+- **Blood Points (BP):** N/A
+
+**Attributes**:
+- Fury: 2
+- Soul: 1
+- Shadow: 2
+- Will: 1
+- Focus: 1
+- Blood: 1
+
+**Skills**:
+- Melee (Fury): 1
+
+#### Attacks
+**Crude Weapon Strike** (Fury 2 + Melee 1 = 3d6 vs Parry)
+- Range: Melee
+- Damage: 3 Physical damage
+
+**Corrupted Grasp** (Fury 2 + 1 = 3d6 vs Dodge, 1/encounter)
+- Range: Melee
+- Damage: 2 Corruption damage
+- Effect: On hit, target must pass a DR 1 Will save or have Disadvantage on their next action (the Hylden fragment's malice pulses into them).
+
+#### Abilities
+**Hylden Nature (Partial):** Immune to Spectral effects and mind control. Not immune to possession (the existing Hylden fragment is too weak to resist a stronger will). Resistant to Soul damage (half damage).
+
+**Hivemind Fodder** (Passive): Gains +1 die on all attack rolls when within 10 feet of another Hylden creature (the partial fragment resonates with stronger Hylden minds nearby).
+
+**Expendable Host** (Passive): When reduced to 0 HP, there is a 25% chance (roll 1 on 1d4) the Hylden fragment detonates. All creatures within 5 feet take 4 Corruption damage (DR 1 Will save for half).
+
+#### Tactics
+Grunts swarm in groups of 4–8. They rush the nearest enemy and attack mindlessly. Their only real tactic is overwhelming numbers — they cluster around priority targets to trigger Hivemind Fodder bonuses and force Expendable Host detonations in close quarters.
+
+**Encounter Design:** Use Grunts as expendable screens for more valuable Hylden. Pair 8 Grunts (TV 2 total) with 1 Shock Trooper (TV 2) and 1 Rift-Priest (TV 3) for a combined-arms TV 7 encounter that teaches players to prioritize targets.
+
+#### Loot
+- Crude weapon (rusted sword, club, or farming implement) — **Trade Value**: 1 supply
+- Corrupted mortal's personal effects (letters, trinkets — may provide plot information) — **Trade Value**: varies
+- Hylden residue (the green-black substance coating the corpse; component for Corruption research) — **Trade Value**: 3 supplies
+
+---
+
+### 11. Hylden Dimension Lord
+
+**Type**: Hylden (True Hylden, Commander)  
+**Threat Tier**: Legendary  
+**Threat Value (TV):** 8  
+**Recommended Levels**: 15-20
+
+#### Lore
+Hylden Dimension Lords are among the most powerful Hylden to cross the barrier — ancient minds that have spent millennia in the dimension of banishment, their hatred and intellect sharpened to a killing edge. Unlike most Hylden who possess mortal hosts, a Dimension Lord has accumulated enough power to manifest in a semi-physical form: a towering figure of warped geometry and sickly light, part flesh and part dimensional energy. Their bodies are wrong — limbs too long, joints that bend backward, a face that shifts between expressions that don't exist in mortal anatomy.
+
+Dimension Lords command Hylden invasion forces at the strategic level. They are generals, governors, and high priests rolled into one. They open permanent rifts, direct armies of Shock Troopers and Rift-Priests, and personally obliterate anything that threatens the invasion. Their presence destabilizes reality itself — gravity warps, colours bleed, and the barrier between dimensions thins to tissue-paper in their vicinity.
+
+Only a handful of Dimension Lords exist. Each one represents a full-scale existential threat to a region of Nosgoth.
+
+#### Stats
+- **HP**: 200
+- **Defense Value (DV)**: 6
+- **Difficulty Rating (DR)**: 5 (Will saves), 4 (other saves)
+- **Movement**: 35 feet per turn (hover)
+- **Armor**: 5 (Dimensional Warp-Plate — space itself bends around them)
+- **Soul Energy (SE):** 60
+- **Blood Points (BP):** N/A
+
+**Attributes**:
+- Fury: 5
+- Soul: 7
+- Shadow: 4
+- Will: 6
+- Focus: 5
+- Blood: 0
+
+**Skills**:
+- Dimensional Manipulation (Soul): 6
+- Corruption Channeling (Soul): 5
+- Hylden Tactics (Focus): 5
+- Intimidation (Will): 5
+- Arcana (Soul): 5
+- Observation (Focus): 4
+
+#### Attacks
+**Rift Claw** (Fury 5 + 4 = 9d6 vs Parry)
+- Range: Melee (10 feet)
+- Damage: 12 Physical (Slashing) + 6 Corruption
+- Effect: On hit, target is pushed 10 feet in a direction of the Lord's choice (rift energy displaces them). On Critical Hit, the target is also Disoriented (Disadvantage on next action).
+
+**Dimensional Implosion** (Action, costs 10 SE)
+- Range: 30-foot radius centered on a point within 90 feet
+- Dice Pool: Soul 7 + Dimensional Manipulation 6 = 13d6 vs Shadow
+- Damage: 14 Force + 6 Corruption
+- Effect: Half damage on successful defense. The center of the implosion becomes a 10-foot gravity anomaly for 2 rounds (difficult terrain; creatures entering or starting turn there must pass DR 3 Shadow save or be pulled to center).
+
+**Corruption Storm** (Action, costs 15 SE, Recharge 5-6)
+- Range: 40-foot radius centered on the Dimension Lord
+- Dice Pool: Soul 7 + Corruption Channeling 5 = 12d6 vs Will
+- Damage: 16 Corruption damage
+- Effect: Half damage on successful defense. All creatures that take full damage gain 1 Corruption point. All Hylden allies in the area are healed for 10 HP.
+
+**Rift Command** (Action, costs 12 SE, 2/encounter)
+- Range: Self
+- Effect: The Dimension Lord tears open a major rift and summons one of the following (Lord's choice): 4 Hylden-Possessed Grunts (TV 0.25), 2 Hylden Shock Troopers (TV 2), or 1 Hylden Rift-Priest (TV 3). Summoned units appear within 20 feet and act on the Lord's initiative.
+
+#### Abilities
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
+
+**Reality Distortion Aura (Enhanced)** (Passive): All non-Hylden creatures within 20 feet have Disadvantage on Observation checks and Focus-based saves. Ranged attacks that pass through the aura have their dice pools reduced by 2.
+
+**Dimensional Anchor** (Passive): The Dimension Lord cannot be banished, teleported, or moved between planes against its will. It exists partially outside normal reality and cannot be fully trapped.
+
+**Warp Shield** (Reaction, 3/encounter): When targeted by an attack, the Dimension Lord folds space around itself. The attack is redirected to a creature of the Lord's choice within 15 feet (that creature must be a valid target). If no valid target exists, the Lord instead gains +4 DV against the attack.
+
+**Unstable Form** (Passive): When reduced to 50 HP or below, the Dimension Lord's form destabilizes. It gains +2 Armor (space warps protectively) but loses the ability to use Rift Command. Its attacks deal +4 Corruption damage as uncontrolled dimensional energy bleeds outward.
+
+**Legendary Resistance (3/day):** If the Dimension Lord fails a saving throw, it can choose to succeed instead.
+
+#### Legendary Actions (3/round)
+- **Rift Claw (1 action):** Make one Rift Claw attack.
+- **Dimensional Shift (1 action):** Teleport up to 30 feet. This does not provoke opportunity attacks.
+- **Warp Pulse (2 actions):** Every creature within 15 feet must pass DR 4 Shadow save or be teleported 20 feet in a random direction (1d8). Creatures that impact solid objects take 6 Bludgeoning damage.
+- **Corruption Siphon (2 actions):** Target one creature within 30 feet with 1+ Corruption points. That creature takes 8 Corruption damage (no save) and the Dimension Lord heals for the same amount.
+
+#### Lair Action
+**Dimensional Breach:** If the encounter takes place near a Hylden rift or in a Hylden-controlled zone, one of the following occurs on initiative count 20:
+- **Reality Fracture:** A 15-foot line of dimensional energy crosses the battlefield. Creatures in the line take 8 Force damage (DR 3 Shadow save for half).
+- **Gravity Flux:** Gravity in a 20-foot area reverses for 1 round. Creatures in the area must pass DR 3 Shadow save or fall upward 15 feet and land prone (taking 6 Bludgeoning damage).
+- **Reinforcement Rift:** A minor rift opens; 1d2 Hylden-Possessed Grunts step through.
+
+#### Regional Effects
+- Within 1 mile of a Dimension Lord's base of operations, reality frays: compasses spin, shadows point wrong, and Corruption checks are made at Disadvantage.
+- Living creatures that long rest within 1 mile must pass DR 2 Will save or gain 1 Corruption point (nightmares of the banished dimension).
+- Spectral creatures cannot enter the affected region (dimensional interference).
+
+#### Tactics
+- **Strategic Commander**: The Dimension Lord rarely fights without a retinue. It summons reinforcements early with Rift Command, then positions itself to maximize Reality Distortion Aura coverage while allies engage.
+- **Disruption and Control**: Dimensional Implosion and Warp Pulse scatter formations. Warp Shield redirects damage to allies or summoned fodder. The Lord fights a battle of positioning, not attrition.
+- **Corruption as a Weapon**: Corruption Storm and Corruption Siphon create a Corruption feedback loop — the more Corruption PCs accumulate, the more the Lord can heal. Parties should bring Corruption resistance or cleansing.
+- **Phase Two**: When Unstable Form triggers, the Lord becomes more dangerous but loses summoning. This is the window to finish it — before the +4 Corruption damage stacks become overwhelming.
+
+**Encounter Design:** A Dimension Lord should be a multi-session arc villain. The first encounter might be against its forces while the Lord projects its presence. The final confrontation should pit the party (TV 20+) against the Lord (TV 8), a Rift-Priest (TV 3), 2 Shock Troopers (TV 4), and waves of Grunts — a full invasion force. Total TV ~17–19.
+
+#### Loot
+- Dimensional Warp-Plate fragment (can be forged into armor that grants Warp Shield 1/day) — **Trade Value**: 400 supplies
+- Rift Core (a crystallized chunk of dimensional energy; key component for sealing or opening permanent rifts) — **Trade Value**: 500 supplies (priceless to certain factions)
+- Lord's Tactical Codex (a Hylden data-crystal containing invasion plans for the region — major plot hook) — **Trade Value**: 300 supplies (to any government or resistance leader)
+- Corruption Nexus (a swirling orb of concentrated Corruption; can be weaponized or purified) — **Trade Value**: 250 supplies, extremely dangerous
+
+#### Scaling Options
+**Hylden Rift Commander (Boss, TV 4):** HP 90, DV 5, Soul 5, Armor 3. Loses Legendary Actions, Lair Action, Regional Effects, and Warp Shield. Rift Command summons only Grunts. SE reduced to 30.
+
+**Hylden Overlord (Legendary, TV 12):** HP 300, DV 6, Soul 8, Armor 7. Gains 4 Legendary Actions/round. Corruption Storm recharges on 4-6. Rift Command gains a third use and can summon a Horror Warden (TV 2). Add **Dimensional Collapse (1/encounter):** The Overlord rips a 60-foot zone of reality apart. All creatures in the zone take 25 Force + 10 Corruption damage (DR 5 Shadow save for half). The zone becomes an impassable rift for 3 rounds.
+
+---
+
+## Named Hylden NPCs
+
+The Hylden are campaign villains — yet the faction lacks named individuals to anchor narratives. The following named NPCs can be used as recurring antagonists, each representing a different facet of Hylden strategy. Use their personalities to seed campaign arcs and give the otherwise alien Hylden a face.
+
+### General Zeth'kur, the Siege-Mind
+
+**Role:** Military Strategist (use Hylden Dimension Lord stat block, TV 8, or scale to TV 12 Hylden Overlord)
+
+A Hylden general who has spent ten thousand years planning the reconquest of Nosgoth from within the banishment dimension. Zeth'kur does not hate mortals or vampires — he regards them as variables in an equation. He is coldly rational, methodical, and terrifyingly competent. His invasion plans involve decades-long infiltration through possessed agents before any overt military action.
+
+**Personality:** Calm, precise, speaks in measured tones. Addresses enemies by name — he has studied them. Never threatens; simply states consequences.
+
+**Campaign Hook:** The party discovers that key political figures across multiple settlements have been Hylden-possessed for years. The trail leads to Zeth'kur's forward operations base.
+
+### Oracle Ysh'rana, the Whispering Wound
+
+**Role:** Spiritual Leader / Corruption Specialist (use Void-Spoken Oracle stat block, TV 4, or scale to TV 6+)
+
+The spiritual heart of Hylden incursions in the region. Ysh'rana believes the Corruption is not a weapon but a gift — a way to dissolve the barrier between dimensions permanently and "heal" the wound that separated the Hylden from their home. She is a true believer, fervent and persuasive, and her sermons can convert even reluctant Hylden to her cause.
+
+**Personality:** Passionate, empathetic (from her perspective), maternal. She genuinely grieves for each Grunt that falls and sees the party as tragically misguided children who refuse a cure.
+
+**Campaign Hook:** Corruption is spreading faster than natural causes would explain. Investigation reveals Ysh'rana is conducting rituals at Pillar sites, accelerating dimensional decay.
+
+### Vex'thal the Unbound
+
+**Role:** Rogue Agent / Wild Card (use Hylden Shock Trooper stat block at TV 2 base, or scale to TV 5 as a unique Elite)
+
+Not all Hylden agree with the invasion. Vex'thal is a deserter — a Hylden mind that rebelled against the collective command structure and now operates independently. It possesses mortal hosts one at a time, living as a fugitive in mortal society. Vex'thal has no loyalty to the Hylden cause but is also no friend to Nosgoth's inhabitants. It wants only to survive, and it will betray anyone to do so.
+
+**Personality:** Sardonic, paranoid, darkly humorous. Switches hosts frequently. May approach the party as an informant — but always has an angle.
+
+**Campaign Hook:** Vex'thal offers intelligence on Hylden operations in exchange for protection. The information is genuine, but Vex'thal is also leading the party into eliminating its personal enemies within the Hylden hierarchy.
 - Blood: 2
 
 **Skills**:
@@ -987,6 +1250,78 @@ Even winning against Hylden has costs:
 - Survivors carry trauma (Break the Mind, Spectral Prison)
 
 Show that fighting Hylden is never clean or easy.
+
+---
+
+### 12. Hylden War-Stalker
+
+**Type**: Hylden-Corrupted Beast (Hybrid)
+**Threat Tier**: Elite (TV 2)
+**Recommended Levels**: 4–8
+
+#### Lore
+Hylden War-Stalkers are what happens when Hylden Rift-Priests apply their biological corruption techniques to Nosgoth's native predators — usually large feline or reptilian creatures captured near their crossing points. The result is a thing that is neither entirely animal nor entirely Hylden creation: a corrupted beast under partial psychic control, its physiology altered by Hylden-pattern biological magic to be faster, more aggressive, and equipped with a biological weapon the original creature never possessed.
+
+War-Stalkers bear the telltale visual signatures of Hylden tampering: that sickly bioluminescent stripe along the spine, the corruption-swollen musculature that gives them unnatural strength, and the oily purple-black ichor that drools from modified salivary glands and can trigger brief Corruption exposure in those it coats. They are kept on retractable psychic leashes by their Hylden handlers — far enough from the handler to act independently, close enough to recall if they go too feral.
+
+When their handler is killed, the psychic tether snaps, and the War-Stalker enters a full Frenzy — often more dangerous than before, because it no longer has even the rudimentary tactical direction of the Hylden binding.
+
+#### Stats
+- **HP**: 32
+- **DV**: 5 (1 + Fury 4)
+- **Armor**: 1 (tough hide)
+- **Movement**: 45 feet (9 squares)
+- **Soul Energy (SE):** 14
+
+**Attributes**:
+- Fury: 4
+- Soul: 1
+- Shadow: 3
+- Will: 2
+- Focus: 2
+- Blood: 3
+
+**Skills**:
+- Stealth (Shadow): 3
+- Tracking (Focus): 2
+- Athletics (Fury): 3
+
+#### Attacks
+**Rending Claws** (Action)
+- **Dice Pool:** Fury 4 + Melee 2 = 6d6 (GM may use Athletics 3 as the skill)
+- **Range:** Melee
+- **Damage:** 7 physical (Slashing)
+- **Effect:** On a critical hit (3+ successes), target is Bleeding (2 physical damage per turn until treated)
+
+**Hylden Bile Spit** (Action, costs 4 SE)
+- **Dice Pool:** Focus 2 + Ranged 2 = 4d6
+- **Range:** 30 feet
+- **Damage:** 5 Corruption damage (the bile is not acid — it carries Hylden corruption energy)
+- **Effect:** Target must make DR 3 Will save or gain **1 Corruption point**. The ichor also halves all Fire, Radiant, and magical damage the target deals for 1 round (the corruption film interferes with magical projection)
+
+#### Abilities
+**Pounce (Action, Recharge 5-6):**
+- The War-Stalker leaps up to 25 feet to a target. This movement does not provoke opportunity attacks. On impact, make a Rending Claws attack with +2 dice. On hit, the target is knocked **Prone** and Grappled (escape DR 3 Fury + Athletics).
+
+**Hylden Bond (Passive):** While a Hylden handler (Grunt, Shock Trooper, Rift-Priest, or higher) is within 30 feet of the War-Stalker, it gains +1 die on all attack rolls and Advantage on saves vs Fear and Confusion. The Bond range is visible as a faint crackling violet thread along the Stalker's spine.
+
+**Feral Frenzy (Passive, triggers when handler is killed or departs beyond 30 feet):** The War-Stalker immediately gains +2 Fury (attacks become Fury 6 base) for the remainder of combat. However, it loses Hylden Bond and Hylden Bile Spit (the Hylden conditioning breaks down) and may attack any creature indiscriminately, including former Hylden allies — GM discretion on targeting priority.
+
+**Corrupted Scent:** The War-Stalker can detect creatures with any Corruption points within 120 feet by scent, regardless of concealment or invisibility. It prioritizes Corrupted targets for attack (sees them as "marked" by Hylden corruption).
+
+#### Tactics
+The War-Stalker begins combat in Stealth (Stealth 3), waiting for the Hylden handler to trigger the engagement. On the first round, it uses Pounce to knock down the party's most armored melee fighter, applying Hylden Bile Spit on the second round to neuter their damage output. If the handler is killed early (a common tactic), the Frenzy creates an unpredictable second threat — suddenly the Hylden positioning becomes chaotic as their controlled weapon turns on everything.
+
+**Encounter Design:** A Hylden War-Stalker (TV 2) paired with 2 Hylden Shock Troopers (TV 1 each) and 1 Hylden Rift-Priest (TV 3) creates a TV ~4 encounter with excellent dynamic tension: killing the Rift-Priest first liberates two powerful Stalkers, while killing the Stalkers first costs the Rift-Priest its most effective weapon.
+
+#### Loot
+- Corrupted hide (partial — some is too damaged) — **Trade Value**: 12 supplies
+- Bioluminescent spine gland (alchemical; produces Hylden-fire dye and components) — **Trade Value**: 20 supplies
+- Hylden leash crystal (the psychic tether anchor, found on the handler's body; a skilled artificer might study it) — **Trade Value**: 30 supplies
+
+#### Scaling Options
+**Fledgling War-Stalker (Standard, TV 1):** HP 18, DV 4, Fury 3, SE 6. Rending Claws deal 5 damage. No Hylden Bile Spit. Frenzy gives +1 Fury only.
+**Veteran War-Stalker (Boss, TV 4):** HP 60, DV 6, Fury 5, SE 25. Rending Claws deal 10 damage + Bleeding on any hit. Hylden Bile Spit now deals 7 Corruption damage and auto-applies 1 Corruption point (no save). Add **Bone-Breaker (1/encounter):** on landing a Pounce hit, the target must make DR 4 Blood save or one randomly selected limb is Impaired for 24 hours (−2 dice on actions involving that limb).
 
 ---
 

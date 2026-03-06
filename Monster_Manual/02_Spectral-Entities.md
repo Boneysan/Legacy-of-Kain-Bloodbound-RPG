@@ -83,8 +83,8 @@ Echo Serpents are the spectral remnants of great serpents that died in places of
 Uses Phase Strike to approach through walls. Attacks isolated targets with Spectral Bite, then uses Coiling Grasp to constrict and drain. Retreats through walls if seriously wounded.
 
 ### Loot
-- Spectral scales (component for phase-shifting magic, 25 barter value)
-- Echo essence (can be consumed for temporary spectral sight, 30 barter value)
+- Spectral scales (component for phase-shifting magic, Trade Value: 25 supplies)
+- Echo essence (can be consumed for temporary spectral sight, Trade Value: 30 supplies)
 
 ---
 
@@ -143,8 +143,8 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 Opens with Identity Theft on strongest party member to sow chaos. Creates Life Echo duplicates to overwhelm defenses. Uses Mirror Image and Phase Step to avoid damage. Targets spellcasters with Reflection Shield.
 
 ### Loot
-- Mirror shard containing trapped soul fragments (50 barter value, can be used in binding rituals)
-- Spectral essence (rare component, 60 barter value)
+- Mirror shard containing trapped soul fragments (Trade Value: 50 supplies, can be used in binding rituals)
+- Spectral essence (rare component, Trade Value: 60 supplies)
 - Memories of its victims (plot information)
 
 ---
@@ -197,7 +197,7 @@ Soul-Eater Shades are manifestations of pure hunger from the Spectral Realm. The
 Relentlessly pursues highest SE/Soul value target. Uses Soul Rend repeatedly, regenerating damage. Employs Essence Drain on isolated prey. If multiple enemies, uses Hunger Wave. No strategy—only hunger.
 
 ### Loot
-- Concentrated soul essence (component for resurrection rituals, 75 barter value)
+- Concentrated soul essence (component for resurrection rituals, Trade Value: 75 supplies)
 - Fragments of consumed souls (may contain memories or knowledge)
 
 ---
@@ -294,9 +294,9 @@ Silent Mourners are souls bound to places of great tragedy—battlefields, execu
 Remains near its bound location. Uses Aura of Sorrow to wear down enemies passively. Employs Spectral Bonds on aggressive foes, then uses Grief Touch repeatedly. Saves Wail of Despair for when surrounded or seriously threatened.
 
 ### Loot
-- Tear-stained token (jewelry, letter, or personal item from its tragedy, 20-40 barter value)
+- Tear-stained token (jewelry, letter, or personal item from its tragedy, Trade Value: 20-40 supplies)
 - Memory fragment (can reveal what caused its death, plot hook)
-- Bound soul essence (component for resurrection or binding magic, 50 barter value)
+- Bound soul essence (component for resurrection or binding magic, Trade Value: 50 supplies)
 
 ---
 
@@ -353,9 +353,9 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 Uses unpredictable Phase Shift to confound enemies. Employs Blink Strike to attack and retreat. Reality Rend on biggest threats. Uses Dimensional Instability to scatter party formation. Extremely aggressive—no self-preservation.
 
 ### Loot
-- Phase crystal (component for teleportation magic, 80 barter value)
-- Unstable essence (dangerous but powerful alchemical reagent, 60 barter value)
-- Reality fragment (can be used once to cast dimension door effect, 100 barter value)
+- Phase crystal (component for teleportation magic, Trade Value: 80 supplies)
+- Unstable essence (dangerous but powerful alchemical reagent, Trade Value: 60 supplies)
+- Reality fragment (can be used once to cast dimension door effect, Trade Value: 100 supplies)
 
 ---
 
@@ -422,10 +422,10 @@ Gravewind Entities are ancient spirits of wind and death, formed in places where
 Opens with Spectral Storm to thin ranks, then uses Gravewind Vortex to cluster enemies. Maintains Storm Form to punish melee attackers. Uses Legendary Actions to spread Soul Scour attacks throughout round. When bloodied, uses Summon Shades and becomes more aggressive. Uses Soul Harvest to sustain.
 
 ### Loot
-- Eye of the Storm (artifact that grants resistance to Soul damage, 200 barter value)
-- Concentrated grave essence (powerful necromantic component, 150 barter value)
+- Eye of the Storm (artifact that grants resistance to Soul damage, Trade Value: 200 supplies)
+- Concentrated grave essence (powerful necromantic component, Trade Value: 150 supplies)
 - Memories of 1d100 souls (vast information, plot revelations)
-- Ancient treasure swept up in the storm (2d6 x 50 ancient coins, random magical item)
+- Ancient treasure swept up in the storm (Trade Value: 2d6 x 50 supplies, random magical item)
 
 ---
 
@@ -481,9 +481,9 @@ Sluagh lurk at the edges of combat, waiting for someone to weaken. They do not i
 - **Swarm Surge:** A breach between realms has flooded a material-world location with Sluagh. They're not attacking the living—yet—but they're consuming every spectral ward and enchantment in the area, leaving the location defenseless against *other* threats.
 
 ### Loot
-- Spectral residue (grey, viscous substance with faint luminescence) – 10 barter value; alchemical component for Spectral-resistance crafting
+- Spectral residue (grey, viscous substance with faint luminescence) – Trade Value: 10 supplies; alchemical component for Spectral-resistance crafting
 - Memory fragment (a brief, vivid sensory impression from whatever the Sluagh last consumed) – no trade value, but may provide plot information
-- Carrion essence (harvestable with DR 2 Rituals check) – 15 barter value; can be used to create Sluagh lures or repellents
+- Carrion essence (harvestable with DR 2 Rituals check) – Trade Value: 15 supplies; can be used to create Sluagh lures or repellents
 
 ### Scaling Options
 **Elder Sluagh** (Elite, TV 2): +15 HP, increase Soul to 3 and Shadow to 3. Carrion Grasp deals 6 Soul damage and drains 2 SE. Add "Devour Echo" ability (Action, 1/encounter): consume a single memory, enchantment, or ward within 10 ft, permanently destroying it. This can strip a Wraith's anchor if they fail a DR 3 Will save.
@@ -640,9 +640,9 @@ The Wraith of the Abyss is a patient predator. It uses Phase Shift to stalk the 
 **Encounter Design:** A single Wraith of the Abyss makes an excellent solo encounter for a mid-level party (TV 3). Pair with 2–3 Soul-Eater Shades (TV 1 each) for a harrowing spectral ambush at TV 5–6. Place the encounter near a corrupted Pillar site or in the deep Spectral Realm for maximum thematic impact.
 
 ### Loot
-- Abyssal essence (crystallized void energy, dark purple crystal) — **Barter Value:** 100, used in Spectral Realm rituals or anti-divination wards
-- Void fragment (one-use item: when shattered, creates a 10-foot radius zone of total darkness and silence for 1 minute) — **Barter Value:** 60
-- Memory shard (contains fragmented memories of the Wraith's former life — potential plot hook linking to Raziel's fall or the Abyss) — **Barter Value:** varies
+- Abyssal essence (crystallized void energy, dark purple crystal) — **Trade Value:** 100 supplies, used in Spectral Realm rituals or anti-divination wards
+- Void fragment (one-use item: when shattered, creates a 10-foot radius zone of total darkness and silence for 1 minute) — **Trade Value:** 60 supplies
+- Memory shard (contains fragmented memories of the Wraith's former life — potential plot hook linking to Raziel's fall or the Abyss) — **Trade Value:** Varies
 
 ### Scaling Options
 - **Lesser Abyssal Shade (Standard, TV 1):** HP 22, DV 4, Soul 3, no Phase Shift or Void Scream. Remove Abyssal Resilience.
@@ -651,3 +651,126 @@ The Wraith of the Abyss is a patient predator. It uses Phase Shift to stalk the 
 ---
 
 *"The Spectral Realm hungers. And what hungers never sleeps, never rests, never stops coming."*
+
+---
+
+## 2.13 Lingering Shade
+
+**Type:** Spectral (Remnant, Mindless)
+**Threat Tier:** Minion
+**Threat Value (TV):** 0.25
+
+### Lore
+Lingering Shades are the simplest form of spectral entity: souls that refused to travel to the Wheel of Fate, but lacked the strength or identity to become true wraiths. They drift through places of death — old battlefields, plague pits, and the sites of terrible violence — drawn to warmth and life the way a moth is drawn to flame.
+
+They possess no intelligence beyond a dim awareness of the living. They don't plan, they don't flee, and they don't communicate. They simply drift, chill the air around them, and drain the life from anything foolish enough to stand still near them. In Legacy of Kain's Spectral Realm, armies of these dim remnants haunt corridors that true wraiths have long since abandoned. They are the noise floor of undeath.
+
+### Statistics
+- **HP:** 6
+- **DV:** 3 (1 + Shadow 2)
+- **Armor:** Special (Incorporeal — immune to nonmagical physical attacks)
+- **Movement:** 25 feet (5 squares), Fly 25 feet (hover)
+- **Attributes:** Fury 0, Soul 1, Shadow 2, Will 0, Focus 1, Blood 0 (Immune to Blood-based effects)
+- **Skills:** None
+- **SE:** N/A | **BP:** N/A
+
+### Attacks & Abilities
+
+**Chill Touch** (Action)
+- **Dice Pool:** Soul 1 + Shadow 2 = 3d6 vs Will
+- **Range:** Melee (passes through armor — incorporeal touch)
+- **Damage:** 3 Soul damage (cold, passes physical armor)
+- **Special:** On hit, target cannot regain HP until the start of their next turn
+
+### Special Abilities
+
+**Incorporeal:** Immune to nonmagical physical attacks and all physical conditions (Grappled, Prone, Restrained). Magical weapons and Soul-based attacks hit normally.
+
+**Cold Presence (Passive Aura, 5 feet):** Creatures who begin their turn adjacent to the Shade take 1 Soul damage automatically (no roll). This is not an attack — it represents the ambient chill of death.
+
+**Unseen (Passive):** In dim light or darkness, the Lingering Shade is automatically Invisible until it attacks or a creature succeeds on a DR 3 Focus + Observation check.
+
+**Dispelled by Light:** When exposed to bright light (torch, magical illumination, sunlit areas), the Shade has −2 dice on all actions. A Radiant attack that reduces it to 0 HP destroys it permanently rather than simply dispersing it.
+
+### Tactics & Strategy
+Lingering Shades do not fight tactically. They drift toward the nearest warm creature and brush against them repeatedly. In groups of 6–10, their Cold Presence auras and HP-blocking Chill Touches create serious attrition. Use them to soft-lock healing in areas where the party needs to rest. A single Shade is a nuisance; a corridor of twenty is a test of endurance.
+
+### Loot
+- Remnant essence (faint spectral residue; dissolves in 1 hour unless sealed) — **Trade Value**: 1 supply
+- Occasional memory fragment (flicker of the soul's last thought; usually meaningless, occasionally a clue) — **Trade Value**: varies (plot hook)
+
+### Scaling Options
+- **Whispering Shade (Minion, TV 0.5):** HP 10, DV 3, Soul 2. Add Whisper of Despair (1/encounter): target makes DR 2 Will save or loses their Reaction until end of next turn.
+- **Shade Cluster (Elite, TV 2):** Three Lingering Shades fused into one entity. HP 22, DV 4. Cold Presence radius 15 feet. Splits into 2 standard Lingering Shades when reduced to 0 HP.
+
+---
+
+## 2.14 Spectral Arcanist
+
+**Type:** Spectral (Intelligent, Spellcaster)
+**Threat Tier:** Elite
+**Threat Value (TV):** 2
+
+### Lore
+Spectral Arcanists are the ghosts of sorcerers, scholars, and Circle-adjacent magicians who died with their knowledge intact. Unlike Lingering Shades, they retain full intellect — and full bitterness. They remember every spell they ever cast, every theory they ever proved, and they have an eternity to practice in the spectral silence.
+
+Most Arcanists become territorial. They adopt a location — a library, a ruined tower, a collapsed observatory — and guard it against intruders with the same jealousy they showed in life. Some seek to continue their research, haunting those who carry relevant texts or artifacts. A few, driven mad by centuries of spectral isolation, attack anything that enters their domain simply to preserve the silence.
+
+They are dangerous combatants: range, a powerful drain ability, and enough spectral resilience to absorb significant punishment.
+
+### Statistics
+- **HP:** 30
+- **DV:** 5 (1 + Soul 4)
+- **Armor:** Special (Incorporeal — immune to nonmagical physical attacks; resistant to Fire and Cold — half damage)
+- **Movement:** 30 feet (6 squares), Fly 30 feet (hover)
+- **Attributes:** Fury 1, Soul 4, Shadow 3, Will 3, Focus 4, Blood 0 (Immune to Blood-based effects)
+- **Skills:** Arcana (Soul) 3, Observation (Focus) 2, Stealth (Shadow) 2
+- **SE:** 22
+
+### Attacks & Abilities
+
+**Soul Bolt** (Action)
+- **Dice Pool:** Soul 4 + Arcana 3 = 7d6
+- **Range:** 60 feet (12 squares)
+- **Damage:** 8 Soul damage
+- **Special:** Passes through physical cover (the bolt travels through the spectral layer of reality, not the material one)
+
+**Arcane Drain** (Action, costs 4 SE)
+- **Dice Pool:** Soul 4 + Arcana 3 = 7d6 vs Will
+- **Range:** 50 feet
+- **Damage:** 6 Soul damage
+- **Special:** On hit, target loses 3 SE (in addition to the damage). If the target has 0 SE, they instead take +6 bonus Soul damage. The Arcanist regains 2 SE from a successful drain.
+
+**Spectral Missile Barrage** (Action, costs 8 SE, Recharge 5-6)
+- **Dice Pool:** Soul 4 + Arcana 3 = 7d6
+- **Range:** 40-foot radius at a point within 60 feet
+- **Damage:** 10 Soul damage to all targets in range
+- **Save:** DR 3 Will save to halve damage and avoid SE loss (save: 1 SE lost; fail: 3 SE lost)
+
+### Special Abilities
+
+**Incorporeal:** Immune to nonmagical physical attacks. Can move through solid objects; takes 5 Force damage if ending turn inside solid matter.
+
+**Spectral Resilience:** Immune to Frightened, Charmed, poison, disease, and physical conditions.
+
+**Ectoplasmic Shield (Reaction, costs 3 SE):** When targeted by an attack, the Arcanist raises a spectral barrier. The triggering attack has −3 to its effective dice pool (attacker rolls 3 fewer dice). This can be used once per round.
+
+**Library Guardian (Passive):** If the Arcanist is defending a specific location it has claimed as its territory, it gains +1 die on all rolls while within that location. It knows every inch of the space and cannot be flanked inside it.
+
+### Tactics & Strategy
+The Arcanist maintains distance, opening with Soul Bolt spam and Arcane Drain against SE-dependent characters (casters, vampires). It saves Spectral Missile Barrage for when clustered PCs offer a good target. Ectoplasmic Shield is used reactively to protect against the party's best attacker. It will retreat through walls if cornered — treat this as a repositioning action, not a retreat; it reappears at range on its next turn.
+
+**Encounter Design:** A Spectral Arcanist guarding a ruined tower pairs well with 4–6 Lingering Shades as interference. The combined TV of ~4 creates a tough mid-tier encounter where resource management (especially SE) determines success.
+
+### Loot
+- Spectral tome (intangible, but a clever caster can copy its contents with a Focus + Arcana DR 3 ritual) — **Trade Value**: 40–60 supplies (or story item)
+- Arcane residue crystal (condensed SE from the Arcanist's dissolution) — **Trade Value**: 20 supplies, used in SE-restoring potions
+- Knowledge fragment (one piece of arcane knowledge the Arcanist retained; GM-determined) — **Trade Value**: varies
+
+### Scaling Options
+- **Arcanist Apprentice (Standard, TV 1):** HP 18, DV 4, Soul 3, Arcana 1, SE 10. Loses Spectral Missile Barrage and Ectoplasmic Shield. Dangerous mainly due to Arcane Drain snowball.
+- **Grand Arcanist (Boss, TV 4):** HP 60, DV 6, Soul 6, Arcana 4, SE 40. Add Legendary Resistance (2/day) and 2 Legendary Actions: Soul Bolt (1), Arcane Drain (2). Gains Time Dilation (1/encounter): at the start of its turn, the Arcanist takes 2 full turns instead of 1.
+
+---
+
+*"The Spectral Realm hungers. And what hungers never sleeps, never rests, never stops coming. Not even knowledge. Perhaps especially not knowledge."*
