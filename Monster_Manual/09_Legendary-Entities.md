@@ -19,19 +19,22 @@ Guidance:
 
 *A shard of will echoing from a soul that defied fate; a wind-carved silhouette wielding hunger and purpose.*
 
-**Size/Type:** Medium Undead (Vampire, Spectral)
+**Type:** Medium Undead (Vampire, Spectral)
+**Threat Tier:** Deadly (TV 18)
 
-**Threat Value:** 18 (Deadly, Boss)
+### Statistics
+- **HP:** 210
+- **DV:** 7 (1 + Shadow 6)
+- **Armor:** 6 (Spectral Resilience)
+- **SE:** 120
+- **Initiative:** 11
+- **Movement:** 70 feet (14 squares), Fly 70 feet (hover, phasing)
+- **Attributes:** Fury 6, Soul 8, Shadow 6, Will 7, Focus 6, Blood 0
+- **Skills:** Arcana 4, Insight 4, Acrobatics 4, Intimidation 3
 
-**Attributes:** Fury 6, Soul 8 (Primary), Shadow 6, Will 7, Focus 6, Blood 0
-
-**Resources:** Health 210; SE 120; Armor 6 (Spectral Resilience)
-
-**Movement:** 14 (Hover, Phasing); **Initiative:** 11
-
-**Skills:** Arcana 12, Insight 12, Acrobatics 10, Intimidation 9
-
-**Immunities:** Non-magical physical; **Resistances:** Fire, Cold, Lightning, Force, Soul; **Vulnerabilities:** Anchoring glyphs
+**Immunities:** Non-magical physical
+**Resistances:** Fire, Cold, Lightning, Force, Soul
+**Vulnerabilities:** Anchoring glyphs
 
 ---
 
@@ -85,18 +88,21 @@ Regional Effects
 ## Kain’s Echo-Knight
 
 *A temporal after-image of a sovereign’s resolve; a warrior who steps between instants to rewrite outcomes.*
-**Size/Type:** Medium Humanoid (Vampire, Temporal)
-**Threat Value:** 17 (Deadly, Boss)
+**Type:** Medium Humanoid (Vampire, Temporal)
+**Threat Tier:** Deadly (TV 17)
 
-**Attributes:** Fury 7 (Primary), Soul 5, Shadow 6, Will 6, Focus 6, Blood 3
+### Statistics
+- **HP:** 190
+- **DV:** 7 (1 + Shadow 6)
+- **Armor:** 6 (Temporal Plate)
+- **SE:** 80 | **BP:** 20
+- **Initiative:** 12
+- **Movement:** 60 feet (12 squares)
+- **Attributes:** Fury 7, Soul 5, Shadow 6, Will 6, Focus 6, Blood 3
+- **Skills:** Athletics 5, Acrobatics 5, Insight 3, Tactics 4
 
-**Resources:** Health 190; SE 80; BP 20; Armor 6 (Temporal Plate)
-
-**Movement:** 12; **Initiative:** 12
-
-**Skills:** Athletics 12, Acrobatics 11, Insight 9, Tactics (Focus) 10
-
-**Resistances:** Force, Soul; **Immunities:** Charm, Fear
+**Resistances:** Force, Soul
+**Immunities:** Charm, Fear
 
 ---
 
@@ -150,18 +156,23 @@ Regional Effects
 ## Ariel’s Spectral Wrath
 
 *A sorrow-turned-judgment that haunts sanctums and oathbreakers; a voice of balance with edges of storm.*
-**Size/Type:** Medium Spectral (Pillar Guardian)
-**Threat Value:** 16 (Deadly, Controller)
 
-**Attributes:** Fury 4, Soul 9 (Primary), Shadow 6, Will 8, Focus 6, Blood 0
+**Type:** Medium Spectral (Pillar Guardian)
+**Threat Tier:** Deadly (TV 16)
 
-**Resources:** Health 160; SE 120; Armor 3
+### Statistics
+- **HP:** 160
+- **DV:** 7 (1 + Shadow 6)
+- **Armor:** 3
+- **SE:** 120
+- **Initiative:** 10
+- **Movement:** 60 feet (12 squares), Fly 60 feet (hover)
+- **Attributes:** Fury 4, Soul 9, Shadow 6, Will 8, Focus 6, Blood 0
+- **Skills:** Arcana 4, Insight 3, Persuasion 4
 
-**Movement:** 12 (Hover); **Initiative:** 10
-
-**Skills:** Arcana 13, Insight 12, Persuasion 10
-
-**Immunities:** Non-magical physical; **Resistances:** Radiant, Soul; **Vulnerabilities:** Desecration zones
+**Immunities:** Non-magical physical
+**Resistances:** Radiant, Soul
+**Vulnerabilities:** Desecration zones
 
 ---
 
@@ -201,7 +212,7 @@ Regional Effects
 ### Loot & Rewards
 
 - **Pillar Shard of Balance:** A fragment of the Pillar of Balance. Grants the holder +1 to all saves and the ability to sense Corruption within 60ft.
-- **Ariel’s Lament:** A spectral melody that can be played once per day to remove 1 Corruption point from a willing creature (or add 1 to an unwilling creature, Will save DC 16).
+- **Ariel’s Lament:** A spectral melody that can be played once per day to remove 1 Corruption point from a willing creature (or add 1 to an unwilling creature, Will save DR 16).
 - **Tears of the Guardian:** Three crystallized tears that can each be consumed to restore 20 HP and 10 SE.
 
 ---
@@ -222,19 +233,21 @@ When the Pillars of Nosgoth cracked and the Circle of Nine fell to madness, the 
 
 Prophets are never truly alone. Their influence radiates outward through rumor, superstition, and self-fulfilling prophecy, warping entire regions before the party even meets them. Some serve vampire lords as court oracles; others lead messianic movements that threaten the fragile order of Nosgoth's surviving settlements. A rare few have glimpsed the Wheel of Fate itself and speak of breaking it — words that draw the attention of forces far older than any mortal cult.
 
-**Size/Type:** Medium Humanoid (Mortal, Corrupted)
+**Type:** Medium Humanoid (Mortal, Corrupted)
+**Threat Tier:** Deadly (TV 15)
 
-**Threat Value:** 15 (Major, Support/Controller)
+### Statistics
+- **HP:** 130
+- **DV:** 7 (1 + Shadow 6)
+- **Armor:** 4
+- **SE:** 100 | **BP:** 15
+- **Initiative:** 9
+- **Movement:** 50 feet (10 squares)
+- **Attributes:** Fury 2, Soul 8, Shadow 6, Will 7, Focus 7, Blood 3
+- **Skills:** Arcana 4, Deception 5, Persuasion 4, Insight 3
 
-**Attributes:** Fury 2, Soul 8 (Primary), Shadow 6, Will 7, Focus 7, Blood 3
-
-**Resources:** Health 130; SE 100; BP 15; Armor 4
-
-**Movement:** 10; **Initiative:** 9
-
-**Skills:** Arcana 12, Deception 11, Persuasion 12, Insight 10
-
-**Resistances:** Spectral; **Vulnerabilities:** Radiant
+**Resistances:** Spectral
+**Vulnerabilities:** Radiant
 
 ---
 
@@ -288,19 +301,21 @@ Regional Effects
 
 *Guardian of a pulsing core below the world; wards all who would claim its power.*
 
-**Size/Type:** Large Aberration (Abyssal)
+**Type:** Large Aberration (Abyssal)
+**Threat Tier:** Deadly (TV 19)
 
-**Threat Value:** 19 (Deadly, Boss)
+### Statistics
+- **HP:** 240
+- **DV:** 6 (1 + Shadow 5)
+- **Armor:** 7 (Abyssal Plate)
+- **SE:** 120 | **BP:** 20
+- **Initiative:** 8
+- **Movement:** 50 feet (10 squares)
+- **Attributes:** Fury 8, Soul 7, Shadow 5, Will 7, Focus 6, Blood 4
+- **Skills:** Athletics 4, Arcana 5, Intimidation 4
 
-**Attributes:** Fury 8 (Primary), Soul 7, Shadow 5, Will 7, Focus 6, Blood 4
-
-**Resources:** Health 240; SE 120; BP 20; Armor 7 (Abyssal Plate)
-
-**Movement:** 10; **Initiative:** 8
-
-**Skills:** Athletics 12, Arcana 12, Intimidation 11
-
-**Resistances:** Fire, Cold, Lightning, Force; **Immunities:** Charm, Fear
+**Resistances:** Fire, Cold, Lightning, Force
+**Immunities:** Charm, Fear
 
 ---
 
@@ -365,17 +380,22 @@ Regional Effects
 
 *A fragment of the Elder God's vast and terrible will — a single limb of the thing that turns the Wheel of Fate, extended into the material world to enforce its cosmic mandate.*
 
-**Threat Value:** 22 (Apex, World-Threat)
+**Type:** Gargantuan Aberration (Elder God Tendril)
+**Threat Tier:** Apex (TV 22)
 
-**Attributes:** Fury 9 (Primary), Soul 10, Shadow 7, Will 9, Focus 8, Blood 0
+### Statistics
+- **HP:** 350
+- **DV:** 8 (1 + Shadow 7)
+- **Armor:** 9 (Calcified God-Flesh)
+- **SE:** 200
+- **Initiative:** 6
+- **Movement:** 50 feet (10 squares), Burrow 100 feet
+- **Attributes:** Fury 9, Soul 10, Shadow 7, Will 9, Focus 8, Blood 0
+- **Skills:** Arcana 6, Insight 6, Athletics 5, Intimidation 7
 
-**Resources:** Health 350; SE 200; Armor 9 (Calcified God-Flesh)
-
-**Movement:** 10 (Burrowing 20); **Initiative:** 6
-
-**Skills:** Arcana 16, Insight 14, Athletics 14, Intimidation 16
-
-**Immunities:** Non-magical physical, Poison, Charm, Fear, Sleep, Necrotic, Corruption, Soul; **Resistances:** Fire, Cold, Lightning, Force, Radiant; **Vulnerabilities:** None (see Severing the Tether below)
+**Immunities:** Non-magical physical, Poison, Charm, Fear, Sleep, Necrotic, Corruption, Soul
+**Resistances:** Fire, Cold, Lightning, Force, Radiant
+**Vulnerabilities:** None (see Severing the Tether below)
 
 ---
 
@@ -485,7 +505,7 @@ Regional Effects
 ### Loot & Rewards
 
 - **Heart of the Abyss:** A pulsing, dark organ. Can be used to permanently increase one attribute by +1 (max 6), but inflicts 3 Corruption on the user.
-- **Abyssal Chain Links:** Can be forged into a weapon that Restrains on critical hits (Will save DC 17 to escape).
+- **Abyssal Chain Links:** Can be forged into a weapon that Restrains on critical hits (Will save DR 17 to escape).
 - **Void Essence (3 doses):** Each dose grants immunity to all damage for 1 round but inflicts 1 Corruption.
 
 ---
@@ -500,19 +520,21 @@ Regional Effects
 
 *A ruler whose court exists in the spaces between glances; all obey without knowing why.*
 
-**Size/Type:** Medium Humanoid (Vampire, Psychic)
+**Type:** Medium Humanoid (Vampire, Psychic)
+**Threat Tier:** Deadly (TV 16)
 
-**Threat Value:** 16 (Deadly, Controller/Skirmisher)
+### Statistics
+- **HP:** 150
+- **DV:** 8 (1 + Shadow 7, limiting from Shadow 9 for practical combat balance)
+- **Armor:** 3
+- **SE:** 100
+- **Initiative:** 12
+- **Movement:** 70 feet (14 squares)
+- **Attributes:** Fury 4, Soul 7, Shadow 9, Will 7, Focus 7, Blood 0
+- **Skills:** Deception 4, Stealth 5, Insight 4, Perception 3
 
-**Attributes:** Fury 4, Soul 7, Shadow 9 (Primary), Will 7, Focus 7, Blood 0
-
-**Resources:** Health 150; SE 100; Armor 3
-
-**Movement:** 14; **Initiative:** 12
-
-**Skills:** Deception 13, Stealth 14, Insight 11, Perception 10
-
-**Immunities:** Charmed; **Resistances:** Psychic, Soul
+**Immunities:** Charmed
+**Resistances:** Psychic, Soul
 
 ---
 
@@ -525,7 +547,7 @@ Regional Effects
 - Spend 6 SE to become Invisible until start of next turn; ending the invisibility allows a free 10ft move.
 
 3) Command the Scene (Passive)
-- Once/round, as a free effect, slide one creature 5ft. (Range: 60ft. All enemies who can hear the Monarch must make a Will save DC 16. On failure, they lose their next action. Usable once per round as a Legendary Action costing 2 actions.)
+- Once/round, as a free effect, slide one creature 5ft. (Range: 60ft. All enemies who can hear the Monarch must make a Will save DR 16. On failure, they lose their next action. Usable once per round as a Legendary Action costing 2 actions.)
 
 **Legendary Resistance (2/day):** If this entity fails a saving throw, it can choose to succeed instead.
 
@@ -547,8 +569,8 @@ Regional Effects
 
 ### Loot & Rewards
 
-- **Crown of Whispers:** Grants telepathy (60ft) and +2 to all Deception and Intimidation checks. Wearing it for more than 24 hours requires a Will save (DC 14) or gain 1 Corruption.
-- **Monarch’s Signet Ring:** Once per day, command one creature (Will save DC 16 or obey a single non-suicidal command).
+- **Crown of Whispers:** Grants telepathy (60ft) and +2 to all Deception and Intimidation checks. Wearing it for more than 24 hours requires a Will save (DR 14) or gain 1 Corruption.
+- **Monarch’s Signet Ring:** Once per day, command one creature (Will save DR 16 or obey a single non-suicidal command).
 - **Invisible Ink Codex:** Contains 1d4 forgotten rituals or spell formulae (GM’s choice).
 
 ---
@@ -563,19 +585,21 @@ Regional Effects
 
 *A legendary hunter whose creed outlived his flesh—precision, ritual, and implacable purpose.*
 
-**Size/Type:** Medium Undead (Sarafan, Holy)
+**Type:** Medium Undead (Sarafan, Holy)
+**Threat Tier:** Deadly (TV 17)
 
-**Threat Value:** 17 (Deadly, Elite Duelist)
+### Statistics
+- **HP:** 180
+- **DV:** 7 (1 + Shadow 6)
+- **Armor:** 5 (Sanctified Plate)
+- **SE:** 50
+- **Initiative:** 11
+- **Movement:** 60 feet (12 squares)
+- **Attributes:** Fury 8, Soul 4, Shadow 6, Will 6, Focus 7, Blood 0
+- **Skills:** Athletics 4, Acrobatics 6, Survival 3, Tactics 4
 
-**Attributes:** Fury 8 (Primary), Soul 4, Shadow 6, Will 6, Focus 7, Blood 0
-
-**Resources:** Health 180; SE 50; Armor 5 (Sanctified Plate)
-
-**Movement:** 12; **Initiative:** 11
-
-**Skills:** Athletics 12, Acrobatics 12, Survival 10, Tactics 10
-
-**Resistances:** Radiant; **Vulnerabilities:** Soul
+**Resistances:** Radiant
+**Vulnerabilities:** Soul
 
 ---
 
@@ -630,17 +654,18 @@ Regional Effects
 
 *A librarian of the erased; binds true names to silence and sets wards none remember.*
 
-**Size/Type:** Medium Spectral (Ancient, Arcane)
+**Type:** Medium Spectral (Ancient, Arcane)
+**Threat Tier:** Deadly (TV 16)
 
-**Threat Value:** 16 (Deadly, Controller/Support)
-
-**Attributes:** Fury 2, Soul 9 (Primary), Shadow 7, Will 8, Focus 8, Blood 0
-
-**Resources:** Health 140; SE 120; Armor 3
-
-**Movement:** 10; **Initiative:** 10
-
-**Skills:** Arcana 13, History 14, Insight 11
+### Statistics
+- **HP:** 140
+- **DV:** 8 (1 + Shadow 7)
+- **Armor:** 3
+- **SE:** 120
+- **Initiative:** 10
+- **Movement:** 50 feet (10 squares)
+- **Attributes:** Fury 2, Soul 9, Shadow 7, Will 8, Focus 8, Blood 0
+- **Skills:** Arcana 4, History 6, Insight 3
 
 **Resistances:** Psychic, Soul
 
@@ -649,7 +674,7 @@ Regional Effects
 ### Attacks & Abilities
 
 1) Unword (Basic)
-- Action: 1; 60ft; Soul 9 + 4 vs Will; 14 Psychic and target loses access to one named feature for 1 round (GM adjudicates, e.g., a spell or ability). (The GM should target the creature’s most impactful active ability, excluding passive traits like flight or natural armor. The target may attempt a Will save DC 17 to resist.)
+- Action: 1; 60ft; Soul 9 + 4 vs Will; 14 Psychic and target loses access to one named feature for 1 round (GM adjudicates, e.g., a spell or ability). (The GM should target the creature’s most impactful active ability, excluding passive traits like flight or natural armor. The target may attempt a Will save DR 17 to resist.)
 
 2) Seal of Obscurity (Debuff)
 - Action: 1; Cost: 10 SE; 30ft; target’s name is veiled—attacks against it have Disadvantage for 1 round, but all healing it receives is halved.
@@ -677,7 +702,7 @@ Regional Effects
 
 ### Loot & Rewards
 
-- **The Book of Unnames:** Contains three remaining charges of Unword. Each use permanently removes one supernatural ability from a creature (Will save DC 18). After all charges are spent, the book crumbles.
+- **The Book of Unnames:** Contains three remaining charges of Unword. Each use permanently removes one supernatural ability from a creature (Will save DR 18). After all charges are spent, the book crumbles.
 - **Name-Warden’s Seal:** A sigil that, when worn, renders the wearer immune to divination and scrying. Their name cannot be used in rituals against them.
 - **Forgotten Name Fragment:** Discovering its meaning requires a quest. Completing the quest grants a permanent +1 to Focus and a unique ability tied to the Pillars.
 
@@ -691,8 +716,7 @@ Regional Effects
 ## Echo of Moebius
 
 **Type:** Legendary Entity (Temporal Fragment, Guardian of Time)
-**Threat Tier:** Deadly
-**Threat Value (TV):** 16
+**Threat Tier:** Deadly (TV 16)
 
 ### Lore
 Moebius the Time Streamer — Guardian of the Pillar of Time — was among the most influential and most treacherous figures in Nosgoth's history. His mastery of temporal manipulation was without peer: he could observe any point in time, redirect the timeline of any who came under his influence, and erase or rewrite the context of events that did not suit his purposes. Whether he served the Elder God willingly, whether he was a victim of his own power's temptation, or whether he was always the monster Kain described — these questions die with him.
@@ -705,6 +729,7 @@ They do not intend harm precisely. They are temporal coherence agents, attemptin
 - **HP:** 210
 - **DV:** 6 (1 + Focus 5)
 - **Armor:** 2 (temporal ward — attacks are slightly anticipated before they land)
+- **Initiative:** 7
 - **Movement:** 40 feet (8 squares), Fly 40 feet
 - **Attributes:** Fury 3, Soul 6, Shadow 4, Will 6, Focus 6, Blood 0
 - **Skills:** Arcana (Soul) 5, Observation (Focus) 5, Manipulation 4
@@ -761,8 +786,7 @@ The Echo opens by using Temporal Displacement on the party's most lethal PC (rem
 ## The Death Guardian
 
 **Type:** Legendary Entity (Corrupted Pillar Guardian, Undead Warlord)
-**Threat Tier:** Deadly
-**Threat Value (TV):** 17
+**Threat Tier:** Deadly (TV 17)
 
 ### Lore
 In the time before the Pillars fell, each Pillar had a Guardian: a mortal chosen — or compelled — by the Pillar's nature to embody its principle and maintain its function. The Guardian of the Pillar of Death was the axis of Nosgoth's natural mortality cycle, the figure who ensured that souls entered the Wheel of Fate, that death was final, and that the process of spiritual renewal continued uninterrupted.
@@ -775,6 +799,7 @@ The Death Guardian is everything the role was meant to prevent: an undead being 
 - **HP:** 230
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 3 (deathplate — forged from the bones of a thousand slain)
+- **Initiative:** 7
 - **Movement:** 35 feet (7 squares), Fly 30 feet (death's wings)
 - **Attributes:** Fury 5, Soul 6, Will 6, Shadow 4, Focus 4, Blood 0
 - **Skills:** Necromancy (Soul) 5, Melee (Fury) 4, Intimidation 5, Arcana (Soul) 3
@@ -836,8 +861,7 @@ The Death Guardian positions at the center of a summoned undead screen, using Ne
 ## Vorador the Patriarch
 
 **Type:** Legendary Entity (Ancient Elder Vampire, Patriarch of Clan Zephonim)
-**Threat Tier:** Deadly
-**Threat Value (TV):** 18
+**Threat Tier:** Deadly (TV 18)
 
 ### Lore
 Vorador is the oldest surviving vampire in Nosgoth — the last direct progeny of Janos Audron, sired in the time before the Circle fell. He is not merely powerful; he is the standard against which all other vampiric power is measured. His age is measured in millennia. His control of blood magic is absolute. His contempt for the Sarafan is personal and permanent — he slaughtered six Sarafan Circle members in a single night during Blood Omen, and he considers it one of his more moderate evenings.
@@ -850,6 +874,7 @@ Encountering Vorador is not something that happens by accident. It happens becau
 - **HP:** 250
 - **DV:** 6 (1 + Blood 5)
 - **Armor:** 2 (supernatural resilience; millennia of self-hardening)
+- **Initiative:** 8
 - **Movement:** 45 feet (9 squares), Fly 50 feet (mist form optional — see Mist Form)
 - **Attributes:** Fury 6, Soul 5, Blood 6, Shadow 5, Will 5, Focus 5
 - **Skills:** Melee (Fury) 5, Blood Magic (Soul) 5, Intimidation 5, Arcana (Soul) 3, Stealth (Shadow) 3
@@ -912,8 +937,7 @@ Vorador does not rush. He opens with Zephonim's Curse on the PC with the highest
 ## Hylden Overlord
 
 **Type:** Legendary Entity (Supreme Hylden Commander)
-**Threat Tier:** Deadly
-**Threat Value (TV):** 19
+**Threat Tier:** Deadly (TV 19)
 
 ### Lore
 The Hylden were not always the banished thing. They were once a civilization — ancient even by vampiric standards, technologically superior, spiritually complex, and possessed of a legitimate grievance against the Ancient Vampires who cursed them to eternal imprisonment in a dimension of suffering. Centuries of dimensioned isolation did not make them sympathetic. It made them desperate, bitter, and increasingly modified — their biology warping under Hylden-pattern transformation techniques that now define their species.
@@ -926,6 +950,7 @@ An Overlord is the supreme field commander of any Hylden incursion — the decis
 - **HP:** 260
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 3 (Hylden warpplate — dimensionally phased armor)
+- **Initiative:** 9
 - **Movement:** 40 feet (8 squares), Fly 40 feet
 - **Attributes:** Fury 5, Soul 6, Will 6, Focus 5, Shadow 4, Blood 3
 - **Skills:** Dimensional Manipulation (Soul) 5, Corruption Channeling (Soul) 4, Hylden Tactics (Focus) 5, Intimidation 5, Arcana (Soul) 4
@@ -989,18 +1014,22 @@ The Overlord opens with **Hylden Command** aura in effect, then uses Dimensional
 
 *The Elder God does not arrive — it seeps. What seems like a hero, a savior, an oracle, is sometimes nothing more than a tendril wearing flesh.*
 
-**Size/Type:** Medium Aberration (Elder God Vessel)
-**Threat Value:** 14 (Boss)
+**Type:** Medium Aberration (Elder God Vessel)
+**Threat Tier:** Major (TV 14)
 
-**Attributes:** Fury 3, Soul 8 (Primary), Shadow 4, Will 6, Focus 5, Blood 2
+### Statistics
+- **HP:** 120
+- **DV:** 7 (1 + Will 6)
+- **Armor:** 3 (Spectral Shell)
+- **SE:** 80
+- **Initiative:** 9
+- **Movement:** 50 feet (10 squares), Fly 50 feet (hover)
+- **Attributes:** Fury 3, Soul 8, Shadow 4, Will 6, Focus 5, Blood 2
+- **Skills:** Forbidden Knowledge 4, Intimidation 2, Insight 5
 
-**Resources:** Health 120; SE 80; Armor 3 (Spectral Shell)
-
-**Movement:** 10 (Hover); **Initiative:** 9
-
-**Skills:** Forbidden Knowledge 12, Intimidation 8, Insight 10
-
-**Immunities:** Fear, Charm; **Resistances:** Spectral, Force; **Vulnerabilities:** Soul Reavers, concentrated Pillar essence, Radiant on psychic structures
+**Immunities:** Fear, Charm
+**Resistances:** Spectral, Force
+**Vulnerabilities:** Soul Reavers, concentrated Pillar essence, Radiant on psychic structures
 
 ---
 
@@ -1062,18 +1091,22 @@ Regional Effects
 
 *The Wheel does not die. It cannot be killed. It can only be diminished, delayed — and it has waited long enough.*
 
-**Size/Type:** Gargantuan Aberration (Elder God, Partial Manifestation)
-**Threat Value:** 20 (Apex, Boss)
+**Type:** Gargantuan Aberration (Elder God, Partial Manifestation)
+**Threat Tier:** Apex (TV 20)
 
-**Attributes:** Fury 4, Soul 12 (Primary), Shadow 6, Will 10, Focus 8, Blood 0
+### Statistics
+- **HP:** 350
+- **DV:** 9 (1 + Will 8, capped from Will 10 — cosmic resistance to being affected)
+- **Armor:** 8 (Ageless Eldritch Mass)
+- **SE:** 200
+- **Initiative:** 7
+- **Movement:** 30 feet (6 squares, immobile core; tendrils reach 40 feet)
+- **Attributes:** Fury 4, Soul 12, Shadow 6, Will 10, Focus 8, Blood 0
+- **Skills:** Forbidden Knowledge 6, Intimidation 4, Insight 4
 
-**Resources:** Health 350; SE 200; Armor 8 (Ageless Eldritch Mass)
-
-**Movement:** 6 (Immobile core; tendrils reach 40ft); **Initiative:** 7
-
-**Skills:** Forbidden Knowledge 18, Intimidation 14, Insight 12
-
-**Immunities:** Non-magical physical, Fear, Charm, Blood-based effects; **Resistances:** All elemental, Spectral, Force, Radiant; **Vulnerabilities:** Soul Reavers wielded by a creature with a purified soul, concentrated Pillar essence, direct Spectral Realm disruption (severing the Wheel's rotation)
+**Immunities:** Non-magical physical, Fear, Charm, Blood-based effects
+**Resistances:** All elemental, Spectral, Force, Radiant
+**Vulnerabilities:** Soul Reavers wielded by a creature with a purified soul, concentrated Pillar essence, direct Spectral Realm disruption (severing the Wheel's rotation)
 
 *Note: The Elder God Manifestation is a campaign-finale encounter. GMs should telegraph this confrontation across multiple sessions. Defeating it does not destroy the Elder God — it severs its connection to the current site and forces a centuries-long withdrawal. Getting to this fight at all typically requires the party to acquire ancient weapons, seal key Pillar nodes, and sacrifice significant resources.*
 

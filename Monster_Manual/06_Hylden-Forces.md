@@ -77,6 +77,7 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 - **Save DR** *(saves against this creature's abilities)*: 3 (Physical and Will saves), 2 (other saves)
 - **Movement**: 35 ft per turn
 - **Armor**: Medium (bio-tempered flesh, Armor 2 vs Physical, immune to Spectral damage)
+- **Initiative:** 4
 
 **Attributes**:
 - Fury: 4
@@ -134,7 +135,7 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 - Twisted host body (if studied, reveals Hylden biomancy techniques) - **Trade Value**: Priceless for scholars
 
 #### Scaling Options
-**Hylden Warlord** (Boss, TV 4): +30 HP, increase Fury and Tactics to 5. Add "Command Protocol" ability (once per turn, grant all allied Hylden within 30 feet Advantage on next attack). Add 2 Legendary Actions per round: Move, Attack, or Hylden Surge.
+**Hylden Warlord** (Boss, TV 4): +20 HP, increase Fury and Tactics to 5. Add "Command Protocol" ability (once per turn, grant one allied Hylden within 20 feet +1 die on its next attack). Add 2 Legendary Actions per round: Move, Attack, or Hylden Surge (costs 2 actions).
 
 ---
 
@@ -157,6 +158,7 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 - **Save DR** *(saves against this creature's abilities)*: 4 (Will and Soul saves), 2 (Physical saves)
 - **Movement**: 25 ft per turn (frail host)
 - **Armor**: Light (grafted bio-plates, Armor 1 vs Physical, immune to Spectral damage)
+- **Initiative:** 4
 
 **Attributes**:
 - Fury: 2
@@ -213,7 +215,7 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 - Grafted organs (if harvested from the Architect's body) - **Trade Value**: 40 supplies, used in alchemy or rituals
 
 #### Scaling Options
-**Master Flesh Architect** (Boss, TV 4): +20 HP, increase Soul and Biomancy to 6. Add "Mass Fleshwarp" ability (affects all creatures within 20 feet, DR 5 Will save or be Weakened). Can summon 2 Abominations per encounter. Add 2 Legendary Actions per round: Move, Fleshwarp Touch, or Flesh Harvest.
+**Master Flesh Architect** (Boss, TV 4): +15 HP, increase Soul and Biomancy to 6. Add "Mass Fleshwarp" ability (affects all creatures within 15 feet, DR 4 Will save or be Weakened). Can summon 1 Abomination per encounter. Add 2 Legendary Actions per round: Move, Fleshwarp Touch, or Flesh Harvest (costs 2 actions).
 
 ---
 
@@ -236,6 +238,7 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 - **Save DR** *(saves against this creature's abilities)*: 2 (Physical saves), 0 (Mental saves, mindless)
 - **Movement**: 30 ft per turn (lurching gait)
 - **Armor**: Medium (fused flesh, Armor 2 vs Physical)
+- **Initiative:** 2
 
 **Attributes**:
 - Fury: 4
@@ -306,6 +309,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 - **Save DR** *(saves against this creature's abilities)*: 2 (all saves)
 - **Movement**: 30 ft per turn
 - **Armor**: None (civilian clothing), but see Abilities
+- **Initiative:** 5
 
 **Attributes**:
 - Fury: 3
@@ -383,6 +387,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 - **Save DR** *(saves against this creature's abilities)*: 4 (Shadow and Will saves), 3 (Physical saves)
 - **Movement**: 45 ft per turn (enhanced agility)
 - **Armor**: Light (bio-enhanced skin, Armor 2 vs Physical, immune to Spectral damage)
+- **Initiative:** 7
 
 **Attributes**:
 - Fury: 4
@@ -439,7 +444,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 - **Note**: If the Reaver self-destructs, no loot remains (body is vaporized).
 
 #### Scaling Options
-**Master Bio-Sigil Reaver** (Boss, TV 4): +30 HP, increase Shadow and Assassination to 6. Add "Multi-Phase Strike" ability (use Phase Strike twice in one turn against different targets). Add 3 Legendary Actions per round: Move (phasing), Attack, or Corruption Burst (costs 2 actions).
+**Master Bio-Sigil Reaver** (Boss, TV 4): +20 HP, increase Shadow and Assassination to 6. Add "Multi-Phase Strike" ability (use Phase Strike twice in one turn, but the second attack suffers -2 dice). Add 2 Legendary Actions per round: Move (phasing), Attack, or Corruption Burst (costs 2 actions).
 
 ---
 
@@ -462,6 +467,7 @@ They're strategic thinkers, not frontline fighters. They open rifts to bring in 
 - **Save DR** *(saves against this creature's abilities)*: 5 (Will and Soul saves), 3 (Physical saves)
 - **Movement**: 30 ft per turn
 - **Armor**: Medium (dimensional anchors, Armor 2 vs Physical, Armor 3 vs Magic, immune to Spectral damage)
+- **Initiative:** 5
 
 **Attributes**:
 - Fury: 2
@@ -527,7 +533,7 @@ The summoned creature appears at the start of the Engineer's next turn. It obeys
 - **Note**: If the Engineer uses Emergency Rift, they take the most valuable loot with them (GM determines what's left).
 
 #### Scaling Options
-**Master Rift Engineer** (Boss, TV 4): +25 HP, increase Soul and Portal Magic to 7. Can use Open Rift twice per encounter (summon two waves of reinforcements). Add "Dimensional Storm" ability (60-foot radius, 12 Force damage, Recharge 4-6). Add 3 Legendary Actions per round: Teleport, Reality Tear, or Open Rift (costs 3 actions).
+**Master Rift Engineer** (Boss, TV 4): +20 HP, increase Soul and Portal Magic to 7. Can use Open Rift one additional time per encounter (2 total uses), but only one use per encounter can summon anything above Grunt tier. Add "Dimensional Storm" ability (30-foot radius, 9 Force damage, Recharge 6). Add 2 Legendary Actions per round: Teleport or Reality Tear.
 
 ---
 
@@ -550,6 +556,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 - **Save DR** *(saves against this creature's abilities)*: 5 (all saves)
 - **Movement**: 30 ft per turn (floats above ground)
 - **Armor**: Heavy (reality shell, Armor 3 vs Physical, Armor 5 vs Magic, immune to Spectral damage)
+- **Initiative:** 5
 
 **Attributes**:
 - Fury: 3
@@ -636,6 +643,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 - **Save DR** *(saves against this creature's abilities)*: 4 (Will saves), 3 (other saves)
 - **Movement**: 30 ft per turn
 - **Armor**: Heavy (tormentor's plate, Armor 3 vs Physical, immune to Spectral damage)
+- **Initiative:** 3
 
 **Attributes**:
 - Fury: 4
@@ -692,15 +700,14 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 - Suffering essence (crystallized pain, harvested by the Warden) - **Trade Value**: 40 supplies, used in dark rituals or alchemy
 
 #### Scaling Options
-**Master Horror Warden** (Boss, TV 4): +30 HP, increase Soul and Psychological Warfare to 6. Add "Mass Fear" ability (all enemies within 40 feet must pass DR 5 Will save or be Frightened). Add 2 Legendary Actions per round: Move, Barbed Chain, or Mind Spike.
+**Master Horror Warden** (Boss, TV 4): +20 HP, increase Soul and Psychological Warfare to 6. Add "Mass Fear" ability (all enemies within 25 feet must pass DR 4 Will save or be Frightened until the end of their next turn). Add 2 Legendary Actions per round: Move, Barbed Chain, or Mind Spike (costs 2 actions).
 
 ---
 
 ### 9. Hylden Rift-Priest
 
 **Type**: Hylden (Ritualist/Caster)  
-**Threat Tier**: Elite (Strong)  
-**Threat Value (TV):** 3  
+**Threat Tier**: Elite (TV 3)  
 **Recommended Levels**: 8-13
 
 #### Lore
@@ -716,6 +723,7 @@ They serve as force multipliers for Hylden operations: opening rifts to bring re
 - **Save DR** *(saves against this creature's abilities)*: 4 (Will saves), 3 (other saves)
 - **Movement**: 30 feet per turn
 - **Armor**: 2 (bio-ritual vestments: Armor 2 vs Physical, immune to Spectral damage)
+- **Initiative:** 4
 - **Soul Energy (SE):** 15
 
 **Attributes**:
@@ -777,15 +785,14 @@ They serve as force multipliers for Hylden operations: opening rifts to bring re
 #### Scaling Options
 **Rift Initiate (Standard, TV 1):** HP 25, DV 3, Soul 3, Rift Manipulation 2. Loses Corruption Pulse, Dimensional Tether, and Sacrificial Host. Corruption Lance deals 5 damage. SE reduced to 8.
 
-**Rift Archon (Boss, TV 4):** HP 80, DV 5, Soul 6, Rift Manipulation 5. Gains Legendary Resistance (1/day) and 1 Legendary Action/round (Corruption Lance). Rift Tear radius increases to 40 feet. Dimensional Tether summons 1d6 Grunts.
+**Rift Archon (Boss, TV 4):** HP 68, DV 5, Soul 6, Rift Manipulation 5. Gains Legendary Resistance (1/day) and 1 Legendary Action/round (Corruption Lance). Rift Tear radius increases to 25 feet. Dimensional Tether summons 1d3 Grunts.
 
 ---
 
 ### 10. Hylden-Possessed Grunt
 
 **Type**: Hylden (Possessed Mortal, Expendable)  
-**Threat Tier**: Minion  
-**Threat Value (TV):** 0.25  
+**Threat Tier**: Minion (TV 0.25)  
 **Recommended Levels**: 1-6
 
 #### Lore
@@ -799,6 +806,7 @@ Grunts are cannon fodder. Hylden commanders send them in waves to absorb enemy r
 - **Difficulty Rating (DR)**: 1 (all saves)
 - **Movement**: 25 feet per turn
 - **Armor**: 0 (rotting flesh)
+- **Initiative:** 2
 - **Soul Energy (SE):** N/A
 - **Blood Points (BP):** N/A
 
@@ -845,8 +853,7 @@ Grunts swarm in groups of 4–8. They rush the nearest enemy and attack mindless
 ### 11. Hylden Dimension Lord
 
 **Type**: Hylden (True Hylden, Commander)  
-**Threat Tier**: Legendary  
-**Threat Value (TV):** 8  
+**Threat Tier**: Legendary (TV 8)  
 **Recommended Levels**: 15-20
 
 #### Lore
@@ -862,6 +869,7 @@ Only a handful of Dimension Lords exist. Each one represents a full-scale existe
 - **Difficulty Rating (DR)**: 5 (Will saves), 4 (other saves)
 - **Movement**: 35 feet per turn (hover)
 - **Armor**: 5 (Dimensional Warp-Plate — space itself bends around them)
+- **Initiative:** 6
 - **Soul Energy (SE):** 60
 - **Blood Points (BP):** N/A
 
@@ -948,7 +956,7 @@ Only a handful of Dimension Lords exist. Each one represents a full-scale existe
 - Corruption Nexus (a swirling orb of concentrated Corruption; can be weaponized or purified) — **Trade Value**: 250 supplies, extremely dangerous
 
 #### Scaling Options
-**Hylden Rift Commander (Boss, TV 4):** HP 90, DV 5, Soul 5, Armor 3. Loses Legendary Actions, Lair Action, Regional Effects, and Warp Shield. Rift Command summons only Grunts. SE reduced to 30.
+**Hylden Rift Commander (Boss, TV 4):** HP 80, DV 5, Soul 5, Armor 3. Loses Legendary Actions, Lair Action, Regional Effects, and Warp Shield. Rift Command summons only Grunts, and each use summons one fewer Grunt than the base version. SE reduced to 24.
 
 **Hylden Overlord (Legendary, TV 12):** HP 300, DV 6, Soul 8, Armor 7. Gains 4 Legendary Actions/round. Corruption Storm recharges on 4-6. Rift Command gains a third use and can summon a Horror Warden (TV 2). Add **Dimensional Collapse (1/encounter):** The Overlord rips a 60-foot zone of reality apart. All creatures in the zone take 25 Force + 10 Corruption damage (DR 5 Shadow save for half). The zone becomes an impassable rift for 3 rounds.
 
@@ -1041,7 +1049,7 @@ The Rift-Priest fights from the backline behind Shock Troopers or summoned Grunt
 #### Scaling Options
 **Hylden Rift Acolyte** (Standard, TV 1): HP 25, DV 4, Soul 3, Will 3. Remove Corruption Pulse and Dimensional Tether. Corruption Lance deals 4 Corruption + 2 Soul, costs 1 SE. No Corruption Aura.
 
-**Hylden Arch-Priest** (Boss, TV 4): HP 80, DV 6, Soul 6, Will 6. Add Legendary Resistance (2/day) and 2 Legendary Actions per round: Corruption Lance (1), Rift Tear (2, even if not recharged). Dimensional Tether summons 2d4 Grunts. Add "Permanent Rift" (1/encounter): tears open a rift that persists for 1 minute, summoning 1d4 Grunts each round.
+**Hylden Arch-Priest** (Boss, TV 4): HP 75, DV 6, Soul 6, Will 6. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Corruption Lance (1), Rift Tear (2, even if not recharged). Dimensional Tether summons 1d3 Grunts. Add "Permanent Rift" (1/encounter): tears open a rift that persists for 2 rounds. At the start of each of the Arch-Priest's turns, 1 Hylden-Possessed Grunt emerges from it (maximum 2 total).
 
 ---
 
@@ -1165,7 +1173,7 @@ Grunts swarm in groups of 4–8. They charge the nearest enemy and use Crude Wea
 ---
 
 #### Encounter 4: The Oracle's Army (Levels 15-17)
-**Setup**: A **Void-Spoken Oracle** (Boss, TV 4) leads an invasion force: 2 **Bio-Sigil Reavers** (Elite, TV 2 each), 1 **Horror Warden** (Elite, TV 2), and 4 **Shock Troopers** (Elite, TV 2 each). Total TV: 16 (deadly encounter for a level 15 party of 4).
+**Setup**: A **Void-Spoken Oracle** (Boss, TV 4) leads an invasion force: 2 **Bio-Sigil Reavers** (Elite, TV 2 each), 1 **Horror Warden** (Elite, TV 2), and 4 **Shock Troopers** (Elite, TV 2 each). Total TV: 18 (deadly encounter for a level 15 party of 4).
 
 **Tactics**: The Oracle coordinates the entire force with Telepathic Coordination (+1 die to all Hylden allies within 30ft). It opens with Dimensional Rupture to scatter the party and corrupt everyone. Reavers use Phase Strike to assassinate casters. The Warden uses Cage of Despair to neutralize the party's strongest fighter. Shock Troopers form a shield wall, protecting the Oracle. The Oracle spams Void Blast and Prophecy of Doom using Legendary Actions, debuffing everyone and draining resources.
 
@@ -1284,6 +1292,7 @@ When their handler is killed, the psychic tether snaps, and the War-Stalker ente
 - **HP**: 32
 - **DV**: 5 (1 + Fury 4)
 - **Armor**: 1 (tough hide)
+- **Initiative:** 4
 - **Movement**: 45 feet (9 squares)
 - **Soul Energy (SE):** 14
 
@@ -1335,7 +1344,7 @@ The War-Stalker begins combat in Stealth (Stealth 3), waiting for the Hylden han
 
 #### Scaling Options
 **Fledgling War-Stalker (Standard, TV 1):** HP 18, DV 4, Fury 3, SE 6. Rending Claws deal 5 damage. No Hylden Bile Spit. Frenzy gives +1 Fury only.
-**Veteran War-Stalker (Boss, TV 4):** HP 60, DV 6, Fury 5, SE 25. Rending Claws deal 10 damage + Bleeding on any hit. Hylden Bile Spit now deals 7 Corruption damage and auto-applies 1 Corruption point (no save). Add **Bone-Breaker (1/encounter):** on landing a Pounce hit, the target must make DR 4 Blood save or one randomly selected limb is Impaired for 24 hours (−2 dice on actions involving that limb).
+**Veteran War-Stalker (Boss, TV 4):** HP 55, DV 6, Fury 5, SE 20. Rending Claws deal 9 damage + Bleeding on any hit. Hylden Bile Spit now deals 6 Corruption damage; the target must fail a DR 3 Blood save to gain 1 Corruption point. Add **Bone-Breaker (1/encounter):** on landing a Pounce hit, the target must make DR 4 Blood save or suffer -2 dice on physical actions until the end of the encounter.
 
 ---
 

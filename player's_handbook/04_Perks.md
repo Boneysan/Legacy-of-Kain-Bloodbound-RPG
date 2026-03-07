@@ -46,11 +46,11 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 | **Echo Sense** | Detect hidden or invisible entities within **10 ft**. | Passive |
 | **Iron Will** | Reroll one failed Corruption save. | 1/Long Rest |
 | **Glyph Mastery** | Use simple glyphs (wards, minor traps) without class proficiency. | Passive |
-| **Shadowâ€™s Edge** | **+1 die** to all rolls in dim light or darkness. | Passive |
+| **Shadow’s Edge** | **+1 die** to attack rolls and Stealth checks in dim light or darkness. Does not stack with class abilities that already grant darkness bonuses. | Passive |
 | **Spirit Bond** | Commune with a ghost for insight (narrative clues). Failure costs 1 Corruption. | 1/Long Rest |
 | **Battle Meditation** | Regain **2 HP** after combat if no Corruption was gained during the fight. | Post-Combat |
 | **Tombborn** | Sense undead or cursed ground within **30 ft**. | Passive |
-| **Focused Ritualist** | **+1 die** to glyphcasting rolls if you are at max HP. | Passive |
+| **Focused Ritualist** | **+1 die** to ritual, glyphcasting, and spellcasting rolls if you are at max HP. | Passive |
 | **Death Watcher** | Automatically detect when an enemy drops below **25% HP**. | Passive |
 
 ### Tier 2 Universal Perks (Levels 6â€“10)
@@ -64,9 +64,9 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 | **Void Walker** | Immune to corrupted terrain hazards (blighted ground, acid, etc). | Passive |
 | **Time Echo** | Reroll one Initiative roll. | 1/Long Rest |
 | **Soul Ward** | Absorb one source of damage completely (negates one attack). | 1/Long Rest |
-| **Spell Siphon** | Steal one spell/ability from a foe (Target makes **DR 2 Will** save). Lasts until rest. | **1 Corruption** |
+| **Spell Siphon** | Steal one activated ability you have witnessed the target use this scene (Target makes **DR 2 Will** save; on success each time you use it, the ability is lost). Lasts until rest. | **1 Corruption** |
 | **Spectral Fortitude**| **+2 Defense** while in the Spectral Realm. | Passive |
-| **Blood Alchemy** | Convert HP to Soul Energy (3 HP = 1 SE, max Level/2). | Free Action |
+| **Blood Alchemy** | Convert HP to Soul Energy (3 HP = 1 SE, max Level/2). | Free Action, 1/turn |
 | **Shadow Link** | Teleport to a shadow within **10 ft**. | **1 SE** (Bonus Action) |
 
 ### Tier 3 Universal Perks (Levels 11â€“15)
@@ -74,7 +74,7 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 
 | Perk Name | Effect | Cost / Trigger |
 | :--- | :--- | :--- |
-| **Ascended Form** | Transform for 1 min (GM defined, e.g., +2 dice attacks). | **2 SE** + **1 Corruption** |
+| **Ascended Form** | Transform for 1 min. Gain **+2 dice** to attack rolls, **+2 Armor**, and **+1 die** to all saves. GM defines the visual form of the transformation. | **2 SE** + **1 Corruption** |
 | **Chrono Clarity** | Cannot be surprised. **+2 dice** to Initiative. | Passive |
 | **Deathmark** | Mark one target: deal **+2 damage** to them for the scene. | 1/Scene |
 | **Voice of Fate** | Ask a question about the future (GM provides cryptic vision). | 1/Session (Fail: 1 Corr) |
@@ -95,11 +95,11 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 | **Spectral Anchor** | Perceive Spectral Realm constantly. Resistance to Spectral Dmg. Cannot be moved. | Passive (-1 die Material) |
 | **Legacy Transfusion**| Permanently gain one Tier 2 or 3 perk from *another* class. | Narrative Quest |
 | **Veilpiercer** | Perceive all illusions/glamers. Nullify one magic disguise per scene. | Passive |
-| **Temporal Residue** | When damaged, leave an echo. 50% of attacks hit the echo for 1 round. | **1 SE** / Combat |
-| **Flesh of Myth** | **+1 Max HP** per level. Immune to poison, disease, aging, dismemberment. | Passive |
+| **Temporal Residue** | When damaged, leave an echo for 1 round. While active, whenever you are targeted by an attack, roll any die — on an even result, the attack hits the echo instead and deals no damage to you. | **1 SE** / Combat |
+| **Flesh of Myth** | **+1 Max HP** per character level (applied retroactively when taken). Immune to poison, disease, aging, dismemberment. | Passive |
 | **Spectral Fire** | Burn HP (3:1) to regain SE, BP, or Glyph Charges. | Bonus Action |
-| **Cradle of Ruin** | On 0 HP: 20ft pulse (**4d6 Dmg**). Allies get +2 Defense. Rise at 1 HP next turn. | **1 Corruption** |
-| **Reality Fracture** | Perform an impossible narrative act (halt time, cross space). GM Adjudicated. | **2 Corruption** / Session |
+| **Cradle of Ruin** | On 0 HP: 20ft pulse (**12 Void Dmg**, bypasses Armor). Allies get +2 Defense. Rise at 1 HP next turn. | **1 Corruption** |
+| **Reality Fracture** | Perform an impossible narrative act. Examples: halt time mid-scene (DR 5 Will + Concentration), teleport across a region (DR 4 Soul + Rituals), erase one event from a scene before its consequences resolve (DR 5 Soul). GM adjudicates outcome and may set a higher DR. | **2 Corruption** / Session |
 
 ---
 
@@ -134,7 +134,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 #### Seeping Hunger
 **Trigger:** Once per scene — when within 10 ft of a dying creature.
 **Effect:** Absorb **2 HP**.
-**Drawback:** Make a **DR 2 Will** save or be compelled to attack the nearest creature (ally or foe).
+**Drawback:** Make a **DR 2 Will** save or be compelled to attack the nearest *enemy* in range. If no enemy is in range, the compulsion instead drives you toward the nearest creature (including allies).
 > *You feed on the dying, sustaining yourself but risking predatory urges.*
 
 ---
@@ -219,12 +219,12 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 #### Host to the Void
 **Trigger:** Passive.
 **Effect:** Immune to mind control and possession.
-**Drawback:** Gain **+1 Corruption** each long rest. -1 die to Social rolls with pure NPCs.
+**Drawback:** Gain **+1 Corruption** each long rest (maximum +3 total Corruption gained this way over the campaign; once this cap is reached the drawback ceases). -1 die to Social rolls with pure NPCs.
 > *The void shields your will but erodes your essence, marking you as an outcast.*
 
 ---
 
-#### Blood Memory
+#### Devoured Knowledge
 **Trigger:** Within 1 hour of a creature's death — requires consuming the corpse.
 **Effect:** Absorb one of the creature's skills or memories (GM discretion). Lasts until next long rest.
 **Drawback:** -1 die to Social rolls with pure NPCs.
@@ -312,7 +312,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Eternal Host
 **Trigger:** On death — if Corruption >= 6.
-**Effect:** Rise at **1 HP** after 1 round.
+**Effect:** Rise at **1 HP** after 1 round. Can trigger at most once per scene.
 **Drawback:** -2 dice to Social rolls with pure NPCs. Gain **+1 Corruption** every time you die and return.
 > *Corruption anchors your soul, defying death — but binding you ever tighter to darkness.*
 

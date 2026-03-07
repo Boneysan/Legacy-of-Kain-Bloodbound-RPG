@@ -9,8 +9,7 @@ This chapter covers the undead creatures and vampiric entities that plague Nosgo
 ## 1.1 Feralslave Ghoul
 
 **Type:** Undead (Mindless)  
-**Threat Tier:** Minion  
-**Threat Value (TV):** 0.25
+**Threat Tier:** Minion (TV 0.25)
 
 ### Lore
 Feralslave Ghouls are the remains of mortals who died in agony, their souls too weak to pass into the Spectral Realm. Instead, they cling to rotting flesh, driven by base instincts—hunger, pain, and rage. They serve as fodder for vampire lords or infest ruins and graveyards, attacking anything living.
@@ -19,6 +18,7 @@ Feralslave Ghouls are the remains of mortals who died in agony, their souls too 
 - **HP:** 8
 - **DV:** 2 (1 + Shadow 1)
 - **Armor:** 0
+- **Initiative:** 2
 - **Movement:** 25 feet (5 squares)
 - **Attributes:** Fury 2, Soul 0, Shadow 1, Will 1, Focus 0, Blood 0 (Immune to Blood-based effects)
 - **Skills:** None (act on instinct)
@@ -57,8 +57,7 @@ Ghouls rush the nearest living creature mindlessly. They use Feral Pack to swarm
 ## 1.2 Hunger-Warped Vampire
 
 **Type:** Undead (Vampiric, Feral)  
-**Threat Tier:** Elite  
-**Threat Value (TV):** 2
+**Threat Tier:** Elite (TV 2)
 
 ### Lore
 Not all vampires retain their nobility and cunning. Those who give in completely to the Blood Thirst lose themselves, becoming feral predators more beast than person. Hunger-Warped Vampires prowl the wilderness, attacking settlements and travelers. They are fast, vicious, and driven by insatiable hunger.
@@ -67,6 +66,7 @@ Not all vampires retain their nobility and cunning. Those who give in completely
 - **HP:** 35
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 2 (supernatural resilience)
+- **Initiative:** 6
 - **Movement:** 40 feet (8 squares), Climb 30 feet
 - **Attributes:** Fury 4, Soul 2, Shadow 4, Will 2, Focus 3, Blood 4
 - **Skills:** Athletics 3, Observation 2, Stealth 3, Evasion (Shadow): 0
@@ -114,15 +114,14 @@ Opens with Shadow Leap to close distance, then Pounces on isolated target. Uses 
 
 ### Scaling
 - **Fledgling Hunger Vampire (Standard, TV 1):** HP 20, DV 4, -1 to all attributes, no Shadow Leap
-- **Vampire Beast Lord (Boss, TV 4):** HP 60, DV 6, Fury 5, Blood 5, commands pack of 4-6 Feralslave Ghouls, gains Legendary Actions (see Section 1.10)
+- **Vampire Beast Lord (Boss, TV 4):** HP 55, DV 6, Fury 5, Blood 5, commands pack of 3-4 Feralslave Ghouls, gains 2 Legendary Actions per round instead of the default 3 for boss-tier undead
 
 ---
 
 ## 1.3 Nosgothian Revenant
 
 **Type:** Undead (Intelligent, Cursed)  
-**Threat Tier:** Standard  
-**Threat Value (TV):** 1
+**Threat Tier:** Standard (TV 1)
 
 
 > **Note for Players:** This entry describes a mindless, purpose-driven undead creature. The playable Revenant lineage (Player's Handbook Ch02) represents sapient individuals who retain full faculties—they are not equivalent to these monsters.
@@ -133,6 +132,7 @@ Revenants are the restless dead bound to unfinished purpose. Unlike mindless und
 - **HP:** 22
 - **DV:** 4 (1 + Will 3)
 - **Armor:** 1 (spectral resilience)
+- **Initiative:** 3
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 3, Soul 3, Shadow 2, Will 3, Focus 2, Blood 0
 - **Skills:** Weapon Mastery 2, Intimidation 3, Resolve (Will): 2
@@ -181,8 +181,7 @@ Methodical and intelligent fighter. Protects its bound location/object/person ze
 ## 1.4 Bone-Pyre Skeleton
 
 **Type:** Undead (Animated, Fire-Touched)  
-**Threat Tier:** Minion  
-**Threat Value (TV):** 0.25
+**Threat Tier:** Minion (TV 0.25)
 
 ### Lore
 Created through necromantic rituals involving immolation, Bone-Pyre Skeletons are animate remains wreathed in ghostly flames. They serve dark mages and vampire lords as disposable troops, their bones reinforced by corrupted fire magic.
@@ -191,6 +190,7 @@ Created through necromantic rituals involving immolation, Bone-Pyre Skeletons ar
 - **HP:** 6
 - **DV:** 3 (1 + Shadow 2)
 - **Armor:** 1 (bone structure)
+- **Initiative:** 2
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 2, Soul 1, Shadow 2, Will 1, Focus 1, Blood 0
 - **Skills:** None
@@ -229,8 +229,7 @@ Advance in groups, using Flaming Aura to pressure melee fighters. Use Ember Burs
 ## 1.5 Crypt-Bound Wight
 
 **Type:** Undead (Intelligent, Shadow-Touched)  
-**Threat Tier:** Elite  
-**Threat Value (TV):** 2
+**Threat Tier:** Elite (TV 2)
 
 ### Lore
 Wights are ancient warriors or nobles who refused death's call, clinging to their tombs through sheer force of will and dark magic. They wear corroded armor and wield weapons from forgotten eras. Unlike lesser undead, Wights retain tactical intelligence and can command lesser undead.
@@ -239,6 +238,7 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 - **HP:** 38
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 3 (ancient plate armor + unnatural resilience)
+- **Initiative:** 5
 - **Movement:** 25 feet (5 squares)
 - **Attributes:** Fury 4, Soul 3, Shadow 4, Will 4, Focus 2, Blood 0
 - **Skills:** Weapon Mastery 3, Intimidation 4, Tactics 2
@@ -284,15 +284,14 @@ Commands lesser undead from back line while using Aura of Dread to control battl
 
 ### Scaling
 - **Lesser Wight (Standard, TV 1):** HP 25, DV 4, DR 2, no Command Undead or Parry
-- **Wight Lord (Boss, TV 4):** HP 65, DV 6, DR 4, gains Legendary Actions (3 per round): Move, Attack, or Command Undead
+- **Wight Lord (Boss, TV 4):** HP 60, DV 6, DR 4, gains Legendary Actions (2 per round): Move, Attack, or Command Undead (costs 2 actions)
 
 ---
 
 ## 1.6 Vampire Thrall Swarm
 
 **Type:** Undead (Vampiric, Swarm)  
-**Threat Tier:** Elite  
-**Threat Value (TV):** 2
+**Threat Tier:** Elite (TV 2)
 
 ### Lore
 When lesser vampires are destroyed, their remaining essence sometimes animates nearby vermin—rats, bats, insects—creating a horrific swarm that retains vampiric hunger and limited intelligence. These swarms infest vampire lairs and hunt in packs.
@@ -301,6 +300,7 @@ When lesser vampires are destroyed, their remaining essence sometimes animates n
 - **HP:** 30
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 0 (but see Swarm Nature)
+- **Initiative:** 5
 - **Movement:** 30 feet (6 squares), Climb 30 feet, Fly 30 feet
 - **Attributes:** Fury 3, Soul 1, Shadow 4, Will 2, Focus 3, Blood 3
 - **Skills:** Stealth 4, Observation 3
@@ -343,8 +343,7 @@ Attempts to Engulf isolated targets while using superior mobility to avoid area 
 ## 1.7 Red Vein Acolyte
 
 **Type:** Undead (Vampiric, Corrupted Priest)  
-**Threat Tier:** Standard  
-**Threat Value (TV):** 1
+**Threat Tier:** Standard (TV 1)
 
 ### Lore
 Former priests or cultists who willingly embraced vampirism to serve dark powers. Red Vein Acolytes retain their devotion but redirect it toward blood rituals and forbidden rites. They serve vampire lords as spell-slingers and ritual masters.
@@ -353,6 +352,7 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 - **HP:** 20
 - **DV:** 3 (1 + Will 2)
 - **Armor:** 0 (cloth robes)
+- **Initiative:** 3
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 2, Soul 4, Shadow 2, Will 2, Focus 3, Blood 3
 - **Skills:** Rituals 4, Forbidden Knowledge 3, Persuasion 2, Blood Magic 4
@@ -401,8 +401,7 @@ Stays at range, pelting enemies with Blood Bolt. Uses Blood Curse on biggest thr
 ## 1.8 Bloodflame Specter
 
 **Type:** Undead (Spectral, Fire-Touched)  
-**Threat Tier:** Standard  
-**Threat Value (TV):** 1
+**Threat Tier:** Standard (TV 1)
 
 ### Lore
 Vampires destroyed by fire sometimes leave behind vengeful spirits—Bloodflame Specters. These entities burn with spectral fire, unable to move on, forever reliving their immolation. They haunt the places of their death, attacking any living creature.
@@ -411,6 +410,7 @@ Vampires destroyed by fire sometimes leave behind vengeful spirits—Bloodflame 
 - **HP:** 18
 - **DV:** 4 (1 + Shadow 3)
 - **Armor:** Special (see Incorporeal)
+- **Initiative:** 5
 - **Movement:** 30 feet (6 squares), Fly 40 feet (hover)
 - **Attributes:** Fury 2, Soul 4, Shadow 3, Will 3, Focus 2, Blood 2
 - **Skills:** Stealth 3, Intimidation 3
@@ -518,8 +518,7 @@ Bosses take Legendary Actions at the end of other creatures' turns, maintaining 
 ## 1.11 Nosgothian Vampire Overlord
 
 **Type:** Undead (Vampiric, Noble)  
-**Threat Tier:** Boss  
-**Threat Value (TV):** 4
+**Threat Tier:** Boss (TV 4)
 
 ### Lore
 Nosgothian Vampire Overlords are the apex predators of undead society — ancient vampires who have survived centuries through cunning, cruelty, and raw power. Unlike feral vampires who surrendered to the Blood Thirst, Overlords *mastered* it. They rule from crumbling estates and hidden strongholds, commanding legions of lesser undead and mortal thralls through sheer force of will.
@@ -532,6 +531,7 @@ Most Overlords were once members of the great vampire clans, and some still carr
 - **HP:** 90
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** 3 (supernatural resilience)
+- **Initiative:** 7
 - **Movement:** 35 feet (7 squares), Fly 40 feet
 - **Attributes:** Fury 5, Soul 4, Shadow 5, Will 5, Focus 4, Blood 6
 - **Skills:** Athletics 4, Intimidation 5, Melee 3, Stealth 3
@@ -609,8 +609,7 @@ The Overlord opens with Blood Dominion on the party's strongest melee fighter, t
 ## 1.12 Grave-Knight Commander
 
 **Type:** Undead (Intelligent, Martial)  
-**Threat Tier:** Elite (Strong)  
-**Threat Value (TV):** 3
+**Threat Tier:** Elite (Strong) (TV 3)
 
 ### Lore
 Grave-Knight Commanders are the risen remnants of great military leaders — Sarafan generals, vampire clan warlords, or mercenary captains whose ambition burned so fiercely that death could not extinguish it. Unlike mindless Revenants, Grave-Knights retain their tactical brilliance and martial skill. They rise in full armor, weapons in hand, and immediately begin rebuilding their command.
@@ -623,6 +622,7 @@ Grave-Knights are often bound to a specific location (a battlefield, a fortress,
 - **HP:** 55
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 3 (ancient plate mail)
+- **Initiative:** 5
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 4, Soul 3, Shadow 4, Will 4, Focus 3, Blood 3
 - **Skills:** Melee 3, Athletics 3, Intimidation 4, Leadership (Will) 3
@@ -676,15 +676,14 @@ The Grave-Knight Commander fights from within a formation of lesser undead, usin
 
 ### Scaling Options
 - **Grave-Knight Squire (Standard, TV 1):** HP 25, DV 4, Fury 3, no Leadership skill. Remove Death's Command and Commander's Presence. Armor 2.
-- **Grave-Knight Warlord (Boss, TV 4):** HP 80, DV 6, Fury 5, Will 5, Leadership 5. Add Legendary Resistance (2/day) and 2 Legendary Actions per round: Cursed Greatsword (1), Death's Command (2). Commander's Presence radius increases to 60 feet.
+- **Grave-Knight Warlord (Boss, TV 4):** HP 75, DV 6, Fury 5, Will 5, Leadership 5. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Cursed Greatsword (1), Death's Command (2). Commander's Presence radius increases to 45 feet.
 
 ---
 
 ## 1.13 Bonelord Archon
 
 **Type:** Undead (Intelligent, Spellcaster)  
-**Threat Tier:** Legendary  
-**Threat Value (TV):** 6
+**Threat Tier:** Legendary (TV 6)
 
 ### Lore
 Bonelord Archons are the remnants of ancient necromancers who bargained with the Pillars of Death itself — sorcerers so consumed by their craft that they bound their own souls into their skeletal forms rather than submit to the Wheel of Fate. Unlike mindless undead, they are calculating, articulate, and terrifyingly intelligent. Each commands a personal army of lesser undead, animating and coordinating them with a mere thought.
@@ -695,6 +694,7 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 - **HP:** 120
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 4 (Bone-Warded Plate — necrotic-infused skeletal armor)
+- **Initiative:** 5
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 3, Soul 6, Shadow 4, Will 5, Focus 5, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Necromancy (Soul): 5, Arcana (Soul): 4, Intimidation (Will): 4, Command Undead (Will): 5, Observation (Focus): 3
@@ -743,7 +743,7 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 ### Tactics
 The Bonelord Archon fights from behind a wall of summoned undead. It opens by casting Raise Dead to establish a screen, then bombards the party with Soul Scourge from maximum range. It uses Necrotic Detonation when enemies cluster or breach its undead line — the simultaneous healing of allies and damage to foes makes melee engagement punishing. It saves Legendary Resistance for disabling effects and uses Command Undead to focus-fire vulnerable targets.
 
-**Encounter Design:** Pair with 4 Feralslave Ghouls and 1 Grave-Knight Commander (TV 3) for a full TV 8 encounter. The Archon uses Command Undead to coordinate the Commander's alpha strikes while maintaining its own ranged pressure.
+**Encounter Design:** Pair with 4 Feralslave Ghouls and 1 Grave-Knight Commander (TV 3) for a full TV 10 encounter. The Archon uses Command Undead to coordinate the Commander's alpha strikes while maintaining its own ranged pressure.
 
 ### Loot
 - Archon's staff (acts as a spellcasting focus; grants +1 die on Necromancy checks) — **Trade Value**: 200 supplies
@@ -752,7 +752,7 @@ The Bonelord Archon fights from behind a wall of summoned undead. It opens by ca
 - Dark essence vial (concentrated necrotic energy; can be used to craft a weapon that deals +4 Necrotic damage) — **Trade Value**: 120 supplies
 
 ### Scaling Options
-- **Bonelord Acolyte (Boss, TV 4):** HP 80, DV 5, Soul 5, Necromancy 4. Loses Legendary Actions, Lair Action, and Phylactery Bond. Raise Dead summons only 1 Ghoul. SE reduced to 30.
+- **Bonelord Acolyte (Boss, TV 4):** HP 70, DV 5, Soul 5, Necromancy 4. Loses Legendary Actions, Lair Action, and Phylactery Bond. Raise Dead summons only 1 Ghoul. SE reduced to 24.
 - **Bonelord Sovereign (Legendary, TV 9):** HP 180, DV 6, Soul 7, Necromancy 6. Gains 3 Legendary Actions/round. Raise Dead summons 3 Revenants or 1 Grave-Knight Commander. Add Regional Effects: undead within 1 mile are drawn to the Sovereign's lair, and living creatures within 500 feet have Disadvantage on death saves.
 
 ---
@@ -764,8 +764,7 @@ The Bonelord Archon fights from behind a wall of summoned undead. It opens by ca
 ## 1.14 Risen Thrall
 
 **Type:** Undead (Mindless)
-**Threat Tier:** Minion
-**Threat Value (TV):** 0.25
+**Threat Tier:** Minion (TV 0.25)
 
 ### Lore
 Risen Thralls are the most basic product of necromantic reanimation — freshly dead corpses given just enough dark energy to walk and obey. They retain no memory, no personality, and no purpose beyond whatever crude directive their creator has embedded in the necrotic binding. Most are set to "attack anything living," which is more than sufficient for battlefield fodder.
@@ -776,6 +775,7 @@ Unlike Feralslave Ghouls, which are animated by lingering soul-fragments, Risen 
 - **HP:** 7
 - **DV:** 2
 - **Armor:** 0
+- **Initiative:** 1
 - **Movement:** 20 feet (4 squares)
 - **Attributes:** Fury 2, Soul 0, Shadow 0, Will 0, Focus 0, Blood 0 (Immune to Blood-based effects)
 - **Skills:** None
@@ -814,8 +814,7 @@ Risen Thralls swarm and absorb damage. Their sole value is being in the way. GMs
 ## 1.15 Vampiric Fledgling
 
 **Type:** Undead (Intelligent, Newly-Turned)
-**Threat Tier:** Standard
-**Threat Value (TV):** 1
+**Threat Tier:** Standard (TV 1)
 
 ### Lore
 Vampiric Fledglings are the newly-turned — mortals who received the Dark Gift within the last year. They still carry the memories of their human lives but are rapidly losing them to hunger and the territorial instincts of their new nature. Most are confused, desperate, and dangerous.
@@ -826,6 +825,7 @@ Fledglings have not yet mastered the full array of vampiric powers, but they are
 - **HP:** 16
 - **DV:** 4 (1 + Shadow 2 + Blood 1)
 - **Armor:** 0
+- **Initiative:** 3
 - **Movement:** 35 feet (7 squares)
 - **Attributes:** Fury 3, Soul 1, Shadow 2, Will 2, Focus 2, Blood 3
 - **Skills:** Stealth 2, Intimidation 1
@@ -870,8 +870,7 @@ Fledglings rush the closest target, prioritizing wounded PCs to chain their Bloo
 ## 1.16 Skeletal Archer
 
 **Type:** Undead (Mindless, Ranged)
-**Threat Tier:** Minion
-**Threat Value (TV):** 0.25
+**Threat Tier:** Minion (TV 0.25)
 
 ### Lore
 Skeletal Archers are the necromancer's answer to a problem: how do you threaten enemies at range when your undead army consists of slow, shambling corpses? The solution is typically the skeleton of a soldier or hunter, animated with specific targeting directives and placed atop walls, in window sills, or on elevated positions. They don't need cover. They don't need to reload. They just aim and fire until destroyed.
@@ -882,6 +881,7 @@ Archers are more tactically valuable than their TV suggests; their positioning a
 - **HP:** 5
 - **DV:** 2
 - **Armor:** 0
+- **Initiative:** 2
 - **Movement:** 25 feet (5 squares)
 - **Attributes:** Fury 1, Soul 0, Shadow 1, Will 0, Focus 2, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Ranged 1
@@ -919,8 +919,7 @@ Place Skeletal Archers in elevated positions, windows, or behind barricades. The
 ## 1.17 Skeletal Knight
 
 **Type:** Undead (Mindless, Armored)
-**Threat Tier:** Standard
-**Threat Value (TV):** 1
+**Threat Tier:** Standard (TV 1)
 
 ### Lore
 Skeletal Knights are the remains of fallen soldiers, tomb guardians, or executed champions, animated with enough purpose to wield the weapons and armor of their former lives. Unlike Feralslave Ghouls, which are driven purely by hunger, Skeletal Knights retain fragments of martial instinct — they hold formation, block doorways, and execute simple commands with grim efficiency.
@@ -931,6 +930,7 @@ Vampire lords prize them as palace guards and tomb sentinels. They don't sleep, 
 - **HP:** 12
 - **DV:** 3 (1 + Fury 2)
 - **Armor:** 2 (corroded plate)
+- **Initiative:** 1
 - **Movement:** 25 feet (5 squares)
 - **Attributes:** Fury 2, Soul 0, Shadow 1, Will 1, Focus 1, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Melee 2
@@ -965,7 +965,7 @@ Skeletal Knights are the doorstep guardians of Nosgoth's dungeons. They hold cor
 
 ### Scaling Options
 - **Knight-Commander (Elite, TV 2):** HP 22, DV 4, Armor 3, Fury 3, Will 2, Melee 3. Add **Rally the Dead (Action, 1/encounter):** All undead allies within 30 feet gain +1 die on attacks until end of the Knight-Commander's next turn.
-- **Deathguard Champion (Boss, TV 4):** HP 50, DV 5, Armor 4, Fury 4, Will 3. Add Legendary Resistance (1/day). Longsword deals 8 damage + Bleeding. Add Charge (2 actions): move up to 30 feet in a line; all creatures in path make DR 3 Blood save or take 6 damage and are knocked Prone.
+- **Deathguard Champion (Boss, TV 4):** HP 48, DV 5, Armor 4, Fury 4, Will 3. Add Legendary Resistance (1/day). Longsword deals 7 damage + Bleeding. Add Charge (2 actions): move up to 20 feet in a line; all creatures in path make DR 3 Blood save or take 5 damage and are knocked Prone.
 
 ---
 
@@ -986,8 +986,7 @@ Led by the secretive **Feral Council** — a cabal of ancient vampires who have 
 ## 1.18 Fracture Zealot
 
 **Type:** Undead (Vampire, Standard)
-**Threat Tier:** Standard
-**Threat Value (TV):** 1
+**Threat Tier:** Standard (TV 1)
 
 ### Lore
 Fracture Zealots are the foot soldiers of the Crimson Fracture — recruited from fledglings and disaffected low-bloods who have embraced the faction's nihilism as liberation. They have shed the trappings of vampire civilization: no titles, no clan obligations, no feeding restraint. What remains is something more feral than a typical vampire, burning with an almost spiritual abandon.
@@ -998,6 +997,7 @@ Most Zealots barely understand the Fracture's true goals. They know they are par
 - **HP:** 20
 - **DV:** 3 (1 + Blood 2)
 - **Armor:** 0
+- **Initiative:** 3
 - **Movement:** 35 feet (7 squares)
 - **Attributes:** Fury 3, Soul 1, Shadow 2, Will 2, Focus 1, Blood 2
 - **Skills:** Melee (Fury): 3, Stealth (Shadow): 2, Athletics (Blood): 2
@@ -1044,8 +1044,7 @@ Zealots charge the nearest target without hesitation, prioritizing isolated or u
 ## 1.19 Fracture Dimension-Walker
 
 **Type:** Undead (Vampire, Elite)
-**Threat Tier:** Elite
-**Threat Value (TV):** 3
+**Threat Tier:** Elite (TV 3)
 
 ### Lore
 Dimension-Walkers are the Fracture's shock operatives — vampires who have studied the spectral resonance patterns left by the Soul Reaver's passage through both realms and learned, imperfectly, to replicate them. They can punch brief holes in the boundary between planes, stepping in and out of material existence to appear where they are least expected.
@@ -1056,6 +1055,7 @@ The process is not without cost. Every Dimension-Walker bears the mark of their 
 - **HP:** 45
 - **DV:** 4 (1 + Blood 3)
 - **Armor:** 1
+- **Initiative:** 5
 - **Movement:** 35 feet (7 squares)
 - **Attributes:** Fury 3, Soul 3, Shadow 3, Will 3, Focus 2, Blood 3
 - **Skills:** Melee (Fury): 3, Spectral Lore (Soul): 3, Stealth (Shadow): 4, Athletics (Blood): 3
@@ -1102,8 +1102,7 @@ The Dimension-Walker opens combat behind the front line, using Realm Shift to ap
 ## 1.20 Fracture Void-Touched
 
 **Type:** Undead (Vampire, Boss)
-**Threat Tier:** Boss
-**Threat Value (TV):** 4
+**Threat Tier:** Boss (TV 4)
 
 ### Lore
 The Void-Touched are the Feral Council's lieutenants — ancient vampires who have spent so long at the boundary between realms that the boundary has begun to spend time in *them*. Their bodies phase in and out of material existence without conscious control. Their voices carry spatial distortion. The air around them flickers with phantom spectral geometry.
@@ -1114,6 +1113,7 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 - **HP:** 75
 - **DV:** 5 (1 + Blood 4)
 - **Armor:** 2
+- **Initiative:** 4
 - **Movement:** 40 feet (8 squares)
 - **Attributes:** Fury 4, Soul 4, Shadow 3, Will 4, Focus 3, Blood 4
 - **Skills:** Melee (Fury): 4, Spectral Lore (Soul): 4, Command (Will): 4, Stealth (Shadow): 3, Athletics (Blood): 3
@@ -1147,12 +1147,12 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 
 **Feral Council Authority:** All Crimson Fracture allies within 60 feet gain +1 die on attack rolls.
 
-**Legendary Resistance (2/day):** When the Void-Touched fails a saving throw, it may choose to succeed instead.
+**Legendary Resistance (1/day):** When the Void-Touched fails a saving throw, it may choose to succeed instead.
 
 ### Legendary Actions (2/round)
 - **Void Rend (1 action):** Make one Void Rend attack at half damage (6 Physical + 2 Spectral).
 - **Realm Pulse (1 action):** All creatures within 15 feet must pass a DR 3 Will save or be pushed 15 feet and Staggered (-1 die on next action).
-- **Summon Zealot (2 actions):** One Fracture Zealot (TV 1) tears through a dimensional breach and arrives within 30 feet.
+- **Summon Zealot (2 actions, 1/encounter):** One Fracture Zealot (TV 1) tears through a dimensional breach and arrives within 30 feet.
 
 ### Lair Action
 **Dimensional Seam:** On initiative count 20, the boundary between realms tears open at a random 15-foot radius zone within the encounter area. Creatures in the zone are Deafened (-1 die on Focus checks) until they leave the area or the Void-Touched is defeated.
@@ -1160,7 +1160,7 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 ### Tactics
 The Void-Touched opens with Merge Protocol to establish numerical advantage — turning a TV 4 Boss encounter into a TV 4 Boss plus two TV 3 Elites. It positions itself centrally to maximize Feral Council Authority for all Fracture allies, using Commanding Roar every round. It reserves Reality Fracture for clustered party members or as a "reset" when one side has consolidated. When bloodied (below 38 HP), the Void-Touched becomes erratic — using Reality Fracture every turn it recharges and burning Legendary Actions more aggressively. This escalation is intentional: a Void-Touched under pressure loses fine control of its dimensional instability.
 
-**Encounter Design:** Pre-position 2-3 Fracture Zealots and 1 Dimension-Walker already engaged when the Void-Touched enters. Merge Protocol will add 2 more Dimension-Walkers mid-fight, for a total encounter value of TV 10-12. Stage this in a location where the planar boundary is thin — flickering spectral terrain overlap and environmental Spectral damage (1 per round for non-Wraith PCs) intensify the encounter's identity.
+**Encounter Design:** Pre-position 2-3 Fracture Zealots and 1 Dimension-Walker already engaged when the Void-Touched enters. Merge Protocol will add 2 more Dimension-Walkers mid-fight, for a total encounter value of TV 15-16. Stage this in a location where the planar boundary is thin — flickering spectral terrain overlap and environmental Spectral damage (1 per round for non-Wraith PCs) intensify the encounter's identity.
 
 ### Loot
 - Void-touched sigil crystal (opens a controlled 5-foot portal to the Spectral Realm for 1 minute; 1 use) — **Trade Value:** 150 supplies

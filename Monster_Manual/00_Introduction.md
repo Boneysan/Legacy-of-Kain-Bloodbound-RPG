@@ -26,23 +26,25 @@ The manual is divided into thematic chapters, each containing creatures appropri
 
 Each creature is categorized by threat level, which corresponds to the Threat Value (TV) system from **GM_Guide Chapter 2: Encounter Design**:
 
-- **Minion (TV ×0.25):** Weak enemies; 4 equal one Standard enemy of the same level
-- **Standard (TV ×1):** Equal to one PC of the same level
-- **Elite (TV ×2):** Powerful opponent, equal to two PCs
-- **Boss (TV ×4):** Major threat, equal to four PCs
-- **Legendary (TV ×6+):** Campaign-defining entity
+- **Minion (benchmark TV 0.25):** Weak enemies; used in groups to pressure action economy
+- **Standard (benchmark TV 1):** Baseline threat; reliable rank-and-file opponent
+- **Elite (benchmark TV 2):** Strong specialist; roughly two standards' worth of pressure
+- **Boss (benchmark TV 4):** Encounter centerpiece; needs layered defenses or support
+- **Legendary (benchmark TV 6+):** Campaign-defining threat with multiple layers of action economy
 
-*TV values are multipliers. To find a creature's absolute encounter budget contribution, multiply its TV tier by the party's average level (e.g., an Elite enemy facing a Level 6 party contributes TV 12 = ×2 × 6).*
+Threat tiers are descriptive benchmark bands. **The printed TV on a creature is always its final encounter-budget contribution.** If a stat block says `TV 3`, add `3` to the encounter total. If it says `TV 16`, add `16`.
+
+Early chapters often use benchmark values such as `0.25`, `1`, `2`, and `4` directly. Later chapters and unique creatures often print larger absolute TVs because they are already scaled, bespoke threats.
 
 **Calculating Encounter TV:**
 - Party TV = Sum of all PC levels
-- Enemy absolute TV = TV tier multiplier × party's average level
+- Enemy TV = the printed TV on each creature
 - For Balanced Encounter: Total Enemy TV should equal Party TV
 - For Easy: 50-75% of Party TV
 - For Hard: 125-150% of Party TV
 - For Deadly: 175%+ of Party TV
 
-*Example: A Level 5 party of 4 has Party TV 20. A balanced encounter (TV 20) could be: 4 Standard enemies (TV 5 each = 20), 2 Elite enemies (TV 10 each = 20), 1 Boss (TV 20), or a mix such as 1 Elite (TV 10) + 2 Standard (TV 5 each) = TV 20.* (In practice, more than 8-10 enemies becomes unwieldy. Use Minion-tier creatures for large groups.)
+*Example: A Level 5 party of 4 has Party TV 20. A balanced encounter (TV 20) could be: 2 TV 4 bosses + 4 TV 2 elites + 4 TV 1 standards, 1 TV 12 major threat + 2 TV 4 lieutenants, or any other mix totaling about 20.*
 
 ---
 
@@ -92,7 +94,7 @@ Brief description of the creature's nature, origins, and role in Nosgoth.
 - **HP / Health:** Hit Points (some chapters label this as Health)
 - **DV:** Defense Value (calculated as 1 + higher of Shadow or Will). The DV hard cap from base stats is **6**. No creature's innate DV exceeds 6. Effective DV may be raised above 6 through armor bonuses, magical effects, lair actions, or reactions, but the base stat block DV line should never read higher than 6.
 
-> **DV Cap & Scaling Note:** The GM Guide's encounter-scaling formulas may produce projected DV values above 6 for Elite and Boss creatures at higher character levels. This is intentional — those formulas describe *effective* DV (base + armor + reactions + lair bonuses), not base stat block DV. When creating or scaling a creature, keep the printed DV line at 6 or below and layer additional defenses through Armor, shield reactions, lair actions, or conditional bonuses (e.g., "+2 DV when in darkness") to reach the target effective DV.
+> **DV Cap & Scaling Note:** The GM Guide's homebrew formulas may produce projected DV values above 6 for Elite and Boss creatures aimed at higher-level parties. This is intentional — those formulas describe *effective* DV (base + armor + reactions + lair bonuses), not base stat block DV. When creating or scaling a creature, keep the printed DV line at 6 or below and layer additional defenses through Armor, shield reactions, lair actions, or conditional bonuses (e.g., "+2 DV when in darkness") to reach the target effective DV.
 - **DR / Armor:** Damage Reduction or Armor (some chapters label DR as Armor)
 - **Movement:** Speed in feet (divide by 5 for squares)
 

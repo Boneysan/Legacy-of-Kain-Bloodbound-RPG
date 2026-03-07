@@ -16,28 +16,21 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 
 *A towering stone giant animated by ancient runes; a sentinel that judges intruders by forgotten laws.*
 
-**Size/Type:** Huge Construct (Ancient, Stone)
+**Type:** Huge Construct (Ancient, Stone)
+**Threat Tier:** Deadly (TV 16)
 
-**Threat Value:** 16 (Deadly, Boss)
-
-**Attributes:**
-- **Fury:** 7 (Primary)
-- **Soul:** 3
-- **Shadow:** 2
-- **Will:** 5
-- **Focus:** 3
-- **Blood:** 0
-
-**Resources:**
-- **Health:** 220
-- **Soul Energy (SE):** 30
+### Statistics
+- **HP:** 220
+- **DV:** 6 (1 + Will 5)
 - **Armor:** 8 (Runed Stone Plating)
+- **SE:** 30
+- **Initiative:** 4
+- **Movement:** 40 feet (8 squares)
+- **Attributes:** Fury 7, Soul 3, Shadow 2, Will 5, Focus 3, Blood 0
+- **Skills:** Athletics 5, Intimidation 4, Forbidden Knowledge 3
 
-**Movement:** 8; **Initiative:** 4
-
-**Skills:** Athletics (Fury) 12, Intimidation (Will) 9, Forbidden Knowledge (Soul) 6
-
-**Immunities:** Poison, Charm, Sleep; **Resistances:** Bludgeoning/Piercing/Slashing (non-magical)
+**Immunities:** Poison, Charm, Sleep
+**Resistances:** Bludgeoning/Piercing/Slashing (non-magical)
 
 ---
 
@@ -84,19 +77,21 @@ Legendary Actions (2/round)
 
 *A hovering monolith of resonant stone that sings prophecies; its tones warp mind and matter.*
 
-**Size/Type:** Large Construct (Ancient, Resonant)
+**Type:** Large Construct (Ancient, Resonant)
+**Threat Tier:** Major (TV 12)
 
-**Threat Value:** 12 (Major, Controller)
+### Statistics
+- **HP:** 95
+- **DV:** 7 (1 + Will 6)
+- **Armor:** 3 (Resonant Field)
+- **SE:** 70
+- **Initiative:** 8
+- **Movement:** 40 feet (8 squares), Fly 40 feet (hover)
+- **Attributes:** Fury 2, Soul 6, Shadow 3, Will 6, Focus 5, Blood 0
+- **Skills:** Forbidden Knowledge 6, Insight 5, Observation 4
 
-**Attributes:** Fury 2, Soul 6 (Primary), Shadow 3, Will 6, Focus 5, Blood 0
-
-**Resources:** Health 95; SE 70; Armor 3 (Resonant Field)
-
-**Movement:** 8 (Hover); **Initiative:** 8
-
-**Skills:** Forbidden Knowledge (Soul) 12, Insight (Focus) 10, Observation (Focus) 9
-
-**Immunities:** Prone; **Resistances:** Force, Psychic
+**Immunities:** Prone
+**Resistances:** Force, Psychic
 
 ---
 
@@ -141,19 +136,21 @@ Legendary Actions (2/round)
 
 *A titanic, serpentine ruin-eater that swims through waterways and flooded crypts; a moving ecosystem of ancient stone and lichen.*
 
-**Size/Type:** Gargantuan Beast (Ancient, Aquatic)
+**Type:** Gargantuan Beast (Ancient, Aquatic)
+**Threat Tier:** Deadly (TV 17)
 
-**Threat Value:** 17 (Deadly, Boss)
+### Statistics
+- **HP:** 260
+- **DV:** 5 (1 + Shadow 4)
+- **Armor:** 7 (Ossified Plates)
+- **SE:** 20
+- **Initiative:** 5
+- **Movement:** 60 feet (12 squares), Swim 60 feet, Burrow 30 feet (silt)
+- **Attributes:** Fury 8, Soul 3, Shadow 4, Will 4, Focus 3, Blood 0
+- **Skills:** Athletics 5, Observation 5, Survival 5
 
-**Attributes:** Fury 8 (Primary), Soul 3, Shadow 4, Will 4, Focus 3, Blood 0
-
-**Resources:** Health 260; SE 20; Armor 7 (Ossified Plates)
-
-**Movement:** 12 (Swim, Burrow-silt 6); **Initiative:** 5
-
-**Skills:** Athletics (Fury) 13, Observation (Focus) 8, Survival (Focus) 8
-
-**Immunities:** Poison; **Resistances:** Cold, Physical (non-magical)
+**Immunities:** Poison
+**Resistances:** Cold, Physical (non-magical)
 
 ---
 
@@ -199,19 +196,22 @@ Legendary Actions (2/round)
 
 *A translucent guardian bound to a Pillar fragment; strikes at those who disturb the Balance.*
 
-**Size/Type:** Medium Spectral (Pillar-Bound)
+**Type:** Medium Spectral (Pillar-Bound)
+**Threat Tier:** High (TV 11)
 
-**Threat Value:** 11 (Elite, Skirmisher)
+### Statistics
+- **HP:** 85
+- **DV:** 6 (1 + Shadow 5)
+- **Armor:** 2 (Spectral)
+- **SE:** 60
+- **Initiative:** 9
+- **Movement:** 60 feet (12 squares), Fly 60 feet (hover, phasing)
+- **Attributes:** Fury 4, Soul 6, Shadow 5, Will 4, Focus 4, Blood 0
+- **Skills:** Forbidden Knowledge 3, Stealth 5, Insight 4
 
-**Attributes:** Fury 4, Soul 6 (Primary), Shadow 5, Will 4, Focus 4, Blood 0
-
-**Resources:** Health 85; SE 60; Armor 2 (Spectral)
-
-**Movement:** 12 (Hover, Phasing); **Initiative:** 9
-
-**Skills:** Forbidden Knowledge (Soul) 9, Stealth (Shadow) 10, Insight (Focus) 8
-
-**Immunities:** Non-magical physical; **Resistances:** Radiant, Soul; **Vulnerabilities:** Glyph magic
+**Immunities:** Non-magical physical
+**Resistances:** Radiant, Soul
+**Vulnerabilities:** Glyph magic
 
 ---
 
@@ -254,19 +254,22 @@ Legendary Actions (2/round)
 
 *A ruin-born predator grown from collapsed wards, rebar, and bone-like crystal—fast, cunning, territorial.*
 
-**Size/Type:** Medium Beast (Arcane, Ruin-Born)
+**Type:** Medium Beast (Arcane, Ruin-Born)
+**Threat Tier:** High (TV 10)
 
-**Threat Value:** 10 (Elite, Striker)
+### Statistics
+- **HP:** 105
+- **DV:** 6 (1 + Shadow 5)
+- **Armor:** 4 (Shard Carapace)
+- **SE:** 10
+- **Initiative:** 8
+- **Movement:** 70 feet (14 squares), Climb 70 feet
+- **Attributes:** Fury 6, Soul 2, Shadow 5, Will 3, Focus 3, Blood 0
+- **Skills:** Athletics 4, Stealth 4, Observation 4
 
-**Attributes:** Fury 6 (Primary), Soul 2, Shadow 5, Will 3, Focus 3, Blood 0
-
-**Resources:** Health 105; SE 10; Armor 4 (Shard Carapace)
-
-**Movement:** 14 (Climb); **Initiative:** 8
-
-**Skills:** Athletics (Fury) 10, Stealth (Shadow) 9, Observation (Focus) 7
-
-**Immunities:** Poison; **Resistances:** Slashing; **Vulnerabilities:** Thunder (resonance shatters carapace), Fire, Radiant
+**Immunities:** Poison
+**Resistances:** Slashing
+**Vulnerabilities:** Thunder (resonance shatters carapace), Fire, Radiant
 
 ---
 
@@ -304,19 +307,22 @@ Legendary Actions (2/round)
 
 *A serpentine titan coiled through the roots of a shattered Pillar — part guardian, part prisoner, older than any empire that tried to claim the Pillars.*
 
-**Size/Type:** Gargantuan Beast (Ancient, Pillar-Bound)
+**Type:** Gargantuan Beast (Ancient, Pillar-Bound)
+**Threat Tier:** Major (TV 14)
 
-**Threat Value:** 14 (Major, Boss)
+### Statistics
+- **HP:** 180
+- **DV:** 5 (1 + Shadow 4)
+- **Armor:** 7 (Petrified Scale-Plate)
+- **SE:** 50
+- **Initiative:** 6
+- **Movement:** 50 feet (10 squares), Burrow 75 feet
+- **Attributes:** Fury 7, Soul 6, Shadow 4, Will 6, Focus 5, Blood 0
+- **Skills:** Athletics 5, Arcana 4, Intimidation 4, Perception 3
 
-**Attributes:** Fury 7 (Primary), Soul 6, Shadow 4, Will 6, Focus 5, Blood 0
-
-**Resources:** Health 180; SE 50; Armor 7 (Petrified Scale-Plate)
-
-**Movement:** 10 (Burrowing 15); **Initiative:** 6
-
-**Skills:** Athletics (Fury) 12, Arcana (Soul) 10, Intimidation (Will) 10, Perception (Focus) 8
-
-**Immunities:** Poison, Charm, Sleep; **Resistances:** Bludgeoning/Piercing/Slashing (non-magical), Force; **Vulnerabilities:** Radiant (the Pillar energy within reacts violently to purifying light), Thunder
+**Immunities:** Poison, Charm, Sleep
+**Resistances:** Bludgeoning/Piercing/Slashing (non-magical), Force
+**Vulnerabilities:** Radiant (the Pillar energy within reacts violently to purifying light), Thunder
 
 ---
 
@@ -390,19 +396,22 @@ Most Pillar Wyrms slumber for centuries at a time. The collapse of the Pillars h
 
 *A lank, long-limbed hunter bearing fragments of titan plates; a living heir to a lost giant lineage.*
 
-**Size/Type:** Large Humanoid (Giant-Kin)
+**Type:** Large Humanoid (Giant-Kin)
+**Threat Tier:** Major (TV 12)
 
-**Threat Value:** 12 (Major, Skirmisher)
+### Statistics
+- **HP:** 120
+- **DV:** 7 (1 + Shadow 6)
+- **Armor:** 3
+- **SE:** 20
+- **Initiative:** 10
+- **Movement:** 80 feet (16 squares)
+- **Attributes:** Fury 6, Soul 3, Shadow 6, Will 4, Focus 4, Blood 0
+- **Skills:** Stealth 6, Athletics 4, Survival 5
 
-**Attributes:** Fury 6, Soul 3, Shadow 6 (Primary), Will 4, Focus 4, Blood 0
-
-**Resources:** Health 120; SE 20; Armor 3
-
-**Movement:** 16; **Initiative:** 10
-
-**Skills:** Stealth (Shadow) 12, Athletics (Fury) 10, Survival (Focus) 9
-
-**Immunities:** Fear; **Resistances:** Poison; **Vulnerabilities:** Cold (slows its ancient metabolism)
+**Immunities:** Fear
+**Resistances:** Poison
+**Vulnerabilities:** Cold (slows its ancient metabolism)
 
 ---
 
@@ -441,19 +450,22 @@ Most Pillar Wyrms slumber for centuries at a time. The collapse of the Pillars h
 
 *An idea-born predator, half-seen in waking corners; memories give it shape and hunger.*
 
-**Size/Type:** Medium Aberration (Psychic)
+**Type:** Medium Aberration (Psychic)
+**Threat Tier:** Major (TV 13)
 
-**Threat Value:** 13 (Major, Controller)
+### Statistics
+- **HP:** 110
+- **DV:** 7 (1 + Shadow 6)
+- **Armor:** 2
+- **SE:** 80
+- **Initiative:** 9
+- **Movement:** 60 feet (12 squares), Fly 60 feet (hover)
+- **Attributes:** Fury 4, Soul 7, Shadow 6, Will 5, Focus 5, Blood 0
+- **Skills:** Forbidden Knowledge 3, Deception 4, Insight 4
 
-**Attributes:** Fury 4, Soul 7 (Primary), Shadow 6, Will 5, Focus 5, Blood 0
-
-**Resources:** Health 110; SE 80; Armor 2
-
-**Movement:** 12 (Hover); **Initiative:** 9
-
-**Skills:** Forbidden Knowledge (Soul) 10, Deception (Shadow) 10, Insight (Focus) 9
-
-**Immunities:** Prone, Sleep, Charm; **Resistances:** Psychic, Soul; **Vulnerabilities:** Radiant, effects that banish or disrupt illusions
+**Immunities:** Prone, Sleep, Charm
+**Resistances:** Psychic, Soul
+**Vulnerabilities:** Radiant, effects that banish or disrupt illusions
 
 *GM Design Note: The Dreambeast is intentionally fragile for its TV — it is a 'glass cannon' controller that relies on illusions and crowd control rather than raw durability. If your party has high burst damage, consider pairing it with tankier creatures to protect it.*
 
@@ -495,18 +507,23 @@ Most Pillar Wyrms slumber for centuries at a time. The collapse of the Pillars h
 ## Root-Entombed Horror
 
 *A massive, root-wrapped form that crawls with slow inevitability; the forest’s wrath embodied.*
-**Size/Type:** Huge Plant (Ancient, Corrupted)
-**Threat Value:** 15 (Deadly, Brute)
 
-**Attributes:** Fury 8 (Primary), Soul 3, Shadow 2, Will 5, Focus 3, Blood 0
+**Type:** Huge Plant (Ancient, Corrupted)
+**Threat Tier:** Deadly (TV 15)
 
-**Resources:** Health 230; SE 30; Armor 6 (Barkstone)
+### Statistics
+- **HP:** 230
+- **DV:** 6 (1 + Will 5)
+- **Armor:** 6 (Barkstone)
+- **SE:** 30
+- **Initiative:** 3
+- **Movement:** 40 feet (8 squares)
+- **Attributes:** Fury 8, Soul 3, Shadow 2, Will 5, Focus 3, Blood 0
+- **Skills:** Athletics 4, Intimidation 3
 
-**Movement:** 8; **Initiative:** 3
-
-**Skills:** Athletics (Fury) 12, Intimidation (Will) 8
-
-**Immunities:** Poison; **Resistances:** Slashing; **Vulnerabilities:** Fire
+**Immunities:** Poison
+**Resistances:** Slashing
+**Vulnerabilities:** Fire
 
 ---
 
@@ -546,8 +563,7 @@ Most Pillar Wyrms slumber for centuries at a time. The collapse of the Pillars h
 ## Primordial Blood Stalker
 
 **Type:** Ancient Beast (Vampiric, Predator)
-**Threat Tier:** High
-**Threat Value (TV):** 13
+**Threat Tier:** High (TV 13)
 
 ### Lore
 The Primordial Blood Stalker is what Nosgoth's deepest wilderness was before the vampire clans imposed their hierarchy on it. This creature predates every clan, perhaps predates the Circle of Nine entirely — a vampiric apex predator that existed before there were lords and serfs among the undead, when the hungers of the night moved on four legs and took what they wanted with tooth and claw rather than ceremony.
@@ -560,6 +576,7 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 - **HP:** 185
 - **DV:** 6 (1 + Fury 5)
 - **Armor:** 2 (ancient vampiric hide)
+- **Initiative:** 7
 - **Movement:** 45 feet (9 squares)
 - **Attributes:** Fury 6, Soul 3, Shadow 5, Blood 5, Will 3, Focus 4
 - **Skills:** Stealth (Shadow) 4, Athletics (Fury) 3, Tracking (Focus) 3
@@ -616,8 +633,7 @@ The Blood Stalker opens from Stealth, using Ancient Lunge to Pin the most armore
 ## Pillar-Decay Sentinel
 
 **Type:** Ancient Construct-Entity (Corrupted Pillar Guardian)
-**Threat Tier:** High
-**Threat Value (TV):** 12
+**Threat Tier:** High (TV 12)
 
 ### Lore
 When a Pillar of Nosgoth began to fail under an unworthy or corrupted Guardian, the built-in protective constructs associated with that Pillar did not simply shut down. They adapted. The corruption spreading from the Guardian seeped into the constructs, and the constructs incorporated it into their purpose.
@@ -630,6 +646,7 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 - **HP:** 175
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 3 (decayed Pillar stone)
+- **Initiative:** 3
 - **Movement:** 25 feet (5 squares)
 - **Attributes:** Fury 3, Soul 6, Will 5, Focus 4, Shadow 2, Blood 0
 - **Skills:** Corruption Channeling (Soul) 4, Arcana (Soul) 3, Intimidation 3
@@ -683,8 +700,7 @@ The Sentinel advances slowly, using Corruption Aura to force the party to spread
 ## Living Ward
 
 **Type:** Ancient Construct (Magical Guardian)
-**Threat Tier:** High
-**Threat Value (TV):** 11
+**Threat Tier:** High (TV 11)
 
 ### Lore
 Living Wards are the apex of the ancient construct-builder's art: not merely mechanical guardians with runic inscriptions, but magical constructs that have accumulated enough arcane self-awareness over millennia to make independent defensive decisions. They are bound to a location — a vault, a sanctum, a sealed chamber — and they have defended it long past the point where anyone alive remembers what they were built to guard.
@@ -695,6 +711,7 @@ They manifest as large geometric constructs of light and pale stone, roughly hum
 - **HP:** 160
 - **DV:** 6 (1 + Soul 5)
 - **Armor:** 2 (enchanted stone frame)
+- **Initiative:** 4
 - **Movement:** 30 feet (6 squares), Fly 30 feet
 - **Attributes:** Fury 1, Soul 5, Focus 5, Will 5, Shadow 3, Blood 0
 - **Skills:** Arcana (Soul) 4, Ward Projection (Focus) 4, Observation (Focus) 3

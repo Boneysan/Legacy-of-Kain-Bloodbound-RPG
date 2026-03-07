@@ -43,7 +43,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 
 #### Core Abilities
 *   **Blood Frenzy** (Passive): Gain +1 Fury to your dice pool for the next action when you take damage.
-*   **Life Drain** (Passive): When you deal melee damage, heal HP equal to half the damage dealt (round up).
+*   **Life Drain** (Passive): When you deal melee damage, heal HP equal to half the damage dealt (round up). This healing triggers once per turn.
 *   **Low Health Surge** (Passive): +1 Success to physical actions when below 50% HP.
 
 #### Class Perks
@@ -71,7 +71,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 17 | **Lord of the Feast** | Life Drain heals 100% of damage dealt when below 50% HP. | Passive |
 | 18 | **Essence Thief** | Steal 1 BP or SE on melee hit (Will vs Difficulty 3). | Passive, 1/turn |
 | 19 | **Adamantite Form** | +1 Base Armor. Immune to Critical Hits. | Passive |
-| 20 | **Blood Tyrant** | For 1 min: +2 Fury, +2 Blood, full Life Drain always. | Action, 1/long rest |
+| 20 | **Blood Tyrant** | Passive: Melee crits restore 3 HP. Active (1/long rest, 1 min): +3 Fury dice to all attacks, Life Drain heals 100% of damage dealt with no per-turn limit, and each kill immediately grants a Bonus Action. | Passive + Action, 1/long rest |
 | 20 | *or* **Siege Incarnate** | Permanently immune to forced movement, knockback, and grapple. Melee attacks ignore all Armor. Allies within 15ft gain +2 Defense. | Passive |
 
 
@@ -103,7 +103,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 9 | **Spectral Nova** | 9 Spectral Dmg to all within 10ft (Soul vs Diff 3). | Action, 3 SE |
 | 10 | **Spectral Fugue** | Ethereal Step is now full speed + invisible. | Passive |
 | 10 | *or* **Soul Rift** | On a Soul Blade hit, tear a Spectral wound: 3 Spectral dmg/turn for 3 turns (bypasses Armor). Stacks up to ×2. | Action, 1/short rest |
-| 11 | **Soul Consumption** | Soul Siphon restores 3 SE or 1d6 HP. | Passive |
+| 11 | **Soul Consumption** | Soul Siphon restores 3 SE or 3 HP. | Passive |
 | 12 | **Phase Mastery** | Shift Realms as a Bonus Action. No cost. | Passive |
 | 13 | **Spirit Rend** | Spectral Strike stuns target (Soul vs Diff 4). | Passive |
 | 14 | **Abyssal Anchor** | Prevent target from shifting realms/teleporting. | Reaction, 1 SE |
@@ -111,7 +111,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 17 | **Ethereal Assassin** | Attack from Spectral Realm without fully shifting. | Action, 2 SE |
 | 18 | **Soul Storm** | Spectral Nova deals 15 Spectral Dmg + Fear. | Action, 4 SE |
 | 19 | **Wraith Lord** | Permanent Resistance to Physical Dmg. | Passive |
-| 20 | **Angel of Death** | Fly speed 60ft, all attacks ignore Resistances. | Action, 5 SE |
+| 20 | **Angel of Death** | Transformation (1 min): Gain fly speed 60ft, all attacks ignore Resistances and Immunities, melee attacks deal +3 bonus Spectral damage. Enemies that can see you must succeed on a DR 3 Soul save or be Frightened for the duration. | Action, 5 SE, 1/long rest |
 | 20 | *or* **Phantom Sovereign** | Ethereal Step, Spectral Strike, Ghost Parry, and Flicker no longer cost SE. | Passive |
 
 ### 3.3.3 Shadowmancer
@@ -127,7 +127,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 #### Core Abilities
 *   **Cloak of Mist** (Bonus Action): Auto-succeed on one Stealth check (1/short rest).
 *   **Shadow Familiar** (Ritual): Summon a small shadow entity (HP = Level*2 + Soul).
-*   **Backstab** (Passive): +1d6 Damage when attacking from stealth or flanking.
+*   **Backstab** (Passive): +3 Damage when attacking from stealth or flanking.
 
 #### Class Perks
 | Level | Perk Name | Effect | Action/Cost |
@@ -155,7 +155,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 18 | **Umbral Lord** | Regain 1 SE whenever you deal Entropic damage. | Passive |
 | 19 | **Eternal Night** | You operate as if in darkness even in sunlight. | Passive |
 | 20 | **Apotheosis of Shadow** | Transcend physical form — become an avatar of living darkness. Gain immunity to Physical damage, Blindsight 60 ft, and all shadow-based abilities cost 0 SE for 1 minute. Enemies that can see you must succeed on a DR 4 Will save or be Frightened. | Action, 1/long rest |
-| 20 | *or* **Lord of Nightmares** | Enemies who fail a Will save against any of your Fear effects are Dominated for 1 round (act on your behalf, cannot target you) rather than Frightened. | Passive |
+| 20 | *or* **Lord of Nightmares** | Enemies who fail a Will save against your active Fear abilities (Fear Toxin, Nightmare Chorus) are Dominated for 1 round (act on your behalf, cannot target you) rather than Frightened. Does not apply to passive auras (Terror Aura). | Passive |
 
 ### 3.3.4 Sangromancer
 
@@ -192,13 +192,13 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 13 | **Voracious Siphon** | Vital Leech heals +Soul HP, steals 1 BP. | Passive |
 | 14 | **Blood Scent** | Sense living creatures within 60ft automatically. | Passive |
 | 15 | **Master Puppeteer** | Blood Puppet affects 2 targets or lasts longer. | Passive |
-| 15 | *or* **Crimson Necromancer** | True Fleshcrafting creates 2 servitors from one corpse. Servitors gain +5 Max HP and deal +2 damage. | Passive |
+| 15 | *or* **Sanguine Desolation** | Hemorrhage triggers automatically at the start of each of your turns against all Bleeding targets within 30ft (no action required). Vein Strike bonus increases to +4 damage. When a Bleeding target dies, all enemies within 10ft of them gain 1 Bleeding stack. | Passive |
 | 16 | **Plague of Clots** | Target cannot heal and is Slowed (Blood Save). | Action, 1 BP |
 | 17 | **Heartblood Invigoration** | Reduce all BP costs by 1 (min 1). | Passive |
 | 18 | **Sanguine Eruption** | Bloodburst area +5ft and knocks Prone. | Passive |
 | 19 | **Crimson Transfusion** | Blood Pact can revive dead allies (recent death). | Ritual, 5 BP |
 | 20 | **Avatar of Living Vitae** | Become a being of pure blood. Immune to Phys Dmg. | Action, 1/long rest |
-| 20 | *or* **Exsanguination Engine** | +5 Max BP. All BP costs reduced by 1 (min 0). Regain 2 BP on each kill in combat. | Passive |
+| 20 | *or* **Exsanguination Engine** | +5 Max BP. All BP costs reduced by 1 (min 1). Regain 2 BP on each kill in combat. | Passive |
 
 ### 3.3.5 Glyphwright
 
@@ -270,13 +270,13 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 6 | **Phantom Rush** | +10ft Speed, +1 Die on next attack after kill. | Passive |
 | 7 | **Shadow Ambush** | Make a free attack if starting combat from stealth. | Passive |
 | 8 | **Blur Step** | Dodge one melee attack automatically. | Reaction, 1/scene |
-| 9 | **Death’s Whisper** | Instantly kill a target below 10 HP. | Action |
-| 10 | **Perfect Kill** | Deal massive dmg (Crit x3) to Surprised foe. | Action |
+| 9 | **Death's Whisper** | Instantly kill a target below 10 HP (DR 3 Blood save negates; non-boss only). | Action |
+| 10 | **Perfect Kill** | Critical hits deal ×3 damage. Once per short rest, spend a Bonus Action to mark a target — your next attack against them this scene is an automatic critical hit regardless of the roll. | Passive + Bonus Action |
 | 10 | *or* **Ghost Protocol** | Once per scene, re-entering Stealth mid-combat makes your next Stealth attack an automatic critical hit. Resets after a kill. | Passive |
 | 11 | **Lingering Gloom** | Smoke Veil lasts longer and poisons enemies. | Passive |
 | 12 | **Spectral Sepsis** | Venom Edge prevents healing. | Passive |
 | 13 | **Flashing Phantom** | Blink Strike costs 0 SE if it kills the target. | Passive |
-| 14 | **Vitals Seeker** | Increase Critical Hit range (5-6 on die). | Passive |
+| 14 | **Vitals Seeker** | Critical Hit threshold reduced by 1 (exceed DV by 1+ successes instead of 2+). | Passive |
 | 15 | **Unending Barrage** | Lethal Flow triggers on Crit as well as Kill. | Passive |
 | 15 | *or* **Bleeding Storm** | Bleeding effects deal damage twice per turn (start and end). Enemies with 3+ Bleeding stacks are Slowed (half movement, -1 die Evasion). | Passive |
 | 16 | **Untouchable** | Blur Step can be used 2/scene. | Passive |
@@ -298,7 +298,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 
 #### Core Abilities
 *   **Time Stasis** (Action, 2 SE): Freeze a creature for 1 round (Will Save) or object for 1 min.
-*   **Guardian’s Edict** (Bonus Action): Allies gain +1 DV and Temp HP.
+*   **Guardian's Edict** (Bonus Action): Allies gain +1 DV and Temp HP equal to your Will.
 *   **Timeless Bulwark** (Passive): +1 Die vs time-altering effects.
 
 #### Class Perks
@@ -309,14 +309,14 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 3 | **Balance Strike** | Deal Dmg equal to Soul; Dispel magic. | Action, 1 SE |
 | 4 | **Fate Align** | Allow an ally to reroll a failed die. | Reaction |
 | 5 | **Cycle Command** | Ally at 0 HP is restored to 1 HP. | Reaction, 1/scene |
-| 5 | *or* **Pillar's Verdict** | When an ally within 30ft takes damage, reduce that damage by your Will attribute score. | Reaction, 1/scene |
+| 5 | *or* **Judgment's Edge** | When an enemy damages an ally within 30ft, mark them with Fate's Condemnation (Reaction, 1/scene). Your next attack against that target deals +Will bonus damage and inflicts -1 die to their next save. | Reaction, 1/scene |
 | 6 | **Echo of Fate** | Reroll your own failed roll. | Reaction, 1/scene |
 | 7 | **Zone of Judgment** | 15ft zone, enemies suffer -1 DV. | Action, 2 SE |
-| 8 | **Mark of Equilibrium** | Reduce damage taken by target by 2. | Bonus Action |
+| 8 | **Mark of Equilibrium** | Reduce damage taken by target by 2 until the start of your next turn. | Bonus Action |
 | 9 | **Judgment Wheel** | 30ft zone. Random buffs/debuffs (1 min). | Action, 3 SE |
 | 10 | **Eternal Balance** | Take two full turns in one round. | 1/long rest || 10 | *or* **Scales of Ruin** | Mark a target with Judgment (2 SE). While marked, half the damage they deal is reflected back to them (rounded up). Lasts until Bloodied or scene ends. | Bonus Action, 1/scene || 11 | **Pillar’s Resilience** | Edict of Order grants Resistance to Magic. | Passive |
 | 12 | **Stabilizing Presence** | Time Stasis lasts 2 rounds. | Passive |
-| 13 | **Fated Intercession** | Fate Align restores 1d6 HP to ally. | Passive |
+| 13 | **Fated Intercession** | Fate Align restores 3 HP to ally. | Passive |
 | 14 | **True Sight** | See through illusions and invisibility. | Action |
 | 15 | **Perfected Equilibrium** | Balance Strike deals double dmg to High Corruption. | Passive |
 | 15 | *or* **Cycle's Enforcer** | Balance Strike hits all targets in a 10ft line. Targets at ≤50% HP are knocked Prone in addition to normal effects. | Passive |
@@ -324,7 +324,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 17 | **Unyielding Adjudication** | Zone of Judgment prevents teleportation. | Passive |
 | 18 | **Anchored in Time** | Immune to Slow/Stasis/Time effects. | Passive |
 | 19 | **Destiny Architect** | Judgment Wheel results can be chosen. | Passive |
-| 20 | **Nexus of Aeons** | Reset the combat round (Time Travel). | Action, 1/Campaign |
+| 20 | **Nexus of Aeons** | Once per session, rewind all actions from the current round — damage, effects, and positioning reset to that round's start; all players act with foreknowledge of what transpired. Passively, you cannot be surprised and gain +1 die to all Initiative rolls. | Action, 1/session |
 | 20 | *or* **Arbiter of Finality** | Once per long rest, declare Final Judgment on a target. If they kill an ally, they immediately take damage equal to that ally's max HP (bypasses Armor). If this drops them to 0 HP, they cannot be revived. | Bonus Action, 1/long rest |
 
 ### 3.3.8 Hylden Warlock
@@ -349,7 +349,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 2 | **Hex Spark** | Dealing spell dmg deals 1 Splash dmg to nearby. | Passive |
 | 3 | **Madness Surge** | Target is Confused (Will Save). | Action, 1 SE |
 | 4 | **Willbreaker** | +1 Die on Will checks vs Frightened enemies. | Passive |
-| 5 | **Forbidden Truth** | Cast a spell using Corruption instead of SE. | Free Action |
+| 5 | **Forbidden Truth** | Cast a spell using Corruption instead of SE. | Free Action, 1/scene |
 | 5 | *or* **Entropic Overload** | Your next spell or Void Shard deals +3 Void damage (bypasses Armor and Resistances). | Free Action, 1/short rest |
 | 6 | **Decay Field** | 10ft Zone, enemies suffer -1 Die on everything. | Action, 2 SE |
 | 7 | **Glyph of Disquiet** | 15ft Aura, enemies are uneasy (-1 Social). | Action, 2 SE |
@@ -361,11 +361,11 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 12 | **Soul Flensing** | Void Shard strips Resistances. | Passive |
 | 13 | **Premonitions** | Force an enemy to reroll a successful attack. | Reaction |
 | 14 | **Aura of Despair** | Glyph of Disquiet causes Fear. | Passive |
-| 15 | **Void-Forged Will** | +2 DV when Corruption is High (>7). | Passive |
+| 15 | **Voidborn Ascendancy** | Corruption fuels your power. Gain +1 die to all spell attacks for every 3 Corruption you carry (max +4 dice). When you use Forbidden Truth, choose: gain Corruption as normal, or instead deal 3 Void damage (no save, bypasses Armor) to all enemies within 10ft. | Passive |
 | 15 | *or* **Hylden's Mantle** | Resistance to all magical damage types. Once per scene as a Reaction, completely negate one magical effect targeting you. | Passive |
 | 16 | **Entropic Unmaking** | Destroy a non-magical object instantly. | Action |
 | 17 | **Feast on Suffering** | Regain SE when nearby enemies take Dmg. | Passive |
-| 18 | **Shattered Prophecy** | Forbidden Truth generates no Corruption. | Passive |
+| 18 | **Shattered Prophecy** | Forbidden Truth generates half the normal Corruption (round down, min 0). | Passive |
 | 19 | **Soul Annihilation** | Nether Binding deals Dmg equal to target's Corruption. | Passive |
 | 20 | **Oracle of Endings** | Cast any spell for free, Max Dmg. | Action, 1/long rest |
 | 20 | *or* **Final Unraveling** | Mark a target (Bonus Action). For 3 rounds, they take damage equal to their Corruption score at the start of their turns (bypasses all Armor and Resistances). Survivors gain 2 Corruption. | Bonus Action, 1/long rest |

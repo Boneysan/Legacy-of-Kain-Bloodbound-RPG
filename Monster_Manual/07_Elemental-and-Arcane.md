@@ -16,31 +16,18 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 *A swirling vortex of flame and rage, bound to a specific place or object, lashing out at any who intrude upon its sanctum.*
 
-**Size/Type:** Large Elemental (Fire)
+**Type:** Large Elemental (Fire)
+**Threat Tier:** Major (TV 12)
 
-**Threat Value:** 12 (Medium)
-
-**Attributes:**
-- **Fury:** 6 (Primary)
-- **Soul:** 3
-- **Shadow:** 4
-- **Will:** 2
-- **Focus:** 3
-- **Blood:** 0 (Immune to Blood-based effects)
-
-**Resources:**
-- **Health:** 80
-- **Soul Energy (SE):** 30
-- **Blood Points (BP):** N/A
+### Statistics
+- **HP:** 80
+- **DV:** 5 (1 + Shadow 4)
 - **Armor:** 4 (Hardened magical flame)
-
-**Movement:** 10 (Flying, Hover)
-**Initiative:** 7
-
-**Skills:**
-- **Intimidation (Fury):** 10
-- **Perception (Focus):** 6
-- **Arcana (Soul):** 7
+- **SE:** 30
+- **Initiative:** 7
+- **Movement:** 50 feet (10 squares), Fly 50 feet (hover)
+- **Attributes:** Fury 6, Soul 3, Shadow 4, Will 2, Focus 3, Blood 0 (Immune to Blood-based effects)
+- **Skills:** Intimidation 4, Perception 3, Arcana 4
 
 **Immunities:** Fire, Poison, Fear, Charm, Sleep
 **Vulnerabilities:** Cold, Magical Silence/Dampening effects
@@ -54,7 +41,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 - **Range:** Melee (5ft)
 - **Dice Pool:** Fury (6) + 3 vs. Dodge
 - **Damage:** 10 Fire Damage. On hit, the target gains 1 stack of **Immolate**.
-- **Immolate:** Target takes 2 Fire damage at the start of their turn. Stacks up to 5 times. Can be doused with an Action and a successful Willpower check (DC 12) (removes all stacks) or by taking Cold damage (removes all stacks).
+- **Immolate:** Target takes 2 Fire damage at the start of their turn. Stacks up to 5 times. Can be doused with an Action and a successful Willpower check (DR 12) (removes all stacks) or by taking Cold damage (removes all stacks).
 
 **2. Emberstorm (Area of Effect)**
 - **Action:** 1 Action
@@ -84,7 +71,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 ### Tactics & Strategy
 
-**For Players:** The key is to identify the anchor. A successful **Arcana** or **Investigation (Focus)** check (DC 15) will reveal the source of the Djinn's binding. While some party members keep the Djinn occupied, others must focus their attacks on the anchor. Cold-based attacks are highly effective, as they can slow the Djinn and reduce its damage output. Dousing the **Immolate** effect is crucial to prevent accumulating damage.
+**For Players:** The key is to identify the anchor. A successful **Arcana** or **Investigation (Focus)** check (DR 15) will reveal the source of the Djinn's binding. While some party members keep the Djinn occupied, others must focus their attacks on the anchor. Cold-based attacks are highly effective, as they can slow the Djinn and reduce its damage output. Dousing the **Immolate** effect is crucial to prevent accumulating damage.
 
 **For the GM:** The Djinn is a localized, high-damage threat. Use its Heat Wave and Emberstorm to pressure the entire party. It will not pursue fleeing characters beyond its boundary, but will instead return to its anchor, ready to re-engage. If the players are struggling, hint at the anchor's significance by having the Djinn react with unusual fury when it is damaged.
 
@@ -94,13 +81,13 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 - **Elemental Heart of Fire:** A core of solidified flame. Can be used by a skilled artisan to craft a weapon that deals +5 Fire damage on hit, or an amulet that grants Fire Resistance.
 - **Essence of Rage:** Can be distilled into a potion that grants +2 Fury for one hour.
-- **Binding Runes:** If the anchor is studied before destruction (requires an hour and a successful Arcana check, DC 18), the character can learn a ritual to temporarily bind an elemental of their own.
+- **Binding Runes:** If the anchor is studied before destruction (requires an hour and a successful Arcana check, DR 18), the character can learn a ritual to temporarily bind an elemental of their own.
 
 ---
 
 ### Scaling Options
 
-- **Threat Value 15 (Major):** Increase Health to 120 and Armor to 6. **Cinder Strike** now deals 14 damage. **Emberstorm** costs 8 SE and deals 16 damage. Gains a new ability: **Detonation (Reaction)** - When reduced to 0 Health (but its anchor is intact), it explodes. All creatures within 30ft must make an Agility save (DC 16) or take 25 Fire damage.
+- **Threat Value 15 (Major):** Increase HP to 120 and Armor to 6. **Cinder Strike** now deals 14 damage. **Emberstorm** costs 8 SE and deals 16 damage. Gains a new ability: **Detonation (Reaction)** - When reduced to 0 HP (but its anchor is intact), it explodes. All creatures within 30ft must make an Agility save (DR 16) or take 25 Fire damage.
 - **Threat Value 18 (Deadly):** As above, but gains a Legendary Action. It can use **Cinder Strike** at the end of another creature's turn (1/round). Its **Heat Wave** aura now also reduces incoming healing to creatures within it by 50%.
 
 ---
@@ -109,32 +96,18 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 *A large, spectral wolf wreathed in ethereal fire, its howls echoing with the crackle of a dying fire. It is a hunter, bound not by rage, but by a lingering, sorrowful duty.*
 
-**Size/Type:** Large Beast (Spectral, Fire)
+**Type:** Large Beast (Spectral, Fire)
+**Threat Tier:** High (TV 9)
 
-**Threat Value:** 9 (Medium)
-
-**Attributes:**
-- **Fury:** 4
-- **Soul:** 5 (Primary)
-- **Shadow:** 3
-- **Will:** 3
-- **Focus:** 4
-- **Blood:** 0 (Immune to Blood-based effects)
-
-**Resources:**
-- **Health:** 65
-- **Soul Energy (SE):** 40
-- **Blood Points (BP):** N/A
+### Statistics
+- **HP:** 65
+- **DV:** 6 (1 + Soul 5)
 - **Armor:** 2 (Ethereal form)
-
-**Movement:** 15
-**Initiative:** 8
-
-**Skills:**
-- **Stealth (Shadow):** 8
-- **Tracking (Focus):** 10
-- **Acrobatics (Fury):** 7
-- **Arcana (Soul):** 8
+- **SE:** 40
+- **Initiative:** 8
+- **Movement:** 75 feet (15 squares), Fly 75 feet (hover)
+- **Attributes:** Fury 4, Soul 5, Shadow 3, Will 3, Focus 4, Blood 0 (Immune to Blood-based effects)
+- **Skills:** Stealth 5, Tracking 6, Acrobatics 3, Arcana 3
 
 **Immunities:** Fire
 **Vulnerabilities:** Cold, Spells that affect spirits (e.g., Banish, Soul-Trap)
@@ -194,7 +167,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 ### Scaling Options
 
-- **Threat Value 12 (Major):** Increase Health to 90 and SE to 60. **Phantom Bite** now deals 10 Fire + 6 Soul damage. **Soulfire Howl** now affects a 30ft cone. Gains **Pack Alpha** passive: all allied beasts or elementals within 30ft deal an extra 3 damage with their attacks.
+- **Threat Value 12 (Major):** Increase HP to 90 and SE to 60. **Phantom Bite** now deals 10 Fire + 6 Soul damage. **Soulfire Howl** now affects a 30ft cone. Gains **Pack Alpha** passive: all allied beasts or elementals within 30ft deal an extra 3 damage with their attacks.
 - **Threat Value 16 (Deadly):** As above, but **Ethereal Stride** is now a free action (1/round). When it successfully hits with a **Phantom Bite**, it can immediately attempt to grapple the target as a bonus action, its spectral jaws locking onto their soul. Escaping requires a contested Soul vs. Willpower check.
 
 ---
@@ -203,31 +176,18 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 *A swirling vortex of wind, razor-sharp ice shards, and corrupted blood magic. It is a localized, unnatural storm that drains the life from the land and its inhabitants.*
 
-**Size/Type:** Huge Elemental (Cold, Blood)
+**Type:** Huge Elemental (Cold, Blood)
+**Threat Tier:** Major (TV 14)
 
-**Threat Value:** 14 (Major)
-
-**Attributes:**
-- **Fury:** 5
-- **Soul:** 4
-- **Shadow:** 6 (Primary)
-- **Will:** 2
-- **Focus:** 3
-- **Blood:** 5
-
-**Resources:**
-- **Health:** 100
-- **Soul Energy (SE):** 40
-- **Blood Points (BP):** 20
+### Statistics
+- **HP:** 100
+- **DV:** 7 (1 + Shadow 6)
 - **Armor:** 5 (Rapidly swirling debris and hardened ice)
-
-**Movement:** 12 (Flying, Hover)
-**Initiative:** 6
-
-**Skills:**
-- **Athletics (Fury):** 9
-- **Perception (Focus):** 6
-- **Blood Magic (Blood):** 9
+- **SE:** 40 | **BP:** 20
+- **Initiative:** 6
+- **Movement:** 60 feet (12 squares), Fly 60 feet (hover)
+- **Attributes:** Fury 5, Soul 4, Shadow 6, Will 2, Focus 3, Blood 5
+- **Skills:** Athletics 4, Perception 3, Blood Magic 4
 
 **Immunities:** Cold, Non-magical physical damage
 **Vulnerabilities:** Lightning, Fire
@@ -247,7 +207,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 - **Action:** 1 Action to activate or deactivate
 - **Cost:** 10 SE to activate
 - **Range:** 20ft radius aura
-- **Effect:** The area around the cyclone becomes a maelstrom of bloody ice. Any creature that starts its turn in the aura takes 5 Cold damage and must make a Fury check (DC 14) or be pulled 10ft closer to the cyclone. While active, the cyclone has 3/4 cover from ranged attacks originating outside the aura.
+- **Effect:** The area around the cyclone becomes a maelstrom of bloody ice. Any creature that starts its turn in the aura takes 5 Cold damage and must make a Fury check (DR 14) or be pulled 10ft closer to the cyclone. While active, the cyclone has 3/4 cover from ranged attacks originating outside the aura.
 
 **3. Hemorrhage (Channeled Ability)**
 - **Action:** 1 Action to initiate and maintain
@@ -288,7 +248,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 ### Scaling Options
 
-- **Threat Value 17 (Deadly):** Increase Health to 150 and Armor to 7. The **Sanguine Vortex** aura is now 30ft. **Hemorrhage** no longer requires the target to be Bleeding. Gains a new reaction: **Flash Freeze**. When the cyclone takes Fire damage, it can use its reaction to instantly create a 10ft radius burst of ice around the attacker. The attacker must make an Agility save (DC 16) or become Restrained (frozen in place) until the end of their next turn.
+- **Threat Value 17 (Deadly):** Increase HP to 150 and Armor to 7. The **Sanguine Vortex** aura is now 30ft. **Hemorrhage** no longer requires the target to be Bleeding. Gains a new reaction: **Flash Freeze**. When the cyclone takes Fire damage, it can use its reaction to instantly create a 10ft radius burst of ice around the attacker. The attacker must make an Agility save (DR 16) or become Restrained (frozen in place) until the end of their next turn.
 - **Threat Value 20 (Legendary):** As above, but gains Legendary Actions (2 per round). It can use **Flensing Shards** (1 action) or **Move** up to its speed without provoking opportunity attacks (1 action). The pull effect of its **Sanguine Vortex** is now a contested Fury vs. Fury check, and on a failure, the target is also knocked prone.
 
 ---
@@ -297,35 +257,22 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 *A fallen warrior's form, encased in a thick layer of magical frost. It moves with a stiff, relentless gait, its eyes glowing with a cold, blue light. It is not truly unliving, but a vessel animated by a vengeful frost spirit.*
 
-**Size/Type:** Medium Undead (Frost-Bound)
+**Type:** Medium Undead (Frost-Bound)
+**Threat Tier:** High (TV 10)
 
-**Threat Value:** 10 (Medium)
-
-**Attributes:**
-- **Fury:** 5 (Primary)
-- **Soul:** 2
-- **Shadow:** 4
-- **Will:** 5
-- **Focus:** 2
-- **Blood:** 1
-
-**Resources:**
-- **Health:** 90
-- **Soul Energy (SE):** 20
-- **Blood Points (BP):** N/A
+### Statistics
+- **HP:** 90
+- **DV:** 6 (1 + Will 5)
 - **Armor:** 6 (Thick magical ice)
-
-**Movement:** 6 (Slow, deliberate)
-**Initiative:** 3
-
-**Skills:**
-- **Intimidation (Will):** 8
-- **Athletics (Fury):** 8
-- **Survival (Focus):** 5
+- **SE:** 20
+- **Initiative:** 3
+- **Movement:** 30 feet (6 squares)
+- **Attributes:** Fury 5, Soul 2, Shadow 4, Will 5, Focus 2, Blood 1
+- **Skills:** Intimidation 3, Athletics 3, Survival 3
 
 **Immunities:** Cold, Fear, Charm
 **Vulnerabilities:** Fire
-**Resistances:** Slashing and Piercing damage from non-magical weapons.
+**Resistances:** Slashing and Piercing from non-magical weapons
 
 ---
 
@@ -380,7 +327,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 ### Scaling Options
 
-- **Threat Value 13 (Major):** Increase Health to 120 and Armor to 8. **Hoarfrost Axe** now deals 15 Physical + 6 Cold damage. The range of **Glacial Slam** increases to a 20ft cone. Gains a new aura: **Rimefrost Aura (5ft)** - creatures starting their turn in the aura take 3 Cold damage and cannot take reactions.
+- **Threat Value 13 (Major):** Increase HP to 120 and Armor to 8. **Hoarfrost Axe** now deals 15 Physical + 6 Cold damage. The range of **Glacial Slam** increases to a 20ft cone. Gains a new aura: **Rimefrost Aura (5ft)** - creatures starting their turn in the aura take 3 Cold damage and cannot take reactions.
 - **Threat Value 17 (Deadly):** As above, but its **Vengeful Pursuit** is now more potent. It can use its reaction to make a **Hoarfrost Axe** attack against its chosen target if they try to move away from it. It also gains one Legendary Resistance, allowing it to succeed on a saving throw it would have failed.
 
 ---
@@ -389,36 +336,22 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 *A massive construct of translucent, layered ice, standing nearly twelve feet tall. Its body is a lattice of crystalline formations that shift and reform with grinding, percussive cracks. It does not chase. It does not rage. It stands between you and what it guards, and it makes you come to it.*
 
-**Size/Type:** Large Construct (Ice)
+**Type:** Large Construct (Ice)
+**Threat Tier:** High (TV 11)
 
-**Threat Value:** 11 (Medium)
-
-**Attributes:**
-- **Fury:** 4
-- **Soul:** 3
-- **Shadow:** 2
-- **Will:** 6 (Primary)
-- **Focus:** 3
-- **Blood:** 0
-
-**Resources:**
-- **Health:** 100
-- **Soul Energy (SE):** 25
-- **Blood Points (BP):** N/A
+### Statistics
+- **HP:** 100
+- **DV:** 5 (1 + Shadow 2; construct relies on Armor over evasion)
 - **Armor:** 7 (Crystalline Ice)
-
-**Defense Value (DV):** 5
-**Movement:** 5 (Very slow)
-**Initiative:** 2
-
-**Skills:**
-- **Intimidation (Will):** 9
-- **Athletics (Fury):** 7
-- **Perception (Focus):** 6
+- **SE:** 25
+- **Initiative:** 2
+- **Movement:** 25 feet (5 squares)
+- **Attributes:** Fury 4, Soul 3, Shadow 2, Will 6, Focus 3, Blood 0
+- **Skills:** Intimidation 3, Athletics 3, Perception 3
 
 **Immunities:** Cold, Fear, Charm, Poison
 **Vulnerabilities:** Fire, Sonic
-**Resistances:** Slashing and Piercing damage from non-magical weapons.
+**Resistances:** Slashing and Piercing from non-magical weapons
 
 ---
 
@@ -428,7 +361,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 - **Action:** 1 Action
 - **Range:** Melee (10ft reach)
 - **Dice Pool:** Fury (4) + 4 vs. Parry/Dodge
-- **Damage:** 10 Physical Damage + 6 Cold Damage. On hit, the target must make a Fury check (DC 13) or be knocked prone.
+- **Damage:** 10 Physical Damage + 6 Cold Damage. On hit, the target must make a Fury check (DR 13) or be knocked prone.
 
 **2. Permafrost Zone (Area Control)**
 - **Action:** 1 Action
@@ -443,7 +376,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 **4. Crystalline Reformation (Passive)**
 - **Passive**
-- **Effect:** At the start of each of its turns, the Warden regenerates 5 HP if it is standing on ice or stone. If the Warden is reduced to 0 HP, it shatters violently. All creatures within 10ft must make an Agility save (DC 14) or take 8 Cold damage (half on a success).
+- **Effect:** At the start of each of its turns, the Warden regenerates 5 HP if it is standing on ice or stone. If the Warden is reduced to 0 HP, it shatters violently. All creatures within 10ft must make an Agility save (DR 14) or take 8 Cold damage (half on a success).
 
 ---
 
@@ -473,7 +406,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 ### Scaling Options
 
-- **Threat Value 14 (Major):** Increase Health to 140 and Armor to 9. Permafrost Zone radius increases to 30ft. Ice Wall now has 30 HP and Armor 6. Gains **Glacial Command (Legendary Action, 1/round)**: The Warden can create an additional Ice Wall or move an existing Permafrost Zone up to 10ft.
+- **Threat Value 14 (Major):** Increase HP to 140 and Armor to 9. Permafrost Zone radius increases to 30ft. Ice Wall now has 30 HP and Armor 6. Gains **Glacial Command (Legendary Action, 1/round)**: The Warden can create an additional Ice Wall or move an existing Permafrost Zone up to 10ft.
 - **Threat Value 17 (Deadly):** As above, but the Warden gains 2 Legendary Actions per round. Crystalline Reformation now heals 10 HP per turn. When shattered at 0 HP, the death burst deals 15 Cold damage in a 15ft radius and all creatures hit are Restrained for 1 round.
 
 ---
@@ -482,31 +415,18 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 *A serpentine creature of pure magical energy, its body a swirling mass of bright, arcane flames. It darts through the air with unpredictable speed, leaving trails of searing light in its wake. It is a manifestation of uncontrolled spellcasting, given form and fury.*
 
-**Size/Type:** Large Beast (Arcane)
+**Type:** Large Beast (Arcane)
+**Threat Tier:** High (TV 11)
 
-**Threat Value:** 11 (Medium)
-
-**Attributes:**
-- **Fury:** 3
-- **Soul:** 6 (Primary)
-- **Shadow:** 2
-- **Will:** 4
-- **Focus:** 5
-- **Blood:** 0
-
-**Resources:**
-- **Health:** 70
-- **Soul Energy (SE):** 50
-- **Blood Points (BP):** N/A
+### Statistics
+- **HP:** 70
+- **DV:** 6 (1 + Focus 5)
 - **Armor:** 3 (Arcane energy)
-
-**Movement:** 20 (Flying, Hover)
-**Initiative:** 9
-
-**Skills:**
-- **Arcana (Soul):** 12
-- **Acrobatics (Focus):** 10
-- **Perception (Focus):** 8
+- **SE:** 50
+- **Initiative:** 9
+- **Movement:** 100 feet (20 squares), Fly 100 feet (hover)
+- **Attributes:** Fury 3, Soul 6, Shadow 2, Will 4, Focus 5, Blood 0
+- **Skills:** Arcana 6, Acrobatics 5, Perception 3
 
 **Immunities:** Fire, Poison, Non-magical physical damage
 **Vulnerabilities:** Cold, Anti-Magic effects
@@ -570,7 +490,7 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 ### Scaling Options
 
-- **Threat Value 14 (Major):** Increase Health to 110 and Armor to 5. Arcane Bolt deals 14 damage, Prismatic Flare deals 16 damage and the Blinding effect lasts 2 rounds. Gains Legendary Action (1/round): Arcane Bolt.
+- **Threat Value 14 (Major):** Increase HP to 110 and Armor to 5. Arcane Bolt deals 14 damage, Prismatic Flare deals 16 damage and the Blinding effect lasts 2 rounds. Gains Legendary Action (1/round): Arcane Bolt.
 - **Threat Value 17 (Deadly):** As above, but Health 150, gains 2 Legendary Actions/round. Add **Arcane Overload (1/encounter):** The Wyrm supercharges, doubling its flying speed for 2 rounds and causing Mana Trail to deal 8 damage instead of 4. Unstable Core detonation deals 20 Force damage in a 30ft radius.
 
 ---
@@ -579,33 +499,21 @@ This chapter details the entities born from Nosgoth’s magical lifeblood. From 
 
 *An absence given form — a creature of pure anti-magic that devours arcane energy and leaves silence in its wake.*
 
-**Size/Type:** Large Elemental (Void)
+**Type:** Large Elemental (Void, Anti-Magic)
+**Threat Tier:** Major (TV 14)
 
-**Threat Value:** 14 (Major)
-
-**Attributes:**
-- **Fury:** 5
-- **Soul:** 7 (Primary)
-- **Shadow:** 5
-- **Will:** 6
-- **Focus:** 6
-- **Blood:** 0 (Immune to Blood-based effects)
-
-**Resources:**
-- **Health:** 130
-- **Soul Energy (SE):** 60
-- **Blood Points (BP):** N/A
+### Statistics
+- **HP:** 130
+- **DV:** 7 (1 + Soul 6)
 - **Armor:** 6 (Anti-Magic Shell)
+- **SE:** 60
+- **Initiative:** 8
+- **Movement:** 40 feet (8 squares), Fly 40 feet (hover)
+- **Attributes:** Fury 5, Soul 7, Shadow 5, Will 6, Focus 6, Blood 0 (Immune to Blood-based effects)
+- **Skills:** Arcana 5, Observation 4, Intimidation 2
 
-**Movement:** 8 (Hover)
-**Initiative:** 8
-
-**Skills:**
-- **Arcana (Soul):** 12
-- **Observation (Focus):** 10
-- **Intimidation (Will):** 8
-
-**Immunities:** Non-magical physical, Poison, Charm, Fear, Force; **Vulnerabilities:** Mundane physical attacks (non-magical weapons deal full damage — the Null Elemental's anti-magic nature inverts normal defenses)
+**Immunities:** Non-magical physical, Poison, Charm, Fear, Force
+**Vulnerabilities:** Mundane physical attacks (non-magical weapons deal full damage — the Null Elemental's anti-magic nature inverts normal defenses)
 **Resistances:** All magical damage types (Fire, Cold, Lightning, Radiant, Soul, Necrotic) — halved
 
 ---
@@ -670,62 +578,8 @@ In life, a Null Elemental appears as a vaguely humanoid void — a black silhoue
 
 ### Scaling Options
 
-- **Threat Value 10 (Elite):** Reduce Health to 80, Armor to 4. Nullification Field radius reduced to 10ft and dice pool reduction to -2. Remove Anti-Magic Pulse. Devour Spell heals only 5 HP.
-- **Threat Value 18 (Deadly):** Increase Health to 200, Armor to 8. Nullification Field radius 30ft, -4 dice. Anti-Magic Pulse recharges on 4-6. Gains 2 Legendary Actions/round: Void Touch (1) and Devour Spell (1). Void Collapse deals 24 Force damage in 25ft.
-
-**1. Arcane Bite (Basic Attack)**
-- **Action:** 1 Action
-- **Range:** Melee (5ft)
-- **Dice Pool:** Soul (6) + 4 vs. Dodge
-- **Damage:** 8 Fire Damage + 6 Force Damage. On hit, the target is marked with an **Arcane Burn**, taking 2 additional Fire damage from any Fire-based attacks for the next minute.
-
-**2. Flare Burst (Area of Effect)**
-- **Action:** 1 Action
-- **Cost:** 8 SE
-- **Range:** 20ft radius sphere, centered on the Wyrm
-- **Dice Pool:** Soul (6) + 3 vs. Agility
-- **Effect:** All creatures within the area must defend. On a failed defense, they take 12 Fire damage and are Blinded for one round. On a success, they take half damage and no Blindness.
-
-**3. Spell Echo (Reaction Ability, 1/round)**
-- **Reaction:** When a creature within 30ft casts a spell, the Wyrm can attempt to echo it.
-- **Cost:** 10 SE
-- **Dice Pool:** Soul (6) + 4 vs. the spellcaster's Soul
-- **Effect:** If successful, the Wyrm casts the same spell at the same target, but with half the normal damage or effect. This can only be done once per spell cast and once per round.
-
-**4. Volatile Essence (Innate Ability)**
-- **Passive**
-- **Effect:** When the Arcane Flare Wyrm is reduced to 0 Health, it explodes in a burst of arcane energy. All creatures within 10ft must make an Agility save (DC 15) or take 15 Fire damage. The explosion can ignite flammable objects in the area.
-
----
-
-### Lore & Behavior
-
-**Lore:** Arcane Flare Wyrms are born from magical catastrophes—failed rituals, exploding artifacts, or the uncontrolled release of arcane power. They are living embodiments of wild magic, drawn to areas of high magical activity. They are not evil, but chaotic, their actions unpredictable and often destructive.
-
-**Behavior:** The Wyrm is highly mobile and aggressive. It will dart around the battlefield, using its speed to avoid attacks while striking with Arcane Bite. It favors Flare Burst when surrounded, and will attempt to echo spells cast by the party, turning their own magic against them. It is fearless and will fight until destroyed, ending in a spectacular explosion.
-
----
-
-### Tactics & Strategy
-
-**For Players:** This is a hit-and-run fighter. Use area control to limit its movement, and avoid casting spells if possible, as it can echo them. Cold damage is highly effective, as is anti-magic. The explosion on death is a major threat—position the Wyrm away from the party before finishing it off.
-
-**For the GM:** Emphasize the Wyrm's unpredictability. Have it echo powerful spells to surprise the party. Its explosion can be a trap if the players don't manage the battlefield properly. Pair it with spellcasters to maximize its Spell Echo ability.
-
----
-
-### Loot & Rewards
-
-- **Wyrm's Arcane Core:** A glowing orb of condensed magic. Can be used to enhance a spellcasting focus, granting +1 to Soul for spellcasting checks.
-- **Essence of Wild Magic:** A vial of swirling energy. Can be consumed to cast a random spell (roll on a wild magic table) or used in crafting unpredictable magical items.
-- **Spell Echo Shard:** A fragment that allows the user to attempt to echo one spell per day, with a 50% chance of success.
-
----
-
-### Scaling Options
-
-- **Threat Value 14 (Major):** Increase Health to 100 and SE to 70. **Arcane Bite** now deals 10 Fire + 8 Force damage. **Flare Burst** costs 12 SE and deals 16 damage. Gains **Spell Surge**: Once per combat, it can cast a random spell as a bonus action.
-- **Threat Value 18 (Deadly):** As above, but **Spell Echo** can be used twice per spell cast. Its explosion on death now affects a 15ft radius and deals 20 Fire damage.
+- **Threat Value 10 (Elite):** Reduce HP to 80, Armor to 4. Nullification Field radius reduced to 10ft and dice pool reduction to -2. Remove Anti-Magic Pulse. Devour Spell heals only 5 HP.
+- **Threat Value 18 (Deadly):** Increase HP to 200, Armor to 8. Nullification Field radius 30ft, -4 dice. Anti-Magic Pulse recharges on 4-6. Gains 2 Legendary Actions/round: Void Touch (1) and Devour Spell (1). Void Collapse deals 24 Force damage in 25ft.
 
 ---
 
@@ -733,29 +587,18 @@ In life, a Null Elemental appears as a vaguely humanoid void — a black silhoue
 
 *A hulking, amorphous mass of crackling electricity and storm clouds, shaped vaguely like a monstrous beast. Bolts of lightning arc from its form, and thunder rumbles with each movement. It is a living thunderstorm, born from the fury of a tempestuous sky.*
 
-**Threat Value:** 13 (Major)
+**Type:** Large Elemental (Lightning, Storm)
+**Threat Tier:** Major (TV 13)
 
-**Attributes:**
-- **Fury:** 6 (Primary)
-- **Soul:** 3
-- **Shadow:** 5
-- **Will:** 2
-- **Focus:** 4
-- **Blood:** 0
-
-**Resources:**
-- **Health:** 110
-- **Soul Energy (SE):** 40
-- **Blood Points (BP):** N/A
+### Statistics
+- **HP:** 110
+- **DV:** 6 (1 + Shadow 5)
 - **Armor:** 5 (Crackling electrical field)
-
-**Movement:** 10 (Flying, Hover)
-**Initiative:** 7
-
-**Skills:**
-- **Athletics (Fury):** 10
-- **Perception (Focus):** 7
-- **Intimidation (Will):** 6
+- **SE:** 40
+- **Initiative:** 7
+- **Movement:** 50 feet (10 squares), Fly 50 feet (hover)
+- **Attributes:** Fury 6, Soul 3, Shadow 5, Will 2, Focus 4, Blood 0
+- **Skills:** Athletics 4, Perception 3, Intimidation 4
 
 **Immunities:** Lightning, Thunder, Non-magical physical damage
 **Vulnerabilities:** Grounding effects, anti-magic fields, and abilities that dispel or suppress magical energy
@@ -769,7 +612,7 @@ In life, a Null Elemental appears as a vaguely humanoid void — a black silhoue
 - **Action:** 1 Action
 - **Range:** Melee (10ft, reach)
 - **Dice Pool:** Fury (6) + 4 vs. Dodge
-- **Damage:** 14 Lightning Damage + 4 Thunder Damage. On hit, the target is pushed 5ft away and must make a Fury check (DC 14) or be knocked prone.
+- **Damage:** 14 Lightning Damage + 4 Thunder Damage. On hit, the target is pushed 5ft away and must make a Fury check (DR 14) or be knocked prone.
 
 **2. Storm Surge (Area of Effect)**
 - **Action:** 1 Action
@@ -815,7 +658,7 @@ In life, a Null Elemental appears as a vaguely humanoid void — a black silhoue
 
 ### Scaling Options
 
-- **Threat Value 16 (Deadly):** Increase Health to 150 and Armor to 7. **Thunderclap Fist** now deals 18 Lightning + 6 Thunder damage. **Storm Surge** costs 14 SE and deals 20 damage. Gains **Chain Lightning**: When it hits with Storm Surge, it can arc to one additional target within 10ft of the first.
+- **Threat Value 16 (Deadly):** Increase HP to 150 and Armor to 7. **Thunderclap Fist** now deals 18 Lightning + 6 Thunder damage. **Storm Surge** costs 14 SE and deals 20 damage. Gains **Chain Lightning**: When it hits with Storm Surge, it can arc to one additional target within 10ft of the first.
 - **Threat Value 20 (Legendary):** As above, but gains Legendary Actions (2 per round). It can use **Thunderclap Fist** (1 action) or **Move** up to its speed without provoking opportunity attacks (1 action). Its **Electric Aura** now also disrupts concentration on spells.
 
 ---
@@ -824,29 +667,18 @@ In life, a Null Elemental appears as a vaguely humanoid void — a black silhoue
 
 *A swirling cloud of dense, enchanted fog, with tendrils that lash out like grasping hands. At its center is a faint, humanoid silhouette, whispering curses and binding spells. It is a spirit of confinement, trapping souls and bodies alike in its misty embrace.*
 
-**Threat Value:** 9 (Medium)
+**Type:** Medium Elemental (Mist, Spirit)
+**Threat Tier:** High (TV 9)
 
-**Attributes:**
-- **Fury:** 2
-- **Soul:** 5 (Primary)
-- **Shadow:** 6
-- **Will:** 4
-- **Focus:** 3
-- **Blood:** 0
-
-**Resources:**
-- **Health:** 75
-- **Soul Energy (SE):** 45
-- **Blood Points (BP):** N/A
+### Statistics
+- **HP:** 75
+- **DV:** 7 (1 + Shadow 6)
 - **Armor:** 4 (Misty form)
-
-**Movement:** 15 (Flying, Hover)
-**Initiative:** 6
-
-**Skills:**
-- **Deception (Shadow):** 10
-- **Arcana (Soul):** 9
-- **Stealth (Shadow):** 8
+- **SE:** 45
+- **Initiative:** 6
+- **Movement:** 75 feet (15 squares), Fly 75 feet (hover)
+- **Attributes:** Fury 2, Soul 5, Shadow 6, Will 4, Focus 3, Blood 0
+- **Skills:** Deception 4, Arcana 4, Stealth 2
 
 **Immunities:** Poison, Non-magical physical damage
 **Vulnerabilities:** Wind, Bright light
@@ -867,7 +699,7 @@ In life, a Null Elemental appears as a vaguely humanoid void — a black silhoue
 - **Cost:** 8 SE per turn
 - **Range:** 20ft
 - **Dice Pool:** Soul (5) + 3 vs. Willpower
-- **Effect:** The Binder attempts to bind a creature's soul. On a failed defense, the target cannot move or take actions for one minute, as their soul is tethered to the mist. They can attempt to break free at the start of each turn with a Willpower check (DC 15). The Binder can maintain Soul Bind on only one target at a time.
+- **Effect:** The Binder attempts to bind a creature's soul. On a failed defense, the target cannot move or take actions for one minute, as their soul is tethered to the mist. They can attempt to break free at the start of each turn with a Willpower check (DR 15). The Binder can maintain Soul Bind on only one target at a time.
 
 **3. Obscuring Veil (Aura)**
 - **Passive**
@@ -906,16 +738,15 @@ In life, a Null Elemental appears as a vaguely humanoid void — a black silhoue
 
 ### Scaling Options
 
-- **Threat Value 12 (Major):** Increase Health to 100 and SE to 65. **Misty Grasp** now deals 8 Cold + 8 Soul damage. **Soul Bind** can affect two targets at once. Gains **Mist Clone**: As a reaction, it can create an illusory duplicate of itself.
-- **Threat Value 16 (Deadly):** As above, but **Obscuring Veil** now also silences sounds within the aura. **Soul Bind** lasts for 2 minutes and requires a DC 18 check to break free.
+- **Threat Value 12 (Major):** Increase HP to 100 and SE to 65. **Misty Grasp** now deals 8 Cold + 8 Soul damage. **Soul Bind** can affect two targets at once. Gains **Mist Clone**: As a reaction, it can create an illusory duplicate of itself.
+- **Threat Value 16 (Deadly):** As above, but **Obscuring Veil** now also silences sounds within the aura. **Soul Bind** lasts for 2 minutes and requires a DR 18 check to break free.
 
 ---
 
 ## Flame Wisp
 
 **Type:** Elemental (Fire, Minor)
-**Threat Tier:** Bridge
-**Threat Value (TV):** 7
+**Threat Tier:** Bridge (TV 7)
 
 ### Lore
 Flame Wisps are sparks of elemental fire given persistent consciousness — not born from volcanoes or conflagrations, but from places where the Pillar of States (or its corrupted equivalent) once channeled transformation energy. They are the aftermath of great magical events: where a Circle guardian once died in fire, where a Hylden ritual burned itself out, where a ward incinerated an insufficient sacrifice.
@@ -928,6 +759,7 @@ They sustain themselves by feeding on ambient magical energy and fear. Environme
 - **HP:** 85
 - **DV:** 6 (1 + Soul 5)
 - **Armor:** 0 (fire form — physical attacks that use the Flame Form exception pass normally)
+- **Initiative:** 4
 - **Movement:** 40 feet (8 squares), Fly 40 feet (hover)
 - **Attributes:** Fury 3, Soul 5, Shadow 3, Will 4, Focus 4, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Arcana (Soul) 3, Stealth (Shadow) 2
@@ -980,8 +812,7 @@ The Flame Wisp opens by establishing its Searing Aura in the melee cluster, then
 ## Pillar-Stone Golem
 
 **Type:** Elemental-Construct (Ancient, Earth)
-**Threat Tier:** High
-**Threat Value (TV):** 10
+**Threat Tier:** High (TV 10)
 
 ### Lore
 Pillar-Stone Golems are what happens when the animated stone of the Pillars of Nosgoth retains its enchantment after a Pillar shatters. The shattering doesn't destroy the animating magic — it concentrates it. Hundreds of years of Pillar-infused magical resonance, suddenly freed from its architectural function, coalesces into a lumbering figure of cracked stone, glowing runes, and residual purpose.
@@ -994,6 +825,7 @@ Pillar-Stone Golems are found near the ruins of ancient Pillar sites and in the 
 - **HP:** 150
 - **DV:** 6 (1 + Blood 4 + Will 1 = hard cap at 6)
 - **Armor:** 4 (Pillar-stone construction)
+- **Initiative:** 2
 - **Movement:** 25 feet (5 squares)
 - **Attributes:** Fury 5, Soul 3, Will 4, Focus 3, Shadow 1, Blood 4
 - **Skills:** Melee (Fury) 3, Intimidation 2
@@ -1051,8 +883,7 @@ The Pillar-Stone Golem positions itself at the center of its territory and waits
 ## Umbral Vortex
 
 **Type:** Elemental (Shadow, Void)
-**Threat Tier:** High
-**Threat Value (TV):** 9
+**Threat Tier:** High (TV 9)
 
 ### Lore
 An Umbral Vortex is a tear in the boundary between the material world and the empty void beyond the Spectral Realm — not the Spectral Realm itself, but the absolute darkness beneath it that the Abyss touches. It manifests as a slowly spinning column of absolute darkness, perhaps 8 feet tall and 4 feet wide, that pulls light and sound into itself. Looking directly at one is unpleasant in a way that's hard to articulate — the visual cortex interprets "no light whatsoever" as something worse than blackness.
@@ -1065,6 +896,7 @@ In practice, they are enormously dangerous. They pull creatures toward them, the
 - **HP:** 120
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** 0 (void form — certain damage types interact unusually; see Shadow Immunity)
+- **Initiative:** 7
 - **Movement:** 30 feet (6 squares), Fly 30 feet (hover)
 - **Attributes:** Fury 2, Soul 4, Shadow 6, Will 5, Focus 4, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Stealth (Shadow) 4, Intimidation 2
@@ -1113,8 +945,7 @@ The Umbral Vortex opens with Consuming Dark to neutralize lights and Frighten th
 ## SE-Feeder
 
 **Type:** Elemental-Parasite (Arcane)
-**Threat Tier:** High
-**Threat Value (TV):** 9
+**Threat Tier:** High (TV 9)
 
 ### Lore
 SE-Feeders exist at the intersection of elemental manifestation and magical parasitism. They are not born from any natural process — they coalesce where high concentrations of Soul Energy have been expended without properly dispersing, like the magical equivalent of a mold culture forming in a damp wall. They are particularly common at sites of heavy spellcasting, old summoning circles, and former Circle of Nine facilities.
@@ -1127,6 +958,7 @@ What makes them exceptionally dangerous is the cascading snowball effect: each s
 - **HP:** 110
 - **DV:** 6 (1 + Soul 5)
 - **Armor:** 0 (arcane form; see Incorporeal)
+- **Initiative:** 5
 - **Movement:** 35 feet (7 squares), Fly 35 feet (hover)
 - **Attributes:** Fury 2, Soul 5, Shadow 4, Will 4, Focus 4, Blood 0 (Immune to Blood-based effects)
 - **Skills:** SE Drain (Soul) 4, Stealth (Shadow) 3, Observation (Focus) 2

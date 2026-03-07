@@ -32,6 +32,11 @@ Each PC has a base TV equal to their level:
 
 **Party Threat Value = Sum of all PC TVs**
 
+### Enemy Threat Value
+Enemy TV is always an **absolute encounter-budget number**. When a creature says `TV 2`, add `2` to the encounter total. When a creature says `TV 12`, add `12`.
+
+Published Monster Manual entries use their printed TV exactly as written. Early chapters often use benchmark values like `0.25`, `1`, `2`, and `4`, while later chapters and unique threats may use any larger absolute number.
+
 ### Encounter Difficulty Guidelines
 
 | Encounter Type | Enemy TV Relative to Party TV |
@@ -52,19 +57,21 @@ Each PC has a base TV equal to their level:
 
 ## 2.2 Creature Threat Values
 
-### Basic Enemy TV
+### Benchmark Enemy Tiers
 
-| Enemy Type | TV Multiplier |
-|-----------|--------------|
-| **Minion** (3–6 HP, weak attacks) | 0.25× party level |
-| **Standard Enemy** (average stats) | 1× party level |
-| **Elite Enemy** (stronger stats, special abilities) | 2× party level |
-| **Boss** (major threat, multiple abilities) | 4× party level |
-| **Legendary** (campaign antagonist) | 6+× party level |
+| Enemy Type | Benchmark TV | Typical Use |
+|-----------|--------------|-------------|
+| **Minion** | 0.25 | Disposable bodies, swarm pressure, weak support |
+| **Standard Enemy** | 1 | Rank-and-file threat, roughly one meaningful combatant |
+| **Elite Enemy** | 2 | Strong specialist, two-PC level pressure |
+| **Boss** | 4 | Encounter centerpiece, requires action-economy support |
+| **Legendary** | 6+ | Campaign threat, layered defenses and multiple phases |
 
-*Use party level (average character level) as the multiplier base. For example, a Boss in a Level 8 party = TV 32 (4 × 8).*
+These benchmark values are the starting point for low-tier published creatures. If you are building a custom creature for a specific party level, scale the benchmark by the party's average level to get the creature's final absolute TV. Published stat blocks should always print the final TV players and GMs add directly to encounter budgets.
 
-### Quick Enemy Stat Creation
+### Quick Enemy Stat Creation (Homebrew Baselines)
+
+Use these formulas when building a creature specifically for a party's average level. The output is a creature whose final printed TV should match the intended benchmark for that level band.
 
 **Minion (TV 0.25):**
 - HP: 3–6
@@ -131,7 +138,7 @@ A boss with 50 HP facing 4 PCs will still get overwhelmed because:
 **Option 2: Legendary Actions**
 - Boss can take actions on player turns
 - Example: "The vampire lord can make one claw attack after any PC's turn ends"
-- Count each legendary action as +0.5× party level to the creature's TV
+- For custom creatures built to a level band, count each reliable legendary action as roughly `+0.5 × average party level` to the creature's final TV
 
 **Option 3: Multi-Attack**
 - Boss makes 2-3 attacks per Action
@@ -406,9 +413,16 @@ Reading your table and adjusting mid-encounter:
 
 ## 2.10 Sample Encounters
 
+The examples below illustrate how to build encounters for each difficulty band. Each creature entry lists its closest **Monster Manual equivalent** so GMs can use, scale, or replace these stat blocks directly with published entries.
+
+**Using Monster Manual entries directly:** The MM chapters print benchmark TVs (0.25/1/2/4 for Chs 1–6; absolute values for Chs 7–9). To build an encounter using MM entries, total the printed TVs of all selected creatures and compare to the party TV thresholds in §2.1.
+
 ### Level 3 Party (4 PCs, Party TV = 12)
 
 **Encounter: Vampire's Thralls (Challenging, TV 15)**
+
+> **MM Cross-reference:** Use the Blooded Fledgling scaling option (MM Ch1, Vampire Fledgling entry, Elite TV 2) for the Spawn, or scale a Wight Lord (MM Ch1, Elite TV 2) to its Boss form (TV 4). Human Thralls map to Sarafan Footsoldiers (MM Ch3, Minion TV 0.25) or Commoners (MM Ch3, Minion TV 0.25). Adjust creature count to match the desired total TV.
+
 - 1 Vampire Spawn (Elite, TV 6)
   - HP: 18, DV: 3, Armor: 1
   - Attack: 5d6, Damage: 6 Slashing
@@ -419,9 +433,16 @@ Reading your table and adjusting mid-encounter:
 - **Terrain:** Crumbling mansion, pillars can be toppled
 - **Tactics:** Spawn commands thralls to engage PCs while it targets isolated members
 
+**All-MM equivalent (TV 13):** 1× Wight Lord (Boss variant, MM Ch1, TV 4) + 3× Vampire Fledglings (Standard, MM Ch1, TV 1 each) + 4× Deathguard Champions (Standard, MM Ch1, TV 1 each) + 8× Sarafan Footsoldiers (Minion, MM Ch3, TV 0.25 each). Total TV: 4 + 3 + 4 + 2 = 13.
+
+---
+
 ### Level 8 Party (4 PCs, Party TV = 32)
 
 **Encounter: Hylden War Machine (Challenging, TV 40)**
+
+> **MM Cross-reference:** The Hylden Construct maps to the Pillar-Forged Warden (MM Ch5, Boss TV 4) scaled up for absolute level — use its TV 4 Boss scaling as printed and treat the extra HP and DV as justified by the party's level band. The Corrupted Cultist maps to a Rune-Forger (MM Ch5, Standard TV 1) or Corruption Host (MM Ch6, Standard TV 1). For a fully MM-sourced version, pair a Void-Spoken Oracle (MM Ch6, Boss TV 4) with a Master Rift Engineer (MM Ch6, Boss TV 4) and supporting Shock Troopers and Grunts.
+
 - 1 Hylden Construct (Boss, TV 32)
   - HP: 60, DV: 6, Armor: 4
   - Attack: 10d6 (2 attacks/turn), Damage: 10 Force
@@ -433,9 +454,16 @@ Reading your table and adjusting mid-encounter:
 - **Terrain:** Ancient Hylden temple, glyph pillars that can be activated
 - **Tactics:** Construct uses AoE to damage group, cultist debuffs the strongest PC
 
+**All-MM equivalent (TV 40):** 1× Void-Spoken Oracle (Boss, MM Ch6, TV 4) + 1× Master Rift Engineer (Boss, MM Ch6, TV 4) + 2× Hylden Flesh Architects (Elite, MM Ch6, TV 2 each) + 4× Bio-Sigil Reavers (Elite, MM Ch6, TV 2 each) + 8× Hylden Shock Troopers (Elite, MM Ch6, TV 2 each) + 16× Hylden-Possessed Grunts (Minion, MM Ch6, TV 0.25 each). Total TV: 4 + 4 + 4 + 8 + 16 + 4 = 40. *Note: This composition is a full Hylden assault force; GMs should reduce scale for most sessions.*
+
+---
+
 ### Level 15 Party (4 PCs, Party TV = 60)
 
 **Encounter: Elder Vampire Lord (Legendary, TV 165)**
+
+> **MM Cross-reference:** The Ancient Vampire Lord maps to a Legendary-tier result for the Vampire Beast Lord (MM Ch1) or Grave-Knight Warlord (MM Ch1) scaled far above their Boss (TV 4) baseline. For a fully MM-sourced encounter at this level, use entries from MM Ch9 (Legendary Entities) directly — these are written as absolute TV creatures in the TV 10–25 range. The Vampire Warriors map to high-scaling Grave-Knights or Deathguard Champions (both MM Ch1, Elite TV 2 base), used in large numbers.
+
 - 1 Ancient Vampire Lord (Legendary, TV 90)
   - HP: 120, DV: 6, Armor: 3 (effective DV higher via lair blood pools and reactions)
   - Attack: 16d6 (3 attacks/turn), Damage: 14 Slashing + Bleeding
@@ -454,6 +482,8 @@ Reading your table and adjusting mid-encounter:
   - Phase 2 (66% HP): Lord uses Dominate, summons bat swarm
   - Phase 3 (33% HP): Lord goes into Mist Form and Blood Frenzy
 - **Win Condition:** Reduce lord to 0 HP (warriors flee if lord dies)
+
+**All-MM equivalent (TV ~60):** Use Vorador (MM Ch9, TV as printed) or the Dimension Lord's peak scaling (MM Ch9) as the central threat. Pair with 6–8 Grave-Knights (MM Ch1, Elite TV 2 each = TV 12–16) and 20 Sarafan Footsoldiers (MM Ch3, Minion TV 0.25 each = TV 5). Adjust until the total reaches roughly 150% of party TV.
 
 ---
 

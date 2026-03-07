@@ -51,6 +51,7 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 - **Save DR** *(saves against this creature's abilities)*: 3 (Physical saves), 0 (Mental saves, immune)
 - **Movement**: 25 ft per turn (heavy and mechanical)
 - **Armor**: Heavy (blessed plate, Armor 4 vs Physical, Armor 2 vs Soul/Necrotic)
+- **Initiative:** 1
 - **Soul Energy (SE):** N/A
 
 **Attributes**:
@@ -107,7 +108,7 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 - Silvered crossbow bolts (1d6 bolts) - **Trade Value**: 12 supplies
 
 #### Scaling Options
-**Veteran Clockwork Knight** (Boss, TV 4): +30 HP, increase Fury and Swordplay to 5. Add "Command Protocol" ability (once per turn, the Knight can order all allied constructs within 30 feet to make a free Shield Bash or Move action). Add 2 Legendary Actions per round: Move, Attack, or Shield Wall (grant all allies within 10 feet +2 DV until start of next turn).
+**Veteran Clockwork Knight** (Boss, TV 4): +20 HP, increase Fury and Swordplay to 5. Add "Command Protocol" ability (once per turn, the Knight can order one allied construct within 30 feet to make a free Shield Bash or Move action). Add 2 Legendary Actions per round: Move, Attack, or Shield Wall (costs 2 actions; one allied construct within 10 feet gains +1 DV until the start of the Knight's next turn).
 
 ---
 
@@ -130,6 +131,7 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 - **Save DR** *(saves against this creature's abilities)*: 4 (Physical saves), 3 (Magical saves), 0 (Mental, immune)
 - **Movement**: 30 ft per turn (slow but unstoppable)
 - **Armor**: Massive (stone body, Armor 5 vs Physical, Armor 3 vs Elemental, Armor 1 vs Magic)
+- **Initiative:** 1
 - **Soul Energy (SE):** 50
 
 **Attributes**:
@@ -223,6 +225,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 - **Save DR** *(saves against this creature's abilities)*: 2 (Physical saves), 1 (Magical saves), 0 (Mental, immune)
 - **Movement**: 20 ft per turn (slow and lumbering)
 - **Armor**: Medium (stone/clay body, Armor 3 vs Physical, Armor 1 vs Elemental)
+- **Initiative:** 1
 - **Soul Energy (SE):** N/A
 
 **Attributes**:
@@ -299,6 +302,7 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 - **Save DR** *(saves against this creature's abilities)*: 2 (Physical saves), 3 (Soul saves), 1 (Mental saves)
 - **Movement**: 45 ft per turn (very fast, quadruped)
 - **Armor**: Medium (iron frame + tough hide, Armor 2 vs Physical, Armor 1 vs Soul)
+- **Initiative:** 5
 - **Soul Energy (SE):** N/A
 
 **Attributes**:
@@ -354,7 +358,7 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 - Hylden bio-glyph (etched into the frame) - **Trade Value**: 30 supplies, studied by scholars to understand Hylden techniques
 
 #### Scaling Options
-**Alpha Iron-Cage Beast** (Boss, TV 4): +25 HP, increase Fury to 5, Savage Combat to 5. Remove Erratic Behavior (the soul has been fully dominated). Add "Coordinated Assault" ability (once per turn, command all allied Beasts within 30 feet to make a free Pounce attack). Add 2 Legendary Actions per round: Move, Attack, or Soul Scream.
+**Alpha Iron-Cage Beast** (Boss, TV 4): +20 HP, increase Fury to 5, Savage Combat to 5. Remove Erratic Behavior (the soul has been fully dominated). Add "Coordinated Assault" ability (once per turn, command one allied Beast within 30 feet to move up to half speed or make a free Pounce attack). Add 2 Legendary Actions per round: Move, Attack, or Soul Scream.
 
 ---
 
@@ -377,6 +381,7 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 - **Save DR** *(saves against this creature's abilities)*: 3 (all saves), 0 (Mental, immune)
 - **Movement**: 35 ft per turn (agile)
 - **Armor**: Medium (arcane plating, Armor 3 vs Physical, Armor 4 vs Magic)
+- **Initiative:** 5
 - **Soul Energy (SE):** 25
 
 **Attributes**:
@@ -434,7 +439,7 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 - Command cipher (allows control of other automatons, if deciphered) - **Trade Value**: 60 supplies (or story leverage)
 
 #### Scaling Options
-**Master Glyphfused Automaton** (Boss, TV 4): +30 HP, increase Soul and Glyph Magic to 6. Add "Glyph Overload" ability (explodes in a 30-foot radius when destroyed, dealing 12 Force damage to all creatures, DR 4 Shadow save to halve). Add 3 Legendary Actions per round: Phase Step, Glyph Bolt, or Glyph Prison (costs 2 actions).
+**Master Glyphfused Automaton** (Boss, TV 4): +20 HP, increase Soul and Glyph Magic to 6. Add "Glyph Overload" ability (explodes in a 15-foot radius when destroyed, dealing 8 Force damage to all creatures, DR 4 Shadow save to halve). Add 2 Legendary Actions per round: Phase Step, Glyph Bolt, or Glyph Prison (costs 2 actions).
 
 ---
 
@@ -457,6 +462,7 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 - **Save DR** *(saves against this creature's abilities)*: 5 (Physical saves), 4 (Magical saves), 0 (Mental, immune)
 - **Movement**: 20 ft per turn (slow but unstoppable)
 - **Armor**: Massive (bio-metal plating, Armor 6 vs Physical, Armor 4 vs Elemental, Armor 2 vs Soul)
+- **Initiative:** 1
 - **Soul Energy (SE):** 50
 
 **Attributes**:
@@ -554,6 +560,7 @@ Scribes are valuable sources of information. They can answer questions about the
 - **Save DR** *(saves against this creature's abilities)*: 2 (Physical saves), 3 (Magical saves), 0 (Mental, immune)
 - **Movement**: 30 ft per turn
 - **Armor**: Light (bronze frame, Armor 2 vs Physical, Armor 3 vs Magic)
+- **Initiative:** 4
 - **Soul Energy (SE):** 12
 
 **Attributes**:
@@ -632,6 +639,7 @@ Drones are often the first encounter players have with Hylden technology. Their 
 - **Save DR** *(saves against this creature's abilities)*: 1 (Physical saves), 0 (Mental, immune)
 - **Movement**: 20 ft per turn (ground), 50 ft per turn (flying)
 - **Armor**: None (obsidian shell, but no mitigation)
+- **Initiative:** 5
 - **Soul Energy (SE):** N/A
 
 **Attributes**:
@@ -686,8 +694,7 @@ Drones are often the first encounter players have with Hylden technology. Their 
 ### 9. Rune-Forged Warden
 
 **Type**: Construct (Ancient Guardian)  
-**Threat Tier**: Elite (Strong)  
-**Threat Value (TV):** 3  
+**Threat Tier**: Elite (Strong, TV 3)  
 **Recommended Levels**: 6-10
 
 #### Lore
@@ -703,6 +710,7 @@ They guard the most important sites in Nosgoth: Pillar vaults, ancient libraries
 - **Save DR** *(saves against this creature's abilities)*: 3 (Physical saves), 2 (Mental saves — partially immune)
 - **Movement**: 25 feet per turn
 - **Armor**: 4 (runic plating: Armor 4 vs Physical, Armor 2 vs Magic)
+- **Initiative:** 2
 - **Soul Energy (SE):** 10
 
 **Attributes**:
@@ -762,7 +770,7 @@ The Rune-Forged Warden does not pursue. It holds position and punishes anyone wh
 #### Scaling Options
 **Runic Sentry** (Standard, TV 1): HP 25, DV 4, Fury 3, Focus 3. Remove Glyph Pulse and Runic Shielding. Armor 2. Zone of Denial deals 2 Force damage.
 
-**Pillar-Forged Warden** (Boss, TV 4): HP 90, DV 6, Fury 5, Focus 5, Runic Defense 5. Add Legendary Resistance (2/day) and 2 Legendary Actions per round: Rune-Etched Halberd (1), Glyph Pulse (2, even if not recharged). Runic Shielding generates 10 temporary HP. Zone of Denial deals 5 Force damage and also reduces movement speed by 10 feet for enemies in range.
+**Pillar-Forged Warden** (Boss, TV 4): HP 80, DV 6, Fury 5, Focus 5, Runic Defense 5. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Rune-Etched Halberd (1), Glyph Pulse (2, only if recharged). Runic Shielding generates 6 temporary HP. Zone of Denial deals 4 Force damage.
 
 ---
 
@@ -961,6 +969,7 @@ In combat, a Restoration Engine is not a primary threat. It exists to sustain al
 - **HP**: 30
 - **DV**: 4
 - **Armor**: 2 (stone casing)
+- **Initiative:** 1
 - **Movement**: 25 feet (5 squares), Fly 25 feet (hover)
 - **Soul Energy (SE):** 24
 
@@ -1012,7 +1021,7 @@ The Restoration Engine positions itself at the edge of combat, maintaining Repai
 
 #### Scaling Options
 **Field Medic Drone (Minion, TV 0.5):** HP 15, DV 3, SE 10. Only has Repair Beam (heals 6 HP). No Emergency Overload or Triage Protocol. One arm, simplified version.
-**Master Restoration Engine (Boss, TV 4):** HP 60, DV 5, Armor 3, SE 40. Repair Beam heals 18 HP. Add Full Restoration (2/day, 1 minute channel): fully heals one allied creature. Add Shielding Protocol: when an ally within 20ft is hit, grants that ally +2 DV against all attacks until start of Engine's next turn.
+**Master Restoration Engine (Boss, TV 4):** HP 50, DV 5, Armor 3, SE 28. Repair Beam heals 12 HP. Add Full Restoration (1/day, 1 minute channel): restore up to 20 HP to one allied creature. Add Shielding Protocol: when an ally within 20ft is hit, grants that ally +1 DV against the next attack before the start of the Engine's next turn.
 
 ---
 
@@ -1033,6 +1042,7 @@ A party that kills a Glyph Spider before it can retreat probably prevented a Run
 - **HP**: 5
 - **DV**: 4 (nimble, small)
 - **Armor**: 0
+- **Initiative:** 3
 - **Movement**: 30 feet (6 squares), Spider Climb
 - **Soul Energy (SE):** 6
 
@@ -1098,6 +1108,7 @@ Most Animated Wards are paired with other constructs or physical doors — they 
 - **HP**: 12
 - **DV**: 4
 - **Armor**: 0
+- **Initiative:** 1
 - **Movement**: Stationary (unless repositioned by a controller with 1 Action)
 - **Soul Energy (SE):** 14
 

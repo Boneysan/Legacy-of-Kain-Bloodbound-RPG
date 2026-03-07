@@ -43,6 +43,7 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 - **Difficulty Rating (DR)**: 1 (Will and Focus saves)
 - **Movement**: 30 feet per turn
 - **Armor**: None (robes)
+- **Initiative:** 3
 
 **Attributes**:
 - Fury: 2
@@ -105,6 +106,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 - **Difficulty Rating (DR)**: 2 (all saves)
 - **Movement**: 25 feet per turn
 - **Armor**: Light (blessed robes, Armor 1 vs Physical)
+- **Initiative:** 3
 
 **Attributes**:
 - Fury: 1
@@ -180,6 +182,7 @@ Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are ha
 - **Difficulty Rating (DR)**: 3 (Will and Focus saves, representing mental fortitude)
 - **Movement**: 25 feet per turn
 - **Armor**: None (tattered robes)
+- **Initiative:** 4
 
 **Attributes**:
 - Fury: 1
@@ -258,6 +261,7 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 - **Difficulty Rating (DR)**: 3 (all saves)
 - **Movement**: 30 feet per turn
 - **Armor**: Heavy (blessed plate armor, Armor 3 vs Physical, Armor 2 vs Soul/Necrotic)
+- **Initiative:** 2
 
 **Attributes**:
 - Fury: 4
@@ -335,6 +339,7 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 - **Difficulty Rating (DR)**: 1 (all saves)
 - **Movement**: 35 feet per turn (unarmored)
 - **Armor**: Light (leather and furs, Armor 1 vs Physical)
+- **Initiative:** 5
 
 **Attributes**:
 - Fury: 3
@@ -405,6 +410,7 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 - **Difficulty Rating (DR)**: 3 (Will and Soul saves), 2 (Physical saves)
 - **Movement**: 25 feet per turn
 - **Armor**: None (robes), but protected by **Runic Shielding** (see Abilities)
+- **Initiative:** 4
 
 **Attributes**:
 - Fury: 2
@@ -459,7 +465,7 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 - Blood vials (1d3 vials, can be used for Blood Price without harming self) - **Trade Value**: 10 supplies each
 
 #### Scaling Options
-**Archwarlock of the Black Rune** (Boss, TV 4): +20 HP, increase Soul to 6, Black Rune Magic to 5. Add "Mass Curse" ability (all enemies within 30 feet gain Disadvantage on next roll). Add 2 Legendary Actions per round: Cast Void Bolt, Teleport 20 feet, or Summon Demon (costs 2 actions).
+**Archwarlock of the Black Rune** (Boss, TV 4): +15 HP, increase Soul to 6, Black Rune Magic to 5. Add "Mass Curse" ability (all enemies within 20 feet suffer -1 die on their next roll). Add 2 Legendary Actions per round: Cast Void Bolt, Teleport 20 feet, or Summon Demon (costs 2 actions, 1/encounter).
 
 ---
 
@@ -482,6 +488,7 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 - **Difficulty Rating (DR)**: 3 (Shadow and Focus saves), 2 (other saves)
 - **Movement**: 40 feet per turn (light armor, acrobatic)
 - **Armor**: Light (dark leathers, Armor 1 vs Physical)
+- **Initiative:** 7
 
 **Attributes**:
 - Fury: 3
@@ -559,6 +566,7 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 - **Difficulty Rating (DR)**: 3 (all saves, trained resilience)
 - **Movement**: 30 feet per turn
 - **Armor**: Heavy (rune-inscribed plate, Armor 3 vs Physical, Armor 2 vs Magic)
+- **Initiative:** 4
 
 **Attributes**:
 - Fury: 4
@@ -613,7 +621,7 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 - Anti-magic manacles (magical restraints, prevents spellcasting while worn) - **Trade Value**: 30 supplies
 
 #### Scaling Options
-**Witch-Hunter General** (Boss, TV 4): +20 HP, increase Fury and Tactics to 5. Add "Arcane Nullification Zone" ability (60-foot radius, all spells have Disadvantage and cost +1 SE). Add 3 Legendary Actions per round: Move, Attack, Crossbow Command, or Rally Troops (remove Frightened from all allies).
+**Witch-Hunter General** (Boss, TV 4): +20 HP, increase Fury and Tactics to 5. Add "Arcane Nullification Zone" ability (30-foot radius, all enemy spells cast within the zone have Disadvantage). Add 2 Legendary Actions per round: Move, Attack, or Crossbow Command (costs 2 actions).
 
 ---
 
@@ -632,6 +640,7 @@ The outer ring of Hash'ak'gik's worship—mortals seduced by visions of a god th
 - **Save DCs**: DR 1 (Will), DR 2 (Focus)
 - **Movement**: 30 feet per turn
 - **Armor**: 1 (ritual scarification)
+- **Initiative:** 3
 
 **Attributes**:
 - Fury: 2
@@ -682,6 +691,7 @@ A mortal hollowed out by Hash'ak'gik's will and rebuilt as a living conduit for 
 - **Save DCs**: DR 3 (all saves)
 - **Movement**: 30 feet per turn
 - **Armor**: 2 (demonic resilience)
+- **Initiative:** 4
 
 **Attributes**:
 - Fury: 3
@@ -718,7 +728,7 @@ The Vessel begins combat with Voice of the Pit to scatter the party, then target
 - Residual demonic essence (harvestable with DR 3 Rituals check) – **Trade Value**: 15 supplies; alchemical component for Corruption-related crafting
 
 #### Scaling Options
-**Greater Vessel** (Boss, TV 4): +25 HP, increase Soul and Will to 5. Add 2 Legendary Actions per round: Demonic Surge, Move, or Voice of the Pit (costs 2). Possession Cascade affects all mortals within 30 ft.
+**Greater Vessel** (Boss, TV 4): +20 HP, increase Soul and Will to 5. Add 2 Legendary Actions per round: Demonic Surge, Move, or Voice of the Pit (costs 2). Possession Cascade affects up to 2 mortals within 20 ft.
 
 ---
 
@@ -738,12 +748,13 @@ In battle, the Grand Inquisitor is a force multiplier. Their prayers empower all
 For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mortal who cannot be intimidated, cannot be corrupted, and will never, ever stop hunting them.
 
 #### Stats
-- **HP**: 85
+- **HP**: 75
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 4 (all saves)
 - **Movement**: 30 feet per turn
 - **Armor**: Heavy (Sarafan blessed plate, Armor 4 vs Physical, Armor 2 vs Magic)
-- **Soul Energy (SE):** 20
+- **Initiative:** 2
+- **Soul Energy (SE):** 18
 
 **Attributes**:
 - Fury: 4
@@ -767,16 +778,16 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 
 **Divine Condemnation** (Soul 5 + Divine Authority 5 = 10d6, costs 3 SE)
 - Range: 60 feet
-- Damage: 8 Radiant + 4 Soul damage
-- Effect: Undead and vampiric targets take double the Radiant portion (16 Radiant). On Critical Hit, the target is **Marked by the Sarafan** — all Sarafan allies gain +1 die on attacks against it for 3 rounds.
+- Damage: 7 Radiant + 4 Soul damage
+- Effect: Undead and vampiric targets take double the Radiant portion (14 Radiant). On Critical Hit, the target is **Marked by the Sarafan** — all Sarafan allies gain +1 die on attacks against it for 3 rounds.
 
 **Sanctified Judgment** (Will 6 + Divine Authority 5 = 11d6, Recharge 5-6, costs 5 SE)
 - Range: 40-foot radius centered on self
-- Damage: 12 Radiant damage to all enemies in radius
-- Effect: DR 4 Will save to halve. Undead and vampiric creatures that fail are also **Frightened** for 2 rounds. Allied Sarafan in the area regain 5 HP.
+- Damage: 10 Radiant damage to all enemies in radius
+- Effect: DR 4 Will save to halve. Undead and vampiric creatures that fail are also **Frightened** for 2 rounds. Allied Sarafan in the area regain 3 HP.
 
 #### Abilities
-**Sanctified Aura** (Passive): All Sarafan allies within 20 feet gain +1 die on Will saves. Undead and vampiric PCs have **Disadvantage** on attack rolls while within the aura. The aura is suppressed for 1 round if the Grand Inquisitor takes 15+ damage in a single hit.
+**Sanctified Aura** (Passive): All Sarafan allies within 15 feet gain +1 die on Will saves. Undead and vampiric PCs suffer -1 die on attack rolls while within the aura. The aura is suppressed for 1 round if the Grand Inquisitor takes 15+ damage in a single hit.
 
 **Unshakable Faith**: Immune to fear, charm, Domination, and Corruption. Automatically succeeds on Will saves against mind-control effects.
 
@@ -784,21 +795,20 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 
 **Legendary Resistance (2/day)**: When the Grand Inquisitor fails a save, it can choose to succeed instead.
 
-**Legendary Actions (3 per round)**:
+**Legendary Actions (2 per round)**:
 - **Move**: Move up to half speed without provoking opportunity attacks (1 action)
 - **Purifier's Mace**: Make one Purifier's Mace attack (1 action)
-- **Divine Condemnation**: Use Divine Condemnation (2 actions)
-- **Rally the Faithful** (2 actions): All Sarafan allies within 30 feet regain 5 HP and gain +1 DV until the start of the Grand Inquisitor's next turn
+- **Rally the Faithful** (2 actions): One Sarafan ally within 30 feet regains 4 HP and gains +1 DV until the start of the Grand Inquisitor's next turn
 
 #### Reactions
 **Sarafan Shield** (Reaction, when an ally within 10 feet is hit by an attack)
 - The Grand Inquisitor interposes, redirecting the attack to itself. The Grand Inquisitor takes the damage instead, reduced by its Armor.
 
 #### Tactics
-- **Open with Sanctified Judgment**: The Grand Inquisitor begins by blasting enemies in a massive Radiant AoE, Frightening undead and healing allies simultaneously.
+- **Open with Sanctified Judgment**: The Grand Inquisitor begins by blasting enemies in a large Radiant AoE, Frightening undead and steadying nearby allies.
 - **Focus on Vampires**: Divine Condemnation deals devastating double Radiant to undead/vampiric targets. The Inquisitor prioritizes vampire PCs relentlessly.
 - **Sanctified Aura Control**: The Inquisitor positions centrally to maximize aura coverage. Moving away from the aura is the single most important tactical decision for vampire PCs.
-- **Rally the Faithful**: Legendary Actions sustain Sarafan troops, making them harder to kill and creating an attrition fight the party struggles to win.
+- **Rally the Faithful**: Legendary Actions preserve one key ally at a time, rewarding focused fire from the party instead of creating runaway attrition.
 - **Sarafan Shield**: Protects key allies (priests, archers) from being picked off by assassination tactics.
 
 **Key Weakness:** The Grand Inquisitor is mortal. No regeneration, no Mist Form, no resurrection. Overwhelm with sustained damage, separate from allies, or attack at range to avoid the Sanctified Aura. Disrupting SE (via drain or anti-magic effects) severely limits Divine Condemnation and Sanctified Judgment.
@@ -820,8 +830,7 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 ## 3.12 The Turning
 
 **Type**: Mortal/Undead Hybrid (Mid-Transformation)  
-**Threat Tier**: Elite (Strong)  
-**Threat Value (TV):** 3  
+**Threat Tier**: Elite (Strong, TV 3)  
 **Recommended Levels**: 5-9
 
 #### Lore
@@ -839,6 +848,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 - **Difficulty Rating (DR)**: 3 (Physical and Blood saves), 2 (others)
 - **Movement**: 35 feet per turn
 - **Armor**: 2 (twisted, hardening flesh)
+- **Initiative:** 4
 - **SE:** 0 | **BP:** 3
 
 **Attributes**:
@@ -898,7 +908,7 @@ The Turning has no tactics — it is a creature in agony, acting on fractured in
 #### Scaling Options
 **Early Turning** (Standard, TV 1): HP 25, DV 4, Fury 3, Blood 2. Remove Feral Desperation. Unstable Form always rolls 1–2 (the transformation is failing). DR 3 Rituals check to save (only 1 round needed).
 
-**Complete Turning** (Boss, TV 4): HP 75, DV 6, Fury 6, Blood 5. Remove Tragic Nature (the person is gone). Add Vampiric Regeneration 5 HP/turn. Add Legendary Actions (2/round): Rending Claws (1), Blood Cry (2). The creature is now a full feral vampire in all but name.
+**Complete Turning** (Boss, TV 4): HP 70, DV 6, Fury 6, Blood 5. Remove Tragic Nature (the person is gone). Add Vampiric Regeneration 4 HP/turn. Add Legendary Actions (2/round): Rending Claws (1), Blood Cry (2). The creature is now a full feral vampire in all but name.
 
 ---
 
@@ -948,7 +958,7 @@ The Turning has no tactics — it is a creature in agony, acting on fractured in
 ---
 
 #### Encounter 4: The Witch-Hunter Raid (Levels 8-10)
-**Setup**: A **Witch-Hunter Commander** (Elite, TV 2) leads 4 **Sarafan Inquisitors** (Elite, TV 2 each, TV 8 total) and 6 **Outcast Raiders** (conscripted militia, Minions). Total TV: ~11-12.
+**Setup**: A **Witch-Hunter Commander** (Elite, TV 2) leads 4 **Sarafan Inquisitors** (Elite, TV 2 each, TV 8 total) and 6 **Sarafan Footsoldiers** (Minions, TV 0.25 each, TV 1.5 total). Total TV: 11.5.
 
 **Tactics**: The Commander uses Crossbow Command to focus fire on the party's spellcaster. Inquisitors close to melee, using Silver Longswords and Judgement Strike. Raiders provide flanking support and absorb counterattacks.
 
@@ -1058,8 +1068,7 @@ When running **Elite** or **Boss**-tier mortals in climactic encounters, conside
 ## 3.13 Sarafan Warlord
 
 **Type**: Mortal Humanoid (Military Commander)  
-**Threat Tier**: Legendary  
-**Threat Value (TV):** 5  
+**Threat Tier**: Legendary (TV 5)  
 **Recommended Levels**: 10-15
 
 #### Lore
@@ -1075,6 +1084,7 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 - **Difficulty Rating (DR)**: 4 (all saves)
 - **Movement**: 30 feet per turn
 - **Armor**: 5 (Consecrated Sarafan Warplate — Armor 5 vs Physical, 3 vs Magical)
+- **Initiative:** 4
 - **Soul Energy (SE):** 20
 
 **Attributes**:
@@ -1158,27 +1168,27 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 
 ## 3.14 Sarafan Footsoldier
 
-**Type:** Mortal (Human, Soldier)
-**Threat Tier:** Minion
-**Threat Value (TV):** 0.25
+**Type**: Mortal (Human, Soldier)
+**Threat Tier**: Minion (TV 0.25)
 
-### Lore
+#### Lore
 The Sarafan Order's strength lies not in its lords and inquisitors, but in the thousands of ordinary soldiers who patrol roads, garrison towns, and form the spear lines that have crushed vampire incursions for generations. Footsoldiers are trained, disciplined, and convinced of their righteousness — the light of their faith makes them harder to break than common bandits, even as it makes them pitiless toward the undead and those who consort with them.
 
 Most Footsoldiers are conscripts from mortal settlements, given a spear, a tabard, and a week of training before being sent to the front. Veterans are simply Footsoldiers who have survived long enough to know which vampires are the more dangerous ones.
 
 They function as the ground troops of any Sarafan encounter — expendable, collectively dangerous, and the face the Order presents to ordinary Nosgothians.
 
-### Statistics
-- **HP:** 8
+#### Stats
+- **HP:** 6
 - **DV:** 3 (1 + Will 1 + Armor 1)
 - **Armor:** 1 (light mail and breastplate)
+- **Initiative:** 1
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 2, Soul 0, Shadow 0, Will 1, Focus 2, Blood 2
 - **Skills:** Melee 1
 - **SE:** N/A | **BP:** N/A
 
-### Attacks & Abilities
+#### Attacks & Abilities
 
 **Spear** (Action)
 - **Dice Pool:** Fury 2 + Melee 1 = 3d6
@@ -1189,27 +1199,27 @@ They function as the ground troops of any Sarafan encounter — expendable, coll
 **Sword and Shield** (Alternative loadout, Action)
 - **Dice Pool:** Fury 2 + Melee 1 = 3d6
 - **Damage:** 4 physical (Slashing)
-- **Special:** When this Footsoldier uses Shield Block (Reaction), it reduces damage by 3
+- **Special:** When this Footsoldier uses Shield Block (Reaction), it reduces damage by 2
 
-### Special Abilities
+#### Special Abilities
 
-**Shield Block (Reaction, shield loadout only):** Reduce incoming melee damage by 3.
+**Shield Block (Reaction, shield loadout only):** Reduce incoming melee damage by 2.
 
 **Sarafan Discipline:** When a Footsoldier succeeds on a Will save against a supernatural effect (Fear, Charm, etc.), all other Footsoldiers within 10 feet can use their Reaction to attempt the same save with +1 die.
 
 **Mortal Courage:** Footsoldiers do not Auto-fail morale checks when an ally is killed; they double down instead (see Sarafan Tactics below).
 
-### Tactics & Strategy
-Footsoldiers advance in organized groups of 4–8, using Formation Fighting to maximize attack dice. When the party is in melee, Footsoldiers attempt to surround them (2–3 per PC). They don't use complex tactics, but their numbers and discipline make them a genuine threat. A squad of 8 with Formation Fighting each rolls 4d6 — that's consistent aggregate damage that drains HP quickly.
+#### Tactics & Strategy
+Footsoldiers advance in organized groups of 4–8, using Formation Fighting to maximize attack dice. When the party is in melee, Footsoldiers attempt to surround them (2–3 per PC). They don't use complex tactics, but their numbers and discipline make them a genuine threat. Their strength comes from coordinated bodies on the field, not individual durability.
 
-**Encounter Design:** As TV 0.25 Minions, combine 4–8 Footsoldiers with one Sarafan Outrider (TV 1) or Inquisitor (TV 2+) for a structured, varied encounter.
+**Encounter Design:** As TV 0.25 Minions, 4 Footsoldiers plus 1 Outrider makes a disciplined TV 2 patrol. 8 Footsoldiers plus 1 Inquisitor makes a TV 4 formation encounter with clear front-line pressure.
 
-### Loot
+#### Loot
 - Sarafan tabard and light armor (identifiable; wearing it is a disguise option) — **Trade Value**: 6 supplies
 - Standard spear or sword — **Trade Value**: 4 supplies
 - Belt pouch (1d6+2 supplies in coin-equivalent)
 
-### Scaling Options
+#### Scaling Options
 - **Veteran Footsoldier (Standard, TV 1):** HP 14, DV 4, Armor 2, Fury 3, Melee 2. Add Cleave (when hitting a target, any adjacent creature takes 2 splash damage).
 - **Sarafan Sergeant (Elite, TV 2):** HP 24, DV 4, Armor 2, Fury 3, Will 3. Add Rally Cry (1/encounter, Action): all Sarafan allies within 30 feet immediately make one free attack or move their full speed.
 
@@ -1217,25 +1227,25 @@ Footsoldiers advance in organized groups of 4–8, using Formation Fighting to m
 
 ## 3.15 Sarafan Outrider
 
-**Type:** Mortal (Human, Scout/Ranger)
-**Threat Tier:** Standard
-**Threat Value (TV):** 1
+**Type**: Mortal (Human, Scout/Ranger)
+**Threat Tier**: Standard (TV 1)
 
-### Lore
+#### Lore
 Outriders are the Sarafan Order's rapid response troops — light cavalry scouts repurposed for foot work in terrain too treacherous for horses. They operate in pairs or small teams ahead of main forces, marking undead positions, ambushing strays, and running down fleeing vampires who think darkness and speed is protection enough.
 
 They are practical in a way many Sarafan are not. An Outrider doesn't care about the theology of the purge — they care about the kill count and getting home before dawn. They carry a crossbow for range and a short sword for the inevitable up-close desperation that vampire hunting entails, and they know how to read tracks, scent blood, and identify an escape route before combat begins.
 
-### Statistics
+#### Stats
 - **HP:** 14
 - **DV:** 4 (1 + Focus 3)
 - **Armor:** 1 (reinforced leather)
+- **Initiative:** 3
 - **Movement:** 35 feet (7 squares)
 - **Attributes:** Fury 2, Soul 0, Shadow 2, Will 2, Focus 3, Blood 2
 - **Skills:** Ranged 2, Stealth 2, Tracking (Focus) 2
 - **SE:** N/A | **BP:** N/A
 
-### Attacks & Abilities
+#### Attacks & Abilities
 
 **Crossbow** (Action)
 - **Dice Pool:** Focus 3 + Ranged 2 = 5d6
@@ -1249,7 +1259,7 @@ They are practical in a way many Sarafan are not. An Outrider doesn't care about
 
 **Hunter's Mark (Bonus Action, 1/combat per target):** The Outrider marks one visible target. Until that target is killed or incapacitated, the Outrider gains +1 die on all attacks against it and can sense its location within 100 feet even through walls.
 
-### Special Abilities
+#### Special Abilities
 
 **Skirmisher:** After making a ranged attack, the Outrider can immediately move up to 15 feet without provoking opportunity attacks.
 
@@ -1257,18 +1267,18 @@ They are practical in a way many Sarafan are not. An Outrider doesn't care about
 
 **Terrain Reading:** The Outrider is never Slowed by natural difficult terrain (mud, undergrowth, rubble). They move at full speed through it.
 
-### Tactics & Strategy
+#### Tactics & Strategy
 Outriders open combat from Stealth where possible, using Shadow Ambush for maximum first-strike damage, then applying Hunter's Mark to the party's most threatening member. They use Skirmisher to stay at medium range from melee fighters while maintaining crossbow fire. If cornered, they drop to Short Sword and fight dirty rather than surrender.
 
 **Encounter Design:** Two Outriders (TV 2 combined) flanking the party while 4 Footsoldiers press from the front creates a TV 3 encounter with excellent tactical tension.
 
-### Loot
+#### Loot
 - Crossbow and 2d6 bolts — **Trade Value**: 12 supplies
 - Short sword — **Trade Value**: 5 supplies
 - Sarafan insignia (identifies rank; useful for disguise or intimidation in mortal settlements) — **Trade Value**: varies
 - Wilderness kit (rope, tinderbox, rations) — **Trade Value**: 5 supplies
 
-### Scaling Options
+#### Scaling Options
 - **Outrider Champion (Elite, TV 2):** HP 24, DV 5, Focus 4, Ranged 3, Stealth 3. Add Explosive Bolt (1/encounter, costs a prepared item): crossbow shot deals +6 Fire damage in 5-foot radius.
 - **Sarafan Shadow-Stalker (Boss, TV 4):** HP 55, DV 6, Fury 4, Focus 4, Shadow 3. Add Lethal Precision: critical hits inflict Bleeding. Add Escape Artist: cannot be Grappled or Restrained by undead.
 
@@ -1276,37 +1286,37 @@ Outriders open combat from Stealth where possible, using Shadow Ambush for maxim
 
 ## 3.16 Commoner
 
-**Type:** Mortal (Human, Non-combatant)
-**Threat Tier:** Non-combatant
-**Threat Value (TV):** 0
+**Type**: Mortal (Human, Non-combatant)
+**Threat Tier**: Non-combatant (TV 0)
 
-### Lore
+#### Lore
 Most people in Nosgoth are just trying to survive. They're farmers, traders, fish-mongers, weavers, stable hands, and innkeepers who live in constant proximity to vampires, Sarafan patrols, spectral hazards, and the slow creep of Pillar-corruption. They are not soldiers. They are not heroes. They are the people who get caught in the middle, and how the party treats them defines what kind of story this is.
 
 Commoners should appear in most urban and rural encounters as ambient inhabitants — not threats, but witnesses, collateral, and narrative anchors. They will beg, plead, hide, flee, occasionally provide crucial information, and sometimes do something genuinely brave out of desperation. They are Nosgoth's texture.
 
-### Statistics
+#### Stats
 - **HP:** 5
 - **DV:** 2
 - **Armor:** 0
+- **Initiative:** 1
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 1, Soul 0, Shadow 0, Will 1, Focus 1, Blood 2
 - **Skills:** None (occupation skills at GM discretion: Merchant 2, Farming 2, etc.)
 - **SE:** N/A | **BP:** N/A
 
-### Attacks & Abilities
+#### Attacks & Abilities
 
 **Improvised Strike** (Action, last resort only)
 - **Dice Pool:** Fury 1 = 1d6
 - **Damage:** 2 Bludgeoning (cobblestone, shovel, broken chair)
 
-### Special Abilities
+#### Special Abilities
 
 **Flee! (Reaction):** When attacked or when combat begins within 30 feet, the Commoner immediately moves up to their full speed away from danger. This does not provoke opportunity attacks.
 
 **Desperate Cry (1/encounter):** When a Commoner is attacked, all mortal NPCs within 60 feet who can hear them become aware of the attacker. This may cause additional Sarafan Footsoldiers to arrive (GM discretion), or cause the crowd to turn on the attacker.
 
-### GM Notes: Non-combatant Rules
+#### GM Notes: Non-combatant Rules
 
 **Attacking Commoners:** Characters who attack unarmed, non-threatening Commoners gain **1 Corruption point** per attack. Vampire PCs are exempt if they feed non-lethally (Commoner survives at 1 HP, shaken but alive), but lethal feeding in public view carries social consequences.
 
@@ -1314,7 +1324,7 @@ Commoners should appear in most urban and rural encounters as ambient inhabitant
 
 **Hostage Mechanics:** If a Commoner is taken hostage, opposing faction NPCs (Sarafan, vampire clans) have one standard set of responses: comply (DR 3 Will), counter-threaten, or attack immediately. The GM should communicate faction dispositions before this choice becomes relevant.
 
-### Loot
+#### Loot
 - Coin purse (1d6+1 supplies worth)
 - Occupation items (tools, goods, nothing of combat value)
 
@@ -1322,25 +1332,25 @@ Commoners should appear in most urban and rural encounters as ambient inhabitant
 
 ## 3.17 Rune-Forger
 
-**Type:** Mortal (Human, Arcane Artisan)
-**Threat Tier:** Elite
-**Threat Value (TV):** 2
+**Type**: Mortal (Human, Arcane Artisan)
+**Threat Tier**: Elite (TV 2)
 
-### Lore
+#### Lore
 Rune-Forgers are mortal craftsmen and scholars who have discovered (or been taught) the ancient techniques of binding magical energy into physical glyphs, runestones, and trapped wards. They are found in the employ of the Circle of Nine, in Sarafan research facilities, and — more rarely — as independent operators who sell their services to whoever pays.
 
 A Rune-Forger at work is a methodical, deliberate practitioner: they prepare the battlefield before combat begins, laying glyphs and trip-wards that turn the physical space into an extension of their spellwork. In direct confrontation, they are less impressive — their primary function is preparation, not combat. But a well-prepared Rune-Forger in their workshop is a seriously dangerous encounter, and one who has had time to activate their defenses early is a puzzle as much as a fight.
 
-### Statistics
+#### Stats
 - **HP:** 28
 - **DV:** 4 (1 + Focus 3)
 - **Armor:** 1 (studded leather, reinforced with minor warding runes)
+- **Initiative:** 2
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 1, Soul 3, Shadow 1, Will 3, Focus 4, Blood 2
 - **Skills:** Arcana (Soul) 3, Runecraft (Focus) 4, Observation (Focus) 2
 - **SE:** 20
 
-### Attacks & Abilities
+#### Attacks & Abilities
 
 **Rune Bolt** (Action)
 - **Dice Pool:** Focus 4 + Runecraft 4 = 8d6
@@ -1356,7 +1366,7 @@ A Rune-Forger at work is a methodical, deliberate practitioner: they prepare the
 
 **Rune Shield (Reaction, costs 3 SE):** When hit by an attack, the Rune-Forger activates a protective rune. The attacker takes 4 Soul damage as a backlash and the incoming hit is reduced by 3 damage.
 
-### Special Abilities
+#### Special Abilities
 
 **Prepared Battlefield:** A Rune-Forger who has had 10+ minutes in a location before combat has 3 pre-placed glyphs already active at the start of the encounter. The GM may place these tactically.
 
@@ -1364,20 +1374,20 @@ A Rune-Forger at work is a methodical, deliberate practitioner: they prepare the
 
 **Arcane Supplier:** After combat, searching a Rune-Forger's equipment reveals 1d3 pre-made Runestones (single-use items each dealing 5 Soul damage in a 10-foot area, thrown as an action) — **Trade Value**: 12 supplies each.
 
-### Tactics & Strategy
+#### Tactics & Strategy
 In pre-planned encounters, the Rune-Forger has placed 3 glyphs at chokepoints and retreats toward them when PCs advance, funneling the party through the minefield. In ambush situations, they prioritize Rune Bolts at range and Deploy Glyph Trap between themselves and melee threats. Rune Shield is reserved for attacks from casters (who may lack the physical follow-up to drain its economy).
 
-**Encounter Design:** A Rune-Forger with 3 Sarafan Footsoldiers as shields (TV 3 combined) in a prepared lair makes an excellent puzzle-encounter where players must decide whether to pursue the Forger through a glyph-mined corridor or attempt to flank.
+**Encounter Design:** A Rune-Forger with 3 Sarafan Footsoldiers as shields (TV 2.75 combined) in a prepared lair makes an excellent puzzle-encounter where players must decide whether to pursue the Forger through a glyph-mined corridor or attempt to flank.
 
-### Loot
+#### Loot
 - Rune-toolkit (allows non-magical characters to create basic traps; DR 4 Runecraft check or Focus + Arcana check) — **Trade Value**: 35 supplies
 - Active runestones (1d3) — **Trade Value**: 12 supplies each
 - Research notes (contain 1d2 useful ritual formulas, GM-determined) — **Trade Value**: 20 supplies each
 - Minor warding rune (passive item: once per day, negate 3 points of damage from a magical attack) — **Trade Value**: 40 supplies
 
-### Scaling Options
+#### Scaling Options
 - **Journeyman Rune-Forger (Standard, TV 1):** HP 18, DV 3, Focus 3, SE 10. Maximum 2 glyphs, no Prepared Battlefield. Rune Bolt deals 5 damage.
-- **Master Rune-Forger (Boss, TV 4):** HP 55, DV 5, Focus 5, Soul 5, SE 40. Maximum 6 glyphs. Add Rune Storm (2 actions, 15 SE, 1/encounter): all glyphs simultaneously detonate in their areas. Add Legendary Resistance (2/day). Gains Rune Construct (1/encounter): animates a Glyph Spider construct from available materials.
+- **Master Rune-Forger (Boss, TV 4):** HP 50, DV 5, Focus 5, Soul 5, SE 32. Maximum 5 glyphs. Add Rune Storm (2 actions, 15 SE, 1/encounter): up to 3 active glyphs simultaneously detonate in their areas. Add Legendary Resistance (1/day). Gains Rune Construct (1/encounter): animates a Glyph Spider construct from available materials.
 
 ---
 

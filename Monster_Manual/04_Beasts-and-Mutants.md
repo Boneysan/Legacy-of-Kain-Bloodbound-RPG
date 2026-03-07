@@ -49,6 +49,7 @@ Unlike their mundane cousins, Dire Cave Wolves are intelligent enough to recogni
 - **Difficulty Rating (DR)**: 1 (all saves)
 - **Movement**: 40 feet per turn (quadruped)
 - **Armor**: None (thick fur, but no mechanical DR)
+- **Initiative:** 6
 - **SE**: N/A
 - **BP**: N/A
 
@@ -122,6 +123,7 @@ Drakes are solitary hunters, but mated pairs will defend their nests to the deat
 - **Difficulty Rating (DR)**: 2 (Physical saves), 1 (Mental saves)
 - **Movement**: 30 feet per turn (ground), 50 feet per turn (flying)
 - **Armor**: Heavy (scales, Armor 3 vs Physical, Armor 1 vs Elemental)
+- **Initiative:** 4
 - **SE**: N/A (abilities use the Recharge system rather than SE costs)
 - **BP**: N/A
 
@@ -178,7 +180,7 @@ Drakes are solitary hunters, but mated pairs will defend their nests to the deat
 - Drake egg (if nest is present, extremely rare) - **Trade Value**: 100+ supplies (or story item)
 
 #### Scaling Options
-**Elder Drake** (Boss, TV 4): +25 HP, increase Fury to 5, Breath Weapon to 5. Add "Inferno Breath" (60-foot cone, 10 Fire damage, Recharge 4-6). Add 2 Legendary Actions per round: Fly, Claw Attack, or Roar.
+**Elder Drake** (Boss, TV 4): +20 HP, increase Fury to 5, Breath Weapon to 5. Add "Inferno Breath" (40-foot cone, 9 Fire damage, Recharge 5-6). Add 2 Legendary Actions per round: Fly, Claw Attack, or Roar (costs 2 actions).
 
 *Cross-Reference: Corrupted Drakes sometimes nest near ancient construct sites. See Chapter 5: Constructs & Automatons for paired encounters.*
 
@@ -201,6 +203,7 @@ Despite their fragility, Glimmerbacks have a defensive mechanism: when threatene
 - **Difficulty Rating (DR)**: 0 (all saves, very fragile)
 - **Movement**: 35 feet per turn (quick for their size)
 - **Armor**: None
+- **Initiative:** 5
 - **SE**: N/A
 - **BP**: N/A
 
@@ -260,6 +263,7 @@ Consuming Blight-Boar meat causes illness in mortals. Even vampires find their b
 - **Difficulty Rating (DR)**: 2 (Physical saves, tough), 0 (Mental saves, mindless)
 - **Movement**: 35 feet per turn (charging boar)
 - **Armor**: Light (thick hide, Armor 1 vs Physical)
+- **Initiative:** 1
 - **SE**: N/A (abilities use the Recharge system rather than SE costs)
 - **BP**: N/A
 
@@ -329,6 +333,7 @@ Unlike normal dogs, Bloodgullets are viciously intelligent. They can track prey 
 - **Difficulty Rating (DR)**: 2 (Physical saves), 1 (Mental saves)
 - **Movement**: 45 feet per turn (very fast)
 - **Armor**: None
+- **Initiative:** 6
 - **SE**: N/A
 - **BP**: N/A
 
@@ -399,6 +404,7 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 - **Difficulty Rating (DR)**: 3 (Physical saves, tough), 1 (Mental saves, dumb)
 - **Movement**: 30 feet per turn (slow and heavy)
 - **Armor**: Heavy (stone-like skin, Armor 3 vs Physical, Armor 1 vs Elemental)
+- **Initiative:** 1
 - **SE**: N/A (abilities use the Recharge system rather than SE costs)
 - **BP**: N/A
 
@@ -452,7 +458,7 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 - Troll's hoard (random: 2d6 x 10 supplies worth of coins, gems, and stolen goods from past victims)
 
 #### Scaling Options
-**Berserker Troll** (Boss, TV 4): +30 HP, increase Fury to 6. Add "Unstoppable Rage" ability (when below half HP, the Troll's attacks deal +3 damage and it gains +2 dice on attacks). Add 2 Legendary Actions per round: Move, Attack, or Ground Slam.
+**Berserker Troll** (Boss, TV 4): +20 HP, increase Fury to 6. Add "Unstoppable Rage" ability (when below half HP, the Troll's attacks deal +2 damage and it gains +1 die on attacks). Add 2 Legendary Actions per round: Move, Attack, or Ground Slam (costs 2 actions).
 
 ---
 
@@ -475,6 +481,7 @@ Despite their fearsome appearance, Bramblehide Bears are still animals. They can
 - **Difficulty Rating (DR)**: 3 (Physical saves), 1 (Mental saves)
 - **Movement**: 35 feet per turn
 - **Armor**: Medium (bramble hide, Armor 2 vs Physical, creatures that attack in melee take 2 Physical damage from thorns)
+- **Initiative:** 2
 - **SE**: N/A (abilities use the Recharge system rather than SE costs)
 - **BP**: N/A
 
@@ -528,7 +535,7 @@ Despite their fearsome appearance, Bramblehide Bears are still animals. They can
 - Bear meat (enough for 4 rations, edible despite corruption) - **Trade Value**: 5 supplies
 
 #### Scaling Options
-**Ancient Bramblehide** (Boss, TV 4): +25 HP, increase Fury to 6, Savage Attack to 5. Thorned Hide damage increases to 3. Add "Thorn Burst" ability (once per encounter, all creatures within 15 feet take 6 Physical damage from exploding brambles). Add 2 Legendary Actions per round: Move, Claw Attack, or Roar (Frighten all enemies within 30 feet, DR 3 Will save).
+**Ancient Bramblehide** (Boss, TV 4): +20 HP, increase Fury to 6, Savage Attack to 5. Thorned Hide damage increases to 3. Add "Thorn Burst" ability (once per encounter, all creatures within 15 feet take 5 Physical damage from exploding brambles). Add 2 Legendary Actions per round: Move, Claw Attack, or Roar (costs 2 actions; Frighten all enemies within 20 feet, DR 3 Will save).
 
 ---
 
@@ -551,6 +558,7 @@ Their most unsettling trait is their ability to seemingly vanish mid-combat, onl
 - **Difficulty Rating (DR)**: 3 (Shadow saves), 2 (other saves)
 - **Movement**: 50 feet per turn (extremely fast)
 - **Armor**: None
+- **Initiative:** 7
 - **SE**: N/A (abilities use the Recharge system rather than SE costs)
 - **BP**: N/A
 
@@ -600,7 +608,7 @@ Their most unsettling trait is their ability to seemingly vanish mid-combat, onl
 - Spectral essence (rare, extracted from phase creatures) - **Trade Value**: 30 supplies, used in spectral rituals
 
 #### Scaling Options
-**Apex Warptooth** (Boss, TV 4): +20 HP, increase Fury to 5, Phase Hunting to 5. Add "Phase Barrage" ability (the Cougar phases rapidly, making 3 attacks in one turn against different targets). Add 2 Legendary Actions per round: Phase Shift, Phase Claws, or Pounce from Nowhere.
+**Apex Warptooth** (Boss, TV 4): +15 HP, increase Fury to 5, Phase Hunting to 5. Add "Phase Barrage" ability (the Cougar phases rapidly, making 2 attacks in one turn against different targets). Add 2 Legendary Actions per round: Phase Shift, Phase Claws, or Pounce from Nowhere (costs 2 actions).
 
 *Cross-Reference: Warptooth Cougars often phase into areas overlapping with the Spectral Realm. See Chapter 2: Spectral Entities for complementary encounters.*
 
@@ -609,8 +617,7 @@ Their most unsettling trait is their ability to seemingly vanish mid-combat, onl
 ### 9. Blightmaw Alpha
 
 **Type**: Beast (Corrupted Apex Predator)  
-**Threat Tier**: Elite (Strong)  
-**Threat Value (TV):** 3  
+**Threat Tier**: Elite (TV 3)  
 **Recommended Levels**: 5-9
 
 #### Lore
@@ -630,6 +637,7 @@ Blightmaw Alphas are solitary territorial hunters. They tolerate no other large 
 - **Difficulty Rating (DR)**: 3 (Physical and Blood saves), 2 (other saves)
 - **Movement**: 40 feet per turn, Swim 20 feet
 - **Armor**: 3 (corrupted hide)
+- **Initiative:** 4
 - **SE:** 0 | **BP:** 6
 
 **Attributes**:
@@ -692,7 +700,7 @@ The Blightmaw Alpha ambushes from concealment in corrupted terrain. It opens wit
 #### Scaling Options
 **Juvenile Blightmaw** (Standard, TV 1): HP 25, DV 4, Fury 3, Blood 2. Remove Alpha's Roar and Territorial Rage. Toxic Spray is a 10-foot cone dealing 4 Elemental damage. No grapple on Crushing Jaws.
 
-**Blightmaw Matriarch** (Boss, TV 4): HP 85, DV 6, Fury 6, Blood 5. Add Legendary Resistance (2/day) and 2 Legendary Actions per round: Crushing Jaws (1), Toxic Spray (2, even if not recharged). Add "Brood Call" (1/encounter): summons 1d4+1 Juvenile Blightmaws from the surrounding terrain.
+**Blightmaw Matriarch** (Boss, TV 4): HP 72, DV 6, Fury 6, Blood 5. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Crushing Jaws (1), Toxic Spray (2, only if recharged). Add "Brood Call" (1/encounter): summons 1d2 Juvenile Blightmaws from the surrounding terrain.
 
 ---
 
@@ -839,8 +847,7 @@ Beasts aren't just random encounters:
 ### 10. Nosgothian Alpha Wyrm
 
 **Type**: Beast (Corrupted, Apex Predator)  
-**Threat Tier**: Legendary  
-**Threat Value (TV):** 7  
+**Threat Tier**: Legendary (TV 7)  
 **Recommended Levels**: 12-16
 
 #### Lore
@@ -858,6 +865,7 @@ The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the a
 - **Difficulty Rating (DR)**: 4 (Physical saves), 3 (Mental saves)
 - **Movement**: 40 feet per turn (ground), 80 feet (flying)
 - **Armor**: 5 (Corrupted Scale Plating)
+- **Initiative:** 5
 - **Soul Energy (SE):** 25
 - **Blood Points (BP):** 10
 
