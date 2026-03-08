@@ -187,6 +187,8 @@ Instead of fixed prices, trade involves:
 
 In Nosgoth, there are no shops with price tags. Equipment acquisition is narrative and contextual.
 
+If another chapter or stat block uses phrases like "market price" or "Trade Value," treat them as shorthand for relative barter weight, not literal coin costs. Translate them into favors, scarce supplies, faction access, or risk-heavy exchanges that fit the current region.
+
 ### Equipment Acquisition Methods
 
 **Method 1: Barter**

@@ -245,13 +245,15 @@ Poor: "That's enough XP, you level up."
 
 ## 3.6 Alternative Progression Methods
 
+These are optional variant rules. Use them only if you intentionally want a different progression curve than the default Player's Handbook assumptions.
+
 ### Partial Milestones
 
 For longer campaigns, consider "half milestones":
-- **Minor Milestone:** Gain +2 HP, +1 skill point, no level increase
+- **Minor Milestone:** Gain either +2 HP or +1 skill point, no level increase
 - Award between major milestones for smaller achievements
-- Maintains sense of progress without full level-up
-- Example: "You've gained valuable experience. Add +2 HP and +1 skill point."
+- Maintains sense of progress without a full level-up, while limiting long-term power inflation
+- Example: "You've gained valuable experience. Take either +2 HP or +1 skill point."
 
 ### Variable Progression
 
@@ -264,10 +266,10 @@ Different characters level at different rates:
 ### Corruption-Based Progression
 
 Tie advancement to Corruption for thematic campaign:
-- Reaching Corruption threshold grants bonus perk (beyond normal progression)
+- Reaching a Corruption threshold can unlock eligibility for a Corrupted Perk, but it should replace the character's next normal Universal Perk slot rather than adding a free perk
 - Creates temptation to embrace corruption
 - Risk: May make Corruption too attractive
-- **Example:** "At Corruption Level 6, you've unlocked insights into forbidden power. Gain one additional Tier 2 Corrupted Perk."
+- **Example:** "At Corruption Level 6, you've unlocked insights into forbidden power. When you next gain a Universal Perk, you may choose a Tier 2 Corrupted Perk instead."
 
 ### Mid-Campaign Class Transformation: Soul Reaver
 

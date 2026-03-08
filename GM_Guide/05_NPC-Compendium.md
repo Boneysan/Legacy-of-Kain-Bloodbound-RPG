@@ -609,7 +609,7 @@ Adamas is a lean, ageless vampire with close-cropped grey hair and spectacles he
 | SE | 8 |
 
 **Abilities**
-- **Silver Tongue:** Advantage on all Persuasion, Deception, and Diplomacy checks. Can reroll one failed social check per scene.
+- **Silver Tongue:** Advantage on Persuasion and Deception checks. Can reroll one failed social check per scene.
 - **Accord Cipher:** Can encode/decode Pale Accord diplomatic messages. Carries sealed letters that, if delivered, can call in favours from Accord contacts across Nosgoth.
 - **Pact of Restraint:** Adamas has voluntarily suppressed his vampiric feeding instinct. He does not regenerate naturally but is immune to vampiric frenzy (the involuntary combat state triggered at 0 HP).
 - **Emergency Mist (1/day):** Can dissolve into mist and flee if reduced below 5 HP.
@@ -705,10 +705,10 @@ Thessa is a stocky Revenant woman in her fifties with burn scars across the righ
 | HP | 20 |
 
 **Abilities**
-- **Black Market Contacts:** Can procure any non-legendary item within 1d4 days for 150% market price. Rare components available at GM discretion.
+- **Black Market Contacts:** Can procure any non-legendary item within 1d4 days if the buyer can offer an appropriate favor, supply cache, or other meaningful leverage. Rare components remain GM-gated and usually require a second concession.
 - **Escape Route (1/encounter):** Thessa always has an exit planned. She and up to 3 allies can immediately disengage and flee to a pre-arranged safe house.
-- **Crossbow Expertise:** Ranged attacks with crossbows gain +1 DV. She carries a modified hand crossbow (DV 3, 60 ft range, poison-tipped on demand).
-- **Street Wisdom:** Advantage on Insight, Investigation, and Streetwise checks in urban environments.
+- **Crossbow Expertise:** Thessa gains +1 die on attack rolls made with crossbows. She carries a modified hand crossbow that deals 4 Physical (Piercing) damage at Ranged distance; poison-tipped bolts are available at GM discretion.
+- **Street Wisdom:** Advantage on Insight, Observation, and Persuasion checks tied to urban rumors, criminal networks, or local leverage.
 
 **Campaign Use**
 - Primary quest-giver for heist, smuggling, and underworld missions

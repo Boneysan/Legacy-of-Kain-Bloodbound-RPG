@@ -8,7 +8,7 @@ The Ancient Creatures of Nosgoth predate empires and faiths. Some are remnants o
 
 Expect unusual defenses, lair effects, and battlefield-scale abilities. These beings reward research, ritual preparation, and clever positioning. Many are tied to specific sites—defeating them can alter the world.
 
-> **Loot Format Note:** Ancient Creature loot consists of unique relics, fragments, and crafting components with individual mechanics rather than standard “Trade Value: X supplies” values. Craftable components (scales, plates, essences) are worth 100–400 supplies to the right buyer; unique armor, weapons, and keystones are effectively priceless outside of faction-barter contexts. GMs should treat this loot as campaign objectives and long-term rewards.
+> **Loot Format Note:** Ancient Creature loot consists of unique relics, fragments, and crafting components with individual mechanics rather than standard “Trade Value: X supplies” values. Craftable components (scales, plates, essences) carry roughly the barter weight of 100-400 supplies to the right faction, crafter, or scholar; unique armor, weapons, and keystones are effectively priceless outside of faction-barter contexts. GMs should treat this loot as campaign objectives and long-term rewards.
 
 ---
 
@@ -39,13 +39,13 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 **Stone-Hewer Fist (Basic Attack)**
 - Action: 1
 - Range: 10ft reach
-- Dice Pool: Fury + Athletics = 11d6 vs Dodge
-- Damage: 18 Bludgeoning. On hit, target must pass Fury DR 15 or be knocked prone.
+- Dice Pool: Fury + Athletics = 11d6
+- Damage: 18 Bludgeoning. On hit, target must make a DR 4 Fury save or be knocked prone.
 
 **Pillar Shockwave (Special)**
 - Action: 1; Cost: 6 SE
 - Range: 25ft cone
-- Dice Pool: Fury + Intimidation = 10d6 vs Agility
+- Save: DR 4 Evasion save
 - Fail: 16 Force and pushed 15ft; Success: half, no push.
 
 **Judgment Sigils (Passive)**
@@ -54,14 +54,14 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 **Siege Stride (Passive)**
 - Difficult terrain does not slow it; moving within 5ft of walls causes rubble (light cover zones) to form.
 
-Legendary Actions (2/round)
-- Stomp: 5ft shock pulse; adjacent creatures make DR 4 Evasion save or take 6 Force and are Staggered (no reactions) until end of turn.
-- Hurl Debris: 60ft ranged; Fury + Athletics = 10d6 vs Dodge; 12 Bludgeoning + 4 Piercing.
+Legendary Actions (2 per round)
+- Stomp: 5ft shock pulse; adjacent creatures make DR 4 Evasion save or take 6 Force damage and are Staggered (no reactions) until end of turn.
+- Hurl Debris: 60ft ranged; Fury + Athletics = 10d6; 12 Bludgeoning + 4 Piercing.
 
 ---
 
 ### Lore & Tactics
-- Built as a failsafe to guard relic vaults. Obeys ward-languages; clever PCs can display sigils to reduce aggression (Arcana DR 16).
+- Built as a failsafe to guard relic vaults. Obeys ward-languages; clever PCs can display sigils to reduce aggression (DR 4 Arcana check).
 - Fights to hold chokepoints, uses Shockwave to deny clustering.
 
 ### Loot & Rewards
@@ -100,7 +100,7 @@ Legendary Actions (2/round)
 **Harmonic Lance (Basic Attack)**
 - Action: 1
 - Range: 60ft
-- Dice Pool: Soul + Arcana = 10d6 vs Will
+- Dice Pool: Soul + Arcana = 10d6
 - Damage: 12 Psychic; on hit, -1 to target's Will checks (1 minute, stacks to -3).
 
 **Shattering Chorus (Special)**
@@ -110,7 +110,7 @@ Legendary Actions (2/round)
 - Fail: 16 Force and weapons/shields lose 1 Armor rating (min 0) for 1 hour.
 
 **Augury Veil (Special)**
-- Action: Bonus; Cost: 6 SE
+- Action: Bonus Action; Cost: 6 SE
 - Range: 30ft (one ally)
 - Effect: Target gains Advantage on one roll and +2 DV until start of Oracle's next turn.
 
@@ -159,13 +159,13 @@ Legendary Actions (2/round)
 **Ruin-Crush Jaws (Basic Attack)**
 - Action: 1
 - Range: Melee 10ft
-- Dice Pool: Fury + Athletics = 12d6 vs Dodge/Parry
-- Damage: 22 Bludgeoning. Huge or smaller: Agility DR 16 or Grappled (escape: contested Fury + Athletics check, DR 16).
+- Dice Pool: Fury + Athletics = 12d6
+- Damage: 22 Bludgeoning. Huge or smaller targets must make a DR 4 Evasion save or become Grappled (escape: contested Fury + Athletics check, DR 4).
 
 **Undertow (Special)**
 - Action: 1
 - Range: 30ft radius in water
-- Save: Athletics (Fury) DR 15
+- Save: DR 4 Athletics (Fury) check
 - Fail: Pulled 15ft toward Leviathan and knocked prone in water.
 
 **Collapse the Vault (Special — Lair Action)**
@@ -174,8 +174,8 @@ Legendary Actions (2/round)
 - Save: DR 4 Evasion save
 - Fail: 14 Bludgeoning; area becomes difficult terrain.
 
-Legendary Actions (2/round)
-- Tail Sweep: 15ft line; Fury + Athletics = 11d6 vs Dodge; 12 Bludgeoning and push 10ft.
+Legendary Actions (2 per round)
+- Tail Sweep: 15ft line; Fury + Athletics = 11d6; 12 Bludgeoning and push 10ft.
 - Drown Drag: Move half speed; dragged grappled target moves with it.
 
 ---
@@ -220,7 +220,7 @@ Legendary Actions (2/round)
 **Balance Lash (Basic Attack)**
 - Action: 1
 - Range: 10ft
-- Dice Pool: Soul + Arcana = 10d6 vs Will
+- Dice Pool: Soul + Arcana = 10d6
 - Damage: 10 Soul + 4 Force; on hit, target loses 1 SE (or BP) if they have any.
 
 **Pillar Mark (Special)**
@@ -229,7 +229,7 @@ Legendary Actions (2/round)
 - Effect: Mark a target. First time each round the Shade hits the marked target, it deals +6 Soul.
 
 **Phase Step (Special)**
-- Action: Bonus; Cost: 3 SE
+- Action: Bonus Action; Cost: 3 SE
 - Effect: Teleport 20ft to a space it can see.
 
 **Anchored Guardian (Passive)**
@@ -238,7 +238,7 @@ Legendary Actions (2/round)
 ---
 
 ### Lore & Tactics
-- A remnant enforcement spirit. Wards respond to proper rites (Glyphwright can parley, DR 15).
+- A remnant enforcement spirit. Wards respond to proper rites (Glyphwright can parley, DR 4).
 - Hit-and-run striker, focuses on marked enemies and casters with resources.
 
 ### Loot
@@ -247,260 +247,6 @@ Legendary Actions (2/round)
 ### Scaling Options
 - **Weakened Form (TV 8):** Reduce HP to 55, Armor to 1, and Balance Lash damage to 7 Soul + 3 Force. Remove Pillar Mark.
 - **Empowered Form (TV 14):** Increase HP to 125, Soul to 7, and Balance Lash damage to 14 Soul + 6 Force. Add Legendary Action (1/round): Phase Lash — teleport 10ft and make a Balance Lash as a single action.
-
----
-
-## Vaultspawn Ravager
-
-*A ruin-born predator grown from collapsed wards, rebar, and bone-like crystal—fast, cunning, territorial.*
-
-**Type:** Medium Beast (Arcane, Ruin-Born)
-**Threat Tier:** High (TV 10)
-
-### Statistics
-- **HP:** 105
-- **DV:** 6 (1 + Shadow 5)
-- **Armor:** 4 (Shard Carapace)
-- **SE:** 10
-- **Initiative:** 8
-- **Movement:** 70 feet (14 squares), Climb 70 feet
-- **Attributes:** Fury 6, Soul 2, Shadow 5, Will 3, Focus 3, Blood 0
-- **Skills:** Athletics 4, Stealth 4, Observation 4
-
-**Immunities:** Poison
-**Resistances:** Slashing
-**Vulnerabilities:** Thunder (resonance shatters carapace), Fire, Radiant
-
----
-
-### Attacks & Abilities
-
-**Shard-Talon Flurry (Basic Attack)**
-- Action: 1
-- Range: Melee
-- Dice Pool: Fury + Athletics = 10d6 vs Dodge
-- Damage: 12 Slashing; on crit, inflict Wounded (3 ongoing until treated).
-
-**Wallrunner (Passive)**
-- Can move along vertical surfaces and ceilings without tests.
-
-**Ambush Pounce (Special)**
-- Trigger: If unseen at start of encounter
-- Effect: First attack has Advantage and deals +6 damage.
-
----
-
-### Lore & Tactics
-- Nests in vault vents; drawn to shiny metal and sigil-inks.
-- Strikes from above, retreats to reposition every other round.
-
-### Loot
-- Carapace Splinters: Craft ammo that deals +2 damage vs armored targets.
-
-### Scaling Options
-- **Weakened Form (TV 7):** Reduce HP to 75, Armor to 3, and Shard-Talon Flurry damage to 8 Slashing. Remove Ambush Pounce.
-- **Empowered Form (TV 13):** Increase HP to 145, Fury to 7, and Shard-Talon Flurry damage to 16 Slashing. Add Legendary Action (1/round): Shard Burst — 10ft radius, Agility DR 14 or 8 Piercing.
-
----
-
-## Ancient Pillar Wyrm
-
-*A serpentine titan coiled through the roots of a shattered Pillar — part guardian, part prisoner, older than any empire that tried to claim the Pillars.*
-
-**Type:** Gargantuan Beast (Ancient, Pillar-Bound)
-**Threat Tier:** Major (TV 14)
-
-### Statistics
-- **HP:** 180
-- **DV:** 5 (1 + Shadow 4)
-- **Armor:** 7 (Petrified Scale-Plate)
-- **SE:** 50
-- **Initiative:** 6
-- **Movement:** 50 feet (10 squares), Burrow 75 feet
-- **Attributes:** Fury 7, Soul 6, Shadow 4, Will 6, Focus 5, Blood 0
-- **Skills:** Athletics 5, Arcana 4, Intimidation 4, Perception 3
-
-**Immunities:** Poison, Charm, Sleep
-**Resistances:** Bludgeoning/Piercing/Slashing (non-magical), Force
-**Vulnerabilities:** Radiant (the Pillar energy within reacts violently to purifying light), Thunder
-
----
-
-### Attacks & Abilities
-
-**Pillar-Fang Bite (Basic Attack)**
-- Action: 1
-- Range: 15ft reach
-- Dice Pool: Fury + Athletics = 12d6 vs Dodge
-- Damage: 18 Piercing + 6 Force (Pillar energy courses through its fangs). On hit, target must pass Fury DR 16 or be Grappled in its jaws. While grappled, target takes 10 automatic Piercing damage at start of each turn. The Wyrm can grapple one creature at a time in its jaws.
-
-**Pillar Breath (Special)**
-- Action: 1; Cost: 12 SE
-- Recharge: 5-6
-- Range: 60ft line, 10ft wide
-- Dice Pool: Soul + Arcana = 10d6 vs Will
-- Damage: 16 Force + 8 Soul (raw Pillar energy). Half on successful defense. Creatures that fail are pushed 20 feet and knocked prone.
-
-**Coiling Crush (Special)**
-- Action: 1; requires a Grappled target
-- Automatic — no roll
-- Damage: 20 Bludgeoning. Target must pass Blood DR 16 or be Restrained (constriction). While Restrained, the target takes 12 automatic Bludgeoning at start of each turn and cannot breathe (suffocation rules apply after 3 rounds).
-
-**Tail Sweep (Bonus Action, 1/round)**
-- Range: 20ft arc
-- Dice Pool: Fury + 5 = 10d6 vs Dodge
-- Damage: 12 Bludgeoning. Hit creatures must pass Fury DR 14 or be knocked prone and pushed 10 feet.
-
-**Legendary Resistance (3/day):** If this entity fails a saving throw, it can choose to succeed instead.
-
-Legendary Actions (2/round)
-- Tail Sweep (1 action): Make a Tail Sweep attack.
-- Burrow (1 action): The Wyrm burrows underground and resurfaces at any point within 15 feet. This does not provoke opportunity attacks.
-- Pillar Surge (2 actions): The Wyrm channels Pillar energy through the ground. All creatures within 20ft must pass Focus DR 15 or take 10 Force damage and have their movement halved until end of their next turn.
-
-Lair Action (on initiative 20)
-The Pillar Wyrm lairs in the underground root-network of a shattered Pillar. One of the following occurs:
-- **Pillar Resonance:** A pulse of energy radiates through the chamber. All magical effects in the area flicker — ongoing buffs must pass a "stability check" (caster rolls Soul + Arcana vs DR 3; failure suspends the effect for 1 round).
-- **Root Eruption:** Petrified roots burst from the ground at 1d3 points. Creatures within 5ft of a root must pass Shadow DR 14 or take 8 Bludgeoning and be Restrained (DR 3 Fury to escape).
-- **Ancient Memory:** The Wyrm's Pillar connection projects a fragmentary vision. One random creature gains Advantage on all rolls until end of next round (the Pillar's memory guides them). Another random creature has Disadvantage (the memory disorients them). The Wyrm cannot control which creatures are chosen.
-
-Regional Effects
-- Within 1 mile: Pillar energy creates faint auroral lights underground. Arcana checks have Advantage. Creatures with Corruption have Disadvantage on stealth (the Pillar energy illuminates taint).
-- The immediate area around the lair shifts subtly — tunnels rearrange overnight, distances feel wrong, and compasses align to the nearest Pillar instead of north.
-
----
-
-### Lore & Tactics
-
-**Lore:** Ancient Pillar Wyrms predate the Pillars themselves. When the Ancients raised the Pillars of Nosgoth, these titanic serpents were already coiled through the ley lines that the Pillars would be built upon. Some scholars believe the Wyrms *are* the ley lines — that the Ancients built the Pillars on top of them, not the other way around. The Pillar energy suffused the Wyrms over millennia, binding them to the sites they once merely inhabited. Now, they cannot leave. They guard the Pillar roots not out of loyalty, but because they are physically incapable of departing.
-
-Most Pillar Wyrms slumber for centuries at a time. The collapse of the Pillars has disturbed their rest, and they now thrash in confused rage, attacking anything that enters their domain.
-
-**Tactics:** The Wyrm opens by erupting from underground (Burrow) directly beneath the most dangerous target, using Pillar-Fang Bite to grapple them, then Coiling Crush to finish them. It uses Tail Sweep to scatter melee attackers. Pillar Breath targets ranged clusters. It Burrows frequently, using its underground movement to reposition and attack from unexpected angles.
-
-**Encounter Design:** The Pillar Wyrm encounter should feel like a raid boss — the party descends into a Pillar root chamber and must fight in a confined space where the Wyrm has every advantage. Pair with environmental hazards (crumbling rubble, Pillar energy surges, unstable footing). The Wyrm's Regional Effects should foreshadow the encounter over several sessions.
-
-### Loot
-- Pillar-Infused Fang (can forge a weapon dealing +6 Force damage; the weapon hums near Pillar sites) — **Trade Value**: 350 supplies
-- Ancient Scale Plate (can craft Armor 6 heavy armor with Force Resistance) — **Trade Value**: 400 supplies
-- Pillar Root Fragment (a living piece of the Pillar's underground network; key component for Pillar restoration rituals or powerful enchantments) — **Trade Value**: 500 supplies (priceless to the right buyer)
-- Wyrm's Memory Crystal (a calcified gland containing fragmentary memories of Nosgoth before the Pillars; provides lore insight into Ancient history) — **Trade Value**: 200 supplies
-
-### Scaling Options
-- **Weakened Form (TV 10):** Health 100; SE 20; Armor 5. Attributes reduced by 2 across the board. Loses Legendary Actions and Lair Action. Coiling Crush deals 12 Bludgeoning. Pillar Breath recharge 6 only. Suitable for a young Wyrm or a severely weakened ancient one disturbed from deep slumber.
-- **Empowered Form (TV 18):** Health 280; SE 80; Armor 9. Fury 9, Soul 8. Gains 3 Legendary Actions/round. Pillar Breath recharges on 4-6. Add **Pillar Awakening (1/encounter):** The Wyrm channels the full might of the Pillar root. All creatures within 40ft take 20 Force + 10 Soul damage (Will DR 18 for half). For 3 rounds, the Wyrm's attacks deal +8 Force damage and it regenerates 10 HP per round. Regional Effects intensify — tunnels collapse, cutting off retreat.
-
----
-
-## Titan-Kin Stalker
-
-*A lank, long-limbed hunter bearing fragments of titan plates; a living heir to a lost giant lineage.*
-
-**Type:** Large Humanoid (Giant-Kin)
-**Threat Tier:** Major (TV 12)
-
-### Statistics
-- **HP:** 120
-- **DV:** 7 (1 + Shadow 6)
-- **Armor:** 3
-- **SE:** 20
-- **Initiative:** 10
-- **Movement:** 80 feet (16 squares)
-- **Attributes:** Fury 6, Soul 3, Shadow 6, Will 4, Focus 4, Blood 0
-- **Skills:** Stealth 6, Athletics 4, Survival 5
-
-**Immunities:** Fear
-**Resistances:** Poison
-**Vulnerabilities:** Cold (slows its ancient metabolism)
-
----
-
-### Attacks & Abilities
-
-**Hunter's Glaive (Basic Attack)**
-- Action: 1
-- Range: 10ft
-- Dice Pool: Shadow + Weapon Mastery = 10d6 vs Dodge
-- Damage: 14 Slashing; on hit, target bleeds (2/turn) until treated.
-
-**Titan Plate Shift (Special)**
-- Action: Reaction
-- Effect: When hit, gain +2 Armor vs that attack and step 5ft.
-
-**Unseen Step (Special)**
-- Action: Bonus; Cost: 4 SE
-- Effect: Become Invisible until start of next turn or after attacking.
-
----
-
-### Lore & Tactics
-- Protects titan burial fields. Trades if honored; hunts oathbreakers.
-- Lives in the margins—guerilla strikes, then vanishes.
-
-### Loot
-- Titan Plate Flake: Once/day, gain +2 Armor for one round as a reaction.
-
-### Scaling Options
-- **Weakened Form (TV 9):** Reduce HP to 90, Armor to 2, and Hunter's Glaive damage to 10 Slashing. Remove Unseen Step.
-- **Empowered Form (TV 15):** Increase HP to 170, Shadow to 7, and Hunter's Glaive damage to 18 Slashing. Add Legendary Action (1/round): Phantom Strike — teleport 15ft and make a Hunter's Glaive attack.
-
----
-
-## Forgotten Dreambeast
-
-*An idea-born predator, half-seen in waking corners; memories give it shape and hunger.*
-
-**Type:** Medium Aberration (Psychic)
-**Threat Tier:** Major (TV 13)
-
-### Statistics
-- **HP:** 110
-- **DV:** 7 (1 + Shadow 6)
-- **Armor:** 2
-- **SE:** 80
-- **Initiative:** 9
-- **Movement:** 60 feet (12 squares), Fly 60 feet (hover)
-- **Attributes:** Fury 4, Soul 7, Shadow 6, Will 5, Focus 5, Blood 0
-- **Skills:** Forbidden Knowledge 3, Deception 4, Insight 4
-
-**Immunities:** Prone, Sleep, Charm
-**Resistances:** Psychic, Soul
-**Vulnerabilities:** Radiant, effects that banish or disrupt illusions
-
-*GM Design Note: The Dreambeast is intentionally fragile for its TV — it is a 'glass cannon' controller that relies on illusions and crowd control rather than raw durability. If your party has high burst damage, consider pairing it with tankier creatures to protect it.*
-
----
-
-### Attacks & Abilities
-
-**Nightmare Rend (Basic Attack)**
-- Action: 1
-- Range: 10ft
-- Dice Pool: Soul + Arcana = 11d6 vs Will
-- Damage: 14 Psychic; on hit, target suffers Disadvantage on next action.
-
-**Memory Labyrinth (Special)**
-- Action: 1; Cost: 10 SE
-- Range: 20ft radius
-- Save: Focus DR 15
-- Effect: Area becomes difficult terrain; creatures inside must pass save to move freely.
-
-**Borrowed Shape (Special)**
-- Action: Bonus; Cost: 6 SE
-- Effect: Assume appearance of a known NPC for 1 minute (illusions break if struck).
-
----
-
-### Lore & Tactics
-- Coalesces near places of mass forgetting—burned archives, erased bloodlines.
-- Splits the party with terrain, punishes low-Will casters.
-
-### Loot
-- Phial of False Memory: Single-use; impose Disadvantage on a target’s next two Insight checks.
-
-### Scaling Options
-- **Weakened Form (TV 10):** Reduce HP to 80, Armor to 1, and Nightmare Rend damage to 10 Psychic. Remove Borrowed Shape.
-- **Empowered Form (TV 16):** Increase HP to 150, Soul to 8, and Nightmare Rend damage to 18 Psychic. Add Legendary Action (1/round): Dream Snap — force one creature within 30ft to make a Will DR 16 save or be Stunned until end of its next turn.
 
 ---
 
@@ -532,8 +278,8 @@ Most Pillar Wyrms slumber for centuries at a time. The collapse of the Pillars h
 **Crushing Vines (Basic Attack)**
 - Action: 1
 - Range: 10ft
-- Dice Pool: Fury + Athletics = 11d6 vs Dodge
-- Damage: 18 Bludgeoning; on hit, Grapple (escape: contested Fury + Athletics check, DR 16). Grappled targets take 6 Bludgeoning at start of their turn.
+- Dice Pool: Fury + Athletics = 11d6
+- Damage: 18 Bludgeoning; on hit, Grapple (escape: contested Fury + Athletics check, DR 4). Grappled targets take 6 Bludgeoning at start of their turn.
 
 **Thornburst (Special)**
 - Action: 1; Cost: 8 SE
@@ -556,7 +302,7 @@ Most Pillar Wyrms slumber for centuries at a time. The collapse of the Pillars h
 
 ### Scaling Options
 - **Weakened Form (TV 12):** Reduce HP to 200, Armor to 4, and Crushing Vines damage to 14 Bludgeoning. Remove Deep Root's regeneration.
-- **Empowered Form (TV 18):** Increase HP to 280, Fury to 9, and Crushing Vines damage to 22 Bludgeoning. Add Legendary Action (1/round): Root Surge — 15ft line, Agility DR 16 or Grappled and pulled 10ft toward the Horror.
+- **Empowered Form (TV 18):** Increase HP to 280, Fury to 9, and Crushing Vines damage to 22 Bludgeoning. Add Legendary Action (1/round): Root Surge — 15ft line, DR 4 Evasion save or Grappled and pulled 10ft toward the Horror.
 
 ---
 
@@ -596,7 +342,7 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 - **Effect:** On hit, target is **Pinned** (Grappled, prone; escape DR 4 Blood or Fury + Athletics). Pinned targets take 4 Piercing at the start of each turn as the Stalker's weight bears down.
 
 **Primal Howl** (2 Actions, costs 8 SE, Recharge 5-6)
-- **Dice Pool:** Soul 3 + Intimidation 3 = 6d6 vs Will
+- **Dice Pool:** Soul 3 + Intimidation 3 = 6d6
 - **Range:** 50-foot radius
 - **Effect:** All creatures in range must make DR 4 Will save or be **Frightened** for 3 rounds. Vampires, undead, and creatures with active Blood Points auto-fail this save (the Stalker's dominance overrides their undead instincts). The howl can be heard for a mile.
 
@@ -610,7 +356,7 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 
 **Legendary Resistance (2/day):** If the Stalker fails a saving throw, it can choose to succeed instead.
 
-**Legendary Actions (2/round):**
+**Legendary Actions (2 per round):**
 - **Blood Rend (1 action):** Make one Blood Rend attack
 - **Ancient Lunge (2 actions):** Use Ancient Lunge (still costs 5 SE)
 
@@ -658,10 +404,10 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 - **Dice Pool:** Soul 6 + Corruption Channeling 4 = 10d6
 - **Range:** 10-foot melee reach
 - **Damage:** 10 Corruption damage (bypasses normal physical armor — it infects rather than wounds)
-- **Special:** On hit, any magical item or enchanted object carried by the target loses 1 enhancement bonus for 24 hours (magical weapons deal −1 damage; magical armor provides −1 DV bonus). This effect does not stack beyond −3 per item.
+- **Special:** On hit, any magical item or enchanted object carried by the target loses 1 enhancement bonus for 24 hours (magical weapons deal -1 damage; magical armor provides -1 DV bonus). This effect does not stack beyond -3 per item.
 
 **Pillar Shard Barrage** (2 Actions, costs 8 SE, Recharge 5-6)
-- **Dice Pool:** Soul 6 + Arcana 3 = 9d6 vs Blood
+- **Dice Pool:** Soul 6 + Arcana 3 = 9d6
 - **Range:** 40-foot radius at a point within 80 feet
 - **Damage:** 14 Piercing
 - **Save:** DR 4 Blood save to halve
@@ -727,11 +473,11 @@ They manifest as large geometric constructs of light and pale stone, roughly hum
 
 **Ward Nullify** (2 Actions, costs 10 SE, Recharge 5-6)
 - **Range:** 40-foot radius at a point within 60 feet
-- **Effect:** All active magical effects in range must make a DR 4 Will save (using the original caster's dice pool vs DR 4) or be **Suppressed** for 3 rounds — this includes ongoing spells, curses, enchantments, summoned entities, and temporary magical conditions. The Ward does not distinguish friend from foe; everything magical in range is subject.
+- **Effect:** All active magical effects in range must make a DR 4 Will save (using the original caster's dice pool and failing if that check does not meet DR 4) or be **Suppressed** for 3 rounds — this includes ongoing spells, curses, enchantments, summoned entities, and temporary magical conditions. The Ward does not distinguish friend from foe; everything magical in range is subject.
 
-**Counter-Glyph (Reaction, costs 6 SE):**
+**Counter-Glyph** (Reaction, costs 6 SE)
 - **Trigger:** Any creature within 50 feet casts a spell or uses a magical ability
-- **Effect:** Roll Soul 5 + Arcana 4 = 9d6 vs the caster's active dice pool. On a tie or success, the ability is countered — the SE is still spent but no effect occurs. This is explicitly a counter-magic ability, not damage.
+- **Effect:** Roll Soul 5 + Arcana 4 = 9d6 and contest it against the caster's active dice pool. On a tie or success, the ability is countered — the SE is still spent but no effect occurs. This is explicitly a counter-magic ability, not damage.
 - **Limit:** Can be used once per round regardless of trigger count.
 
 ### Special Abilities

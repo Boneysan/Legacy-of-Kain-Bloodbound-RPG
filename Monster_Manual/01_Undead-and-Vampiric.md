@@ -114,7 +114,7 @@ Opens with Shadow Leap to close distance, then Pounces on isolated target. Uses 
 
 ### Scaling
 - **Fledgling Hunger Vampire (Standard, TV 1):** HP 20, DV 4, -1 to all attributes, no Shadow Leap
-- **Vampire Beast Lord (Boss, TV 4):** HP 55, DV 6, Fury 5, Blood 5, commands pack of 3-4 Feralslave Ghouls, gains 2 Legendary Actions per round instead of the default 3 for boss-tier undead
+- **Vampire Beast Lord (Boss, TV 4):** HP 55, DV 6, Fury 5, Blood 5, commands pack of 3-4 Feralslave Ghouls, gains 2 Legendary Actions per round as a TV 4 solo boss benchmark
 
 ---
 
@@ -502,16 +502,21 @@ A Nosgothian Revenant seeks to kill a corrupt official. The official hires the p
 
 ## 1.10 Legendary Actions (Boss-Tier Undead)
 
-Boss-tier undead (TV 4+) should have Legendary Actions to maintain threat against multiple PCs:
+Boss-tier undead often need extra action economy to maintain threat against multiple PCs, but the amount should track their printed tier:
 
-**Legendary Actions (3 per round):**
+**TV 4 Boss benchmark: 2 Legendary Actions per round**
+- **Move:** Move up to speed without provoking opportunity attacks (1 action)
+- **Attack:** Make one weapon or spell attack (1 action)
+- **Command Undead:** All lesser undead within 60 feet act immediately (2 actions)
+
+**TV 6+ Legendary benchmark: 3 Legendary Actions per round**
 - **Move:** Move up to speed without provoking opportunity attacks (1 action)
 - **Attack:** Make one weapon or spell attack (1 action)
 - **Command Undead:** All lesser undead within 60 feet act immediately (2 actions)
 - **Life Drain:** Use Life Drain ability at half damage (2 actions)
 - **Frightening Presence:** All enemies within 30 feet make DR 3 Will save or be Frightened until end of next turn (2 actions)
 
-Bosses take Legendary Actions at the end of other creatures' turns, maintaining pressure throughout the round.
+Use 2 actions for most TV 4 solo bosses and reserve 3 actions for TV 6+ Legendary undead, lair-bound rulers, or campaign capstones. Bosses take Legendary Actions at the end of other creatures' turns.
 
 ---
 
@@ -577,11 +582,10 @@ Most Overlords were once members of the great vampire clans, and some still carr
 
 **Legendary Resistance (3/day):** When the Overlord fails a save, it can choose to succeed instead.
 
-### Legendary Actions (3 per round)
+### Legendary Actions (2/round)
 - **Move:** Fly or walk up to full speed without provoking opportunity attacks (1 action)
 - **Sovereign Claws:** Make one Sovereign Claw attack (1 action)
 - **Blood Dominion:** Use Blood Dominion on one target (2 actions)
-- **Crimson Torrent:** Use Crimson Torrent, even if not recharged (3 actions)
 
 ### Reactions
 **Lordly Contempt** (Reaction, when hit by a melee attack)
@@ -732,7 +736,7 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 
 **Legendary Resistance (2/day):** If the Archon fails a saving throw, it can choose to succeed instead.
 
-### Legendary Actions (2/round)
+### Legendary Actions (3/round)
 - **Soul Scourge (1 action):** Make one Soul Scourge attack at half damage (5 Soul).
 - **Command Undead (1 action):** One undead ally within 60 feet can immediately move up to its speed or make one attack.
 - **Dark Rebuke (2 actions):** When an enemy within 30 feet casts a spell, the Archon can counter it. Roll Soul 6 + Arcana 4 = 10d6 vs DR 4. On success, the spell is negated and the Archon regains 5 SE.

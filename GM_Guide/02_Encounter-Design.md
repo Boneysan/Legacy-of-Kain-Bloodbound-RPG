@@ -103,7 +103,7 @@ Use these formulas when building a creature specifically for a party's average l
 - Armor: 3-4
 - Attack: (Party level + 4) d6, 2 attacks per turn
 - Damage: 8-12
-- Special: 3-4 unique abilities, resistance to 1-2 damage types
+- Special: 3-4 unique abilities, resistance to 1-2 damage types; solo bosses usually gain 2 Legendary Actions/round or a supporting retinue, not both by default
 - Contested checks: pool = party level
 
 **Legendary (TV 6+):**
@@ -138,6 +138,7 @@ A boss with 50 HP facing 4 PCs will still get overwhelmed because:
 **Option 2: Legendary Actions**
 - Boss can take actions on player turns
 - Example: "The vampire lord can make one claw attack after any PC's turn ends"
+- As a default benchmark, use 2 Legendary Actions for a TV 4 solo boss and 3 for a TV 6+ Legendary creature
 - For custom creatures built to a level band, count each reliable legendary action as roughly `+0.5 × average party level` to the creature's final TV
 
 **Option 3: Multi-Attack**
@@ -145,8 +146,9 @@ A boss with 50 HP facing 4 PCs will still get overwhelmed because:
 - Increases effective TV by 50% per extra attack
 
 **Option 4: Reaction Abilities**
-- Boss can use Reaction multiple times per round
-- Example: "Parry—reduce incoming damage by 5 (3 times per round)"
+- By default, bosses still only get 1 Reaction per round; only grant more if a specific stat block explicitly says so
+- Example: "Parry—when hit by a melee attack, reduce incoming damage by 5 (1/round)"
+- If you need more boss pressure, prefer minions, multi-attack, or Legendary Actions over extra reactions
 
 ---
 
@@ -167,13 +169,15 @@ Terrain and environment dramatically affect encounter difficulty:
 - **Tactical Use:** Area denial, force positioning choices
 
 **Elevated Terrain**
-- +1 success on attacks from high ground
-- +1 DV to target on high ground (attacker needs extra success to hit)
+- Usually grants Advantage on attacks made from clearly superior footing
+- In rare cases, impose Disadvantage on attacks made uphill or while climbing instead
+- Use one positional modifier at a time; do not also add DV unless cover is involved
 - **Tactical Use:** Powerful defensive position
 
 **Cover**
 - Half cover: +1 DV against ranged attacks/spells
 - Full cover: +2 DV against ranged attacks/spells
+- These are the primary recurring numeric DV modifiers in combat
 - **Tactical Use:** Protects ranged enemies, encourages flanking
 
 ### Interactive Elements

@@ -39,10 +39,12 @@ Early chapters often use benchmark values such as `0.25`, `1`, `2`, and `4` dire
 **Calculating Encounter TV:**
 - Party TV = Sum of all PC levels
 - Enemy TV = the printed TV on each creature
-- For Balanced Encounter: Total Enemy TV should equal Party TV
-- For Easy: 50-75% of Party TV
-- For Hard: 125-150% of Party TV
-- For Deadly: 175%+ of Party TV
+- Trivial: 25% of Party TV
+- Easy: 50% of Party TV
+- Standard: 75-100% of Party TV
+- Challenging: 125-150% of Party TV
+- Deadly: 175-200% of Party TV
+- Legendary: 250%+ of Party TV
 
 *Example: A Level 5 party of 4 has Party TV 20. A balanced encounter (TV 20) could be: 2 TV 4 bosses + 4 TV 2 elites + 4 TV 1 standards, 1 TV 12 major threat + 2 TV 4 lieutenants, or any other mix totaling about 20.*
 
@@ -54,25 +56,36 @@ This manual uses a **d6 dice pool system**. When a creature makes an attack or a
 
 **Attribute + Skill = Xd6**
 
-For example, a creature with Fury 4 and Melee 3 rolls **7d6** to attack. Each die that meets or exceeds the target's **Defense Value (DV)** counts as a **success**. The number of successes determines whether the attack hits and how effective it is.
+For example, a creature with Fury 4 and Melee 3 rolls **7d6** to attack. Each die showing **5 or 6** counts as a **success**. Compare the total number of successes to the target's **Defense Value (DV)** or the listed **DR** for a save/check.
 
 ### Key Terms
 - **Dice Pool**: The total number of d6 rolled (Attribute + Skill)
-- **Defense Value (DV)**: The target number each die must meet or exceed. Hard cap of **6** for base DV; effective DV may be higher through armor, reactions, or lair effects.
-- **Armor**: Reduces damage taken after a successful hit. Physical and Magical armor may differ.
+- **Defense Value (DV)**: The number of successes an attacker must meet or exceed to land a hit. Base DV should stay at **6** or lower; temporary cover, reactions, and special effects may raise effective DV higher.
+- **Difficulty Rating (DR)**: The number of successes needed for saves, checks, and non-attack effects.
+- **Armor**: Flat mitigation applied after a hit lands. Use one Armor score unless a stat block explicitly says otherwise.
 - **Threat Value (TV)**: A creature's overall power rating used for encounter balancing.
 - **Soul Energy (SE)**: Resource pool for magical abilities. Spent to fuel spells and special abilities.
 - **Blood Points (BP)**: Resource pool for vampiric/blood-based abilities.
 
-### Reading a Stat Block Attack
-When you see: `Fury (4) + Melee (3) = 7d6 vs Dodge`
-- The creature rolls 7d6
-- Compare each die to the target's DV
-- Count successes
-- If at least 1 success: the attack hits and deals its listed damage
+> **Damage Label Note:** Some older stat blocks use legacy labels such as Necrotic, Blood, Void, or Corruption as shorthand. Read them through the Player's Handbook damage framework: usually **Entropic** for necrotic/corruptive effects, **Spectral** for soul-rending effects, and **Physical** for mundane weapon damage.
 
-### Defense Rolls
-Some creatures force **defense rolls** instead of static checks. The defender rolls their own dice pool against a difficulty determined by the attacker's successes.
+> **Loot Note:** When a loot entry gives a **Trade Value** in supplies, treat it as barter weight or faction interest, not as a literal coin price.
+
+### Reading a Stat Block Attack
+When you see: `Fury 4 + Melee 3 = 7d6`
+- The creature rolls 7d6
+- Count each 5 or 6 as one success
+- Compare total successes to the target's DV
+- If successes meet or exceed DV, the attack hits and deals its listed damage
+
+### Saves and Contested Reactions
+Some creatures call for a save or a defensive reaction instead of a normal attack resolution.
+
+- **Saves** use a listed DR, such as `DR 3 Will save` or `DR 2 Blood save`.
+- **Reactions** use the relevant PHB reaction framework, usually Evasion or Weapon Mastery.
+- If an older entry references **Dodge**, read that as the target's DV or an Evasion-based reaction when the entry clearly says it uses a Reaction.
+- If an older entry references **Parry**, read it as a Weapon Mastery-based reaction.
+- If an older entry references **Agility**, convert it to an **Evasion** save/check.
 
 ---
 
@@ -95,7 +108,8 @@ Brief description of the creature's nature, origins, and role in Nosgoth.
 - **DV:** Defense Value (calculated as 1 + higher of Shadow or Will). The DV hard cap from base stats is **6**. No creature's innate DV exceeds 6. Effective DV may be raised above 6 through armor bonuses, magical effects, lair actions, or reactions, but the base stat block DV line should never read higher than 6.
 
 > **DV Cap & Scaling Note:** The GM Guide's homebrew formulas may produce projected DV values above 6 for Elite and Boss creatures aimed at higher-level parties. This is intentional — those formulas describe *effective* DV (base + armor + reactions + lair bonuses), not base stat block DV. When creating or scaling a creature, keep the printed DV line at 6 or below and layer additional defenses through Armor, shield reactions, lair actions, or conditional bonuses (e.g., "+2 DV when in darkness") to reach the target effective DV.
-- **DR / Armor:** Damage Reduction or Armor (some chapters label DR as Armor)
+- **Armor:** Flat damage mitigation.
+- **DR in abilities:** The target number for saves, checks, or escape attempts.
 - **Movement:** Speed in feet (divide by 5 for squares)
 
 > **Movement Note:** All movement in this manual is measured in **feet**. To convert to a grid/square-based map, divide by 5 (e.g., 30 feet = 6 squares). Unless otherwise stated, one round of movement equals the creature's listed Movement value.
@@ -103,7 +117,7 @@ Brief description of the creature's nature, origins, and role in Nosgoth.
 - **Resources:** Soul Energy (SE), Blood Points (BP) when applicable
 - **Skills:** Relevant trained skills
 
-Note on defenses: In earlier chapters, attacks often roll against a single DV. In later chapters, some attacks target specific defenses or saves such as Dodge/Parry (Agility vs. melee), Agility (area effects), or Will (mental/spiritual effects). Treat these as targeted defense checks using the indicated attribute instead of DV.
+Note on defenses: Treat the Player's Handbook and GM Guide terminology as canonical. Attacks normally target DV; saves and checks use DR; Armor is flat mitigation. If a stat block uses older labels like Dodge, Parry, or Agility, convert them using the guidance above instead of introducing a parallel defense subsystem.
 
 **Attacks & Abilities**
 - **Primary Attack:** Name, dice pool, damage, special effects
