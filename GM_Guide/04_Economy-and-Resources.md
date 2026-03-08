@@ -16,6 +16,8 @@ Nosgoth is a world of scarcity where traditional currency has collapsed. This ch
 
 Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Damage types like Force, Spectral, and Entropic have special interactions detailed in Player's Handbook Chapters 5, 8, and 9.
 
+Economy note: If player-facing material uses merchant language, market price, or Trade Value, treat those as shorthand for relative barter weight and availability. This chapter supplies the GM interpretation; it does not create a separate coin-based economy.
+
 ---
 
 ## 4.1 The Collapse of Currency

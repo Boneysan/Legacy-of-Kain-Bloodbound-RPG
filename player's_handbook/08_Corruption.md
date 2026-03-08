@@ -55,17 +55,17 @@ Corruption Dice are always d6s, but they are distinct from your normal dice (use
 2.  **Activating Corrupted Perks** (some perks require rolling Corruption Dice).
 
 **The Risk:**
-Whenever a Corruption Die shows a **1**, your Corruption Level increases by 1 immediately. If this pushes you over a threshold, you may gain a new perk or eventually lose your character.
+Whenever a Corruption Die shows a **1**, your Corruption Level increases by 1 immediately. If this pushes you over a threshold, you unlock access to stronger Corrupted Perks for future perk choices and may eventually lose your character.
 
 ## 8.4 Corrupted Perks
 
 As you cross Corruption thresholds, you gain access to powerful but dangerous Corrupted Perks.
 
-*   **Tier 1 (Level 3+)**: Minor powers with social drawbacks.
-*   **Tier 2 (Level 7+)**: Significant powers with physical costs or risks.
-*   **Tier 3 (Level 11+)**: Game-altering powers that corrupt your soul.
+*   **Tier 1 (Corruption 3+)**: Minor powers with social drawbacks.
+*   **Tier 2 (Corruption 7+)**: Significant powers with physical costs or risks.
+*   **Tier 3 (Corruption 11+)**: Game-altering powers that corrupt your soul.
 
-Characters may select one Corrupted Perk each time they cross a new threshold.
+Corrupted Perks are chosen in place of a Universal Perk slot. Crossing a threshold unlocks eligibility for the corresponding tier; it does not grant a free extra perk.
 
 ### Tier 1 Corrupted Perks (Corruption Level 3-6)
 

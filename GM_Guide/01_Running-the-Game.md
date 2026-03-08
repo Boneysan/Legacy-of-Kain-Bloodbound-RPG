@@ -16,6 +16,8 @@ This chapter covers the practical aspects of running *Legacy of Kain: Bloodbound
 - [1.11 Quick Reference: GM Calls](#111-quick-reference-gm-calls)
 
 > Terminology note: In combat, target Defense Value (DV). For checks/saves and environmental challenges, compare successes to Difficulty Rating (DR). “Armor” is flat damage mitigation. Some effects may bypass Armor (e.g., Force, Spectral), or interact with damage types as defined in the Player’s Handbook.
+>
+> Canon note: The Player's Handbook is the rules authority for exact triggers, thresholds, perk progression, and combat outcomes. This chapter is GM-facing adjudication guidance; if any summary here is shorter or broader than the handbook, use the handbook text.
 
 ---
 
@@ -31,8 +33,8 @@ The Difficulty Rating system is your primary tool for balancing challenges. Unde
 | **1** | Simple | Trained individuals succeed reliably | Hiding in shadows, climbing with handholds, basic first aid |
 | **2** | Standard | The default for most challenges | Picking common locks, persuading neutral NPC |
 | **3** | Challenging | Requires expertise or luck | Disarming magical trap, deceiving suspicious guard, resisting potent spell |
-| **4** | Severe | Near-impossible, legendary difficulty | Breaking ancient wards, surviving Elder God's attention, resisting fate itself |
-| **5+** | Mythic | Should require multiple attempts or special preparation | Altering prophecy, defeating Pillar guardian, resisting direct divine influence |
+| **4** | Difficult | Near-impossible, legendary difficulty | Breaking ancient wards, surviving Elder God's attention, resisting fate itself |
+| **5+** | Extreme/Legendary | Should require multiple attempts or special preparation | Altering prophecy, defeating Pillar guardian, resisting direct divine influence |
 
 ### Factors That Modify DR
 
@@ -54,7 +56,7 @@ The Difficulty Rating system is your primary tool for balancing challenges. Unde
 
 **Combat:** Attacks are resolved against Defense Value (DV), not DR.
 - DV = 1 + (higher of Shadow or Will) + modifiers
-- Extra successes beyond DV create critical hits
+- Exceeding DV by 2+ creates a critical hit
 
 **Non-Combat:** Use DR for all skill checks, saves, and challenges.
 - Meeting DR = success
@@ -103,7 +105,7 @@ Multiple sources of advantage don't stack—you either have it or you don't. Sam
 Understanding the distinction between these two mechanics is essential:
 
 ### Critical Success (Skill Checks Only)
-**Trigger:** 3+ total successes OR exceeding DR by 2+
+**Handbook Trigger:** Exceed the DR by 2 or more successes.
 
 **When it Happens:**
 - Non-combat skill checks
@@ -121,15 +123,17 @@ Understanding the distinction between these two mechanics is essential:
 **Example:** Picking a lock with Critical Success might also reveal who made the lock and what they were protecting.
 
 ### Critical Hit (Combat Only)
-**Trigger:** 3+ total successes OR exceeding target's DV by 2+
+**Handbook Trigger:** Exceed the target's DV by 2 or more successes.
 
 **Player Chooses One Benefit:**
-- **Bonus Damage:** +2 or +3 damage (GM decides cap)
-- **Status Effect:** Inflict condition based on damage type (see Player's Handbook)
-- **Bypass Armor:** Ignore 1 or 2 points of target's Armor
-- **Tactical Advantage:** Create opening (target loses Reaction, ally gets advantage)
+- **Bonus Damage:** Apply extra damage within the limits established by the relevant handbook rule, feature, or weapon.
+- **Status Effect:** Inflict a condition based on damage type or an applicable feature (see Player's Handbook).
+- **Bypass Armor:** Ignore some or all Armor if the relevant handbook rule or effect allows it.
+- **Tactical Advantage:** Create an opening such as lost Reactions, exposed positioning, or ally setup, consistent with the handbook and the fiction.
 
 **Example:** Critical Hit with a piercing weapon might deal +3 damage OR inflict Bleeding (1 damage/round).
+
+When in doubt about exact caps, damage-type effects, or exceptions created by class features, defer to the Player's Handbook combat chapters rather than expanding this summary.
 
 ---
 

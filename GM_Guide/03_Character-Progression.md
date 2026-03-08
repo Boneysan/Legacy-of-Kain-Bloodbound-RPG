@@ -266,10 +266,10 @@ Different characters level at different rates:
 ### Corruption-Based Progression
 
 Tie advancement to Corruption for thematic campaign:
-- Reaching a Corruption threshold can unlock eligibility for a Corrupted Perk, but it should replace the character's next normal Universal Perk slot rather than adding a free perk
+- Reaching a Corruption threshold can unlock eligibility for a Corrupted Perk. Resolve the actual choice using the Player's Handbook perk progression rules rather than granting an extra perk from this GM chapter.
 - Creates temptation to embrace corruption
 - Risk: May make Corruption too attractive
-- **Example:** "At Corruption Level 6, you've unlocked insights into forbidden power. When you next gain a Universal Perk, you may choose a Tier 2 Corrupted Perk instead."
+- **Example:** "At Corruption Level 6, you've unlocked insights into forbidden power. When your next perk choice comes up, resolve it using the Player's Handbook corruption and perk rules."
 
 ### Mid-Campaign Class Transformation: Soul Reaver
 
