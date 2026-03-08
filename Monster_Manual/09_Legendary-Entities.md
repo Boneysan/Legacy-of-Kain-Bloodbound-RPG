@@ -617,7 +617,7 @@ Regional Effects
 **Legendary Resistance (3/day):** If this entity fails a saving throw, it can choose to succeed instead.
 
 Legendary Actions (2 per round)
-- Parry Riposte: Half-damage strike when missed by melee.
+- Riteblade Riposte: Half-damage strike when missed by a melee attack.
 - Execute Gap: Move 10ft and make a Riteblade attack (half damage).
 
 Lair Action

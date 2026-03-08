@@ -608,7 +608,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 - **Forbidden Knowledge of Doom for Control**: They use this to Curse the entire party, making every action harder.
 - **Void Blast for Damage**: They spam Void Blast using Legendary Actions, targeting spellcasters to drain SE.
 - **Buff Allies with Legendary Actions**: They use actions to buff the strongest Hylden ally (Shock Trooper Warlord, Flesh Architect, etc.), turning them into unstoppable threats.
-- **Forbidden Knowledge Sight for Defense**: They're extremely hard to hit due to Advantage on Defense. Players must use status effects, area attacks, or creative tactics.
+- **Forbidden Knowledge Sight for Defense**: They're extremely hard to hit due to the +2 DV spike from Forbidden Knowledge Sight. Players must use status effects, area attacks, or creative tactics.
 - **Glyphcasting for Sustain**: They regenerate SE constantly, allowing near-endless casting.
 
 #### Loot
@@ -1139,7 +1139,7 @@ Grunts swarm in groups of 4–8. They charge the nearest enemy and use Crude Wea
 #### Encounter 1: The Possession (Levels 6-8)
 **Setup**: A village has been infiltrated by 4 **Corruption Hosts** (Standard, TV 1 each, TV 4 total). They're spreading Corruption and preparing for a Hylden invasion. The party must identify and eliminate them before the village is lost.
 
-**Tactics**: Hosts use Infiltrator's Guise to blend in. Players must use Investigation, Observation, or magical detection to identify them. When discovered, Hosts fight with Tendril Lash and Corrupted Touch, spreading Corruption. If killed, some may use Final Transformation, turning into Abominations mid-combat.
+**Tactics**: Hosts use Infiltrator's Guise to blend in. Players must use Observation, Insight, or magical detection to identify them. When discovered, Hosts fight with Tendril Lash and Corrupted Touch, spreading Corruption. If killed, some may use Final Transformation, turning into Abominations mid-combat.
 
 **Twist**: One "Host" is actually an innocent villager who's been magically marked to look corrupted (false positive). Killing them is murder. Can the party tell the difference?
 

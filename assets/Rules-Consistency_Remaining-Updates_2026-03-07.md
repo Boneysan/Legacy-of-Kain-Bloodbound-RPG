@@ -31,6 +31,7 @@ The major contradictions identified in this review have now been resolved in the
 2. **Parallel defense wording in monster/NPC entries**
   - Flagged `Defense roll`, `vs Dodge`, and similar attack-resolution drift was rewritten to use DV, DR, or explicit reaction wording.
   - Counter-magic wording in affected entries was anchored to DR/reaction language rather than freeform active-pool contests.
+  - Follow-up monster pass also cleaned the remaining old `Dodge` / `Parry` reaction labels and `vs Parry` attack headers in active stat blocks.
 
 3. **Non-PHB monster skill lists in flagged chapters**
   - Normalized the targeted Chapters 8 and 9 entries.
@@ -61,5 +62,5 @@ The major contradictions identified in this review have now been resolved in the
 
 ## Notes
 
-- Some chapters still contain lore prose that mentions concepts such as blood magic, tracking, or melee range descriptively. Those references are no longer being used as active parallel rules vocabularies in the flagged mechanics above.
-- If a future consistency pass aims for total PHB-skill purity across every chapter, it should search for custom skill names in all remaining monster files, not just the originally flagged stat blocks.
+- Follow-up monster-manual sweep confirmed that remaining references to concepts such as blood magic, tracking, or melee range are now predominantly lore or tactical prose rather than active parallel rules vocabulary.
+- Follow-up monster-manual sweep also caught the remaining off-list check phrasing in active mechanics, replacing terms such as `Investigation` and `Pillar Lore` with PHB skill language where they still appeared.

@@ -99,7 +99,7 @@ Not all vampires retain their nobility and cunning. Those who give in completely
 **Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
 
 ### Reactions
-**Predator's Dodge** (Reaction, when hit by attack)
+**Predator's Evasion** (Reaction, when hit by attack)
 - Roll Shadow 4 + Evasion 0 = 4d6 vs DR 2
 - On success, reduce damage by 5
 
@@ -268,12 +268,12 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 **Sunlight Sensitivity:** Disadvantage on attack rolls and Observation checks in direct sunlight.
 
 ### Reactions
-**Parry** (Reaction, when hit by melee attack)
-- Roll Fury 4 + Weapon Mastery 3 = 7d6 vs attacker's attack roll
+**Ancient Greatsword Parry** (Reaction, when hit by melee attack)
+- Roll Fury 4 + Weapon Mastery 3 = 7d6 against the triggering attack's successes
 - On success, take no damage and can make immediate counterattack
 
 ### Tactics
-Commands lesser undead from back line while using Aura of Dread to control battlefield. Shadow Steps to isolated targets for Life Drain. Uses Parry defensively. If bloodied, becomes aggressive and uses Ancient Greatsword relentlessly.
+Commands lesser undead from back line while using Aura of Dread to control battlefield. Shadow Steps to isolated targets for Life Drain. Uses Ancient Greatsword Parry defensively. If bloodied, becomes aggressive and uses Ancient Greatsword relentlessly.
 
 ### Loot
 - Ancient armor (can be restored, Armor 3, Trade Value: 100 supplies to collector)
@@ -283,7 +283,7 @@ Commands lesser undead from back line while using Aura of Dread to control battl
 - Personal effects revealing tragic history
 
 ### Scaling
-- **Lesser Wight (Standard, TV 1):** HP 25, DV 4, DR 2, no Command Undead or Parry
+- **Lesser Wight (Standard, TV 1):** HP 25, DV 4, DR 2, no Command Undead or Ancient Greatsword Parry
 - **Wight Lord (Boss, TV 4):** HP 60, DV 6, DR 4, gains Legendary Actions (2 per round): Move, Attack, or Command Undead (costs 2 actions)
 
 ---
@@ -664,7 +664,7 @@ Grave-Knights are often bound to a specific location (a battlefield, a fortress,
 **Bound Purpose:** The Grave-Knight cannot willingly leave the area it is bound to (typically a 500-foot radius). If forced outside, it loses Commander's Presence and has Disadvantage on all rolls until it returns.
 
 ### Reactions
-**Parry** (Reaction, when hit by a melee attack)
+**Cursed Greatsword Parry** (Reaction, when hit by a melee attack)
 - Reduce damage taken by 5 (deflected by cursed greatsword)
 
 ### Tactics

@@ -345,7 +345,7 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 **Reality Anchor Weakness:** If affected by binding or anchoring magic, cannot Phase Shift until effect ends.
 
 ### Reactions
-**Phase Dodge** (Reaction, when hit by attack)
+**Phase Evasion** (Reaction, when hit by attack)
 - Roll Shadow 5 + 0 = 5d6 vs DR 3
 - On success, shift between realms and take no damage
 

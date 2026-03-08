@@ -411,7 +411,7 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 **Glyph Prison** (Soul 5 + Glyphcasting 5 = 10d6, Recharge 5-6, costs 3 SE)
 - Range: 30 feet
 - Damage: None
-- Effect: The Automaton targets one creature and attempts to trap them in a cage of glyphs. Target must pass a DR 4 Shadow save or be **Restrained** (cannot move, Disadvantage on attacks and Defense). The target can attempt to break free with a DR 4 Fury + Athletics or Focus + Forbidden Knowledge roll at the start of each of their turns. The prison lasts up to 3 rounds.
+- Effect: The Automaton targets one creature and attempts to trap them in a cage of glyphs. Target must pass a DR 4 Shadow save or be **Restrained**. The target can attempt to break free with a DR 4 Fury + Athletics or Focus + Forbidden Knowledge roll at the start of each of their turns. The prison lasts up to 3 rounds.
 
 #### Abilities
 **Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Forbidden Knowledge, DR 4, restores 15 HP).
@@ -812,7 +812,7 @@ The Rune-Forged Warden does not pursue. It holds position and punishes anyone wh
 
 **Environmental Factor**: The Pillar site is sacred ground. Corrupted PCs or those wielding forbidden magic may trigger additional hostility (Sentinel gains +2 dice on attacks vs them).
 
-**Twist**: If the party can convince the Sentinel they're trying to *restore* the Pillar (not destroy it), it may stand down (requires DR 4 Persuasion + Pillar Lore, and proof of good intentions).
+**Twist**: If the party can convince the Sentinel they're trying to *restore* the Pillar (not destroy it), it may stand down (requires a DR 4 Persuasion + History check, plus proof of good intentions).
 
 ---
 

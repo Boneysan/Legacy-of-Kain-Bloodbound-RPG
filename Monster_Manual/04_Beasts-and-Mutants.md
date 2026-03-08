@@ -227,7 +227,7 @@ Despite their fragility, Glimmerbacks have a defensive mechanism: when threatene
 - Effect: Glimmerbacks rarely attack. They only bite if cornered and unable to flee.
 
 #### Abilities
-**Shimmer Flash** (1/encounter): As a reaction when attacked, the Glimmerback releases a burst of light. The attacker must pass a DR 2 Focus save or be **Blinded** (Disadvantage on attacks and Defense) until the end of their next turn. The Glimmerback then immediately moves up to its full movement speed away (no opportunity attacks).
+**Shimmer Flash** (1/encounter): As a reaction when attacked, the Glimmerback releases a burst of light. The attacker must pass a DR 2 Focus save or be **Blinded** until the end of their next turn. The Glimmerback then immediately moves up to its full movement speed away (no opportunity attacks).
 
 **Camouflage**: While motionless, the Glimmerback has Advantage on Stealth rolls. In forests or swamps, they're nearly invisible.
 

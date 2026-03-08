@@ -71,7 +71,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 ### Tactics & Strategy
 
-**For Players:** The key is to identify the anchor. A successful **Glyphcasting** or **Investigation (Focus)** check (DR 4) will reveal the source of the Djinn's binding. While some party members keep the Djinn occupied, others must focus their attacks on the anchor. Cold-based attacks are highly effective, as they can slow the Djinn and reduce its damage output. Dousing the **Immolate** effect is crucial to prevent accumulating damage.
+**For Players:** The key is to identify the anchor. A successful **Glyphcasting** or **Observation (Focus)** check (DR 4) will reveal the source of the Djinn's binding. While some party members keep the Djinn occupied, others must focus their attacks on the anchor. Cold-based attacks are highly effective, as they can slow the Djinn and reduce its damage output. Dousing the **Immolate** effect is crucial to prevent accumulating damage.
 
 **For the GM:** The Djinn is a localized, high-damage threat. Use its Heat Wave and Emberstorm to pressure the entire party. It will not pursue fleeing characters beyond its boundary, but will instead return to its anchor, ready to re-engage. If the players are struggling, hint at the anchor's significance by having the Djinn react with unusual fury when it is damaged.
 

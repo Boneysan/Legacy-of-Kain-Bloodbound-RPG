@@ -521,7 +521,7 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 #### Abilities
 **Shadow Step**: As a bonus action, the Assassin can teleport up to 15 feet to any shadowed area they can see, and immediately become Hidden. This can be used once per turn.
 
-**Master of Stealth**: The Assassin has Advantage on all Stealth rolls. While Hidden, the Assassin has Advantage on Dodge rolls against area-of-effect attacks.
+**Master of Stealth**: The Assassin has Advantage on all Stealth rolls. While Hidden, the Assassin has Advantage on Evasion saves and reactions against area-of-effect attacks.
 
 **Evasion**: When the Assassin would take damage from an attack, they can use a reaction to attempt a Shadow + Evasion roll (8d6) against the attacker's successes. If the Assassin rolls more successes, they take no damage (they dodged).
 
@@ -1098,7 +1098,7 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 - Observation (Focus): 3
 
 #### Attacks
-**Sanctified Greatsword** (Fury 5 + Weapon Mastery 5 = 10d6 vs Parry)
+**Sanctified Greatsword** (Fury 5 + Weapon Mastery 5 = 10d6 vs DV)
 - Range: Weapon Mastery (10 feet)
 - Damage: 12 Physical (Slashing) + 4 Radiant
 - Effect: Undead and vampiric creatures take an additional +4 Radiant damage. On Critical Hit, target must pass a DR 4 Will save or be **Staggered** until the end of their next turn. A target Staggered this way also loses its next Bonus Action.
@@ -1112,7 +1112,7 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 - Effect: All mortal allies within range gain +2 dice on their next attack roll. If any ally is Frightened, they can immediately reroll their Will save.
 
 **Judgment Strike** (Action, costs 8 SE, Recharge 5-6)
-- Dice Pool: Fury 5 + Weapon Mastery 5 = 10d6 vs Parry
+- Dice Pool: Fury 5 + Weapon Mastery 5 = 10d6 vs DV
 - Range: Weapon Mastery
 - Damage: 18 Physical (Slashing) + 8 Radiant
 - Effect: If target is undead or vampiric, they must pass a DR 5 Will save or be Stunned for 1 round (holy shock).
