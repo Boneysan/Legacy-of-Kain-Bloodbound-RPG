@@ -19,6 +19,17 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | **Warden of Balance** | Support / Fate Caster | Will, Soul |
 | **Hylden Warlock** | Dark Mage / Debuffer | Soul, Will |
 
+### Spell Access Summary
+
+| Class | Spell Schools / Tags | Casting Model | Starting Spells | Gain Rate |
+| :--- | :--- | :--- | :--- | :--- |
+| **Soul Reaver** | Ritual and Forbidden spells tied to spectral movement, realm crossing, and soul disruption | Known spells | 2 | +1 spell at Levels 3, 6, 9, 12, 15, 18 |
+| **Shadowmancer** | Forbidden and Ritual spells tied to darkness, fear, concealment, and shadow travel | Known spells | 2 | +1 spell at Levels 3, 6, 9, 12, 15, 18 |
+| **Sangromancer** | Blood spells and select blood-rite Rituals | Known spells | 3 | +1 spell at every even-numbered level |
+| **Glyphwright** | Glyph spells and Rituals tied to wards, traps, sigils, and magical infrastructure | Prepared spells | 3 prepared | Prepare 3 spells at Level 1, then +1 prepared spell at Levels 4, 8, 12, 16, 20 |
+| **Warden of Balance** | Ritual, Glyph, and support spells tied to time, judgment, protection, and cleansing | Prepared spells | 2 prepared | Prepare 2 spells at Level 1, then +1 prepared spell at Levels 4, 8, 12, 16, 20 |
+| **Hylden Warlock** | Forbidden spells plus select Ritual and Glyph effects tied to entropy, decay, and prophecy | Known spells | 3 | +1 spell at every even-numbered level |
+
 ## 3.2 Class Progression
 
 *   **Starting Stats**: 5–6 skill points.
@@ -85,6 +96,13 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Starting HP**: 10 + Soul (+4 per level)
 **Key Skills**: Weapon Mastery, Athletics, Insight, Spectral Navigation, Stealth
 
+#### Spell Access
+- **Casting Model:** Known spells.
+- **Spell Access:** You may learn Ritual and Forbidden spells tied to spectral movement, realm crossing, soul disruption, anti-phase control, and related traversal or perception effects.
+- **Starting Spells:** Start with 2 spells from your class spell list.
+- **Gain Rate:** Learn 1 additional spell at Levels 3, 6, 9, 12, 15, and 18.
+- **Class Features vs. Spells:** Your Core Abilities and Class Perks are class features unless they explicitly reference a Chapter 5 spell by name. **Soul Storm** is this class's Signature Upgrade of the generic **Soul Storm** spell.
+
 #### Core Abilities
 *   **Phase Shift** (Action): Shift between Material and Spectral Realms. (Costs 1 SE if in combat).
 *   **Soul Blade** (Passive): Melee attacks deal Spectral damage, ignoring physical armor.
@@ -97,7 +115,9 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 2 | **Ethereal Step** | Move through solid objects (half speed). | Action, 1 SE |
 | 3 | **Soul Siphon** | Regain 1 SE when killing an enemy. | Passive |
 | 4 | **Wraith Form** | Gain Resistance to Physical damage for 1 min. | Action, 2 SE |
-| 5 | **Banish** | Force target into Spectral Realm (Soul vs Diff 4). | Action, 2 SE || 5 | *or* **Reaver’s Resonance** | Spectral Strike chains to a second target within 10ft of the primary target, dealing half the damage dealt to the primary target (also ignores Armor). | Passive || 6 | **Reaver’s Hunger** | Soul Blade deals +1 Damage. | Passive |
+| 5 | **Banish** | Force target into Spectral Realm (Soul vs Diff 4). | Action, 2 SE |
+| 5 | *or* **Reaver’s Resonance** | Spectral Strike chains to a second target within 10ft of the primary target, dealing half the damage dealt to the primary target (also ignores Armor). | Passive |
+| 6 | **Reaver’s Hunger** | Soul Blade deals +1 Damage. | Passive |
 | 7 | **Flicker** | Teleport 30ft to a visible location. | Move Action, 1 SE |
 | 8 | **Ghost Parry** | +2 DV against one attack. | Reaction, 1 SE |
 | 9 | **Spectral Nova** | 9 Spectral Dmg to all within 10ft (Soul vs Diff 3). | Action, 3 SE |
@@ -107,9 +127,11 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 12 | **Phase Mastery** | Shift Realms as a Bonus Action. No cost. | Passive |
 | 13 | **Spirit Rend** | Spectral Strike stuns target (Soul vs Diff 4). | Passive |
 | 14 | **Abyssal Anchor** | Prevent target from shifting realms/teleporting. | Reaction, 1 SE |
-| 15 | **Reaver’s Wrath** | +2 Dice to all Soul/Fury rolls for 1 min. | Action, 3 SE || 15 | *or* **Phase Anchor** | When you Phase Shift, you may target one adjacent unwilling creature. They must make a DR 3 Soul save or be pulled into your realm, take 4 Spectral damage, and suffer -1 die to all rolls. At the end of each of their turns, they may repeat the save; on a success, they return to their original realm with 0 movement remaining. See Chapter 11 for normal realm-affinity interaction limits while they remain there. Boss and Legendary creatures are immune. | Bonus Action (when Phase Shifting) || 16 | **Death’s Door** | Determine target’s exact HP and Resistances. | Bonus Action |
+| 15 | **Reaver’s Wrath** | +2 Dice to all Soul/Fury rolls for 1 min. | Action, 3 SE |
+| 15 | *or* **Phase Anchor** | When you Phase Shift, you may target one adjacent unwilling creature. They must make a DR 3 Soul save or be pulled into your realm, take 4 Spectral damage, and suffer -1 die to all rolls. At the end of each of their turns, they may repeat the save; on a success, they return to their original realm with 0 movement remaining. See Chapter 11 for normal realm-affinity interaction limits while they remain there. Boss and Legendary creatures are immune. | Bonus Action (when Phase Shifting) |
+| 16 | **Death’s Door** | Determine target’s exact HP and Resistances. | Bonus Action |
 | 17 | **Ethereal Assassin** | Attack from Spectral Realm without fully shifting. | Action, 2 SE |
-| 18 | **Soul Storm** | Spectral Nova deals 15 Spectral Dmg + Fear. | Action, 4 SE |
+| 18 | **Soul Storm** | Signature Upgrade of the **Soul Storm** spell: Spectral Nova deals 15 Spectral Dmg + Fear. | Action, 4 SE |
 | 19 | **Wraith Lord** | Permanent Resistance to Physical damage. | Passive |
 | 20 | **Angel of Death** | Transformation (1 min): Gain fly speed 60ft, all attacks ignore Resistances and Immunities, melee attacks deal +3 bonus Spectral damage. Enemies that can see you must succeed on a DR 3 Soul save or be Frightened for the duration. | Action, 5 SE, 1/long rest |
 | 20 | *or* **Phantom Sovereign** | Ethereal Step, Spectral Strike, Ghost Parry, and Flicker no longer cost SE. | Passive |
@@ -124,6 +146,13 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Starting HP**: 8 + Soul (+3 per level)
 **Key Skills**: Stealth, Deception, Thievery, Possession, Observation
 
+#### Spell Access
+- **Casting Model:** Known spells.
+- **Spell Access:** You may learn Forbidden and Ritual spells tied to darkness, fear, concealment, shadow travel, and shadow-entity manipulation.
+- **Starting Spells:** Start with 2 spells from your class spell list.
+- **Gain Rate:** Learn 1 additional spell at Levels 3, 6, 9, 12, 15, and 18.
+- **Class Features vs. Spells:** Your Core Abilities and most Class Perks are class features. **Darkness** is a granted class spell and does not count against your spells known. **Fear Toxin**, **Shadow Step**, and **Terror Aura** remain class features rather than learned spells.
+
 #### Core Abilities
 *   **Cloak of Mist** (Bonus Action): Auto-succeed on one Stealth check (1/short rest).
 *   **Shadow Familiar** (Ritual): Summon a small shadow entity (HP = Level*2 + Soul).
@@ -136,7 +165,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 2 | **Umbral Sight** | See perfectly in magical/non-magical darkness. | Passive |
 | 3 | **Fear Toxin** | Apply Poison causing Fear (Will vs Diff 3). | Action, 1 BP |
 | 4 | **Silhouette** | Create a clone; enemies attacking it miss you. | Reaction, 1 SE |
-| 5 | **Darkness** | Create 20ft radius magical darkness. | Action, 2 SE |
+| 5 | **Darkness** | You learn the **Darkness** spell. It does not count against your spells known. | Action, 2 SE |
 | 5 | *or* **Shade Pact** | Summon a Shade (HP = Level + Soul, deals 2 Entropic damage + Weapon Damage Scaling, attacks on your Bonus Action). Replaces a prior Shade from this perk only; persists until destroyed or long rest. | Action, 1 SE |
 | 6 | **Assassinate** | Auto-crit on surprised targets. | Passive |
 | 7 | **Shadow Bind** | Root target in place using their shadow. | Action, 1 SE |
@@ -167,9 +196,16 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Starting HP**: 9 + Blood (+3 per level)
 **Key Skills**: Rituals, Forbidden Knowledge, Concentration, Intimidation, Craft (Alchemy)
 
+#### Spell Access
+- **Casting Model:** Known spells.
+- **Spell Access:** You may learn Blood spells freely from your class list and Ritual spells tied to blood rites, fleshcraft, corpse-work, and vitae transfer.
+- **Starting Spells:** Start with 3 spells from your class spell list.
+- **Gain Rate:** Learn 1 additional spell at every even-numbered level.
+- **Class Features vs. Spells:** **Blood Puppet**, **Crimson Bind**, and **Hemodominate** are this class's Signature Upgrades of the generic spells of the same name. If you learn both versions, references to the class feature always use the class-feature text.
+
 #### Core Abilities
 *   **Hemorrhage** (Action, 1 BP): Deal 2 damage at the start of each of the target's turns (Resist: Blood vs Diff 2).
-*   **Blood Puppet** (Action, 2 BP): Control actions of a bleeding target (Resist: Will vs Diff 2).
+*   **Blood Puppet** (Action, 2 BP): Control actions of a bleeding target (Resist: Will vs Diff 2). This is the Sangromancer Signature Upgrade of the **Blood Puppet** spell.
 *   **Resurgent Vitae** (Passive): While below 25% HP, regain 1 HP at the start of each turn.
 
 #### Class Perks
@@ -177,7 +213,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | :--- | :--- | :--- | :--- |
 | 1 | **Blood Memory** | Regain one spell use or skill reroll. | Action, 1/long rest |
 | 2 | **Vital Leech** | Deal 3 Entropic Dmg, heal equal amount. | Action, 1 BP |
-| 3 | **Crimson Bind** | 10ft Zone roots enemies in blood. | Action, 2 BP |
+| 3 | **Crimson Bind** | 10ft Zone roots enemies in blood. This is the Sangromancer Signature Upgrade of the **Crimson Bind** spell. | Action, 2 BP |
 | 4 | **Fleshcraft** | Craft a simple weapon from a corpse. | Ritual, 1 BP |
 | 5 | **Vein Strike** | +2 Damage against bleeding targets. | Passive |
 | 5 | *or* **Vital Surge** | Whenever Hemorrhage ticks damage on a target, you regain 2 HP. You can benefit from this healing only once per round. | Passive |
@@ -185,7 +221,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 7 | **Wound Echo** | Bleeding effects last +1 round longer. | Passive |
 | 8 | **Bloodburst** | 5ft burst dealing 4 Dmg (DR 2 Evasion save). | Action, 2 BP |
 | 9 | **Sanguine Transfiguration** | Gain +15 ft speed for 1 minute; heal HP equal to your Soul attribute. | Bonus Action |
-| 10 | **Hemodominate** | Control target for 1 min (Will Save). | Action, 3 BP |
+| 10 | **Hemodominate** | Control target for 1 min (Will Save). This is the Sangromancer Signature Upgrade of the **Hemodominate** spell. | Action, 3 BP |
 | 10 | *or* **Blood Cascade** | When a bleeding target takes damage from an attack or ability, they also take 2 Blood damage (bypasses Armor). Allies within 30ft may also trigger this effect, but it can trigger only once per damage event. | Passive |
 | 11 | **Profound Hemorrhage** | Hemorrhage deals +1 Dmg and is harder to resist. | Passive |
 | 12 | **True Fleshcrafting** | Animate a corpse as a grotesque servitor. | Ritual, 1 BP |
@@ -210,8 +246,15 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Starting HP**: 8 + Soul (+3 per level)
 **Key Skills**: Glyphcasting, Rituals, Forbidden Knowledge, Craft, Observation
 
+#### Spell Access
+- **Casting Model:** Prepared spells.
+- **Spell Access:** You prepare Glyph spells and Rituals tied to wards, traps, sigils, arcane infrastructure, delay effects, and magical analysis.
+- **Starting Spells:** Prepare 3 spells from your class spell list at Level 1.
+- **Gain Rate:** Increase the number of prepared spells by 1 at Levels 4, 8, 12, 16, and 20. You may change your prepared spells after a long rest while you have access to your tools, sigils, or workshop kit.
+- **Class Features vs. Spells:** **Flame Sigil**, **Chrono Weave**, and **Nexus Weaving** are signature class techniques rather than learned spells. They do not count as preparing similarly named Chapter 5 options unless a feature says otherwise.
+
 #### Core Abilities
-*   **Glyph of Flame** (Action, 1 SE): 5ft fire burst, 3 damage (Reflex Save).
+*   **Flame Sigil** (Action, 1 SE): 5ft fire burst, 3 damage (Reflex Save).
 *   **Seal of Binding** (Action, 1 SE): Immobilize summoned creature (Will Save).
 *   **Glyph-Lore Intuition** (Passive): Auto-detect glyphs within 15ft.
 
@@ -222,22 +265,22 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 2 | **Arcane Focus** | Regain 1 SE when a glyph is triggered. | Passive |
 | 3 | **Glyph Recall** | Move a placed glyph up to 30ft. | Bonus Action, 1 SE |
 | 4 | **Shock Sigil** | Glyphs deal +1 Electrical damage. | Passive |
-| 5 | **Chrono-Ward** | Delay a glyph's trigger (up to 1 min). | Passive |
+| 5 | **Chrono Weave** | Delay a glyph's trigger (up to 1 min). | Passive |
 | 5 | *or* **Shock Cascade** | When a glyph triggers, the nearest enemy within 10ft not already targeted by that glyph takes 2 Electrical damage (no save; Armor halved). Can chain once per trigger. | Passive |
 | 6 | **Chrono Sigil** | Target loses their next Action (Will Save). | Action, 2 SE |
 | 7 | **Glyph Sentinel** | Glyphs trigger even on hidden/invisible creatures. | Passive |
 | 8 | **Seal of Fire** | 10ft glyph dealing 5 Fire Dmg (DR 2 Evasion save). | Action, 2 SE |
-| 9 | **Nexus Glyph** | Combine two glyph effects into one sigil. | Passive |
+| 9 | **Nexus Weaving** | Combine two glyph effects into one sigil. | Passive |
 | 10 | **Archglyph** | Create a permanent ward/guardian. | Ritual, 5 SE |
 | 10 | *or* **Glyph Surge** | Simultaneously trigger all active glyphs. Damage-dealing glyphs deal +2 additional damage, while non-damage glyphs resolve normally. Arcane Focus does not trigger from glyphs activated by Glyph Surge. | Bonus Action, 1/short rest |
 | 11 | **Resonant Frequencies** | Glyphs deal +2 Damage and apply debuff. | Passive |
 | 12 | **Interwoven Wards** | Triggering one glyph can trigger another nearby. | Passive |
 | 13 | **Master Carver** | Gain Advantage when analyzing or disarming glyphs. | Passive |
 | 14 | **Axiomatic Reinforcement** | Seal of Binding affects any creature type. | Passive |
-| 15 | **Temporal Anchor** | Chrono-Ward creates a save point (return to pos). | Reaction, 3 SE |
+| 15 | **Temporal Anchor** | Chrono Weave creates a save point (return to pos). | Reaction, 3 SE |
 | 15 | *or* **Resonant Overload** | Overcharge one active glyph. Damage glyphs deal triple base damage before bonuses and affect double the normal radius; non-damage glyphs instead affect double radius and increase their save Difficulty by 1. The glyph is then destroyed. | Bonus Action, 1/long rest |
 | 16 | **Imbued Matrix** | Imbue an item with a glyph effect (3 charges). | Ritual |
-| 17 | **Nexus Harmonization** | Nexus Glyph costs less SE to combine. | Passive |
+| 17 | **Nexus Harmonization** | Nexus Weaving costs less SE to combine. | Passive |
 | 18 | **Archglyph Synthesis** | Maintain two Archglyphs simultaneously. | Passive |
 | 19 | **Glyph of Unseen Paths** | Teleport circle (1 mile range). | Ritual, 1/long rest |
 | 20 | **Prime Weaver** | Enhance all glyphs (Max Dmg, Harder Saves). | Action, 1/long rest |
@@ -296,6 +339,13 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Starting HP**: 10 + Will (+4 per level)
 **Key Skills**: Rituals, Glyphcasting, Insight, Persuasion, Religion
 
+#### Spell Access
+- **Casting Model:** Prepared spells.
+- **Spell Access:** You prepare Ritual, Glyph, and support spells tied to time, judgment, protective balance, anti-corruption rites, and Pillar resonance.
+- **Starting Spells:** Prepare 2 spells from your class spell list at Level 1.
+- **Gain Rate:** Increase the number of prepared spells by 1 at Levels 4, 8, 12, 16, and 20. You may change your prepared spells after a long rest spent in prayer, meditation, or Pillar observance.
+- **Class Features vs. Spells:** **Time Stasis**, **Guardian's Edict**, and **Judgment Wheel** are class features rather than learned spells. They do not consume prepared spell access unless a future feature explicitly says otherwise.
+
 #### Core Abilities
 *   **Time Stasis** (Action, 2 SE): Freeze a creature for 1 round (Will Save) or object for 1 min.
 *   **Guardian's Edict** (Bonus Action): Allies gain +1 DV and Temp HP equal to your Will.
@@ -314,7 +364,9 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 7 | **Zone of Judgment** | 15ft zone, enemies suffer -1 DV. | Action, 2 SE |
 | 8 | **Mark of Equilibrium** | Reduce damage taken by target by 2 until the start of your next turn. | Bonus Action |
 | 9 | **Judgment Wheel** | 30ft zone. Random buffs/debuffs (1 min). | Action, 3 SE |
-| 10 | **Eternal Balance** | Take two full turns in one round. | 1/long rest || 10 | *or* **Scales of Retribution** | Mark a target with Judgment. Until the marked target is Bloodied or the scene ends, half the damage they deal is reflected back to them as Spectral damage (rounded up). | Bonus Action, 2 SE, once per scene || 11 | **Pillar’s Resilience** | Edict of Order grants Resistance to Magic. | Passive |
+| 10 | **Eternal Balance** | Take two full turns in one round. | 1/long rest |
+| 10 | *or* **Scales of Retribution** | Mark a target with Judgment. Until the marked target is Bloodied or the scene ends, half the damage they deal is reflected back to them as Spectral damage (rounded up). | Bonus Action, 2 SE, once per scene |
+| 11 | **Pillar’s Resilience** | Edict of Order grants Resistance to Magic. | Passive |
 | 12 | **Stabilizing Presence** | Time Stasis lasts 2 rounds. | Passive |
 | 13 | **Fated Intercession** | Fate Align restores 3 HP to ally. | Passive |
 | 14 | **True Sight** | See through illusions and invisibility. | Action |
@@ -337,6 +389,13 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Starting HP**: 8 + Soul (+3 per level)
 **Key Skills**: Forbidden Knowledge, Glyphcasting, Rituals, Deception, Concentration
 
+#### Spell Access
+- **Casting Model:** Known spells.
+- **Spell Access:** You may learn Forbidden spells freely from your class list plus select Ritual and Glyph effects tied to entropy, decay, prophecy, cursecraft, and reality erosion.
+- **Starting Spells:** Start with 3 spells from your class spell list.
+- **Gain Rate:** Learn 1 additional spell at every even-numbered level.
+- **Class Features vs. Spells:** **Madness Surge** and **Mind Rupture** are this class's Signature Upgrades of the generic spells of the same name. If you learn both versions, references to the class feature always use the class-feature text.
+
 #### Core Abilities
 *   **Void Shard** (Action, 1 SE): Deal 3 Entropic Dmg or dispel an effect.
 *   **Entropic Curse** (Action, 1 SE): Target suffers Disadvantage on attacks and saves (Concentration).
@@ -347,7 +406,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | :--- | :--- | :--- | :--- |
 | 1 | **Dark Insight** | Reroll a failed Corruption Save. | Reaction |
 | 2 | **Hex Spark** | Dealing spell dmg deals 1 Splash dmg to nearby. | Passive |
-| 3 | **Madness Surge** | Target is Confused (Will Save). | Action, 1 SE |
+| 3 | **Madness Surge** | Target is Confused (Will Save). This is the Hylden Warlock Signature Upgrade of the **Madness Surge** spell. | Action, 1 SE |
 | 4 | **Willbreaker** | Gain Advantage on Will checks against Frightened enemies. | Passive |
 | 5 | **Forbidden Truth** | Cast a spell using Corruption instead of SE. | Free Action, once per scene |
 | 5 | *or* **Entropic Overload** | Your next spell or Void Shard deals +3 Void damage, bypasses Armor and Resistance, and does not override Immunity. | Free Action, 1/short rest |
@@ -355,7 +414,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 7 | **Glyph of Disquiet** | 15ft Aura, enemies are uneasy (-1 Social). | Action, 2 SE |
 | 8 | **Ritual of Pain** | Sacrifice 3 HP to deal +3 damage on your next attack this turn. | Free Action |
 | 9 | **Nether Binding** | Target cannot heal or gain resources. | Action, 3 SE |
-| 10 | **Mind Rupture** | Stun target with visions (Will Save). | Action, 3 SE |
+| 10 | **Mind Rupture** | Stun target with visions (Will Save). This is the Hylden Warlock Signature Upgrade of the **Mind Rupture** spell. | Action, 3 SE |
 | 10 | *or* **Void Cascade** | When you deal Void damage, 25% of that damage splashes to one enemy within 5ft of the primary target (rounded up, min 1, no save, bypasses Armor). This is in addition to Hex Spark. | Passive |
 | 11 | **Echoes of Exile** | Debuffs cannot be dispelled easily. | Passive |
 | 12 | **Soul Flensing** | Void Shard strips Resistances. | Passive |
