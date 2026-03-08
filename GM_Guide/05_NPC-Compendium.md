@@ -513,7 +513,7 @@ Malthus is a broad-shouldered man in his late forties, face mapped with scars fr
 **Abilities**
 - **Relic-Blade Strike:** Melee attacks deal +2 damage to undead targets.
 - **Inspiring Command (1/encounter):** All Sarafan allies within 30 ft gain +1 DV for 2 rounds.
-- **Iron Resolve:** +2 dice on Will + Concentration checks vs. fear, charm, and Corruption effects.
+- **Iron Resolve:** Advantage on Will + Concentration checks vs. fear, charm, and Corruption effects.
 - **Inquisitor's Eye:** Can detect vampiric taint within 15 ft (contested Soul vs. Shadow check).
 
 **Campaign Use**
@@ -563,7 +563,7 @@ Seripha appears no older than thirty but has walked Nosgoth for over four centur
 - **Blood Sovereignty (1/encounter):** Targets one vampire within 30 ft. The target must succeed on a Soul save (DR 3) or become charmed for 1 minute — feeling overwhelming loyalty to the Crimson Fracture's cause.
 - **Crimson Lash:** Ranged attack (40 ft), DV 3 — a whip of coagulated blood deals 6 damage and pulls the target 10 ft closer.
 - **Ancient Vitality:** Regenerates 2 HP at the start of each round unless she has taken fire or sunlight damage.
-- **Martyr's Fury:** When below half HP, gains +1 DV and +1 die to attack rolls until healed.
+- **Martyr's Fury:** When below half HP, gains +1 DV and Advantage on attack rolls until healed.
 
 **Campaign Use**
 - Recruiter or antagonist for mixed-lineage parties

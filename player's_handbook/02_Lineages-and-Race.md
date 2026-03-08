@@ -90,17 +90,17 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 ### 2.5.1 Sarafan
 Fanatical warrior-priests obsessed with purity.
 - **Bonus**: +1 Weapon Mastery or Religion.
-- **Feature**: *Zealous Surge* (Bonus Action, once per scene: +2 damage vs. undead/vampires/corrupted, +1 die to ally’s attack/save, or re-roll failed save vs. Corruption/unholy effects).
+- **Feature**: *Zealous Surge* (Bonus Action, once per scene: +2 damage vs. undead/vampires/corrupted, grant an ally Advantage on their next attack or save, or re-roll a failed save vs. Corruption/unholy effects).
 
 ### 2.5.2 Nomads
 Survivors of the wilds, skilled in survival.
 - **Bonus**: +1 Nature or Craft.
-- **Feature**: *Resourceful Moment* (Bonus Action, once per scene: skill check for minor environmental advantage, e.g., +1 die, -1 die to enemy, or create difficult terrain).
+- **Feature**: *Resourceful Moment* (Bonus Action, once per scene: skill check for minor environmental advantage, e.g., grant Advantage, impose Disadvantage on an enemy, or create difficult terrain).
 
 ### 2.5.3 Oracle-Blooded
 Seers touched by divinity or prophecy.
 - **Bonus**: +1 Insight or Forbidden Knowledge.
-- **Feature**: *Fleeting Omen* (Bonus Action, once per scene: 1d6 for cryptic insight on target, e.g., +1 die to resist harm, detect deception, or gain narrative clues).
+- **Feature**: *Fleeting Omen* (Bonus Action, once per scene: 1d6 for cryptic insight on target, e.g., Advantage to resist harm, detect deception, or gain narrative clues).
 
 ## 2.6 Revenants
 **Lore**: Half-wraith, half-corpse beings risen by will, rejected by death, or revived by necromancy. Driven by unfinished business, they rot but persist.
@@ -108,7 +108,7 @@ Seers touched by divinity or prophecy.
 - **Stealth**: +1 in fog/smoke/decay.
 - **Movement Effects**: Collapse into ash once per rest to move through bars/cracks.
 - **Bonuses**: +1 Concentration, +1 Rituals.
-- **Unique Trait**: *Unyielding Purpose* (Passive: revive with 1 HP once per arc at 0 HP; Active: Bonus Action, once per scene, ignore difficult terrain/+1 vs. forced movement or +2 damage/+1 die toward unfinished business).
+- **Unique Trait**: *Unyielding Purpose* (Passive: revive with 1 HP once per arc at 0 HP; Active: Bonus Action, once per scene, ignore difficult terrain, gain Advantage against forced movement, or gain +2 damage and Advantage on one roll directly tied to unfinished business).
 - **Narrative Hook**: Defying the grave, serving a second purpose.
 
 ## 2.7 Unbound

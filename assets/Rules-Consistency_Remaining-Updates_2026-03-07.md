@@ -42,6 +42,11 @@ The major contradictions identified in this review have now been resolved in the
 5. **Reaction-cap implication drift in PHB combat**
   - Rewrote the combat chapter to preserve the canonical baseline: 1 Reaction per round unless a feature explicitly grants another.
 
+6. **Situational modifiers alternating between Advantage/Disadvantage and flat dice bonuses**
+  - Cleaned the representative PHB and mortal-enemy files so binary situational edge now prefers Advantage / Disadvantage wording.
+  - Left explicit scaling, stacking, and progression bonuses as flat dice where the number still carries mechanical meaning.
+  - Follow-up targeted sweep extended the same wording cleanup into additional authored handbook, monster, and GM-facing NPC files.
+
 7. **Attribute annotations and mixed schema in normalized monster chapters**
   - Cleaned the targeted normalized entries so the most visible stat blocks no longer keep parenthetical attribute reminders as a parallel schema.
 
@@ -53,22 +58,6 @@ The major contradictions identified in this review have now been resolved in the
 
 10. **`Terraign` filename typo**
   - Renamed the chapter file to `11_Realms-Terrain-Arcane-Power.md` and updated the tracked references.
-
-## Residual Cleanup / Style Debt
-
-### 6. Situational modifiers still alternate between Advantage/Disadvantage and flat dice bonuses in some player-facing text
-
-This is no longer a contradiction, but it is still a consistency/style pass worth doing later.
-
-Representative files:
-- `player's_handbook/04_Perks.md`
-- `player's_handbook/05_Spellcasting-and-Magic.md`
-- `player's_handbook/03_Classes.md`
-- `Monster_Manual/03_Mortals-and-Cultists.md`
-
-Preferred update:
-- Use Advantage / Disadvantage for ordinary situational edge.
-- Keep flat `+1 die` / `-1 die` only where the ability is meant to be a distinct scaling mechanic.
 
 ## Notes
 

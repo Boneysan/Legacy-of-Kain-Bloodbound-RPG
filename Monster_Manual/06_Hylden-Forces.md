@@ -113,13 +113,13 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 
 **Bio-Tempered Flesh**: The host's body has been enhanced by Hylden biomancy. It has Armor 2 vs Physical damage and does not need to eat or sleep (the Hylden sustains it).
 
-**Tactical Coordination**: When within 20 feet of another Hylden creature, the Shock Trooper gains +1 die on attack rolls (Hylden share tactical data telepathically).
+**Tactical Coordination**: When within 20 feet of another Hylden creature, the Shock Trooper gains Advantage on attack rolls (Hylden share tactical data telepathically).
 
 **Soul Override** (1/encounter): When reduced to 0 HP, the Hylden can attempt to possess a nearby mortal (within 10 feet). Target must pass a DR 4 Will save or be possessed. The Shock Trooper's HP becomes half the new host's max HP, and combat continues. If no valid host is nearby, the Hylden dissipates (death).
 
 **PC Possession Resolution:** If Soul Override targets a PC at 0 HP, the player makes a contested Will save (their Will vs the Shock Trooper's Will). On success, the possession fails and the trooper is destroyed. On failure, the PC is possessed for 1d4 rounds — the GM controls the character, who acts on the trooper's initiative. Allies can attempt to exorcise the possession by dealing 10+ Soul damage to the possessed PC (this damages the trooper's spirit, not the PC) or by succeeding on a DR 3 Forbidden Knowledge or Rituals check as an action within 5ft. After 1d4 rounds, the trooper's spirit burns out and the PC regains control, gaining 2 Corruption from the experience.
 
-**Glyphcasting Aura** (Passive): Enemies within 10 feet of the Shock Trooper suffer -1 die on Will saves (reality feels unstable).
+**Glyphcasting Aura** (Passive): Enemies within 10 feet of the Shock Trooper suffer Disadvantage on Will saves (reality feels unstable).
 
 #### Tactics
 - **Coordinated Assault**: Shock Troopers work in squads, using Tactical Coordination to boost attack rolls. They focus fire on one target at a time.
@@ -692,7 +692,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 
 #### Loot
 - Barbed chain (weapon, 15-foot reach, deals +2 damage when Grappling) - **Trade Value**: 45 supplies
-- Tormentor's plate (Heavy armor, Armor 3 Physical, grants +1 die on Intimidation) - **Trade Value**: 60 supplies
+- Tormentor's plate (Heavy armor, Armor 3 Physical, grants Advantage on Intimidation) - **Trade Value**: 60 supplies
 - Spectral prison shard (can trap one creature's consciousness, one-time use) - **Trade Value**: 70 supplies, dangerous item
 - Suffering essence (crystallized pain, harvested by the Warden) - **Trade Value**: 40 supplies, used in dark rituals or alchemy
 
@@ -830,7 +830,7 @@ Grunts are cannon fodder. Hylden commanders send them in waves to absorb enemy r
 #### Abilities
 **Hylden Nature (Partial):** Immune to Spectral effects and mind control. Not immune to possession (the existing Hylden fragment is too weak to resist a stronger will). Resistant to Soul damage (half damage).
 
-**Hivemind Fodder** (Passive): Gains +1 die on all attack rolls when within 10 feet of another Hylden creature (the partial fragment resonates with stronger Hylden minds nearby).
+**Hivemind Fodder** (Passive): Gains Advantage on all attack rolls when within 10 feet of another Hylden creature (the partial fragment resonates with stronger Hylden minds nearby).
 
 **Expendable Host** (Passive): When reduced to 0 HP, there is a 25% chance (roll 1 on 1d4) the Hylden fragment detonates. All creatures within 5 feet take 4 Corruption damage (DR 1 Will save for half).
 

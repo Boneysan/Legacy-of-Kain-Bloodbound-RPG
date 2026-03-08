@@ -46,11 +46,11 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 | **Echo Sense** | Detect hidden or invisible entities within **10 ft**. | Passive |
 | **Iron Will** | Reroll one failed Corruption save. | 1/Long Rest |
 | **Glyph Mastery** | Use simple glyphs (wards, minor traps) without class proficiency. | Passive |
-| **Shadow’s Edge** | **+1 die** to attack rolls and Stealth checks in dim light or darkness. Does not stack with class abilities that already grant darkness bonuses. | Passive |
+| **Shadow’s Edge** | Gain **Advantage** on attack rolls and Stealth checks in dim light or darkness. Does not stack with class abilities that already grant darkness bonuses. | Passive |
 | **Spirit Bond** | Commune with a ghost for insight (narrative clues). Failure costs 1 Corruption. | 1/Long Rest |
 | **Battle Meditation** | Regain **2 HP** after combat if no Corruption was gained during the fight. | Post-Combat |
 | **Tombborn** | Sense undead or cursed ground within **30 ft**. | Passive |
-| **Focused Ritualist** | **+1 die** to ritual, glyphcasting, and spellcasting rolls if you are at max HP. | Passive |
+| **Focused Ritualist** | Gain **Advantage** on ritual, glyphcasting, and spellcasting rolls while at max HP. | Passive |
 | **Death Watcher** | Automatically detect when an enemy drops below **25% HP**. | Passive |
 
 ### Tier 2 Universal Perks (Levels 6-10)
@@ -141,7 +141,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Flesh-Warp Instinct
 **Trigger:** Passive — when below 50% HP.
-**Effect:** +1 die to Evasion rolls.
+**Effect:** Gain Advantage on Evasion rolls.
 **Drawback:** Visible mutation (-1 die to Social rolls).
 > *Corruption twists your form when you are wounded, granting speed but marking you as tainted.*
 
@@ -174,7 +174,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Bloodstained Sight
 **Trigger:** Once per scene — Action.
-**Effect:** Focus on bloodsoaked terrain or a bleeding creature within 30 ft. Gain +1 die to Observation rolls for 1 minute.
+**Effect:** Focus on bloodsoaked terrain or a bleeding creature within 30 ft. Gain Advantage on Observation rolls for 1 minute.
 **Drawback:** Make a **DR 2 Will** save or fixate on the blood source, suffering -1 die to non-attack actions.
 > *Blood sharpens your senses but awakens a primal hunger tied to vampiric bloodlust.*
 
@@ -182,7 +182,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Spectral Whisper
 **Trigger:** Passive.
-**Effect:** +1 die to Stealth in the Spectral Realm or heavily obscured terrain. Passively sense spectral entities within 15 ft.
+**Effect:** Gain Advantage on Stealth rolls in the Spectral Realm or heavily obscured terrain. Passively sense spectral entities within 15 ft.
 **Drawback:** Gain **1 Corruption** for each minute spent in the Spectral Realm beyond the first per scene.
 > *You move like a ghost, but the Spectral Realm's whispers slowly fray your mind.*
 
@@ -235,7 +235,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 #### Veil of the Damned
 **Trigger:** Once per short rest — Action.
 **Cost:** 1 SE + Gain **1 Corruption**.
-**Effect:** Summon a 10 ft radius spectral mist (1 minute). You gain +1 die to Stealth; enemies suffer -1 die to Observation. You can see normally through it.
+**Effect:** Summon a 10 ft radius spectral mist (1 minute). You gain Advantage on Stealth rolls; enemies have Disadvantage on Observation checks. You can see normally through it.
 **Drawback:** -1 die vs. Radiant/holy effects until your next short rest.
 > *Lost souls shroud you in shadow, but their cries draw the Elder God's gaze.*
 
@@ -304,7 +304,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Embodiment of Decay
 **Trigger:** Passive — affects all enemies within 1 tile (5 ft).
-**Effect:** Your presence wilts plants, rusts metal, and causes enemies to suffer **-1 die** to their attack rolls.
+**Effect:** Your presence wilts plants, rusts metal, and causes enemies within the aura to suffer **Disadvantage** on attack rolls.
 **Drawback:** -2 dice to Social rolls with pure NPCs. You cannot suppress this aura.
 > *You radiate entropy — a walking blight in Nosgoth's dying world.*
 

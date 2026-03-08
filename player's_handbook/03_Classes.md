@@ -232,7 +232,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 10 | *or* **Glyph Surge** | Simultaneously trigger all active glyphs. Each deals +2 additional damage. | Bonus Action, 1/short rest |
 | 11 | **Resonant Frequencies** | Glyphs deal +2 Damage and apply debuff. | Passive |
 | 12 | **Interwoven Wards** | Triggering one glyph can trigger another nearby. | Passive |
-| 13 | **Master Carver** | +2 Dice to analyze/disarm glyphs. | Passive |
+| 13 | **Master Carver** | Gain Advantage when analyzing or disarming glyphs. | Passive |
 | 14 | **Axiomatic Reinforcement** | Seal of Binding affects any creature type. | Passive |
 | 15 | **Temporal Anchor** | Chrono-Ward creates a save point (return to pos). | Reaction, 3 SE |
 | 15 | *or* **Resonant Overload** | Overcharge one active glyph — it deals triple damage and affects double the normal radius, then is destroyed. | Bonus Action, 1/long rest |
@@ -254,8 +254,8 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Key Skills**: Stealth, Weapon Mastery, Thievery, Evasion, Observation
 
 #### Core Abilities
-*   **Blink Strike** (Action, 1 SE): Teleport 30ft and make a melee attack with +1 Die.
-*   **Venom Edge** (Bonus Action): Poison weapon (-1 Die to enemy rolls).
+*   **Blink Strike** (Action, 1 SE): Teleport 30ft and make a melee attack with Advantage.
+*   **Venom Edge** (Bonus Action): Poison weapon (the poisoned target suffers Disadvantage on its next roll).
 *   **Auto-Crit From Stealth** (Passive): Attacks from stealth are critical hits.
 
 #### Class Perks
@@ -267,7 +267,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 4 | **Shiv Surge** | +2 Damage on attacks from Stealth. | Passive |
 | 5 | **Lethal Flow** | Move 15ft freely after a kill. | Reaction |
 | 5 | *or* **Hemorrhage Strike** | Attacks from Stealth cause Bleeding (2 dmg/turn, bypasses Armor, 2 rounds). Stacks up to 3 times on one target. | Passive |
-| 6 | **Phantom Rush** | +10ft Speed, +1 Die on next attack after kill. | Passive |
+| 6 | **Phantom Rush** | +10ft Speed, and your next attack after a kill has Advantage. | Passive |
 | 7 | **Shadow Ambush** | Make a free attack if starting combat from stealth. | Passive |
 | 8 | **Blur Step** | Dodge one melee attack automatically. | Reaction, 1/scene |
 | 9 | **Death's Whisper** | Instantly kill a target below 10 HP (DR 3 Blood save negates; non-boss only). | Action |
@@ -278,7 +278,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 13 | **Flashing Phantom** | Blink Strike costs 0 SE if it kills the target. | Passive |
 | 14 | **Vitals Seeker** | Critical Hit threshold reduced by 1 (exceed DV by 1+ successes instead of 2+). | Passive |
 | 15 | **Unending Barrage** | Lethal Flow triggers on Crit as well as Kill. | Passive |
-| 15 | *or* **Bleeding Storm** | Bleeding effects deal damage twice per turn (start and end). Enemies with 3+ Bleeding stacks are Slowed (half movement, -1 die Evasion). | Passive |
+| 15 | *or* **Bleeding Storm** | Bleeding effects deal damage twice per turn (start and end). Enemies with 3+ Bleeding stacks are Slowed (half movement, Disadvantage on Evasion checks). | Passive |
 | 16 | **Untouchable** | Blur Step can be used 2/scene. | Passive |
 | 17 | **Grim Executioner** | Death's Whisper threshold increases to 25% HP. | Passive |
 | 18 | **One with the Void** | Invisible while in Dim Light. | Passive |
@@ -299,7 +299,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 #### Core Abilities
 *   **Time Stasis** (Action, 2 SE): Freeze a creature for 1 round (Will Save) or object for 1 min.
 *   **Guardian's Edict** (Bonus Action): Allies gain +1 DV and Temp HP equal to your Will.
-*   **Timeless Bulwark** (Passive): +1 Die vs time-altering effects.
+*   **Timeless Bulwark** (Passive): Gain Advantage against time-altering effects.
 
 #### Class Perks
 | Level | Perk Name | Effect | Action/Cost |
@@ -309,7 +309,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 3 | **Balance Strike** | Deal Dmg equal to Soul; Dispel magic. | Action, 1 SE |
 | 4 | **Fate Align** | Allow an ally to reroll a failed die. | Reaction |
 | 5 | **Cycle Command** | Ally at 0 HP is restored to 1 HP. | Reaction, 1/scene |
-| 5 | *or* **Judgment's Edge** | When an enemy damages an ally within 30ft, mark them with Fate's Condemnation (Reaction, 1/scene). Your next attack against that target deals +Will bonus damage and inflicts -1 die to their next save. | Reaction, 1/scene |
+| 5 | *or* **Judgment's Edge** | When an enemy damages an ally within 30ft, mark them with Fate's Condemnation (Reaction, 1/scene). Your next attack against that target deals +Will bonus damage and inflicts Disadvantage on their next save. | Reaction, 1/scene |
 | 6 | **Echo of Fate** | Reroll your own failed roll. | Reaction, 1/scene |
 | 7 | **Zone of Judgment** | 15ft zone, enemies suffer -1 DV. | Action, 2 SE |
 | 8 | **Mark of Equilibrium** | Reduce damage taken by target by 2 until the start of your next turn. | Bonus Action |
@@ -339,7 +339,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 
 #### Core Abilities
 *   **Void Shard** (Action, 1 SE): Deal 3 Entropic Dmg or dispel an effect.
-*   **Entropic Curse** (Action, 1 SE): Target suffers -1 Die to attacks/saves (Concentration).
+*   **Entropic Curse** (Action, 1 SE): Target suffers Disadvantage on attacks and saves (Concentration).
 *   **Entropic Surge** (Passive): +1 Die to spellcasting if Corruption is > 7.
 
 #### Class Perks
@@ -348,7 +348,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 1 | **Dark Insight** | Reroll a failed Corruption Save. | Reaction |
 | 2 | **Hex Spark** | Dealing spell dmg deals 1 Splash dmg to nearby. | Passive |
 | 3 | **Madness Surge** | Target is Confused (Will Save). | Action, 1 SE |
-| 4 | **Willbreaker** | +1 Die on Will checks vs Frightened enemies. | Passive |
+| 4 | **Willbreaker** | Gain Advantage on Will checks against Frightened enemies. | Passive |
 | 5 | **Forbidden Truth** | Cast a spell using Corruption instead of SE. | Free Action, 1/scene |
 | 5 | *or* **Entropic Overload** | Your next spell or Void Shard deals +3 Void damage (bypasses Armor and Resistances). | Free Action, 1/short rest |
 | 6 | **Decay Field** | 10ft Zone, enemies suffer -1 Die on everything. | Action, 2 SE |

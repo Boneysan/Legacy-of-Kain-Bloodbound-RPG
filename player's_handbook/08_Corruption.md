@@ -71,7 +71,7 @@ Corrupted Perks are chosen in place of a Universal Perk slot. Crossing a thresho
 
 #### Bloodstained Sight
 
-**Effect (Active):** As an Action, once per scene, you can focus on blood-soaked terrain or a bleeding creature within 30 feet (6 squares) to gain +1 die on Observation checks for 1 minute, revealing hidden enemies or spectral traces.
+**Effect (Active):** As an Action, once per scene, you can focus on blood-soaked terrain or a bleeding creature within 30 feet (6 squares) to gain Advantage on Observation checks for 1 minute, revealing hidden enemies or spectral traces.
 
 **Drawback:** After using this ability, you become fixated on blood; you must succeed on a DR 2 Will save to avoid attacking or feeding on the nearest bleeding creature (ally or foe) on your next turn. Failure imposes a -1 die penalty on non-attack actions for that turn.
 
@@ -79,7 +79,7 @@ Corrupted Perks are chosen in place of a Universal Perk slot. Crossing a thresho
 
 #### Spectral Whisper
 
-**Effect (Passive):** You gain +1 die on Stealth checks in the Spectral Realm or areas of obscuring terrain (e.g., mist, darkness). Additionally, you can faintly perceive spectral entities within 15 feet (3 squares) without a skill check, though details require an Observation roll.
+**Effect (Passive):** You gain Advantage on Stealth checks in the Spectral Realm or areas of obscuring terrain (e.g., mist, darkness). Additionally, you can faintly perceive spectral entities within 15 feet (3 squares) without a skill check, though details require an Observation roll.
 
 **Drawback:** The Spectral Realm's influence frays your connection to reality; you lose 1 SE whenever you enter or remain in the Spectral Realm for more than 1 minute per scene.
 
@@ -99,7 +99,7 @@ Corrupted Perks are chosen in place of a Universal Perk slot. Crossing a thresho
 
 #### Veil of the Damned
 
-**Effect (Active):** As an Action, once per short rest, you summon a 10-foot (2 squares) radius cloud of spectral mist centered on yourself, lasting 1 minute. The area is lightly obscured, granting +1 die to your Stealth checks and imposing a -1 die penalty on enemies' Observation checks within or targeting the area. You can see normally within the mist. Costs 1 Soul Energy (SE).
+**Effect (Active):** As an Action, once per short rest, you summon a 10-foot (2 squares) radius cloud of spectral mist centered on yourself, lasting 1 minute. The area is lightly obscured, granting Advantage on your Stealth checks and imposing Disadvantage on enemies' Observation checks within or targeting the area. You can see normally within the mist. Costs 1 Soul Energy (SE).
 
 **Drawback:** The mist clings to you unnaturally; until your next short rest, you suffer a -1 die penalty on saves against Radiant or holy effects, as the mist marks you as tainted.
 
@@ -131,7 +131,7 @@ Corrupted Perks are chosen in place of a Universal Perk slot. Crossing a thresho
 
 #### Abyssal Echo
 
-**Effect (Reactive):** Once per scene, when you fail a saving throw against a spell or magical effect, you can use your Reaction to reroll the save with +1 die. If you succeed, the caster takes 2 Entropic (Void) damage (bypassing all Armor). Costs 1 SE.
+**Effect (Reactive):** Once per scene, when you fail a saving throw against a spell or magical effect, you can use your Reaction to reroll the save with Advantage. If you succeed, the caster takes 2 Entropic (Void) damage (bypassing all Armor). Costs 1 SE.
 
 **Drawback:** The Abyss's touch lingers; you suffer a -1 die penalty on Insight checks until your next short rest, as reality feels distorted.
 

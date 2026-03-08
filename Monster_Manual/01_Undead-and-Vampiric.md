@@ -36,7 +36,7 @@ Feralslave Ghouls are the remains of mortals who died in agony, their souls too 
 ### Special Abilities
 **Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
 
-**Feral Pack:** Gains +1 die on attack rolls when within 10 feet of another Feralslave Ghoul.
+**Feral Pack:** Gains Advantage on attack rolls when within 10 feet of another Feralslave Ghoul.
 
 **Death Throes:** When reduced to 0 HP, makes one final Clawing Grasp attack as a Reaction.
 
@@ -1139,7 +1139,7 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 - **Special:** Creatures who fail their save are Disoriented (Disadvantage on the next 2 action rolls). Half damage on successful save.
 
 **Commanding Roar** (Bonus Action, 1/round)
-- All Crimson Fracture allies within 60 feet gain +1 die on their next attack roll.
+- All Crimson Fracture allies within 60 feet gain Advantage on their next attack roll.
 
 ### Special Abilities
 
@@ -1214,7 +1214,7 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 >
 > **Earthshaker Strike** (Action, once per scene): The Dumahim drives its weapon or fist into the ground with seismic force. All creatures within 10 feet must pass a DR 3 Blood save or be knocked **Prone** and become **Staggered** until the end of their next turn.
 >
-> *Weakness:* Dumahim are -1 die on initiative rolls — centuries of dormancy have slowed their reflexes slightly compared to other vampires.
+> *Weakness:* Dumahim have Disadvantage on initiative rolls — centuries of dormancy have slowed their reflexes slightly compared to other vampires.
 
 ---
 

@@ -62,7 +62,7 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 **Frenzied Strike** (Fury 2 + Weapon Mastery 1 = 3d6)
 - Range: Weapon Mastery
 - Damage: 3 Physical damage on success
-- Effect: On Critical Hit (3+ successes), the Fanatic screams a prayer that grants all nearby cultists +1 die on their next attack.
+- Effect: On Critical Hit (3+ successes), the Fanatic screams a prayer that grants all nearby cultists Advantage on their next attack.
 
 **Martyrdom Lunge** (Fury 2 + Religion 3 = 5d6, once per encounter)
 - Range: Weapon Mastery
@@ -72,7 +72,7 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 #### Abilities
 **Cult Indoctrination**: Immune to fear effects. Automatically pass morale checks.
 
-**Death Ecstasy**: When reduced to 0 HP, the Fanatic laughs maniacally and whispers a prayer. All allies within 10 feet gain +1 die on Will saves until the end of the encounter.
+**Death Ecstasy**: When reduced to 0 HP, the Fanatic laughs maniacally and whispers a prayer. All allies within 10 feet gain Advantage on Will saves until the end of the encounter.
 
 #### Tactics
 - **Swarm Tactics**: Fanatics always attack in groups of 4-8. They surround isolated targets and use Martyrdom Lunge on the same turn to overwhelm defenses.
@@ -144,7 +144,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 **Ritual of Twisted Faith** (1/day): Spend 10 minutes performing a ritual. Choose one effect:
 - Raise 1d3 Feralslave Ghouls (Minions, TV 0.25 each) to serve for 1 hour
 - Heal all allies within 30 feet for 10 HP, but each takes 1 Corruption
-- Place a Zone of Despair (20-foot radius) that inflicts -1 die to all enemy rolls while inside
+- Place a Zone of Despair (20-foot radius) that imposes Disadvantage on all enemy rolls while inside
 
 **False Prophet**: The Priest can speak with divine authority, making Intimidation rolls with Advantage against faithful mortals.
 
@@ -366,7 +366,7 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 - Effect: If the Raider is Hidden when they make this attack, they have Advantage on the roll.
 
 #### Abilities
-**Pack Mentality**: Raiders gain +1 die on attack rolls for each ally within 10 feet (max +3 dice).
+**Pack Mentality**: Raiders gain Advantage on attack rolls while at least one ally is within 10 feet (this does not stack beyond Advantage).
 
 **Cowardly Retreat**: When reduced below half HP, the Raider must pass a DR 2 Will save or spend their turn fleeing at double movement speed. If their leader is killed or if more than half their warband is dead, they automatically fail this save.
 
@@ -595,7 +595,7 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 - Effect: The Commander designates a target and orders nearby soldiers to fire. All allied archers/crossbowmen within 40 feet immediately make a ranged attack against the designated target with Advantage.
 
 #### Abilities
-**Tactical Leader**: All allies within 30 feet of the Commander gain +1 die on attack rolls and automatically pass morale checks. If the Commander is killed, all mortal allies must pass a DR 3 Will save or be **Frightened** for 2 rounds.
+**Tactical Leader**: All allies within 30 feet of the Commander gain Advantage on attack rolls and automatically pass morale checks. If the Commander is killed, all mortal allies must pass a DR 3 Will save or be **Frightened** for 2 rounds.
 
 **Anti-Magic Aura**: The Commander's armor disrupts magic within 15 feet. All enemy spells cast within this aura have Disadvantage on their rolls. Magical healing is halved within the aura.
 
@@ -782,7 +782,7 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 - Effect: DR 4 Will save to halve. Undead and vampiric creatures that fail are also **Frightened** for 2 rounds. Allied Sarafan in the area regain 3 HP.
 
 #### Abilities
-**Sanctified Aura** (Passive): All Sarafan allies within 15 feet gain +1 die on Will saves. Undead and vampiric PCs suffer -1 die on attack rolls while within the aura. The aura is suppressed for 1 round if the Grand Inquisitor takes 15+ damage in a single hit.
+**Sanctified Aura** (Passive): All Sarafan allies within 15 feet gain Advantage on Will saves. Undead and vampiric PCs suffer Disadvantage on attack rolls while within the aura. The aura is suppressed for 1 round if the Grand Inquisitor takes 15+ damage in a single hit.
 
 **Unshakable Faith**: Immune to fear, charm, Domination, and Corruption. Automatically succeeds on Will saves against mind-control effects.
 
@@ -1040,7 +1040,7 @@ When running **Elite** or **Boss**-tier mortals in climactic encounters, conside
 **For Sarafan Inquisitors or Witch-Hunter Commanders**:
 - **Move**: The mortal moves up to half their movement speed without provoking opportunity attacks.
 - **Strike**: The mortal makes one melee attack.
-- **Holy Tactics** (costs 2 actions): The mortal shouts a prayer, granting all allies within 30 feet +1 die on their next attack roll.
+- **Holy Tactics** (costs 2 actions): The mortal shouts a prayer, granting all allies within 30 feet Advantage on their next attack roll.
 - **Purging Light** (costs 2 actions, Inquisitor only): The mortal holds their holy symbol aloft, dealing 4 Radiant damage to all undead within 20 feet (no roll).
 
 **For Black Rune Warlocks**:
@@ -1121,7 +1121,7 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 **Tactical Genius** (Passive): At the start of each round, the Warlord can choose one of the following formations for all mortal allies within 40 feet:
 - **Shield Wall**: Allies gain +2 Armor but lose 10 feet of movement.
 - **Skirmish Line**: Allies gain +10 feet of movement but lose 1 DV.
-- **Kill Box**: Allies gain +1 die on attacks against a single designated target.
+- **Kill Box**: Allies gain Advantage on attacks against a single designated target.
 
 **Consecrated Presence** (Passive): Undead creatures within 20 feet of the Warlord have Disadvantage on attack rolls (the holy aura weakens their connection to unlife).
 
@@ -1199,7 +1199,7 @@ They function as the ground troops of any Sarafan encounter — expendable, coll
 
 **Shield Block (Reaction, shield loadout only):** Reduce incoming melee damage by 2.
 
-**Sarafan Discipline:** When a Footsoldier succeeds on a Will save against a supernatural effect (Fear, Charm, etc.), all other Footsoldiers within 10 feet can use their Reaction to attempt the same save with +1 die.
+**Sarafan Discipline:** When a Footsoldier succeeds on a Will save against a supernatural effect (Fear, Charm, etc.), all other Footsoldiers within 10 feet can use their Reaction to attempt the same save with Advantage.
 
 **Mortal Courage:** Footsoldiers do not Auto-fail morale checks when an ally is killed; they double down instead (see Sarafan Tactics below).
 
@@ -1251,13 +1251,13 @@ They are practical in a way many Sarafan are not. An Outrider doesn't care about
 - **Dice Pool:** Fury 2 + Weapon Mastery 2 = 4d6
 - **Damage:** 4 Slashing
 
-**Hunter's Mark (Bonus Action, 1/combat per target):** The Outrider marks one visible target. Until that target is killed or incapacitated, the Outrider gains +1 die on all attacks against it and can sense its location within 100 feet even through walls.
+**Hunter's Mark (Bonus Action, 1/combat per target):** The Outrider marks one visible target. Until that target is killed or incapacitated, the Outrider gains Advantage on all attacks against it and can sense its location within 100 feet even through walls.
 
 #### Special Abilities
 
 **Skirmisher:** After making a ranged attack, the Outrider can immediately move up to 15 feet without provoking opportunity attacks.
 
-**Shadow Stealth:** If the Outrider attacks from Stealth (before being detected), its first attack gains +2 dice and ignores the target's Armor.
+**Shadow Stealth:** If the Outrider attacks from Stealth (before being detected), its first attack gains Advantage and ignores the target's Armor.
 
 **Terrain Reading:** The Outrider is never Slowed by natural difficult terrain (mud, undergrowth, rubble). They move at full speed through it.
 

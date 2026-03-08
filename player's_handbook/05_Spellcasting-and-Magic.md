@@ -131,38 +131,38 @@ This compendium lists spells by tier and category. Class access by spell school 
 
 #### Blood Spells
 - **Blood Leash:** Cost: 1 BP. 30 ft; DR 2 Blood save or tethered (max 15 ft away) for concentration up to 1 min.
-- **Blood Mark:** Cost: 1 BP. Touch/30 ft; +1 die attacks vs. target for 2 rounds.
+- **Blood Mark:** Cost: 1 BP. Touch/30 ft; attacks against the target have Advantage for 2 rounds.
 - **Blood Thread:** Cost: 1 BP. 30 ft; create sticky thread for manipulation or tripwire.
 - **Blood Trace:** Cost: 1 BP. 1 min cast; sense direction/distance to blood sample's owner for 10 min.
 - **Coagulate:** Cost: 1 BP. Touch; end Bleeding or stabilize dying target.
 - **Crimson Slash:** Cost: 1 BP. Self/15 ft; form blade (3 Physical (Slashing), Bleed 1/round) or whip (2 Physical (Slashing) + DR 2 Evasion or Bleed).
 - **Hemostatic Pulse:** Cost: 1 BP. Touch; heal 2 HP (1/min limit).
 - **Minor Bloodshield:** Cost: 1 BP. Reaction/Bonus; grant 3 + Soul Temporary HP.
-- **Pulse Spike:** Cost: 1 BP. 30 ft; spell attack, 1 Spectral damage + DR 2 Blood save or -1 die next attack/check.
-- **Sanguine Dart:** Cost: 1 BP. 30 ft; spell attack, 3 Physical (Piercing) (+1 die if target Bleeding).
+- **Pulse Spike:** Cost: 1 BP. 30 ft; spell attack, 1 Spectral damage + DR 2 Blood save or Disadvantage on the target's next attack or check.
+- **Sanguine Dart:** Cost: 1 BP. 30 ft; spell attack, 3 Physical (Piercing) with Advantage if the target is Bleeding.
 
 #### Ritual Spells
-- **Altar Blessing:** Cost: 2 SE. 10 min; touch altar; grant +1 die or +1 HP healing to contemplators (once each).
+- **Altar Blessing:** Cost: 2 SE. 10 min; touch altar; grant Advantage on one relevant check or +1 HP healing to contemplators (once each).
 - **Bind Soul:** Cost: 2 SE. 10 min; touch corpse/willing; store soul fragment in receptacle.
 - **Breath of Ancients:** Cost: 2 SE. 10 min; at historical site; gain cryptic vision of past event.
 - **Echo Word:** Cost: 1 SE. 1 min; touch; store phrase, echoes on trigger.
 - **Lantern Rite:** Cost: 1 SE. Self; 30-ft light reveals invisible/ethereal for concentration up to 10 min.
 - **Memory Script:** Cost: 1 SE/50 words. 1 min/25 words; touch; invisible script revealed by keyword.
 - **Rite of Stone:** Cost: 2 SE. 10 min; touch stone; reinforce, alarm, or hide small object for 24 hrs.
-- **Soul Flicker:** Cost: 1 SE. Self; -2 dice to next attack vs. you until next turn (no offensive actions).
+- **Soul Flicker:** Cost: 1 SE. Self; attacks against you have Disadvantage until your next turn (no offensive actions).
 - **Spirit Echo:** Cost: 1 SE. 1 min; self; sense spiritual traces in 30-ft area (number, emotion).
 - **Warding Circle:** Cost: 2 SE. 1 min; 10-ft circle; blocks chosen type + bonuses for 1 hr.
 
 #### Forbidden Spells
 - **Blind Insight:** Cost: 1 SE (+1 Corruption). 1 min; self; gain disturbing truth about danger.
-- **Dissonant Pulse:** Cost: 1 SE. Self; 10-ft radius; DR 2 Will save or break concentration + -1 die focus check.
+- **Dissonant Pulse:** Cost: 1 SE. Self; 10-ft radius; DR 2 Will save or break concentration and suffer Disadvantage on the next Focus-based check.
 - **Echo of Rot:** Cost: 1 SE. 30 ft; DR 2 Blood save or halved healing + decay odor for 3 rounds.
 - **Eldritch Gasp:** Cost: 1 SE. 15-ft cone; DR 2 Blood save or 1 Spectral damage + silenced 1 round.
 - **Glyph Disruptor:** Cost: 1 SE. 30 ft; Soul + Forbidden vs. DR to dispel glyph.
-- **Hex of Pain:** Cost: 1 SE. 30 ft; DR 2 Will save or -1 die attacks/checks 1 round.
+- **Hex of Pain:** Cost: 1 SE. 30 ft; DR 2 Will save or suffer Disadvantage on attacks and checks for 1 round.
 - **Minor Rift:** Cost: 1 SE. 30 ft; pull object 10 ft or make 5-ft area difficult terrain 1 round.
 - **Nightmare Seed:** Cost: 1 SE. Touch sleeping; nightmares deny rest + DR 2 Will or Frightened 10 min.
-- **Shadow Infestation:** Cost: 1 SE. 30 ft; DR 2 Will save or -1 die Perception + dim light for 1 min.
+- **Shadow Infestation:** Cost: 1 SE. 30 ft; DR 2 Will save or suffer Disadvantage on Observation checks in dim light for 1 min.
 - **Whispershade:** Cost: 1 SE. Bonus; 60 ft; one-way telepathic whispers for concentration 1 min.
 
 ### 5.10.2 Adept Tier (Levels 6–10)
@@ -185,7 +185,7 @@ This compendium lists spells by tier and category. Class access by spell school 
 - **Blood Puppet:** Cost: 2 BP. 30 ft Bleeding target; DR 2 Will or control next turn (non-suicidal).
 - **Blood Scent:** Cost: 1 BP. Bonus; self; detect Bleeding/low-HP creatures within 60 ft for 10 min.
 - **Crimson Bind:** Cost: 2 BP. 10-ft radius in 60 ft; DR 2 Blood/Evasion or Rooted/speed halved for Soul rounds.
-- **Crimson Mantle:** Cost: 2 BP. Bonus; self; +1 Armor 1 min + attacker DR 2 Will or -1 die next attack.
+- **Crimson Mantle:** Cost: 2 BP. Bonus; self; +1 Armor 1 min + attacker DR 2 Will or Disadvantage on their next attack.
 - **Echo Wound:** Cost: 1 BP. Reaction on enemy healing; half healed as Physical damage + healer DR 2 Will or 1 Corruption.
 - **Hemorrhage Halo:** Cost: 2 BP. Self; 10-ft radius; DR 2 Blood or 2 Spectral damage + Bleed 2 rounds.
 - **Sangral Lance:** Cost: 2 BP. 60-ft line; spell attack, 5 Physical (Piercing) + DR 2 Blood or Bleed; pierce second target on extra successes.
@@ -196,7 +196,7 @@ This compendium lists spells by tier and category. Class access by spell school 
 - **Chrono-Ward Ritual:** Cost: 2 SE. 1 min; touch; delay trigger by time condition + Initiate effect.
 - **Communion of Shadows:** Cost: 2 SE. 10 min in shadow; whispers (yes/no questions) or +2 Stealth in dim light.
 - **Life Channel:** Cost: Lose 1–(Level/2) HP. Touch; target heals twice sacrificed amount.
-- **Litany of Focus:** Cost: 1 SE. 1 min; touch; +1 die focus/detail checks 1 hr.
+- **Litany of Focus:** Cost: 1 SE. 1 min; touch; grant Advantage on Focus/detail checks for 1 hr.
 - **Pillar Resonance:** Cost: 2 SE. 10 min at Pillar; vision/lore or +2 related skill check 1 hr.
 - **Rite of Echoes:** Cost: 2 SE. 10 min at event site; +2 Social check related to echoes 1 hr.
 - **Sanctify Blade:** Cost: 2 SE. 1 min; touch weapon; magical +2 vs. Undead/Corrupted or +1 protect ally 1 hr.
@@ -204,12 +204,12 @@ This compendium lists spells by tier and category. Class access by spell school 
 - **Wraithwalk:** Cost: 1 SE. Bonus; self; phase through creatures + no opportunity attacks until end of turn.
 
 #### Forbidden Spells
-- **Cursed Equation:** Cost: 2 SE (+1 Corruption). 30 ft; DR 3 Will or -2 dice Will/Soul checks + no Reactions 1 min.
+- **Cursed Equation:** Cost: 2 SE (+1 Corruption). 30 ft; DR 3 Will or suffer Disadvantage on Will and Soul checks and lose Reactions for 1 min.
 - **Dread Chain:** Cost: 2 SE. 30 ft; spell attack, 3 Spectral damage + DR 2 Will or Frightened + halved speed away 1 min.
 - **Eyes Beyond:** Cost: 2 SE (+1 Corruption). 1 min; self; see in darkness/invisible +1 Observation for 10 min (-1 social).
 - **Fleshwarp:** Cost: 2 SE. Touch; DR 2 Blood or warp limb (-2 dice or halved speed) 1 min.
 - **Madness Surge:** Cost: 2 SE (+1 Corruption). 30 ft; DR 2 Will or Confused 1 round (-1 die on success).
-- **Omen Tether:** Cost: 2 SE. 60 ft; DR 2 Will or -2 dice on one risky roll (Reaction to impose).
+- **Omen Tether:** Cost: 2 SE. 60 ft; DR 2 Will or suffer Disadvantage on one risky roll (Reaction to impose).
 - **Riftstep:** Cost: 2 SE. Bonus; self; teleport 30 ft.
 - **Soul Lock:** Cost: 2 SE. 30 ft; DR 3 Will or no healing/resurrection 1 round.
 - **Spectral Lash:** Cost: 2 SE. 15 ft; spell attack 5 Spectral damage (single) or 3 Spectral damage line (DR 2 Evasion).
@@ -225,7 +225,7 @@ This compendium lists spells by tier and category. Class access by spell school 
 - **Glyph of Echo Memory:** Cost: 3 SE. 10 min; touch; records 2 rounds of sensory data on trigger.
 - **Glyph of Gravity:** Cost: 3 SE. Touch; triggers; DR 3 Blood or Prone + halved speed 1 round in 10-ft area.
 - **Glyph of Reflection:** Cost: 3 SE. Touch; reflects Adept or lower spell (opposed Will save).
-- **Glyph of Ruin:** Cost: 3 SE. Touch; triggers; -1 die saves + -5 max HP in 15-ft aura 1 min.
+- **Glyph of Ruin:** Cost: 3 SE. Touch; triggers; creatures in the 15-ft aura have Disadvantage on saves and lose 5 max HP for 1 min.
 - **Glyph of Silence Field:** Cost: 3 SE. Touch; 15-ft silence for concentration 10 min.
 
 #### Blood Spells
