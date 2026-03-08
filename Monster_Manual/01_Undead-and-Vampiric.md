@@ -17,7 +17,7 @@ This chapter now uses final absolute TV values aligned to each entry's intended 
 ### Lore
 Feralslave Ghouls are the remains of mortals who died in agony, their souls too weak to pass into the Spectral Realm. Instead, they cling to rotting flesh, driven by base instincts—hunger, pain, and rage. They serve as fodder for vampire lords or infest ruins and graveyards, attacking anything living.
 
-### Stats
+### Statistics
 - **HP:** 8
 - **DV:** 2 (1 + Shadow 1)
 - **Armor:** 0
@@ -66,7 +66,7 @@ Ghouls rush the nearest living creature mindlessly. They use Feral Pack to swarm
 ### Lore
 Not all vampires retain their nobility and cunning. Those who give in completely to the Blood Thirst lose themselves, becoming feral predators more beast than person. Hunger-Warped Vampires prowl the wilderness, attacking settlements and travelers. They are fast, vicious, and driven by insatiable hunger.
 
-### Stats
+### Statistics
 - **HP:** 35
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 2 (supernatural resilience)
@@ -133,7 +133,7 @@ Opens with Shadow Leap to close distance, then Pounces on isolated target. Uses 
 ### Lore
 Revenants are the restless dead bound to unfinished purpose. Unlike mindless undead, they retain memories and intelligence from life, but are consumed by singular obsession—vengeance, duty, or protecting something precious. They cannot rest until their purpose is fulfilled or their physical form is destroyed.
 
-### Stats
+### Statistics
 - **HP:** 22
 - **DV:** 4 (1 + Will 3)
 - **Armor:** 1 (spectral resilience)
@@ -192,7 +192,7 @@ Methodical and intelligent fighter. Protects its bound location/object/person ze
 ### Lore
 Created through necromantic rituals involving immolation, Bone-Pyre Skeletons are animate remains wreathed in ghostly flames. They serve dark mages and vampire lords as disposable troops, their bones reinforced by corrupted fire magic.
 
-### Stats
+### Statistics
 - **HP:** 6
 - **DV:** 3 (1 + Shadow 2)
 - **Armor:** 1 (bone structure)
@@ -241,7 +241,7 @@ Advance in groups, using Flaming Aura to pressure melee fighters. Use Ember Burs
 ### Lore
 Wights are ancient warriors or nobles who refused death's call, clinging to their tombs through sheer force of will and dark magic. They wear corroded armor and wield weapons from forgotten eras. Unlike lesser undead, Wights retain tactical intelligence and can command lesser undead.
 
-### Stats
+### Statistics
 - **HP:** 38
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 3 (ancient plate armor + unnatural resilience)
@@ -304,7 +304,7 @@ Commands lesser undead from back line while using Aura of Dread to control battl
 ### Lore
 When lesser vampires are destroyed, their remaining essence sometimes animates nearby vermin—rats, bats, insects—creating a horrific swarm that retains vampiric hunger and limited intelligence. These swarms infest vampire lairs and hunt in packs.
 
-### Stats
+### Statistics
 - **HP:** 30
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 0 (but see Swarm Nature)
@@ -357,7 +357,7 @@ Attempts to Engulf isolated targets while using superior mobility to avoid area 
 ### Lore
 Former priests or cultists who willingly embraced vampirism to serve dark powers. Red Vein Acolytes retain their devotion but redirect it toward blood rituals and forbidden rites. They serve vampire lords as spell-slingers and ritual masters.
 
-### Stats
+### Statistics
 - **HP:** 20
 - **DV:** 3 (1 + Will 2)
 - **Armor:** 0 (cloth robes)
@@ -416,7 +416,7 @@ Stays at range, pelting enemies with Blood Bolt. Uses Blood Curse on biggest thr
 ### Lore
 Vampires destroyed by fire sometimes leave behind vengeful spirits—Bloodflame Specters. These entities burn with spectral fire, unable to move on, forever reliving their immolation. They haunt the places of their death, attacking any living creature.
 
-### Stats
+### Statistics
 - **HP:** 18
 - **DV:** 4 (1 + Shadow 3)
 - **Armor:** Special (see Incorporeal)
@@ -543,7 +543,7 @@ An Overlord's presence alone warps the battlefield. The air grows cold, shadows 
 
 Most Overlords were once members of the great vampire clans, and some still carry the sigils of houses long destroyed. Their memories stretch back to the Pillars' golden age, and they view the current age of decay with bitter contempt. They are not mindless monsters — they are rulers deposed, and they want their kingdom back.
 
-### Stats
+### Statistics
 - **HP:** 90
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** 3 (supernatural resilience)
@@ -634,7 +634,7 @@ They are most dangerous not in isolation but at the head of an undead formation.
 
 Grave-Knights are often bound to a specific location (a battlefield, a fortress, a throne room) or a specific objective (defend this gate, destroy this bloodline, reclaim this banner). They are relentless in pursuit of their mission and will rebuild their forces indefinitely if the source of their binding is not destroyed.
 
-### Stats
+### Statistics
 - **HP:** 55
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 3 (ancient plate mail)
@@ -707,7 +707,7 @@ Bonelord Archons are the remnants of ancient necromancers who bargained with the
 
 They lair in ruined cathedrals, forgotten crypts, and the shattered remains of the Circle of Nine's sanctums. Some Bonelord Archons remember the world before the Pillars fell. All of them intend to reshape it.
 
-### Stats
+### Statistics
 - **HP:** 120
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 4 (Bone-Warded Plate — necrotic-infused skeletal armor)
@@ -789,7 +789,7 @@ Risen Thralls are the most basic product of necromantic reanimation — freshly 
 
 Unlike Feralslave Ghouls, which are animated by lingering soul-fragments, Risen Thralls are pure constructs of dark energy. They collapse the moment the animating force is disrupted, making them cheap to create and cheap to destroy. Vampire lords and cultists alike favor them as expendable soldiers, obstacle clearers, and distractions.
 
-### Stats
+### Statistics
 - **HP:** 7
 - **DV:** 2
 - **Armor:** 0
@@ -840,7 +840,7 @@ Vampiric Fledglings are the newly-turned — mortals who received the Dark Gift 
 
 Fledglings have not yet mastered the full array of vampiric powers, but they are significantly stronger and faster than mortals. Their blood-hunger overrides reason in combat; when wounded, they enter brief frenzies that temporarily make them more lethal. Elder vampires use Fledglings as expendable shock troops, knowing they will be replaced by the next feeding.
 
-### Stats
+### Statistics
 - **HP:** 16
 - **DV:** 4 (1 + Shadow 2 + Blood 1)
 - **Armor:** 0
@@ -897,7 +897,7 @@ Skeletal Archers are the necromancer's answer to a problem: how do you threaten 
 
 Archers are more tactically valuable than their TV suggests; their positioning advantage can punish parties that lack ranged responses, and they draw fire away from the actual threats.
 
-### Stats
+### Statistics
 - **HP:** 5
 - **DV:** 2
 - **Armor:** 0
@@ -947,7 +947,7 @@ Skeletal Knights are the remains of fallen soldiers, tomb guardians, or executed
 
 Vampire lords prize them as palace guards and tomb sentinels. They don't sleep, don't demand pay, and don't frighten. The only maintenance required is occasional re-animation after battlefield losses.
 
-### Stats
+### Statistics
 - **HP:** 12
 - **DV:** 3 (1 + Fury 2)
 - **Armor:** 2 (corroded plate)
@@ -1015,7 +1015,7 @@ Fracture Zealots are the foot soldiers of the Crimson Fracture — recruited fro
 
 Most Zealots barely understand the Fracture's true goals. They know they are part of something that frightens powerful vampires, and that is enough. The faint spectral shimmer around their strikes is a side-effect of constant proximity to Feral Council rituals — an unplanned mutation that even the Council finds interesting.
 
-### Stats
+### Statistics
 - **HP:** 20
 - **DV:** 3 (1 + Blood 2)
 - **Armor:** 0
@@ -1074,7 +1074,7 @@ Dimension-Walkers are the Fracture's shock operatives — vampires who have stud
 
 The process is not without cost. Every Dimension-Walker bears the mark of their training: eyes that periodically go spectral-hollow, voices heard from two directions at once, and the distinctive scar of a "first breach" — a permanent translucent patch on the skin where they first phased successfully. Older Dimension-Walkers sometimes speak with a spatial echo, as though their Spectral-self is still catching up.
 
-### Stats
+### Statistics
 - **HP:** 45
 - **DV:** 4 (1 + Blood 3)
 - **Armor:** 1
@@ -1133,7 +1133,7 @@ The Void-Touched are the Feral Council's lieutenants — ancient vampires who ha
 
 They are not insane — most Void-Touched are as calculating and dangerous as any elder vampire. But their frame of reference has shifted. They no longer experience time, space, or consequence in quite the same way as other vampires. Some have been walking the line between planes for so long that they have ceased to fully believe in the Material Realm as anything other than a temporary inconvenience.
 
-### Stats
+### Statistics
 - **HP:** 75
 - **DV:** 5 (1 + Blood 4)
 - **Armor:** 2

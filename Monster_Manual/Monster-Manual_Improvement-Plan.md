@@ -264,6 +264,15 @@ The immediate goal is not to rewrite every creature at once. The goal is to remo
       - Updated the manual-wide conversion-state note so it now reflects that all nine Monster Manual chapters are fully converted.
    - Result: Chapter 6 now uses final absolute TV values consistently across all of its creature entries and internal examples.
 
+30. **Final consistency sweep — complete**
+   - `Monster_Manual/01_Undead-and-Vampiric.md` through `Monster_Manual/09_Legendary-Entities.md`
+      - Normalized live creature subsection headings from `### Stats` to `### Statistics` across all nine chapters.
+   - `Monster_Manual/08_Ancient-Creatures.md`
+      - Corrected the Living Ward sample encounter note from stale shorthand to the printed total of `TV 31`.
+   - `GM_Guide/02_Encounter-Design.md`
+      - Rewrote the final high-level All-MM equivalent note to use explicit absolute-TV budgeting guidance instead of stale `TV ~60` shorthand.
+   - Result: the live Monster Manual no longer has known `Stats`/`Statistics` label drift, and the final known post-conversion encounter-shorthand survivors were cleared.
+
 ### Current balance notes
 
 1. **Core TV model work is stable**
@@ -280,31 +289,33 @@ The immediate goal is not to rewrite every creature at once. The goal is to remo
    - Remaining review targets are now mostly subjective style calls or chapter-internal consistency questions rather than clear encounter-budget failures.
    - If more tuning happens, likely candidates are only a few stylistic holdouts such as `Sarafan Grand Inquisitor`, and even those now read more as preference calls than obvious misses.
 
-4. **What still needs a broader pass**
+4. **Final boss/action-economy signoff completed**
+   - A final narrow review was run against the last plausible holdouts rather than reopening the full manual.
+   - Reviewed and accepted without further rebalance: `Sarafan Grand Inquisitor`, `Grand Arcanist`, `Pillar-Forged Warden`, and `Hylden Arch-Priest`.
+   - Signoff rationale: each now uses bounded boss action economy (generally 2 Legendary Actions, limited or conditional extra output, and trimmed reinforcement volume where relevant), and any remaining pressure reads as intended faction identity rather than encounter-budget failure.
+   - Result: no remaining boss/action-economy cases are currently assessed as clear overspenders against their printed TVs.
+
+5. **What still needs a broader pass**
       - The core stat-block schema is now unified across all nine chapters.
-      - Remaining terminology drift is mostly outside the core stat blocks: scaling notes, anchors, and a few descriptive callouts still use legacy `Health` wording.
-   - If another balance pass happens, keep it narrow and evidence-driven. Recent passes are shaving edge-case output, not fixing hard contradictions.
-   - Early chapters (1 and 2) still have minor subsection-label and metadata drift from pre-normalization writes that hasn't been swept.
+      - The planned subsection-label sweep is complete, and no remaining `Health` wording was found in the live chapter files during the final cleanup search.
+   - If another balance pass happens, keep it narrow and evidence-driven. It should now be treated as discretionary refinement, not required structural cleanup.
+   - Any remaining variance is now editorial presentation polish rather than rules-dialect or encounter-math cleanup.
 
 ### Still pending
 
-1. Additional boss/action-economy review outside the first-wave outliers.
-2. Optional subsection-label wording pass for chapter-internal consistency (for example `Stats` vs `Statistics`, or `Scaling` vs `Scaling Options`).
-3. Optional cleanup of any remaining non-stat-block legacy wording outside Chapters 7–9 so prose matches the canonical stat-block terminology.
+1. No required Monster Manual consistency work remains.
+2. Any future edits from this plan are optional presentation polish only.
 
 ### Immediate next consistency targets
 
-1. Subsection-label wording parity across chapters.
-   - Heading depth is now unified, but label wording still varies by chapter (`Stats` vs `Statistics`, `Abilities` vs `Special Abilities`, `Scaling` vs `Scaling Options`).
-
-2. Auxiliary wording cleanup outside stat blocks in earlier chapters where needed.
-   - Chapters 7–9 are now clean. Any remaining prose cleanup would be limited to stray legacy wording elsewhere in the manual.
+1. Optional final presentation pass, if desired.
+   - Structural cleanup is complete; future work should focus on style, readability, or new content rather than TV remediation.
 
 ---
 
 ## Current State
 
-**Flat absolute TV** is the canonical standard across the GM Guide and Monster Manual, but the printed Monster Manual conversion is still in progress.
+**Flat absolute TV** is the canonical standard across the GM Guide and Monster Manual, and the printed Monster Manual conversion is complete.
 
 - `GM_Guide/02_Encounter-Design.md` and `Monster_Manual/00_Introduction.md` both define TV as an absolute encounter-budget number.
 - Threat tier labels (Minion, Standard, Elite, Boss, Legendary) are retained as descriptive bands; the TV value in each stat block is the authoritative number.
@@ -323,9 +334,9 @@ The immediate goal is not to rewrite every creature at once. The goal is to remo
 2. `Monster_Manual/00_Introduction.md` updated to remove the relative-tier TV model.
 3. Threat tier labels retained as descriptive bands; the explicit TV number in each stat block is the authoritative value.
 4. All mixed-format split entries across Chapters 3–6 converted to the single-line `**Threat Tier**: [Tier] (TV N)` format.
-5. Chapter 5 completed its benchmark-TV to final-absolute-TV conversion.
+5. All nine Monster Manual chapters now use final absolute TVs.
 
-The remaining work is now optional consistency cleanup: subsection-label wording parity, any further narrow boss review, and any stray non-stat-block wording cleanup outside Chapters 7–9.
+The remaining work is now optional presentation polish only.
 
 ---
 
@@ -354,7 +365,7 @@ Success criteria:
 
 ### P1 - Fix clear encounter-budget errors
 
-**Status:** Partially completed in first pass.
+**Status:** Completed through repeated narrow passes and final signoff review.
 
 These are the fastest high-impact corrections:
 
@@ -468,7 +479,7 @@ These creatures are the best early candidates for direct rebalance:
 
 ### P3 - Normalize presentation and terminology
 
-**Status:** Complete for core stat-block schema; minor prose cleanup remains optional.
+**Status:** Complete for core stat-block schema and final consistency sweep.
 
 All core stat-block vocabulary is now unified across all nine chapters:
 
@@ -480,7 +491,7 @@ All core stat-block vocabulary is now unified across all nine chapters:
 - `- **Initiative:** N` stat-block field — all 127 creatures ✅
 - `**Resources:**` block eliminated — all chapters ✅
 
-Remaining minor variance is cosmetic or outside the stat blocks themselves: subsection-label wording drift and any stray legacy prose wording outside Chapters 7–9.
+Remaining variance is cosmetic only. Boss/action-economy review is no longer a blocking item, chapter subsection labels now use `Statistics` consistently, and the final known stale encounter-shorthand survivors have been corrected.
 
 ---
 
@@ -489,7 +500,7 @@ Remaining minor variance is cosmetic or outside the stat blocks themselves: subs
 ### Chapters 1-3
 
 - Now on the canonical schema. All stat blocks have `HP`, `DV`, merged Threat Tier, and `Initiative`.
-- Minor subsection-label wording variance remains as a cosmetic style difference.
+- Subsection-label wording now matches the rest of the manual's `### Statistics` convention.
 
 ### Chapters 4-6
 
@@ -505,15 +516,17 @@ Remaining minor variance is cosmetic or outside the stat blocks themselves: subs
 
 ## Proposed Work Order
 
-1. Sweep subsection-label wording parity across the nine chapters where `Stats` vs `Statistics` or similar labels still drift.
-2. Run a subsection-label consistency pass across Chapters 1-9.
-3. Sweep any remaining auxiliary prose outside Chapters 7–9 for legacy terminology where `HP` is now the intended canonical term.
-4. If more balance work is desired, review any remaining boss/action-economy edge cases after the TV pass.
-5. Do a final chapter-by-chapter presentation pass before treating the manual as style-complete.
+1. If more balance work is desired, treat it as discretionary refinement rather than required signoff work.
+2. Do a final chapter-by-chapter presentation pass before treating the manual as style-complete.
+3. Re-check cross-document examples only when adding new encounter samples or new creature entries.
 
 ---
 
 ## Definition of Done
+
+**Status:** Met.
+
+The Monster Manual now meets the structural definition of done captured in this plan. The remaining items in this document are optional presentation and terminology cleanup, not blockers to structural signoff.
 
 The Monster Manual should be considered structurally improved when the following are true:
 
@@ -527,10 +540,10 @@ The Monster Manual should be considered structurally improved when the following
 
 ## Suggested Next Pass
 
-If work continues from this document, the most efficient next editing pass is:
+The final cleanup sweep described in this plan has now been completed:
 
-1. Run a repo-wide post-conversion sweep for any stray benchmark-era prose or sample-encounter shorthand that survived outside the core chapter status notes.
-2. After the TV pass, do subsection-label wording cleanup across all nine chapters.
-3. Then do any remaining boss/action-economy review as a narrow balancing pass instead of a schema pass.
+1. A repo-wide post-conversion sweep cleared the remaining live encounter-shorthand survivors.
+2. Subsection-label wording cleanup was completed across all nine chapters by normalizing `### Statistics`.
+3. The remaining prose terminology search found no live `Health` wording in the chapter files, so further cleanup is optional editorial polish rather than required remediation.
 
-That sequence finishes the plan's remaining consistency work before any further discretionary rebalance.
+Any later rebalance or presentation pass would be discretionary rather than required for structural signoff.

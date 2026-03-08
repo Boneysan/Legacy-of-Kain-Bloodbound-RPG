@@ -39,7 +39,7 @@ The Cult of the Abyss worships the Elder God and the promise of oblivion. These 
 
 They wear tattered robes marked with spiral sigils and carry crude weapons blessed in blood rituals. Their eyes are vacant, pupils dilated from hallucinogenic toxins used in cult ceremonies.
 
-### Stats
+### Statistics
 - **HP**: 10
 - **Defense Value (DV)**: 2
 - **Difficulty Rating (DR)**: 1 (Will and Focus saves)
@@ -102,7 +102,7 @@ Once, these were holy men and women who served the Circle of Nine, blessing the 
 
 Forsaken Priests maintain the trappings of their former lives—holy symbols, robes, prayer books—but their blessings now carry curses, and their light has turned to shadow. They see themselves as realists who chose survival over sanctimony.
 
-### Stats
+### Statistics
 - **HP**: 24
 - **Defense Value (DV)**: 3
 - **Difficulty Rating (DR)**: 2 (all saves)
@@ -177,7 +177,7 @@ Time is broken in Nosgoth. The Time Streaming Chambers lie shattered, the Pillar
 
 Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are harmless madmen. Others are dangerous, their visions granting uncanny tactical awareness. A few were once agents of Moebius, the Time Streamer, their minds still bound by enchantments he placed before his death. They serve a dead master's designs without knowing the architect is gone.
 
-### Stats
+### Statistics
 - **HP**: 20
 - **Defense Value (DV)**: 4 (precognition)
 - **Difficulty Rating (DR)**: 3 (Will and Focus saves, representing mental fortitude)
@@ -256,7 +256,7 @@ Inquisitors are veteran hunters who have slain dozens of vampires. They know the
 
 However, the Sarafan's fanaticism often blinds them to nuance. They see only "pure" and "corrupt," and in their eyes, anyone who wields dark magic—even to fight greater evils—is damned.
 
-### Stats
+### Statistics
 - **HP**: 40
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 3 (all saves)
@@ -334,7 +334,7 @@ They were cast out from civilized society for crimes ranging from theft to murde
 
 Raiders are opportunistic. They ambush small groups, avoid fair fights, and retreat when outmatched. They're cowards at heart, but cornered cowards are dangerous.
 
-### Stats
+### Statistics
 - **HP**: 22
 - **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 1 (all saves)
@@ -405,7 +405,7 @@ They inscribe runes on their skin and tattoos on their flesh, each symbol a cond
 
 Black Rune Warlocks serve no master but themselves. They may ally with cults, vampires, or Hylden agents, but only when it serves their goals. They are cunning, paranoid, and utterly ruthless.
 
-### Stats
+### Statistics
 - **HP**: 32
 - **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 3 (Will and Soul saves), 2 (Physical saves)
@@ -483,7 +483,7 @@ Bleeding Eye Assassins are masters of infiltration, poison, and precision strike
 
 They are not inherently evil, merely professional. Some even claim to follow a code: they only kill their contracted target and avoid collateral damage. Whether this is honor or pragmatism is unclear.
 
-### Stats
+### Statistics
 - **HP**: 38
 - **Defense Value (DV)**: 6 (agile and trained to evade)
 - **Difficulty Rating (DR)**: 3 (Shadow and Focus saves), 2 (other saves)
@@ -560,7 +560,7 @@ Witch-Hunter Commanders lead squads of mortal soldiers and specialists. They are
 
 Their armor is inscribed with runes designed to disrupt magic. Their weapons are forged to cut through magical barriers. They are the bane of Warlocks, Cultists, and corrupted spellcasters.
 
-### Stats
+### Statistics
 - **HP**: 45
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 3 (all saves, trained resilience)
@@ -632,7 +632,7 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 ### Lore
 The outer ring of Hash'ak'gik's worship—mortals seduced by visions of a god that predates the Wheel. Acolytes have undergone preliminary blood-rites at Avernus Cathedral or one of its satellite cells, granting them minor demonic resilience and an unsettling calm. They appear normal—merchants, laborers, minor clergy—until the blood-prayer is spoken and their eyes go flat and dark. They fight with disturbing coordination, as if guided by a single will.
 
-### Stats
+### Statistics
 - **HP**: 12
 - **Defense Value (DV)**: 2
 - **Save DCs**: DR 1 (Will), DR 2 (Focus)
@@ -683,7 +683,7 @@ Acolytes activate Blood-Prayer in the first round, then advance in tight formati
 ### Lore
 A mortal hollowed out by Hash'ak'gik's will and rebuilt as a living conduit for demonic power. Vessels retain their original memories, personality, and social connections—making them nearly impossible to identify until they act. A town mayor, a trusted healer, a beloved priest—any of them could be a Vessel, smiling and serving the community by day, conducting blood-rites by night. When the demon's will surges through them, their eyes go black, their voice drops an octave, and the air around them tastes of copper and ash.
 
-### Stats
+### Statistics
 - **HP**: 35
 - **Defense Value (DV)**: 4
 - **Save DCs**: DR 3 (all saves)
@@ -744,7 +744,7 @@ In battle, the Grand Inquisitor is a force multiplier. Their prayers empower all
 
 For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mortal who cannot be intimidated, cannot be corrupted, and will never, ever stop hunting them.
 
-### Stats
+### Statistics
 - **HP**: 75
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 4 (all saves)
@@ -839,7 +839,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 
 **Narrative Note:** The Turning is designed as a moral encounter. The creature was recently a person — possibly someone the party knew. A successful Rituals check can save them. This creates tension between "kill the monster" and "save the victim."
 
-### Stats
+### Statistics
 - **HP**: 55
 - **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 3 (Physical and Blood saves), 2 (others)
@@ -1075,7 +1075,7 @@ A Warlord never fights alone. They command personal retinues of elite Inquisitor
 
 When a Sarafan Warlord marches to war, the earth trembles not from magic, but from the synchronized footsteps of their army.
 
-### Stats
+### Statistics
 - **HP**: 100
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 4 (all saves)
@@ -1175,7 +1175,7 @@ Most Footsoldiers are conscripts from mortal settlements, given a spear, a tabar
 
 They function as the ground troops of any Sarafan encounter — expendable, collectively dangerous, and the face the Order presents to ordinary Nosgothians.
 
-### Stats
+### Statistics
 - **HP:** 6
 - **DV:** 3 (1 + Will 1 + Armor 1)
 - **Armor:** 1 (light mail and breastplate)
@@ -1233,7 +1233,7 @@ Outriders are the Sarafan Order's rapid response troops — light cavalry scouts
 
 They are practical in a way many Sarafan are not. An Outrider doesn't care about the theology of the purge — they care about the kill count and getting home before dawn. They carry a crossbow for range and a short sword for the inevitable up-close desperation that vampire hunting entails, and they know how to read tracks, scent blood, and identify an escape route before combat begins.
 
-### Stats
+### Statistics
 - **HP:** 14
 - **DV:** 4 (1 + Focus 3)
 - **Armor:** 1 (reinforced leather)
@@ -1292,7 +1292,7 @@ Most people in Nosgoth are just trying to survive. They're farmers, traders, fis
 
 Commoners should appear in most urban and rural encounters as ambient inhabitants — not threats, but witnesses, collateral, and narrative anchors. They will beg, plead, hide, flee, occasionally provide crucial information, and sometimes do something genuinely brave out of desperation. They are Nosgoth's texture.
 
-### Stats
+### Statistics
 - **HP:** 5
 - **DV:** 2
 - **Armor:** 0
@@ -1339,7 +1339,7 @@ Rune-Forgers are mortal craftsmen and scholars who have discovered (or been taug
 
 A Rune-Forger at work is a methodical, deliberate practitioner: they prepare the battlefield before combat begins, laying glyphs and trip-wards that turn the physical space into an extension of their spellwork. In direct confrontation, they are less impressive — their primary function is preparation, not combat. But a well-prepared Rune-Forger in their workshop is a seriously dangerous encounter, and one who has had time to activate their defenses early is a puzzle as much as a fight.
 
-### Stats
+### Statistics
 - **HP:** 28
 - **DV:** 4 (1 + Focus 3)
 - **Armor:** 1 (studded leather, reinforced with minor warding runes)

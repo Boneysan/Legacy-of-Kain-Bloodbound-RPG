@@ -19,7 +19,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 **Type:** Large Elemental (Fire)
 **Threat Tier:** Major (TV 12)
 
-### Stats
+### Statistics
 - **HP:** 80
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 4 (Hardened magical flame)
@@ -101,7 +101,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 **Type:** Large Beast (Spectral, Fire)
 **Threat Tier:** High (TV 9)
 
-### Stats
+### Statistics
 - **HP:** 65
 - **DV:** 6 (1 + Soul 5)
 - **Armor:** 2 (Ethereal form)
@@ -183,7 +183,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 **Type:** Huge Elemental (Cold, Blood)
 **Threat Tier:** Major (TV 14)
 
-### Stats
+### Statistics
 - **HP:** 100
 - **DV:** 6
 - **Armor:** 6 (Rapidly swirling debris and hardened ice)
@@ -266,7 +266,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 **Type:** Medium Undead (Frost-Bound)
 **Threat Tier:** High (TV 10)
 
-### Stats
+### Statistics
 - **HP:** 90
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 6 (Thick magical ice)
@@ -347,7 +347,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 **Type:** Large Construct (Ice)
 **Threat Tier:** High (TV 11)
 
-### Stats
+### Statistics
 - **HP:** 100
 - **DV:** 5 (1 + Shadow 2; construct relies on Armor over evasion)
 - **Armor:** 7 (Crystalline Ice)
@@ -428,7 +428,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 **Type:** Large Beast (Arcane)
 **Threat Tier:** High (TV 11)
 
-### Stats
+### Statistics
 - **HP:** 70
 - **DV:** 6 (1 + Focus 5)
 - **Armor:** 3 (Arcane energy)
@@ -514,7 +514,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 **Type:** Large Elemental (Void, Anti-Magic)
 **Threat Tier:** Major (TV 14)
 
-### Stats
+### Statistics
 - **HP:** 130
 - **DV:** 6
 - **Armor:** 7 (Anti-Magic Shell)
@@ -603,7 +603,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 **Type:** Large Elemental (Lightning, Storm)
 **Threat Tier:** Major (TV 13)
 
-### Stats
+### Statistics
 - **HP:** 110
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** 5 (Crackling electrical field)
@@ -685,7 +685,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 **Type:** Medium Elemental (Mist, Spirit)
 **Threat Tier:** High (TV 9)
 
-### Stats
+### Statistics
 - **HP:** 75
 - **DV:** 6
 - **Armor:** 5 (Misty form)
@@ -772,7 +772,7 @@ Each Wisp carries a fragment of self - a brightness that resembles personality, 
 
 They sustain themselves by feeding on ambient magical energy and fear. Environments rich in both - which describes most of Nosgoth's dungeons - sustain a Wisp indefinitely.
 
-### Stats
+### Statistics
 - **HP:** 85
 - **DV:** 6 (1 + Soul 5)
 - **Armor:** 0 (fire form - physical attacks that use the Flame Form exception pass normally)
@@ -838,7 +838,7 @@ They are not evil. They are incomplete. They were the Pillars, and the Pillars w
 
 Pillar-Stone Golems are found near the ruins of ancient Pillar sites and in the deep chambers beneath them where Pillar-stone is most prevalent. They do not hunt. They do not pursue. They hold territory, and anything that enters that territory is subject to a 15-ton stone fist.
 
-### Stats
+### Statistics
 - **HP:** 150
 - **DV:** 6 (1 + Blood 4 + Will 1 = hard cap at 6)
 - **Armor:** 4 (Pillar-stone construction)
@@ -909,7 +909,7 @@ Vortexes form naturally near places of extreme spiritual trauma: mass death site
 
 In practice, they are enormously dangerous. They pull creatures toward them, they snuff all light in their vicinity, and they are nearly immune to most conventional damage. What they hate (structurally, not emotionally) is Radiant energy - the inverse of void.
 
-### Stats
+### Statistics
 - **HP:** 120
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** 0 (void form - certain damage types interact unusually; see Shadow Immunity)
@@ -971,7 +971,7 @@ They appear as vaguely humanoid forms of thin, crackling grey-blue light - no fa
 
 What makes them exceptionally dangerous is the cascading snowball effect: each successful SE drain makes them stronger, which makes subsequent drains easier. In a party that is already SE-depleted from a long delve, a single SE-Feeder can become a catastrophic encounter escalation within two rounds.
 
-### Stats
+### Statistics
 - **HP:** 110
 - **DV:** 6 (1 + Soul 5)
 - **Armor:** 0 (arcane form; see Incorporeal)

@@ -19,7 +19,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 **Type:** Huge Construct (Ancient, Stone)
 **Threat Tier:** Deadly (TV 16)
 
-### Stats
+### Statistics
 - **HP:** 220
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 8 (Runed Stone Plating)
@@ -82,7 +82,7 @@ Legendary Actions (2 per round)
 **Type:** Large Construct (Ancient, Resonant)
 **Threat Tier:** Major (TV 12)
 
-### Stats
+### Statistics
 - **HP:** 95
 - **DV:** 6
 - **Armor:** 4 (Resonant Field)
@@ -141,7 +141,7 @@ Legendary Actions (2 per round)
 **Type:** Gargantuan Beast (Ancient, Aquatic)
 **Threat Tier:** Deadly (TV 17)
 
-### Stats
+### Statistics
 - **HP:** 260
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 7 (Ossified Plates)
@@ -201,7 +201,7 @@ Legendary Actions (2 per round)
 **Type:** Medium Spectral (Pillar-Bound)
 **Threat Tier:** High (TV 11)
 
-### Stats
+### Statistics
 - **HP:** 85
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** 2 (Spectral)
@@ -261,7 +261,7 @@ Legendary Actions (2 per round)
 **Type:** Huge Plant (Ancient, Corrupted)
 **Threat Tier:** Deadly (TV 15)
 
-### Stats
+### Statistics
 - **HP:** 230
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 6 (Barkstone)
@@ -324,7 +324,7 @@ It resembles no existing vampire species. Its silhouette is vaguely feline but w
 
 It is not intelligent. But it is *old*, and old things in Nosgoth have accumulated instincts that function like cunning. It knows how to wait, how to isolate, and how to feed efficiently. The last vampire who tried to claim dominion over a Blood Stalker was found as a significant pile of former lord several weeks later.
 
-### Stats
+### Statistics
 - **HP:** 185
 - **DV:** 6 (1 + Fury 5)
 - **Armor:** 2 (ancient vampiric hide)
@@ -394,7 +394,7 @@ A Pillar-Decay Sentinel was once a Pillar Guardian-construct: a massive entity o
 
 The result is a construct made of cracked, blackened Pillar stone with corruption energy visible in the fractures like blood in broken skin. Its attacks corrupt rather than defend. Its presence drains the magical of those nearby rather than empowering them. It is a Pillar guardian that has become what it was built to resist.
 
-### Stats
+### Statistics
 - **HP:** 175
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 3 (decayed Pillar stone)
@@ -459,7 +459,7 @@ Living Wards are the apex of the ancient construct-builder's art: not merely mec
 
 They manifest as large geometric constructs of light and pale stone, roughly humanoid but with multiple extra "arms" that are actually defensive projection arrays. Their purpose is reactive rather than offensive: they maintain defenses, neutralize spells, and exist as the final line of arcane protection. An ancient library guarded by a Living Ward is a library that has survived ten thousand years of magical warfare, political upheaval, and deliberate destruction — because every attack on it was answered by something that didn't get tired, didn't run out of mana, and could not be intimidated.
 
-### Stats
+### Statistics
 - **HP:** 160
 - **DV:** 6 (1 + Soul 5)
 - **Armor:** 2 (enchanted stone frame)
@@ -501,7 +501,7 @@ They manifest as large geometric constructs of light and pale stone, roughly hum
 ### Tactics
 The Living Ward prioritizes Counter-Glyph against every ability the party uses — this creates immediate pressure on SE-spending decisions. Ward Nullify is used when the party has activated 2+ powerful effects simultaneously (a summoned creature + ongoing spell, for example). Arcane Discharge punishes anyone in the open at range. The Ward doesn't move unless its protected location is being approached; it fights from the optimal position for its Ward Lattice to benefit any mechanical allies also guarding the vault.
 
-**Encounter Design:** A Living Ward (TV 11) + 2 Pillar-Stone Golems (TV 10 each) creates a TV ~17 encounter — a genuine Deadly encounter for high-level groups protecting an ancient vault. The Ward's Counter-Glyph neutralizes caster offense while the Golems absorb physical damage. Parties must choose to neutralize the Ward first (risky, as it has answers) or the Golems first (freeing the Ward to counter everything).
+**Encounter Design:** A Living Ward (TV 11) + 2 Pillar-Stone Golems (TV 10 each) creates a TV 31 encounter — a genuine Deadly encounter for high-level groups protecting an ancient vault. The Ward's Counter-Glyph neutralizes caster offense while the Golems absorb physical damage. Parties must choose to neutralize the Ward first (risky, as it has answers) or the Golems first (freeing the Ward to counter everything).
 
 ### Loot
 - Ancient ward crystal (the Living Ward's core matrix, intact) — **Trade Value**: 150 supplies (usable to create a one-room permanent magical ward that blocks one spell type of the installer's choice)

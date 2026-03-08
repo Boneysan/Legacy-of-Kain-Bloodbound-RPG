@@ -45,7 +45,7 @@ These wolves have adapted to darkness. Their eyes reflect even the faintest ligh
 
 Unlike their mundane cousins, Dire Cave Wolves are intelligent enough to recognize magical threats. They avoid spellcasters when possible and target weaker, isolated prey.
 
-### Stats
+### Statistics
 - **HP**: 24
 - **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 1 (all saves)
@@ -120,7 +120,7 @@ Unlike true dragons, Drakes cannot speak or cast spells. However, they possess a
 
 Drakes are solitary hunters, but mated pairs will defend their nests to the death. Their eggs are highly valuable to alchemists and collectors.
 
-### Stats
+### Statistics
 - **HP**: 45
 - **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 2 (Physical saves), 1 (Mental saves)
@@ -200,7 +200,7 @@ Glimmerback Lizards are small, skittish reptiles that inhabit forests and swamps
 
 Despite their fragility, Glimmerbacks have a defensive mechanism: when threatened, they release a blinding flash of light from their scales and sprint away. They're more valuable alive than dead, making them targets for trappers and traders.
 
-### Stats
+### Statistics
 - **HP**: 8
 - **Defense Value (DV)**: 4 (small and fast)
 - **Difficulty Rating (DR)**: 0 (all saves, very fragile)
@@ -260,7 +260,7 @@ These creatures are aggressive and territorial, attacking anything that enters t
 
 Consuming Blight-Boar meat causes illness in mortals. Even vampires find their blood tainted and foul.
 
-### Stats
+### Statistics
 - **HP**: 28
 - **Defense Value (DV)**: 3
 - **Difficulty Rating (DR)**: 2 (Physical saves, tough), 0 (Mental saves, mindless)
@@ -330,7 +330,7 @@ Some vampires gift Bloodgullet Hounds to favored thralls as guards. Others relea
 
 Unlike normal dogs, Bloodgullets are viciously intelligent. They can track prey across vast distances, recognize spellcasters by scent, and coordinate ambushes.
 
-### Stats
+### Statistics
 - **HP**: 26
 - **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 2 (Physical saves), 1 (Mental saves)
@@ -402,7 +402,7 @@ Trolls are solitary and territorial. They claim sections of mountains or forests
 
 Despite their fearsome reputation, Trolls can be bargained with if approached cautiously. They understand simple language and will sometimes allow passage in exchange for food or shiny objects.
 
-### Stats
+### Statistics
 - **HP**: 50
 - **Defense Value (DV)**: 4 (large target, slow)
 - **Difficulty Rating (DR)**: 3 (Physical saves, tough), 1 (Mental saves, dumb)
@@ -480,7 +480,7 @@ These bears are fiercely territorial and will defend their dens to the death. Th
 
 Despite their fearsome appearance, Bramblehide Bears are still animals. They can be scared off with fire, loud noises, or overwhelming force-if encountered early enough.
 
-### Stats
+### Statistics
 - **HP**: 48
 - **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 3 (Physical saves), 1 (Mental saves)
@@ -557,7 +557,7 @@ These cougars are solitary hunters, stalking prey across vast territories. They'
 
 Their most unsettling trait is their ability to seemingly vanish mid-combat, only to reappear behind their prey seconds later.
 
-### Stats
+### Statistics
 - **HP**: 40
 - **Defense Value (DV)**: 6 (phasing makes them hard to hit)
 - **Difficulty Rating (DR)**: 3 (Shadow saves), 2 (other saves)
@@ -635,7 +635,7 @@ Blightmaw Alphas are solitary territorial hunters. They tolerate no other large 
 
 *Cross-Reference: Blightmaw corruption patterns indicate Hylden activity in the region. See Chapter 6: Hylden Forces for environmental corruption rules.*
 
-### Stats
+### Statistics
 - **HP**: 60
 - **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 3 (Physical and Blood saves), 2 (other saves)
@@ -863,7 +863,7 @@ The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the a
 
 > **Cross-Reference:** For lesser variants, see Nosgothian Drake (Ch4 -2). For construct-drake hybrids, see Ch5. For Hylden-influenced beasts, see Blight-Boar (Ch4 -4) and the Hylden War-Stalker concept in Ch6.
 
-### Stats
+### Statistics
 - **HP**: 160
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 4 (Physical saves), 3 (Mental saves)
@@ -961,7 +961,7 @@ Blightwater Eels haunt the polluted rivers, flooded ruins, and stagnant lakes of
 
 In the years since the Pillars began to fail, Blightwater Eels have become increasingly common in areas near old sanctums and collapsed Pillar sites where contaminants leach into groundwater. Fishermen returning from blight-touched rivers who report losing nets to something large and aggressive are usually describing an Eel's territory.
 
-### Stats
+### Statistics
 - **HP**: 14
 - **DV**: 3
 - **Armor**: 1 (thick hide)
@@ -1022,7 +1022,7 @@ Nosgoth's rat population has never been modest, and in the years of Pillar corru
 
 A single rat is an annoyance. Two hundred are a hazard. Plague Rat Swarms don't kill strong opponents directly - they wear them down, contaminate their wounds, and make an already-dangerous dungeon significantly more miserable to navigate.
 
-### Stats
+### Statistics
 - **HP**: 10
 - **DV**: 2
 - **Armor**: 0
@@ -1077,7 +1077,7 @@ Tunnelworms are large, eyeless burrowing creatures - fifteen to twenty feet long
 
 They have no intelligence beyond predatory instinct, but they are extremely effective at that one thing. A Tunnelworm lurking beneath a dungeon floor is indistinguishable from solid earth - until it erupts upward.
 
-### Stats
+### Statistics
 - **HP**: 16
 - **DV**: 3
 - **Armor**: 2 (thick ringed hide)
@@ -1137,7 +1137,7 @@ Raptors have always been Nosgoth's apex aerial hunters - fast, precise, and adap
 
 They are no longer strictly animals; the Corruption has given them a rudimentary predator-awareness that extends beyond normal instinct. They recognize magic as a threat, seek out the most powerful-seeming creature in a group when territorial, and react poorly to radiant light.
 
-### Stats
+### Statistics
 - **HP**: 6
 - **DV**: 4 (nimble, airborne)
 - **Armor**: 0
@@ -1200,7 +1200,7 @@ In small numbers they are an irritant. In large numbers - as they appear after h
 
 The creature is not intelligent; it operates entirely on chemical detection of warmth and blood. But the corrupted ichor it injects is alarmingly effective, and a host with a dozen attached Leeches faces serious Corruption accumulation between combat rounds.
 
-### Stats
+### Statistics
 - **HP**: 4
 - **DV**: 3 (small and slippery)
 - **Armor**: 0
@@ -1267,7 +1267,7 @@ The truth matters little to anything that shares the water with one. Tide-Drakes
 
 The Rahabim have a nuanced relationship with Tide-Drakes. They cannot be tamed, but they can be tolerated. Rahabim clans mark territories patrolled by Tide-Drakes as effectively guarded. In some submerged keeps, Tide-Drakes have become de facto wardens - keeping land-intruders out better than any lock.
 
-### Stats
+### Statistics
 - **HP**: 50
 - **DV**: 5 (3 natural + 2 aquatic agility bonus while submerged)
 - **Armor**: 3 (thick bony plates along spine and flanks)

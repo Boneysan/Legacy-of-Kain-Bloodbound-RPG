@@ -47,7 +47,7 @@ Clockwork Knights are built to fight in formation, using coordinated tactics and
 
 Their core weakness is their rigid programming. They cannot adapt to unexpected tactics and will follow orders to their destruction. Additionally, their glyph-powered cores can be disrupted by anti-magic effects or overloaded by lightning.
 
-### Stats
+### Statistics
 - **HP**: 50
 - **Defense Value (DV)**: 6
 - **Save DR** *(saves against this creature's abilities)*: 3 (Physical saves), 0 (Mental saves, immune)
@@ -127,7 +127,7 @@ Sentinels stand dormant for centuries, appearing as statues or architectural fea
 
 Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it guards. Some wield massive stone weapons. Others reshape their bodies mid-combat, growing new limbs or armor plates.
 
-### Stats
+### Statistics
 - **HP**: 120
 - **Defense Value (DV)**: 5
 - **Save DR** *(saves against this creature's abilities)*: 4 (Physical saves), 3 (Magical saves), 0 (Mental, immune)
@@ -221,7 +221,7 @@ Most golems are obedient and harmless—unless their master is threatened. When 
 
 Golems are common in ancient ruins, left behind by long-dead mages. They'll attack intruders unless given a command word (which few know) or convinced they're authorized visitors.
 
-### Stats
+### Statistics
 - **HP**: 30
 - **Defense Value (DV)**: 3
 - **Save DR** *(saves against this creature's abilities)*: 2 (Physical saves), 1 (Magical saves), 0 (Mental, immune)
@@ -298,7 +298,7 @@ These constructs are fast, aggressive, and unpredictable. The trapped soul somet
 
 Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often found in packs, coordinated by Hylden Warlords or Flesh Architects.
 
-### Stats
+### Statistics
 - **HP**: 42
 - **Defense Value (DV)**: 6
 - **Save DR** *(saves against this creature's abilities)*: 2 (Physical saves), 3 (Soul saves), 1 (Mental saves)
@@ -377,7 +377,7 @@ Each Automaton is covered in shifting glyphs that change color and pattern based
 
 They're rare, found only in the deepest vaults and most secure ruins. Encountering one means the party has stumbled onto something important—and dangerous.
 
-### Stats
+### Statistics
 - **HP**: 55
 - **Defense Value (DV)**: 5
 - **Save DR** *(saves against this creature's abilities)*: 3 (all saves), 0 (Mental, immune)
@@ -458,7 +458,7 @@ The Hylden used Soul-Towers to besiege cities and break fortress walls. They're 
 
 Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those that remain lie dormant in ancient battlefields, waiting for Hylden agents to reactivate them. When awakened, they're apocalyptic threats capable of razing entire settlements.
 
-### Stats
+### Statistics
 - **HP**: 200
 - **Defense Value (DV)**: 4 (large target, slow)
 - **Save DR** *(saves against this creature's abilities)*: 5 (Physical saves), 4 (Magical saves), 0 (Mental, immune)
@@ -556,7 +556,7 @@ These constructs resemble skeletal humanoids made of bronze and glass, with glow
 
 Scribes are valuable sources of information. They can answer questions about their archive's contents, though they speak in formal, archaic language and require precise phrasing. They're also surprisingly dangerous when provoked, using their knowledge of combat techniques and anatomical weak points to fight intruders.
 
-### Stats
+### Statistics
 - **HP**: 28
 - **Defense Value (DV)**: 4
 - **Save DR** *(saves against this creature's abilities)*: 2 (Physical saves), 3 (Magical saves), 0 (Mental, immune)
@@ -635,7 +635,7 @@ Individually, they're weak. In swarms, they're deadly. They use hit-and-run tact
 
 Drones are often the first encounter players have with Hylden technology. Their presence indicates Hylden activity nearby—and worse threats to come.
 
-### Stats
+### Statistics
 - **HP**: 10
 - **Defense Value (DV)**: 5 (small and fast)
 - **Save DR** *(saves against this creature's abilities)*: 1 (Physical saves), 0 (Mental, immune)
@@ -706,7 +706,7 @@ Wardens stand ten feet tall, their bodies a seamless fusion of grey stone and si
 
 They guard the most important sites in Nosgoth: Pillar vaults, ancient libraries, sealed tombs, and dimensional barriers. A Rune-Forged Warden does not negotiate, does not tire, and does not leave its post. They have stood sentinel for thousands of years, and they will stand for thousands more — or until someone breaks them.
 
-### Stats
+### Statistics
 - **HP**: 60
 - **Defense Value (DV)**: 5
 - **Save DR** *(saves against this creature's abilities)*: 3 (Physical saves), 2 (Mental saves — partially immune)
@@ -967,7 +967,7 @@ Most existing Restoration Engines are millennia old, and many have degraded — 
 
 In combat, a Restoration Engine is not a primary threat. It exists to sustain allies. But a pack of enemies with a Restoration Engine is dramatically more durable, and pulling the Engine's attention away from healing often requires attacking it directly — which activates its suppression defenses.
 
-### Stats
+### Statistics
 - **HP**: 30
 - **DV**: 4
 - **Armor**: 2 (stone casing)
@@ -1039,7 +1039,7 @@ Most are inert — deactivated for centuries, waiting for a command signal that 
 
 A party that kills a Glyph Spider before it can retreat probably prevented a Rune-Forged Warden from receiving the alert. Probably.
 
-### Stats
+### Statistics
 - **HP**: 5
 - **DV**: 4 (nimble, small)
 - **Armor**: 0
@@ -1106,7 +1106,7 @@ They manifest as softly glowing geometric shapes (usually a ring or lattice of l
 
 Most Animated Wards are paired with other constructs or physical doors — they are not meant to win a fight alone, but to stall, harm, and control while heavier reinforcements respond.
 
-### Stats
+### Statistics
 - **HP**: 12
 - **DV**: 4
 - **Armor**: 0

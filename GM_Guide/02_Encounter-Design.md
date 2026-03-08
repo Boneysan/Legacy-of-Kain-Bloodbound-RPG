@@ -487,7 +487,7 @@ The examples below illustrate how to build encounters for each difficulty band. 
   - Phase 3 (33% HP): Lord goes into Mist Form and Blood Frenzy
 - **Win Condition:** Reduce lord to 0 HP (warriors flee if lord dies)
 
-**All-MM equivalent (TV ~60):** Use Vorador (MM Ch9, TV as printed) or the Dimension Lord's peak scaling (MM Ch9) as the central threat. Pair with 6–8 Grave-Knights (MM Ch1, Elite TV 2 each = TV 12–16) and 2–4 Sarafan Footsoldiers (MM Ch3, Minion TV 3 each = TV 6–12). Adjust the final count until the total reaches roughly 150% of party TV.
+**All-MM equivalent (target about TV 90):** For a Level 15 party, build this as a true Deadly endgame force rather than a faux TV 60 analogue. Start with Vorador (MM Ch9, TV 18) or a Dimension Lord at peak scaling (MM Ch6, TV 18), then add high-tier undead, vampire, or Sarafan support until the final total reaches about TV 90 (150% of party TV). That keeps the example on the same absolute-TV budgeting model as the rest of the guide.
 
 ---
 

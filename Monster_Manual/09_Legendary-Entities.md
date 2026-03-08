@@ -22,7 +22,7 @@ Guidance:
 **Type:** Medium Undead (Vampire, Spectral)
 **Threat Tier:** Deadly (TV 18)
 
-### Stats
+### Statistics
 - **HP:** 210
 - **DV:** 6
 - **Armor:** 7 (Spectral Resilience)
@@ -93,7 +93,7 @@ Regional Effects
 **Type:** Medium Humanoid (Vampire, Temporal)
 **Threat Tier:** Deadly (TV 17)
 
-### Stats
+### Statistics
 - **HP:** 190
 - **DV:** 6
 - **Armor:** 7 (Temporal Plate)
@@ -164,7 +164,7 @@ Regional Effects
 **Type:** Medium Spectral (Pillar Guardian)
 **Threat Tier:** Deadly (TV 16)
 
-### Stats
+### Statistics
 - **HP:** 160
 - **DV:** 6
 - **Armor:** 4
@@ -242,7 +242,7 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 **Type:** Medium Humanoid (Mortal, Corrupted)
 **Threat Tier:** Deadly (TV 15)
 
-### Stats
+### Statistics
 - **HP:** 130
 - **DV:** 6
 - **Armor:** 5
@@ -312,7 +312,7 @@ Regional Effects
 **Type:** Large Aberration (Abyssal)
 **Threat Tier:** Deadly (TV 19)
 
-### Stats
+### Statistics
 - **HP:** 240
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** 7 (Abyssal Plate)
@@ -393,7 +393,7 @@ Regional Effects
 **Type:** Gargantuan Aberration (Elder God Tendril)
 **Threat Tier:** Apex (TV 22)
 
-### Stats
+### Statistics
 - **HP:** 350
 - **DV:** 6
 - **Armor:** 11 (Calcified God-Flesh)
@@ -535,7 +535,7 @@ Regional Effects
 **Type:** Medium Humanoid (Vampire, Psychic)
 **Threat Tier:** Deadly (TV 16)
 
-### Stats
+### Statistics
 - **HP:** 150
 - **DV:** 6
 - **Armor:** 5
@@ -602,7 +602,7 @@ Regional Effects
 **Type:** Medium Undead (Sarafan, Holy)
 **Threat Tier:** Deadly (TV 17)
 
-### Stats
+### Statistics
 - **HP:** 180
 - **DV:** 6
 - **Armor:** 6 (Sanctified Plate)
@@ -673,7 +673,7 @@ Regional Effects
 **Type:** Medium Spectral (Ancient, Arcane)
 **Threat Tier:** Deadly (TV 16)
 
-### Stats
+### Statistics
 - **HP:** 140
 - **DV:** 6
 - **Armor:** 5
@@ -743,7 +743,7 @@ An Echo of Moebius is not Moebius himself. It is a consequence of his millennia 
 
 They do not intend harm precisely. They are temporal coherence agents, attempting to preserve certain timeline outcomes. If the party is about to do something that disrupts a preserved-outcome, an Echo will oppose them — purposefully, intelligently, and with tools that bend the rules of time itself.
 
-### Stats
+### Statistics
 - **HP:** 210
 - **DV:** 6 (1 + Focus 5)
 - **Armor:** 2 (temporal ward — attacks are slightly anticipated before they land)
@@ -813,7 +813,7 @@ When the circle broke and the Guardian fell — through corruption, murder, or a
 
 The Death Guardian is everything the role was meant to prevent: an undead being with dominion over mortality itself, raising everything it kills into further service, and growing stronger with every death in its vicinity.
 
-### Stats
+### Statistics
 - **HP:** 230
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 3 (deathplate — forged from the bones of a thousand slain)
@@ -887,7 +887,7 @@ He is not a villain in the traditional sense. He is a man of principle — vampi
 
 Encountering Vorador is not something that happens by accident. It happens because someone brought him into the story, either by seeking him out or by doing something profound enough to draw his attention. He will not be fought idly. If the party has earned his respect (or his contempt), the encounter will be one of the most memorable in the campaign.
 
-### Stats
+### Statistics
 - **HP:** 250
 - **DV:** 6 (1 + Blood 5)
 - **Armor:** 2 (supernatural resilience; millennia of self-hardening)
@@ -963,7 +963,7 @@ A Hylden Overlord is the product of this: one of the ancient generals who entere
 
 An Overlord is the supreme field commander of any Hylden incursion — the decision-maker, the ritual director, and the most personally powerful combatant the Hylden field. Fighting one requires not just power but strategy.
 
-### Stats
+### Statistics
 - **HP:** 260
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 3 (Hylden warpplate — dimensionally phased armor)
@@ -1034,7 +1034,7 @@ The Overlord opens with **Tactics** aura in effect, then uses Dimensional Anchor
 **Type:** Medium Aberration (Elder God Vessel)
 **Threat Tier:** Major (TV 14)
 
-### Stats
+### Statistics
 - **HP:** 120
 - **DV:** 6
 - **Armor:** 4 (Spectral Shell)
@@ -1113,7 +1113,7 @@ Regional Effects
 **Type:** Gargantuan Aberration (Elder God, Partial Manifestation)
 **Threat Tier:** Apex (TV 20)
 
-### Stats
+### Statistics
 - **HP:** 350
 - **DV:** 6
 - **Armor:** 11 (Ageless Eldritch Mass)

@@ -49,7 +49,7 @@ Most spectral entities share:
 ### Lore
 Echo Serpents are the spectral remnants of great serpents that died in places of power. They slither through the Spectral Realm hunting souls and occasionally manifest in the Material world to feed on the living. Their bodies flicker between states, making them difficult to target.
 
-### Stats
+### Statistics
 - **HP:** 20
 - **DV:** 4 (1 + Shadow 3)
 - **Armor:** Special (Incorporeal)
@@ -100,7 +100,7 @@ Uses Phase Strike to approach through walls. Attacks isolated targets with Spect
 ### Lore
 Mirror Wraiths are souls trapped between realms, their identities fractured like shattered glass. They appear as distorted reflections of their victims, mimicking their appearance while draining their essence. Some were created by the Elder God as hunters, others are simply lost souls driven mad by their half-existence.
 
-### Stats
+### Statistics
 - **HP:** 32
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** Special (Incorporeal)
@@ -162,7 +162,7 @@ Opens with Identity Theft on strongest party member to sow chaos. Creates Life E
 ### Lore
 Soul-Eater Shades are manifestations of pure hunger from the Spectral Realm. They exist only to consume soul energy, growing more powerful with each victim. The Elder God uses them as harvesters, gathering souls for the Wheel of Fate.
 
-### Stats
+### Statistics
 - **HP:** 24
 - **DV:** 4 (1 + Shadow 3)
 - **Armor:** Special (Incorporeal)
@@ -216,7 +216,7 @@ Relentlessly pursues highest SE/Soul value target. Uses Soul Rend repeatedly, re
 ### Lore
 Spectral wolves that hunt in packs across the Material and Spectral Realms. Their mournful howls cause terror and disorientation, while their pack tactics overwhelm isolated prey.
 
-### Stats
+### Statistics
 - **HP:** 12
 - **DV:** 3 (1 + Shadow 2)
 - **Armor:** Special (Incorporeal)
@@ -262,7 +262,7 @@ Always travel in packs of 4-6. One Howler uses Disorienting Howl while others su
 ### Lore
 Silent Mourners are souls bound to places of great tragedy—battlefields, execution grounds, sites of betrayal. They cannot speak, only weep silently, but their grief is so profound it manifests as deadly force. They attack anyone who disturbs their mourning.
 
-### Stats
+### Statistics
 - **HP:** 26
 - **DV:** 4 (1 + Will 3)
 - **Armor:** Special (Incorporeal)
@@ -316,7 +316,7 @@ Remains near its bound location. Uses Aura of Sorrow to wear down enemies passiv
 ### Lore
 Phase-Beasts are creatures native to the space between realms—neither fully Material nor Spectral. They shift between states unpredictably, making them extremely difficult to fight. Scholars debate whether they're experiments of the Hylden or natural predators of planar boundaries.
 
-### Stats
+### Statistics
 - **HP:** 40
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** Special (Variable)
@@ -376,7 +376,7 @@ Uses unpredictable Phase Shift to confound enemies. Employs Blink Strike to atta
 ### Lore
 Gravewind Entities are ancient spirits of wind and death, formed in places where countless souls passed violently into the Spectral Realm. They are living storms of spectral energy, carrying the screams and regrets of thousands. Some believe they are servants of the Elder God, harvesting souls en masse.
 
-### Stats
+### Statistics
 - **HP:** 75
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** Special (Incorporeal + Resistant)
@@ -593,7 +593,7 @@ What returns is changed. Wraiths of the Abyss carry the cold of absolute nothing
 
 In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he was reborn. Wraiths of the Abyss may be echoes of that event — souls caught in the wake of Raziel's fall, forever tumbling through the space between existence and oblivion.
 
-### Stats
+### Statistics
 - **HP:** 50
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** Special (Incorporeal — immune to nonmagical physical attacks; resistant to Fire, Cold, Lightning — half damage)
@@ -676,7 +676,7 @@ Lingering Shades are the simplest form of spectral entity: souls that refused to
 
 They possess no intelligence beyond a dim awareness of the living. They don't plan, they don't flee, and they don't communicate. They simply drift, chill the air around them, and drain the life from anything foolish enough to stand still near them. In Legacy of Kain's Spectral Realm, armies of these dim remnants haunt corridors that true wraiths have long since abandoned. They are the noise floor of undeath.
 
-### Stats
+### Statistics
 - **HP:** 6
 - **DV:** 3 (1 + Shadow 2)
 - **Armor:** Special (Incorporeal — immune to nonmagical physical attacks)
@@ -730,7 +730,7 @@ Most Arcanists become territorial. They adopt a location — a library, a ruined
 
 They are dangerous combatants: range, a powerful drain ability, and enough spectral resilience to absorb significant punishment.
 
-### Stats
+### Statistics
 - **HP:** 30
 - **DV:** 5 (1 + Soul 4)
 - **Armor:** Special (Incorporeal — immune to nonmagical physical attacks; resistant to Fire and Cold — half damage)

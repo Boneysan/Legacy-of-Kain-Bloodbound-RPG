@@ -73,7 +73,7 @@ They're recognizable by their unnatural movements—joints bending at wrong angl
 
 Shock Troopers are disciplined and tactical. Unlike mindless undead or feral beasts, they use cover, coordinate flanking maneuvers, and adapt to enemy tactics. This makes them far more dangerous than their stats suggest.
 
-### Stats
+### Statistics
 - **HP**: 50
 - **Defense Value (DV)**: 5
 - **Save DR** *(saves against this creature's abilities)*: 3 (Physical and Will saves), 2 (other saves)
@@ -154,7 +154,7 @@ Flesh Architects possess frail hosts (scholars, mages, or the elderly), as they 
 
 They view flesh as clay to be molded. To them, pain and suffering are irrelevant—only results matter. They're utterly amoral, conducting experiments on prisoners and creating abominations without remorse.
 
-### Stats
+### Statistics
 - **HP**: 38
 - **Defense Value (DV)**: 4
 - **Save DR** *(saves against this creature's abilities)*: 4 (Will and Soul saves), 2 (Physical saves)
@@ -233,7 +233,7 @@ Each Abomination is unique, depending on the materials used. Some have four arms
 
 They're not truly alive—they're animated by Hylden psychic will. Severing the mental tether (killing the controller) causes them to collapse instantly.
 
-### Stats
+### Statistics
 - **HP**: 35
 - **Defense Value (DV)**: 3
 - **Save DR** *(saves against this creature's abilities)*: 2 (Physical saves), 0 (Mental saves, mindless)
@@ -303,7 +303,7 @@ Corruption Hosts serve as scouts, spies, and infiltrators for Hylden forces. The
 
 Many Corruption Hosts don't realize what's happening to them. They believe they're being "enlightened" or "evolved." This makes them tragic figures—victims who've become monsters.
 
-### Stats
+### Statistics
 - **HP**: 28
 - **Defense Value (DV)**: 4
 - **Save DR** *(saves against this creature's abilities)*: 2 (all saves)
@@ -381,7 +381,7 @@ Reavers are silent killers, using stealth and precision to eliminate high-value 
 
 They're utterly dedicated to their mission. If capture is imminent, they self-destruct, destroying their host body and all evidence of their presence.
 
-### Stats
+### Statistics
 - **HP**: 48
 - **Defense Value (DV)**: 6
 - **Save DR** *(saves against this creature's abilities)*: 4 (Shadow and Will saves), 3 (Physical saves)
@@ -461,7 +461,7 @@ Rift Engineers possess scholarly hosts (mages, priests, or researchers) and enha
 
 They're strategic thinkers, not frontline fighters. They open rifts to bring in reinforcements, retreat when threatened, and reshape battlefields to favor Hylden forces.
 
-### Stats
+### Statistics
 - **HP**: 40
 - **Defense Value (DV)**: 5
 - **Save DR** *(saves against this creature's abilities)*: 5 (Will and Soul saves), 3 (Physical saves)
@@ -550,7 +550,7 @@ Oracles possess powerful hosts (sorcerers, high priests, or royalty) and transfo
 
 They're commanders, not soldiers. They direct Hylden forces with telepathic coordination, buff allies, and debilitate enemies. Fighting an Oracle means fighting an entire Hylden army's intelligence and will.
 
-### Stats
+### Statistics
 - **HP**: 100
 - **Defense Value (DV)**: 6
 - **Save DR** *(saves against this creature's abilities)*: 5 (all saves)
@@ -637,7 +637,7 @@ Wardens don't just kill—they terrorize. They prolong fights, inflict fear, and
 
 They're often found guarding Hylden installations, prisons, or ritual sites. Encountering one means someone is being held captive nearby—and whatever the Hylden are doing to them is worse than death.
 
-### Stats
+### Statistics
 - **HP**: 55
 - **Defense Value (DV)**: 5
 - **Save DR** *(saves against this creature's abilities)*: 4 (Will saves), 3 (other saves)
@@ -716,7 +716,7 @@ Rift-Priests are recognizable by the geometric scars that cover their host’s b
 
 They serve as force multipliers for Hylden operations: opening rifts to bring reinforcements, spreading Corruption to weaken defenders, and performing rituals that permanently compromise the barrier between dimensions. A Rift-Priest left unchecked can turn an isolated incursion into a full-scale invasion.
 
-### Stats
+### Statistics
 - **HP**: 55
 - **Defense Value (DV)**: 5
 - **Save DR** *(saves against this creature's abilities)*: 4 (Will saves), 3 (other saves)
@@ -798,7 +798,7 @@ Hylden-Possessed Grunts are the lowest tier of Hylden incursion forces — expen
 
 Grunts are cannon fodder. Hylden commanders send them in waves to absorb enemy resources, scout defenses, and create chaos. They are disposable by design — the Hylden fragment within them self-destructs when the host body fails, sometimes taking nearby enemies with it.
 
-### Stats
+### Statistics
 - **HP**: 8
 - **Defense Value (DV)**: 3
 - **Difficulty Rating (DR)**: 1 (all saves)
@@ -861,7 +861,7 @@ Dimension Lords command Hylden invasion forces at the strategic level. They are 
 
 Only a handful of Dimension Lords exist. Each one represents a full-scale existential threat to a region of Nosgoth.
 
-### Stats
+### Statistics
 - **HP**: 200
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 5 (Will saves), 4 (other saves)
@@ -1065,7 +1065,7 @@ The Hylden use Grunts as expendable shock troops, scouts, and distractions. They
 
 For GMs, Grunts solve a critical gap in Hylden encounters: the need for low-tier Hylden fodder. Without them, every Hylden fight involves Elite or Boss creatures, making the faction inaccessible for lower-level parties or overwhelming in large-scale battles. Grunts provide the cannon fodder that makes combined-arms Hylden encounters possible.
 
-### Stats
+### Statistics
 - **HP**: 8
 - **Defense Value (DV)**: 3
 - **Save DR** *(saves against this creature's abilities)*: 1 (all saves)
@@ -1285,7 +1285,7 @@ War-Stalkers bear the telltale visual signatures of Hylden tampering: that sickl
 
 When their handler is killed, the psychic tether snaps, and the War-Stalker enters a full Frenzy — often more dangerous than before, because it no longer has even the rudimentary tactical direction of the Hylden binding.
 
-### Stats
+### Statistics
 - **HP**: 32
 - **DV**: 5 (1 + Fury 4)
 - **Armor**: 1 (tough hide)
