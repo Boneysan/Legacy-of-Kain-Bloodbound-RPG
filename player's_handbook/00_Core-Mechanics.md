@@ -246,7 +246,7 @@ Legacy of Kain: Bloodbound streamlines damage into six categories, each with dis
 | **Physical** (Bludgeon/Pierce/Slash) | Reduced by Armor normally | Staggered, Bleeding, Prone |
 | **Elemental** (Fire/Cold/Lightning) | Armor value **halved** (round down) | Burning, Slowed, Shocked |
 | **Force** (Telekinetic/Explosive) | **Bypasses** Armor entirely | Pushed (5-10 ft), Prone |
-| **Spectral** (Soul/Spiritual) | **Ignores** Armor; affects spirits | Soul Drain, Bypasses Armor |
+| **Spectral** (Soul/Spiritual) | **Ignores** Physical Armor; affects spirits | Soul Drain |
 | **Radiant** (Holy/Spectral Fire) | Normal; **×2 damage** vs. Undead/Spectral | Blinded, Purged |
 | **Entropic** (Necrotic/Void/Corruption) | Normal; damage **cannot be healed** without magic | Decay, Corrupted, Weakened |
 

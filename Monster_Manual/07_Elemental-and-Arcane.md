@@ -407,7 +407,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 ### Scaling Options
 
 - **Threat Value 14 (Major):** Increase HP to 140 and Armor to 9. Permafrost Zone radius increases to 30ft. Ice Wall now has 30 HP and Armor 6. Gains **Glacial Tactics (Legendary Action, 1/round)**: The Warden can create an additional Ice Wall or move an existing Permafrost Zone up to 10ft.
-- **Threat Value 17 (Deadly):** As above, but the Warden gains 2 Legendary Actions per round. Crystalline Reformation now heals 10 HP per turn. When shattered at 0 HP, the death burst deals 15 Cold damage in a 15ft radius and all creatures hit are Restrained for 1 round.
+- **Threat Value 17 (Deadly):** As above, but the Warden gains 2 Legendary Actions per round. Crystalline Reformation now heals 10 HP at the start of each turn. When shattered at 0 HP, the death burst deals 15 Cold damage in a 15ft radius and all creatures hit are Restrained for 1 round.
 
 ---
 
@@ -864,7 +864,7 @@ Pillar-Stone Golems are found near the ruins of ancient Pillar sites and in the 
 **Legendary Resistance (2/day):** If the Golem fails a save, it can choose to succeed instead.
 
 ### Tactics & Strategy
-The Pillar-Stone Golem positions itself at the center of its territory and waits. It uses Pillar Fist to target the creature dealing it the most damage (Stagger removes their next action). Stone Slam is used when 3+ PCs cluster close. Rune Burst is used when the Golem is reduced below half HP - a defensive last resort rather than an opener.
+The Pillar-Stone Golem positions itself at the center of its territory and waits. It uses Pillar Fist to target the creature dealing it the most damage (Stagger removes their next action). Stone Slam is used when 3+ PCs cluster close. Rune Burst is used while the Golem is Bloodied - a defensive last resort rather than an opener.
 
 **Encounter Design:** A Pillar-Stone Golem guarding a vault chamber creates a TV 10 encounter. Giving the party a tool to temporarily suppress Slow Recovery (via Drain Focus or Soul abilities) provides a meaningful tactical option without trivializing the fight.
 
@@ -875,7 +875,7 @@ The Pillar-Stone Golem positions itself at the center of its territory and waits
 
 ### Scaling Options
 - **Lesser Stone Golem (Boss, TV 5):** HP 95, DV 5, Armor 3, Fury 4. No Rune Burst or Slow Recovery. Stone Slam deals 7 damage. Still Immovable.
-- **Pillar-Heart Colossus (TV 15):** HP 220, DV 6, Armor 6, Fury 6, Soul 5, SE 60. Pillar Fist deals 18 damage. Stone Slam 30-foot radius, 14 damage, Prone + Staggered. Add **Pillar Wrath (Legendary Action, 3/round):** Pillar Fist (1), Stone Slam (2), Rune Burst (3, costs 3 LA). Slow Recovery heals 10 HP per turn.
+- **Pillar-Heart Colossus (TV 15):** HP 220, DV 6, Armor 6, Fury 6, Soul 5, SE 60. Pillar Fist deals 18 damage. Stone Slam 30-foot radius, 14 damage, Prone + Staggered. Add **Pillar Wrath (Legendary Action, 3/round):** Pillar Fist (1), Stone Slam (2), Rune Burst (3, costs 3 LA). Slow Recovery heals 10 HP at the start of each turn.
 
 ---
 

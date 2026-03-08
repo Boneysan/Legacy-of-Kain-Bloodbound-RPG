@@ -81,7 +81,7 @@ Corrupted Perks are chosen in place of a Universal Perk slot. Crossing a thresho
 
 **Effect (Passive):** You gain Advantage on Stealth checks in the Spectral Realm or areas of obscuring terrain (e.g., mist, darkness). Additionally, you can faintly perceive spectral entities within 15 feet (3 squares) without a skill check, though details require an Observation roll.
 
-**Drawback:** The Spectral Realm's influence frays your connection to reality; you lose 1 SE whenever you enter or remain in the Spectral Realm for more than 1 minute per scene.
+**Drawback:** The Spectral Realm's influence frays your connection to reality; after the first full minute you spend in the Spectral Realm in a scene, you lose 1 SE at the end of each additional full minute spent there.
 
 **Narrative Flavor:** The veil between realms thins for you, allowing you to move like a ghost but at the cost of your mental stability. You may hear faint, mocking laughter or see shadowy figures in your peripheral vision. This perk aligns with Wraith or Shadowmancer themes.
 
@@ -107,7 +107,7 @@ Corrupted Perks are chosen in place of a Universal Perk slot. Crossing a thresho
 
 #### Hunger's Blade
 
-**Effect (Passive):** When you deal damage with a melee weapon attack to a living creature with blood, you regain 2 HP, up to once per turn. If the target is bleeding (e.g., from a Sangromancer's Hemorrhage), the healing increases to 4 HP.
+**Effect (Passive):** When you deal damage with a melee weapon attack to a living creature with blood, you regain 2 HP, up to once per turn. If the target is Bleeding, the healing increases to 4 HP.
 
 **Drawback:** Your hunger intensifies; you must succeed on a DR 2 Will save each scene to avoid attacking or feeding on a bleeding ally within 10 feet (2 squares). Failure imposes a -1 die penalty on non-attack actions for 1 round.
 
@@ -185,7 +185,7 @@ Corrupted Perks are chosen in place of a Universal Perk slot. Crossing a thresho
 
 **Effect (Active):** As an Action, once per short rest, you emit a keening wail that affects all enemies within 30 feet (6 squares). Targets must make a DR 3 Will save. On a failure, they take 5 Spectral damage (bypassing Armor) and cannot take Reactions until the end of their next turn. On a success, they take 2 Spectral damage. Costs 2 SE.
 
-**Drawback:** Your connection to the Spectral Realm deepens; your Corruption Level increases by 1, and you lose 1 SE whenever you enter or remain in the Spectral Realm for more than 1 minute per scene until your next long rest.
+**Drawback:** Your connection to the Spectral Realm deepens; your Corruption Level increases by 1, and after the first full minute you spend in the Spectral Realm in a scene, you lose 1 SE at the end of each additional full minute spent there until your next long rest.
 
 **Narrative Flavor:** Your wail echoes with the sorrow of lost souls, your form flickering like a dying flame. Your touch grows cold, and mirrors show a gaunt, spectral version of you. This perk fits Wraiths or Shadowmancers, enhancing their spectral prowess but binding them to the Spectral Realm's torment.
 

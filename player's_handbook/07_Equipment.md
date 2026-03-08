@@ -36,7 +36,7 @@ Blood Knights wield brutal weapons infused with blood and fury, excelling in sav
 
 **Scion Blade**
 Slashing | One-handed | Melee
-6 Physical (Slashing) damage. On critical hit, inflicts Bleeding (1 dmg/round, 1d3 rounds). Gains +1 damage if wielder earned a Blood Point this round.
+6 Physical (Slashing) damage. On critical hit, inflicts standard Bleeding. Gains +1 damage if wielder earned a Blood Point this round.
 
 **Bloodfang Dagger**
 Piercing | One-handed | Melee
@@ -52,7 +52,7 @@ Soul Reavers wield ethereal weapons that channel spectral energy, bridging the M
 
 **Spectral Talons**
 Spectral | One-handed | Melee
-4 Spectral damage. Ignores physical armor. In the Spectral Realm, damage increases to 6. Can be used in either realm.
+4 Spectral damage. Ignores Physical Armor. In the Spectral Realm, damage increases to 6. Can be used in either realm.
 
 **Echoblade**
 Slashing | One-handed | Melee
@@ -60,7 +60,7 @@ Slashing | One-handed | Melee
 
 **Phantom Claws**
 Spectral | One-handed | Melee
-4 Spectral damage. Ignores physical armor. On hit, target suffers −1 die to their next roll.
+4 Spectral damage. Ignores Physical Armor. On hit, target suffers −1 die to their next roll.
 
 #### 7.1.1.3 Shadowmancer
 
@@ -88,7 +88,7 @@ Bludgeoning | Two-handed | Melee
 
 **Veinbinder Rod**
 Bludgeoning | One-handed | Melee
-4 Entropic (Necrotic) damage. On hit, target suffers Bleeding (1 dmg/round, 1d3 rounds) that cannot be stopped by non-magical means.
+4 Entropic (Necrotic) damage. On hit, target suffers standard Bleeding that cannot be stopped by non-magical means.
 
 **Crimson Spear**
 Piercing | One-handed | Reach (2 tiles)
@@ -100,7 +100,7 @@ Glyphwrights wield arcane implements inscribed with ancient sigils, enhancing st
 
 **Runic Focus Rod**
 Force | One-handed | Melee
-4 Force damage. Bypasses armor. +1 die to Glyphcasting checks while wielded.
+4 Force damage. Bypasses Armor. +1 die to Glyphcasting checks while wielded.
 
 **Wardkeeper's Mace**
 Bludgeoning | One-handed | Melee
@@ -108,7 +108,7 @@ Bludgeoning | One-handed | Melee
 
 **Glyph-Etched Wand**
 Force | One-handed | Ranged (8 tiles)
-3 Force damage. Bypasses armor. On hit, removes one ongoing magical effect from the target (DR 2 Soul + Glyphcasting check).
+3 Force damage. Bypasses Armor. On hit, removes one ongoing magical effect from the target (DR 2 Soul + Glyphcasting check).
 
 #### 7.1.1.6 Dreadblade
 
@@ -165,10 +165,10 @@ As characters grow, they can acquire improved versions of their class weapons. E
 | Tier | Availability | Bonus | Acquisition |
 |------|-------------|-------|-------------|
 | **Standard** | Levels 1–7 | Base stats as listed in §7.1.1 | Character creation or early purchase |
-| **Enhanced** | Levels 8–14 | +1 base damage, +1 trait bonus (e.g., Bleeding duration +1 round, bonus damage +1, etc.) | DR 3 Focus + Craft check; requires rare materials (GM determines) |
+| **Enhanced** | Levels 8–14 | +1 base damage, +1 trait bonus (e.g., standard Bleeding duration +1 round, bonus damage +1, etc.) | DR 3 Focus + Craft check; requires rare materials (GM determines) |
 | **Masterwork** | Levels 15–20 | +2 base damage (cumulative with Enhanced), gain an additional special property or upgrade an existing one | DR 4 Focus + Craft check; requires legendary materials + legendary location |
 
-> **Example:** A Blood Knight's *Scion Blade* (6 Slashing) becomes Enhanced (7 Slashing, Bleeding lasts +1 round) at tier 2, then Masterwork (8 Slashing, Bleeding lasts +1 round, and on crit the Bleeding damage increases to 2/round) at tier 3. With Weapon Damage Scaling at level 15, the Masterwork Scion Blade deals 8 + 3 = 11 base damage.
+> **Example:** A Blood Knight's *Scion Blade* (6 Slashing) becomes Enhanced (7 Slashing, standard Bleeding lasts +1 round) at tier 2, then Masterwork (8 Slashing, standard Bleeding lasts +1 round, and on crit the Bleeding damage increases to 2 at the start of each turn) at tier 3. With Weapon Damage Scaling at level 15, the Masterwork Scion Blade deals 8 + 3 = 11 base damage.
 
 Universal, Rare, and Relic weapons do **not** have tier progressions — they are balanced as-is.
 
@@ -206,7 +206,7 @@ Piercing | Two-handed | Long Range (12 tiles)
 
 **Spiritshard Wand**
 Spectral | One-handed | Ranged (8 tiles)
-3 Spectral damage. Ignores physical armor. In the Spectral Realm, passes through walls and barriers. Requires Soul 2+. For Soul Reaver, Glyphwright, Hylden Warlock, Sangromancer.
+3 Spectral damage. Ignores Physical Armor. In the Spectral Realm, passes through walls and barriers. Requires Soul 2+. For Soul Reaver, Glyphwright, Hylden Warlock, Sangromancer.
 
 **Twin Knives**
 Piercing | One-handed (pair) | Melee
@@ -226,7 +226,7 @@ Piercing | Two-handed | Reach (2 tiles)
 
 **Soulbrand Blade**
 Spectral | One-handed | Melee
-6 Spectral damage. Ignores physical armor. Wounds dealt cannot be healed for 2 rounds. Bypasses shields and non-magical barriers. For Soul Reaver, Hylden Warlock.
+6 Spectral damage. Ignores Physical Armor. Wounds dealt cannot be healed for 2 rounds. Bypasses shields and non-magical barriers. For Soul Reaver, Hylden Warlock.
 
 **Dreadhammer of Threnos**
 Bludgeoning | Two-handed | Melee
@@ -238,7 +238,7 @@ Slashing | One-handed | Close (3 tiles)
 
 **Soulreaver Prototype**
 Spectral | One-handed | Melee
-5 Spectral damage. Ignores physical armor. Wielder gains +1 Corruption per hit. Requires attunement and a GM story trigger to acquire. For Soul Reaver, Hylden Warlock — GM story reward only.
+5 Spectral damage. Ignores Physical Armor. Wielder gains +1 Corruption per hit. Requires attunement and a GM story trigger to acquire. For Soul Reaver, Hylden Warlock — GM story reward only.
 
 ### 7.1.5 Relic Weapons (Legendary or Unique)
 
@@ -246,7 +246,7 @@ Relic weapons are tied to Nosgoth's deepest lore and require epic story progress
 
 **Soulreaver Prime**
 Spectral | One-handed | Melee
-9 Spectral damage. Ignores physical armor. On killing a target, absorbs their soul — wielder gains +2 bonus damage on their next attack and regains 2 SE. Only for those chosen by the Pillars.
+9 Spectral damage. Ignores Physical Armor. On killing a target, absorbs their soul — wielder gains +2 bonus damage on their next attack and regains 2 SE. Only for those chosen by the Pillars.
 
 **Blade of Balance**
 Slashing | One-handed | Melee
@@ -275,7 +275,7 @@ All weapons deal one of the six canonical damage categories. [Chapter 12: Glossa
 - **Void** is an Entropic subtype. It follows standard Entropic rules (normal armor, prevents non-magical healing). Void weapons may additionally impose Disadvantage or dimensional displacement effects as described per weapon.
 - **Spectral Fire** is a Radiant subtype. It follows Radiant rules (normal armor, ×2 vs Undead/Spectral). It does NOT ignore armor the way Spectral damage does.
 - **Corruption** is an Entropic subtype. On critical hits, Corruption-type weapons may increase the target's Corruption score.
-- **Physical subtypes** determine which status effects apply: Bludgeoning → Staggered/Prone, Piercing → Bleeding (ignores 1 armor naturally), Slashing → Bleeding.
+- **Physical subtypes** determine which status effects apply: Bludgeoning → Staggered/Prone, Piercing → usually standard Bleeding (and ignores 1 Armor naturally), Slashing → usually standard Bleeding.
 - Weapons that do not list a damage type explicitly deal **Physical** damage of the most appropriate subtype.
 
 ---
@@ -291,7 +291,7 @@ Armor reduces incoming damage by a flat amount (listed as **Armor X**) and may g
 Blood Knight armor enhances their predatory resilience and rewards aggression.
 
 **Bloodsteel Cuirass** — Armor 2. On melee critical hit, regain 1 HP.
-**Nightshade Cloak** — Armor 1. +1 die to Stealth checks. Resistance to Entropic (Necrotic) damage (halved).
+**Nightshade Cloak** — Armor 1. +1 die to Stealth checks. Gain Resistance to Entropic damage.
 **Fleshwoven Mail** — Armor 2. Regenerate 1 HP at start of turn if standing in blood or adjacent to a Bleeding target.
 **Graveskin Harness** — Armor 1. +1 die to saves against Elemental (Fire) and Radiant effects.
 **Ebonwing Shroud** — Armor 2. Once per scene, gain flight (move up to speed in any direction) for 1 turn.
@@ -314,7 +314,7 @@ Shadowmancer armor enhances stealth, illusions, and shadow manipulation.
 **Mistweave Cloak** — Armor 2. Once per scene, become invisible until you attack or cast a spell.
 **Shadowskin Vest** — Armor 1. When you take damage, you may teleport 1 tile in any direction as a Reaction (once per round).
 **Duskmantle** — Armor 2. Enemies within 2 tiles suffer −1 die to Observation checks to detect you.
-**Voidthread Shroud** — Armor 1. When in magical darkness you created, gain Resistance to all Physical damage (halved).
+**Voidthread Shroud** — Armor 1. When in magical darkness you created, gain Resistance to Physical damage.
 
 #### 7.3.1.4 Sangromancer
 
@@ -375,16 +375,16 @@ These armors are available to multiple classes, offering broad utility.
 | **Traveler's Leathers** | 1 | No penalties to movement or Stealth. |
 | **Nosgothian Chainmail** | 2 | Standard medium armor. −1 die to Stealth. |
 | **Abyss-Ward Cloak** | 1 | Resists 1 Corruption point per session (first Corruption gained is negated). |
-| **Wraithbone Shell** | 2 | Once per scene, halve incoming Spectral damage from one attack. |
+| **Wraithbone Shell** | 2 | Once per scene, gain Resistance to Spectral damage from one incoming attack. |
 | **Feral Hide Armor** | 2 | On melee critical hits, deal +1 bonus damage. |
 
 ### 7.3.3 Rare Armor (GM Discretion)
 
 These powerful armor sets require special circumstances or GM approval. Typically acquired through quests, faction service, or rare materials.
 
-**Voidtouched Carapace** — Armor 3. Entropic damage against the wearer is halved. Wielder gains +1 Corruption per long rest while wearing it.
+**Voidtouched Carapace** — Armor 3. Gain Resistance to Entropic damage. Wielder gains +1 Corruption per long rest while wearing it.
 
-**Moonsilver Mail** — Armor 3. In moonlight or darkness, gain +1 die to Evasion checks. Physical damage from undead is halved.
+**Moonsilver Mail** — Armor 3. In moonlight or darkness, gain +1 die to Evasion checks. Gain Resistance to Physical damage from undead.
 
 **Bonescale Aegis** — Armor 3. Once per scene, when reduced to 0 HP, immediately stabilize and regain 1 HP instead of falling unconscious.
 
@@ -398,7 +398,7 @@ Relic armor is tied to Nosgoth's deepest lore and requires epic story progressio
 
 **Kain's Ruined Cuirass** — Armor 4. Immune to Bleeding and Staggered. On critical hit taken, reflect 2 Physical damage back to the attacker. For campaign-defining story rewards only.
 
-**Spectral Shroud of Ariel** — Armor 3. Immune to Soul Drain. Once per scene, shift to the Spectral Realm as a free action without SE cost. Spectral damage against the wearer is halved. For Soul Reaver — story-gated.
+**Spectral Shroud of Ariel** — Armor 3. Immune to Soul Drain. Once per scene, shift to the Spectral Realm as a free action without SE cost. Gain Resistance to Spectral damage. For Soul Reaver — story-gated.
 
 ---
 
@@ -432,7 +432,7 @@ Weapons and armor in Bloodbound are designed for strategic depth. Class weapon +
 - **Soul Reaver:** Use *Spectral Talons* with *Soulrift Weave* — phase into the Spectral Realm for the 6-damage bonus, teleport to flank, and ignore all armor. Upgrade to *Soulbrand Blade* (Rare) for anti-healing pressure.
 - **Shadowmancer:** Combine *Shadow Fang* with *Penumbra Wraps* — the Stealth bonuses stack, enabling reliable ambushes. Upgrade with *Nightfall Cloak* armor for bonus stealth-attack damage.
 - **Sangromancer:** Use *Veinbinder Rod* with *Sanguine Mantle* — apply unhealable Bleeding while boosting Blood spell damage. *Bloodwoven Whip* (Rare) adds battlefield control via grapples.
-- **Glyphwright:** Pair *Runic Focus Rod* with *Sigil-Etched Robes* — the Force damage bypasses armor entirely while the Robes boost Glyphcasting. *Warding Mantle* protects nearby allies.
+- **Glyphwright:** Pair *Runic Focus Rod* with *Sigil-Etched Robes* — the Force damage bypasses Armor entirely while the Robes boost Glyphcasting. *Warding Mantle* protects nearby allies.
 - **Dreadblade:** *Assassin's Fang* with *Nightfall Cloak* — stealth attacks deal +2 (weapon) +1 (armor) = +3 bonus damage. *Deathweave Shroud* enables chain kills with Advantage.
 - **Warden of Balance:** *Blessed Mace* with *Sarafan Plate* — Stagger undead on hit while the Plate imposes Will save penalties on nearby undead. *Holy Valor Guard* adds Entropic resistance for anti-corruption missions.
 - **Hylden Warlock:** *Hexbrand* with *Soulwrack Robes* — Corruption damage is boosted by +1, and the Concentration disruption shuts down enemy casters. *Ritual Vestments* reduce the Corruption cost of your own dark spells.

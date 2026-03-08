@@ -349,7 +349,7 @@ Lair Action (on initiative 20)
 
 Regional Effects
 - Within the Abyssal Heart's chamber: all healing is reduced by half (the Heart absorbs life energy).
-- The temperature drops steadily — after 10 rounds, unprotected creatures take 2 Cold damage per round.
+- The temperature drops steadily — after 10 rounds, unprotected creatures take 2 Cold damage at the start of each turn.
 - Divination magic in the region fails automatically (the Heart exists outside fate's sight).
 
 ---
@@ -418,7 +418,7 @@ Regional Effects
 
 **Legendary Resistance (4/day):** If this entity fails a saving throw, it can choose to succeed instead.
 
-**Mythic Trait — Severing the Tether:** The Tendril is effectively immortal while connected to the Elder God's body deep underground. When reduced to 0 HP, it regenerates to 100 HP at start of its next turn. To prevent this, the party must **sever the Tether** — a pulsing conduit of flesh extending from the Tendril into the earth. The Tether has HP 80, DV 4, Armor 6, and is immune to non-magical damage. It can only be attacked when the Tendril is below 50% HP (the strain exposes it). Once the Tether is severed, the Tendril cannot regenerate and its Armor drops to 6. The Elder God screams — all creatures within 60ft must pass DR 5 Will save or be Stunned for 1 round.
+**Mythic Trait — Severing the Tether:** The Tendril is effectively immortal while connected to the Elder God's body deep underground. When reduced to 0 HP, it regenerates to 100 HP at start of its next turn. To prevent this, the party must **sever the Tether** — a pulsing conduit of flesh extending from the Tendril into the earth. The Tether has HP 80, DV 4, Armor 6, and is immune to non-magical damage. It can only be attacked while the Tendril is Bloodied (the strain exposes it). Once the Tether is severed, the Tendril cannot regenerate and its Armor drops to 6. The Elder God screams — all creatures within 60ft must pass DR 5 Will save or be Stunned for 1 round.
 
 Legendary Actions (4 per round)
 - Tendril Lash (1 action): Attack one creature within 20ft for 16 Bludgeoning (Fury 9 + 5 = 14d6).
@@ -456,7 +456,7 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 
 ### Tactics
 
-**For Players:** This is a multi-phase fight. Phase 1: survive. Whittle the Tendril below 50% HP while avoiding Grapple (spread out; don't let it grab multiple targets). Phase 2: sever the Tether. Once exposed, throw everything at the Tether — it has lower DV and no attacks. Phase 3: finish the Tendril before it TPKs the party. Devour Soul is the existential threat; if someone is grappled, free them IMMEDIATELY before it uses Devour Soul next round. Bring anti-grapple abilities, Freedom of Movement, and resurrection insurance. Radiant damage is not a vulnerability but deals full damage (bypasses most resistances).
+**For Players:** This is a multi-phase fight. Phase 1: survive. Whittle the Tendril until it is Bloodied while avoiding Grapple (spread out; don't let it grab multiple targets). Phase 2: sever the Tether. Once exposed, throw everything at the Tether — it has lower DV and no attacks. Phase 3: finish the Tendril before it TPKs the party. Devour Soul is the existential threat; if someone is grappled, free them IMMEDIATELY before it uses Devour Soul next round. Bring anti-grapple abilities, Freedom of Movement, and resurrection insurance. Radiant damage is not a vulnerability, but where a source explicitly bypasses this creature's Resistance profile it remains an effective answer.
 
 **For the GM:** Foreshadow this fight for multiple sessions. The party should hear the Elder God's voice in dreams, see its influence in the Spectral Realm, and find the corpses of previous would-be heroes outside the chamber. This is a session-capstone or campaign-finale encounter. Run it at full lethality — Devour Soul should permanently kill at least one NPC ally to establish the stakes. If the party is unprepared, the Tendril should demonstrate its power by consuming something they care about before the fight proper begins.
 
@@ -474,7 +474,7 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 
 **Weakened Form (TV 17):** Health 200; SE 100; Armor 6. Attributes reduced by 2 across the board. Loses Legendary Actions beyond 2 per round, Mythic Trait (the Tendril can be killed normally), and World Shudder. Devour Soul reduces max HP by 10 instead of 20. Suitable for a partially severed Tendril encountered in a Pillar ruin, or a prophetic vision of the Elder God's reach.
 
-**True Manifestation (TV 28+):** This is the Elder God itself — not a stat block but a campaign event. It cannot be killed, only driven back. Use the Tendril stat block but with: Health 1000 (regenerates 50/round), 6 Legendary Actions per round, all damage dealt is doubled, Devour Soul is automatic on any creature within 10ft at start of its turn. The "fight" is about completing a ritual, activating an artifact, or reaching a specific location while the Elder God tries to stop the party. Running this encounter traditionally will result in a TPK — it is designed as a cinematic setpiece, not a balanced combat.
+**True Manifestation (TV 28+):** This is the Elder God itself — not a stat block but a campaign event. It cannot be killed, only driven back. Use the Tendril stat block but with: Health 1000 (regenerates 50 HP at the start of each turn), 6 Legendary Actions per round, all damage dealt is doubled, Devour Soul is automatic on any creature within 10ft at start of its turn. The "fight" is about completing a ritual, activating an artifact, or reaching a specific location while the Elder God tries to stop the party. Running this encounter traditionally will result in a TPK — it is designed as a cinematic setpiece, not a balanced combat.
 - Action: 1; Cost: 12 SE; 25ft radius; DR 4 Evasion save or 18 Force damage and pushed 15ft; success: half, no push.
 
 3) Ward of the Core (Passive)
@@ -768,7 +768,7 @@ They do not intend harm precisely. They are temporal coherence agents, attemptin
 - The boundary between the current moment and recent past thins. Each PC must make DR 3 Focus save or be briefly haunted by a vision of their own death (or a near-defeat) from a previous session. On fail, they take 6 Soul damage and have Disadvantage on their next action.
 
 ### Tactics & Strategy
-The Echo opens by using Temporal Displacement on the party's most lethal PC (removing their first turn action). Time Strike is its sustained damage. Time Rewind is used if the party is within 2 rounds of victory — it resets the encounter state and keeps the Echo at full health while the party is now 20 SE poorer. Against a party that depletes it below 100 HP, it will use Temporal Displacement on the highest-damage PC and Time Strike the healer.
+The Echo opens by using Temporal Displacement on the party's most lethal PC (removing their first turn action). Time Strike is its sustained damage. Time Rewind is used if the party is within 2 rounds of victory — it resets the encounter state and keeps the Echo at full health while the party is now 20 SE poorer. Against a party that reduces it below 100 HP, it will use Temporal Displacement on the highest-damage PC and Time Strike the healer.
 
 **Encounter Design:** The Echo of Moebius is a puzzle boss. Direct damage can win, but Time Rewind will likely reset one attempt. The party should discover (through IC or OOC communication) that the Echo can only use Time Rewind once per encounter — if they push through to below 30 HP in a single burst after it's been used, they win. The challenge is making it burn Time Rewind early.
 
@@ -842,7 +842,7 @@ The Death Guardian is everything the role was meant to prevent: an undead being 
 **Lair Action — Death Bell (Initiative count 20):** All creatures within 60 feet that have taken damage in this encounter must make DR 3 Blood save or their wounds worsen: they take damage equal to the number of rounds of combat that have passed so far (1 damage at round 1, 2 at round 2, etc.). This is a cumulative pressure.
 
 ### Tactics & Strategy
-The Death Guardian positions at the center of a summoned undead screen, using Necrotic Detonation as its primary area denial tool. Reaper's Blade targets isolated PCs (to generate Risen Thrall fodder). It tracks who has used Legendary Resistance or defensive reactions and targets them with Death Nova conditions when possible. In the second half of the fight (below 115 HP), it uses all 3 Legendary Actions every round.
+The Death Guardian positions at the center of a summoned undead screen, using Necrotic Detonation as its primary area denial tool. Reaper's Blade targets isolated PCs (to generate Risen Thrall fodder). It tracks who has used Legendary Resistance or defensive reactions and targets them with Death Nova conditions when possible. Once reduced below 115 HP, it uses all 3 Legendary Actions every round.
 
 **The Undying Problem:** The party must learn that the Guardian can revive before facing it, or face the crushing morale blow of killing it and watching it stand back up. Integrating this discovery into the adventure — a prophecy, a researcher's notes, an NPC warning — is essential.
 

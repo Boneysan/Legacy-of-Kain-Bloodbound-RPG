@@ -1,6 +1,6 @@
 # Bloodbound RPG: Alternative Perk Design Review
 **Scope:** All 24 "or" alternatives at Levels 5, 10, and 15 across all 8 classes  
-**Date:** March 5, 2026  
+**Date:** March 7, 2026  
 **System Version:** 1.0 (In Development)
 
 ---
@@ -61,18 +61,18 @@ Add *"1/combat"* to the trigger. Specify: *"This effect can trigger at most twic
 
 ---
 
-### Level 15: Endless Hunger — 🔴 MAJOR REVISION
+### Level 15: Endless Hunger — ⚠️ MINOR REVISION
 
 **Lore/Theme:**
 Outstanding lore fit. The name is a thesis statement on vampiric existence — the endless, unsatisfiable hunger that defines every vampire in the Legacy of Kain series. One of the best-named perks in the book.
 
 **Mechanical Issues:**
-1. **Critical — Undefined Reference:** "Life Drain has no per-turn limit" removes a limit that does **not currently exist** in the written rules. The Core Ability states: *"When you deal melee damage, heal HP equal to half the damage dealt (round up)."* No per-turn cap is written anywhere. This perk either references a prior draft or requires adding a cap to the base ability so this perk has something to remove.
-2. **Double-Heal on Kill:** "Each kill heals an additional 4 HP" — does this stack with Life Drain on the same killing blow? (e.g., 10 damage kill = 5 HP Life Drain + 4 HP kill bonus = 9 HP total?) This should be confirmed explicitly.
-3. **Interaction with Lord of the Feast (Level 17):** Lord of the Feast grants "100% of damage dealt when below 50% HP." With no per-turn limit, a Blood Knight could heal back to max HP in a single round against multiple weak enemies. This stacking must be flagged on one or both perks.
+1. **Reference Language Is Now Valid but Still Indirect:** The current class text does give **Life Drain** a once-per-turn cap, so this perk now functions. However, "Life Drain has no per-turn limit" is still a reverse-reference rather than self-contained rules text. It should say positively what the perk does: that Life Drain now triggers on every melee hit.
+2. **Double-Heal on Kill:** "Each kill heals an additional 4 HP" — does this stack with Life Drain on the same killing blow? (e.g., 10 damage kill = 10 HP from Lord of the Feast or 5 HP normally, plus 4 HP kill bonus?) This should be confirmed explicitly.
+3. **Interaction with Lord of the Feast (Level 17):** Lord of the Feast grants "100% of damage dealt when below 50% HP." With Endless Hunger removing the once-per-turn cap, a Blood Knight can surge from near death to full HP in one round against multiple targets. This may be intentional high-level payoff, but it should be acknowledged as a deliberate combo rather than left implicit.
 
 **Recommendation:**
-Add a per-turn cap to the base **Life Drain** Core Ability: *"Life Drain applies once per turn to the first hit each turn."* Then rewrite this perk's first clause: *"Life Drain applies to every melee hit you make in a round, not just the first."* Explicitly confirm the +4 kill-heal stacks with Life Drain on the same killing blow.
+Rewrite the first clause positively: *"Life Drain triggers on every melee hit you make, not just the first hit each turn."* Explicitly confirm whether the +4 kill-heal stacks with the Life Drain heal from the same killing blow.
 
 ---
 
@@ -207,18 +207,18 @@ Rewrite the ally clause: *"Allies within 30ft may also trigger Blood Cascade on 
 
 ---
 
-### Level 15: Crimson Necromancer — ⚠️ MINOR REVISION
+### Level 15: Sanguine Desolation — 🔴 MAJOR REVISION
 
 **Lore/Theme:**
-Tonally correct. "Crimson" foregrounds the blood-magic origin that distinguishes this from traditional necromancy — body-sculpting through vitae, not the raising of the dead via soul-binding. The dependency chain (Level 12 True Fleshcrafting → Level 15 Crimson Necromancer) is correctly structured.
+Excellent thematic escalation. This is the Sangromancer at full battlefield-command expression: every open wound becomes a conduit, every death a fresh bloom of carnage. The name lands perfectly, and the perk clearly aims to define the class's "blood tide" endgame build.
 
 **Mechanical Issues:**
-1. **Undefined Servitor Stats:** True Fleshcrafting (Level 12) says "animate a corpse as a grotesque servitor" but provides no stat block — no HP, DV, attack damage, or action limits. Crimson Necromancer improves these values (+5 Max HP, +2 damage) but cannot be meaningfully evaluated without knowing the baseline. If defined in the GM Guide or Monster Manual, a cross-reference is needed. If not defined anywhere, it needs to be.
-2. **"From One Corpse" Interpretation:** Does "creates 2 servitors from one corpse" mean one ritual, one corpse, two separate entities? This should be confirmed. What are the fiction implications (two half-size constructs splitting a corpse)?
-3. **Ritual Cost:** True Fleshcrafting costs *Ritual, 1 BP*. Confirm Crimson Necromancer does not change the ritual cost (or state explicitly that it does not).
+1. **Critical — "Hemorrhage triggers automatically" Is Undefined:** **Hemorrhage** is already written as ongoing damage per round. This clause has two incompatible readings: (a) all existing Hemorrhage effects tick an additional time at the start of your turn, or (b) you automatically apply Hemorrhage to every Bleeding target within 30ft without spending BP or taking an Action. Those outcomes differ enormously in power and action economy.
+2. **Bleeding vs. Hemorrhage Scope Drift:** The perk targets **all Bleeding targets**, not targets already affected by your **Hemorrhage**. That means weapon crits, ally-inflicted Bleeding, Dreadblade effects, or gear-based Bleeding can all potentially turn on your class engine. If that cross-class synergy is intentional, it should be stated. If not, the perk should key off your Hemorrhage specifically.
+3. **"Gain 1 Bleeding stack" Does Not Match the Glossary:** The glossary defines **Bleeding** as a duration-based condition whose duration stacks. "Gain 1 Bleeding stack" is not currently rules-standard language: is the target Bleeding for 1 round, does an existing Bleeding duration increase by 1 round, or does Bleeding now have true stack count with escalating severity? This needs explicit wording before the death-spread clause can be adjudicated consistently.
 
 **Recommendation:**
-Define True Fleshcrafting servitor stats in the Level 12 perk entry, or reference a relevant stat block. In this perk: *"One ritual on a single corpse produces two servitors instead of one. Ritual cost is unchanged."*
+Rewrite the perk around existing terminology. Example: *"At the start of each of your turns, each creature within 30ft currently affected by your Hemorrhage immediately suffers one Hemorrhage damage tick. Vein Strike's bonus increases to +4 damage. When a creature affected by your Hemorrhage dies, each enemy within 10ft becomes Bleeding for 1 round."* If the intent is broader cross-class Bleeding synergy, state that directly and define how Bleeding duration is added.
 
 ---
 
@@ -328,18 +328,18 @@ Clarify: *"at the start and end of the bleeding target's turn."* Specify: *"Blee
 
 ---
 
-### Level 5: Pillar's Verdict — ⚠️ MINOR REVISION (with Power Note)
+### Level 5: Judgment's Edge — ⚠️ MINOR REVISION
 
 **Lore/Theme:**
-The Warden projecting the Pillar's protective mandate through their own Will is thematically precise. "Pillar's Verdict," however, implies a judicial pronouncement — a ruling that determines an outcome — rather than a physical interposition. The *concept* (intercepting harm to an ally) maps better to names like **Pillar's Ward** or **Balance's Aegis.** A verdict is an ending; this is a prevention.
+Strong thematic fit. Unlike the previous defensive draft, this version frames the Warden as an executor of cosmic consequence: harm an ally, and the scales mark you for punishment. That is cleaner Balance-fiction than a generic damage intercept and creates a genuinely different build path from **Cycle Command**.
 
 **Mechanical Issues:**
-1. **Power Gap vs. Primary:** Pillar's Verdict reduces one hit's damage by Will score (2–5 at Level 5) once per scene. Cycle Command returns an ally at 0 HP to 1 HP — it prevents death. The gap between "prevents 3 damage 1/scene" and "prevents death 1/scene" is enormous. Unless a player is specifically building around Will stacking, this choice requires no deliberation.
-2. **Trigger Timing:** When does the reaction occur? "After the attack roll succeeds but before damage is applied to the ally's HP" should be stated explicitly.
-3. **Armor Interaction:** Does the Will reduction apply before or after the target's Armor? Should specify *"reduce damage taken (after Armor), minimum 0."*
+1. **Undefined Named Effect:** **Fate's Condemnation** appears only in this perk line and has no standalone rules definition. Is it merely a marker showing who your next empowered attack can target, or does it impose a mechanical effect before that hit lands? Right now tables must guess.
+2. **No Duration on the Mark:** "Your next attack against that target" has no expiry condition. If the Warden marks a target and never attacks them, does the mark last until the end of the scene, until a rest, or indefinitely? This should be explicit.
+3. **Punitive Trigger Should Be Framed Clearly:** Because the trigger is "when an enemy damages an ally," the Reaction occurs after the harm is done. That is fine, but the perk should say so clearly to prevent players from reading it as a defensive interception ability.
 
 **Recommendation:**
-Rename to **Pillar's Ward**. Clarify trigger timing and armor application. To make this a genuine choice: either (a) remove the 1/scene limit, (b) increase the reduction to *"Will score + 2,"* or (c) redesign as *"Negate the damage entirely from a single attack once per scene,"* making it a true death-prevention alternative.
+Define the mark inline. Example: *"When an enemy within 30ft damages an ally, you may mark that enemy with Fate's Condemnation until the end of the scene or until you hit them, whichever comes first. Your next attack against the marked target deals bonus damage equal to your Will and imposes Disadvantage on their next save."* If Fate's Condemnation is intended to become a reusable Warden keyword, add it to the glossary.
 
 ---
 
@@ -426,7 +426,7 @@ Define magical damage explicitly: *"Resistance to Elemental, Force, Spectral, Ra
 | :--- | :---: | :--- | :---: | :--- |
 | Blood Knight | 5 | Blood Frenzy | 🔴 | **Rename** — fatal name collision with existing Core Ability. |
 | Blood Knight | 10 | Sanguine Fortress | ⚠️ | Add 1/combat trigger limit; prevent re-trigger on HP recovery. |
-| Blood Knight | 15 | Endless Hunger | 🔴 | Add per-turn cap to base Life Drain first; "removes a limit that doesn't exist" is a broken reference. |
+| Blood Knight | 15 | Endless Hunger | ⚠️ | Rewrite positively: Life Drain triggers on every melee hit; confirm whether the +4 kill-heal stacks with Life Drain on the killing blow. |
 | Soul Reaver | 5 | Reavers' Resonance | ⚠️ | Fix apostrophe; define "within 10ft of primary target"; define "half damage" as half of damage dealt to primary. |
 | Soul Reaver | 10 | Soul Rift | ⚠️ | Clarify action cost (Attack Action); define whether second stack refreshes or runs independently. |
 | Soul Reaver | 15 | Phase Anchor | 🔴 | Add per-turn escape save; define max trap duration; add Boss/Legendary immunity; change Passive tag to optional Bonus Action. |
@@ -435,14 +435,14 @@ Define magical damage explicitly: *"Resistance to Elemental, Force, Spectral, Ra
 | Shadowmancer | 15 | Shadow Court | 🔴 | Fix action economy — one Bonus Action commands all Doppelgangers; define Doppelganger base stats at Level 12. |
 | Sangromancer | 5 | Vital Surge | ⚠️ | Add "once per round" healing cap to cap multi-Hemorrhage passive healing abuse. |
 | Sangromancer | 10 | Blood Cascade | 🔴 | Rewrite ally clause to one proc per damage event total; restrict "any source" to "attack or ability." |
-| Sangromancer | 15 | Crimson Necromancer | ⚠️ | Define True Fleshcrafting servitor stats or cross-reference a stat block; confirm cost unchanged. |
+| Sangromancer | 15 | Sanguine Desolation | 🔴 | Define what "Hemorrhage triggers automatically" means; decide whether it keys off all Bleeding or only your Hemorrhage; replace "1 Bleeding stack" with rules-standard wording. |
 | Glyphwright | 5 | Shock Cascade | ⚠️ | Replace "un-glyph'd enemy" wording; clarify Elemental Armor halved rule applies. |
 | Glyphwright | 10 | Glyph Surge | ⚠️ | Decide whether Arcane Focus triggers per glyph (SE feedback loop); clarify non-damage glyphs trigger normally. |
 | Glyphwright | 15 | Resonant Overload | ⚠️ | Define "triple damage" as ×3 base before bonuses; add non-damage glyph clause. |
 | Dreadblade | 5 | Hemorrhage Strike | ⚠️ | **Rename** (e.g., "Serrated Strike") — "Hemorrhage" name overlaps with Sangromancer Core Ability. |
 | Dreadblade | 10 | Ghost Protocol | 🔴 | **Complete redesign** — current effect is identical to Auto-Crit From Stealth (Core Ability); preserve kill-reset but replace the redundant crit clause. |
 | Dreadblade | 15 | Bleeding Storm | ⚠️ | Specify "start and end of the *bleeding target's* turns"; add "effects you apply" qualifier; clarify Slowed affects Evasion checks not passive DV. |
-| Warden of Balance | 5 | Pillar's Verdict | ⚠️ | **Rename** (Pillar's Ward); power-buff needed to be competitive with Cycle Command; clarify armor application order. |
+| Warden of Balance | 5 | Judgment's Edge | ⚠️ | Define Fate's Condemnation inline and give the mark a duration/end condition. |
 | Warden of Balance | 10 | Scales of Ruin | ⚠️ | **Rename** (Scales of Retribution); define "Bloodied" (≤50% Max HP); specify reflected damage type as Spectral. |
 | Warden of Balance | 15 | Cycle's Enforcer | ⚠️ | Clarify whether Dispel Magic applies to each target in line; define line geometry (10ft, 5ft wide, caster origin). |
 | Hylden Warlock | 5 | Entropic Overload | ⚠️ | Add "(does not override Immunities)" to bypass clause. |
@@ -458,11 +458,11 @@ Define magical damage explicitly: *"Resistance to Elemental, Force, Spectral, Ra
 These problems appear across multiple perks and should be addressed at the **system level** rather than perk-by-perk:
 
 ### 1. Define "Bloodied" in the Glossary
-The term "Bloodied" appears (or is implied) in at least three perks. Add a definition to **Chapter 12 (Glossary)**:
+The term "Bloodied" appears in current perk text but does not appear in **Chapter 12 (Glossary)**. Add a definition:
 > *"Bloodied: A creature is Bloodied when its current HP is at or below 50% of its Maximum HP."*
 
 ### 2. Define Summoned Entity Stat Blocks
-Both **Shadow Court** (Doppelganger, Level 12) and **Crimson Necromancer** (Fleshcraft Servitor, Level 12) reference class-created summons with no defined stats. A half-page appendix in the GM Guide or Player's Handbook defining the base stats of all class-summoned entities (HP, DV, damage, actions available) would resolve cascading ambiguity across perks and their upgrade chains.
+**Shadow Court** still depends on **Doppelganger** (Level 12) having a defined baseline, but the class chapter provides none. A half-page appendix in the GM Guide or Player's Handbook defining the base stats of class-created summons (HP, DV, damage, actions available) would prevent this problem from recurring as additional summon upgrades are added.
 
 ### 3. Establish a "Bypasses Resistance vs. Immunity" Rule
 **Entropic Overload** introduces "bypasses Resistances" language. At minimum, a note in **Chapter 9 (Combat)** or **Chapter 7 (Equipment)** should establish the mitigation hierarchy:
@@ -471,4 +471,7 @@ Both **Shadow Court** (Doppelganger, Level 12) and **Crimson Necromancer** (Fles
 This future-proofs the language for additional perks.
 
 ### 4. Conduct a Name-Collision Audit
-The **Blood Frenzy** collision (Core Ability vs. Level 5 Perk) reveals a systemic risk. Before the next revision pass, audit all 8 class trees to ensure no Core Ability name appears in any perk name across any class. This prevents similar confusion as the game expands.
+The **Blood Frenzy** collision (Core Ability vs. Level 5 Perk) and the **Hemorrhage Strike** overlap with **Hemorrhage** show a systemic risk. Before the next revision pass, audit all 8 class trees to ensure no Core Ability name appears in a perk name unless the overlap is deliberate and mechanically linked.
+
+### 5. Standardize Bleeding Terminology
+Current text mixes **Bleeding**, **Hemorrhage**, and **Bleeding stacks** as though they are interchangeable. But the glossary currently defines **Bleeding** as a duration-based condition, not a stack-count mechanic. Standardize whether the game uses stacked duration, true stack count, or separate named effects, then update all related perk text to match that one model.

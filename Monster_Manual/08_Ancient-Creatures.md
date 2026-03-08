@@ -403,7 +403,7 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 **Decay Touch** (Action)
 - **Dice Pool:** Soul 6 + Forbidden Knowledge 4 = 10d6
 - **Range:** 10-foot melee reach
-- **Damage:** 10 Corruption damage (bypasses normal physical armor — it infects rather than wounds)
+- **Damage:** 10 Corruption damage (ignores Physical Armor — it infects rather than wounds)
 - **Special:** On hit, any magical item or enchanted object carried by the target loses 1 enhancement bonus for 24 hours (magical weapons deal -1 damage; magical armor provides -1 DV bonus). This effect does not stack beyond -3 per item.
 
 **Pillar Shard Barrage** (2 Actions, costs 8 SE, Recharge 5-6)
@@ -413,7 +413,7 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 - **Save:** DR 4 Blood save to halve
 - **Effect:** On fail, target's SE is reduced by 6 (the corrupted Pillar energy disrupts magical resonance — the shards carry a soul-disrupting curse, not just physical impact)
 
-**Corruption Pulse** (Action, 1/encounter, free — triggers automatically when Sentinel is first reduced below half HP)
+**Corruption Pulse** (Action, 1/encounter, free — triggers automatically the first time the Sentinel becomes Bloodied)
 - **Range:** 30-foot radius
 - **Effect:** All living creatures in range make DR 4 Will save or immediately gain **2 Corruption points**. No damage — pure Corruption burst.
 

@@ -103,7 +103,7 @@ Use these formulas when building a creature specifically for a party's average l
 - Armor: 3-4
 - Attack: (Party level + 4) d6, 2 attacks per turn
 - Damage: 8-12
-- Special: 3-4 unique abilities, resistance to 1-2 damage types; solo bosses usually gain 2 Legendary Actions/round or a supporting retinue, not both by default
+- Special: 3-4 unique abilities, Resistance to 1-2 damage types; solo bosses usually gain 2 Legendary Actions/round or a supporting retinue, not both by default
 - Contested checks: pool = party level
 
 **Legendary (TV 6+):**
@@ -112,7 +112,7 @@ Use these formulas when building a creature specifically for a party's average l
 - Armor: 4-6
 - Attack: (Party level + 6) d6, 3 attacks per turn
 - Damage: 14-18
-- Special: 5+ unique abilities, damage immunities, Legendary Actions (3/round)
+- Special: 5+ unique abilities, Immunity to 1 or more damage types where appropriate, Legendary Actions (3/round)
 - Contested checks: pool = party level + 2
 
 ---
@@ -165,7 +165,7 @@ Terrain and environment dramatically affect encounter difficulty:
 
 **Hazardous Terrain**
 - Deals damage or requires saves
-- Examples: Fire pits (2 Fire damage/round), corrupted pools (DR 2 save or 1 Corruption)
+- Examples: Fire pits (2 Fire damage at the start of each turn), corrupted pools (DR 2 save or 1 Corruption)
 - **Tactical Use:** Area denial, force positioning choices
 
 **Elevated Terrain**
@@ -196,7 +196,7 @@ Add objects players can interact with:
 | Collapsing Ceiling | Area damage | DR 3 Evasion or 4d6 Physical (Bludgeoning) |
 | Spectral Rift | Pull toward Spectral Realm | DR 2 Will or phased for 1 round |
 | Corrupted Aura | Gain Corruption | DR 2 Will or +1 Corruption |
-| Poison Gas | Ongoing damage | 2 Entropic (Poison) damage/round |
+| Poison Gas | Ongoing damage | 2 Entropic (Poison) damage at the start of each turn |
 
 ---
 
@@ -229,10 +229,10 @@ Create interesting encounters by giving enemies complementary abilities:
 ### Enemy Ability Templates
 
 **Defensive Abilities:**
-- Regeneration (restore X HP per round)
-- Damage Resistance (half damage from specific type)
+- Regeneration (restore X HP at the start of each turn)
+- Resistance to a damage type (half damage after Armor interaction)
 - Reactive Armor (damage attackers who hit in melee)
-- Phase Shift (become incorporeal, 1/scene)
+- Phase Shift (become incorporeal, once per scene)
 
 **Offensive Abilities:**
 - Multi-Attack (2-3 attacks per action)
@@ -450,7 +450,7 @@ The examples below illustrate how to build encounters for each difficulty band. 
 - 1 Hylden Construct (Boss, TV 32)
   - HP: 60, DV: 6, Armor: 4
   - Attack: 10d6 (2 attacks/turn), Damage: 10 Force
-  - Abilities: Energy Blast (AoE, 3d6 Lightning), Phase Shift (1/scene, become incorporeal)
+  - Abilities: Energy Blast (AoE, 3d6 Lightning), Phase Shift (once per scene, become incorporeal)
 - 1 Corrupted Cultist (Standard, TV 8)
   - HP: 20, DV: 4, Armor: 2
   - Attack: 7d6, Damage: 6 Soul
@@ -470,12 +470,12 @@ The examples below illustrate how to build encounters for each difficulty band. 
 
 - 1 Ancient Vampire Lord (Legendary, TV 90)
   - HP: 120, DV: 6, Armor: 3 (effective DV higher via lair blood pools and reactions)
-  - Attack: 16d6 (3 attacks/turn), Damage: 14 Slashing + Bleeding
+  - Attack: 16d6 (3 attacks/turn), Damage: 14 Slashing + standard Bleeding
   - Abilities: 
-    - Dominate (1/scene, control 1 PC for 1 round)
-    - Mist Form (become incorporeal, heal 5 HP/round)
+    - Dominate (once per scene, control 1 PC for 1 round)
+    - Mist Form (become incorporeal, heal 5 HP at the start of each turn)
     - Summon Bats (create difficult terrain, obscure vision)
-    - Blood Frenzy (deal 2× damage when below 50% HP)
+    - Blood Frenzy (deal 2x damage while Bloodied)
   - Legendary Actions: Make 1 claw attack after each PC turn
 - 5 Vampire Warriors (Standard, TV 15 each = 75 total)
   - HP: 30, DV: 6, Armor: 2

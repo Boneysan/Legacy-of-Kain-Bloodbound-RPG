@@ -119,6 +119,9 @@ Buffer HP granted by abilities or perks. Lost before regular HP. Does not stack 
 **Initiative**
 Determines acting order at the start of combat. Roll **Shadow + Tactics** (or Shadow + Concentration, player's choice). Highest successes acts first. Ties: highest Shadow attribute, then GM discretion. A character may hold their turn to act later in the round. *(Ch. 0, Ch. 9 §9.2)*
 
+**Bloodied**
+A creature is **Bloodied** when its current HP is at or below **50% of its maximum HP**. Bloodied is a threshold, not a status effect, unless a source explicitly says otherwise. If an ability lasts "until Bloodied," it ends when the specified creature reaches or drops below that threshold. *(Ch. 9)*
+
 **Combat Bonus**
 A cumulative **+1 die added to attack rolls** (only) at levels 5, 10, 15, and 20 (max +4 at level 20). Does **not** apply to skill checks, saves, or non-attack rolls. *(Ch. 0, Ch. 3 §3.2)*
 
@@ -186,6 +189,12 @@ All damage falls into one of six categories, each with distinct armor interactio
 
 *(Ch. 0, Ch. 7 §7.2, Ch. 9 §9.7)*
 
+**Resistance**
+When a creature has **Resistance** to a damage type or category, it takes **half damage (round down)** from that source after applying the relevant Armor interaction. If the damage type ignores or bypasses Armor, skip the Armor step and halve the remaining damage. If a source says it **bypasses Resistance**, remove only the halving step; it does **not** bypass Immunity unless the source says so explicitly. *(Ch. 5, Ch. 9 §9.5, §9.7)*
+
+**Immunity**
+When a creature has **Immunity** to a damage type, category, condition, or effect, it takes **no damage** and ignores that effect unless the source explicitly states that it bypasses Immunity. Immunity always overrides Resistance. *(Ch. 5, Ch. 9 §9.5, §9.7)*
+
 **Condition Canon**
 This glossary is the canonical source for named combat conditions and status effects. If a spell, perk, weapon, or monster ability applies a named condition, use the definition here unless that entry explicitly adds an extra rider. Extra riders stack with the base condition; they do not replace it. Legacy or bespoke terms that are not defined here must be defined inline where they appear.
 
@@ -195,7 +204,7 @@ Applied on Critical Hits or Extra Successes unless an effect says otherwise. Dur
 | Status Effect | Duration | Description |
 | :--- | :--- | :--- |
 | **Staggered** | Until end of target's next turn | Cannot take Reactions. |
-| **Bleeding** | 1d3 rounds (stacks duration) | Takes 1 damage at the start of each turn. |
+| **Bleeding** | Usually 1d3 rounds; source may set a different duration | Takes damage at the start of each turn. Standard Bleeding deals 1 damage. Reapplying Bleeding adds duration unless the source says it creates separate applications or uses a custom damage value. |
 | **Prone** | Until half movement spent to stand | Melee attacks have Advantage; ranged attacks have Disadvantage. |
 | **Burning** | 1d3 rounds or until extinguished | Takes 1 fire damage at the start of each turn. |
 | **Slowed** | 1d3 rounds | Movement speed halved; cannot Dash. |
@@ -204,6 +213,8 @@ Applied on Critical Hits or Extra Successes unless an effect says otherwise. Dur
 | **Soul Drain** | Instant | Target loses 1 SE; attacker may gain 1. |
 | **Blinded** | 1d3 rounds | Disadvantage on attacks and Observation-based checks. |
 | **Purged** | Instant | Removes one darkness, shadow, or corruption effect. |
+
+Unless a source explicitly states a different trigger, recurring effects resolve at the start of the affected creature's turn. This includes ongoing damage, Corruption gain, and repeating regeneration or healing.
 | **Decay** | Until next rest | Cannot regain HP through non-magical means. |
 | **Corrupted** | Permanent | Target gains +1 Corruption Level. |
 | **Weakened** | 1d3 rounds | −1 die on all saves and resistance checks. |
@@ -460,7 +471,10 @@ A numeric value assigned to creatures for encounter balancing. GMs compare total
 ## 12.12 Scenes and Time
 
 **Scene**
-A distinct narrative segment — a combat encounter, social negotiation, exploration of a chamber, or other self-contained sequence. Abilities limited to "once per scene" refresh when the **GM declares a new scene begins** (e.g., transitioning from battle to conversation, or changing major locations). *(Ch. 5 §5.8, Ch. 9 §9.1)*
+A distinct narrative segment — a combat encounter, social negotiation, exploration of a chamber, or other self-contained sequence. Abilities limited to "once per scene" refresh when the **GM declares a new scene begins** (e.g., transitioning from battle to conversation, or changing major locations). If a source applies exposure, stress, or a similar recurring effect "per scene," resolve it at the end of that scene unless the source says otherwise. *(Ch. 5 §5.8, Ch. 9 §9.1)*
+
+**Minute-Based Effects**
+If a source causes a recurring effect each minute, resolve it at the end of each full minute of continued exposure or concentration unless the source says otherwise.
 
 **Round**
 A unit of combat time representing **6–10 seconds**. During one round, every combatant takes a turn (1 Action + 1 Movement + 1 Reaction + free interactions). *(Ch. 9 §9.1)*

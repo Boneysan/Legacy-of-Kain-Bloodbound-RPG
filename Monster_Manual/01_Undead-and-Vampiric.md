@@ -90,7 +90,7 @@ Not all vampires retain their nobility and cunning. Those who give in completely
 ### Special Abilities
 **Vampiric Regeneration:** Regains 5 HP at start of its turn unless it took Radiant or Fire damage last round.
 
-**Blood Frenzy:** When bloodied (below half HP), gains +1 die on all attack rolls and moves an additional 10 feet per turn.
+**Blood Frenzy:** While Bloodied, gains +1 die on all attack rolls and moves an additional 10 feet per turn.
 
 **Shadow Leap:** As Bonus Action, teleport up to 20 feet to an area of darkness or shadow it can see.
 
@@ -145,7 +145,7 @@ Revenants are the restless dead bound to unfinished purpose. Unlike mindless und
 
 **Spectral Grasp** (Action)
 - **Dice Pool:** Shadow 2 + 0 = 2d6
-- **Damage:** 4 Soul damage (bypasses physical armor)
+- **Damage:** 4 Soul damage (ignores Physical Armor)
 - **Range:** 15 feet (3 squares)
 - **Special:** Target must make DR 2 Will save or be Frightened until end of next turn
 
@@ -251,7 +251,7 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 
 **Life Drain Touch** (Action)
 - **Dice Pool:** Shadow 4 + 0 = 4d6
-- **Damage:** 6 Necrotic damage (bypasses physical armor)
+- **Damage:** 6 Necrotic damage (ignores Physical Armor)
 - **Special:** Wight regains HP equal to damage dealt. Target's maximum HP reduced by damage until long rest.
 
 **Command Undead** (Bonus Action)
@@ -307,12 +307,12 @@ When lesser vampires are destroyed, their remaining essence sometimes animates n
 
 ### Attacks
 **Thousand Bites (Swarm Attack)** (Action)
-- **Damage:** 6 Physical damage (reduced to 3 if the swarm is below half HP)
+- **Damage:** 6 Physical damage (reduced to 3 while the swarm is Bloodied)
 - **Special:** Automatically hits all creatures within 5ft of the swarm. No attack roll is required — the sheer volume of biting is unavoidable.
 
 **Blood Drain Swarm** (Action, requires creature in swarm's space)
 - **Dice Pool:** Blood 3 + 0 = 3d6
-- **Damage:** 7 Blood damage (bypasses physical armor)
+- **Damage:** 7 Blood damage (ignores Physical Armor)
 - **Special:** Swarm regains HP equal to half damage dealt
 
 **Engulf** (Action, requires movement)
@@ -388,7 +388,7 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 - Spend 5 HP to add +2 DV against that attack
 
 ### Tactics
-Stays at range, pelting enemies with Blood Bolt. Uses Blood Curse on biggest threat. When cornered, uses Vampiric Touch to sustain. Will flee if reduced below half HP to return with reinforcements.
+Stays at range, pelting enemies with Blood Bolt. Uses Blood Curse on biggest threat. When cornered, uses Vampiric Touch to sustain. Will flee while Bloodied to return with reinforcements.
 
 ### Loot
 - Bloodstained ritual robes
@@ -419,7 +419,7 @@ Vampires destroyed by fire sometimes leave behind vengeful spirits—Bloodflame 
 **Spectral Flame Touch** (Action)
 - **Dice Pool:** Soul 4 + 0 = 4d6
 - **Damage:** 4 Fire + 3 Soul damage
-- **Special:** Ignores physical armor
+- **Special:** Ignores Physical Armor
 
 **Burning Wail** (Action, Recharge 5-6)
 - **Dice Pool:** Soul 4 + Intimidation 3 = 7d6
@@ -563,14 +563,14 @@ Most Overlords were once members of the great vampire clans, and some still carr
 
 **Blood Drain** (Action, requires Grapple)
 - **Dice Pool:** Fury 5 + Athletics 4 = 9d6
-- **Damage:** 12 Blood damage (bypasses physical armor)
+- **Damage:** 12 Blood damage (ignores Physical Armor)
 - **Special:** The Overlord regains HP equal to damage dealt. Target's max HP is reduced by half the damage until they complete a long rest.
 
 ### Special Abilities
 
 **Vampiric Regeneration:** Regains 8 HP at start of its turn unless it took Radiant or Fire damage last round.
 
-**Blood Frenzy:** When bloodied (below 45 HP), gains +2 dice on all attack rolls.
+**Blood Frenzy:** While Bloodied, gains +2 dice on all attack rolls.
 
 **Command Undead:** As a Bonus Action, all lesser undead (TV 2 or lower) within 60 feet may immediately move up to half their speed and make one attack.
 
@@ -849,7 +849,7 @@ Fledglings have not yet mastered the full array of vampiric powers, but they are
 
 ### Special Abilities
 
-**Blood Frenzy (Reaction):** When the Fledgling is reduced below half HP, it immediately makes one free Frenzied Bite attack against the nearest creature. This cannot trigger again until it is at full HP.
+**Blood Frenzy (Reaction):** The first time the Fledgling becomes Bloodied, it immediately makes one free Frenzied Bite attack against the nearest creature. This cannot trigger again until it is at full HP.
 
 **Vampiric Resilience:** Immune to Soul Drain, poison, disease. Regains 2 HP at the start of each turn if it fed within the last minute (has ≥1 BP drained from a living target this combat).
 
@@ -1014,7 +1014,7 @@ Most Zealots barely understand the Fracture's true goals. They know they are par
 - **Dice Pool:** Fury 3 + Weapon Mastery 3 = 6d6 vs DV
 - **Range:** Weapon Mastery
 - **Damage:** 6 Physical (Slashing)
-- **Special:** On Critical Hit, target Bleeds (1 Physical damage per round until treated or a DR 1 Blood check is passed as an action).
+- **Special:** On Critical Hit, target Bleeds (1 Physical damage at the start of each turn until treated or a DR 1 Blood check is passed as an action).
 
 **Berserker Rush** (Action, 1/encounter)
 - **Dice Pool:** Fury 3 + Weapon Mastery 3 = 6d6 vs DV
@@ -1162,9 +1162,9 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 **Dimensional Seam:** On initiative count 20, the boundary between realms tears open at a random 15-foot radius zone within the encounter area. Creatures in the zone are Deafened (-1 die on Focus checks) until they leave the area or the Void-Touched is defeated.
 
 ### Tactics
-The Void-Touched opens with Merge Protocol to establish numerical advantage — turning a TV 4 Boss encounter into a TV 4 Boss plus two TV 3 Elites. It positions itself centrally to maximize Feral Council Authority for all Fracture allies, using Commanding Roar every round. It reserves Reality Fracture for clustered party members or as a "reset" when one side has consolidated. When bloodied (below 38 HP), the Void-Touched becomes erratic — using Reality Fracture every turn it recharges and burning Legendary Actions more aggressively. This escalation is intentional: a Void-Touched under pressure loses fine control of its dimensional instability.
+The Void-Touched opens with Merge Protocol to establish numerical advantage — turning a TV 4 Boss encounter into a TV 4 Boss plus two TV 3 Elites. It positions itself centrally to maximize Feral Council Authority for all Fracture allies, using Commanding Roar every round. It reserves Reality Fracture for clustered party members or as a "reset" when one side has consolidated. While Bloodied, the Void-Touched becomes erratic — using Reality Fracture every turn it recharges and burning Legendary Actions more aggressively. This escalation is intentional: a Void-Touched under pressure loses fine control of its dimensional instability.
 
-**Encounter Design:** Pre-position 2-3 Fracture Zealots and 1 Dimension-Walker already engaged when the Void-Touched enters. Merge Protocol will add 2 more Dimension-Walkers mid-fight, for a total encounter value of TV 15-16. Stage this in a location where the planar boundary is thin — flickering spectral terrain overlap and environmental Spectral damage (1 per round for non-Wraith PCs) intensify the encounter's identity.
+**Encounter Design:** Pre-position 2-3 Fracture Zealots and 1 Dimension-Walker already engaged when the Void-Touched enters. Merge Protocol will add 2 more Dimension-Walkers mid-fight, for a total encounter value of TV 15-16. Stage this in a location where the planar boundary is thin — flickering spectral terrain overlap and environmental Spectral damage (1 at the start of each turn for non-Wraith PCs) intensify the encounter's identity.
 
 ### Loot
 - Void-touched sigil crystal (opens a controlled 5-foot portal to the Spectral Realm for 1 minute; 1 use) — **Trade Value:** 150 supplies

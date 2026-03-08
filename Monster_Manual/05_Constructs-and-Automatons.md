@@ -251,7 +251,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 - Range: 20-foot cone
 - Damage: 5 Elemental damage (type depends on golem variant: Fire, Cold, Lightning, or Force)
 - Effect: Targets must pass a DR 2 Shadow save or suffer an additional status effect based on element:
-  - **Fire**: Burning (2 Fire damage per turn for 2 turns)
+  - **Fire**: Burning (2 Fire damage at the start of each turn for 2 turns)
   - **Cold**: Slowed (half movement for 2 turns)
   - **Lightning**: Shocked (Disadvantage on next attack)
   - **Force**: Pushed back 10 feet
@@ -259,7 +259,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 #### Abilities
 **Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Forbidden Knowledge, DR 2, restores 10 HP).
 
-**Elemental Body**: The Golem has resistance to one elemental damage type (Fire, Cold, Lightning, or Acid, chosen when created). It takes half damage from that type.
+**Elemental Body**: The Golem has Resistance to one elemental damage type (Fire, Cold, Lightning, or Acid, chosen when created).
 
 **Slow but Steady**: The Golem cannot be knocked Prone, Grappled, or moved against its will (too heavy and stable).
 
@@ -279,7 +279,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 - Command word scroll (if the golem's creator left records) - **Trade Value**: 15 supplies, allows control of similar golems
 
 #### Scaling Options
-**Reinforced Golem** (Elite, TV 2): +15 HP, increase Fury to 4, DV to 4. Add "Crushing Grip" ability (Grapple attack, deals 4 automatic damage per turn to grappled target).
+**Reinforced Golem** (Elite, TV 2): +15 HP, increase Fury to 4, DV to 4. Add "Crushing Grip" ability (Grapple attack; grappled target takes 4 automatic damage at the start of each turn).
 
 ---
 
@@ -322,7 +322,7 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 **Clawed Iron Limbs** (Fury 4 + Unarmed Combat 4 = 8d6)
 - Range: Weapon Mastery
 - Damage: 7 Physical damage
-- Effect: The Beast can make two Clawed Iron Limbs attacks per turn (multi-attack). On Critical Hit (3+ successes), the target is **Bleeding** (2 Physical damage per turn).
+- Effect: The Beast can make two Clawed Iron Limbs attacks per turn (multi-attack). On Critical Hit (3+ successes), the target is **Bleeding** (2 Physical damage at the start of each turn).
 
 **Soul Scream** (Soul 3 + Anguish 3 = 6d6, Recharge 5-6)
 - Range: 30-foot cone
@@ -337,13 +337,13 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 #### Abilities
 **Hybrid Nature**: The Beast is part construct, part undead. It's immune to poison and disease, but vulnerable to both Radiant damage (harms the soul) and Lightning damage (disrupts the iron frame). Both deal +2 damage.
 
-**Agonized Fury**: When the Beast is reduced below half HP, it enters a rage. It gains +2 dice on all attacks and movement speed increases by 15 ft per turn. However, it can no longer use Soul Scream (the soul is too fragmented).
+**Agonized Fury**: While Bloodied, the Beast enters a rage. It gains +2 dice on all attacks and movement speed increases by 15 ft per turn. However, it can no longer use Soul Scream (the soul is too fragmented).
 
 **Tactics**: The Beast gains +1 die on attack rolls for each allied Iron-Cage Beast or Hylden creature within 10 feet (max +3 dice).
 
 **Trapped Soul**: The soul within the Beast is suffering. Characters with Soul-based abilities (Wraiths, Soul Reavers, etc.) can attempt to free the soul with a DR 4 Soul + Rituals roll (requires 1 action in combat). If successful, the Beast collapses (instant death) and the soul is released (may provide information or gratitude).
 
-**Erratic Behavior:** When first reduced to half HP (bloodied), the Iron-Cage Beast's conflicting commands cause it to lose its next turn as it recalibrates. This happens only once per encounter.
+**Erratic Behavior:** The first time it becomes Bloodied, the Iron-Cage Beast's conflicting commands cause it to lose its next turn as it recalibrates. This happens only once per encounter.
 
 #### Tactics
 - **Fast and Aggressive**: Iron-Cage Beasts charge in with Pounce, knocking targets Prone, then follow up with Clawed Iron Limbs.
@@ -508,7 +508,7 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 
 **Soul Cores** (3 cores, each has DV 7, 40 HP): The Tower has three soul cores embedded in its body (chest, back, and head). Each core is a separate target that must be attacked individually (requires a called shot with Disadvantage). When a core is destroyed:
 - The Tower loses 50 HP immediately (backlash).
-- Soul-Powered Regeneration is reduced by 5 HP per turn.
+- Soul-Powered Regeneration is reduced by 5 HP each time it triggers.
 - When all three cores are destroyed, the Tower's regeneration stops, and it loses its final 50 HP (collapsing).
 
 **Siege Armor**: The Tower has Armor 6 vs Physical, Armor 4 vs Elemental, and Armor 2 vs Soul. Attacks with "Armor Piercing" reduce these by 3.
@@ -658,7 +658,7 @@ Drones are often the first encounter players have with Hylden technology. Their 
 **Obsidian Shard** (Focus 3 + Weapon Mastery 2 = 5d6)
 - Range: 30 feet
 - Damage: 3 Physical damage
-- Effect: The Drone fires a shard of obsidian. On Critical Hit (3+ successes), the target is **Bleeding** (1 Physical damage per turn).
+- Effect: The Drone fires a shard of obsidian. On Critical Hit (3+ successes), the target is **Bleeding** (1 Physical damage at the start of each turn).
 
 **Divebomb** (Fury 2 + Weapon Mastery 1 = 3d6, once per turn if the Drone flew at least 10 feet)
 - Range: Weapon Mastery (charge attack)
@@ -1000,14 +1000,14 @@ In combat, a Restoration Engine is not a primary threat. It exists to sustain al
 - Range: 20-foot radius centered on Engine
 - Effect: All allies in range regain 8 HP and gain +1 die on their next roll. The Engine emits a pulse of concentrated healing energy. Any Corruption Leeches attached to creatures in range are automatically detached and take 5 Force damage.
 
-**Triage Protocol (Passive):** The Restoration Engine prioritizes allies below half HP. If any ally it can see is at or below half HP, the Engine will use Repair Beam on that ally on its turn before taking any other action, spending SE to do so.
+**Triage Protocol (Passive):** The Restoration Engine prioritizes Bloodied allies. If any ally it can see is Bloodied, the Engine will use Repair Beam on that ally on its turn before taking any other action, spending SE to do so.
 
 **Construct Nature:** Immune to Frightened, Charmed, Corrupted (as mental effect), poison, disease. Cannot be healed by standard means — requires Focus + Craft DR 3 (10 HP per success).
 
 **Hardened Frame (Reaction):** When the Engine takes damage exceeding 8 from a single hit, its self-preservation protocol activates and it immediately uses Repair Beam on itself (costs 3 SE; heals 12).
 
 #### Tactics
-The Restoration Engine positions itself at the edge of combat, maintaining Repair Beam cycles on the most damaged allied creature. It fires Suppression Bolt only when directly targeted (to dissuade attackers) or when its allies are clearly winning (spare actions with nothing better to do). Emergency Overload is reserved for a moment when 2+ allies drop below half HP simultaneously.
+The Restoration Engine positions itself at the edge of combat, maintaining Repair Beam cycles on the most damaged allied creature. It fires Suppression Bolt only when directly targeted (to dissuade attackers) or when its allies are clearly winning (spare actions with nothing better to do). Emergency Overload is reserved for a moment when 2+ allies become Bloodied simultaneously.
 
 **Key Weakness:** The Engine is not dangerous offensively. PCs who focus it down quickly remove it from the equation efficiently. Its DV 4 and Armor 2 are reasonable but not impressive. Given its role, PCs targeting it are making a smart tactical decision.
 

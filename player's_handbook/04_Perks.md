@@ -76,10 +76,10 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 | :--- | :--- | :--- |
 | **Ascended Form** | Transform for 1 min. Gain **+2 dice** to attack rolls, **+2 Armor**, and **+1 die** to all saves. GM defines the visual form of the transformation. | **2 SE** + **1 Corruption** |
 | **Chrono Clarity** | Cannot be surprised. **+2 dice** to Initiative. | Passive |
-| **Deathmark** | Mark one target: deal **+2 damage** to them for the scene. | 1/Scene |
+| **Deathmark** | Mark one target: deal **+2 damage** to them for the scene. | Once per scene |
 | **Voice of Fate** | Ask a question about the future (GM provides cryptic vision). | 1/Session (Fail: 1 Corr) |
 | **Blood Vow** | Regain **Full HP** upon killing a target marked with *Deathmark*. | 1/Long Rest |
-| **Spectral Reign** | Become invisible in the Spectral Realm for 1 minute. | **1 SE** / Scene |
+| **Spectral Reign** | Become invisible in the Spectral Realm for 1 minute. | **1 SE**, once per scene |
 | **Timelocked** | Immune to time-slow, haste, and paralyze effects. | Passive |
 | **Soul Burn** | Deal **+1 damage** per 2 missing Soul Energy (Max +5). | Passive |
 | **Master of Glyphs** | Inscribe permanent glyphs (wards/traps) on objects/locations. | **1 SE** + Materials |
@@ -91,8 +91,8 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 | Perk Name | Effect | Cost / Trigger |
 | :--- | :--- | :--- |
 | **Cyclebreaker** | If killed/erased: Restore to **1 HP**, cleanse all Corruption, take immediate turn. | **1 Permanent Corruption** |
-| **Paradox Strike** | **Prereq:** Time/Soul ability. On hit, target takes same damage again next turn. | **1 SE** / Scene |
-| **Spectral Anchor** | Perceive Spectral Realm constantly. Resistance to Spectral Dmg. Cannot be moved. | Passive (-1 die Material) |
+| **Paradox Strike** | **Prereq:** Time/Soul ability. On hit, target takes same damage again next turn. | **1 SE**, once per scene |
+| **Spectral Anchor** | Perceive Spectral Realm constantly. Resistance to Spectral damage. Cannot be moved. | Passive (-1 die Material) |
 | **Legacy Transfusion**| Permanently gain one Tier 2 or 3 perk from *another* class. | Narrative Quest |
 | **Veilpiercer** | Perceive all illusions/glamers. Nullify one magic disguise per scene. | Passive |
 | **Temporal Residue** | When damaged, leave an echo for 1 round. While active, whenever you are targeted by an attack, roll any die — on an even result, the attack hits the echo instead and deals no damage to you. | **1 SE** / Combat |
@@ -140,7 +140,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 ---
 
 #### Flesh-Warp Instinct
-**Trigger:** Passive — when below 50% HP.
+**Trigger:** Passive — when Bloodied.
 **Effect:** Gain Advantage on Evasion rolls.
 **Drawback:** Visible mutation (-1 die to Social rolls).
 > *Corruption twists your form when you are wounded, granting speed but marking you as tainted.*
@@ -183,7 +183,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 #### Spectral Whisper
 **Trigger:** Passive.
 **Effect:** Gain Advantage on Stealth rolls in the Spectral Realm or heavily obscured terrain. Passively sense spectral entities within 15 ft.
-**Drawback:** Gain **1 Corruption** for each minute spent in the Spectral Realm beyond the first per scene.
+**Drawback:** After the first full minute you spend in the Spectral Realm in a scene, gain **1 Corruption** at the end of each additional full minute spent there.
 > *You move like a ghost, but the Spectral Realm's whispers slowly fray your mind.*
 
 ---
@@ -269,7 +269,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 #### Abyssal Echo
 **Trigger:** Once per scene — when you fail a save vs. a magical effect.
 **Cost:** Gain **1 Corruption**.
-**Effect:** Reroll the save with +1 die. On success, the caster takes **2 Void damage** (bypasses Armor and resistances).
+**Effect:** Reroll the save with +1 die. On success, the caster takes **2 Void damage** (bypasses Armor and Resistance).
 **Drawback:** -1 die to Insight until your next short rest.
 > *The Abyss deflects magic back at its source — but its whispers distort your reality.*
 
@@ -356,7 +356,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 #### Hylden's Rift
 **Trigger:** Once per long rest — Action.
 **Cost:** 4 SE + Gain **2 Corruption**.
-**Effect:** Create a 10 ft radius zone at a point within 60 ft. All creatures in the zone take **4 Void damage** (bypasses Armor and resistances) and must make a **DR 3 Blood** save or move at half speed for 1 round.
+**Effect:** Create a 10 ft radius zone at a point within 60 ft. All creatures in the zone take **4 Void damage** (bypasses Armor and Resistance) and must make a **DR 3 Blood** save or move at half speed for 1 round.
 **Drawback:** -5 Max HP until next long rest. May draw Hylden attention (GM discretion).
 > *You channel Hylden entropy into reality — but their realm's visions and attention haunt you.*
 
@@ -375,7 +375,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 **Trigger:** Once per short rest — Action.
 **Cost:** 2 SE + Gain **1 Corruption**.
 **Effect:** Emit a wail in a 30 ft radius. Enemies make a **DR 3 Will** save: fail = **5 Spectral damage** (bypasses Armor) + no Reactions for 1 round; success = **2 damage**.
-**Drawback:** Gain **1 Corruption** per minute spent in the Spectral Realm until your next long rest.
+**Drawback:** Gain **1 Corruption** at the end of each full minute spent in the Spectral Realm until your next long rest.
 > *Your wail carries the sorrow of lost souls — but it binds you to their torment.*
 
 ---

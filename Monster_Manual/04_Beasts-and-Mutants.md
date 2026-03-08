@@ -150,12 +150,12 @@ Drakes are solitary hunters, but mated pairs will defend their nests to the deat
 **Bite** (Fury 4 + Weapon Mastery 3 = 7d6)
 - Range: Weapon Mastery
 - Damage: 8 Physical damage on success
-- Effect: On Critical Hit (3+ successes), the target is **Bleeding** (2 Physical damage per turn until healed or bandaged with DR 2 Focus + Craft check).
+- Effect: On Critical Hit (3+ successes), the target is **Bleeding** (2 Physical damage at the start of each turn until healed or bandaged with DR 2 Focus + Craft check).
 
 **Flame Breath** (Soul 2 + Weapon Mastery 4 = 6d6, Recharge 5-6)
 - Range: 30-foot cone
 - Damage: 7 Fire damage to all creatures in the cone
-- Effect: Targets must pass a DR 2 Shadow save or be **Burning** (2 Fire damage per turn for 3 turns).
+- Effect: Targets must pass a DR 2 Shadow save or be **Burning** (2 Fire damage at the start of each turn for 3 turns).
 - *Note: This ability uses the Recharge system - roll 1d6 at the start of the Drake's turn; on a 5 or 6, the ability recharges. No SE cost.*
 
 #### Abilities
@@ -356,15 +356,15 @@ Unlike normal dogs, Bloodgullets are viciously intelligent. They can track prey 
 **Blood Fang Bite** (Fury 3 + Weapon Mastery 3 = 6d6)
 - Range: Weapon Mastery
 - Damage: 5 Physical damage on success
-- Effect: On Critical Hit (3+ successes), the Hound heals 5 HP as it drinks the target's blood. The target is also **Bleeding** (2 Physical damage per turn).
+- Effect: On Critical Hit (3+ successes), the Hound heals 5 HP as it drinks the target's blood. The target is also **Bleeding** (2 Physical damage at the start of each turn).
 
 **Savage Lunge** (Fury 3 + Tactics 3 = 6d6, once per turn)
 - Range: 15 feet (leap attack)
 - Damage: 6 Physical damage
-- Effect: The Hound leaps at a target. If the attack succeeds and the target is already wounded (below half HP), they are knocked **Prone**.
+- Effect: The Hound leaps at a target. If the attack succeeds and the target is already Bloodied, they are knocked **Prone**.
 
 #### Abilities
-**Blood Scent**: The Hound can track wounded creatures (below half HP) from up to 1 mile away by scent. They have Advantage on Observation rolls for such targets.
+**Blood Scent**: The Hound can track Bloodied creatures from up to 1 mile away by scent. They have Advantage on Observation rolls for such targets.
 
 **Pack Hunter**: The Hound gains +1 die on attack rolls for each allied Hound within 10 feet (max +3 dice).
 
@@ -461,7 +461,7 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 - Troll's hoard (random: 2d6 x 10 supplies worth of coins, gems, and stolen goods from past victims)
 
 #### Scaling Options
-**Berserker Troll** (Boss, TV 4): +20 HP, increase Fury to 6. Add "Unstoppable Rage" ability (when below half HP, the Troll's attacks deal +2 damage and it gains +1 die on attacks). Add 2 Legendary Actions per round: Move, Attack, or Ground Slam (costs 2 actions).
+**Berserker Troll** (Boss, TV 4): +20 HP, increase Fury to 6. Add "Unstoppable Rage" ability (while Bloodied, the Troll's attacks deal +2 damage and it gains +1 die on attacks). Add 2 Legendary Actions per round: Move, Attack, or Ground Slam (costs 2 actions).
 
 ---
 
@@ -522,7 +522,7 @@ Despite their fearsome appearance, Bramblehide Bears are still animals. They can
 
 **Forest Camouflage**: While in forests or wooded areas, the Bear has Advantage on Stealth rolls. It can Hide as a bonus action.
 
-**Berserker Rage**: When reduced below half HP, the Bear enters a rage. It gains +2 dice on all attacks and immunity to fear effects. It will not flee while raging.
+**Berserker Rage**: While Bloodied, the Bear enters a rage. It gains +2 dice on all attacks and immunity to fear effects. It will not flee while raging.
 
 **Keen Smell**: The Bear can track creatures by scent and has Advantage on Focus + Observation rolls.
 
@@ -581,7 +581,7 @@ Their most unsettling trait is their ability to seemingly vanish mid-combat, onl
 **Phase Claws** (Fury 4 + Observation 4 = 8d6)
 - Range: Weapon Mastery
 - Damage: 6 Physical + 3 Soul damage (claws phase through armor)
-- Effect: This attack ignores DR from armor. On Critical Hit (3+ successes), the target is **Bleeding** (2 Physical damage per turn) and **Shaken** (Disadvantage on next attack).
+- Effect: This attack ignores DR from armor. On Critical Hit (3+ successes), the target is **Bleeding** (2 Physical damage at the start of each turn) and **Shaken** (Disadvantage on next attack).
 
 **Pounce from Nowhere** (Fury 4 + Stealth 5 = 9d6, Recharge 5-6)
 - Range: 30 feet (teleport attack)
@@ -678,7 +678,7 @@ Blightmaw Alphas are solitary territorial hunters. They tolerate no other large 
 
 **Regeneration**: Regains 3 HP at the start of each turn. This regeneration is stopped for 1 round if the Blightmaw takes Fire or Radiant damage.
 
-**Territorial Rage**: When bloodied (below 30 HP), the Blightmaw gains +5 feet of movement speed and Advantage on Grapple-related attacks. It will not retreat from its territory under any circumstances.
+**Territorial Rage**: While Bloodied, the Blightmaw gains +5 feet of movement speed and Advantage on Grapple-related attacks. It will not retreat from its territory under any circumstances.
 
 **Corruption-Touched**: The Blightmaw radiates faint Corruption. Creatures that start their turn grappled by it must make a DR 1 Blood save or gain 1 Corruption point (the toxins seep through contact).
 
@@ -1112,7 +1112,7 @@ They have no intelligence beyond predatory instinct, but they are extremely effe
 **Athletics:** Moves through earth, gravel, and soft stone freely. Cannot burrow through worked stone (dungeon floors older than a century may count as worked stone at GM discretion).
 
 #### Tactics
-The Tunnelworm spends its first round burrowing beneath the party while they enter the area, erupting among them for maximum disruption. It Chomps the most heavily armored target (whose vibration-footstep is largest/heaviest) and uses Earth Tremor to knock prone any melee party members who resist its initial attack. Once at or below half HP, it burrows away.
+The Tunnelworm spends its first round burrowing beneath the party while they enter the area, erupting among them for maximum disruption. It Chomps the most heavily armored target (whose vibration-footstep is largest/heaviest) and uses Earth Tremor to knock prone any melee party members who resist its initial attack. Once Bloodied, it burrows away.
 
 #### Loot
 - Worm hide (thick, tough; 1d3 sections) - **Trade Value**: 10 supplies (light armor crafting)
@@ -1120,7 +1120,7 @@ The Tunnelworm spends its first round burrowing beneath the party while they ent
 - Athletics gland (alchemical component, rare) - **Trade Value**: 20 supplies
 
 #### Scaling Options
-**Elder Tunnelworm (Boss, TV 4):** HP 55, DV 5, Armor 4, Fury 4. Chomp deals 10 damage. Add **Swallow Whole**: when Grappling a creature, can attempt to Swallow (Fury 4 vs DR 4 Blood save). Swallowed creature is Restrained, Blinded, and takes 8 acid per turn; escape requires DR 4 Athletics from inside.
+**Elder Tunnelworm (Boss, TV 4):** HP 55, DV 5, Armor 4, Fury 4. Chomp deals 10 damage. Add **Swallow Whole**: when Grappling a creature, can attempt to Swallow (Fury 4 vs DR 4 Blood save). Swallowed creature is Restrained, Blinded, and takes 8 acid damage at the start of each turn; escape requires DR 4 Athletics from inside.
 
 ---
 
@@ -1224,7 +1224,7 @@ The creature is not intelligent; it operates entirely on chemical detection of w
 **While Attached (Passive):**
 - The Leech does not take actions - it drains passively
 - At the start of each of the host's turns: host loses 1 HP and must make a DR 2 Blood save or gain **1 Corruption point**
-- The Leech regains 2 HP per round while attached
+- At the start of each of the host's turns, the Leech regains 2 HP while attached
 - A single host can have a maximum of 4 Leeches attached simultaneously
 
 #### Abilities
@@ -1235,7 +1235,7 @@ The creature is not intelligent; it operates entirely on chemical detection of w
 **Near-Invisible:** In dim light or darkness, Corruption Leeches are automatically unseen by Passive Observation (require active check DR 3 Focus to spot before they attack).
 
 ### Tactics & Strategy
-Corruption Leeches do not engage in traditional combat. They crawl onto creatures during movement through their territory, attempt Latch-On, and drain passively. Their primary danger is mass accumulation: 4 Leeches attached to a PC deals 4 HP + up to 4 Corruption points per round passively while the PC cannot take other actions. Fire is the universal counter-measure (but that may be a problem indoors or in a library).
+Corruption Leeches do not engage in traditional combat. They crawl onto creatures during movement through their territory, attempt Latch-On, and drain passively. Their primary danger is mass accumulation: 4 Leeches attached to a PC deal 4 HP damage and can inflict up to 4 Corruption points at the start of each of the PC's turns while the PC cannot take other actions. Fire is the universal counter-measure (but that may be a problem indoors or in a library).
 
 Use them to preface larger combat encounters - a party that wades through a Leech-infested swamp arrives at the dungeon entrance already at Corruption disadvantage.
 

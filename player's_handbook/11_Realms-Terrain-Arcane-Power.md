@@ -66,15 +66,15 @@ Exists partially in the Spectral Realm. Non-Spectral entities need glyphs or spe
 
 
 Corrupted Ground
-Causes 1 stress or minor corruption with prolonged exposure (per scene). Certain perks grant immunity. Examples: Hylden-tainted soil, cursed altars.
+At the end of each scene of prolonged exposure, causes 1 stress or minor corruption. Certain perks grant immunity. Examples: Hylden-tainted soil, cursed altars.
 
 
 Holy Ground
-Deals 1 damage per round to undead or corrupted creatures. Boosts DR by 1 for holy casters or relics. Examples: consecrated shrines, Sarafan sanctums.
+Deals 1 damage at the start of each turn to undead or corrupted creatures. Boosts DR by 1 for holy casters or relics. Examples: consecrated shrines, Sarafan sanctums.
 
 
 Bloodsoaked Terrain
-Grants +1 success to Blood Mages’ rolls; may allow free Blood Point (BP) recovery once per scene if fed upon. Examples: battlefields, ritual sites.
+Grants +1 success to Blood Mages’ rolls; may allow one free Blood Point (BP) recovery each scene if fed upon. Examples: battlefields, ritual sites.
 
 
 Arcane Nexus

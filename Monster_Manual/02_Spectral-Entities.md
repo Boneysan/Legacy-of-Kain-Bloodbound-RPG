@@ -2,7 +2,7 @@
 
 *"The Spectral Realm is not death—it is between. And what dwells between hungers for what it has lost."*
 
-This chapter covers denizens of the Spectral Realm—wraiths, shades, echoes, and entities that exist in the space between Material and immaterial. These creatures phase through walls, ignore physical armor, and drain the very essence of living beings.
+This chapter covers denizens of the Spectral Realm—wraiths, shades, echoes, and entities that exist in the space between Material and immaterial. These creatures phase through walls, ignore Physical Armor, and drain the very essence of living beings.
 
 ---
 
@@ -18,7 +18,7 @@ Most spectral entities share:
 - **Incorporeal:** Immune to nonmagical physical damage
 - **Phase Movement:** Can pass through walls and objects
 - **Spectral Sight:** Can see into both realms simultaneously
-- **Soul Damage:** Attacks bypass physical armor
+- **Soul Damage:** Attacks ignore Physical Armor
 - **Elder God Connection:** Many serve the Wheel of Fate
 
 ### Combating Spectral Threats
@@ -58,7 +58,7 @@ Echo Serpents are the spectral remnants of great serpents that died in places of
 ### Attacks
 **Spectral Bite** (Action)
 - **Dice Pool:** Fury 3 + 0 = 3d6
-- **Damage:** 5 Soul damage (ignores physical armor)
+- **Damage:** 5 Soul damage (ignores Physical Armor)
 - **Special:** Target must make DR 2 Will save or suffer Soul Drained (max SE reduced by 2 until short rest)
 
 **Coiling Grasp** (Action, requires hit with Spectral Bite)
@@ -453,10 +453,10 @@ In the Legacy of Kain canon, the Sluagh haunt the spaces between meaningful afte
 ### Attacks
 **Carrion Grasp** (Action)
 - **Dice Pool:** Soul (2) + Unarmed Combat (1) = 3d6
-- **Damage:** 4 Soul damage (ignores physical armor)
+- **Damage:** 4 Soul damage (ignores Physical Armor)
 - **Special:** On hit, the target loses 1 SE (Soul Energy). If the target has no SE remaining, the Sluagh instead deals +2 bonus damage as it feeds on residual soul-stuff.
 
-**Feeding Frenzy** (Bonus Action, only usable when target is below half HP or has 0 SE)
+**Feeding Frenzy** (Bonus Action, only usable when target is Bloodied or has 0 SE)
 - **Effect:** The Sluagh latches onto the target. At the start of each of the target's turns, they take 3 Soul damage and lose 1 SE. Escape requires a DR 2 Will save as an Action. Other Sluagh within 30 ft are drawn to the target, gaining +1 to their next attack roll against them.
 
 ### Special Abilities
@@ -464,14 +464,14 @@ In the Legacy of Kain canon, the Sluagh haunt the spaces between meaningful afte
 
 **Spectral Nature:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease, Frightened.
 
-**Carrion Sense:** Detects creatures with reduced SE, below half HP, or actively Fading within 120 feet, regardless of walls or concealment. This is the Sluagh's primary hunting sense.
+**Carrion Sense:** Detects creatures with reduced SE, Bloodied creatures, or actively Fading creatures within 120 feet, regardless of walls or concealment. This is the Sluagh's primary hunting sense.
 
-**Cowardly Scavenger:** A Sluagh will not attack a target at full HP unless it is part of a swarm of 3+ Sluagh. If reduced below half HP while alone, it flees into the Spectral Realm.
+**Cowardly Scavenger:** A Sluagh will not attack a target at full HP unless it is part of a swarm of 3+ Sluagh. If Bloodied while alone, it flees into the Spectral Realm.
 
 **Swarm Intelligence (Swarm only):** When 3+ Sluagh are within 30 ft of each other, they gain +1 DV and their Carrion Grasp deals +2 damage. At 5+, they gain an additional +1 to hit.
 
 ### Tactics
-Sluagh lurk at the edges of combat, waiting for someone to weaken. They do not initiate fights against healthy parties. Instead, they trail the group at a distance (detectable via Carrion Sense—a PC with Observation may notice the growing "pressure" of spectral attention). Once a PC drops below half HP or expends significant SE, the Sluagh close in. In the Spectral Realm, they are bolder and attack in swarms from multiple directions, targeting Wraiths and phased characters.
+Sluagh lurk at the edges of combat, waiting for someone to weaken. They do not initiate fights against healthy parties. Instead, they trail the group at a distance (detectable via Carrion Sense—a PC with Observation may notice the growing "pressure" of spectral attention). Once a PC becomes Bloodied or expends significant SE, the Sluagh close in. In the Spectral Realm, they are bolder and attack in swarms from multiple directions, targeting Wraiths and phased characters.
 
 **GM Note:** Sluagh are atmospheric threats, not boss monsters. Use them to make the Spectral Realm feel alive and predatory. A swarm of Sluagh descending on a Fading NPC Wraith is a memorable horror set-piece. A lone Sluagh trailing the party through spectral corridors builds tension without requiring combat.
 
@@ -551,7 +551,7 @@ Sluagh lurk at the edges of combat, waiting for someone to weaken. They do not i
 - 1 Gravewind Entity at center of storm
 - 8-10 Soul-Eater Shades circling entity
 - 2 Mirror Wraiths as lieutenants
-- Environmental hazard: Spectral wind causes 3 Soul damage per turn to exposed creatures
+- Environmental hazard: Spectral wind causes 3 Soul damage at the start of each turn to exposed creatures
 - Treasure: Eye of the Storm artifact, ancient relics, massive cache of souls
 
 ### Story Hooks
@@ -679,7 +679,7 @@ They possess no intelligence beyond a dim awareness of the living. They don't pl
 **Chill Touch** (Action)
 - **Dice Pool:** Soul 1 + Shadow 2 = 3d6 vs Will
 - **Range:** Weapon Mastery (passes through armor — incorporeal touch)
-- **Damage:** 3 Soul damage (cold, passes physical armor)
+- **Damage:** 3 Soul damage (cold, ignores Physical Armor)
 - **Special:** On hit, target cannot regain HP until the start of their next turn
 
 ### Special Abilities

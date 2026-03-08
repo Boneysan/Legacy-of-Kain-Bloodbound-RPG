@@ -84,7 +84,7 @@ Kain appears as a towering, regal vampire with aristocratic features twisted by 
 
 ### Powers & Abilities
 - **Temporal Manipulation:** Can glimpse alternate timelines and possible futures
-- **Soul Reaver Mastery:** Wields a blade containing Raziel's soul, bypassing most defenses
+- **Soul Reaver Mastery:** Wields a blade containing Raziel's soul, ignoring Physical Armor and bypassing many mundane barriers
 - **Spectral Sight:** Perceives both Material and Spectral Realms simultaneously
 - **Blood Sorcery:** Commands ancient vampire magic few remember
 - **Near-Immortality:** Has survived events that would destroy lesser beings
@@ -143,11 +143,11 @@ When Raziel's essence manifests from the Soul Reaver, he appears as a spectral w
 **Core Drive:** In life, sought to understand his purpose and break free of manipulation. In "death" (as essence within the blade), seeks to help others avoid being pawns of fate.
 
 ### Powers & Abilities
-- **Phase Strike:** Can ignore physical barriers and armor
+- **Phase Strike:** Can ignore physical barriers and Physical Armor
 - **Soul Consumption:** Drains essence from the defeated
 - **Spectral Dominance:** Commands lesser spectral entities
 - **Truth Sense:** Perceives lies, illusions, and hidden truths
-- **Wraith Form:** Exists partially in Spectral Realm, resistant to physical harm
+- **Wraith Form:** Exists partially in the Spectral Realm, granting Resistance to Physical damage
 - **Echo Manifestation:** Can briefly manifest through the Soul Reaver to communicate
 
 ### Using Raziel in Your Campaign
@@ -610,6 +610,7 @@ Adamas is a lean, ageless vampire with close-cropped grey hair and spectacles he
 
 **Abilities**
 - **Silver Tongue:** Advantage on Persuasion and Deception checks. Can reroll one failed social check per scene.
+- **Silver Tongue:** Advantage on Persuasion and Deception checks. Can reroll one failed social check once per scene.
 - **Accord Cipher:** Can encode/decode Pale Accord diplomatic messages. Carries sealed letters that, if delivered, can call in favours from Accord contacts across Nosgoth.
 - **Pact of Restraint:** Adamas has voluntarily suppressed his vampiric feeding instinct. He does not regenerate naturally but is immune to vampiric frenzy (the involuntary combat state triggered at 0 HP).
 - **Emergency Mist (1/day):** Can dissolve into mist and flee if reduced below 5 HP.

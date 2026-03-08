@@ -280,7 +280,7 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 **Silver Longsword** (Fury 4 + Weapon Mastery 4 = 8d6)
 - Range: Weapon Mastery
 - Damage: 6 Physical damage on success, 8 damage vs undead or vampires
-- Effect: On Critical Hit (3+ successes), inflict Burning (2 Radiant damage per turn, lasts 3 turns). Vampires have Disadvantage on rolls to extinguish Burning.
+- Effect: On Critical Hit (3+ successes), inflict Burning (2 Radiant damage at the start of each turn for 3 turns). Vampires have Disadvantage on rolls to extinguish Burning.
 
 **Judgement Strike** (Fury 4 + Forbidden Knowledge 4 = 8d6, Recharge 5-6)
 - Range: Weapon Mastery
@@ -358,7 +358,7 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 **Rusty Axe** (Fury 3 + Weapon Mastery 2 = 5d6)
 - Range: Weapon Mastery
 - Damage: 4 Physical damage on success
-- Effect: On Critical Hit (3+ successes), the target begins Bleeding (1 Physical damage per turn until they spend an action and pass a DR 1 Focus + Craft check to stop it, or receive magical healing).
+- Effect: On Critical Hit (3+ successes), the target begins Bleeding (1 Physical damage at the start of each turn until they spend an action and pass a DR 1 Focus + Craft check to stop it, or receive magical healing).
 
 **Shortbow Ambush** (Focus 2 + Tactics 3 = 5d6)
 - Range: 30 feet
@@ -368,7 +368,7 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 #### Abilities
 **Pack Mentality**: Raiders gain Advantage on attack rolls while at least one ally is within 10 feet (this does not stack beyond Advantage).
 
-**Cowardly Retreat**: When reduced below half HP, the Raider must pass a DR 2 Will save or spend their turn fleeing at double movement speed. If their leader is killed or if more than half their warband is dead, they automatically fail this save.
+**Cowardly Retreat**: While Bloodied, the Raider must pass a DR 2 Will save or spend their turn fleeing at double movement speed. If their leader is killed or if more than half their warband is dead, they automatically fail this save.
 
 **Stealth Setup**: If the Raiders have time to prepare (ambushing travelers on a road, setting a trap in a canyon), they begin combat Hidden. PCs must pass a DR 2 Focus + Observation check to avoid being Surprised (lose first turn).
 
@@ -384,7 +384,7 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 - Map to raider camp (if interrogated or looted from leader)
 
 #### Scaling Options
-**Veteran Raider** (TV 1.5): +6 HP, increase Fury and Weapon Mastery to 3. Replace Cowardly Retreat with "Last Stand" (when below half HP, gain +2 dice on attacks instead of fleeing).
+**Veteran Raider** (TV 1.5): +6 HP, increase Fury and Weapon Mastery to 3. Replace Cowardly Retreat with "Last Stand" (while Bloodied, gain +2 dice on attacks instead of fleeing).
 
 **Raider Chieftain** (Elite, TV 2): +12 HP, increase Fury to 4, Tactics to 4. Add "Warlord's Tactics" ability (once per turn, grant an ally Advantage on their next attack roll). Chieftains never flee while their warband lives.
 
@@ -434,7 +434,7 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 **Hylden Flame** (Soul 5 + Glyphcasting 4 = 9d6, costs 2 SE)
 - Range: 30-foot cone
 - Damage: 5 Fire damage to all creatures in the cone
-- Effect: Targets must pass a DR 3 Shadow save or also be Burning (2 Fire damage per turn for 3 turns).
+- Effect: Targets must pass a DR 3 Shadow save or also be Burning (2 Fire damage at the start of each turn for 3 turns).
 
 **Rune of Torment** (Soul 5 + Glyphcasting 4 = 9d6, Recharge 5-6, costs 3 SE)
 - Range: 30 feet
@@ -506,7 +506,7 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 **Assassin's Blade** (Shadow 5 + Stealth 3 = 8d6)
 - Range: Weapon Mastery
 - Damage: 7 Physical damage on success
-- Effect: On Critical Hit (3+ successes), the target is Bleeding (2 Physical damage per turn) and Poisoned (Disadvantage on attacks and saves, lasts 3 turns).
+- Effect: On Critical Hit (3+ successes), the target is Bleeding (2 Physical damage at the start of each turn) and Poisoned (Disadvantage on attacks and saves, lasts 3 turns).
 
 **Poisoned Dart** (Focus 4 + Stealth 3 = 7d6)
 - Range: 30 feet
@@ -515,7 +515,7 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 
 **Coup de Grace** (Shadow 5 + Stealth 3 = 8d6, only usable when Hidden or vs Stunned/Sleeping targets)
 - Range: Weapon Mastery
-- Damage: Deals triple weapon damage to incapacitated or sleeping targets (ignores armor).
+- Damage: Deals triple weapon damage to incapacitated or sleeping targets (ignores Armor).
 - Effect: This attack automatically has Advantage.
 
 #### Abilities
@@ -650,7 +650,7 @@ The outer ring of Hash'ak'gik's worship—mortals seduced by visions of a god th
 - Weapon Mastery (Fury): 1
 
 #### Abilities
-**Blood-Prayer** (Bonus Action, 1/scene): Speak the demon's name. All Acolytes within 30 ft gain +1 to their next attack roll and become immune to the Frightened condition until end of next turn.
+**Blood-Prayer** (Bonus Action, once per scene): Speak the demon's name. All Acolytes within 30 ft gain +1 to their next attack roll and become immune to the Frightened condition until end of next turn.
 
 **Vessel's Calm** (Passive): Immune to Morale checks. Acolytes of Hash'ak'gik never flee, never surrender, and never negotiate once combat begins. This should unnerve players accustomed to mortal enemies breaking.
 
@@ -706,7 +706,7 @@ A mortal hollowed out by Hash'ak'gik's will and rebuilt as a living conduit for 
 
 **Demonic Surge** (Melee or Ranged, 1 Action): Soul (4) + Forbidden Knowledge (2) = 6d6 vs DV. Deals 8 Force damage. The Vessel's hands crackle with black-red energy. On hit, the target must make a DR 2 Blood save or gain 1 Corruption.
 
-**Blood Conduit** (Reaction, 1/scene): When reduced below half HP, the Vessel sacrifices one adjacent Acolyte (killing them instantly) to restore 15 HP and gain +1 DV until end of next turn.
+**Blood Conduit** (Reaction, once per scene): The first time the Vessel becomes Bloodied, it sacrifices one adjacent Acolyte (killing them instantly) to restore 15 HP and gain +1 DV until end of next turn.
 
 **Possession Cascade** (Special, 1/encounter): If the Vessel is killed, the demonic essence attempts to leap to the nearest mortal within 15 ft (including PCs). Target must make a DR 4 Will save. On failure, they are Stunned for 1 round and gain 2 Corruption. On success, the essence dissipates—for now.
 
@@ -809,7 +809,7 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 **Key Weakness:** The Grand Inquisitor is mortal. No regeneration, no Mist Form, no resurrection. Overwhelm with sustained damage, separate from allies, or attack at range to avoid the Sanctified Aura. Disrupting SE (via drain or anti-magic effects) severely limits Divine Condemnation and Sanctified Judgment.
 
 #### Loot
-- Purifier's Mace (holy weapon, deals +3 Radiant to undead; wielder who is undead/vampiric takes 3 Radiant per round while holding it) — **Trade Value**: 150 supplies
+- Purifier's Mace (holy weapon, deals +3 Radiant to undead; wielder who is undead/vampiric takes 3 Radiant damage at the start of each turn while holding it) — **Trade Value**: 150 supplies
 - Sarafan Grand Plate (Armor 4 Physical, Armor 2 Magic, grants immunity to fear; bears Sarafan insignia, making the wearer a target for all vampire factions) — **Trade Value**: 200 supplies
 - Holy symbol of the Grand Inquisitor (cast Divine Condemnation 1/day, DR 3 Soul check required) — **Trade Value**: 120 supplies
 - Sealed orders (reveals Sarafan strategic objectives, troop movements, or targeted individuals — major plot hook) — **Trade Value**: Priceless to the right faction
@@ -862,7 +862,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 **Rending Claws** (Fury 5 + Unarmed Combat 3 = 8d6)
 - Range: Weapon Mastery
 - Damage: 8 Physical (Slashing) + Bleeding
-- Effect: On Critical Hit (3+ successes), inflicts 2 Bleeding stacks (4 damage per turn). The Turning's newly formed claws are ragged and tear flesh in jagged strips.
+- Effect: On Critical Hit (3+ successes), inflicts 2 Bleeding stacks (4 damage at the start of each turn). The Turning's newly formed claws are ragged and tear flesh in jagged strips.
 
 **Desperate Bite** (Fury 5 + Unarmed Combat 3 = 8d6, requires target is Grappled or Prone)
 - Range: Weapon Mastery
@@ -882,7 +882,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 
 **Vampiric Resilience**: Regenerates 3 HP at the start of each turn. This regeneration is stopped for 1 round if the Turning takes Radiant or Fire damage.
 
-**Feral Desperation**: When reduced below half HP (27 or less), the Turning gains +2 dice on all attack rolls but loses the ability to distinguish friend from foe — it attacks the nearest creature regardless of allegiance. The GM controls targeting.
+**Feral Desperation**: While Bloodied, the Turning gains +2 dice on all attack rolls but loses the ability to distinguish friend from foe — it attacks the nearest creature regardless of allegiance. The GM controls targeting.
 
 **Tragic Nature**: A DR 4 Craft or Rituals check as an Action can identify that this creature was recently human and that the transformation is incomplete. A DR 5 Rituals check performed over 3 consecutive rounds (the caster must maintain concentration and remain within 5 feet) can halt the transformation, reverting the creature to an unconscious mortal with 1 HP and 3 Corruption. The Turning fights normally during this process.
 
@@ -903,7 +903,7 @@ The Turning has no tactics — it is a creature in agony, acting on fractured in
 #### Scaling Options
 **Early Turning** (Standard, TV 1): HP 25, DV 4, Fury 3, Blood 2. Remove Feral Desperation. Unstable Form always rolls 1–2 (the transformation is failing). DR 3 Rituals check to save (only 1 round needed).
 
-**Complete Turning** (Boss, TV 4): HP 70, DV 6, Fury 6, Blood 5. Remove Tragic Nature (the person is gone). Add Vampiric Regeneration 4 HP/turn. Add Legendary Actions (2/round): Rending Claws (1), Blood Cry (2). The creature is now a full feral vampire in all but name.
+**Complete Turning** (Boss, TV 4): HP 70, DV 6, Fury 6, Blood 5. Remove Tragic Nature (the person is gone). Add Vampiric Regeneration (regains 4 HP at the start of each turn). Add Legendary Actions (2/round): Rending Claws (1), Blood Cry (2). The creature is now a full feral vampire in all but name.
 
 ---
 
@@ -935,7 +935,7 @@ The Turning has no tactics — it is a creature in agony, acting on fractured in
 
 **Tactics**: Fanatics form a defensive line at the chapel entrance, using Martyrdom Lunge to soften up intruders. Ghouls swarm isolated PCs. The Priest stays in the back, using Dark Blessing on Ghouls and Corrupted Smite on casters.
 
-**Environmental Factor**: The chapel has a central brazier. If knocked over (requires a Fury + Athletics roll, DR 2), it spreads fire across the room, dealing 3 Fire damage per turn to all creatures inside.
+**Environmental Factor**: The chapel has a central brazier. If knocked over (requires a Fury + Athletics roll, DR 2), it spreads fire across the room, dealing 3 Fire damage at the start of each turn to all creatures inside.
 
 **Twist**: The Priest carries a letter revealing he's working for a local noble who wants to destabilize the region.
 

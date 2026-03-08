@@ -17,7 +17,7 @@ In the cursed land of Nosgoth, combat is a brutal dance of blood and shadow, whe
 - 9.13 Combat Example
 - 9.14 GM Guidance
 
-Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. Force, Spectral, and Entropic interactions are detailed in Chapters 5 (Magic) and 8 (Corruption).
+Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. A creature is Bloodied at 50% of its maximum HP or lower. Resistance halves damage after Armor interaction, while Immunity negates it entirely. Effects that bypass Resistance do not bypass Immunity unless they say so explicitly. Force, Spectral, and Entropic interactions are detailed in Chapters 5 (Magic) and 8 (Corruption).
 
 ## 9.1 Combat Overview
 
@@ -48,7 +48,7 @@ To strike an enemy, whether with claw, blade, or spell, follow these steps:
 - **Compare to Defense Value (DV)**: The target's DV is the number of successes required to hit. DV is typically 1 + (higher of Shadow or Will), modified by armor, perks, or effects. **DV Cap:** A character's DV from attributes, armor, and perks cannot exceed 6; only temporary cover and active defense reactions can push it higher.
 - **Resolve Hit**: If successes meet or exceed the DV, the attack hits. Deal damage based on the weapon or ability, reduced by the target’s armor (unless bypassed by damage type). Extra successes (beyond DV) can enhance the attack (see Section 9.6).
 
-**Example**: Raziel (Fury 3, Weapon Mastery 4) attacks a vampire hunter (DV 2, Armor 1) with a reaver blade (Slashing, 3 damage). He rolls 7 dice, getting 6, 6, 5, 4, 3, 2, 1 (3 successes). The attack hits (3 ≥ 2), dealing 3 damage minus Armor 1 = 2 damage. The extra success can add +1 damage (total 3) or inflict Bleeding (1 damage for 2 rounds).
+**Example**: Raziel (Fury 3, Weapon Mastery 4) attacks a vampire hunter (DV 2, Armor 1) with a reaver blade (Slashing, 3 damage). He rolls 7 dice, getting 6, 6, 5, 4, 3, 2, 1 (3 successes). The attack hits (3 ≥ 2), dealing 3 damage minus Armor 1 = 2 damage. The extra success can add +1 damage (total 3) or inflict standard Bleeding (1 damage at the start of each turn for 1d3 rounds).
 
 ## 9.4 Defense and Armor
 
@@ -66,8 +66,21 @@ Damage reflects the toll of Nosgoth’s brutal conflicts, from claw slashes to s
 
 - **Damage Calculation**: Based on the weapon or ability (e.g., Reaver Blade: 3 Slashing damage, Fire Glyph: 4 Fire damage). Subtract the target’s armor from physical damage types; other types may bypass armor or have unique effects (see Section 9.6).
 - **Health Points (HP)**: Tracks physical endurance. At 0 HP, a character falls **Unconscious** and begins making **Death Saves** (see below).
+- **Bloodied Threshold**: A creature is **Bloodied** when its current HP is at or below 50% of its maximum HP. If an effect ends "when the target is Bloodied," this is the threshold it uses.
 - **Wounds and Sanity Loss**: Some attacks (e.g., cursed weapons, Spectral or Entropic damage) inflict Wounds (lasting injuries) or Corruption (spiritual taint), detailed in Chapter 8.
 - **Healing**: Limited in Nosgoth, often requiring blood consumption (for vampires), glyphs, or rare artifacts. Entropic damage cannot be healed by non-magical means until a rest.
+
+### Damage Resolution Order
+
+Unless a specific ability says otherwise, resolve damage in this order:
+
+1. Start with the attack or effect's listed damage.
+2. Apply the damage type's Armor rule: normal reduction, halved Armor, bypassed Armor, or ignored physical Armor.
+3. Apply flat Armor reduction if that damage type still interacts with Armor.
+4. Apply **Resistance** or any vulnerability-like doubling effect.
+5. Apply **Immunity** if present; Immunity reduces the damage to 0 and prevents the associated rider unless the source explicitly bypasses Immunity.
+
+If an effect says it **bypasses Resistance**, it ignores only Step 4. It does not defeat Immunity unless it says so explicitly.
 
 **Example**: A Dumahim vampire (HP 10, Armor 2) takes 5 Piercing damage from a spear (ignores 1 Armor). After Armor, 4 damage is applied (5 – 1 = 4), reducing HP to 6.
 
@@ -93,7 +106,7 @@ Nosgoth’s warriors turn success into dominance. Extra successes (beyond those 
 ### In Combat:
 - **+1 Damage**: Add 1 damage per extra success (up to weapon or GM limit).
 - **Status Effects**:
-  - **Physical**: *Staggered* (cannot take Reactions) or *Bleeding* (1 damage/round for 2 rounds).
+  - **Physical**: *Staggered* (cannot take Reactions) or *Bleeding* (standard: 1 damage at the start of each turn for 1d3 rounds, unless the source says otherwise).
   - **Elemental**: *Slowed* (movement halved) or *Shocked* (disadvantage on attacks).
   - **Force**: *Prone* (target falls) or *Pushed* (moved 5-10 ft).
   - **Spectral**: *Soul Drain* (target loses 1 Soul Energy, attacker gains 1).
@@ -124,11 +137,15 @@ Nosgoth’s conflicts are shaped by diverse damage types, consolidated into six 
   - *Piercing* tends to ignore 1 Armor naturally.
   - *Slashing* tends to cause Bleeding.
 
+Bleeding uses the glossary definition unless a source provides custom numbers. Standard Bleeding deals 1 damage at the start of each turn for 1d3 rounds. If a source applies stronger Bleeding, a different duration, or separate Bleeding applications, that source text overrides the standard version.
+
+Unless a source explicitly says otherwise, recurring effects resolve at the start of the affected creature's turn. This includes damage over time, Corruption gained over time, and repeating regeneration or healing.
+
 ### 9.7.2 Elemental Damage
 - **Includes**: Fire, Cold, Lightning.
 - **Definition**: Raw natural energies, often summoned by glyphs or alchemical items.
 - **Effects**: Halves Armor effectiveness (round down).
-  - *Fire* causes Burning (damage over time).
+  - *Fire* causes Burning (damage at the start of each turn).
   - *Cold* causes Slowed or Frozen.
   - *Lightning* causes Shocked (disadvantage).
 

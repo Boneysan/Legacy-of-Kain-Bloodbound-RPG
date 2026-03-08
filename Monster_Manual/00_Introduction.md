@@ -159,8 +159,8 @@ To scale a creature up or down:
 ### Adding Variants
 
 **Environmental Adaptation:**
-- **Fire-Touched:** +2 Fire damage on attacks, resistance to Fire
-- **Frost-Wreathed:** Attacks inflict Slowed, resistance to Cold
+- **Fire-Touched:** +2 Fire damage on attacks, Resistance to Fire
+- **Frost-Wreathed:** Attacks inflict Slowed, Resistance to Cold
 - **Spectral-Touched:** Can phase partially, +1 DV
 - **Corrupted:** +1 Corruption damage, more aggressive tactics
 

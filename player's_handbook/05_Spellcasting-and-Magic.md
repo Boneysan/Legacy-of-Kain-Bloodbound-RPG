@@ -74,7 +74,7 @@ When a spell lists a save (e.g., *DR 2 Blood save*), the target rolls **Attribut
 ## 5.4 Advanced Spell Mechanics
 
 - **Area of Effect (AoE):** Affects shapes like radii or cones; targets save to halve/negate. No attack roll needed for point-targeted AoE.
-- **Resistances and Immunities:** Creatures may resist (half damage) or be immune to types (e.g., Fire, Soul). Corrupted beings may be vulnerable to holy effects.
+- **Resistances and Immunities:** Resistance halves damage after the relevant Armor interaction. Immunity negates the damage or effect entirely. Effects that bypass Resistance do not bypass Immunity unless they say so explicitly. Corrupted beings may still be vulnerable to holy effects if a source grants that weakness.
 - **Critical Spell Effects:** Attack rolls with 3+ successes or exceeding DV by 2+ deal bonus damage, inflict status, or trigger spell-specific effects.
 - **Spell Duration:** Instantaneous, rounds/minutes, concentration-based, or permanent until dispelled.
 
@@ -104,7 +104,7 @@ Use your single Reaction per round to respond:
 
 ## 5.8 Defining a "Scene" in Spellcasting
 
-A "scene" is a distinct narrative segment (e.g., combat encounter, social negotiation, exploration of a chamber). Abilities limited to "once per scene" refresh when the GM declares a new scene begins.
+A "scene" is a distinct narrative segment (e.g., combat encounter, social negotiation, exploration of a chamber). Abilities limited to "once per scene" refresh when the GM declares a new scene begins. If an effect repeats each minute, resolve it at the end of each full minute unless the source says otherwise.
 
 ## 5.9 Learning and Preparing Spells
 
@@ -135,7 +135,7 @@ This compendium lists spells by tier and category. Class access by spell school 
 - **Blood Thread:** Cost: 1 BP. 30 ft; create sticky thread for manipulation or tripwire.
 - **Blood Trace:** Cost: 1 BP. 1 min cast; sense direction/distance to blood sample's owner for 10 min.
 - **Coagulate:** Cost: 1 BP. Touch; end Bleeding or stabilize dying target.
-- **Crimson Slash:** Cost: 1 BP. Self/15 ft; form blade (3 Physical (Slashing), Bleed 1/round) or whip (2 Physical (Slashing) + DR 2 Evasion or Bleed).
+- **Crimson Slash:** Cost: 1 BP. Self/15 ft; form blade (3 Physical (Slashing) + standard Bleeding) or whip (2 Physical (Slashing) + DR 2 Evasion or standard Bleeding).
 - **Hemostatic Pulse:** Cost: 1 BP. Touch; heal 2 HP (1/min limit).
 - **Minor Bloodshield:** Cost: 1 BP. Reaction/Bonus; grant 3 + Soul Temporary HP.
 - **Pulse Spike:** Cost: 1 BP. 30 ft; spell attack, 1 Spectral damage + DR 2 Blood save or Disadvantage on the target's next attack or check.
@@ -170,7 +170,7 @@ This compendium lists spells by tier and category. Class access by spell school 
 #### Glyph Spells
 - **Glyph of Binding:** Cost: 2 SE. Touch; triggers on entry; DR 2 Evasion or Restrained for Soul rounds (up to 3 targets).
 - **Glyph of Chains:** Cost: 2 SE. Touch; triggers on large creature; DR 3 Blood or Restrained + no teleport 1 min.
-- **Glyph of Cinders:** Cost: 2 SE. Touch; triggers on approach; 2 Elemental (Fire) damage/round in 10-ft area for 3 rounds + difficult terrain.
+- **Glyph of Cinders:** Cost: 2 SE. Touch; triggers on approach; creatures in the 10-ft area take 2 Elemental (Fire) damage at the start of each turn for 3 rounds + difficult terrain.
 - **Glyph of Displacement:** Cost: 2 SE. Touch; triggers on touch; DR 2 Will or teleport 15 ft random.
 - **Glyph of Echoes:** Cost: 2 SE. Touch; records/copies halved Initiate/Adept glyph 1 round later.
 - **Glyph of Entropy:** Cost: 2 SE. Touch; triggers on spellcast; DR 2 Will or fail spell + equipment flaw 1 min.
@@ -180,15 +180,15 @@ This compendium lists spells by tier and category. Class access by spell school 
 - **Shatter Sigil:** Cost: 2 SE. 30 ft; Soul + Glyph vs. DR to dispel glyph safely.
 
 #### Blood Spells
-- **Bleeding Curse:** Cost: 2 BP. 30 ft; DR 3 Will or Bleed on any Physical damage for concentration 1 min.
+- **Bleeding Curse:** Cost: 2 BP. 30 ft; DR 3 Will or, for 1 minute while you maintain concentration, any Physical damage the target takes also inflicts standard Bleeding.
 - **Blood Mirror:** Cost: 2 BP. Reaction on damage; reflect half damage as Spectral damage to attacker.
 - **Blood Puppet:** Cost: 2 BP. 30 ft Bleeding target; DR 2 Will or control next turn (non-suicidal).
-- **Blood Scent:** Cost: 1 BP. Bonus; self; detect Bleeding/low-HP creatures within 60 ft for 10 min.
+- **Blood Scent:** Cost: 1 BP. Bonus; self; detect Bleeding or Bloodied creatures within 60 ft for 10 min.
 - **Crimson Bind:** Cost: 2 BP. 10-ft radius in 60 ft; DR 2 Blood/Evasion or Rooted/speed halved for Soul rounds.
 - **Crimson Mantle:** Cost: 2 BP. Bonus; self; +1 Armor 1 min + attacker DR 2 Will or Disadvantage on their next attack.
 - **Echo Wound:** Cost: 1 BP. Reaction on enemy healing; half healed as Physical damage + healer DR 2 Will or 1 Corruption.
-- **Hemorrhage Halo:** Cost: 2 BP. Self; 10-ft radius; DR 2 Blood or 2 Spectral damage + Bleed 2 rounds.
-- **Sangral Lance:** Cost: 2 BP. 60-ft line; spell attack, 5 Physical (Piercing) + DR 2 Blood or Bleed; pierce second target on extra successes.
+- **Hemorrhage Halo:** Cost: 2 BP. Self; 10-ft radius; DR 2 Blood or 2 Spectral damage plus standard Bleeding.
+- **Sangral Lance:** Cost: 2 BP. 60-ft line; spell attack, 5 Physical (Piercing) + DR 2 Blood or standard Bleeding; pierce second target on extra successes.
 - **Vital Hook:** Cost: 2 BP. 30 ft; spell attack, 2 Spectral damage + Bonus pull 10 ft (DR 2 Blood) for concentration 1 min.
 
 #### Ritual Spells
@@ -255,14 +255,14 @@ This compendium lists spells by tier and category. Class access by spell school 
 #### Forbidden Spells
 - **Cacophonic Flare:** Cost: 3 SE (+1 Corruption). Self; 20-ft radius; DR 3 Will or Deafened/Stunned + Blinded/ -1 Will 1 min.
 - **Dark Reflection:** Cost: 3 SE. Self; summon reflection (your stats, Spectral damage attacks, menace/teleport) 1 min.
-- **Descent of Teeth:** Cost: 3 SE. 10-ft radius in 60 ft; 5 Spectral damage + DR 3 Evasion or Bleed 2/round 2 rounds.
+- **Descent of Teeth:** Cost: 3 SE. 10-ft radius in 60 ft; 5 Spectral damage + DR 3 Evasion or Bleeding that deals 2 damage at the start of each turn for 2 rounds.
 - **Fatebind Curse:** Cost: 4 SE (+2 Corruption). 10 min; curse with item; auto-fail/crit hit once/session until removed.
 - **Oblivion Whisper:** Cost: 3 SE (+1 Corruption). Touch/15 ft; DR 3 Will or forget spell/clue 24 hrs.
 - **Rift Pulse:** Cost: 3 SE. 20-ft line; 5 Entropic (Void) damage + DR 3 Blood or pushed.
-- **Rotmind Rift:** Cost: 3 SE (+1 Corruption). 30 ft; DR 3 Will or 1 Corruption/round + random madness effect 1 min.
+- **Rotmind Rift:** Cost: 3 SE (+1 Corruption). 30 ft; DR 3 Will or gain 1 Corruption at the start of each turn + random madness effect 1 min.
 - **Mind Spike:** Cost: 3 SE (+1 Corruption). 30 ft; 4 Spectral damage + DR 3 Will or Corruption Die/paranoia 1 round.
 - **Soul Fracture:** Cost: 3 SE (+1 Corruption). 30 ft; DR 3 Soul or -2 Will/Soul checks + increased SE costs 1 min; harder resurrection if killed.
-- **Starving Veil:** Cost: 3 SE. Self; 15-ft aura; 2 Spectral damage/round + heal 1 HP per creature (max Spectral/round) for concentration 1 min.
+- **Starving Veil:** Cost: 3 SE. Self; 15-ft aura; creatures in the aura take 2 Spectral damage at the start of each turn, and you heal 1 HP per creature damaged this way (max 2 HP per turn), for concentration 1 min.
 
 ### 5.10.4 Master Tier (Levels 16–20)
 
@@ -282,7 +282,7 @@ This compendium lists spells by tier and category. Class access by spell school 
 - **Blood Oblivion:** Cost: 5 BP (+1 Corruption). Touch; DR 4 Will or erase memories/skills permanently.
 - **Blood Resurrection:** Cost: 5 BP (-1 max HP). 10 min; touch corpse; revive with half HP (up to 1 day dead).
 - **Crimson Godseed:** Cost: 5 BP (-3 max HP). 1 hr; vampiric transformation or boost (+1 attribute/spell).
-- **Crimson Reaping:** Cost: 5 BP. Self; 15-ft radius; 6 Spectral damage + Bleed (DR 3 Evasion halves); execute <25% HP.
+- **Crimson Reaping:** Cost: 5 BP. Self; 15-ft radius; 6 Spectral damage plus standard Bleeding (DR 3 Evasion halves); execute creatures below 25% HP.
 - **Hemodominate:** Cost: 5 BP. 30 ft Bleeding; DR 3 Will or full control 1 min (once/long rest).
 - **Sanguine Eclipse:** Cost: 5 BP. 30-ft radius in 120 ft; obscured + 3 Spectral damage + exhaustion (DR 3 Blood) + halved healing 1 min.
 - **Sanguine Swarm:** Cost: 4 BP (-5 HP). 30 ft; summon swarm (5 Spectral damage + Frightened) for concentration 1 min.

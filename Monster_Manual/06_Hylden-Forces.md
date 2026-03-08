@@ -284,7 +284,7 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 - Bio-metal nodes (implanted in the Abomination's body) - **Trade Value**: 15 supplies, can be studied or repurposed
 
 #### Scaling Options
-**Greater Abomination** (Elite, TV 2): +20 HP, increase Fury to 5. Add "Grappling Tendrils" ability (Grapple attack, restrains target). Regeneration increases to 5 HP per turn.
+**Greater Abomination** (Elite, TV 2): +20 HP, increase Fury to 5. Add "Grappling Tendrils" ability (Grapple attack, restrains target). Regeneration increases to 5 HP at the start of each turn.
 
 ---
 
@@ -331,7 +331,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 **Tendril Lash** (Fury 3 + Forbidden Knowledge 3 = 6d6, once per turn)
 - Range: 15 feet (tendrils burst from the Host's body)
 - Damage: 5 Physical damage
-- Effect: Target must pass a DR 2 Shadow save or be **Grappled** (held by tendrils). While Grappled, the target takes 2 Corruption damage per turn automatically. Escape requires a DR 3 Fury + Athletics roll.
+- Effect: Target must pass a DR 2 Shadow save or be **Grappled** (held by tendrils). While Grappled, the target takes 2 Corruption damage automatically at the start of each turn. Escape requires a DR 3 Fury + Athletics roll.
 
 **Corruption Wave** (Soul 3 + Corruption 3 = 6d6, Recharge 6, costs 2 SE)
 - Range: 20-foot radius centered on the Host
@@ -404,7 +404,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 **Sigil Blade** (Shadow 5 + Weapon Mastery 5 = 10d6)
 - Range: Weapon Mastery
 - Damage: 8 Physical + 3 Corruption damage
-- Effect: On Critical Hit (3+ successes), the target is **Bleeding** (3 Physical damage per turn) and gains 1 Corruption point. The blade is wreathed in shifting sigils.
+- Effect: On Critical Hit (3+ successes), the target is **Bleeding** (3 Physical damage at the start of each turn) and gains 1 Corruption point. The blade is wreathed in shifting sigils.
 
 **Phase Strike** (Shadow 5 + Glyphcasting 4 = 9d6, costs 2 SE)
 - Range: 30 feet (teleport attack)
@@ -659,7 +659,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 **Barbed Chain** (Fury 4 + Intimidation 5 = 9d6)
 - Range: 15 feet
 - Damage: 7 Physical damage
-- Effect: On Critical Hit (3+ successes), the target is **Grappled** (held by barbed chains). While Grappled, the target takes 3 automatic Physical damage per turn and has Disadvantage on all rolls (pain).
+- Effect: On Critical Hit (3+ successes), the target is **Grappled** (held by barbed chains). While Grappled, the target takes 3 automatic Physical damage at the start of each turn and has Disadvantage on all rolls (pain).
 
 **Mind Spike** (Soul 5 + Intimidation 5 = 10d6, costs 3 SE)
 - Range: 40 feet
@@ -1031,7 +1031,7 @@ Not all Hylden agree with the invasion. Vex'thal is a deserter — a Hylden mind
 #### Tactics
 The Rift-Priest fights from the backline behind Shock Troopers or summoned Grunts. It opens with Corruption Pulse to contaminate the party, then uses Corruption Lance to wear down targets from range. Rift Tear scatters the party when they try to close distance or form formations. Dimensional Tether provides expendable meat shields. Rift Conduit ensures it rarely runs dry on SE.
 
-**Key Weakness:** The Rift-Priest is fragile in melee (Fury 2, Armor 2). Closing to melee range and staying there — past the Dimensional Flicker reaction — forces it into a losing fight. Radiant damage bypasses its resistances and deals bonus damage. Anti-magic effects or abilities that suppress SE regeneration cripple its offensive capability.
+**Key Weakness:** The Rift-Priest is fragile in melee (Fury 2, Armor 2). Closing to melee range and staying there — past the Dimensional Flicker reaction — forces it into a losing fight. Radiant damage is especially effective against it and is not reduced by its listed Resistance profile if a source explicitly says so. Anti-magic effects or abilities that suppress SE regeneration cripple its offensive capability.
 
 **Encounter Design:** Pair with 2 Hylden Shock Troopers (TV 2 each) for a TV 7 encounter that captures the combined-arms feel of a Hylden incursion. The Rift-Priest opens rifts and spreads Corruption while Troopers hold the line. Alternatively, pair with 4–6 Hylden-Possessed Grunts (TV 0.25 each) for a TV 4–4.5 encounter focused on the Rift-Priest as the priority target.
 
@@ -1309,7 +1309,7 @@ When their handler is killed, the psychic tether snaps, and the War-Stalker ente
 - **Dice Pool:** Fury 4 + Athletics 2 = 6d6 (GM may use Athletics 3 as the skill)
 - **Range:** Weapon Mastery
 - **Damage:** 7 physical (Slashing)
-- **Effect:** On a critical hit (3+ successes), target is Bleeding (2 physical damage per turn until treated)
+- **Effect:** On a critical hit (3+ successes), target is Bleeding (2 physical damage at the start of each turn until treated)
 
 **Hylden Bile Spit** (Action, costs 4 SE)
 - **Dice Pool:** Focus 2 + Weapon Mastery 2 = 4d6

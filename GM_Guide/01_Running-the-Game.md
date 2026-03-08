@@ -15,7 +15,7 @@ This chapter covers the practical aspects of running *Legacy of Kain: Bloodbound
 - [1.10 When Players Surprise You](#110-when-players-surprise-you)
 - [1.11 Quick Reference: GM Calls](#111-quick-reference-gm-calls)
 
-> Terminology note: In combat, target Defense Value (DV). For checks/saves and environmental challenges, compare successes to Difficulty Rating (DR). “Armor” is flat damage mitigation. Some effects may bypass Armor (e.g., Force, Spectral), or interact with damage types as defined in the Player’s Handbook.
+> Terminology note: In combat, target Defense Value (DV). For checks/saves and environmental challenges, compare successes to Difficulty Rating (DR). Armor is flat damage mitigation. A creature is Bloodied at 50% of its maximum HP or lower. Resistance halves damage after the relevant Armor interaction, and Immunity negates the damage or effect entirely unless a rule explicitly bypasses Immunity. Some effects bypass Armor or ignore Physical Armor as defined in the Player's Handbook.
 >
 > Canon note: The Player's Handbook is the rules authority for exact triggers, thresholds, perk progression, and combat outcomes. This chapter is GM-facing adjudication guidance; if any summary here is shorter or broader than the handbook, use the handbook text.
 
@@ -131,7 +131,7 @@ Understanding the distinction between these two mechanics is essential:
 - **Bypass Armor:** Ignore some or all Armor if the relevant handbook rule or effect allows it.
 - **Tactical Advantage:** Create an opening such as lost Reactions, exposed positioning, or ally setup, consistent with the handbook and the fiction.
 
-**Example:** Critical Hit with a piercing weapon might deal +3 damage OR inflict Bleeding (1 damage/round).
+**Example:** Critical Hit with a piercing weapon might deal +3 damage OR inflict standard Bleeding (1 damage at the start of each turn for 1d3 rounds).
 
 When in doubt about exact caps, damage-type effects, or exceptions created by class features, defer to the Player's Handbook combat chapters rather than expanding this summary.
 

@@ -127,12 +127,12 @@ Optionally include 1 minor relic or spell scroll (GM discretion).
 ### 1.7.1 Example Gear by Class
 
 Blood Knight:
-Weapons: Scion Blade (6 Physical damage, Bleed on crit), Bloodfang Dagger (4 Physical, +2 vs. bleeding foes), Nightblade Saber (5 Physical, +1 armor penetration), or universal options like Nosgothian War Axe.
+Weapons: Scion Blade (6 Physical damage, inflicts standard Bleeding on a critical hit), Bloodfang Dagger (4 Physical, +2 vs. bleeding foes), Nightblade Saber (5 Physical, +1 armor penetration), or universal options like Nosgothian War Axe.
 Armor: Bloodsteel Cuirass (reduces damage by 2, +1 HP on melee crit), Fleshwoven Mail (regenerate 1 HP in blood), or universal Nosgothian Chainmail.
 
 
 Soul Reaver:
-Weapons: Spectral Talons (4 Spectral damage, ignores armor), Echoblade (5 Physical, copies last minor spell), Phantom Claws (3 Spectral, inflicts -1 on enemy rolls).
+Weapons: Spectral Talons (4 Spectral damage, ignores Physical Armor), Echoblade (5 Physical, copies last minor spell), Phantom Claws (3 Spectral, inflicts -1 on enemy rolls).
 Armor: Shroud of Echoes (reduces damage by 1, ignores terrain), Gravewind Mantle (attacks against you have -1 in first round).
 
 
@@ -142,7 +142,7 @@ Armor: Nightshade Cloak (Stealth bonus, shadow resistance), Woven Shadows (+1 DR
 
 
 Sangromancer (Blood Mage):
-Weapons: Bloodstaff (3 Physical, heals caster), Veinbinder Rod (4 Physical, 1 damage per round to targets), Crimson Spear (5 Physical, +1 HP on crit).
+Weapons: Bloodstaff (3 Physical, heals caster), Veinbinder Rod (4 Physical, deals 1 damage at the start of each turn to targets), Crimson Spear (5 Physical, +1 HP on crit).
 Armor: Veinsilk Robes (heals 1 HP after Blood spell), Sanguine Mantle (+1 Blood spell damage).
 
 
