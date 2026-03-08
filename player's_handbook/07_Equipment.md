@@ -268,16 +268,7 @@ Piercing | One-handed | Melee
 
 ## 7.2 Damage Types Reference
 
-All weapons deal one of the six canonical damage categories. Each category has subtypes, armor interactions, and associated status effects (applied on extra successes or critical hits — see Chapter 9).
-
-| Category | Subtypes | Armor Interaction | Status Effects |
-| :--- | :--- | :--- | :--- |
-| **Physical** | Bludgeoning, Piercing, Slashing | Reduced by Armor normally | Staggered, Bleeding, Prone |
-| **Elemental** | Fire, Cold, Lightning | Armor value **halved** (round down) | Burning, Slowed, Shocked |
-| **Force** | Telekinetic, Explosive | **Bypasses** Armor entirely | Pushed, Prone |
-| **Spectral** | Soul, Spiritual | **Ignores** physical Armor; affects spirits | Soul Drain |
-| **Radiant** | Holy, Spectral Fire | Normal Armor; **×2 damage** vs Undead/Spectral | Blinded, Purged |
-| **Entropic** | Necrotic, Void, Corruption | Normal Armor; damage **cannot be healed** without magic | Decay, Corrupted, Weakened |
+All weapons deal one of the six canonical damage categories. [Chapter 12: Glossary, Section 12.4](./12_Glossary.md) is the source of truth for category rules, associated status effects, and named condition definitions; the notes below only clarify subtype usage in this equipment chapter.
 
 ### Notes on Subtypes Used in This Chapter
 

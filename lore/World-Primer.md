@@ -319,7 +319,7 @@ A plane parallel to material reality where geometry deceives and memory holds we
 - **Consequence:** Staying too long alters the self; some entities hunt those who linger. The Spectral is corrosive to identity. Spend too long, and you forget the weight of your own bones, the taste of bread, the color of sunrise. You begin to *resonate*—your thoughts echo, your presence leaves a stain. Worse, there are predators here: soul-eaters, memory-thieves, and things without names that track the warmth of living thought. The Elder God's tendrils brush close. Time moves wrong. You may return to the material world seconds after you left, or centuries. You may return *different*. Or you may not return at all.
 
 See also:
-- Player’s Handbook — Chapter 11: Realms, Terrain, and Arcane Power (`player's_handbook/11_Realms-Terraign-Arcane-Power`).
+- Player’s Handbook — Chapter 11: Realms, Terrain, and Arcane Power (`player's_handbook/11_Realms-Terrain-Arcane-Power`).
 - Player’s Handbook — Chapter 08: Corruption (`player's_handbook/08_Corruption.md`) for Soul/Soulfire interactions.
 - Player’s Handbook — Chapter 05: Spellcasting & Magic (`player's_handbook/05_Spellcasting-and-Magic.md`).
 

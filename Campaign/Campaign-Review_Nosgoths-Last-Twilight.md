@@ -134,7 +134,7 @@ Include: recommended starting level (1 or 3-5), number of sessions per arc, key 
 The Defiant Creed (Kainite heresy) and Razielite Martyrdom are *directly* relevant to a post-Defiance campaign about restoring Nosgoth. NPC cult members and religious tensions should appear in every major settlement and faction encounter.
 
 ### Recommendation 14 — Add a Spectral Realm encounter framework.
-Specify when and why the party crosses into the Spectral Realm, what changes mechanically (reference `lore/World-Primer.md` Spectral Realm section and `player's_handbook/11_Realms-Terraign-Arcane-Power.md`), and at least one mandatory Spectral encounter per arc.
+Specify when and why the party crosses into the Spectral Realm, what changes mechanically (reference `lore/World-Primer.md` Spectral Realm section and `player's_handbook/11_Realms-Terrain-Arcane-Power.md`), and at least one mandatory Spectral encounter per arc.
 
 ---
 

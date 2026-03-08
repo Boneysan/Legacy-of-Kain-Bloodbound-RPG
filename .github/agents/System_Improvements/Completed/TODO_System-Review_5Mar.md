@@ -173,7 +173,7 @@
   D&D terminology. Replace with system-native: **DR 2 Evasion save** (or appropriate DR).
 
 - [x] **PHB-M4 — "Shadow Realm" undefined; used at Shadowmancer Levels 14 and 17**
-  Nosgoth has Material and Spectral realms. "Shadow Realm" is a third undefined location. Update to **Spectral Realm** or formally define the Shadow Realm in `player's_handbook/11_Realms-Terraign-Arcane-Power.md`.
+  Nosgoth has Material and Spectral realms. "Shadow Realm" is a third undefined location. Update to **Spectral Realm** or formally define the Shadow Realm in `player's_handbook/11_Realms-Terrain-Arcane-Power.md`.
 
 - [x] **PHB-M5 — "Investigation" used in Opposed Rolls example in Ch0**
   Not a defined skill. Replace with **Observation** or **Insight**.

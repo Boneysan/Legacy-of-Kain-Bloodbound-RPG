@@ -254,7 +254,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 - `08_Corruption.md` - Corruption system mechanics ✓ COMPLETE (with all Tier 1-3 perks)
 - `09_Combat` - Combat rules and procedures
 - `10_Dice-System` - Detailed dice mechanics
-- `11_Realms-Terraign-Arcane-Power` - Environmental rules
+- `11_Realms-Terrain-Arcane-Power` - Environmental rules
 - `12_Glossary` - Terms and definitions ✓ COMPLETE (Glossary Overhaul)
 
 ### GM_Guide (Game Master Resources)
@@ -370,7 +370,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
    - Added compact At-a-glance TOC and first-use terminology note; existing 9.1–9.14 structure retained. No rules altered.
 
 ### Player's Handbook — Numbering & TOC Phase 5 — Oct 31, 2025
-- 11_Realms-Terraign-Arcane-Power:
+- 11_Realms-Terrain-Arcane-Power:
    - Added compact At-a-glance TOC and first-use terminology note; numbered sections 11.1–11.4; converted Quick Reference into a proper Markdown table; updated cross-references to Chapter 5 (Spellcasting) and Chapter 9 (Combat) for consistency.
 - 12_Glossary:
    - Added compact At-a-glance TOC and first-use terminology note; numbered major entries 12.1–12.4 (Short Rest, Long Rest, Sanity, Scenes). Content unchanged beyond structure.
@@ -502,7 +502,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 - Spell lists and magic system details (05_Spellcasting-and-Magic.md)
 - Skill descriptions and examples (06_Skills.md)
 - Combat procedures and initiative (09_Combat)
-- Environmental interaction rules (11_Realms-Terraign-Arcane-Power)
+- Environmental interaction rules (11_Realms-Terrain-Arcane-Power)
 - Perk formatting standardization (04_Perks.md has formatting issues preventing automated editing)
 - **08_Corruption.md sections 8.5 (Other Effects of Corruption) and 8.6 (Paths to Purification) are TOC-only with no content; purification mechanics live in 04_Perks.md section 4.4**
 - **Resolve corrupted perk mechanical conflicts between 08_Corruption.md and 04_Perks.md (04_Perks.md is canonical)**

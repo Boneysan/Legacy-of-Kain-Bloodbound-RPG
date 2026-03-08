@@ -213,7 +213,7 @@ The immediate goal is not to rewrite every creature at once. The goal is to remo
    - Chapters 1–3 use `####` for stat-block subsections (Lore, Stats, Attacks, etc.); Chapters 7–9 use `###`. A single global pass would unify these, but it is purely cosmetic.
 
 2. Skills attribute annotation cleanup.
-   - Some Ch9 already-normalised entries still include attribute reminders in skill lines, e.g. `Arcana (Soul) 5`. These are not incorrect but do not match the Ch1–6 style of `Arcana 5`.
+   - Some Ch9 already-normalised entries still include attribute reminders in skill lines, e.g. `Forbidden Knowledge (Soul) 5`. These are not incorrect but do not match the Ch1–6 style of `Forbidden Knowledge 5`.
 
 ---
 

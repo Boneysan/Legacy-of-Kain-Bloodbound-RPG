@@ -45,7 +45,7 @@ Always check the relevant files before creating or modifying content. The reposi
 | `08_Corruption.md` | Corruption mechanics, pushing, thresholds | Complete |
 | `09_Combat` | Combat rules and procedures | Needs Work |
 | `10_Dice-System` | Detailed dice mechanics | Needs Work |
-| `11_Realms-Terraign-Arcane-Power` | Spectral/Material Realm rules, terrain | Needs Work |
+| `11_Realms-Terrain-Arcane-Power` | Spectral/Material Realm rules, terrain | Needs Work |
 | `12_Glossary` | Term definitions | Needs Work |
 
 ### GM Guide (`GM_Guide/`)

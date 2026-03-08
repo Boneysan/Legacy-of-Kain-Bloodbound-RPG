@@ -158,6 +158,8 @@ Nosgoth’s conflicts are shaped by diverse damage types, consolidated into six 
 
 ### Damage Type Summary Table
 
+Use [Chapter 12: Glossary, Section 12.4](./12_Glossary.md) as the canonical source for named condition definitions and durations. This chapter summarizes combat usage; the glossary governs final wording.
+
 | Damage Type      | Key Property                                  | Common Status Effect on Extra Success |
 | :--------------- | :-------------------------------------------- | :------------------------------------ |
 | **Physical**     | Reduced by Armor                              | Bleeding, Staggered                   |
@@ -188,7 +190,7 @@ Reactions are swift, instinctive responses that turn defense into opportunity, u
 - **Rules Notes**:
   - You must be conscious and able to act.
   - A failed reaction expends your reaction for the round.
-  - Perks or gear may grant additional reactions (see Character Creation Guide).
+  - Each character has 1 Reaction per round. Only a feature that explicitly states it grants an extra Reaction changes that.
 
 **Example**: A Turelim warrior is hit by a Fire Glyph (4 Fire damage, ignores armor). They use a Dodge reaction (Shadow 3 + Evasion 2), rolling 5 dice and getting 2 successes, reducing damage by 2 (to 2 damage total).
 

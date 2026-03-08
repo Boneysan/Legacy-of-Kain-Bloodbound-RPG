@@ -54,18 +54,18 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 - Blood: 2
 
 **Skills**:
-- Melee (Crude Weapons): 1
-- Devotion (Will): 3
-- Endurance (Blood): 2
+- Weapon Mastery (Crude Weapons): 1
+- Religion (Will): 3
+- Concentration (Blood): 2
 
 #### Attacks
-**Frenzied Strike** (Fury 2 + Melee 1 = 3d6)
-- Range: Melee
+**Frenzied Strike** (Fury 2 + Weapon Mastery 1 = 3d6)
+- Range: Weapon Mastery
 - Damage: 3 Physical damage on success
 - Effect: On Critical Hit (3+ successes), the Fanatic screams a prayer that grants all nearby cultists +1 die on their next attack.
 
-**Martyrdom Lunge** (Fury 2 + Devotion 3 = 5d6, once per encounter)
-- Range: Melee
+**Martyrdom Lunge** (Fury 2 + Religion 3 = 5d6, once per encounter)
+- Range: Weapon Mastery
 - Damage: 5 Physical damage
 - Effect: The Fanatic throws themselves at an enemy with suicidal abandon. If this attack would reduce the Fanatic to 0 HP (from reactions or opportunity attacks), they gain Advantage on the roll.
 
@@ -85,7 +85,7 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 - Hallucinogenic mushrooms (1d3 doses) - **Trade Value**: 3 supplies per dose, can be used as poison or drug
 
 #### Scaling Options
-**Veteran Fanatic** (TV 0.5): +5 HP, +1 Fury, Melee skill increases to 2. Add "Poisoned Blade" ability (attacks inflict Weakened on Critical Hit).
+**Veteran Fanatic** (TV 0.5): +5 HP, +1 Fury, Weapon Mastery skill increases to 2. Add "Poisoned Blade" ability (attacks inflict Weakened on Critical Hit).
 
 ---
 
@@ -117,25 +117,24 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 - Blood: 2
 
 **Skills**:
-- Divine Magic (Corrupted): 3
-- Melee (Fury): 1
-- Medicine: 2
+- Weapon Mastery (Fury): 1
+- Craft: 2
 - Intimidation: 2
-- Holy Lore: 3
+- Religion (Corrupted): 3
 
 #### Attacks
-**Corrupted Smite** (Soul 4 + Divine Magic 3 = 7d6)
+**Corrupted Smite** (Soul 4 + Religion 3 = 7d6)
 - Range: 20 feet
 - Damage: 4 Soul damage on success
 - Effect: Target must pass a DR 2 Will save or be Shaken (Disadvantage on next attack roll).
 
-**Dark Blessing** (Soul 4 + Divine Magic 3 = 7d6, Recharge 5-6)
+**Dark Blessing** (Soul 4 + Religion 3 = 7d6, Recharge 5-6)
 - Range: 30 feet (ally or self)
 - Damage: None
 - Effect: Grant one ally +2 dice on all rolls until the end of their next turn. That ally takes 2 Soul damage immediately (unavoidable).
 
-**Mace of Broken Faith** (Fury 1 + Melee 1 = 2d6)
-- Range: Melee
+**Mace of Broken Faith** (Fury 1 + Weapon Mastery 1 = 2d6)
+- Range: Weapon Mastery
 - Damage: 3 Physical damage
 - Effect: Basic melee attack. The Priest prefers to stay at range but can defend themselves if cornered.
 
@@ -152,7 +151,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 #### Tactics
 - **Support Role**: Forsaken Priests stay behind frontline cultists, using Dark Blessing to empower dangerous allies (like Witch-Hunters or Warlocks).
 - **Cursed Defense**: When threatened, they use Curse of the Fallen to weaken attackers, then retreat behind allies.
-- **Ritual Ambush**: If the party encounters the Priest before combat, they may have already used Ritual of Twisted Faith to prepare undead reinforcements or a Zone of Despair.
+- **Ritual Stealth**: If the party encounters the Priest before combat, they may have already used Ritual of Twisted Faith to prepare undead reinforcements or a Zone of Despair.
 
 #### Loot
 - Corrupted holy symbol - **Trade Value**: 10 supplies (to cultists), 5 supplies (to scholars)
@@ -161,7 +160,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 - Prayer book with crossed-out passages - **Trade Value**: 12 supplies (lore/history)
 
 #### Scaling Options
-**High Priest of Despair** (Elite, TV 2): +10 HP, +1 Soul, +1 Will, increase Divine Magic to 4. Add "Mass Curse" ability (affects all enemies within 20 feet).
+**High Priest of Despair** (Elite, TV 2): +10 HP, +1 Soul, +1 Will, increase Religion to 4. Add "Mass Curse" ability (affects all enemies within 20 feet).
 
 ---
 
@@ -193,14 +192,14 @@ Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are ha
 - Blood: 1
 
 **Skills**:
-- Precognition: 4
-- Arcane Lore: 3
+- Insight: 4
+- Forbidden Knowledge: 3
 - Evasion: 2
 - Persuasion (unsettling): 2
 
 #### Attacks
-**Paradox Touch** (Soul 4 + Precognition 4 = 8d6)
-- Range: Melee
+**Paradox Touch** (Soul 4 + Insight 4 = 8d6)
+- Range: Weapon Mastery
 - Damage: 5 Soul damage on success
 - Effect: Target experiences visions of their own death. They must pass a DR 3 Will save or be Stunned until the end of their next turn.
 
@@ -216,13 +215,13 @@ Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are ha
   - *Stacking:* Temporal Echo cannot be used on a roll that has already been forced to reroll by another effect (e.g., another Temporal Echo, a Rewrite ability, or similar). One reroll per roll, maximum.
 
 #### Abilities
-**I've Seen This Before**: The Seer has Advantage on all Defense rolls (this represents the Seer's precognitive awareness). Once per encounter, they can negate a Critical Hit against them as a reaction (they "saw it coming" and moved at the last moment).
+**I've Seen This Before**: The Seer has Advantage on Evasion and Weapon Mastery reactions (this represents the Seer's precognitive awareness). Once per encounter, they can negate a Critical Hit against them as a reaction (they "saw it coming" and moved at the last moment).
 
-**Prophetic Warnings**: Once per round, as a reaction, the Seer can grant an ally within 30 feet Advantage on a Defense roll by shouting a warning ("Duck!" "Left side!" etc.).
+**Prophetic Warnings**: Once per round, as a reaction, the Seer can grant an ally within 30 feet Advantage on an Evasion or Weapon Mastery reaction by shouting a warning ("Duck!" "Left side!" etc.).
 
 **Fractured Timeline** (Passive, 1/encounter): When the Seer would take damage, it can phase slightly out of time, reducing that damage by half.
 
-**Cryptic Prophecy** (Once per encounter): The Seer speaks a prophecy that comes true within the next 3 rounds. The GM should make it ambiguous but mechanically relevant. Examples:
+**Cryptic Forbidden Knowledge** (Once per encounter): The Seer speaks a prophecy that comes true within the next 3 rounds. The GM should make it ambiguous but mechanically relevant. Examples:
 - "The tall one will fall before the moon rises." (One PC will be reduced to 0 HP within 3 rounds.)
 - "Blood will open the path forward." (A blood sacrifice will reveal a hidden passage.)
 
@@ -230,7 +229,7 @@ Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are ha
 - **Evasive and Unpredictable**: The Seer uses high DV and Fractured Timeline to avoid damage. They're frustrating to pin down.
 - **Temporal Echo Priority**: They use this ability to undo powerful attacks, healing spells, or tactical positioning by enemies.
 - **Prophetic Warnings for Allies**: If accompanied by cultists or other mortals, the Seer's warnings make them much harder to hit.
-- **Psychological Warfare**: Cryptic Prophecies unnerve players and create paranoia.
+- **Intimidation**: Cryptic Prophecies unnerve players and create paranoia.
 
 #### Loot
 - Time-worn amulet (glows faintly, shows visions when held) - **Trade Value**: 20 supplies, can be used to ask the GM one "yes/no" question about the near future (once)
@@ -238,7 +237,7 @@ Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are ha
 - Chronocrystal shard (1d3 shards) - **Trade Value**: 8 supplies each, required component for time-based rituals
 
 #### Scaling Options
-**Chrono-Adept Seer** (Elite, TV 2): +8 HP, increase Precognition to 5. Replace Fractured Timeline with **Temporal Anchor**: The Seer can force one enemy per turn to reroll a successful attack or save (GM chooses the lower result).
+**Chrono-Adept Seer** (Elite, TV 2): +8 HP, increase Insight to 5. Replace Fractured Timeline with **Temporal Anchor**: The Seer can force one enemy per turn to reroll a successful attack or save (GM chooses the lower result).
 
 ---
 
@@ -272,23 +271,23 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 - Blood: 3
 
 **Skills**:
-- Vampire Hunting: 4
-- Swordplay: 4
+- Forbidden Knowledge: 4
+- Weapon Mastery: 4
 - Intimidation: 3
-- Holy Rites: 2
+- Religion: 2
 
 #### Attacks
-**Silver Longsword** (Fury 4 + Swordplay 4 = 8d6)
-- Range: Melee
+**Silver Longsword** (Fury 4 + Weapon Mastery 4 = 8d6)
+- Range: Weapon Mastery
 - Damage: 6 Physical damage on success, 8 damage vs undead or vampires
 - Effect: On Critical Hit (3+ successes), inflict Burning (2 Radiant damage per turn, lasts 3 turns). Vampires have Disadvantage on rolls to extinguish Burning.
 
-**Judgement Strike** (Fury 4 + Vampire Hunting 4 = 8d6, Recharge 5-6)
-- Range: Melee
+**Judgement Strike** (Fury 4 + Forbidden Knowledge 4 = 8d6, Recharge 5-6)
+- Range: Weapon Mastery
 - Damage: 8 Physical + 4 Radiant damage
 - Effect: This attack automatically bypasses any Armor and supernatural defenses. If the target is a vampire, they are also Branded (disadvantage on Stealth and Shadow-based rolls for 1 hour).
 
-**Crossbow of Purity** (Focus 3 + Ranged Combat 2 = 5d6)
+**Crossbow of Purity** (Focus 3 + Weapon Mastery 2 = 5d6)
 - Range: 40 feet
 - Damage: 4 Physical damage, 6 damage vs undead
 - Effect: Silvered bolts. On hit, target must pass a DR 2 Will save or be Marked (Inquisitor has Advantage on next attack against them).
@@ -298,7 +297,7 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 
 **Vampire Slayer**: The Inquisitor knows vampiric weaknesses. They can identify vampires on sight and gain +2 dice on all rolls to detect, track, or fight undead.
 
-**Purifying Prayer** (1/encounter): As an action, the Inquisitor prays for 6 seconds (one round). At the end of their next turn, all undead within 20 feet take 6 Radiant damage (no roll required) and must pass a DR 3 Will save or be Frightened (flee or cower) for 2 rounds.
+**Purifying Prayer** (1/encounter): As an action, the Inquisitor prays for 6 seconds (one round). At the end of their next turn, all undead within 20 feet take 6 Radiant damage (no roll required) and must pass a DR 3 Will save or be **Frightened** for 2 rounds.
 
 **Unyielding Faith** (Reaction): When reduced to 0 HP for the first time in an encounter, the Inquisitor remains standing at 1 HP and immediately makes a free Silver Longsword attack.
 
@@ -309,14 +308,14 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 - **Unyielding Faith Surprise**: Players often think they've won when the Inquisitor drops, only for them to spring back up for a retaliatory strike.
 
 #### Loot
-- Silver longsword (Melee weapon, +2 damage vs undead) - **Trade Value**: 35 supplies
+- Silver longsword (Weapon Mastery weapon, +2 damage vs undead) - **Trade Value**: 35 supplies
 - Blessed plate armor (Heavy, Armor 3 Physical, Armor 2 Soul) - **Trade Value**: 50 supplies
 - Silvered crossbow bolts (10 bolts) - **Trade Value**: 15 supplies
 - Holy water (1d3 vials, deals 4 Radiant damage to undead on contact) - **Trade Value**: 8 supplies per vial
 - Sarafan insignia (proves membership in the Order) - **Trade Value**: 20 supplies (to collectors), could grant access to Sarafan strongholds or cause hostility depending on PC actions
 
 #### Scaling Options
-**Sarafan Grand Inquisitor** (Boss, TV 4): +15 HP, increase Fury and Swordplay to 5. Add "Cleansing Flame" ability (60-foot cone, 8 Radiant damage to all undead, DR 4 Will save to halve). Add 2 Legendary Actions per round: Move, Attack, or use Purifying Prayer.
+**Sarafan Grand Inquisitor** (Boss, TV 4): +15 HP, increase Fury and Weapon Mastery to 5. Add "Cleansing Flame" ability (60-foot cone, 8 Radiant damage to all undead, DR 4 Will save to halve). Add 2 Legendary Actions per round: Move, Attack, or use Purifying Prayer.
 
 ---
 
@@ -350,18 +349,18 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 - Blood: 3
 
 **Skills**:
-- Ambush Tactics: 3
-- Melee Combat: 2
-- Survival: 2
+- Tactics: 3
+- Weapon Mastery: 2
+- Nature: 2
 - Intimidation: 1
 
 #### Attacks
-**Rusty Axe** (Fury 3 + Melee Combat 2 = 5d6)
-- Range: Melee
+**Rusty Axe** (Fury 3 + Weapon Mastery 2 = 5d6)
+- Range: Weapon Mastery
 - Damage: 4 Physical damage on success
-- Effect: On Critical Hit (3+ successes), the target begins Bleeding (1 Physical damage per turn until they spend an action and pass a DR 1 Focus + Medicine check to stop it, or receive magical healing).
+- Effect: On Critical Hit (3+ successes), the target begins Bleeding (1 Physical damage per turn until they spend an action and pass a DR 1 Focus + Craft check to stop it, or receive magical healing).
 
-**Shortbow Ambush** (Focus 2 + Ambush Tactics 3 = 5d6)
+**Shortbow Ambush** (Focus 2 + Tactics 3 = 5d6)
 - Range: 30 feet
 - Damage: 3 Physical damage
 - Effect: If the Raider is Hidden when they make this attack, they have Advantage on the roll.
@@ -371,10 +370,10 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 
 **Cowardly Retreat**: When reduced below half HP, the Raider must pass a DR 2 Will save or spend their turn fleeing at double movement speed. If their leader is killed or if more than half their warband is dead, they automatically fail this save.
 
-**Ambush Setup**: If the Raiders have time to prepare (ambushing travelers on a road, setting a trap in a canyon), they begin combat Hidden. PCs must pass a DR 2 Focus + Perception check to avoid being Surprised (lose first turn).
+**Stealth Setup**: If the Raiders have time to prepare (ambushing travelers on a road, setting a trap in a canyon), they begin combat Hidden. PCs must pass a DR 2 Focus + Observation check to avoid being Surprised (lose first turn).
 
 #### Tactics
-- **Ambush from Range**: Raiders start Hidden and fire arrows from cover (trees, rocks, ruins). They only close to melee once enemies are wounded or outnumbered.
+- **Stealth from Range**: Raiders start Hidden and fire arrows from cover (trees, rocks, ruins). They only close to melee once enemies are wounded or outnumbered.
 - **Surround and Overwhelm**: They use Pack Mentality to gang up on isolated targets.
 - **Flee When Losing**: Raiders have no honor. If the fight turns against them, they scatter and run. Chasing them through wilderness is difficult.
 
@@ -385,9 +384,9 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 - Map to raider camp (if interrogated or looted from leader)
 
 #### Scaling Options
-**Veteran Raider** (TV 1.5): +6 HP, increase Fury and Melee Combat to 3. Replace Cowardly Retreat with "Last Stand" (when below half HP, gain +2 dice on attacks instead of fleeing).
+**Veteran Raider** (TV 1.5): +6 HP, increase Fury and Weapon Mastery to 3. Replace Cowardly Retreat with "Last Stand" (when below half HP, gain +2 dice on attacks instead of fleeing).
 
-**Raider Chieftain** (Elite, TV 2): +12 HP, increase Fury to 4, Ambush Tactics to 4. Add "Warlord's Command" ability (once per turn, grant an ally Advantage on their next attack roll). Chieftains never flee while their warband lives.
+**Raider Chieftain** (Elite, TV 2): +12 HP, increase Fury to 4, Tactics to 4. Add "Warlord's Tactics" ability (once per turn, grant an ally Advantage on their next attack roll). Chieftains never flee while their warband lives.
 
 ---
 
@@ -421,23 +420,23 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 - Blood: 2
 
 **Skills**:
-- Black Rune Magic: 4
-- Ritual Casting: 3
-- Arcane Lore: 3
+- Glyphcasting: 4
+- Rituals: 3
+- Forbidden Knowledge: 3
 - Intimidation: 2
 
 #### Attacks
-**Void Bolt** (Soul 5 + Black Rune Magic 4 = 9d6)
+**Void Bolt** (Soul 5 + Glyphcasting 4 = 9d6)
 - Range: 40 feet
 - Damage: 6 Soul damage on success
 - Effect: On Critical Hit (3+ successes), the target is Cursed (Disadvantage on their next roll).
 
-**Hylden Flame** (Soul 5 + Black Rune Magic 4 = 9d6, costs 2 SE)
+**Hylden Flame** (Soul 5 + Glyphcasting 4 = 9d6, costs 2 SE)
 - Range: 30-foot cone
 - Damage: 5 Fire damage to all creatures in the cone
 - Effect: Targets must pass a DR 3 Shadow save or also be Burning (2 Fire damage per turn for 3 turns).
 
-**Rune of Torment** (Soul 5 + Black Rune Magic 4 = 9d6, Recharge 5-6, costs 3 SE)
+**Rune of Torment** (Soul 5 + Glyphcasting 4 = 9d6, Recharge 5-6, costs 3 SE)
 - Range: 30 feet
 - Damage: 8 Soul damage
 - Effect: The target must pass a DR 3 Will save or be Stunned until the end of their next turn as agony wracks their mind.
@@ -465,7 +464,7 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 - Blood vials (1d3 vials, can be used for Blood Price without harming self) - **Trade Value**: 10 supplies each
 
 #### Scaling Options
-**Archwarlock of the Black Rune** (Boss, TV 4): +15 HP, increase Soul to 6, Black Rune Magic to 5. Add "Mass Curse" ability (all enemies within 20 feet suffer -1 die on their next roll). Add 2 Legendary Actions per round: Cast Void Bolt, Teleport 20 feet, or Summon Demon (costs 2 actions, 1/encounter).
+**Archwarlock of the Black Rune** (Boss, TV 4): +15 HP, increase Soul to 6, Glyphcasting to 5. Add "Mass Curse" ability (all enemies within 20 feet suffer -1 die on their next roll). Add 2 Legendary Actions per round: Cast Void Bolt, Teleport 20 feet, or Summon Demon (costs 2 actions, 1/encounter).
 
 ---
 
@@ -499,24 +498,23 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 - Blood: 2
 
 **Skills**:
-- Assassination: 3
-- Stealth: 5
-- Acrobatics: 3
-- Poison Craft: 3
+- Stealth: 3
+- Evasion: 3
+- Craft: 3
 
 #### Attacks
-**Assassin's Blade** (Shadow 5 + Assassination 3 = 8d6)
-- Range: Melee
+**Assassin's Blade** (Shadow 5 + Stealth 3 = 8d6)
+- Range: Weapon Mastery
 - Damage: 7 Physical damage on success
 - Effect: On Critical Hit (3+ successes), the target is Bleeding (2 Physical damage per turn) and Poisoned (Disadvantage on attacks and saves, lasts 3 turns).
 
-**Poisoned Dart** (Focus 4 + Assassination 3 = 7d6)
+**Poisoned Dart** (Focus 4 + Stealth 3 = 7d6)
 - Range: 30 feet
 - Damage: 3 Physical damage + Poison
 - Effect: Target must pass a DR 3 Blood save or be Poisoned (Disadvantage on attacks and saves, lasts 5 turns). The dart can be thrown silently while Hidden without revealing the Assassin's position.
 
-**Coup de Grace** (Shadow 5 + Assassination 3 = 8d6, only usable when Hidden or vs Stunned/Sleeping targets)
-- Range: Melee
+**Coup de Grace** (Shadow 5 + Stealth 3 = 8d6, only usable when Hidden or vs Stunned/Sleeping targets)
+- Range: Weapon Mastery
 - Damage: Deals triple weapon damage to incapacitated or sleeping targets (ignores armor).
 - Effect: This attack automatically has Advantage.
 
@@ -525,14 +523,14 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 
 **Master of Stealth**: The Assassin has Advantage on all Stealth rolls. While Hidden, the Assassin has Advantage on Dodge rolls against area-of-effect attacks.
 
-**Evasion**: When the Assassin would take damage from an attack, they can use a reaction to attempt a Shadow + Acrobatics roll (8d6) against the attacker's successes. If the Assassin rolls more successes, they take no damage (they dodged).
+**Evasion**: When the Assassin would take damage from an attack, they can use a reaction to attempt a Shadow + Evasion roll (8d6) against the attacker's successes. If the Assassin rolls more successes, they take no damage (they dodged).
 
 **Contract Kill** (Passive): At the start of the encounter, the Assassin designates one PC as their "contract target." They deal +2 damage on all attacks against that target and have Advantage on Stealth rolls when sneaking toward them.
 
 #### Tactics
 - **Stealth Opening**: Assassins begin combat Hidden. They use Shadow Step to reach isolated targets and attempt Coup de Grace on sleeping or Stunned victims.
 - **Poisoned Dart Harassment**: If they can't get close safely, they fire Poisoned Darts from cover, using the Poison effect to weaken priority targets.
-- **Evasion for Survival**: When attacked, they use Evasion to negate damage, then Shadow Step away to reset Stealth.
+- **Evasion for Nature**: When attacked, they use Evasion to negate damage, then Shadow Step away to reset Stealth.
 - **Contract Kill Focus**: They relentlessly pursue their designated target, ignoring others unless threatened. This makes them predictable but deadly to the marked PC.
 - **Retreat on Failure**: If their contract target survives and they're reduced below 10 HP, Assassins will flee using Shadow Step and report failure to the guild.
 
@@ -543,7 +541,7 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 - Contract scroll (details the target, client, and payment) - **Trade Value**: Priceless for story purposes (reveals who hired the assassin)
 
 #### Scaling Options
-**Bleeding Eye Master Assassin** (Boss, TV 4): +15 HP, increase Shadow and Assassination to 6. Add "Mark for Death" ability (all allies gain +2 dice on attacks vs the marked target). Add 2 Legendary Actions per round: Shadow Step, Poisoned Dart, or Evasion.
+**Bleeding Eye Master Assassin** (Boss, TV 4): +15 HP, increase Shadow and Stealth to 6. Add "Mark for Death" ability (all allies gain +2 dice on attacks vs the marked target). Add 2 Legendary Actions per round: Shadow Step, Poisoned Dart, or Evasion.
 
 ---
 
@@ -578,18 +576,16 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 
 **Skills**:
 - Tactics: 4
-- Anti-Magic Combat: 4
-- Swordplay: 3
-- Leadership: 4
+- Weapon Mastery: 3
 
 #### Attacks
-**Rune-Etched Longsword** (Fury 4 + Swordplay 3 = 7d6)
-- Range: Melee
+**Rune-Etched Longsword** (Fury 4 + Weapon Mastery 3 = 7d6)
+- Range: Weapon Mastery
 - Damage: 6 Physical damage on success
 - Effect: On Critical Hit (3+ successes), the target loses 2 SE and cannot cast spells until the end of their next turn (runes disrupt magical energy).
 
-**Mage Breaker Strike** (Fury 4 + Anti-Magic Combat 4 = 8d6, Recharge 5-6)
-- Range: Melee
+**Mage Breaker Strike** (Fury 4 + Tactics 4 = 8d6, Recharge 5-6)
+- Range: Weapon Mastery
 - Damage: 8 Physical damage, +4 damage vs spellcasters
 - Effect: This attack ignores any magical defenses (barriers, shields, wards). If the target has SE, they lose 4 SE in addition to HP damage.
 
@@ -599,7 +595,7 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 - Effect: The Commander designates a target and orders nearby soldiers to fire. All allied archers/crossbowmen within 40 feet immediately make a ranged attack against the designated target with Advantage.
 
 #### Abilities
-**Tactical Leader**: All allies within 30 feet of the Commander gain +1 die on attack rolls and automatically pass morale checks. If the Commander is killed, all mortal allies must pass a DR 3 Will save or be Frightened (flee or cower) for 2 rounds.
+**Tactical Leader**: All allies within 30 feet of the Commander gain +1 die on attack rolls and automatically pass morale checks. If the Commander is killed, all mortal allies must pass a DR 3 Will save or be **Frightened** for 2 rounds.
 
 **Anti-Magic Aura**: The Commander's armor disrupts magic within 15 feet. All enemy spells cast within this aura have Disadvantage on their rolls. Magical healing is halved within the aura.
 
@@ -615,7 +611,7 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 - **Tactical Leader Synergy**: They position themselves to maximize the buff radius, keeping their squad empowered.
 
 #### Loot
-- Rune-etched longsword (Melee weapon, +2 dice vs spellcasters) - **Trade Value**: 40 supplies
+- Rune-etched longsword (Weapon Mastery weapon, +2 dice vs spellcasters) - **Trade Value**: 40 supplies
 - Rune-inscribed plate armor (Heavy, Armor 3 Physical, Armor 2 Magic) - **Trade Value**: 60 supplies
 - Witch-Hunter insignia (grants access to Witch-Hunter strongholds) - **Trade Value**: 25 supplies (or story leverage)
 - Anti-magic manacles (magical restraints, prevents spellcasting while worn) - **Trade Value**: 30 supplies
@@ -651,14 +647,14 @@ The outer ring of Hash'ak'gik's worship—mortals seduced by visions of a god th
 - Will: 1
 
 **Skills**:
-- Melee (Fury): 1
+- Weapon Mastery (Fury): 1
 
 #### Abilities
 **Blood-Prayer** (Bonus Action, 1/scene): Speak the demon's name. All Acolytes within 30 ft gain +1 to their next attack roll and become immune to the Frightened condition until end of next turn.
 
 **Vessel's Calm** (Passive): Immune to Morale checks. Acolytes of Hash'ak'gik never flee, never surrender, and never negotiate once combat begins. This should unnerve players accustomed to mortal enemies breaking.
 
-**Sacrificial Strike** (Melee, 1 Action): Fury (2) + Melee (1) = 3d6 vs Dodge. Deals 4 Force damage. On a critical hit, the target gains 1 Corruption as demonic energy bleeds through the wound.
+**Sacrificial Strike** (Weapon Mastery, 1 Action): Fury (2) + Weapon Mastery (1) = 3d6 vs DV. Deals 4 Force damage. On a critical hit, the target gains 1 Corruption as demonic energy bleeds through the wound.
 
 #### Encounter Role
 Acolytes are disposable screening troops. Their true danger is the Blood-Prayer coordination and refusal to break. Use them in groups of 4–6, supporting a Vessel of Hash'ak'gik or guarding a ritual site.
@@ -700,7 +696,6 @@ A mortal hollowed out by Hash'ak'gik's will and rebuilt as a living conduit for 
 - Blood: 3
 - Focus: 3
 - Will: 4
-
 **Skills**:
 - Forbidden Knowledge (Soul): 2
 
@@ -709,7 +704,7 @@ A mortal hollowed out by Hash'ak'gik's will and rebuilt as a living conduit for 
 
 **Voice of the Pit** (Action, Recharge 5–6): The Vessel speaks with Hash'ak'gik's voice. All enemies within 30 ft must make a DR 3 Will save or become Frightened for 2 rounds. Creatures that fail by 3+ are also Stunned for 1 round. This ability has no visible magical effect—it is simply *words*, spoken with absolute authority.
 
-**Demonic Surge** (Melee or Ranged, 1 Action): Soul (4) + Forbidden Knowledge (2) = 6d6 vs Dodge. Deals 8 Force damage. The Vessel's hands crackle with black-red energy. On hit, the target must make a DR 2 Blood save or gain 1 Corruption.
+**Demonic Surge** (Melee or Ranged, 1 Action): Soul (4) + Forbidden Knowledge (2) = 6d6 vs DV. Deals 8 Force damage. The Vessel's hands crackle with black-red energy. On hit, the target must make a DR 2 Blood save or gain 1 Corruption.
 
 **Blood Conduit** (Reaction, 1/scene): When reduced below half HP, the Vessel sacrifices one adjacent Acolyte (killing them instantly) to restore 15 HP and gain +1 DV until end of next turn.
 
@@ -765,23 +760,23 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 - Blood: 3
 
 **Skills**:
-- Divine Authority (Will): 5
-- Melee (Fury): 4
+- Intimidation (Will): 5
+- Weapon Mastery (Fury): 4
 - Tactics (Focus): 4
 - Observation (Focus): 3
 
 #### Attacks
-**Purifier's Mace** (Fury 4 + Melee 4 = 8d6)
-- Range: Melee
+**Purifier's Mace** (Fury 4 + Weapon Mastery 4 = 8d6)
+- Range: Weapon Mastery
 - Damage: 9 Physical (Bludgeoning) + 3 Radiant
 - Effect: On Critical Hit (3+ successes), the target is **Stunned** for 1 round (holy shock disrupts undead animation and mortal focus alike). Undead and vampiric creatures take +2 bonus Radiant damage on every hit.
 
-**Divine Condemnation** (Soul 5 + Divine Authority 5 = 10d6, costs 3 SE)
+**Divine Condemnation** (Soul 5 + Intimidation 5 = 10d6, costs 3 SE)
 - Range: 60 feet
 - Damage: 7 Radiant + 4 Soul damage
 - Effect: Undead and vampiric targets take double the Radiant portion (14 Radiant). On Critical Hit, the target is **Marked by the Sarafan** — all Sarafan allies gain +1 die on attacks against it for 3 rounds.
 
-**Sanctified Judgment** (Will 6 + Divine Authority 5 = 11d6, Recharge 5-6, costs 5 SE)
+**Sanctified Judgment** (Will 6 + Intimidation 5 = 11d6, Recharge 5-6, costs 5 SE)
 - Range: 40-foot radius centered on self
 - Damage: 10 Radiant damage to all enemies in radius
 - Effect: DR 4 Will save to halve. Undead and vampiric creatures that fail are also **Frightened** for 2 rounds. Allied Sarafan in the area regain 3 HP.
@@ -860,17 +855,17 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 - Blood: 4
 
 **Skills**:
-- Savage Attack (Fury): 3
-- Endurance (Blood): 3
+- Unarmed Combat (Fury): 3
+- Concentration (Blood): 3
 
 #### Attacks
-**Rending Claws** (Fury 5 + Savage Attack 3 = 8d6)
-- Range: Melee
+**Rending Claws** (Fury 5 + Unarmed Combat 3 = 8d6)
+- Range: Weapon Mastery
 - Damage: 8 Physical (Slashing) + Bleeding
 - Effect: On Critical Hit (3+ successes), inflicts 2 Bleeding stacks (4 damage per turn). The Turning's newly formed claws are ragged and tear flesh in jagged strips.
 
-**Desperate Bite** (Fury 5 + Savage Attack 3 = 8d6, requires target is Grappled or Prone)
-- Range: Melee
+**Desperate Bite** (Fury 5 + Unarmed Combat 3 = 8d6, requires target is Grappled or Prone)
+- Range: Weapon Mastery
 - Damage: 10 Physical (Piercing) + 5 HP drain
 - Effect: The Turning regains 5 HP. The bitten target must make a DR 2 Blood save or contract **Vampiric Taint** (1 Corruption point; if the target reaches 5+ Corruption from this source, they begin their own Turning in 1d6 days — plot hook, not mechanical transformation).
 
@@ -889,7 +884,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 
 **Feral Desperation**: When reduced below half HP (27 or less), the Turning gains +2 dice on all attack rolls but loses the ability to distinguish friend from foe — it attacks the nearest creature regardless of allegiance. The GM controls targeting.
 
-**Tragic Nature**: A DR 4 Medicine or Rituals check as an Action can identify that this creature was recently human and that the transformation is incomplete. A DR 5 Rituals check performed over 3 consecutive rounds (the caster must maintain concentration and remain within 5 feet) can halt the transformation, reverting the creature to an unconscious mortal with 1 HP and 3 Corruption. The Turning fights normally during this process.
+**Tragic Nature**: A DR 4 Craft or Rituals check as an Action can identify that this creature was recently human and that the transformation is incomplete. A DR 5 Rituals check performed over 3 consecutive rounds (the caster must maintain concentration and remain within 5 feet) can halt the transformation, reverting the creature to an unconscious mortal with 1 HP and 3 Corruption. The Turning fights normally during this process.
 
 #### Reactions
 **Lashing Reflex** (Reaction, when a creature enters melee range)
@@ -926,10 +921,10 @@ The Turning has no tactics — it is a creature in agony, acting on fractured in
 
 ### Sample Encounters
 
-#### Encounter 1: Ambush on the Road (Levels 2-4)
+#### Encounter 1: Stealth on the Road (Levels 2-4)
 **Setup**: The party travels through a forest when they're ambushed by 6 **Outcast Raiders** (Standard, TV 1 each, TV 6 total) and 1 **Raider Chieftain** (Elite, TV 2, TV 8 total adjusted).
 
-**Tactics**: Raiders start Hidden in trees and bushes. They fire arrows (Shortbow Ambush) for 2 rounds, then charge with axes when enemies are wounded. The Chieftain uses Warlord's Command to empower the strongest raider.
+**Tactics**: Raiders start Hidden in trees and bushes. They fire arrows (Shortbow Ambush) for 2 rounds, then charge with axes when enemies are wounded. The Chieftain uses Warlord's Tactics to empower the strongest raider.
 
 **Twist**: If the party defeats the raiders quickly, the Chieftain offers information (location of a nearby ruin, warning about a vampire nest) in exchange for his life.
 
@@ -949,7 +944,7 @@ The Turning has no tactics — it is a creature in agony, acting on fractured in
 #### Encounter 3: The Contract (Levels 7-9)
 **Setup**: A **Bleeding Eye Assassin** (Elite, TV 2) has been hired to kill one PC. The assassin ambushes the party while they rest at an inn.
 
-**Tactics**: The Assassin infiltrates during the night, attempting Coup de Grace on the sleeping target. If the PC wakes (DR 3 Focus + Perception check to detect), the Assassin fights for 3 rounds, then Shadow Steps out a window to escape if below 15 HP.
+**Tactics**: The Assassin infiltrates during the night, attempting Coup de Grace on the sleeping target. If the PC wakes (DR 3 Focus + Observation check to detect), the Assassin fights for 3 rounds, then Shadow Steps out a window to escape if below 15 HP.
 
 **Twist**: If captured alive, the Assassin reveals who hired them (a rival faction, a betrayed ally, or a mysterious patron). If killed, the contract scroll on their body provides the same information.
 
@@ -1045,7 +1040,7 @@ When running **Elite** or **Boss**-tier mortals in climactic encounters, conside
 **For Sarafan Inquisitors or Witch-Hunter Commanders**:
 - **Move**: The mortal moves up to half their movement speed without provoking opportunity attacks.
 - **Strike**: The mortal makes one melee attack.
-- **Holy Command** (costs 2 actions): The mortal shouts a prayer, granting all allies within 30 feet +1 die on their next attack roll.
+- **Holy Tactics** (costs 2 actions): The mortal shouts a prayer, granting all allies within 30 feet +1 die on their next attack roll.
 - **Purging Light** (costs 2 actions, Inquisitor only): The mortal holds their holy symbol aloft, dealing 4 Radiant damage to all undead within 20 feet (no roll).
 
 **For Black Rune Warlocks**:
@@ -1059,7 +1054,7 @@ When running **Elite** or **Boss**-tier mortals in climactic encounters, conside
 - **Evasion** (costs 2 actions): The mortal uses their Evasion ability as described in their stat block.
 
 **For Wandering Mad Seers**:
-- **Prophetic Warning**: The mortal shouts a warning, granting one ally within 30 feet Advantage on their next Defense roll.
+- **Prophetic Warning**: The mortal shouts a warning, granting one ally within 30 feet Advantage on their next Evasion or Weapon Mastery reaction.
 - **Temporal Flicker**: The mortal phases out of reality until the start of their next turn, becoming immune to all damage and effects.
 - **Glimpse the Future** (costs 2 actions): The mortal predicts an enemy's next action, granting the mortal Advantage on their next attack or save against that enemy.
 
@@ -1096,18 +1091,17 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 - Blood: 4
 
 **Skills**:
-- Melee (Fury): 5
-- Tactics (Focus): 5
-- Leadership (Will): 5
+- Weapon Mastery (Fury): 5
+- Tactics: 5
 - Athletics (Fury): 4
 - Intimidation (Will): 4
 - Observation (Focus): 3
 
 #### Attacks
-**Sanctified Greatsword** (Fury 5 + Melee 5 = 10d6 vs Parry)
-- Range: Melee (10 feet)
+**Sanctified Greatsword** (Fury 5 + Weapon Mastery 5 = 10d6 vs Parry)
+- Range: Weapon Mastery (10 feet)
 - Damage: 12 Physical (Slashing) + 4 Radiant
-- Effect: Undead and vampiric creatures take an additional +4 Radiant damage. On Critical Hit, target must pass a DR 4 Will save or be Staggered (lose their next bonus action).
+- Effect: Undead and vampiric creatures take an additional +4 Radiant damage. On Critical Hit, target must pass a DR 4 Will save or be **Staggered** until the end of their next turn. A target Staggered this way also loses its next Bonus Action.
 
 **Shield of Faith** (Action, costs 5 SE, 1/encounter)
 - Range: Self and allies within 20 feet
@@ -1118,8 +1112,8 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 - Effect: All mortal allies within range gain +2 dice on their next attack roll. If any ally is Frightened, they can immediately reroll their Will save.
 
 **Judgment Strike** (Action, costs 8 SE, Recharge 5-6)
-- Dice Pool: Fury 5 + Melee 5 = 10d6 vs Parry
-- Range: Melee
+- Dice Pool: Fury 5 + Weapon Mastery 5 = 10d6 vs Parry
+- Range: Weapon Mastery
 - Damage: 18 Physical (Slashing) + 8 Radiant
 - Effect: If target is undead or vampiric, they must pass a DR 5 Will save or be Stunned for 1 round (holy shock).
 
@@ -1131,7 +1125,7 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 
 **Consecrated Presence** (Passive): Undead creatures within 20 feet of the Warlord have Disadvantage on attack rolls (the holy aura weakens their connection to unlife).
 
-**Unbreakable Resolve** (Passive): The Warlord is immune to fear, charm, and Corruption effects. Mortal allies within 30 feet gain Advantage on Will saves against these effects.
+**Unbreakable Concentration** (Passive): The Warlord is immune to fear, charm, and Corruption effects. Mortal allies within 30 feet gain Advantage on Will saves against these effects.
 
 **Last Stand** (Passive): When reduced to 25 HP or below, the Warlord enters a state of righteous fury. They gain +2 dice on all attack rolls and their movement speed increases by 10 feet. This lasts until the Warlord is healed above 25 HP or falls.
 
@@ -1139,7 +1133,7 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 
 #### Legendary Actions (2/round)
 - **Strike (1 action):** Make one Sanctified Greatsword attack.
-- **Command (1 action):** One mortal ally within 40 feet can immediately move up to half their speed or make one attack.
+- **Tactics (1 action):** One mortal ally within 40 feet can immediately move up to half their speed or make one attack.
 - **Inspiring Cry (2 actions):** All mortal allies within 40 feet regain 5 HP and can immediately save against any ongoing condition.
 
 #### Lair Action
@@ -1185,19 +1179,19 @@ They function as the ground troops of any Sarafan encounter — expendable, coll
 - **Initiative:** 1
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 2, Soul 0, Shadow 0, Will 1, Focus 2, Blood 2
-- **Skills:** Melee 1
+- **Skills:** Weapon Mastery 1
 - **SE:** N/A | **BP:** N/A
 
 #### Attacks & Abilities
 
 **Spear** (Action)
-- **Dice Pool:** Fury 2 + Melee 1 = 3d6
+- **Dice Pool:** Fury 2 + Weapon Mastery 1 = 3d6
 - **Damage:** 4 physical (Piercing)
-- **Range:** Melee (5 ft) or Thrown (20 ft)
+- **Range:** Weapon Mastery (5 ft) or Thrown (20 ft)
 - **Special:** When two or more Footsoldiers are adjacent to the same target, each gains +1 die (Formation Fighting)
 
 **Sword and Shield** (Alternative loadout, Action)
-- **Dice Pool:** Fury 2 + Melee 1 = 3d6
+- **Dice Pool:** Fury 2 + Weapon Mastery 1 = 3d6
 - **Damage:** 4 physical (Slashing)
 - **Special:** When this Footsoldier uses Shield Block (Reaction), it reduces damage by 2
 
@@ -1220,7 +1214,7 @@ Footsoldiers advance in organized groups of 4–8, using Formation Fighting to m
 - Belt pouch (1d6+2 supplies in coin-equivalent)
 
 #### Scaling Options
-- **Veteran Footsoldier (Standard, TV 1):** HP 14, DV 4, Armor 2, Fury 3, Melee 2. Add Cleave (when hitting a target, any adjacent creature takes 2 splash damage).
+- **Veteran Footsoldier (Standard, TV 1):** HP 14, DV 4, Armor 2, Fury 3, Weapon Mastery 2. Add Cleave (when hitting a target, any adjacent creature takes 2 splash damage).
 - **Sarafan Sergeant (Elite, TV 2):** HP 24, DV 4, Armor 2, Fury 3, Will 3. Add Rally Cry (1/encounter, Action): all Sarafan allies within 30 feet immediately make one free attack or move their full speed.
 
 ---
@@ -1242,19 +1236,19 @@ They are practical in a way many Sarafan are not. An Outrider doesn't care about
 - **Initiative:** 3
 - **Movement:** 35 feet (7 squares)
 - **Attributes:** Fury 2, Soul 0, Shadow 2, Will 2, Focus 3, Blood 2
-- **Skills:** Ranged 2, Stealth 2, Tracking (Focus) 2
+- **Skills:** Weapon Mastery 2, Stealth 2, Observation (Focus) 2
 - **SE:** N/A | **BP:** N/A
 
 #### Attacks & Abilities
 
 **Crossbow** (Action)
-- **Dice Pool:** Focus 3 + Ranged 2 = 5d6
+- **Dice Pool:** Focus 3 + Weapon Mastery 2 = 5d6
 - **Damage:** 5 Piercing
 - **Range:** 80 feet (16 squares)
 - **Special:** Ignore partial cover (the Outrider accounts for cover angles when shooting)
 
 **Short Sword** (Action)
-- **Dice Pool:** Fury 2 + Melee 2 = 4d6
+- **Dice Pool:** Fury 2 + Weapon Mastery 2 = 4d6
 - **Damage:** 4 Slashing
 
 **Hunter's Mark (Bonus Action, 1/combat per target):** The Outrider marks one visible target. Until that target is killed or incapacitated, the Outrider gains +1 die on all attacks against it and can sense its location within 100 feet even through walls.
@@ -1263,12 +1257,12 @@ They are practical in a way many Sarafan are not. An Outrider doesn't care about
 
 **Skirmisher:** After making a ranged attack, the Outrider can immediately move up to 15 feet without provoking opportunity attacks.
 
-**Shadow Ambush:** If the Outrider attacks from Stealth (before being detected), its first attack gains +2 dice and ignores the target's Armor.
+**Shadow Stealth:** If the Outrider attacks from Stealth (before being detected), its first attack gains +2 dice and ignores the target's Armor.
 
 **Terrain Reading:** The Outrider is never Slowed by natural difficult terrain (mud, undergrowth, rubble). They move at full speed through it.
 
 #### Tactics & Strategy
-Outriders open combat from Stealth where possible, using Shadow Ambush for maximum first-strike damage, then applying Hunter's Mark to the party's most threatening member. They use Skirmisher to stay at medium range from melee fighters while maintaining crossbow fire. If cornered, they drop to Short Sword and fight dirty rather than surrender.
+Outriders open combat from Stealth where possible, using Shadow Stealth for maximum first-strike damage, then applying Hunter's Mark to the party's most threatening member. They use Skirmisher to stay at medium range from melee fighters while maintaining crossbow fire. If cornered, they drop to Short Sword and fight dirty rather than surrender.
 
 **Encounter Design:** Two Outriders (TV 2 combined) flanking the party while 4 Footsoldiers press from the front creates a TV 3 encounter with excellent tactical tension.
 
@@ -1279,7 +1273,7 @@ Outriders open combat from Stealth where possible, using Shadow Ambush for maxim
 - Wilderness kit (rope, tinderbox, rations) — **Trade Value**: 5 supplies
 
 #### Scaling Options
-- **Outrider Champion (Elite, TV 2):** HP 24, DV 5, Focus 4, Ranged 3, Stealth 3. Add Explosive Bolt (1/encounter, costs a prepared item): crossbow shot deals +6 Fire damage in 5-foot radius.
+- **Outrider Champion (Elite, TV 2):** HP 24, DV 5, Focus 4, Weapon Mastery 3, Stealth 3. Add Explosive Bolt (1/encounter, costs a prepared item): crossbow shot deals +6 Fire damage in 5-foot radius.
 - **Sarafan Shadow-Stalker (Boss, TV 4):** HP 55, DV 6, Fury 4, Focus 4, Shadow 3. Add Lethal Precision: critical hits inflict Bleeding. Add Escape Artist: cannot be Grappled or Restrained by undead.
 
 ---
@@ -1347,13 +1341,13 @@ A Rune-Forger at work is a methodical, deliberate practitioner: they prepare the
 - **Initiative:** 2
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 1, Soul 3, Shadow 1, Will 3, Focus 4, Blood 2
-- **Skills:** Arcana (Soul) 3, Runecraft (Focus) 4, Observation (Focus) 2
+- **Skills:** Forbidden Knowledge (Soul) 3, Glyphcasting (Focus) 4, Observation (Focus) 2
 - **SE:** 20
 
 #### Attacks & Abilities
 
 **Rune Bolt** (Action)
-- **Dice Pool:** Focus 4 + Runecraft 4 = 8d6
+- **Dice Pool:** Focus 4 + Glyphcasting 4 = 8d6
 - **Range:** 50 feet (10 squares)
 - **Damage:** 7 Soul/Arcane damage
 - **Special:** Penetrates 1 point of Armor (the bolt is partially spectral)
@@ -1370,7 +1364,7 @@ A Rune-Forger at work is a methodical, deliberate practitioner: they prepare the
 
 **Prepared Battlefield:** A Rune-Forger who has had 10+ minutes in a location before combat has 3 pre-placed glyphs already active at the start of the encounter. The GM may place these tactically.
 
-**Runic Expertise:** Rune-Forgers are immune to their own glyphs and can walk through them freely. They can also attempt to disarm enemy magical traps with a Focus + Runecraft vs DR roll.
+**Runic Expertise:** Rune-Forgers are immune to their own glyphs and can walk through them freely. They can also attempt to disarm enemy magical traps with a Focus + Glyphcasting vs DR roll.
 
 **Arcane Supplier:** After combat, searching a Rune-Forger's equipment reveals 1d3 pre-made Runestones (single-use items each dealing 5 Soul damage in a 10-foot area, thrown as an action) — **Trade Value**: 12 supplies each.
 
@@ -1380,7 +1374,7 @@ In pre-planned encounters, the Rune-Forger has placed 3 glyphs at chokepoints an
 **Encounter Design:** A Rune-Forger with 3 Sarafan Footsoldiers as shields (TV 2.75 combined) in a prepared lair makes an excellent puzzle-encounter where players must decide whether to pursue the Forger through a glyph-mined corridor or attempt to flank.
 
 #### Loot
-- Rune-toolkit (allows non-magical characters to create basic traps; DR 4 Runecraft check or Focus + Arcana check) — **Trade Value**: 35 supplies
+- Rune-toolkit (allows non-magical characters to create basic traps; DR 4 Glyphcasting check or Focus + Forbidden Knowledge check) — **Trade Value**: 35 supplies
 - Active runestones (1d3) — **Trade Value**: 12 supplies each
 - Research notes (contain 1d2 useful ritual formulas, GM-determined) — **Trade Value**: 20 supplies each
 - Minor warding rune (passive item: once per day, negate 3 points of damage from a magical attack) — **Trade Value**: 40 supplies

@@ -62,7 +62,7 @@ Echo Serpents are the spectral remnants of great serpents that died in places of
 - **Special:** Target must make DR 2 Will save or suffer Soul Drained (max SE reduced by 2 until short rest)
 
 **Coiling Grasp** (Action, requires hit with Spectral Bite)
-- **Effect:** Target becomes Grappled (Restrained in spectral coils). Takes automatic 3 Soul damage at start of each turn while grappled.
+- **Effect:** Target becomes **Grappled** and **Restrained** by spectral coils. The target takes 3 automatic Soul damage at the start of each turn while held.
 - **Escape:** DR 3 Blood or Shadow save as Action
 
 **Phase Strike** (Bonus Action)
@@ -232,7 +232,7 @@ Spectral wolves that hunt in packs across the Material and Spectral Realms. Thei
 ### Special Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
 
-**Pack Tactics:** Advantage on attacks if ally is adjacent to target.
+**Tactics:** Advantage on attacks if ally is adjacent to target.
 
 **Phase Runner:** Can move through walls as part of movement without taking damage.
 
@@ -325,7 +325,7 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 
 **Reality Rend** (Action)
 - **Dice Pool:** Shadow 5 + 0 = 5d6
-- **Range:** Melee
+- **Range:** Weapon Mastery
 - **Damage:** 10 Force damage
 - **Special:** Tears hole in reality. Target must make DR 3 Will save or be pulled partially into Spectral Realm (Slowed for 1 minute, disadvantage on all actions)
 
@@ -448,11 +448,11 @@ In the Legacy of Kain canon, the Sluagh haunt the spaces between meaningful afte
 - **Initiative:** 3
 - **Movement:** 30 feet (6 squares), Fly 20 feet (hover)
 - **Attributes:** Fury 2, Soul 2, Shadow 2, Will 1, Focus 2, Blood 0
-- **Skills:** Stealth 3, Observation 2, Death Touch (Soul): 1
+- **Skills:** Stealth 3, Observation 2, Unarmed Combat (Soul): 1
 
 ### Attacks
 **Carrion Grasp** (Action)
-- **Dice Pool:** Soul (2) + Death Touch (1) = 3d6
+- **Dice Pool:** Soul (2) + Unarmed Combat (1) = 3d6
 - **Damage:** 4 Soul damage (ignores physical armor)
 - **Special:** On hit, the target loses 1 SE (Soul Energy). If the target has no SE remaining, the Sluagh instead deals +2 bonus damage as it feeds on residual soul-stuff.
 
@@ -503,7 +503,7 @@ Sluagh lurk at the edges of combat, waiting for someone to weaken. They do not i
 - Soul Reavers with phase abilities level the playing field
 
 **Engagement Patterns:**
-- **Ambush:** Phase through walls for surprise
+- **Stealth:** Phase through walls for surprise
 - **Divide:** Separate party using fear and forced movement
 - **Drain:** Focus on casters to eliminate their SE
 - **Overwhelm:** Use numbers and incorporeal nature to surround
@@ -589,14 +589,14 @@ In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he wa
 - **Initiative:** 6
 - **Movement:** 35 feet (7 squares), Fly 40 feet (hover)
 - **Attributes:** Fury 3, Soul 5, Shadow 4, Will 4, Focus 4, Blood 0
-- **Skills:** Stealth 4, Intimidation 4, Death Touch (Soul) 2
+- **Skills:** Stealth 4, Intimidation 4, Unarmed Combat (Soul) 2
 - **SE:** 12
 
 ### Attacks
 
 **Abyss Touch** (Action)
-- **Dice Pool:** Soul 5 + Death Touch 2 = 7d6
-- **Range:** Melee
+- **Dice Pool:** Soul 5 + Unarmed Combat 2 = 7d6
+- **Range:** Weapon Mastery
 - **Damage:** 8 Soul damage
 - **Special:** Target must make DR 3 Will save or lose 2 SE. If the target has 0 SE, they take +4 bonus Soul damage instead. The touch is ice-cold and leaves black frost on the wound.
 
@@ -607,7 +607,7 @@ In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he wa
 - **Special:** DR 3 Will save to halve damage. Creatures that fail are also **Frightened** for 1 round and lose 1 SE. The scream sounds like a thousand voices crying out simultaneously and then going silent.
 
 **Soul Siphon** (Action, costs 3 SE)
-- **Dice Pool:** Soul 5 + Death Touch 2 = 7d6
+- **Dice Pool:** Soul 5 + Unarmed Combat 2 = 7d6
 - **Range:** 40 feet (8 squares)
 - **Damage:** 6 Soul damage
 - **Special:** The Wraith regains HP equal to damage dealt. If this kills the target, the Wraith gains 10 temporary HP.
@@ -646,7 +646,7 @@ The Wraith of the Abyss is a patient predator. It uses Phase Shift to stalk the 
 
 ### Scaling Options
 - **Lesser Abyssal Shade (Standard, TV 1):** HP 22, DV 4, Soul 3, no Phase Shift or Void Scream. Remove Abyssal Resilience.
-- **Abyssal Revenant (Boss, TV 4):** HP 68, DV 6, Soul 6, Death Touch 3. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Abyss Touch (1), Void Scream (2). Add "Abyssal Gate" (1/encounter): opens a portal to the Abyss in a 15-foot radius — all creatures in the area must make DR 4 Will save or be pulled into the Spectral Realm until the end of their next turn.
+- **Abyssal Revenant (Boss, TV 4):** HP 68, DV 6, Soul 6, Unarmed Combat 3. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Abyss Touch (1), Void Scream (2). Add "Abyssal Gate" (1/encounter): opens a portal to the Abyss in a 15-foot radius — all creatures in the area must make DR 4 Will save or be pulled into the Spectral Realm until the end of their next turn.
 
 ---
 
@@ -678,7 +678,7 @@ They possess no intelligence beyond a dim awareness of the living. They don't pl
 
 **Chill Touch** (Action)
 - **Dice Pool:** Soul 1 + Shadow 2 = 3d6 vs Will
-- **Range:** Melee (passes through armor — incorporeal touch)
+- **Range:** Weapon Mastery (passes through armor — incorporeal touch)
 - **Damage:** 3 Soul damage (cold, passes physical armor)
 - **Special:** On hit, target cannot regain HP until the start of their next turn
 
@@ -724,25 +724,25 @@ They are dangerous combatants: range, a powerful drain ability, and enough spect
 - **Initiative:** 5
 - **Movement:** 30 feet (6 squares), Fly 30 feet (hover)
 - **Attributes:** Fury 1, Soul 4, Shadow 3, Will 3, Focus 4, Blood 0 (Immune to Blood-based effects)
-- **Skills:** Arcana (Soul) 3, Observation (Focus) 2, Stealth (Shadow) 2
+- **Skills:** Glyphcasting 3, Observation 2, Stealth 2
 - **SE:** 22
 
 ### Attacks & Abilities
 
 **Soul Bolt** (Action)
-- **Dice Pool:** Soul 4 + Arcana 3 = 7d6
+- **Dice Pool:** Soul 4 + Glyphcasting 3 = 7d6
 - **Range:** 60 feet (12 squares)
 - **Damage:** 8 Soul damage
 - **Special:** Passes through physical cover (the bolt travels through the spectral layer of reality, not the material one)
 
 **Arcane Drain** (Action, costs 4 SE)
-- **Dice Pool:** Soul 4 + Arcana 3 = 7d6 vs Will
+- **Dice Pool:** Soul 4 + Glyphcasting 3 = 7d6 vs DV
 - **Range:** 50 feet
 - **Damage:** 6 Soul damage
 - **Special:** On hit, target loses 3 SE (in addition to the damage). If the target has 0 SE, they instead take +6 bonus Soul damage. The Arcanist regains 2 SE from a successful drain.
 
 **Spectral Missile Barrage** (Action, costs 8 SE, Recharge 5-6)
-- **Dice Pool:** Soul 4 + Arcana 3 = 7d6
+- **Dice Pool:** Soul 4 + Glyphcasting 3 = 7d6
 - **Range:** 40-foot radius at a point within 60 feet
 - **Damage:** 10 Soul damage to all targets in range
 - **Save:** DR 3 Will save to halve damage and avoid SE loss (save: 1 SE lost; fail: 3 SE lost)
@@ -763,13 +763,13 @@ The Arcanist maintains distance, opening with Soul Bolt spam and Arcane Drain ag
 **Encounter Design:** A Spectral Arcanist guarding a ruined tower pairs well with 4–6 Lingering Shades as interference. The combined TV of ~4 creates a tough mid-tier encounter where resource management (especially SE) determines success.
 
 ### Loot
-- Spectral tome (intangible, but a clever caster can copy its contents with a Focus + Arcana DR 3 ritual) — **Trade Value**: 40–60 supplies (or story item)
+- Spectral tome (intangible, but a clever caster can copy its contents with a Focus + Glyphcasting DR 3 ritual) — **Trade Value**: 40-60 supplies (or story item)
 - Arcane residue crystal (condensed SE from the Arcanist's dissolution) — **Trade Value**: 20 supplies, used in SE-restoring potions
-- Knowledge fragment (one piece of arcane knowledge the Arcanist retained; GM-determined) — **Trade Value**: varies
+- Forbidden Knowledge fragment (one piece of arcane knowledge the Arcanist retained; GM-determined) — **Trade Value**: varies
 
 ### Scaling Options
-- **Arcanist Apprentice (Standard, TV 1):** HP 18, DV 4, Soul 3, Arcana 1, SE 10. Loses Spectral Missile Barrage and Ectoplasmic Shield. Dangerous mainly due to Arcane Drain snowball.
-- **Grand Arcanist (Boss, TV 4):** HP 55, DV 6, Soul 6, Arcana 4, SE 36. Add Legendary Resistance (1/day) and 2 Legendary Actions: Soul Bolt (1), Arcane Drain (2). Gains Time Dilation (1/encounter): after resolving Spectral Missile Barrage, the Arcanist may immediately Move and use Soul Bolt or Arcane Drain. This does not refresh reactions, Recharge rolls, or Legendary Actions.
+- **Arcanist Apprentice (Standard, TV 1):** HP 18, DV 4, Soul 3, Glyphcasting 1, SE 10. Loses Spectral Missile Barrage and Ectoplasmic Shield. Dangerous mainly due to Arcane Drain snowball.
+- **Grand Arcanist (Boss, TV 4):** HP 55, DV 6, Soul 6, Glyphcasting 4, SE 36. Add Legendary Resistance (1/day) and 2 Legendary Actions: Soul Bolt (1), Arcane Drain (2). Gains Time Dilation (1/encounter): after resolving Spectral Missile Barrage, the Arcanist may immediately Move and use Soul Bolt or Arcane Drain. This does not refresh reactions, Recharge rolls, or Legendary Actions.
 
 ---
 

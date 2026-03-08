@@ -61,7 +61,7 @@ Legendary Actions (2 per round)
 ---
 
 ### Lore & Tactics
-- Built as a failsafe to guard relic vaults. Obeys ward-languages; clever PCs can display sigils to reduce aggression (DR 4 Arcana check).
+- Built as a failsafe to guard relic vaults. Obeys ward-languages; clever PCs can display sigils to reduce aggression (DR 4 Glyphcasting check).
 - Fights to hold chokepoints, uses Shockwave to deny clustering.
 
 ### Loot & Rewards
@@ -82,8 +82,8 @@ Legendary Actions (2 per round)
 
 ### Statistics
 - **HP:** 95
-- **DV:** 7 (1 + Will 6)
-- **Armor:** 3 (Resonant Field)
+- **DV:** 6
+- **Armor:** 4 (Resonant Field)
 - **SE:** 70
 - **Initiative:** 8
 - **Movement:** 40 feet (8 squares), Fly 40 feet (hover)
@@ -100,7 +100,7 @@ Legendary Actions (2 per round)
 **Harmonic Lance (Basic Attack)**
 - Action: 1
 - Range: 60ft
-- Dice Pool: Soul + Arcana = 10d6
+- Dice Pool: Soul + Glyphcasting = 10d6
 - Damage: 12 Psychic; on hit, -1 to target's Will checks (1 minute, stacks to -3).
 
 **Shattering Chorus (Special)**
@@ -147,7 +147,7 @@ Legendary Actions (2 per round)
 - **Initiative:** 5
 - **Movement:** 60 feet (12 squares), Swim 60 feet, Burrow 30 feet (silt)
 - **Attributes:** Fury 8, Soul 3, Shadow 4, Will 4, Focus 3, Blood 0
-- **Skills:** Athletics 5, Observation 5, Survival 5
+- **Skills:** Athletics 5, Observation 5, Nature 5
 
 **Immunities:** Poison
 **Resistances:** Cold, Physical (non-magical)
@@ -158,7 +158,7 @@ Legendary Actions (2 per round)
 
 **Ruin-Crush Jaws (Basic Attack)**
 - Action: 1
-- Range: Melee 10ft
+- Range: Weapon Mastery 10ft
 - Dice Pool: Fury + Athletics = 12d6
 - Damage: 22 Bludgeoning. Huge or smaller targets must make a DR 4 Evasion save or become Grappled (escape: contested Fury + Athletics check, DR 4).
 
@@ -220,7 +220,7 @@ Legendary Actions (2 per round)
 **Balance Lash (Basic Attack)**
 - Action: 1
 - Range: 10ft
-- Dice Pool: Soul + Arcana = 10d6
+- Dice Pool: Soul + Glyphcasting = 10d6
 - Damage: 10 Soul + 4 Force; on hit, target loses 1 SE (or BP) if they have any.
 
 **Pillar Mark (Special)**
@@ -298,7 +298,7 @@ Legendary Actions (2 per round)
 - Pins one foe and zones the rest with thorns.
 
 ### Loot
-- Living Root Core: Planting it purifies a small area or crafts a druidic focus granting +1 to Nature/Survival.
+- Living Root Core: Planting it purifies a small area or crafts a druidic focus granting +1 to Nature or Observation checks.
 
 ### Scaling Options
 - **Weakened Form (TV 12):** Reduce HP to 200, Armor to 4, and Crushing Vines damage to 14 Bludgeoning. Remove Deep Root's regeneration.
@@ -325,21 +325,21 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 - **Initiative:** 7
 - **Movement:** 45 feet (9 squares)
 - **Attributes:** Fury 6, Soul 3, Shadow 5, Blood 5, Will 3, Focus 4
-- **Skills:** Stealth (Shadow) 4, Athletics (Fury) 3, Tracking (Focus) 3
+- **Skills:** Stealth 4, Athletics 3, Observation 3
 - **SE:** 40 | **BP:** 18
 
 ### Attacks & Abilities
 
 **Blood Rend** (Action)
 - **Dice Pool:** Fury 6 + Athletics 3 = 9d6
-- **Range:** Melee (15-foot reach — massive creature)
+- **Range:** Weapon Mastery (15-foot reach — massive creature)
 - **Damage:** 12 physical (Slashing) + **Blood Drain** (target loses 3 BP; if at 0 BP, takes 3 extra Soul damage instead)
 - **Special:** The Stalker regains 4 HP per successful Blood Rend hit (vampiric regeneration)
 
 **Ancient Lunge** (Action, costs 5 SE)
 - **Dice Pool:** Fury 6 + Athletics 3 = 9d6
 - **Range:** Leap up to 30 feet to target; make Blood Rend as part of same action
-- **Effect:** On hit, target is **Pinned** (Grappled, prone; escape DR 4 Blood or Fury + Athletics). Pinned targets take 4 Piercing at the start of each turn as the Stalker's weight bears down.
+- **Effect:** On hit, target is **Pinned** (escape DR 4 Blood or Fury + Athletics). Pinned targets take 4 Piercing at the start of each turn as the Stalker's weight bears down.
 
 **Primal Howl** (2 Actions, costs 8 SE, Recharge 5-6)
 - **Dice Pool:** Soul 3 + Intimidation 3 = 6d6
@@ -350,7 +350,7 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 
 **Blood Frenzy (Passive):** When the Stalker reduces a creature to 0 HP, it immediately regains 15 HP and may make one free Blood Rend as a Bonus Action against the nearest living creature. This bonus attack also triggers Blood Frenzy if it scores another kill (only once per turn total).
 
-**Ancient Memory (Passive):** In any location the Stalker has inhabited for decades or longer, it has Advantage on all Stealth, Tracking, and Navigation checks. It knows every escape route, every ambush point, and every hiding spot in its lair.
+**Ancient Memory (Passive):** In any location the Stalker has inhabited for decades or longer, it has Advantage on all Stealth, Observation, and Nature checks. It knows every escape route, every ambush point, and every hiding spot in its lair.
 
 **Supernatural Hide:** The Stalker's ancient hide reduces all damage from nonmagical sources by 3 (in addition to its Armor value). Magical weapon attacks are unaffected.
 
@@ -395,19 +395,19 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 - **Initiative:** 3
 - **Movement:** 25 feet (5 squares)
 - **Attributes:** Fury 3, Soul 6, Will 5, Focus 4, Shadow 2, Blood 0
-- **Skills:** Corruption Channeling (Soul) 4, Arcana (Soul) 3, Intimidation 3
+- **Skills:** Forbidden Knowledge 4, Glyphcasting 3, Intimidation 3
 - **SE:** 60
 
 ### Attacks & Abilities
 
 **Decay Touch** (Action)
-- **Dice Pool:** Soul 6 + Corruption Channeling 4 = 10d6
+- **Dice Pool:** Soul 6 + Forbidden Knowledge 4 = 10d6
 - **Range:** 10-foot melee reach
 - **Damage:** 10 Corruption damage (bypasses normal physical armor — it infects rather than wounds)
 - **Special:** On hit, any magical item or enchanted object carried by the target loses 1 enhancement bonus for 24 hours (magical weapons deal -1 damage; magical armor provides -1 DV bonus). This effect does not stack beyond -3 per item.
 
 **Pillar Shard Barrage** (2 Actions, costs 8 SE, Recharge 5-6)
-- **Dice Pool:** Soul 6 + Arcana 3 = 9d6
+- **Dice Pool:** Soul 6 + Glyphcasting 3 = 9d6
 - **Range:** 40-foot radius at a point within 80 feet
 - **Damage:** 14 Piercing
 - **Save:** DR 4 Blood save to halve
@@ -460,13 +460,13 @@ They manifest as large geometric constructs of light and pale stone, roughly hum
 - **Initiative:** 4
 - **Movement:** 30 feet (6 squares), Fly 30 feet
 - **Attributes:** Fury 1, Soul 5, Focus 5, Will 5, Shadow 3, Blood 0
-- **Skills:** Arcana (Soul) 4, Ward Projection (Focus) 4, Observation (Focus) 3
+- **Skills:** Glyphcasting 4, Forbidden Knowledge 4, Observation 3
 - **SE:** 50
 
 ### Attacks & Abilities
 
 **Arcane Discharge** (Action)
-- **Dice Pool:** Soul 5 + Arcana 4 = 9d6
+- **Dice Pool:** Soul 5 + Glyphcasting 4 = 9d6
 - **Range:** 50 feet (10 squares)
 - **Damage:** 10 Soul/Arcane damage
 - **Special:** Penetrates 2 points of armor (the discharge bypasses physical protection)
@@ -477,7 +477,7 @@ They manifest as large geometric constructs of light and pale stone, roughly hum
 
 **Counter-Glyph** (Reaction, costs 6 SE)
 - **Trigger:** Any creature within 50 feet casts a spell or uses a magical ability
-- **Effect:** Roll Soul 5 + Arcana 4 = 9d6 and contest it against the caster's active dice pool. On a tie or success, the ability is countered — the SE is still spent but no effect occurs. This is explicitly a counter-magic ability, not damage.
+- **Effect:** The caster makes a DR 4 Will save. On a failure, the spell or magical ability is countered — the SE is still spent but no effect occurs. This is explicitly a counter-magic ability, not damage.
 - **Limit:** Can be used once per round regardless of trigger count.
 
 ### Special Abilities

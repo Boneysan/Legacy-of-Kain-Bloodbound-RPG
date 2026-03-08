@@ -72,7 +72,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 18 | **Essence Thief** | Steal 1 BP or SE on melee hit (Will vs Difficulty 3). | Passive, 1/turn |
 | 19 | **Adamantite Form** | +1 Base Armor. Immune to Critical Hits. | Passive |
 | 20 | **Blood Tyrant** | Passive: Melee crits restore 3 HP. Active (1/long rest, 1 min): +3 Fury dice to all attacks, Life Drain heals 100% of damage dealt with no per-turn limit, and each kill immediately grants a Bonus Action. | Passive + Action, 1/long rest |
-| 20 | *or* **Siege Incarnate** | Permanently immune to forced movement, knockback, and grapple. Melee attacks ignore all Armor. Allies within 15ft gain +2 Defense. | Passive |
+| 20 | *or* **Siege Incarnate** | Permanently immune to forced movement, knockback, and grapple. Melee attacks ignore all Armor. Allies within 15ft gain +2 DV. | Passive |
 
 
 ### 3.3.2 Soul Reaver
@@ -99,7 +99,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 4 | **Wraith Form** | Gain Resistance to Physical damage for 1 min. | Action, 2 SE |
 | 5 | **Banish** | Force target into Spectral Realm (Soul vs Diff 4). | Action, 2 SE || 5 | *or* **Reavers' Resonance** | Spectral Strike chains to a second target within 10ft, dealing half damage (also ignores Armor). | Passive || 6 | **Reaver’s Hunger** | Soul Blade deals +1 Damage. | Passive |
 | 7 | **Flicker** | Teleport 30ft to a visible location. | Move Action, 1 SE |
-| 8 | **Ghost Parry** | +2 Defense against one attack. | Reaction, 1 SE |
+| 8 | **Ghost Parry** | +2 DV against one attack. | Reaction, 1 SE |
 | 9 | **Spectral Nova** | 9 Spectral Dmg to all within 10ft (Soul vs Diff 3). | Action, 3 SE |
 | 10 | **Spectral Fugue** | Ethereal Step is now full speed + invisible. | Passive |
 | 10 | *or* **Soul Rift** | On a Soul Blade hit, tear a Spectral wound: 3 Spectral dmg/turn for 3 turns (bypasses Armor). Stacks up to ×2. | Action, 1/short rest |

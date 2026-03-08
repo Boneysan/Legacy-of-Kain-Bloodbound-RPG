@@ -237,7 +237,7 @@ When a character drops to **0 HP**, they fall **Unconscious** and begin making *
 
 ## Status Effects by Damage Type
 
-Legacy of Kain: Bloodbound streamlines damage into six categories, each with distinct armor interactions and status effects on a Critical Hit or Extra Success.
+Legacy of Kain: Bloodbound streamlines damage into six categories, each with distinct armor interactions and status effects on a Critical Hit or Extra Success. The glossary is the canonical source for named condition definitions and durations; see Chapter 12.4 when another chapter uses shorthand.
 
 ### Damage Type vs. Armor Interaction Table
 
@@ -252,21 +252,7 @@ Legacy of Kain: Bloodbound streamlines damage into six categories, each with dis
 
 ### Status Effect Definitions and Durations
 
-| Status Effect | Duration | Description |
-| :--- | :--- | :--- |
-| **Staggered** | Until end of target's next turn | Cannot take Reactions. |
-| **Bleeding** | 1d3 rounds (stacks duration) | Takes 1 damage at the start of each turn. |
-| **Prone** | Until target uses half movement to stand | Melee attacks against have Advantage; ranged attacks have Disadvantage. |
-| **Burning** | 1d3 rounds or until extinguished | Takes 1 fire damage at the start of each turn. |
-| **Slowed** | 1d3 rounds | Movement speed halved; cannot Dash. |
-| **Shocked** | 1 round | Disadvantage on next action. |
-| **Pushed** | Instant | Moved 5-10 feet in a direction chosen by the attacker. |
-| **Soul Drain** | Instant | Target loses 1 Soul Energy; attacker may gain 1. |
-| **Blinded** | 1d3 rounds | Disadvantage on attacks and Observation-based checks. |
-| **Purged** | Instant | Removes one darkness, shadow, or corruption effect. |
-| **Decay** | Until next rest | Cannot regain HP through non-magical means. |
-| **Corrupted** | Permanent | Target gains +1 Corruption Level. |
-| **Weakened** | 1d3 rounds | −1 die on all saves and resistance checks. |
+For the canonical definitions of status effects and recurring combat conditions such as **Grappled**, **Frightened**, **Pinned**, and **Suppressed**, see [Chapter 12: Glossary, Section 12.4](./12_Glossary.md). If another chapter summarizes an effect differently, the glossary wording governs unless a specific ability adds an extra rider.
 
 ---
 
@@ -329,13 +315,15 @@ Legacy of Kain: Bloodbound streamlines damage into six categories, each with dis
 
 ## Common Actions in Combat
 
+This is a shorthand summary. Use Chapter 9: Combat for the canonical action and reaction rules.
+
 ### Standard Actions (choose one per turn)
 - **Attack:** Make one attack roll against a target
 - **Cast a Spell:** Use a magical ability
 - **Dash:** Move up to your speed again
-- **Dodge:** Impose disadvantage on attacks against you
-- **Help:** Grant ally advantage on their next roll
-- **Use Object:** Interact with an item
+- **Assist an Ally:** Grant Advantage on a relevant ally roll when the fiction supports it
+- **Take Cover or Brace:** Improve survivability through cover or position as described in Chapter 9
+- **Interact with an Object:** Draw, open, activate, or manipulate gear when the GM allows it
 
 ### Bonus Actions
 - Some abilities can be used as a Bonus Action
@@ -344,7 +332,7 @@ Legacy of Kain: Bloodbound streamlines damage into six categories, each with dis
 ### Reactions
 - Triggered responses to specific events
 - You get one per round
-- Examples: Attacks of opportunity, defensive abilities
+- Examples: Opportunity attacks, Evasion reactions, Weapon Mastery reactions
 
 ### Free Actions
 - Minor activities that don't consume actions

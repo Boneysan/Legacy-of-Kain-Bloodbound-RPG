@@ -186,8 +186,11 @@ All damage falls into one of six categories, each with distinct armor interactio
 
 *(Ch. 0, Ch. 7 §7.2, Ch. 9 §9.7)*
 
-**Status Effects**
-Applied on Critical Hits or Extra Successes. Durations:
+**Condition Canon**
+This glossary is the canonical source for named combat conditions and status effects. If a spell, perk, weapon, or monster ability applies a named condition, use the definition here unless that entry explicitly adds an extra rider. Extra riders stack with the base condition; they do not replace it. Legacy or bespoke terms that are not defined here must be defined inline where they appear.
+
+**Core Status Effects**
+Applied on Critical Hits or Extra Successes unless an effect says otherwise. Durations:
 
 | Status Effect | Duration | Description |
 | :--- | :--- | :--- |
@@ -204,6 +207,21 @@ Applied on Critical Hits or Extra Successes. Durations:
 | **Decay** | Until next rest | Cannot regain HP through non-magical means. |
 | **Corrupted** | Permanent | Target gains +1 Corruption Level. |
 | **Weakened** | 1d3 rounds | −1 die on all saves and resistance checks. |
+
+**Common Combat Conditions**
+These appear frequently in spells, perks, and monster abilities even when they are not tied to damage-type extra successes.
+
+| Condition | Duration | Description |
+| :--- | :--- | :--- |
+| **Grappled** | Until escape, release, or effect end | Speed becomes 0 and the target cannot willingly move. The source may drag or carry the target only if the source effect says so. Escape uses the method listed in the source effect; if none is listed, escape as an Action with a GM-set DR, usually using Blood or Fury + Athletics. |
+| **Restrained** | Until escape, release, or effect end | Speed becomes 0. The target has Disadvantage on attacks and Evasion checks, and attacks against them have Advantage. |
+| **Pinned** | Until escape, release, or effect end | The target is both **Grappled** and **Prone**. They cannot stand until the Pin ends unless the source effect says otherwise. |
+| **Frightened** | As listed by the source effect | The target cannot willingly move closer to the source of fear and has Disadvantage on attacks while the source is present. |
+| **Charmed** | As listed by the source effect | The target cannot willingly attack or target the charmer with hostile abilities. The charmer has Advantage on social checks against the target. |
+| **Dominated** | As listed by the source effect | The target is **Charmed**, treats the source as an ally, and follows the source's commands to the extent described by the effect. If the effect gives target priorities or command limits, that text overrides this default. |
+| **Paralyzed** | As listed by the source effect | The target cannot move, act, or take Reactions. |
+| **Confused** | As listed by the source effect | The target has Disadvantage on all rolls. If the source says the target misidentifies allies, acts randomly, or lashes out unpredictably, apply that rider as well. |
+| **Suppressed** | As listed by the source effect | A spell, enchantment, summoned creature, magic item property, or magical condition temporarily ceases to function. When suppression ends, it resumes if its own duration has not expired. |
 
 *(Ch. 0)*
 

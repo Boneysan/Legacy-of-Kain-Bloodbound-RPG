@@ -61,16 +61,7 @@ If a player rolls more successes than required, they may choose to **enhance the
 
 **Status Effects by Damage Type:**
 
-Spending extra successes allows you to apply a status effect. Available effects depend on damage type. Armor interactions are noted below — these apply to all attacks of that type, not only when spending extra successes.
-
-| Damage Type | Armor Interaction | Available Status Effects |
-| :--- | :--- | :--- |
-| **Physical** (Bludgeon/Pierce/Slash) | Reduced by Armor normally | *Staggered* (no Reactions), *Bleeding* (damage over time), *Prone* |
-| **Elemental** (Fire/Cold/Lightning) | Armor value halved | *Burning* (fire damage over time), *Slowed* (half speed), *Shocked* (Disadvantage) |
-| **Force** (Telekinetic/Explosive) | Bypasses Armor entirely | *Pushed* (5–10 ft), *Prone* |
-| **Spectral** (Soul/Spiritual) | Ignores Armor; affects spirits | *Soul Drain* (transfer SE from target to attacker), *Bypasses Armor* |
-| **Radiant** (Holy/Soulfire) | Normal; ×2 damage vs. Undead/Spectral | *Blinded* (Disadvantage), *Purged* (removes shadow/corruption effects) |
-| **Entropic** (Necrotic/Void/Corruption) | Normal; damage cannot be healed | *Decay* (prevents healing), *Corrupted* (+1 Corruption), *Weakened* (−1 die on saves) |
+Spending extra successes allows you to apply a status effect based on damage type. Use [Chapter 12: Glossary, Section 12.4](./12_Glossary.md) for the canonical damage-category table, condition names, durations, and definitions. This chapter does not create separate condition rules.
 
 **Outside Combat:**
 
@@ -134,9 +125,9 @@ Target DV = 1 → hit. One excess success remains (usable for bonus damage or an
 
 ### 10.4.3 Defense and Armor
 
-* **DV:** Base = 1 + higher of (Shadow or Will) + modifiers (worn armor, perks, active defense).
+* **DV:** Base = 1 + higher of (Shadow or Will) + modifiers from worn armor and perks. Static DV from attributes, armor, and perks is capped at 6; cover and reactions can raise effective DV higher.
 * **Armor:** Flat reduction of damage (e.g., -2 damage).
-* **Active Defense:** Characters may roll reactions such as Dodge or Parry.
+* **Active Defense:** Characters may use reactions such as an Evasion reaction or a Weapon Mastery parry.
 
 ---
 
@@ -191,6 +182,8 @@ When you fail a roll, you may be able to push it by drawing on your inner Corrup
 
 Each character gets **1 Reaction per round**.
 
+This section is a shorthand summary; Chapter 9: Combat is the canonical source for exact reaction timing and edge cases.
+
 **Trigger Examples:**
 
 * Being targeted by an attack.
@@ -199,9 +192,9 @@ Each character gets **1 Reaction per round**.
 
 **Common Reactions:**
 
-* *Dodge:* Shadow + Evasion → avoid an attack.
+* *Evasion reaction:* Shadow + Evasion → avoid an attack.
 * *Parry:* Fury + Weapon Mastery → reduce melee damage.
-* *Counterspell:* Soul + Glyphcasting → negate magic.
+* *Counter-Glyph:* Soul + Glyphcasting → negate magic.
 * *Opportunity Attack:* Strike fleeing/approaching foes.
 * *Spectral Shift:* Instantly phase (if trait/spell allows).
 

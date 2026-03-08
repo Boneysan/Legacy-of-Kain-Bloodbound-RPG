@@ -56,7 +56,7 @@ This manual uses a **d6 dice pool system**. When a creature makes an attack or a
 
 **Attribute + Skill = Xd6**
 
-For example, a creature with Fury 4 and Melee 3 rolls **7d6** to attack. Each die showing **5 or 6** counts as a **success**. Compare the total number of successes to the target's **Defense Value (DV)** or the listed **DR** for a save/check.
+For example, a creature with Fury 4 and Weapon Mastery 3 rolls **7d6** to attack. Each die showing **5 or 6** counts as a **success**. Compare the total number of successes to the target's **Defense Value (DV)** or the listed **DR** for a save/check.
 
 ### Key Terms
 - **Dice Pool**: The total number of d6 rolled (Attribute + Skill)
@@ -69,10 +69,12 @@ For example, a creature with Fury 4 and Melee 3 rolls **7d6** to attack. Each di
 
 > **Damage Label Note:** Some older stat blocks use legacy labels such as Necrotic, Blood, Void, or Corruption as shorthand. Read them through the Player's Handbook damage framework: usually **Entropic** for necrotic/corruptive effects, **Spectral** for soul-rending effects, and **Physical** for mundane weapon damage.
 
+> **Condition Note:** The glossary in [player's_handbook/12_Glossary.md](../player's_handbook/12_Glossary.md) is the canonical source for named conditions such as **Grappled**, **Frightened**, **Pinned**, **Charmed**, and **Suppressed**. If a stat block applies one of those conditions and also adds extra text such as ongoing damage, forced movement, or a special escape clause, apply both the glossary condition and the extra rider.
+
 > **Loot Note:** When a loot entry gives a **Trade Value** in supplies, treat it as barter weight or faction interest, not as a literal coin price.
 
 ### Reading a Stat Block Attack
-When you see: `Fury 4 + Melee 3 = 7d6`
+When you see: `Fury 4 + Weapon Mastery 3 = 7d6`
 - The creature rolls 7d6
 - Count each 5 or 6 as one success
 - Compare total successes to the target's DV
@@ -162,7 +164,7 @@ To scale a creature up or down:
 - **Spectral-Touched:** Can phase partially, +1 DV
 - **Corrupted:** +1 Corruption damage, more aggressive tactics
 
-**Leadership Variants:**
+**Tactics Variants:**
 - **Alpha/Champion:** Elite tier version with +1 to all skills
 - **Veteran:** Standard tier with unique ability or tactic
 - **Hive Mind:** Minions that gain bonuses when near others

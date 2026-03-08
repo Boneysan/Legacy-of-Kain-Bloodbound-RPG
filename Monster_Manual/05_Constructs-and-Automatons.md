@@ -24,7 +24,7 @@ Some were created by the Sarafan Order to fight vampires with tireless efficienc
 
 **Vulnerability to Specific Damage**: Constructs often have weaknesses—lightning disrupts their magical cores, acid corrodes their frames, or specific keywords shut them down.
 
-**Repair vs Healing**: Constructs cannot be healed by normal means. They require repair (Focus + Engineering or Forbidden Knowledge rolls) or magical restoration.
+**Repair vs Healing**: Constructs cannot be healed by normal means. They require repair (Focus + Craft or Forbidden Knowledge rolls) or magical restoration.
 
 **Logic-Based Behavior**: Constructs follow rules. Clever players can exploit loopholes in their programming ("You cannot harm guests of the Master" → "We are guests!").
 
@@ -63,34 +63,34 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 - Blood: 0
 
 **Skills**:
-- Swordplay: 4
-- Formation Combat: 3
-- Glyph Recognition: 2
+- Weapon Mastery: 4
+- Tactics: 3
+- Forbidden Knowledge: 2
 
 #### Attacks
-**Silver Longsword** (Fury 4 + Swordplay 4 = 8d6)
-- Range: Melee
+**Silver Longsword** (Fury 4 + Weapon Mastery 4 = 8d6)
+- Range: Weapon Mastery
 - Damage: 7 Physical damage, 9 damage vs undead/vampires
 - Effect: On Critical Hit (3+ successes), inflict **Branded** (target glows with holy light, cannot Hide or turn Invisible, lasts 1 hour).
 
-**Shield Bash** (Fury 4 + Formation Combat 3 = 7d6)
-- Range: Melee
+**Shield Bash** (Fury 4 + Tactics 3 = 7d6)
+- Range: Weapon Mastery
 - Damage: 5 Physical damage
 - Effect: Target must pass a DR 3 Fury save or be knocked **Prone**. The Clockwork Knight can use this as a bonus action if it didn't move this turn.
 
-**Crossbow Volley** (Focus 3 + Ranged Combat 2 = 5d6, once per turn)
+**Crossbow Volley** (Focus 3 + Weapon Mastery 2 = 5d6, once per turn)
 - Range: 40 feet
 - Damage: 5 Physical damage, 7 damage vs undead
 - Effect: Silvered bolts. If multiple Clockwork Knights coordinate, they can all fire at the same target with Advantage (GM determines if they're programmed for this).
 
 #### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Engineering, DR 3, restores 10 HP).
+**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 3, restores 10 HP).
 
 **Glyph-Powered Core**: The Knight is powered by holy glyphs. It has Advantage on saves vs Necrotic and Corruption damage. However, if hit by Lightning damage, it must pass a DR 3 Focus save or be **Stunned** for 1 round (overload).
 
 **Holy Ward**: Undead and vampires within 10 feet of the Knight have Disadvantage on attack rolls (holy aura).
 
-**Formation Protocol**: When within 10 feet of another Clockwork Knight, both gain +1 die on Defense rolls (shield wall tactics).
+**Formation Protocol**: When within 10 feet of another Clockwork Knight, both gain +1 DV against incoming attacks (shield wall tactics).
 
 **Anti-Vampire Directive**: The Knight can identify vampires on sight and prioritizes them as targets. It will ignore non-vampires unless they attack it or block its path to a vampire.
 
@@ -108,7 +108,7 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 - Silvered crossbow bolts (1d6 bolts) - **Trade Value**: 12 supplies
 
 #### Scaling Options
-**Veteran Clockwork Knight** (Boss, TV 4): +20 HP, increase Fury and Swordplay to 5. Add "Command Protocol" ability (once per turn, the Knight can order one allied construct within 30 feet to make a free Shield Bash or Move action). Add 2 Legendary Actions per round: Move, Attack, or Shield Wall (costs 2 actions; one allied construct within 10 feet gains +1 DV until the start of the Knight's next turn).
+**Veteran Clockwork Knight** (Boss, TV 4): +20 HP, increase Fury and Weapon Mastery to 5. Add "Command Protocol" ability (once per turn, the Knight can order one allied construct within 30 feet to make a free Shield Bash or Move action). Add 2 Legendary Actions per round: Move, Attack, or Shield Wall (costs 2 actions; one allied construct within 10 feet gains +1 DV until the start of the Knight's next turn).
 
 ---
 
@@ -143,27 +143,27 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 - Blood: 0
 
 **Skills**:
-- Guardian Combat: 5
-- Pillar Magic: 4
-- Stone Shaping: 3
+- Weapon Mastery: 5
+- Glyphcasting: 4
+- Craft: 3
 
 #### Attacks
-**Colossal Fist** (Fury 6 + Guardian Combat 5 = 11d6)
-- Range: Melee (15-foot reach due to size)
+**Colossal Fist** (Fury 6 + Weapon Mastery 5 = 11d6)
+- Range: Weapon Mastery (15-foot reach due to size)
 - Damage: 12 Physical damage
 - Effect: On Critical Hit (3+ successes), target is knocked back 20 feet and takes an additional 4 damage upon landing (impact).
 
-**Pillar Beam** (Soul 4 + Pillar Magic 4 = 8d6, costs 3 SE)
+**Pillar Beam** (Soul 4 + Glyphcasting 4 = 8d6, costs 3 SE)
 - Range: 60-foot line
 - Damage: 10 Soul damage to all creatures in the line
 - Effect: Targets must pass a DR 4 Will save or be **Stunned** for 1 round (overwhelmed by Pillar energy).
 
-**Stone Spike Eruption** (Fury 6 + Stone Shaping 3 = 9d6, Recharge 5-6)
+**Stone Spike Eruption** (Fury 6 + Craft 3 = 9d6, Recharge 5-6)
 - Range: 30-foot radius centered on the Sentinel
 - Damage: 8 Physical damage to all creatures in range
 - Effect: The ground erupts with stone spikes. Affected area becomes difficult terrain (costs double movement) for 3 rounds.
 
-**Ground Slam** (Fury 6 + Guardian Combat 5 = 11d6, once per turn as a bonus action if the Sentinel didn't move)
+**Ground Slam** (Fury 6 + Weapon Mastery 5 = 11d6, once per turn as a bonus action if the Sentinel didn't move)
 - Range: 20-foot radius centered on the Sentinel
 - Damage: 6 Physical damage
 - Effect: All creatures in range must pass a DR 4 Fury save or be knocked **Prone**.
@@ -184,7 +184,7 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 **Legendary Actions (3 per round)**: The Sentinel can use Legendary Actions at the end of another creature's turn. It has 3 Legendary Actions per round.
 - **Move**: The Sentinel moves up to half its movement speed.
 - **Colossal Fist**: The Sentinel makes one Colossal Fist attack.
-- **Stone Shaping** (costs 2 actions): The Sentinel reshapes the battlefield. It can create a 10-foot-tall stone wall (blocks movement and line of sight) or collapse an existing wall within 30 feet.
+- **Craft** (costs 2 actions): The Sentinel reshapes the battlefield. It can create a 10-foot-tall stone wall (blocks movement and line of sight) or collapse an existing wall within 30 feet.
 - **Pillar Beam** (costs 3 actions): The Sentinel uses Pillar Beam (even if it already used it this round).
 
 #### Tactics
@@ -193,7 +193,7 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 - **Colossal Fist for Damage**: It focuses Colossal Fist attacks on heavily armored or high-HP targets, using its massive damage to wear them down.
 - **Ground Slam for Crowd Control**: If surrounded, it uses Ground Slam to knock everyone Prone, then retreats or reshapes terrain with Legendary Actions.
 - **Regeneration Reliance**: The Sentinel counts on regeneration to outlast enemies. Players must either destroy the core, remove it from the area (to stop regeneration), or use overwhelming burst damage.
-- **Stone Shaping for Tactical Advantage**: It uses Legendary Actions to create walls that separate the party or collapse obstacles onto enemies.
+- **Craft for Tactical Advantage**: It uses Legendary Actions to create walls that separate the party or collapse obstacles onto enemies.
 
 #### Loot
 - Pillar stone shard (glows with residual power) - **Trade Value**: 80 supplies, can be used in rituals to stabilize magic or as a component for enchantments
@@ -202,7 +202,7 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 - Ancient glyphs (inscribed on the Sentinel's body) - **Trade Value**: Priceless for historians, can be copied for lore
 
 #### Scaling Options
-**Awakened Pillar Sentinel** (Legendary, TV 6+): +50 HP, increase Fury to 7, Pillar Magic to 5. Add "Pillar Resonance" ability (the Sentinel can teleport to any Pillar site within 1 mile as an action once per day). Increase Legendary Actions to 4 per round. Add "Summon Stone Guardians" Legendary Action (costs 3 actions, summons 1d3 Spellbound Golems to assist).
+**Awakened Pillar Sentinel** (Legendary, TV 6+): +50 HP, increase Fury to 7, Glyphcasting to 5. Add "Pillar Resonance" ability (the Sentinel can teleport to any Pillar site within 1 mile as an action once per day). Increase Legendary Actions to 4 per round. Add "Summon Stone Guardians" Legendary Action (costs 3 actions, summons 1d3 Spellbound Golems to assist).
 
 ---
 
@@ -237,17 +237,17 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 - Blood: 0
 
 **Skills**:
-- Brawling: 3
-- Elemental Affinity: 2
-- Labor: 3
+- Unarmed Combat: 3
+- Nature: 2
+- Craft: 3
 
 #### Attacks
-**Stone Fist** (Fury 3 + Brawling 3 = 6d6)
-- Range: Melee
+**Stone Fist** (Fury 3 + Unarmed Combat 3 = 6d6)
+- Range: Weapon Mastery
 - Damage: 6 Physical damage
 - Effect: The Golem can make two Stone Fist attacks per turn (multi-attack).
 
-**Elemental Burst** (Soul 2 + Elemental Affinity 2 = 4d6, Recharge 5-6)
+**Elemental Burst** (Soul 2 + Nature 2 = 4d6, Recharge 5-6)
 - Range: 20-foot cone
 - Damage: 5 Elemental damage (type depends on golem variant: Fire, Cold, Lightning, or Force)
 - Effect: Targets must pass a DR 2 Shadow save or suffer an additional status effect based on element:
@@ -314,23 +314,23 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 - Blood: 1
 
 **Skills**:
-- Savage Combat: 4
-- Soul Resistance: 2
-- Pack Coordination: 3
+- Unarmed Combat: 4
+- Concentration: 2
+- Tactics: 3
 
 #### Attacks
-**Clawed Iron Limbs** (Fury 4 + Savage Combat 4 = 8d6)
-- Range: Melee
+**Clawed Iron Limbs** (Fury 4 + Unarmed Combat 4 = 8d6)
+- Range: Weapon Mastery
 - Damage: 7 Physical damage
 - Effect: The Beast can make two Clawed Iron Limbs attacks per turn (multi-attack). On Critical Hit (3+ successes), the target is **Bleeding** (2 Physical damage per turn).
 
 **Soul Scream** (Soul 3 + Anguish 3 = 6d6, Recharge 5-6)
 - Range: 30-foot cone
 - Damage: 6 Soul damage to all creatures in the cone
-- Effect: Targets must pass a DR 3 Will save or be **Frightened** (Disadvantage on attacks, cannot willingly move closer to the Beast) for 2 rounds. This is the trapped soul's torment made manifest.
+- Effect: Targets must pass a DR 3 Will save or be **Frightened** for 2 rounds. This is the trapped soul's torment made manifest.
 
-**Pounce** (Fury 4 + Pack Coordination 3 = 7d6, once per turn as a bonus action if the Beast moved at least 15 feet)
-- Range: Charge attack
+**Pounce** (Fury 4 + Tactics 3 = 7d6, once per turn as a bonus action if the Beast moved at least 15 feet)
+- Range: Athletics attack
 - Damage: 8 Physical damage
 - Effect: Target must pass a DR 3 Fury save or be knocked **Prone**.
 
@@ -339,7 +339,7 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 
 **Agonized Fury**: When the Beast is reduced below half HP, it enters a rage. It gains +2 dice on all attacks and movement speed increases by 15 ft per turn. However, it can no longer use Soul Scream (the soul is too fragmented).
 
-**Pack Tactics**: The Beast gains +1 die on attack rolls for each allied Iron-Cage Beast or Hylden creature within 10 feet (max +3 dice).
+**Tactics**: The Beast gains +1 die on attack rolls for each allied Iron-Cage Beast or Hylden creature within 10 feet (max +3 dice).
 
 **Trapped Soul**: The soul within the Beast is suffering. Characters with Soul-based abilities (Wraiths, Soul Reavers, etc.) can attempt to free the soul with a DR 4 Soul + Rituals roll (requires 1 action in combat). If successful, the Beast collapses (instant death) and the soul is released (may provide information or gratitude).
 
@@ -348,7 +348,7 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 #### Tactics
 - **Fast and Aggressive**: Iron-Cage Beasts charge in with Pounce, knocking targets Prone, then follow up with Clawed Iron Limbs.
 - **Soul Scream for Disruption**: They use Soul Scream to Frighten enemies, creating space for allies or preventing retaliation.
-- **Pack Coordination**: They work with other Hylden creatures, using Pack Tactics to amplify attacks.
+- **Tactics**: They work with other Hylden creatures, using Tactics to amplify attacks.
 - **Agonized Fury Finish**: When wounded, they become even more dangerous, attacking relentlessly until destroyed.
 - **Erratic Behavior**: When bloodied, the Beast loses its next turn once as the trapped soul fights back—tragic and dramatic.
 
@@ -358,7 +358,7 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 - Hylden bio-glyph (etched into the frame) - **Trade Value**: 30 supplies, studied by scholars to understand Hylden techniques
 
 #### Scaling Options
-**Alpha Iron-Cage Beast** (Boss, TV 4): +20 HP, increase Fury to 5, Savage Combat to 5. Remove Erratic Behavior (the soul has been fully dominated). Add "Coordinated Assault" ability (once per turn, command one allied Beast within 30 feet to move up to half speed or make a free Pounce attack). Add 2 Legendary Actions per round: Move, Attack, or Soul Scream.
+**Alpha Iron-Cage Beast** (Boss, TV 4): +20 HP, increase Fury to 5, Unarmed Combat to 5. Remove Erratic Behavior (the soul has been fully dominated). Add "Coordinated Assault" ability (once per turn, command one allied Beast within 30 feet to move up to half speed or make a free Pounce attack). Add 2 Legendary Actions per round: Move, Attack, or Soul Scream.
 
 ---
 
@@ -393,22 +393,22 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 - Blood: 0
 
 **Skills**:
-- Precision Combat: 4
-- Glyph Magic: 5
+- Weapon Mastery: 4
+- Glyphcasting: 5
 - Evasion: 3
 
 #### Attacks
-**Glyph Blade** (Fury 3 + Precision Combat 4 = 7d6)
-- Range: Melee
+**Glyph Blade** (Fury 3 + Weapon Mastery 4 = 7d6)
+- Range: Weapon Mastery
 - Damage: 6 Physical + 3 Force damage
 - Effect: The blade is wreathed in glyphs. It ignores Physical Armor (Force damage bypasses Physical Armor). The Automaton can make two Glyph Blade attacks per turn.
 
-**Glyph Bolt** (Soul 5 + Glyph Magic 5 = 10d6, costs 2 SE)
+**Glyph Bolt** (Soul 5 + Glyphcasting 5 = 10d6, costs 2 SE)
 - Range: 50 feet
 - Damage: 8 Force damage
 - Effect: On Critical Hit (3+ successes), the target is **Unraveled** (lose 2 SE or BP, or take 2 additional Soul damage if they have neither).
 
-**Glyph Prison** (Soul 5 + Glyph Magic 5 = 10d6, Recharge 5-6, costs 3 SE)
+**Glyph Prison** (Soul 5 + Glyphcasting 5 = 10d6, Recharge 5-6, costs 3 SE)
 - Range: 30 feet
 - Damage: None
 - Effect: The Automaton targets one creature and attempts to trap them in a cage of glyphs. Target must pass a DR 4 Shadow save or be **Restrained** (cannot move, Disadvantage on attacks and Defense). The target can attempt to break free with a DR 4 Fury + Athletics or Focus + Forbidden Knowledge roll at the start of each of their turns. The prison lasts up to 3 rounds.
@@ -436,10 +436,10 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 - Glyph core (pulsing with arcane energy) - **Trade Value**: 70 supplies, can be used to enchant items or learn advanced glyph magic
 - Arcane plating (Armor 3 vs Physical, Armor 4 vs Magic) - **Trade Value**: 50 supplies, can be repurposed into armor
 - Living glyph scroll (contains 1d3 glyphs that can be studied) - **Trade Value**: 40 supplies, teaches glyph spells or rituals
-- Command cipher (allows control of other automatons, if deciphered) - **Trade Value**: 60 supplies (or story leverage)
+- Tactics cipher (allows control of other automatons, if deciphered) - **Trade Value**: 60 supplies (or story leverage)
 
 #### Scaling Options
-**Master Glyphfused Automaton** (Boss, TV 4): +20 HP, increase Soul and Glyph Magic to 6. Add "Glyph Overload" ability (explodes in a 15-foot radius when destroyed, dealing 8 Force damage to all creatures, DR 4 Shadow save to halve). Add 2 Legendary Actions per round: Phase Step, Glyph Bolt, or Glyph Prison (costs 2 actions).
+**Master Glyphfused Automaton** (Boss, TV 4): +20 HP, increase Soul and Glyphcasting to 6. Add "Glyph Overload" ability (explodes in a 15-foot radius when destroyed, dealing 8 Force damage to all creatures, DR 4 Shadow save to halve). Add 2 Legendary Actions per round: Phase Step, Glyph Bolt, or Glyph Prison (costs 2 actions).
 
 ---
 
@@ -474,27 +474,27 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 - Blood: 0
 
 **Skills**:
-- Siege Warfare: 5
-- Soul Binding: 5
-- Hylden Engineering: 4
+- Tactics: 5
+- Rituals: 5
+- Craft: 4
 
 #### Attacks
-**Crushing Limb** (Fury 7 + Siege Warfare 5 = 12d6)
-- Range: Melee (20-foot reach due to size)
+**Crushing Limb** (Fury 7 + Tactics 5 = 12d6)
+- Range: Weapon Mastery (20-foot reach due to size)
 - Damage: 15 Physical damage
 - Effect: On Critical Hit (3+ successes), target is **Grappled** (held by the Tower's massive claw). While Grappled, the target takes 8 automatic damage at the start of each of their turns. Escape requires a DR 5 Fury + Athletics roll.
 
-**Soul Cannon** (Soul 6 + Soul Binding 5 = 11d6, costs 4 SE)
+**Soul Cannon** (Soul 6 + Rituals 5 = 11d6, costs 4 SE)
 - Range: 80-foot line
 - Damage: 14 Soul damage to all creatures in the line
 - Effect: Targets must pass a DR 5 Will save or lose 3 SE (or take 3 additional Soul damage if they have no SE).
 
-**Arcane Bombardment** (Soul 6 + Hylden Engineering 4 = 10d6, Recharge 5-6, costs 5 SE)
+**Arcane Bombardment** (Soul 6 + Craft 4 = 10d6, Recharge 5-6, costs 5 SE)
 - Range: 60-foot radius centered on a point within 100 feet
 - Damage: 12 Force damage to all creatures in the radius
 - Effect: The area becomes difficult terrain (craters and debris) for the rest of the encounter.
 
-**Trample** (Fury 7 + Siege Warfare 5 = 12d6, once per turn if the Tower moved at least 10 feet)
+**Trample** (Fury 7 + Tactics 5 = 12d6, once per turn if the Tower moved at least 10 feet)
 - Range: All creatures in the Tower's path
 - Damage: 10 Physical damage to each creature
 - Effect: Targets must pass a DR 5 Shadow save or be knocked **Prone** and take an additional 4 damage (trampled underfoot).
@@ -572,28 +572,28 @@ Scribes are valuable sources of information. They can answer questions about the
 - Blood: 0
 
 **Skills**:
-- Knowledge (all subjects): 4
-- Precision Combat: 3
-- Archive Defense: 2
+- Forbidden Knowledge (all subjects): 4
+- Weapon Mastery: 3
+- Tactics: 2
 
 #### Attacks
-**Scribe's Stylus** (Focus 4 + Precision Combat 3 = 7d6)
-- Range: Melee
+**Scribe's Stylus** (Focus 4 + Weapon Mastery 3 = 7d6)
+- Range: Weapon Mastery
 - Damage: 5 Physical damage
 - Effect: On Critical Hit (3+ successes), the Scribe strikes a pressure point, causing the target to be **Stunned** until the end of their next turn (exploiting anatomical knowledge).
 
-**Glyph Seal** (Soul 3 + Archive Defense 2 = 5d6, Recharge 5-6)
+**Glyph Seal** (Soul 3 + Tactics 2 = 5d6, Recharge 5-6)
 - Range: 20 feet
 - Damage: None
 - Effect: The Scribe inscribes a glyph in the air that binds one target. Target must pass a DR 3 Will save or be **Silenced** (cannot speak, cast spells with verbal components, or use abilities requiring speech) for 3 rounds.
 
-**Knowledge Blast** (Focus 4 + Knowledge 4 = 8d6, once per encounter, costs 3 SE)
+**Forbidden Knowledge Blast** (Focus 4 + Forbidden Knowledge 4 = 8d6, once per encounter, costs 3 SE)
 - Range: 30-foot cone
 - Damage: 6 Soul damage
 - Effect: The Scribe overwhelms targets with a telepathic torrent of information. Targets must pass a DR 3 Will save or be **Confused** (Disadvantage on all rolls for 2 rounds, as their minds reel from information overload).
 
 #### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Engineering or Forbidden Knowledge, DR 2, restores 10 HP).
+**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft or Forbidden Knowledge, DR 2, restores 10 HP).
 
 **Living Archive**: The Scribe has encyclopedic knowledge of its archive's contents. Players can ask it questions about history, magic, creatures, or lore. It answers truthfully but in precise, formal language. It will not answer questions unrelated to its archive.
 
@@ -607,16 +607,16 @@ Scribes are valuable sources of information. They can answer questions about the
 - **Observe First**: The Scribe watches intruders for 1 round before acting, gaining Advantage on attacks vs them (studying weaknesses).
 - **Glyph Seal for Casters**: It uses Glyph Seal to Silence spellcasters, neutralizing their most dangerous abilities.
 - **Precision Strikes**: It uses Scribe's Stylus to Stun priority targets (usually the strongest fighter), then focuses on others.
-- **Knowledge Blast for Groups**: If surrounded, it uses Knowledge Blast to Confuse everyone, creating chaos.
+- **Forbidden Knowledge Blast for Groups**: If surrounded, it uses Forbidden Knowledge Blast to Confuse everyone, creating chaos.
 - **Retreat to Archive**: If reduced below 10 HP, the Scribe retreats deeper into the archive, where it may have reinforcements (other Scribes or traps).
 
 #### Loot
 - Bronze stylus (weapon, can be used as a dagger +1) - **Trade Value**: 10 supplies
-- Knowledge crystal (contains a copy of one random text from the archive) - **Trade Value**: 30 supplies, can be read to learn lore or spells
+- Forbidden Knowledge crystal (contains a copy of one random text from the archive) - **Trade Value**: 30 supplies, can be read to learn lore or spells
 - Archive access token (allows safe passage through the archive) - **Trade Value**: 20 supplies (or story leverage)
 
 #### Scaling Options
-**Master Scribe** (Elite, TV 2): +15 HP, increase Focus and Knowledge to 6. Add "Summon Lesser Scribes" ability (once per encounter, summons 1d3 Minion-tier Scribes to assist). Increase Knowledge Blast damage to 8 Soul damage.
+**Master Scribe** (Elite, TV 2): +15 HP, increase Focus and Forbidden Knowledge to 6. Add "Summon Lesser Scribes" ability (once per encounter, summons 1d3 Minion-tier Scribes to assist). Increase Forbidden Knowledge Blast damage to 8 Soul damage.
 
 ---
 
@@ -652,34 +652,34 @@ Drones are often the first encounter players have with Hylden technology. Their 
 
 **Skills**:
 - Evasion: 3
-- Surveillance: 2
+- Observation: 2
 
 #### Attacks
-**Obsidian Shard** (Focus 3 + Ranged Combat 2 = 5d6)
+**Obsidian Shard** (Focus 3 + Weapon Mastery 2 = 5d6)
 - Range: 30 feet
 - Damage: 3 Physical damage
 - Effect: The Drone fires a shard of obsidian. On Critical Hit (3+ successes), the target is **Bleeding** (1 Physical damage per turn).
 
-**Divebomb** (Fury 2 + Melee 1 = 3d6, once per turn if the Drone flew at least 10 feet)
-- Range: Melee (charge attack)
+**Divebomb** (Fury 2 + Weapon Mastery 1 = 3d6, once per turn if the Drone flew at least 10 feet)
+- Range: Weapon Mastery (charge attack)
 - Damage: 4 Physical damage
 - Effect: The Drone slams into a target and immediately flies away (no opportunity attack). If multiple Drones coordinate, they can all Divebomb the same target on the same turn.
 
 #### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Hylden Engineering, DR 2, restores 5 HP).
+**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 2, restores 5 HP).
 
 **Flight**: The Drone can fly, ignoring ground-based obstacles and terrain. While flying, melee attackers have Disadvantage unless they can reach the Drone.
 
 **Swarm Tactics**: Drones always appear in groups of 4-8. They coordinate attacks, focusing on one target at a time. Each Drone within 10 feet of an ally gains +1 die on attack rolls (max +3 dice).
 
-**Surveillance Relay**: Drones transmit everything they see to their Hylden masters. If a Drone escapes, nearby Hylden forces will be alerted (GM determines response time and reinforcements).
+**Observation Relay**: Drones transmit everything they see to their Hylden masters. If a Drone escapes, nearby Hylden forces will be alerted (GM determines response time and reinforcements).
 
 **Fragile**: Drones have low HP. They're designed to harass, not endure. A single solid hit usually destroys them.
 
 #### Tactics
 - **Swarm Harassment**: Drones fly in circles around the party, firing Obsidian Shards and using Divebomb attacks.
 - **Focus Fire**: They all attack the same target (usually the weakest or most isolated PC), using Swarm Tactics to maximize damage.
-- **Stay Out of Reach**: They remain airborne, forcing ranged attacks or spells. Melee characters must find ways to ground them.
+- **Stay Out of Reach**: They remain airborne, forcing ranged attacks or spells. Weapon Mastery characters must find ways to ground them.
 - **Retreat and Report**: If more than half the swarm is destroyed, the survivors flee to report to their masters.
 
 #### Loot
@@ -722,16 +722,16 @@ They guard the most important sites in Nosgoth: Pillar vaults, ancient libraries
 - Blood: 0
 
 **Skills**:
-- Melee (Fury): 3
-- Runic Defense (Focus): 4
+- Weapon Mastery (Fury): 3
+- Glyphcasting (Focus): 4
 
 #### Attacks
-**Rune-Etched Halberd** (Fury 4 + Melee 3 = 7d6)
-- Range: Melee (10-foot reach)
+**Rune-Etched Halberd** (Fury 4 + Weapon Mastery 3 = 7d6)
+- Range: Weapon Mastery (10-foot reach)
 - Damage: 9 Physical (Slashing) + 3 Force damage
 - Effect: The halberd's runes flare on impact. On Critical Hit (3+ successes), the target is **Disrupted** (loses 1 SE or BP) as the runes interfere with magical energy.
 
-**Glyph Pulse** (Focus 4 + Runic Defense 4 = 8d6, Recharge 5-6, costs 3 SE)
+**Glyph Pulse** (Focus 4 + Glyphcasting 4 = 8d6, Recharge 5-6, costs 3 SE)
 - Range: 20-foot radius centered on self
 - Damage: 8 Force damage
 - Effect: All creatures in the radius must make a DR 3 Shadow save or be **Pushed** 15 feet away from the Warden. Creatures that fail are also knocked **Prone**. The pulse is a visible shockwave of blue runic energy that cracks stone.
@@ -742,7 +742,7 @@ They guard the most important sites in Nosgoth: Pillar vaults, ancient libraries
 - Effect: A minor ranged attack for targets beyond halberd reach. The Warden fires a bolt of condensed runic energy from its eyes.
 
 #### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Engineering, DR 3, restores 10 HP per success).
+**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 3, restores 10 HP per success).
 
 **Runic Shielding**: At the start of each of the Warden's turns, it generates a shield of 5 temporary HP (runic barrier). This shield absorbs damage before HP and does not stack — if the previous shield was not fully depleted, the remainder is replaced.
 
@@ -770,7 +770,7 @@ The Rune-Forged Warden does not pursue. It holds position and punishes anyone wh
 #### Scaling Options
 **Runic Sentry** (Standard, TV 1): HP 25, DV 4, Fury 3, Focus 3. Remove Glyph Pulse and Runic Shielding. Armor 2. Zone of Denial deals 2 Force damage.
 
-**Pillar-Forged Warden** (Boss, TV 4): HP 80, DV 6, Fury 5, Focus 5, Runic Defense 5. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Rune-Etched Halberd (1), Glyph Pulse (2, only if recharged). Runic Shielding generates 6 temporary HP. Zone of Denial deals 4 Force damage.
+**Pillar-Forged Warden** (Boss, TV 4): HP 80, DV 6, Fury 5, Focus 5, Glyphcasting 5. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Rune-Etched Halberd (1), Glyph Pulse (2, only if recharged). Runic Shielding generates 6 temporary HP. Zone of Denial deals 4 Force damage.
 
 ---
 
@@ -783,7 +783,7 @@ The Rune-Forged Warden does not pursue. It holds position and punishes anyone wh
 **Programming Exploits**: Constructs follow rules. Clever players can exploit loopholes:
 - "You guard this door" → "What if we go through the wall?"
 - "Attack intruders" → "We're not intruders, we're guests!"
-- Command words, access tokens, and disguises can bypass constructs entirely.
+- Tactics words, access tokens, and disguises can bypass constructs entirely.
 
 **Weakness Exploitation**: Constructs have predictable vulnerabilities:
 - Lightning disrupts magical cores
@@ -808,7 +808,7 @@ The Rune-Forged Warden does not pursue. It holds position and punishes anyone wh
 #### Encounter 2: The Pillar's Wrath (Levels 10-12)
 **Setup**: The party approaches a collapsed Pillar. A **Pillar-Guardian Sentinel** (Boss, TV 4) awakens, believing them to be defilers. It's accompanied by 2 **Spellbound Golems** (Standard, TV 1 each, TV 2 total). Total TV: 6.
 
-**Tactics**: The Sentinel opens with Pillar Beam to Stun priority targets, then uses Stone Spike Eruption to create difficult terrain. Golems guard the Sentinel's flanks, attacking anyone who gets close. The Sentinel uses Legendary Actions to reshape the battlefield with Stone Shaping, creating walls and obstacles.
+**Tactics**: The Sentinel opens with Pillar Beam to Stun priority targets, then uses Stone Spike Eruption to create difficult terrain. Golems guard the Sentinel's flanks, attacking anyone who gets close. The Sentinel uses Legendary Actions to reshape the battlefield with Craft, creating walls and obstacles.
 
 **Environmental Factor**: The Pillar site is sacred ground. Corrupted PCs or those wielding forbidden magic may trigger additional hostility (Sentinel gains +2 dice on attacks vs them).
 
@@ -821,13 +821,13 @@ The Rune-Forged Warden does not pursue. It holds position and punishes anyone wh
 
 **Tactics**: The Tower advances slowly, using Arcane Bombardment to bombard the village while Beasts defend it from melee attackers. The Tower uses Crushing Limb to Grapple anyone who gets close, while Beasts use Soul Scream to Frighten defenders. The Tower uses Legendary Actions to Repair itself and fire Soul Cannon continuously.
 
-**Environmental Factor**: The battlefield is open (flat plains). PCs must either attack the Tower directly (focusing on Soul Cores) or sabotage it (climb onto it, disable cores, jam machinery with DR 4 Focus + Engineering rolls).
+**Environmental Factor**: The battlefield is open (flat plains). PCs must either attack the Tower directly (focusing on Soul Cores) or sabotage it (climb onto it, disable cores, jam machinery with DR 4 Focus + Craft rolls).
 
 **Twist**: If the party frees the trapped souls from the Tower (by destroying cores and performing a DR 5 Soul + Rituals ritual), the souls may turn on the Tower from within, dealing massive internal damage (50 HP) and weakening its defenses.
 
 ---
 
-#### Encounter 4: The Archive Defense (Levels 4-6)
+#### Encounter 4: The Tactics (Levels 4-6)
 **Setup**: The party needs information from an ancient library. A **Bound-Logic Scribe** (Standard, TV 1) guards the archive. It allows them to read but attacks if they try to take anything. It's assisted by 4 **Glyphfused Automatons** (Minions, scaled-down versions, TV 0.25 each, TV 1 total). Total TV: 2.
 
 **Tactics**: The Scribe watches the party, using Precision Strikes to Stun anyone reaching for books. Automatons patrol the archive, using Phase Step to intercept thieves. The Scribe uses Glyph Seal to Silence casters, preventing magical theft.
@@ -836,7 +836,7 @@ The Rune-Forged Warden does not pursue. It holds position and punishes anyone wh
 
 **Twist**: The Scribe can be bargained with. If the party offers to repair the archive (restore damaged texts, return stolen books from elsewhere), it may allow them to copy (not take) one text as payment.
 
-> **Glyphfused Automaton Minions**: (Use the Obsidian Drone stat block from this chapter as a stand-in for scaled-down Automatons, or reduce the Glyphfused Automaton to: HP 5, DV 3, Armor 1, Movement 25 feet, Glyph Strike: Fury 2 + 2 = 4d6 vs Dodge, 3 Physical damage.)
+> **Glyphfused Automaton Minions**: (Use the Obsidian Drone stat block from this chapter as a stand-in for scaled-down Automatons, or reduce the Glyphfused Automaton to: HP 5, DV 3, Armor 1, Movement 25 feet, Glyph Strike: Fury 2 + 2 = 4d6 vs DV, 3 Physical damage.)
 
 ---
 
@@ -869,8 +869,8 @@ Use these moral complexities to create dilemmas.
 ### Construct Weaknesses
 Reward clever players who exploit weaknesses:
 - Lightning damage to disrupt cores
-- Command words to deactivate them
-- Hacking/reprogramming with Focus + Engineering or Forbidden Knowledge
+- Tactics words to deactivate them
+- Hacking/reprogramming with Focus + Craft or Forbidden Knowledge
 - Destroying power sources (cores, glyphs) for instant kills
 
 Constructs should feel powerful but not invincible.
@@ -916,7 +916,7 @@ This makes dungeons feel interactive and dangerous.
 
 ### Reward Creativity
 Players who think outside the box should succeed:
-- Hacking constructs with engineering
+- Hacking constructs with Craft
 - Using command words to deactivate them
 - Exploiting programming loopholes
 - Destroying power sources for instant kills
@@ -982,12 +982,11 @@ In combat, a Restoration Engine is not a primary threat. It exists to sustain al
 - Blood: 0
 
 **Skills**:
-- Field Medicine (Focus): 4
-- Runic Maintenance (Focus): 3
+- Craft (Focus): 4
 
 #### Attacks
 **Suppression Bolt** (Action)
-- **Dice Pool:** Focus 4 + Field Medicine 4 = 8d6 (targeting protocol, not a weapon)
+- **Dice Pool:** Focus 4 + Craft 4 = 8d6 (targeting protocol, not a weapon)
 - **Range:** 40 feet
 - **Damage:** 4 physical (Force, targeting joints and limbs)
 - **Effect:** On hit, target has −1 die on their next attack roll (suppressed, not harmed effectively — the Engine is shooting to slow, not kill)
@@ -1003,7 +1002,7 @@ In combat, a Restoration Engine is not a primary threat. It exists to sustain al
 
 **Triage Protocol (Passive):** The Restoration Engine prioritizes allies below half HP. If any ally it can see is at or below half HP, the Engine will use Repair Beam on that ally on its turn before taking any other action, spending SE to do so.
 
-**Construct Nature:** Immune to Frightened, Charmed, Corrupted (as mental effect), poison, disease. Cannot be healed by standard means — requires Focus + Engineering DR 3 (10 HP per success).
+**Construct Nature:** Immune to Frightened, Charmed, Corrupted (as mental effect), poison, disease. Cannot be healed by standard means — requires Focus + Craft DR 3 (10 HP per success).
 
 **Hardened Frame (Reaction):** When the Engine takes damage exceeding 8 from a single hit, its self-preservation protocol activates and it immediately uses Repair Beam on itself (costs 3 SE; heals 12).
 
@@ -1027,7 +1026,7 @@ The Restoration Engine positions itself at the edge of combat, maintaining Repai
 
 ### 11. Glyph Spider
 
-**Type**: Construct (Surveillance, Small)
+**Type**: Construct (Observation, Small)
 **Threat Tier**: Minion (TV 0.25)
 **Recommended Levels**: 2–6
 
@@ -1056,10 +1055,11 @@ A party that kills a Glyph Spider before it can retreat probably prevented a Run
 
 **Skills**:
 - Stealth (Shadow): 3
+- Weapon Mastery: 1
 
 #### Attacks
 **Glyph Bite** (Action, last resort)
-- **Dice Pool:** Focus 2 + Melee 1 = 3d6
+- **Dice Pool:** Focus 2 + Weapon Mastery 1 = 3d6
 - **Damage:** 2 Piercing + 2 Soul (the bite injects a rune-fragment)
 - **Effect:** Used only when cornered
 
@@ -1074,7 +1074,7 @@ A party that kills a Glyph Spider before it can retreat probably prevented a Run
 
 **Construct Nature:** Immune to Frightened, Charmed, poison, disease. Cannot be charmed into cooperation.
 
-**Tiny Profile:** Cannot be targeted by area effects that require a creature to be Medium or larger. Ranged attackers have Disadvantage against it in dim light.
+**Tiny Profile:** Cannot be targeted by area effects that require a creature to be Medium or larger. Weapon Mastery attackers have Disadvantage against it in dim light.
 
 #### Tactics
 Glyph Spiders flee combat. Upon detecting intruders, a Spider's priority is (1) activate Relay Signal, (2) lay Trip-Wire Glyphs across retreat routes and chokepoints, (3) retreat out of reach. They will only use Glyph Bite if cornered with no escape route.
@@ -1121,11 +1121,11 @@ Most Animated Wards are paired with other constructs or physical doors — they 
 - Blood: 0
 
 **Skills**:
-- Ward Projection (Soul): 3
+- Glyphcasting (Soul): 3
 
 #### Attacks
 **Ward Pulse (Action, costs 4 SE):**
-- **Dice Pool:** Soul 3 + Ward Projection 3 = 6d6
+- **Dice Pool:** Soul 3 + Glyphcasting 3 = 6d6
 - **Range:** 20-foot cone
 - **Damage:** 4 Soul damage
 - **Effect:** All enemies in range must make DR 2 Will save or be **Pushed** 10 feet back. Creatures who fail and are pushed into a wall take an additional 2 Bludgeoning.
@@ -1136,7 +1136,7 @@ Most Animated Wards are paired with other constructs or physical doors — they 
 - Can only be used once per round regardless of triggers.
 
 **Arcane Lock (2 Actions, costs 5 SE):**
-- Magically seals one door, gate, chest, or portal within 10 feet. The seal holds for 8 hours or until dispelled (DR 3 Arcana to dispel). Even characters with physical keys cannot open the sealed object while the lock persists.
+- Magically seals one door, gate, chest, or portal within 10 feet. The seal holds for 8 hours or until dispelled (DR 3 Glyphcasting to dispel). Even characters with physical keys cannot open the sealed object while the lock persists.
 - The Ward prioritizes locking exits when intruders are present.
 
 **Threat Assessment (Passive):** The Animated Ward identifies creatures who have dealt damage to it or its allies as Threat-Marked. It will prioritize using Ward Pulse on Threat-Marked creatures over neutral or unknown creatures.
@@ -1170,8 +1170,8 @@ Ancient constructs are not exclusively enemies. Some may be reprogrammed, bargai
 ### Acquisition
 
 A construct becomes a temporary ally through one of:
-- **Control Token/Command Word:** Found as loot in the same location as the construct. Requires a Focus + Arcana DR 2 roll to use correctly.
-- **Reprogramming:** A skilled artificer (PC or NPC) can rewrite targeting protocols with Focus + Engineering/Runic Craft check (DR 3–5 depending on construct complexity). Requires access to the construct's runic core and 1 hour of work.
+- **Control Token/Command Word:** Found as loot in the same location as the construct. Requires a Focus + Glyphcasting DR 2 roll to use correctly.
+- **Reprogramming:** A skilled artificer (PC or NPC) can rewrite targeting protocols with Focus + Craft/Glyphcasting check (DR 3–5 depending on construct complexity). Requires access to the construct's runic core and 1 hour of work.
 - **Damage Limitation:** Some ancient constructs have incomplete or degraded orders — a Warden with damaged orders may simply not attack ("Protect the vault" but no "attack intruders" protocol still active) and can be directed to assist.
 
 ### Ally Construct Rules
@@ -1180,7 +1180,7 @@ A construct becomes a temporary ally through one of:
 
 **Commands:** A controller can issue one command per turn (Free Action). A construct without a current command defaults to its last order. Constructs obey commands literally — they do not infer intent.
 
-**Hit Points:** Ally constructs do not recover HP between encounters unless repaired (Focus + Engineering, DR 3, heals 10 HP per hour of work per success). Some constructs have passive regeneration as noted in their statblock.
+**Hit Points:** Ally constructs do not recover HP between encounters unless repaired (Focus + Craft, DR 3, heals 10 HP per hour of work per success). Some constructs have passive regeneration as noted in their statblock.
 
 **Soul Energy:** Ally constructs regenerate 2 SE per short rest (15–30 minutes of low activity).
 
@@ -1191,10 +1191,10 @@ A construct becomes a temporary ally through one of:
 | Risen Thrall* | 0.25 | Meat shield, expendable disruptor (\*undead, not construct) |
 | Animated Ward | 1 | Area denial, barrier projection, exit-sealing |
 | Restoration Engine | 2 | Primary healer, condition clearer |
-| Obsidian Drone | 1 | Ranged harassment, target marking |
+| Obsidian Drone | 1 | Weapon Mastery harassment, target marking |
 | Rune-Forged Warden | 3 | Frontline tank, choke-point holder |
 
-**Losing a Construct Ally:** When a construct ally is reduced to 0 HP, it is disabled (not destroyed unless specified). It can be repaired to 1 HP with a DR 3 Focus + Engineering check taking 10 minutes. Some constructs self-destruct instead — see individual entries.
+**Losing a Construct Ally:** When a construct ally is reduced to 0 HP, it is disabled (not destroyed unless specified). It can be repaired to 1 HP with a DR 3 Focus + Craft check taking 10 minutes. Some constructs self-destruct instead — see individual entries.
 
 **Corruption Warning:** Soul-Powered Constructs (see p. XXX) that serve as allies are vulnerable to Corruption. GMs should track the powering soul's Corruption separately and apply behavioral changes as that value increases.
 

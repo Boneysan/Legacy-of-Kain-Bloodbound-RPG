@@ -24,13 +24,13 @@ Guidance:
 
 ### Statistics
 - **HP:** 210
-- **DV:** 7 (1 + Shadow 6)
-- **Armor:** 6 (Spectral Resilience)
+- **DV:** 6
+- **Armor:** 7 (Spectral Resilience)
 - **SE:** 120
 - **Initiative:** 11
 - **Movement:** 70 feet (14 squares), Fly 70 feet (hover, phasing)
 - **Attributes:** Fury 6, Soul 8, Shadow 6, Will 7, Focus 6, Blood 0
-- **Skills:** Arcana 4, Insight 4, Acrobatics 4, Intimidation 3
+- **Skills:** Glyphcasting 4, Insight 4, Evasion 4, Intimidation 3
 
 **Immunities:** Non-magical physical
 **Resistances:** Fire, Cold, Lightning, Force, Soul
@@ -93,13 +93,13 @@ Regional Effects
 
 ### Statistics
 - **HP:** 190
-- **DV:** 7 (1 + Shadow 6)
-- **Armor:** 6 (Temporal Plate)
+- **DV:** 6
+- **Armor:** 7 (Temporal Plate)
 - **SE:** 80 | **BP:** 20
 - **Initiative:** 12
 - **Movement:** 60 feet (12 squares)
 - **Attributes:** Fury 7, Soul 5, Shadow 6, Will 6, Focus 6, Blood 3
-- **Skills:** Athletics 5, Acrobatics 5, Insight 3, Tactics 4
+- **Skills:** Athletics 5, Evasion 5, Insight 3, Observation 4
 
 **Resistances:** Force, Soul
 **Immunities:** Charm, Fear
@@ -162,13 +162,13 @@ Regional Effects
 
 ### Statistics
 - **HP:** 160
-- **DV:** 7 (1 + Shadow 6)
-- **Armor:** 3
+- **DV:** 6
+- **Armor:** 4
 - **SE:** 120
 - **Initiative:** 10
 - **Movement:** 60 feet (12 squares), Fly 60 feet (hover)
 - **Attributes:** Fury 4, Soul 9, Shadow 6, Will 8, Focus 6, Blood 0
-- **Skills:** Arcana 4, Insight 3, Persuasion 4
+- **Skills:** Glyphcasting 4, Insight 3, Persuasion 4
 
 **Immunities:** Non-magical physical
 **Resistances:** Radiant, Soul
@@ -238,13 +238,13 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 
 ### Statistics
 - **HP:** 130
-- **DV:** 7 (1 + Shadow 6)
-- **Armor:** 4
+- **DV:** 6
+- **Armor:** 5
 - **SE:** 100 | **BP:** 15
 - **Initiative:** 9
 - **Movement:** 50 feet (10 squares)
 - **Attributes:** Fury 2, Soul 8, Shadow 6, Will 7, Focus 7, Blood 3
-- **Skills:** Arcana 4, Deception 5, Persuasion 4, Insight 3
+- **Skills:** Forbidden Knowledge 4, Deception 5, Persuasion 4, Insight 3
 
 **Resistances:** Spectral
 **Vulnerabilities:** Radiant
@@ -271,7 +271,7 @@ Lair Action
 - Crowd Sway: A wave of whispers; enemies within 30ft must pass a DR 4 Will save or be Charmed until damaged.
 
 Regional Effects
-- Superstitions bloom; rumors travel twice as fast; Prophecy checks (GM custom) have Advantage.
+- Superstitions bloom; rumors travel twice as fast; Forbidden Knowledge checks (GM custom) have Advantage.
 
 ---
 
@@ -312,7 +312,7 @@ Regional Effects
 - **Initiative:** 8
 - **Movement:** 50 feet (10 squares)
 - **Attributes:** Fury 8, Soul 7, Shadow 5, Will 7, Focus 6, Blood 4
-- **Skills:** Athletics 4, Arcana 5, Intimidation 4
+- **Skills:** Athletics 4, Glyphcasting 5, Intimidation 4
 
 **Resistances:** Fire, Cold, Lightning, Force
 **Immunities:** Charm, Fear
@@ -385,13 +385,13 @@ Regional Effects
 
 ### Statistics
 - **HP:** 350
-- **DV:** 8 (1 + Shadow 7)
-- **Armor:** 9 (Calcified God-Flesh)
+- **DV:** 6
+- **Armor:** 11 (Calcified God-Flesh)
 - **SE:** 200
 - **Initiative:** 6
 - **Movement:** 50 feet (10 squares), Burrow 100 feet
 - **Attributes:** Fury 9, Soul 10, Shadow 7, Will 9, Focus 8, Blood 0
-- **Skills:** Arcana 6, Insight 6, Athletics 5, Intimidation 7
+- **Skills:** Forbidden Knowledge 6, Insight 6, Athletics 5, Intimidation 7
 
 **Immunities:** Non-magical physical, Poison, Charm, Fear, Sleep, Necrotic, Corruption, Soul
 **Resistances:** Fire, Cold, Lightning, Force, Radiant
@@ -525,13 +525,13 @@ Regional Effects
 
 ### Statistics
 - **HP:** 150
-- **DV:** 8 (1 + Shadow 7, limiting from Shadow 9 for practical combat balance)
-- **Armor:** 3
+- **DV:** 6
+- **Armor:** 5
 - **SE:** 100
 - **Initiative:** 12
 - **Movement:** 70 feet (14 squares)
 - **Attributes:** Fury 4, Soul 7, Shadow 9, Will 7, Focus 7, Blood 0
-- **Skills:** Deception 4, Stealth 5, Insight 4, Perception 3
+- **Skills:** Deception 4, Stealth 5, Insight 4, Observation 3
 
 **Immunities:** Charmed
 **Resistances:** Psychic, Soul
@@ -561,7 +561,7 @@ Regional Effects
 
 ### Tactics
 
-**For Players:** AoE effects and tremorsense are your best tools against the Monarch’s invisibility. Stay close together to limit Edict from Nowhere’s repositioning value, and use Perception checks to pin down its location before committing attacks.
+**For Players:** AoE effects and tremorsense are your best tools against the Monarch’s invisibility. Stay close together to limit Edict from Nowhere’s repositioning value, and use Observation checks to pin down its location before committing attacks.
 
 **For the GM:** Open invisible and use Command the Scene to scatter the party before they organize. Alternate between Edict from Nowhere and Disappear/Appear to remain untouchable. Save Hidden Court for rounds where ranged attackers are your biggest threat.
 
@@ -590,13 +590,13 @@ Regional Effects
 
 ### Statistics
 - **HP:** 180
-- **DV:** 7 (1 + Shadow 6)
-- **Armor:** 5 (Sanctified Plate)
+- **DV:** 6
+- **Armor:** 6 (Sanctified Plate)
 - **SE:** 50
 - **Initiative:** 11
 - **Movement:** 60 feet (12 squares)
 - **Attributes:** Fury 8, Soul 4, Shadow 6, Will 6, Focus 7, Blood 0
-- **Skills:** Athletics 4, Acrobatics 6, Survival 3, Tactics 4
+- **Skills:** Athletics 4, Evasion 6, Nature 3, Observation 4
 
 **Resistances:** Radiant
 **Vulnerabilities:** Soul
@@ -659,13 +659,13 @@ Regional Effects
 
 ### Statistics
 - **HP:** 140
-- **DV:** 8 (1 + Shadow 7)
-- **Armor:** 3
+- **DV:** 6
+- **Armor:** 5
 - **SE:** 120
 - **Initiative:** 10
 - **Movement:** 50 feet (10 squares)
 - **Attributes:** Fury 2, Soul 9, Shadow 7, Will 8, Focus 8, Blood 0
-- **Skills:** Arcana 4, History 6, Insight 3
+- **Skills:** Glyphcasting 4, History 6, Insight 3
 
 **Resistances:** Psychic, Soul
 
@@ -732,16 +732,16 @@ They do not intend harm precisely. They are temporal coherence agents, attemptin
 - **Initiative:** 7
 - **Movement:** 40 feet (8 squares), Fly 40 feet
 - **Attributes:** Fury 3, Soul 6, Shadow 4, Will 6, Focus 6, Blood 0
-- **Skills:** Arcana (Soul) 5, Observation (Focus) 5, Manipulation 4
+- **Skills:** Glyphcasting 5, Observation 5, Persuasion 4
 - **SE:** 80
 
 ### Attacks & Abilities
 
 **Time Strike** (Action)
-- **Dice Pool:** Soul 6 + Arcana 5 = 11d6
+- **Dice Pool:** Soul 6 + Glyphcasting 5 = 11d6
 - **Range:** 60 feet
 - **Damage:** 12 Soul damage
-- **Special:** On a Critical Hit (5+ successes), target is briefly displaced in time — aged 1d4 decades (−1 to their Fury and Blood attributes until the effect is magically reversed via at minimum a DR 4 Arcana ritual)
+- **Special:** On a Critical Hit (5+ successes), target is briefly displaced in time — aged 1d4 decades (−1 to their Fury and Blood attributes until the effect is magically reversed via at minimum a DR 4 Glyphcasting ritual)
 
 **Temporal Displacement** (2 Actions, costs 12 SE)
 - **Range:** 60 feet
@@ -756,7 +756,7 @@ They do not intend harm precisely. They are temporal coherence agents, attemptin
 
 ### Special Abilities
 
-**Always Next (Passive):** The Echo cannot be Surprised. It processes all Ambush attempts as though it already knew they were coming (because it did, briefly, before the timeline version began).
+**Always Next (Passive):** The Echo cannot be Surprised. It processes all Stealth attempts as though it already knew they were coming (because it did, briefly, before the timeline version began).
 
 **Legendary Resistance (3/day):** If the Echo fails a saving throw, it can choose to succeed instead.
 
@@ -802,29 +802,28 @@ The Death Guardian is everything the role was meant to prevent: an undead being 
 - **Initiative:** 7
 - **Movement:** 35 feet (7 squares), Fly 30 feet (death's wings)
 - **Attributes:** Fury 5, Soul 6, Will 6, Shadow 4, Focus 4, Blood 0
-- **Skills:** Necromancy (Soul) 5, Melee (Fury) 4, Intimidation 5, Arcana (Soul) 3
+- **Skills:** Forbidden Knowledge 5, Weapon Mastery 4, Intimidation 5, Glyphcasting 3
 - **SE:** 90
 
 ### Attacks & Abilities
 
 **Reaper's Blade** (Action)
-- **Dice Pool:** Fury 5 + Melee 4 = 9d6 + Necromancy 5 = effectively 14d6 (the blade channels both physical and necrotic — split the pool: 9d6 physical, treat successes that exceed the DV as also rolling on the Necromancy scale)
-- **Dice Pool (simplified):** Fury 5 + Melee 4 = 9d6
+- **Dice Pool:** Fury 5 + Weapon Mastery 4 = 9d6
 - **Range:** 15-foot melee reach (massive scythe-style weapon)
-- **Damage:** 14 physical (Necrotic-blade, bypasses undead resistance)
+- **Damage:** 14 Physical + 4 Entropic (bypasses undead resistance)
 - **Special:** On kill, the slain creature **rises as a Risen Thrall** at the start of the Guardian's next turn. No action required — death is the Guardian's dominion.
 
 **Necrotic Detonation** (2 Actions, costs 12 SE, Recharge 5-6)
-- **Dice Pool:** Soul 6 + Necromancy 5 = 11d6 vs Blood
+- **Dice Pool:** Soul 6 + Forbidden Knowledge 5 = 11d6 vs Blood
 - **Range:** 30-foot radius
-- **Damage:** 16 Necrotic to all living creatures in range
+- **Damage:** 16 Entropic to all living creatures in range
 - **Save:** DR 4 Blood save to halve
-- **Effect on Fail:** Target is Weakened (−2 dice on all physical actions) for 3 rounds
+- **Effect on Fail:** Target is **Weakened** for 3 rounds. While Weakened by this blast, the target also suffers −2 dice on all physical actions.
 - **Effect on Undead:** Instead of damage, all undead within 30 feet are healed for 8 HP
 
 **Death Nova (Reaction, 1/combat — triggers automatically when HP is first reduced below half):**
 - **Range:** 30-foot radius burst, triggered by near-death response
-- **Effect:** All living creatures in range make DR 4 Will save or take 12 Soul + become Frightened (all enemies) for 3 rounds. Living creatures that fail also lose their Reaction until end of their next turn.
+- **Effect:** All living creatures in range make DR 4 Will save or take 12 Soul damage and become **Frightened** for 3 rounds. Living creatures that fail also lose their Reaction until the end of their next turn.
 - This cannot be prevented, delayed, or selected against.
 
 ### Special Abilities
@@ -877,20 +876,20 @@ Encountering Vorador is not something that happens by accident. It happens becau
 - **Initiative:** 8
 - **Movement:** 45 feet (9 squares), Fly 50 feet (mist form optional — see Mist Form)
 - **Attributes:** Fury 6, Soul 5, Blood 6, Shadow 5, Will 5, Focus 5
-- **Skills:** Melee (Fury) 5, Blood Magic (Soul) 5, Intimidation 5, Arcana (Soul) 3, Stealth (Shadow) 3
+- **Skills:** Weapon Mastery 5, Rituals 5, Intimidation 5, Glyphcasting 3, Stealth 3
 - **SE:** 100 | **BP:** 30
 
 ### Attacks & Abilities
 
 **Patriarch's Fang** (Action)
-- **Dice Pool:** Fury 6 + Melee 5 = 11d6
-- **Range:** Melee
+- **Dice Pool:** Fury 6 + Weapon Mastery 5 = 11d6
+- **Range:** Weapon Mastery
 - **Damage:** 14 Piercing + 5 Blood Drain (target loses 5 BP; if 0 BP, makes DR 5 Blood save or is **Dominated** — see below)
 - **Special:** Vorador regains 6 HP per successful fang strike. He cannot be stopped from feeding by anything short of a physical barrier he cannot break.
-- **Dominated Condition:** The Dominated creature treats Vorador as an ally and hostile PCs as enemies for 1 minute. DR 4 Will save at end of each of their turns to break free.
+- **Dominated Condition:** The Dominated creature is **Dominated** for 1 minute. While Dominated this way, it treats Vorador as an ally and hostile PCs as enemies. DR 4 Will save at the end of each of its turns to break free.
 
 **Zephonim's Curse** (2 Actions, costs 15 SE)
-- **Dice Pool:** Soul 5 + Blood Magic 5 = 10d6
+- **Dice Pool:** Soul 5 + Rituals 5 = 10d6
 - **Range:** 60 feet
 - **Effect:** On hit, target immediately gains 3 Corruption points and all vampiric entities within 60 feet treat the target as a blood-source (they will prioritize attacking the cursed creature until the Curse's duration expires in 3 rounds or is removed).
 - **Save:** DR 5 Will save to halve Corruption gain (still 1 Corruption on success)
@@ -924,9 +923,9 @@ Vorador does not rush. He opens with Zephonim's Curse on the PC with the highest
 **Roleplaying Vorador in Combat:** He is not angry. He is disappointed and efficient. He comments on the party's tactics. He remembers their names. If any PC is a vampire, he speaks to them specifically (*"At least you understand what is at stake. Pity you chose such companions."*). He is devastating but never mindless.
 
 ### Loot
-- Vorador's ring (Zephonim clan signet; grants immunity to vampiric Domination by lesser vampires and +1 die on all Blood Magic rolls) — **Trade Value**: 400 supplies or story item
+- Vorador's ring (Zephonim clan signet; grants immunity to vampiric Domination by lesser vampires and +1 die on all Rituals rolls) — **Trade Value**: 400 supplies or story item
 - Blood vial of Vorador (his blood is ancient beyond reckoning; drinking it grants a temporary 1d4 hours of vampiric regeneration 2 HP/round — at the cost of 2 Corruption) — **Trade Value**: 250 supplies
-- Zephonim texts (Vorador's library was legendary; recovering his personal notes rewards the party with 1d4 Arcana or Blood Magic ritual knowledge) — **Trade Value**: 150 supplies each
+- Zephonim texts (Vorador's library was legendary; recovering his personal notes rewards the party with 1d4 Glyphcasting or Rituals techniques) — **Trade Value**: 150 supplies each
 
 ### Scaling Options
 - **Vorador Contained (Boss, TV 6):** A weakened Vorador, recently imprisoned or heavily drained. HP 120, DV 5, Blood 4, SE 40, BP 15. Loses Patriarch's Call and Lair Action. Legendary Actions reduce to 2 per round. Legendary Resistance 2/day.
@@ -953,31 +952,31 @@ An Overlord is the supreme field commander of any Hylden incursion — the decis
 - **Initiative:** 9
 - **Movement:** 40 feet (8 squares), Fly 40 feet
 - **Attributes:** Fury 5, Soul 6, Will 6, Focus 5, Shadow 4, Blood 3
-- **Skills:** Dimensional Manipulation (Soul) 5, Corruption Channeling (Soul) 4, Hylden Tactics (Focus) 5, Intimidation 5, Arcana (Soul) 4
+- **Skills:** Weapon Mastery 4, Glyphcasting 5, Forbidden Knowledge 4, Observation 5, Intimidation 5
 - **SE:** 110
 
 ### Attacks & Abilities
 
 **Hylden Blade** (Action)
-- **Dice Pool:** Fury 5 + Melee 4 = 9d6
-- **Range:** Melee (15-foot reach — dimensional extension)
+- **Dice Pool:** Fury 5 + Weapon Mastery 4 = 9d6
+- **Range:** Weapon Mastery (15-foot reach — dimensional extension)
 - **Damage:** 15 physical + 5 Soul (the blade passes through dimensions as it strikes)
 - **Special:** On hit, target is **Marked** — all Hylden forces' attacks deal +3 damage against Marked targets. Marking lasts until the target leaves combat or the Overlord is defeated. Multiple Marks from different hits do not stack.
 
 **Corruption Surge** (2 Actions, costs 15 SE, Recharge 5-6)
-- **Dice Pool:** Soul 6 + Corruption Channeling 4 = 10d6
+- **Dice Pool:** Soul 6 + Forbidden Knowledge 4 = 10d6
 - **Range:** 40-foot radius
 - **Effect:** All living creatures in range make DR 5 Will save. On fail: immediately gain 3 Corruption and take 12 Corruption damage. All Hylden forces within range simultaneously heal 8 HP.
 - **On Success:** 1 Corruption and 6 Corruption damage.
 
 **Dimensional Anchor** (2 Actions, costs 20 SE, 1/encounter)
 - **Range:** 60 feet, one target
-- **Effect:** The Overlord imprisons the target in a Hylden dimensional pocket. The target is **removed from combat** for 3d6 rounds — they cannot be targeted, act, or perceive their surroundings during this time. The effect can be ended early by a DR 5 Arcana check (as an action by any character with spellcasting ability) or by disrupting the Overlord's concentration (3+ Soul damage in one hit).
+- **Effect:** The Overlord imprisons the target in a Hylden dimensional pocket. The target is **removed from combat** for 3d6 rounds — they cannot be targeted, act, or perceive their surroundings during this time. The effect can be ended early by a DR 5 Glyphcasting check (as an action by any character with spellcasting ability) or by disrupting the Overlord's concentration (3+ Soul damage in one hit).
 - **Save:** DR 5 Will save to avoid entirely. On success, the target is merely Stunned for 1 round.
 
 ### Special Abilities
 
-**Hylden Command (Passive):** All Hylden forces (any creature with the Hylden type or in Hylden service) within 100 feet gain +2 dice on all attacks and saves. Hylden Rift-Priests and War-Stalkers act on initiative count 20 during their turns if they have not yet acted that round (priority response command).
+**Tactics (Passive):** All Hylden forces (any creature with the Hylden type or in Hylden service) within 100 feet gain +2 dice on all attacks and saves. Hylden Rift-Priests and War-Stalkers act on initiative count 20 during their turns if they have not yet acted that round (priority response command).
 
 **Dimensional Resistance:** The Overlord is immune to being Teleported, Displaced, or Banished against its will. It can choose to trigger a dimension-skip (Bonus Action, costs 8 SE): teleport up to 40 feet, leaving a 10-foot radius shockwave of 6 Soul damage at origin point.
 
@@ -992,9 +991,9 @@ An Overlord is the supreme field commander of any Hylden incursion — the decis
 - The Overlord tears a spatial rift in a 20-foot radius at any point within 60 feet. All non-Hylden creatures in the rift area make DR 4 Blood save or take 10 Soul damage and are Displaced 20 feet in a random direction (roll d8 for direction).
 
 ### Tactics & Strategy
-The Overlord opens with **Hylden Command** aura in effect, then uses Dimensional Anchor on the party's most effective counter to its strategy (typically the healer or the highest-damage PC). Hylden Blade marks remaining threats. Corruption Surge goes off once the party is clustered. The combination of Marking + Hylden Command means that any surviving Hylden forces (Shock Troopers, Rift-Priests, War-Stalkers) gain significant bonuses, making attrition on subordinate enemies strategically valuable for the party.
+The Overlord opens with **Tactics** aura in effect, then uses Dimensional Anchor on the party's most effective counter to its strategy (typically the healer or the highest-damage PC). Hylden Blade marks remaining threats. Corruption Surge goes off once the party is clustered. The combination of Marking + Tactics means that any surviving Hylden forces (Shock Troopers, Rift-Priests, War-Stalkers) gain significant bonuses, making attrition on subordinate enemies strategically valuable for the party.
 
-**The Anchor Dilemma:** When a PC is Dimensionally Anchored and removed from combat, the rest of the party must decide whether to dedicate actions to freeing them (DR 5 Arcana check, interrupting the Overlord's concentration) or pressing the attack. This is the core tactical puzzle of the encounter.
+**The Anchor Dilemma:** When a PC is Dimensionally Anchored and removed from combat, the rest of the party must decide whether to dedicate actions to freeing them (DR 5 Glyphcasting check, interrupting the Overlord's concentration) or pressing the attack. This is the core tactical puzzle of the encounter.
 
 **Encounter Design:** The Hylden Overlord makes the most sense as a campaign-climax encounter — the commander behind every Hylden incursion the party has fought throughout the arc. Pair with 2 Hylden Rift-Priests (TV 3 each), 3 Hylden War-Stalkers (TV 2 each), and 6 Hylden Shock Troopers (TV 1 each) for a full-army confrontation encounter at TV ~30 — reserved for groups that have earned this through the complete campaign.
 
@@ -1005,7 +1004,7 @@ The Overlord opens with **Hylden Command** aura in effect, then uses Dimensional
 - Strategic record (the Overlord's tactical assessment of Nosgoth, its strongpoints, its weaknesses, and the Hylden's invasion timeline) — **Trade Value**: priceless to any opposing faction
 
 ### Scaling Options
-- **Hylden Warlord (Boss, TV 5):** HP 105, DV 5, Soul 4, SE 40. No Dimensional Anchor or Lair Action. Legendary Actions reduce to 2 per round. Legendary Resistance 2/day. Hylden Command aura 60 feet only.
+- **Hylden Warlord (Boss, TV 5):** HP 105, DV 5, Soul 4, SE 40. No Dimensional Anchor or Lair Action. Legendary Actions reduce to 2 per round. Legendary Resistance 2/day. Tactics aura 60 feet only.
 - **Hylden God-Emperor (TV 22+):** The Overlord empowered by direct contact with the Elder God's design, having spent centuries modifying body and mind to overcome every weakness. HP 360, DV 6, all attributes +1, SE 160. Dimensional Anchor affects 2 targets simultaneously (separate saves). Corruption Surge deals 18 damage and applies 4 Corruption on fail. Lair Action triggers twice per round. Legendary Actions increase to 4 per round.
 
 ---
@@ -1019,8 +1018,8 @@ The Overlord opens with **Hylden Command** aura in effect, then uses Dimensional
 
 ### Statistics
 - **HP:** 120
-- **DV:** 7 (1 + Will 6)
-- **Armor:** 3 (Spectral Shell)
+- **DV:** 6
+- **Armor:** 4 (Spectral Shell)
 - **SE:** 80
 - **Initiative:** 9
 - **Movement:** 50 feet (10 squares), Fly 50 feet (hover)
@@ -1096,8 +1095,8 @@ Regional Effects
 
 ### Statistics
 - **HP:** 350
-- **DV:** 9 (1 + Will 8, capped from Will 10 — cosmic resistance to being affected)
-- **Armor:** 8 (Ageless Eldritch Mass)
+- **DV:** 6
+- **Armor:** 11 (Ageless Eldritch Mass)
 - **SE:** 200
 - **Initiative:** 7
 - **Movement:** 30 feet (6 squares, immobile core; tendrils reach 40 feet)

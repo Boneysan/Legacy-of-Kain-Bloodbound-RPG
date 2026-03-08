@@ -31,13 +31,13 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 | **20** | Universal Perk | Tier 1-4 |
 | **20** | *Human Bonus Perk* | Tier 1-4 |
 
-**Multiclassing**: At Level 5+, players may request a Tier 1 perk from another classâ€™s perk tree if narratively justified (GM Discretion).
+**Multiclassing**: At Level 5+, players may request a Tier 1 perk from another class's perk tree if narratively justified (GM Discretion).
 
 ---
 
 ## 4.2 Universal Perks
 
-### Tier 1 Universal Perks (Levels 1â€“5)
+### Tier 1 Universal Perks (Levels 1-5)
 *Foundational abilities providing minor boosts, ideal for early survival.*
 
 | Perk Name | Effect | Cost / Trigger |
@@ -53,7 +53,7 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 | **Focused Ritualist** | **+1 die** to ritual, glyphcasting, and spellcasting rolls if you are at max HP. | Passive |
 | **Death Watcher** | Automatically detect when an enemy drops below **25% HP**. | Passive |
 
-### Tier 2 Universal Perks (Levels 6â€“10)
+### Tier 2 Universal Perks (Levels 6-10)
 *Prerequisite: One Tier 1 Universal Perk.*
 
 | Perk Name | Effect | Cost / Trigger |
@@ -65,11 +65,11 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 | **Time Echo** | Reroll one Initiative roll. | 1/Long Rest |
 | **Soul Ward** | Absorb one source of damage completely (negates one attack). | 1/Long Rest |
 | **Spell Siphon** | Steal one activated ability you have witnessed the target use this scene (Target makes **DR 2 Will** save; on success each time you use it, the ability is lost). Lasts until rest. | **1 Corruption** |
-| **Spectral Fortitude**| **+2 Defense** while in the Spectral Realm. | Passive |
+| **Spectral Fortitude**| **+2 DV** while in the Spectral Realm. | Passive |
 | **Blood Alchemy** | Convert HP to Soul Energy (3 HP = 1 SE, max Level/2). | Free Action, 1/turn |
 | **Shadow Link** | Teleport to a shadow within **10 ft**. | **1 SE** (Bonus Action) |
 
-### Tier 3 Universal Perks (Levels 11â€“15)
+### Tier 3 Universal Perks (Levels 11-15)
 *Prerequisite: One Tier 2 Universal Perk.*
 
 | Perk Name | Effect | Cost / Trigger |
@@ -83,9 +83,9 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 | **Timelocked** | Immune to time-slow, haste, and paralyze effects. | Passive |
 | **Soul Burn** | Deal **+1 damage** per 2 missing Soul Energy (Max +5). | Passive |
 | **Master of Glyphs** | Inscribe permanent glyphs (wards/traps) on objects/locations. | **1 SE** + Materials |
-| **Legacy of Power** | Gain a unique lineage ability (e.g., a vampireâ€™s particular bloodline curse). | 1/Campaign |
+| **Legacy of Power** | Gain a unique lineage ability (e.g., a vampire's particular bloodline curse). | 1/Campaign |
 
-### Tier 4 Universal Perks (Levels 16â€“20)
+### Tier 4 Universal Perks (Levels 16-20)
 *Prerequisite: One Tier 3 Universal Perk.*
 
 | Perk Name | Effect | Cost / Trigger |
@@ -98,7 +98,7 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 | **Temporal Residue** | When damaged, leave an echo for 1 round. While active, whenever you are targeted by an attack, roll any die — on an even result, the attack hits the echo instead and deals no damage to you. | **1 SE** / Combat |
 | **Flesh of Myth** | **+1 Max HP** per character level (applied retroactively when taken). Immune to poison, disease, aging, dismemberment. | Passive |
 | **Spectral Fire** | Burn HP (3:1) to regain SE, BP, or Glyph Charges. | Bonus Action |
-| **Cradle of Ruin** | On 0 HP: 20ft pulse (**12 Void Dmg**, bypasses Armor). Allies get +2 Defense. Rise at 1 HP next turn. | **1 Corruption** |
+| **Cradle of Ruin** | On 0 HP: 20ft pulse (**12 Entropic damage**, bypasses Armor). Allies within 20ft gain +2 DV until the start of your next turn. Rise at 1 HP next turn. | **1 Corruption** |
 | **Reality Fracture** | Perform an impossible narrative act. Examples: halt time mid-scene (DR 5 Will + Concentration), teleport across a region (DR 4 Soul + Rituals), erase one event from a scene before its consequences resolve (DR 5 Soul). GM adjudicates outcome and may set a higher DR. | **2 Corruption** / Session |
 
 ---

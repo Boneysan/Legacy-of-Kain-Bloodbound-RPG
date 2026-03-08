@@ -135,7 +135,7 @@ Revenants are the restless dead bound to unfinished purpose. Unlike mindless und
 - **Initiative:** 3
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 3, Soul 3, Shadow 2, Will 3, Focus 2, Blood 0
-- **Skills:** Weapon Mastery 2, Intimidation 3, Resolve (Will): 2
+- **Skills:** Weapon Mastery 2, Intimidation 3, Concentration (Will): 2
 
 ### Attacks
 **Cursed Blade** (Action)
@@ -158,7 +158,7 @@ Revenants are the restless dead bound to unfinished purpose. Unlike mindless und
 
 **Undead Nature:** Immune to Soul Drain, poison, disease, charm. Takes double damage from Radiant.
 
-**Deathless Endurance:** Advantage on saves against being stunned or paralyzed.
+**Deathless Concentration:** Advantage on saves against being stunned or paralyzed.
 
 ### Reactions
 **Vengeful Riposte** (Reaction, when hit by melee attack)
@@ -355,11 +355,11 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 - **Initiative:** 3
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 2, Soul 4, Shadow 2, Will 2, Focus 3, Blood 3
-- **Skills:** Rituals 4, Forbidden Knowledge 3, Persuasion 2, Blood Magic 4
+- **Skills:** Rituals 4, Forbidden Knowledge 3, Persuasion 2
 
 ### Attacks
 **Blood Bolt** (Action)
-- **Dice Pool:** Soul 2 + Blood Magic 4 = 6d6
+- **Dice Pool:** Soul 2 + Rituals 4 = 6d6
 - **Damage:** 5 Blood damage
 - **Range:** 60 feet (12 squares)
 - **Special:** Target must make DR 2 Will save or suffer Bleeding
@@ -377,7 +377,7 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 ### Special Abilities
 **Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
 
-**Blood Magic:** Can spend 2 HP to add +1 die to any spell attack or increase spell damage by 2.
+**Rituals:** Can spend 2 HP to add +1 die to any spell attack or increase spell damage by 2.
 
 **Ritual Caster:** Given 10 minutes and proper materials, can cast rituals from memory (GM discretion on effects).
 
@@ -392,7 +392,7 @@ Stays at range, pelting enemies with Blood Bolt. Uses Blood Curse on biggest thr
 
 ### Loot
 - Bloodstained ritual robes
-- Blood Magic tome (Trade Value: 20 supplies, can teach Blood Bolt spell)
+- Rituals tome (Trade Value: 20 supplies, can teach Blood Bolt spell)
 - Ritual components (Trade Value: 50 supplies total)
 - Unholy symbol of vampire lord
 
@@ -539,13 +539,13 @@ Most Overlords were once members of the great vampire clans, and some still carr
 - **Initiative:** 7
 - **Movement:** 35 feet (7 squares), Fly 40 feet
 - **Attributes:** Fury 5, Soul 4, Shadow 5, Will 5, Focus 4, Blood 6
-- **Skills:** Athletics 4, Intimidation 5, Melee 3, Stealth 3
+- **Skills:** Athletics 4, Intimidation 5, Weapon Mastery 3, Stealth 3
 - **SE:** 15 | **BP:** 8
 
 ### Attacks & Abilities
 
 **Sovereign Claws** (Action)
-- **Dice Pool:** Fury 5 + Melee 3 = 8d6
+- **Dice Pool:** Fury 5 + Weapon Mastery 3 = 8d6
 - **Damage:** 8 physical (Slashing) + Bleeding
 - **Special:** **Multiattack:** The Overlord makes two Sovereign Claw attacks as a single Attack action
 
@@ -553,7 +553,7 @@ Most Overlords were once members of the great vampire clans, and some still carr
 - **Dice Pool:** Soul 4 + Intimidation 5 = 9d6
 - **Range:** 60 feet (12 squares)
 - **Damage:** None
-- **Special:** Target must make DR 4 Will save or be **Dominated** (Charmed — must obey verbal commands, cannot willingly attack the Overlord) for 1 round. On Critical Hit (3+ successes), duration extends to 2 rounds. Vampiric and undead targets automatically fail.
+- **Special:** Target must make DR 4 Will save or be **Dominated** for 1 round. While Dominated this way, the target must obey the Overlord's verbal commands and cannot willingly attack the Overlord. On Critical Hit (3+ successes), duration extends to 2 rounds. Vampiric and undead targets automatically fail.
 
 **Crimson Torrent** (Action, Recharge 5-6)
 - **Dice Pool:** Blood 6 + 0 = 6d6
@@ -629,24 +629,24 @@ Grave-Knights are often bound to a specific location (a battlefield, a fortress,
 - **Initiative:** 5
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 4, Soul 3, Shadow 4, Will 4, Focus 3, Blood 3
-- **Skills:** Melee 3, Athletics 3, Intimidation 4, Leadership (Will) 3
+- **Skills:** Weapon Mastery 3, Athletics 3, Intimidation 4, Tactics (Will) 3
 - **SE:** 0 | **BP:** 0
 
 ### Attacks
 
 **Cursed Greatsword** (Action)
-- **Dice Pool:** Fury 4 + Melee 3 = 7d6
+- **Dice Pool:** Fury 4 + Weapon Mastery 3 = 7d6
 - **Damage:** 9 physical (Slashing) + 2 Cold damage
 - **Special:** On Critical Hit (3+ successes), target is **Weakened** (Disadvantage on attack rolls) for 1 round as necrotic frost seeps into the wound
 
 **Gravetide Strike** (Action, Recharge 5-6)
 - **Dice Pool:** Fury 4 + Athletics 3 = 7d6
-- **Range:** Melee
+- **Range:** Weapon Mastery
 - **Damage:** 12 physical (Slashing) + 4 Cold damage
-- **Special:** Target must make DR 3 Blood save or be knocked **Prone** and lose their Reaction until end of their next turn
+- **Special:** Target must make DR 3 Blood save or be knocked **Prone** and become **Staggered** until the end of their next turn.
 
 **Death's Command** (Action, 1/encounter)
-- **Dice Pool:** Will 4 + Leadership 3 = 7d6
+- **Dice Pool:** Will 4 + Tactics 3 = 7d6
 - **Range:** 60 feet (12 squares)
 - **Damage:** None
 - **Special:** All undead allies within 60 feet immediately make one free weapon attack against the nearest enemy. Additionally, all undead allies within range gain +1 DV until end of the Commander's next turn.
@@ -679,8 +679,8 @@ The Grave-Knight Commander fights from within a formation of lesser undead, usin
 - Commander's orders (fragment of parchment revealing its original mission — plot hook) — **Trade Value:** Varies
 
 ### Scaling Options
-- **Grave-Knight Squire (Standard, TV 1):** HP 25, DV 4, Fury 3, no Leadership skill. Remove Death's Command and Commander's Presence. Armor 2.
-- **Grave-Knight Warlord (Boss, TV 4):** HP 75, DV 6, Fury 5, Will 5, Leadership 5. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Cursed Greatsword (1), Death's Command (2). Commander's Presence radius increases to 45 feet.
+- **Grave-Knight Squire (Standard, TV 1):** HP 25, DV 4, Fury 3, no Tactics skill. Remove Death's Command and Commander's Presence. Armor 2.
+- **Grave-Knight Warlord (Boss, TV 4):** HP 75, DV 6, Fury 5, Will 5, Tactics 5. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Cursed Greatsword (1), Death's Command (2). Commander's Presence radius increases to 45 feet.
 
 ---
 
@@ -701,31 +701,31 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 - **Initiative:** 5
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 3, Soul 6, Shadow 4, Will 5, Focus 5, Blood 0 (Immune to Blood-based effects)
-- **Skills:** Necromancy (Soul): 5, Arcana (Soul): 4, Intimidation (Will): 4, Command Undead (Will): 5, Observation (Focus): 3
+- **Skills:** Rituals 5, Glyphcasting 4, Intimidation 4, Forbidden Knowledge 5, Observation 3
 - **Soul Energy (SE):** 50
 - **Blood Points (BP):** N/A
 
 ### Attacks & Abilities
 **Soul Scourge** (Action)
-- **Dice Pool:** Soul 6 + Necromancy 5 = 11d6 vs Will
+- **Dice Pool:** Soul 6 + Rituals 5 = 11d6 vs DV
 - **Range:** 60 feet
 - **Damage:** 10 Soul damage
 - **Special:** On hit, target's max SE is reduced by 3 until short rest.
 
 **Bone Lance** (Action)
-- **Dice Pool:** Soul 6 + Arcana 4 = 10d6 vs Dodge
+- **Dice Pool:** Soul 6 + Glyphcasting 4 = 10d6 vs DV
 - **Range:** 40 feet
-- **Damage:** 8 Piercing + 4 Necrotic
+- **Damage:** 8 Piercing + 4 Entropic
 - **Special:** On Critical Hit, target is Impaled (Restrained; DR 4 Blood save to escape as action).
 
 **Raise Dead** (Action, costs 8 SE)
 - **Effect:** Summon 2 Feralslave Ghouls (TV 0.25) or 1 Nosgothian Revenant (TV 1) within 30 feet. Maximum of 6 summoned undead at once. Summoned undead act on the Archon's initiative.
 
 **Necrotic Detonation** (Action, costs 12 SE, Recharge 5-6)
-- **Dice Pool:** Soul 6 + Necromancy 5 = 11d6 vs Will
+- **Dice Pool:** Soul 6 + Rituals 5 = 11d6
 - **Range:** 25 foot radius centered on Archon
-- **Damage:** 14 Necrotic
-- **Special:** Half damage on successful defense. Undead allies in the area are healed for 8 HP instead.
+- **Damage:** 14 Entropic
+- **Special:** Living creatures in the area make a DR 4 Will save for half damage. Undead allies in the area are healed for 8 HP instead.
 
 ### Special Abilities
 **Undead Nature:** Immune to Soul Drain, poison, disease, fear, charm, sleep. Takes double damage from Radiant.
@@ -739,7 +739,7 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 ### Legendary Actions (3/round)
 - **Soul Scourge (1 action):** Make one Soul Scourge attack at half damage (5 Soul).
 - **Command Undead (1 action):** One undead ally within 60 feet can immediately move up to its speed or make one attack.
-- **Dark Rebuke (2 actions):** When an enemy within 30 feet casts a spell, the Archon can counter it. Roll Soul 6 + Arcana 4 = 10d6 vs DR 4. On success, the spell is negated and the Archon regains 5 SE.
+- **Dark Rebuke (2 actions):** When an enemy within 30 feet casts a spell, the Archon can counter it. Roll Soul 6 + Glyphcasting 4 = 10d6 vs DR 4. On success, the spell is negated and the Archon regains 5 SE.
 
 ### Lair Action
 - **Bone Tide:** On initiative count 20, skeletal hands erupt from the ground in a 20-foot radius area. Creatures in the area must pass a DR 4 Blood save or be Restrained until the end of their next turn.
@@ -750,14 +750,14 @@ The Bonelord Archon fights from behind a wall of summoned undead. It opens by ca
 **Encounter Design:** Pair with 4 Feralslave Ghouls and 1 Grave-Knight Commander (TV 3) for a full TV 10 encounter. The Archon uses Command Undead to coordinate the Commander's alpha strikes while maintaining its own ranged pressure.
 
 ### Loot
-- Archon's staff (acts as a spellcasting focus; grants +1 die on Necromancy checks) — **Trade Value**: 200 supplies
+- Archon's staff (acts as a spellcasting focus; grants +1 die on Rituals checks) — **Trade Value**: 200 supplies
 - Phylactery shard (if the phylactery is found and shattered — powerful component for anti-undead rituals) — **Trade Value**: 300 supplies
-- Necrotic grimoire (contains 3 Necromancy spells of the GM's choice) — **Trade Value**: 150 supplies
-- Dark essence vial (concentrated necrotic energy; can be used to craft a weapon that deals +4 Necrotic damage) — **Trade Value**: 120 supplies
+- Entropic grimoire (contains 3 Rituals spells of the GM's choice) — **Trade Value**: 150 supplies
+- Dark essence vial (concentrated entropic energy; can be used to craft a weapon that deals +4 Entropic damage) — **Trade Value**: 120 supplies
 
 ### Scaling Options
-- **Bonelord Acolyte (Boss, TV 4):** HP 70, DV 5, Soul 5, Necromancy 4. Loses Legendary Actions, Lair Action, and Phylactery Bond. Raise Dead summons only 1 Ghoul. SE reduced to 24.
-- **Bonelord Sovereign (Legendary, TV 9):** HP 180, DV 6, Soul 7, Necromancy 6. Gains 3 Legendary Actions/round. Raise Dead summons 3 Revenants or 1 Grave-Knight Commander. Add Regional Effects: undead within 1 mile are drawn to the Sovereign's lair, and living creatures within 500 feet have Disadvantage on death saves.
+- **Bonelord Acolyte (Boss, TV 4):** HP 70, DV 5, Soul 5, Rituals 4. Loses Legendary Actions, Lair Action, and Phylactery Bond. Raise Dead summons only 1 Ghoul. SE reduced to 24.
+- **Bonelord Sovereign (Legendary, TV 9):** HP 180, DV 6, Soul 7, Rituals 6. Gains 3 Legendary Actions/round. Raise Dead summons 3 Revenants or 1 Grave-Knight Commander. Add Regional Effects: undead within 1 mile are drawn to the Sovereign's lair, and living creatures within 500 feet have Disadvantage on death saves.
 
 ---
 
@@ -790,7 +790,7 @@ Unlike Feralslave Ghouls, which are animated by lingering soul-fragments, Risen 
 **Lurching Strike** (Action)
 - **Dice Pool:** Fury 2 = 2d6
 - **Damage:** 3 physical (Bludgeoning)
-- **Special:** If the Thrall rolls 2 successes, the target is Staggered (−1 die on next action)
+- **Special:** If the Thrall rolls 2 successes, the target is **Staggered** until the end of their next turn.
 
 ### Special Abilities
 
@@ -838,12 +838,12 @@ Fledglings have not yet mastered the full array of vampiric powers, but they are
 ### Attacks & Abilities
 
 **Frenzied Bite** (Action)
-- **Dice Pool:** Fury 3 + Melee 2 = 5d6
+- **Dice Pool:** Fury 3 + Weapon Mastery 2 = 5d6
 - **Damage:** 5 Piercing + 2 Blood Drain (target loses 2 BP; if 0 BP, takes 2 extra damage)
 - **Special:** The Fledgling regains 2 HP on a successful hit
 
 **Claw Swipe** (Action)
-- **Dice Pool:** Fury 3 + Melee 1 = 4d6
+- **Dice Pool:** Fury 3 + Weapon Mastery 1 = 4d6
 - **Damage:** 4 physical (Slashing)
 - **Special:** Can be used as a second action if the Frenzied Bite missed
 
@@ -873,7 +873,7 @@ Fledglings rush the closest target, prioritizing wounded PCs to chain their Bloo
 
 ## 1.16 Skeletal Archer
 
-**Type:** Undead (Mindless, Ranged)
+**Type:** Undead (Mindless, Weapon Mastery)
 **Threat Tier:** Minion (TV 0.25)
 
 ### Lore
@@ -888,13 +888,13 @@ Archers are more tactically valuable than their TV suggests; their positioning a
 - **Initiative:** 2
 - **Movement:** 25 feet (5 squares)
 - **Attributes:** Fury 1, Soul 0, Shadow 1, Will 0, Focus 2, Blood 0 (Immune to Blood-based effects)
-- **Skills:** Ranged 1
+- **Skills:** Weapon Mastery 1
 - **SE:** N/A | **BP:** N/A
 
 ### Attacks & Abilities
 
 **Shortbow** (Action)
-- **Dice Pool:** Focus 2 + Ranged 1 = 3d6
+- **Dice Pool:** Focus 2 + Weapon Mastery 1 = 3d6
 - **Damage:** 3 Piercing
 - **Range:** 60 feet (12 squares)
 - **Special:** Skeletal Archers can fire into melee without disadvantage (they lack the judgment to care)
@@ -915,7 +915,7 @@ Place Skeletal Archers in elevated positions, windows, or behind barricades. The
 - Bone material (raw material) — **Trade Value**: 1 supply
 
 ### Scaling Options
-- **Veteran Skeletal Archer (Standard, TV 1):** HP 10, DV 3, Focus 3, Ranged 2. Add Pinning Shot: on hit, DR 2 Blood save or target's movement is halved until end of next turn.
+- **Veteran Skeletal Archer (Standard, TV 1):** HP 10, DV 3, Focus 3, Weapon Mastery 2. Add Pinning Shot: on hit, DR 2 Blood save or target's movement is halved until end of next turn.
 - **Cursed Archer (Elite, TV 2):** HP 18, DV 3. Arrows deal 2 extra Necrotic damage and inflict Bleeding. Add Death's Aim: once per encounter, makes two arrow attacks with one action.
 
 ---
@@ -937,19 +937,19 @@ Vampire lords prize them as palace guards and tomb sentinels. They don't sleep, 
 - **Initiative:** 1
 - **Movement:** 25 feet (5 squares)
 - **Attributes:** Fury 2, Soul 0, Shadow 1, Will 1, Focus 1, Blood 0 (Immune to Blood-based effects)
-- **Skills:** Melee 2
+- **Skills:** Weapon Mastery 2
 - **SE:** N/A | **BP:** N/A
 
 ### Attacks & Abilities
 
 **Longsword** (Action)
-- **Dice Pool:** Fury 2 + Melee 2 = 4d6
+- **Dice Pool:** Fury 2 + Weapon Mastery 2 = 4d6
 - **Damage:** 5 physical (Slashing)
 
 **Shield Bash** (Bonus Action, requires Shield)
 - **Dice Pool:** Fury 2 = 2d6
 - **Damage:** 3 Bludgeoning
-- **Special:** On hit, target must make DR 2 Blood save or be Staggered (−1 die on next action)
+- **Special:** On hit, target must make DR 2 Blood save or be **Staggered** until the end of their next turn.
 
 ### Special Abilities
 
@@ -968,8 +968,8 @@ Skeletal Knights are the doorstep guardians of Nosgoth's dungeons. They hold cor
 - Bone material — **Trade Value**: 1 supply
 
 ### Scaling Options
-- **Knight-Commander (Elite, TV 2):** HP 22, DV 4, Armor 3, Fury 3, Will 2, Melee 3. Add **Rally the Dead (Action, 1/encounter):** All undead allies within 30 feet gain +1 die on attacks until end of the Knight-Commander's next turn.
-- **Deathguard Champion (Boss, TV 4):** HP 48, DV 5, Armor 4, Fury 4, Will 3. Add Legendary Resistance (1/day). Longsword deals 7 damage + Bleeding. Add Charge (2 actions): move up to 20 feet in a line; all creatures in path make DR 3 Blood save or take 5 damage and are knocked Prone.
+- **Knight-Commander (Elite, TV 2):** HP 22, DV 4, Armor 3, Fury 3, Will 2, Weapon Mastery 3. Add **Rally the Dead (Action, 1/encounter):** All undead allies within 30 feet gain +1 die on attacks until end of the Knight-Commander's next turn.
+- **Deathguard Champion (Boss, TV 4):** HP 48, DV 5, Armor 4, Fury 4, Will 3. Add Legendary Resistance (1/day). Longsword deals 7 damage + Bleeding. Add Athletics (2 actions): move up to 20 feet in a line; all creatures in path make DR 3 Blood save or take 5 damage and are knocked Prone.
 
 ---
 
@@ -1004,21 +1004,21 @@ Most Zealots barely understand the Fracture's true goals. They know they are par
 - **Initiative:** 3
 - **Movement:** 35 feet (7 squares)
 - **Attributes:** Fury 3, Soul 1, Shadow 2, Will 2, Focus 1, Blood 2
-- **Skills:** Melee (Fury): 3, Stealth (Shadow): 2, Athletics (Blood): 2
+- **Skills:** Weapon Mastery (Fury): 3, Stealth (Shadow): 2, Athletics (Blood): 2
 - **Soul Energy (SE):** 10
 - **Blood Points (BP):** 12
 
 ### Attacks & Abilities
 
 **Frenzied Claw** (Action)
-- **Dice Pool:** Fury 3 + Melee 3 = 6d6 vs DV
-- **Range:** Melee
+- **Dice Pool:** Fury 3 + Weapon Mastery 3 = 6d6 vs DV
+- **Range:** Weapon Mastery
 - **Damage:** 6 Physical (Slashing)
 - **Special:** On Critical Hit, target Bleeds (1 Physical damage per round until treated or a DR 1 Blood check is passed as an action).
 
 **Berserker Rush** (Action, 1/encounter)
-- **Dice Pool:** Fury 3 + Melee 3 = 6d6 vs DV
-- **Range:** Melee (move up to full speed before attacking)
+- **Dice Pool:** Fury 3 + Weapon Mastery 3 = 6d6 vs DV
+- **Range:** Weapon Mastery (move up to full speed before attacking)
 - **Damage:** 8 Physical (Impact)
 - **Special:** On hit, target is knocked back 10 feet.
 
@@ -1062,20 +1062,20 @@ The process is not without cost. Every Dimension-Walker bears the mark of their 
 - **Initiative:** 5
 - **Movement:** 35 feet (7 squares)
 - **Attributes:** Fury 3, Soul 3, Shadow 3, Will 3, Focus 2, Blood 3
-- **Skills:** Melee (Fury): 3, Spectral Lore (Soul): 3, Stealth (Shadow): 4, Athletics (Blood): 3
+- **Skills:** Weapon Mastery (Fury): 3, Spectral Navigation (Soul): 3, Stealth (Shadow): 4, Athletics (Blood): 3
 - **Soul Energy (SE):** 20
 - **Blood Points (BP):** 20
 
 ### Attacks & Abilities
 
 **Voidblade** (Action)
-- **Dice Pool:** Fury 3 + Melee 3 = 6d6 vs DV
-- **Range:** Melee
+- **Dice Pool:** Fury 3 + Weapon Mastery 3 = 6d6 vs DV
+- **Range:** Weapon Mastery
 - **Damage:** 8 Physical + 3 Spectral
 - **Special:** On Critical Hit, target must pass a DR 3 Will save or be Disoriented (Disadvantage on their next action roll).
 
 **Spectral Strike** (Action)
-- **Dice Pool:** Soul 3 + Spectral Lore 3 = 6d6 vs Will
+- **Dice Pool:** Soul 3 + Spectral Navigation 3 = 6d6 vs Will
 - **Range:** 30 feet
 - **Damage:** 7 Spectral
 - **Special:** Ignores non-magical Armor.
@@ -1094,7 +1094,7 @@ The Dimension-Walker opens combat behind the front line, using Realm Shift to ap
 **Encounter Design:** A pair of Dimension-Walkers flanking a Fracture Void-Touched creates one of the most disorienting encounters in Chapter 1 — the constant positional teleportation makes zone control nearly impossible.
 
 ### Loot
-- Dimension-shard amulet (spectral magic focus; +1 die on Spectral Lore checks; crumbles to dust in 1d6 weeks if not maintained with Fracture ritual oil) — **Trade Value:** 60 supplies
+- Dimension-shard amulet (spectral magic focus; +1 die on Spectral Navigation checks; crumbles to dust in 1d6 weeks if not maintained with Fracture ritual oil) — **Trade Value:** 60 supplies
 - Void-touched blood vial (component for spectral ward rituals; one use) — **Trade Value:** 40 supplies
 
 ### Scaling Options
@@ -1120,20 +1120,20 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 - **Initiative:** 4
 - **Movement:** 40 feet (8 squares)
 - **Attributes:** Fury 4, Soul 4, Shadow 3, Will 4, Focus 3, Blood 4
-- **Skills:** Melee (Fury): 4, Spectral Lore (Soul): 4, Command (Will): 4, Stealth (Shadow): 3, Athletics (Blood): 3
+- **Skills:** Weapon Mastery (Fury): 4, Spectral Navigation (Soul): 4, Tactics (Will): 4, Stealth (Shadow): 3, Athletics (Blood): 3
 - **Soul Energy (SE):** 30
 - **Blood Points (BP):** 28
 
 ### Attacks & Abilities
 
 **Void Rend** (Action)
-- **Dice Pool:** Fury 4 + Melee 4 = 8d6 vs DV
-- **Range:** Melee
+- **Dice Pool:** Fury 4 + Weapon Mastery 4 = 8d6 vs DV
+- **Range:** Weapon Mastery
 - **Damage:** 12 Physical + 5 Spectral
 - **Special:** On Critical Hit, target is *Phased* (can pass through solid objects but takes 3 Spectral damage at the start of each of their turns; lasts until they pass a DR 3 Will save as an action).
 
 **Reality Fracture** (Action, costs 8 SE)
-- **Dice Pool:** Soul 4 + Spectral Lore 4 = 8d6 vs Will (area)
+- **Dice Pool:** Soul 4 + Spectral Navigation 4 = 8d6 vs Will (area)
 - **Range:** 25-foot radius burst centered on the Void-Touched
 - **Damage:** 10 Physical + 8 Spectral
 - **Special:** Creatures who fail their save are Disoriented (Disadvantage on the next 2 action rolls). Half damage on successful save.
@@ -1155,7 +1155,7 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 
 ### Legendary Actions (2/round)
 - **Void Rend (1 action):** Make one Void Rend attack at half damage (6 Physical + 2 Spectral).
-- **Realm Pulse (1 action):** All creatures within 15 feet must pass a DR 3 Will save or be pushed 15 feet and Staggered (-1 die on next action).
+- **Realm Pulse (1 action):** All creatures within 15 feet must pass a DR 3 Will save or be pushed 15 feet and become **Staggered** until the end of their next turn.
 - **Summon Zealot (2 actions, 1/encounter):** One Fracture Zealot (TV 1) tears through a dimensional breach and arrives within 30 feet.
 
 ### Lair Action
@@ -1212,7 +1212,7 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 >
 > *Modify any vampire stat block:* +2 Blood, +1 Armor. Movement reduced by 5 feet (minimum 25 ft).
 >
-> **Earthshaker Strike** (Action, once per scene): The Dumahim drives its weapon or fist into the ground with seismic force. All creatures within 10 feet must pass a DR 3 Blood save or be knocked Prone and Staggered (-1 die on next action).
+> **Earthshaker Strike** (Action, once per scene): The Dumahim drives its weapon or fist into the ground with seismic force. All creatures within 10 feet must pass a DR 3 Blood save or be knocked **Prone** and become **Staggered** until the end of their next turn.
 >
 > *Weakness:* Dumahim are -1 die on initiative rolls — centuries of dormancy have slowed their reflexes slightly compared to other vampires.
 
@@ -1222,7 +1222,7 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 >
 > *Modify any vampire stat block:* +1 Shadow, +1 Focus.
 >
-> **Ceiling Drop** (Action, 1/encounter): If the Zephonim is clinging to a surface above its target, it drops onto them from height. The target must pass a DR 3 Blood save or take +6 Physical damage and be knocked Prone. This counts as an Ambush — the Zephonim's location is not revealed until impact.
+> **Ceiling Drop** (Action, 1/encounter): If the Zephonim is clinging to a surface above its target, it drops onto them from height. The target must pass a DR 3 Blood save or take +6 Physical damage and be knocked Prone. This counts as an Stealth — the Zephonim's location is not revealed until impact.
 >
 > *Weakness:* In open, unobstructed terrain, the Zephonim suffers -1 DV — their instincts are calibrated for vertical, enclosed spaces and they lose their positional advantage in the open.
 
@@ -1244,7 +1244,7 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 >
 > *Modify any vampire stat block:* +1 Blood, +1 Focus. Gain swim speed 40 ft and Amphibious (breathe underwater indefinitely).
 >
-> **Amphibious Lunge** (Action, when in water or wet terrain): The Rahabim moves at double speed through water and immediately makes an attack. If the target is not aquatic, they must pass a DR 2 Blood save or be Grappled (and pulled underwater if applicable).
+> **Amphibious Lunge** (Action, when in water or wet terrain): The Rahabim moves at double speed through water and immediately makes an attack. If the target is not aquatic, they must pass a DR 2 Blood save or be **Grappled**. If applicable, the Rahabim also pulls the target underwater.
 >
 > **Hydraulic Pressure** (Active, costs 3 SE, while submerged): All creatures within 15 feet of the Rahabim in water take 4 Force damage as it manipulates local water pressure.
 >
