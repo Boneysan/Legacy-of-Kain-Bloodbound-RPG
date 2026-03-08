@@ -66,7 +66,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 13 | **Font of Vitae** | +2 Max BP. Regain 1 BP on kill. | Passive |
 | 14 | **Relentless Predator** | Warpath ignores 2 Armor against Bloodied targets. Life Drain heals +1. | Passive |
 | 15 | **Crimson Terror** | Crimson Avatar causes Fear aura (Will vs Difficulty 3). | Passive |
-| 15 | *or* **Endless Hunger** | Life Drain triggers on every melee hit you make, not just the first hit each turn. When you kill an enemy, you also heal an additional 4 HP. | Passive |
+| 15 | *or* **Endless Hunger** | Life Drain triggers on every melee hit you make, not just the first hit each turn. When you kill an enemy, you also heal an additional 4 HP; this stacks with the Life Drain heal from that killing blow. | Passive |
 | 16 | **Unyielding Spirit** | Deathbound restores 10 HP. +1 die vs Stun/Paralysis. | Passive |
 | 17 | **Lord of the Feast** | Life Drain heals 100% of damage dealt while you are Bloodied. | Passive |
 | 18 | **Essence Thief** | Steal 1 BP or SE on melee hit (Will vs Difficulty 3). | Passive, 1/turn |
@@ -107,7 +107,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 12 | **Phase Mastery** | Shift Realms as a Bonus Action. No cost. | Passive |
 | 13 | **Spirit Rend** | Spectral Strike stuns target (Soul vs Diff 4). | Passive |
 | 14 | **Abyssal Anchor** | Prevent target from shifting realms/teleporting. | Reaction, 1 SE |
-| 15 | **Reaver’s Wrath** | +2 Dice to all Soul/Fury rolls for 1 min. | Action, 3 SE || 15 | *or* **Phase Anchor** | When you Phase Shift, you may target one adjacent unwilling creature. They must make a DR 3 Soul save or be pulled into your realm, take 4 Spectral damage, and suffer -1 die to all rolls. At the end of each of their turns, they may repeat the save; on a success, they return to their original realm with 0 movement remaining. Boss and Legendary creatures are immune. | Bonus Action (when Phase Shifting) || 16 | **Death’s Door** | Determine target’s exact HP and Resistances. | Bonus Action |
+| 15 | **Reaver’s Wrath** | +2 Dice to all Soul/Fury rolls for 1 min. | Action, 3 SE || 15 | *or* **Phase Anchor** | When you Phase Shift, you may target one adjacent unwilling creature. They must make a DR 3 Soul save or be pulled into your realm, take 4 Spectral damage, and suffer -1 die to all rolls. At the end of each of their turns, they may repeat the save; on a success, they return to their original realm with 0 movement remaining. See Chapter 11 for normal realm-affinity interaction limits while they remain there. Boss and Legendary creatures are immune. | Bonus Action (when Phase Shifting) || 16 | **Death’s Door** | Determine target’s exact HP and Resistances. | Bonus Action |
 | 17 | **Ethereal Assassin** | Attack from Spectral Realm without fully shifting. | Action, 2 SE |
 | 18 | **Soul Storm** | Spectral Nova deals 15 Spectral Dmg + Fear. | Action, 4 SE |
 | 19 | **Wraith Lord** | Permanent Resistance to Physical damage. | Passive |
@@ -309,7 +309,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 3 | **Balance Strike** | Deal Dmg equal to Soul; Dispel magic. | Action, 1 SE |
 | 4 | **Fate Align** | Allow an ally to reroll a failed die. | Reaction |
 | 5 | **Cycle Command** | Ally at 0 HP is restored to 1 HP. | Reaction, once per scene |
-| 5 | *or* **Judgment's Edge** | When an enemy within 30ft damages an ally, you may mark them with Fate's Condemnation until the end of the scene or until you hit them, whichever comes first. Your next attack against the marked target deals bonus damage equal to your Will and imposes Disadvantage on their next save. | Reaction, once per scene |
+| 5 | *or* **Judgment's Edge** | When an enemy within 30ft damages an ally, you may place Fate's Condemnation on them until the end of the scene or until you hit them, whichever comes first. Fate's Condemnation empowers your next attack against that target: it deals bonus damage equal to your Will and imposes Disadvantage on their next save. | Reaction, once per scene |
 | 6 | **Echo of Fate** | Reroll your own failed roll. | Reaction, once per scene |
 | 7 | **Zone of Judgment** | 15ft zone, enemies suffer -1 DV. | Action, 2 SE |
 | 8 | **Mark of Equilibrium** | Reduce damage taken by target by 2 until the start of your next turn. | Bonus Action |
