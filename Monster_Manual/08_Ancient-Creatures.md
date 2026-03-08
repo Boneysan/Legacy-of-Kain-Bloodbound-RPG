@@ -19,7 +19,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 **Type:** Huge Construct (Ancient, Stone)
 **Threat Tier:** Deadly (TV 16)
 
-### Statistics
+### Stats
 - **HP:** 220
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 8 (Runed Stone Plating)
@@ -34,7 +34,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 
 ---
 
-### Attacks & Abilities
+### Attacks
 
 **Stone-Hewer Fist (Basic Attack)**
 - Action: 1
@@ -48,8 +48,10 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 - Save: DR 4 Evasion save
 - Fail: 16 Force and pushed 15ft; Success: half, no push.
 
+### Abilities
+
 **Judgment Sigils (Passive)**
-- The Colossus marks up to 2 foes at the start of combat. Marked creatures have -1 DV vs its attacks; when a marked creature drops to 0 HP, the Colossus regains 15 Health.
+- The Colossus marks up to 2 foes at the start of combat. Marked creatures have -1 DV vs its attacks; when a marked creature drops to 0 HP, the Colossus regains 15 HP.
 
 **Siege Stride (Passive)**
 - Difficult terrain does not slow it; moving within 5ft of walls causes rubble (light cover zones) to form.
@@ -60,16 +62,16 @@ Legendary Actions (2 per round)
 
 ---
 
-### Lore & Tactics
+### Tactics
 - Built as a failsafe to guard relic vaults. Obeys ward-languages; clever PCs can display sigils to reduce aggression (DR 4 Glyphcasting check).
 - Fights to hold chokepoints, uses Shockwave to deny clustering.
 
-### Loot & Rewards
+### Loot
 - Heart-Runestone: Socket to grant +1 Armor and once/day Shockwave (minor) to a shield.
 - Vault Glyph Fragment: Clue to open nearby relic doors.
 
 ### Scaling Options
-- TV 18: Health 280; Armor 9; gains Legendary Resistance (1/day).
+- TV 18: HP 280; Armor 9; gains Legendary Resistance (1/day).
 
 ---
 
@@ -80,7 +82,7 @@ Legendary Actions (2 per round)
 **Type:** Large Construct (Ancient, Resonant)
 **Threat Tier:** Major (TV 12)
 
-### Statistics
+### Stats
 - **HP:** 95
 - **DV:** 6
 - **Armor:** 4 (Resonant Field)
@@ -95,7 +97,7 @@ Legendary Actions (2 per round)
 
 ---
 
-### Attacks & Abilities
+### Attacks
 
 **Harmonic Lance (Basic Attack)**
 - Action: 1
@@ -120,14 +122,14 @@ Legendary Actions (2 per round)
 
 ---
 
-### Lore & Tactics
+### Tactics
 - Was once a temple interpreter; now defends sacred timelines. Dislikes chaos magic.
 - Plays keep-away, debuffs key threats, and protects a chosen ally/guardian.
 
 ### Loot
 - Chime Key: One-use reroll for a failed check; rings audibly when fate twists.
 
-### Scaling
+### Scaling Options
 - TV 14: Shattering Chorus radius 30ft; Augury Veil grants +3 DV.
 
 ---
@@ -139,7 +141,7 @@ Legendary Actions (2 per round)
 **Type:** Gargantuan Beast (Ancient, Aquatic)
 **Threat Tier:** Deadly (TV 17)
 
-### Statistics
+### Stats
 - **HP:** 260
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 7 (Ossified Plates)
@@ -154,7 +156,7 @@ Legendary Actions (2 per round)
 
 ---
 
-### Attacks & Abilities
+### Attacks
 
 **Ruin-Crush Jaws (Basic Attack)**
 - Action: 1
@@ -180,15 +182,15 @@ Legendary Actions (2 per round)
 
 ---
 
-### Lore & Tactics
+### Tactics
 - Feeds on drowned tombs and silted vaults. Signs: slow currents against wind, hollow groans.
 - Ambushes from below, then relocates and collapses terrain.
 
 ### Loot
 - Leviathan Scale Mantle: Cloak granting Swim 20 and advantage vs forced movement in water.
 
-### Scaling
-- TV 20: Health 340; gains Legendary Resistance (2/day) and a third Legendary Action (Surge: Undertow as a bonus action).
+### Scaling Options
+- TV 20: HP 340; gains Legendary Resistance (2/day) and a third Legendary Action (Surge: Undertow as a bonus action).
 
 ---
 
@@ -199,7 +201,7 @@ Legendary Actions (2 per round)
 **Type:** Medium Spectral (Pillar-Bound)
 **Threat Tier:** High (TV 11)
 
-### Statistics
+### Stats
 - **HP:** 85
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** 2 (Spectral)
@@ -215,7 +217,7 @@ Legendary Actions (2 per round)
 
 ---
 
-### Attacks & Abilities
+### Attacks
 
 **Balance Lash (Basic Attack)**
 - Action: 1
@@ -232,12 +234,14 @@ Legendary Actions (2 per round)
 - Action: Bonus Action; Cost: 3 SE
 - Effect: Teleport 20ft to a space it can see.
 
+### Abilities
+
 **Anchored Guardian (Passive)**
-- The Shade cannot move more than 100ft from its Pillar shard. If the shard (Health 50, Armor 10) is destroyed, the Shade dissipates.
+- The Shade cannot move more than 100ft from its Pillar shard. If the shard (HP 50, Armor 10) is destroyed, the Shade dissipates.
 
 ---
 
-### Lore & Tactics
+### Tactics
 - A remnant enforcement spirit. Wards respond to proper rites (Glyphwright can parley, DR 4).
 - Hit-and-run striker, focuses on marked enemies and casters with resources.
 
@@ -257,7 +261,7 @@ Legendary Actions (2 per round)
 **Type:** Huge Plant (Ancient, Corrupted)
 **Threat Tier:** Deadly (TV 15)
 
-### Statistics
+### Stats
 - **HP:** 230
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 6 (Barkstone)
@@ -273,7 +277,7 @@ Legendary Actions (2 per round)
 
 ---
 
-### Attacks & Abilities
+### Attacks
 
 **Crushing Vines (Basic Attack)**
 - Action: 1
@@ -287,12 +291,14 @@ Legendary Actions (2 per round)
 - Save: DR 4 Evasion save
 - Fail: 14 Piercing and movement halved until end of next turn.
 
+### Abilities
+
 **Deep Root (Passive)**
-- Cannot be pushed/pulled while on natural ground. Regains 10 Health at start of its turn if in dense vegetation.
+- Cannot be pushed/pulled while on natural ground. Regains 10 HP at start of its turn if in dense vegetation.
 
 ---
 
-### Lore & Tactics
+### Tactics
 - Born where a great wrong stained the grove. Prefers ambush near brambles.
 - The Root-Entombed Horror is not merely a creature of the forest. Its roots extend deep enough to touch the corrupted ley lines that once fed the Pillars of Nosgoth. As the Pillars decayed, the magical runoff poisoned the earth, and the Horror is the result — a living tumor of corrupted Pillar energy given form. In areas where a Pillar once stood, these creatures are especially powerful and often serve as unwitting guardians of buried Pillar fragments.
 - Pins one foe and zones the rest with thorns.
@@ -318,7 +324,7 @@ It resembles no existing vampire species. Its silhouette is vaguely feline but w
 
 It is not intelligent. But it is *old*, and old things in Nosgoth have accumulated instincts that function like cunning. It knows how to wait, how to isolate, and how to feed efficiently. The last vampire who tried to claim dominion over a Blood Stalker was found as a significant pile of former lord several weeks later.
 
-### Statistics
+### Stats
 - **HP:** 185
 - **DV:** 6 (1 + Fury 5)
 - **Armor:** 2 (ancient vampiric hide)
@@ -328,7 +334,7 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 - **Skills:** Stealth 4, Athletics 3, Observation 3
 - **SE:** 40 | **BP:** 18
 
-### Attacks & Abilities
+### Attacks
 
 **Blood Rend** (Action)
 - **Dice Pool:** Fury 6 + Athletics 3 = 9d6
@@ -346,7 +352,7 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 - **Range:** 50-foot radius
 - **Effect:** All creatures in range must make DR 4 Will save or be **Frightened** for 3 rounds. Vampires, undead, and creatures with active Blood Points auto-fail this save (the Stalker's dominance overrides their undead instincts). The howl can be heard for a mile.
 
-### Special Abilities
+### Abilities
 
 **Blood Frenzy (Passive):** When the Stalker reduces a creature to 0 HP, it immediately regains 15 HP and may make one free Blood Rend as a Bonus Action against the nearest living creature. This bonus attack also triggers Blood Frenzy if it scores another kill (only once per turn total).
 
@@ -360,7 +366,7 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 - **Blood Rend (1 action):** Make one Blood Rend attack
 - **Ancient Lunge (2 actions):** Use Ancient Lunge (still costs 5 SE)
 
-### Tactics & Strategy
+### Tactics
 The Blood Stalker opens from Stealth, using Ancient Lunge to Pin the most armored PC (to disable them) before switching attention to the softest target for maximum Blood Drain efficiency. Primal Howl triggers when 3+ PCs are clustered. It maintains Blood Frenzy chains by targeting vulnerable targets. If reduced below 90 HP, it begins targeting healers.
 
 **Encounter Design:** A solo Blood Stalker (TV 13) makes an excellent dungeon-climax encounter in a deep ancient ruin. Pair with 2 Vampiric Fledglings (TV 1 each) that serve as distraction-food for the party's AoE while the Stalker picks off isolated targets.
@@ -388,7 +394,7 @@ A Pillar-Decay Sentinel was once a Pillar Guardian-construct: a massive entity o
 
 The result is a construct made of cracked, blackened Pillar stone with corruption energy visible in the fractures like blood in broken skin. Its attacks corrupt rather than defend. Its presence drains the magical of those nearby rather than empowering them. It is a Pillar guardian that has become what it was built to resist.
 
-### Statistics
+### Stats
 - **HP:** 175
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 3 (decayed Pillar stone)
@@ -398,7 +404,7 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 - **Skills:** Forbidden Knowledge 4, Glyphcasting 3, Intimidation 3
 - **SE:** 60
 
-### Attacks & Abilities
+### Attacks
 
 **Decay Touch** (Action)
 - **Dice Pool:** Soul 6 + Forbidden Knowledge 4 = 10d6
@@ -417,7 +423,7 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 - **Range:** 30-foot radius
 - **Effect:** All living creatures in range make DR 4 Will save or immediately gain **2 Corruption points**. No damage — pure Corruption burst.
 
-### Special Abilities
+### Abilities
 
 **Corruption Aura (Passive, 10 feet):** Creatures who begin their turn within 10 feet must make DR 3 Blood save or gain **1 Corruption point**. This aura cannot be disabled by silencing magic (it is a physical emanation, not a magical broadcast).
 
@@ -427,7 +433,7 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 
 **Legendary Resistance (2/day):** If the Sentinel fails a save, it can choose to succeed instead.
 
-### Tactics & Strategy
+### Tactics
 The Sentinel advances slowly, using Corruption Aura to force the party to spread out. It targets magical weapon-users with Decay Touch to degrade their equipment. Pillar Shard Barrage is used against clusters of 3+ PCs. Corruption Pulse triggers at half HP — this is a design intent, not a desperation move; the Sentinel is deadliest in the final half of the fight when Corruption points begin cascading into Corruption effects.
 
 **Key Counter:** The Sentinel's weakness is ranged damage from pure physical sources (nonmagical weapons deal full physical damage without triggering Corruption Aura on the attacker, and its DV 6 still applies but its armor is mediocre at 3). Soul-based attacks bypass its Armor 3 entirely. Groups who focus on ranged Soul damage clear it efficiently.
@@ -453,7 +459,7 @@ Living Wards are the apex of the ancient construct-builder's art: not merely mec
 
 They manifest as large geometric constructs of light and pale stone, roughly humanoid but with multiple extra "arms" that are actually defensive projection arrays. Their purpose is reactive rather than offensive: they maintain defenses, neutralize spells, and exist as the final line of arcane protection. An ancient library guarded by a Living Ward is a library that has survived ten thousand years of magical warfare, political upheaval, and deliberate destruction — because every attack on it was answered by something that didn't get tired, didn't run out of mana, and could not be intimidated.
 
-### Statistics
+### Stats
 - **HP:** 160
 - **DV:** 6 (1 + Soul 5)
 - **Armor:** 2 (enchanted stone frame)
@@ -463,7 +469,7 @@ They manifest as large geometric constructs of light and pale stone, roughly hum
 - **Skills:** Glyphcasting 4, Forbidden Knowledge 4, Observation 3
 - **SE:** 50
 
-### Attacks & Abilities
+### Attacks
 
 **Arcane Discharge** (Action)
 - **Dice Pool:** Soul 5 + Glyphcasting 4 = 9d6
@@ -480,7 +486,7 @@ They manifest as large geometric constructs of light and pale stone, roughly hum
 - **Effect:** The caster makes a DR 4 Will save. On a failure, the spell or magical ability is countered — the SE is still spent but no effect occurs. This is explicitly a counter-magic ability, not damage.
 - **Limit:** Can be used once per round regardless of trigger count.
 
-### Special Abilities
+### Abilities
 
 **Arcane Resilience (Passive):** Immune to all magical status effects (Frightened, Charmed, Confused, Paralyzed, etc. caused by magical sources). Resistant to Soul and Arcane damage (takes half).
 
@@ -492,7 +498,7 @@ They manifest as large geometric constructs of light and pale stone, roughly hum
 
 **Legendary Resistance (2/day):** If the Ward fails a save, it can choose to succeed instead.
 
-### Tactics & Strategy
+### Tactics
 The Living Ward prioritizes Counter-Glyph against every ability the party uses — this creates immediate pressure on SE-spending decisions. Ward Nullify is used when the party has activated 2+ powerful effects simultaneously (a summoned creature + ongoing spell, for example). Arcane Discharge punishes anyone in the open at range. The Ward doesn't move unless its protected location is being approached; it fights from the optimal position for its Ward Lattice to benefit any mechanical allies also guarding the vault.
 
 **Encounter Design:** A Living Ward (TV 11) + 2 Pillar-Stone Golems (TV 10 each) creates a TV ~17 encounter — a genuine Deadly encounter for high-level groups protecting an ancient vault. The Ward's Counter-Glyph neutralizes caster offense while the Golems absorb physical damage. Parties must choose to neutralize the Ward first (risky, as it has answers) or the Golems first (freeing the Ward to counter everything).

@@ -4,6 +4,8 @@
 
 This chapter covers denizens of the Spectral Realm—wraiths, shades, echoes, and entities that exist in the space between Material and immaterial. These creatures phase through walls, ignore Physical Armor, and drain the very essence of living beings.
 
+This chapter now uses final absolute TV values aligned to each entry's intended level band.
+
 ---
 
 ## 2.1 Understanding Spectral Creatures
@@ -41,12 +43,13 @@ Most spectral entities share:
 ## 2.2 Echo Serpent
 
 **Type:** Spectral Beast  
-**Threat Tier:** Standard (TV 1)
+**Threat Tier:** Standard (TV 5)
+**Recommended Levels:** 4-6
 
 ### Lore
 Echo Serpents are the spectral remnants of great serpents that died in places of power. They slither through the Spectral Realm hunting souls and occasionally manifest in the Material world to feed on the living. Their bodies flicker between states, making them difficult to target.
 
-### Statistics
+### Stats
 - **HP:** 20
 - **DV:** 4 (1 + Shadow 3)
 - **Armor:** Special (Incorporeal)
@@ -68,7 +71,7 @@ Echo Serpents are the spectral remnants of great serpents that died in places of
 **Phase Strike** (Bonus Action)
 - **Effect:** Become fully incorporeal until start of next turn. Gain +2 DV, can move through creatures and objects freely.
 
-### Special Abilities
+### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons and spells affect normally.
 
 **Spectral Nature:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease.
@@ -91,12 +94,13 @@ Uses Phase Strike to approach through walls. Attacks isolated targets with Spect
 ## 2.3 Mirror Wraith
 
 **Type:** Spectral Undead (Intelligent)  
-**Threat Tier:** Elite (TV 2)
+**Threat Tier:** Elite (TV 7)
+**Recommended Levels:** 5-9
 
 ### Lore
 Mirror Wraiths are souls trapped between realms, their identities fractured like shattered glass. They appear as distorted reflections of their victims, mimicking their appearance while draining their essence. Some were created by the Elder God as hunters, others are simply lost souls driven mad by their half-existence.
 
-### Statistics
+### Stats
 - **HP:** 32
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** Special (Incorporeal)
@@ -123,7 +127,7 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 - **Damage:** 8 Soul damage
 - **Special:** Creates spectral copy of target that attacks them next turn. Copy has stats identical to target but only 10 HP. Lasts 3 rounds or until destroyed.
 
-### Special Abilities
+### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons and spells affect normally.
 
 **Spectral Nature:** Cannot be grappled, restrained, prone. Immune to poison, disease, charm.
@@ -152,12 +156,13 @@ Opens with Identity Theft on strongest party member to sow chaos. Creates Life E
 ## 2.4 Soul-Eater Shade
 
 **Type:** Spectral Predator  
-**Threat Tier:** Standard (TV 1)
+**Threat Tier:** Standard (TV 4)
+**Recommended Levels:** 2-6
 
 ### Lore
 Soul-Eater Shades are manifestations of pure hunger from the Spectral Realm. They exist only to consume soul energy, growing more powerful with each victim. The Elder God uses them as harvesters, gathering souls for the Wheel of Fate.
 
-### Statistics
+### Stats
 - **HP:** 24
 - **DV:** 4 (1 + Shadow 3)
 - **Armor:** Special (Incorporeal)
@@ -182,7 +187,7 @@ Soul-Eater Shades are manifestations of pure hunger from the Spectral Realm. The
 - **Damage:** 5 Soul damage to all creatures in area
 - **Special:** No attack roll, automatic damage. Shade regains HP equal to half total damage dealt.
 
-### Special Abilities
+### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
 
 **Spectral Nature:** Immune to physical conditions, poison, disease.
@@ -205,12 +210,13 @@ Relentlessly pursues highest SE/Soul value target. Uses Soul Rend repeatedly, re
 ## 2.5 Shimmering Howler
 
 **Type:** Spectral Beast (Pack Hunter)  
-**Threat Tier:** Minion (TV 0.25)
+**Threat Tier:** Minion (TV 2)
+**Recommended Levels:** 1-3
 
 ### Lore
 Spectral wolves that hunt in packs across the Material and Spectral Realms. Their mournful howls cause terror and disorientation, while their pack tactics overwhelm isolated prey.
 
-### Statistics
+### Stats
 - **HP:** 12
 - **DV:** 3 (1 + Shadow 2)
 - **Armor:** Special (Incorporeal)
@@ -229,7 +235,7 @@ Spectral wolves that hunt in packs across the Material and Spectral Realms. Thei
 - **Range:** 30 feet (6 squares)
 - **Effect:** All enemies in range must make DR 2 Will save or have disadvantage on attack rolls until end of next turn
 
-### Special Abilities
+### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
 
 **Tactics:** Advantage on attacks if ally is adjacent to target.
@@ -241,7 +247,7 @@ Spectral wolves that hunt in packs across the Material and Spectral Realms. Thei
 ### Tactics
 Always travel in packs of 4-6. One Howler uses Disorienting Howl while others surround and attack isolated target. Chase fleeing prey relentlessly.
 
-#### Loot
+### Loot
 - **Howler's Echo Crystal:** A small, shimmering stone that hums faintly. Can be used to amplify sound-based abilities (+1 die to sonic attacks) or sold for 5 supplies.
 - **Spectral Residue (1 dose):** Alchemical component for ghostly wards.
 
@@ -250,12 +256,13 @@ Always travel in packs of 4-6. One Howler uses Disorienting Howl while others su
 ## 2.6 Silent Mourner
 
 **Type:** Spectral Spirit (Bound Soul)  
-**Threat Tier:** Standard (TV 1)
+**Threat Tier:** Standard (TV 4)
+**Recommended Levels:** 2-6
 
 ### Lore
 Silent Mourners are souls bound to places of great tragedy—battlefields, execution grounds, sites of betrayal. They cannot speak, only weep silently, but their grief is so profound it manifests as deadly force. They attack anyone who disturbs their mourning.
 
-### Statistics
+### Stats
 - **HP:** 26
 - **DV:** 4 (1 + Will 3)
 - **Armor:** Special (Incorporeal)
@@ -279,7 +286,7 @@ Silent Mourners are souls bound to places of great tragedy—battlefields, execu
 - **Range:** 30 feet (6 squares)
 - **Effect:** Target must make DR 2 Will save or become Restrained by spectral chains. Takes 3 Soul damage at start of each turn while Restrained. Can attempt DR 3 Blood or Will save to break free as Action.
 
-### Special Abilities
+### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
 
 **Bound to Tragedy:** Cannot move more than 100 feet from site of its death/trauma.
@@ -303,12 +310,13 @@ Remains near its bound location. Uses Aura of Sorrow to wear down enemies passiv
 ## 2.7 Phase-Beast
 
 **Type:** Spectral Aberration  
-**Threat Tier:** Elite (TV 2)
+**Threat Tier:** Elite (TV 8)
+**Recommended Levels:** 6-10
 
 ### Lore
 Phase-Beasts are creatures native to the space between realms—neither fully Material nor Spectral. They shift between states unpredictably, making them extremely difficult to fight. Scholars debate whether they're experiments of the Hylden or natural predators of planar boundaries.
 
-### Statistics
+### Stats
 - **HP:** 40
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** Special (Variable)
@@ -332,7 +340,7 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 **Blink Strike** (Action, Recharge 5-6)
 - **Effect:** Teleport up to 60 feet (12 squares), make Phase Claws attack, teleport back to original position. Cannot be targeted by opportunity attacks.
 
-### Special Abilities
+### Abilities
 **Phase Shift:** At start of each of its turns, roll 1d6:
 - **1-2:** Fully Material (vulnerable to physical damage, immune to spectral attacks, has Armor 2)
 - **3-4:** Partially phased (resistant to all damage, takes half from everything)
@@ -362,12 +370,13 @@ Uses unpredictable Phase Shift to confound enemies. Employs Blink Strike to atta
 ## 2.8 Gravewind Entity
 
 **Type:** Spectral Elemental  
-**Threat Tier:** Boss (TV 4)
+**Threat Tier:** Boss (TV 13)
+**Recommended Levels:** 11-15
 
 ### Lore
 Gravewind Entities are ancient spirits of wind and death, formed in places where countless souls passed violently into the Spectral Realm. They are living storms of spectral energy, carrying the screams and regrets of thousands. Some believe they are servants of the Elder God, harvesting souls en masse.
 
-### Statistics
+### Stats
 - **HP:** 75
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** Special (Incorporeal + Resistant)
@@ -395,7 +404,7 @@ Gravewind Entities are ancient spirits of wind and death, formed in places where
 **Possess Corpse** (Action, requires nearby corpse)
 - **Effect:** Animate corpse as zombie under Entity's control. Zombie has 20 HP, DV 2, and attacks for 5 physical damage. Can control up to 3 zombies simultaneously.
 
-### Special Abilities
+### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
 
 **Elemental Nature:** Immune to poison, disease, exhaustion, charm, fear, paralysis.
@@ -432,7 +441,8 @@ Opens with Spectral Storm to thin ranks, then uses Gravewind Vortex to cluster e
 ## 2.9 Sluagh (Spectral Carrion-Feeder)
 
 **Type:** Spectral Swarm
-**Threat Tier:** Standard (single) / Elite (swarm of 3–5) (TV 1 (single), 3 (swarm))
+**Threat Tier:** Standard (single, TV 3) / Elite (swarm of 3–5, TV 8)
+**Recommended Levels:** 1-4 (single), 5-9 (swarm)
 
 ### Lore
 The Sluagh are the carrion-feeders of the Spectral Realm—scavengers that devour the residue of spent souls, broken memories, and the detritus left behind when wraiths Fade or spectral creatures are destroyed. They resemble emaciated, hunched figures with too-long arms and hollow, lightless eyes, their forms perpetually trailing wisps of grey mist. They are not intelligent in any meaningful sense, but they are *patient* and *numerous*.
@@ -459,7 +469,7 @@ In the Legacy of Kain canon, the Sluagh haunt the spaces between meaningful afte
 **Feeding Frenzy** (Bonus Action, only usable when target is Bloodied or has 0 SE)
 - **Effect:** The Sluagh latches onto the target. At the start of each of the target's turns, they take 3 Soul damage and lose 1 SE. Escape requires a DR 2 Will save as an Action. Other Sluagh within 30 ft are drawn to the target, gaining +1 to their next attack roll against them.
 
-### Special Abilities
+### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons, Spectral damage, and Soul-based effects work normally.
 
 **Spectral Nature:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease, Frightened.
@@ -486,9 +496,9 @@ Sluagh lurk at the edges of combat, waiting for someone to weaken. They do not i
 - Carrion essence (harvestable with DR 2 Rituals check) – Trade Value: 15 supplies; can be used to create Sluagh lures or repellents
 
 ### Scaling Options
-**Elder Sluagh** (Elite, TV 2): +15 HP, increase Soul to 3 and Shadow to 3. Carrion Grasp deals 6 Soul damage and drains 2 SE. Add "Devour Echo" ability (Action, 1/encounter): consume a single memory, enchantment, or ward within 10 ft, permanently destroying it. This can strip a Wraith's anchor if they fail a DR 3 Will save.
+**Elder Sluagh** (Elite, TV 6): +15 HP, increase Soul to 3 and Shadow to 3. Carrion Grasp deals 6 Soul damage and drains 2 SE. Add "Devour Echo" ability (Action, 1/encounter): consume a single memory, enchantment, or ward within 10 ft, permanently destroying it. This can strip a Wraith's anchor if they fail a DR 3 Will save.
 
-**Sluagh Tide** (Boss encounter, TV 5): A swarm of 8+ Sluagh acting as a single entity. HP 60, DV 4, Armor 0 (Incorporeal). Attacks all creatures in a 20 ft radius for 6 Soul damage + 2 SE drain. The Tide is attracted by any use of Soul-based abilities within 200 ft and arrives 1d4 rounds later. It cannot be reasoned with, frightened, or Radiant-banished. It can only be outrun, outwaited (it disperses after 10 rounds without feeding), or destroyed through concentrated Spectral or magical damage.
+**Sluagh Tide** (Boss encounter, TV 12): A swarm of 8+ Sluagh acting as a single entity. HP 60, DV 4, Armor 0 (Incorporeal). Attacks all creatures in a 20 ft radius for 6 Soul damage + 2 SE drain. The Tide is attracted by any use of Soul-based abilities within 200 ft and arrives 1d4 rounds later. It cannot be reasoned with, frightened, or Radiant-banished. It can only be outrun, outwaited (it disperses after 10 rounds without feeding), or destroyed through concentrated Spectral or magical damage.
 
 ---
 
@@ -573,7 +583,8 @@ A Gravewind Entity terrorizes the countryside, growing stronger with each soul i
 ## 2.12 Wraith of the Abyss
 
 **Type:** Spectral Aberration (Abyssal)  
-**Threat Tier:** Elite (Strong) (TV 3)
+**Threat Tier:** Elite (Strong) (TV 9)
+**Recommended Levels:** 7-11
 
 ### Lore
 Wraiths of the Abyss are not merely dead souls — they are souls that fell *through* death into something worse. When the Spectral Realm's cycle of reincarnation breaks down (near corrupted Pillars, in areas where the Elder God's influence wanes, or at sites of massive soul-expenditure), some spirits plunge into the Abyss — the lightless void beneath the Spectral Realm where even wraiths fear to tread.
@@ -582,7 +593,7 @@ What returns is changed. Wraiths of the Abyss carry the cold of absolute nothing
 
 In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he was reborn. Wraiths of the Abyss may be echoes of that event — souls caught in the wake of Raziel's fall, forever tumbling through the space between existence and oblivion.
 
-### Statistics
+### Stats
 - **HP:** 50
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** Special (Incorporeal — immune to nonmagical physical attacks; resistant to Fire, Cold, Lightning — half damage)
@@ -612,7 +623,7 @@ In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he wa
 - **Damage:** 6 Soul damage
 - **Special:** The Wraith regains HP equal to damage dealt. If this kills the target, the Wraith gains 10 temporary HP.
 
-### Special Abilities
+### Abilities
 
 **Incorporeal:** Immune to nonmagical physical attacks. Can move through solid objects and creatures; takes 5 Force damage if it ends its turn inside a solid object.
 
@@ -637,7 +648,7 @@ The Wraith of the Abyss is a patient predator. It uses Phase Shift to stalk the 
 
 **Key Weakness:** The Wraith is vulnerable to Radiant damage (full damage, ignores Incorporeal — pure holy light reaches even the Abyss). Magical weapons can hit it normally. Abilities that restore SE to allies counteract its drain strategy.
 
-**Encounter Design:** A single Wraith of the Abyss makes an excellent solo encounter for a mid-level party (TV 3). Pair with 2–3 Soul-Eater Shades (TV 1 each) for a harrowing spectral ambush at TV 5–6. Place the encounter near a corrupted Pillar site or in the deep Spectral Realm for maximum thematic impact.
+**Encounter Design:** A single Wraith of the Abyss makes an excellent solo encounter for a mid-level party (TV 9). Pair with 2–3 Soul-Eater Shades (TV 4 each) for a harrowing spectral ambush at TV 17–21. Place the encounter near a corrupted Pillar site or in the deep Spectral Realm for maximum thematic impact.
 
 ### Loot
 - Abyssal essence (crystallized void energy, dark purple crystal) — **Trade Value:** 100 supplies, used in Spectral Realm rituals or anti-divination wards
@@ -645,8 +656,8 @@ The Wraith of the Abyss is a patient predator. It uses Phase Shift to stalk the 
 - Memory shard (contains fragmented memories of the Wraith's former life — potential plot hook linking to Raziel's fall or the Abyss) — **Trade Value:** Varies
 
 ### Scaling Options
-- **Lesser Abyssal Shade (Standard, TV 1):** HP 22, DV 4, Soul 3, no Phase Shift or Void Scream. Remove Abyssal Resilience.
-- **Abyssal Revenant (Boss, TV 4):** HP 68, DV 6, Soul 6, Unarmed Combat 3. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Abyss Touch (1), Void Scream (2). Add "Abyssal Gate" (1/encounter): opens a portal to the Abyss in a 15-foot radius — all creatures in the area must make DR 4 Will save or be pulled into the Spectral Realm until the end of their next turn.
+- **Lesser Abyssal Shade (Standard, TV 5):** HP 22, DV 4, Soul 3, no Phase Shift or Void Scream. Remove Abyssal Resilience.
+- **Abyssal Revenant (Boss, TV 13):** HP 68, DV 6, Soul 6, Unarmed Combat 3. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Abyss Touch (1), Void Scream (2). Add "Abyssal Gate" (1/encounter): opens a portal to the Abyss in a 15-foot radius — all creatures in the area must make DR 4 Will save or be pulled into the Spectral Realm until the end of their next turn.
 
 ---
 
@@ -657,14 +668,15 @@ The Wraith of the Abyss is a patient predator. It uses Phase Shift to stalk the 
 ## 2.13 Lingering Shade
 
 **Type:** Spectral (Remnant, Mindless)
-**Threat Tier:** Minion (TV 0.25)
+**Threat Tier:** Minion (TV 2)
+**Recommended Levels:** 1-3
 
 ### Lore
 Lingering Shades are the simplest form of spectral entity: souls that refused to travel to the Wheel of Fate, but lacked the strength or identity to become true wraiths. They drift through places of death — old battlefields, plague pits, and the sites of terrible violence — drawn to warmth and life the way a moth is drawn to flame.
 
 They possess no intelligence beyond a dim awareness of the living. They don't plan, they don't flee, and they don't communicate. They simply drift, chill the air around them, and drain the life from anything foolish enough to stand still near them. In Legacy of Kain's Spectral Realm, armies of these dim remnants haunt corridors that true wraiths have long since abandoned. They are the noise floor of undeath.
 
-### Statistics
+### Stats
 - **HP:** 6
 - **DV:** 3 (1 + Shadow 2)
 - **Armor:** Special (Incorporeal — immune to nonmagical physical attacks)
@@ -674,7 +686,7 @@ They possess no intelligence beyond a dim awareness of the living. They don't pl
 - **Skills:** None
 - **SE:** N/A | **BP:** N/A
 
-### Attacks & Abilities
+### Attacks
 
 **Chill Touch** (Action)
 - **Dice Pool:** Soul 1 + Shadow 2 = 3d6 vs Will
@@ -682,7 +694,7 @@ They possess no intelligence beyond a dim awareness of the living. They don't pl
 - **Damage:** 3 Soul damage (cold, ignores Physical Armor)
 - **Special:** On hit, target cannot regain HP until the start of their next turn
 
-### Special Abilities
+### Abilities
 
 **Incorporeal:** Immune to nonmagical physical attacks and all physical conditions (Grappled, Prone, Restrained). Magical weapons and Soul-based attacks hit normally.
 
@@ -692,7 +704,7 @@ They possess no intelligence beyond a dim awareness of the living. They don't pl
 
 **Dispelled by Light:** When exposed to bright light (torch, magical illumination, sunlit areas), the Shade has −2 dice on all actions. A Radiant attack that reduces it to 0 HP destroys it permanently rather than simply dispersing it.
 
-### Tactics & Strategy
+### Tactics
 Lingering Shades do not fight tactically. They drift toward the nearest warm creature and brush against them repeatedly. In groups of 6–10, their Cold Presence auras and HP-blocking Chill Touches create serious attrition. Use them to soft-lock healing in areas where the party needs to rest. A single Shade is a nuisance; a corridor of twenty is a test of endurance.
 
 ### Loot
@@ -700,15 +712,16 @@ Lingering Shades do not fight tactically. They drift toward the nearest warm cre
 - Occasional memory fragment (flicker of the soul's last thought; usually meaningless, occasionally a clue) — **Trade Value**: varies (plot hook)
 
 ### Scaling Options
-- **Whispering Shade (Minion, TV 0.5):** HP 10, DV 3, Soul 2. Add Whisper of Despair (1/encounter): target makes DR 2 Will save or loses their Reaction until end of next turn.
-- **Shade Cluster (Elite, TV 2):** Three Lingering Shades fused into one entity. HP 22, DV 4. Cold Presence radius 15 feet. Splits into 2 standard Lingering Shades when reduced to 0 HP.
+- **Whispering Shade (Minion, TV 3):** HP 10, DV 3, Soul 2. Add Whisper of Despair (1/encounter): target makes DR 2 Will save or loses their Reaction until end of next turn.
+- **Shade Cluster (Elite, TV 6):** Three Lingering Shades fused into one entity. HP 22, DV 4. Cold Presence radius 15 feet. Splits into 2 standard Lingering Shades when reduced to 0 HP.
 
 ---
 
 ## 2.14 Spectral Arcanist
 
 **Type:** Spectral (Intelligent, Spellcaster)
-**Threat Tier:** Elite (TV 2)
+**Threat Tier:** Elite (TV 7)
+**Recommended Levels:** 5-9
 
 ### Lore
 Spectral Arcanists are the ghosts of sorcerers, scholars, and Circle-adjacent magicians who died with their knowledge intact. Unlike Lingering Shades, they retain full intellect — and full bitterness. They remember every spell they ever cast, every theory they ever proved, and they have an eternity to practice in the spectral silence.
@@ -717,7 +730,7 @@ Most Arcanists become territorial. They adopt a location — a library, a ruined
 
 They are dangerous combatants: range, a powerful drain ability, and enough spectral resilience to absorb significant punishment.
 
-### Statistics
+### Stats
 - **HP:** 30
 - **DV:** 5 (1 + Soul 4)
 - **Armor:** Special (Incorporeal — immune to nonmagical physical attacks; resistant to Fire and Cold — half damage)
@@ -727,7 +740,7 @@ They are dangerous combatants: range, a powerful drain ability, and enough spect
 - **Skills:** Glyphcasting 3, Observation 2, Stealth 2
 - **SE:** 22
 
-### Attacks & Abilities
+### Attacks
 
 **Soul Bolt** (Action)
 - **Dice Pool:** Soul 4 + Glyphcasting 3 = 7d6
@@ -747,7 +760,7 @@ They are dangerous combatants: range, a powerful drain ability, and enough spect
 - **Damage:** 10 Soul damage to all targets in range
 - **Save:** DR 3 Will save to halve damage and avoid SE loss (save: 1 SE lost; fail: 3 SE lost)
 
-### Special Abilities
+### Abilities
 
 **Incorporeal:** Immune to nonmagical physical attacks. Can move through solid objects; takes 5 Force damage if ending turn inside solid matter.
 
@@ -757,10 +770,10 @@ They are dangerous combatants: range, a powerful drain ability, and enough spect
 
 **Library Guardian (Passive):** If the Arcanist is defending a specific location it has claimed as its territory, it gains +1 die on all rolls while within that location. It knows every inch of the space and cannot be flanked inside it.
 
-### Tactics & Strategy
+### Tactics
 The Arcanist maintains distance, opening with Soul Bolt spam and Arcane Drain against SE-dependent characters (casters, vampires). It saves Spectral Missile Barrage for when clustered PCs offer a good target. Ectoplasmic Shield is used reactively to protect against the party's best attacker. It will retreat through walls if cornered — treat this as a repositioning action, not a retreat; it reappears at range on its next turn.
 
-**Encounter Design:** A Spectral Arcanist guarding a ruined tower pairs well with 4–6 Lingering Shades as interference. The combined TV of ~4 creates a tough mid-tier encounter where resource management (especially SE) determines success.
+**Encounter Design:** A Spectral Arcanist guarding a ruined tower pairs well with 4–6 Lingering Shades (TV 2 each) as interference. The combined TV of 15–19 creates a tough mid-tier encounter where resource management (especially SE) determines success.
 
 ### Loot
 - Spectral tome (intangible, but a clever caster can copy its contents with a Focus + Glyphcasting DR 3 ritual) — **Trade Value**: 40-60 supplies (or story item)
@@ -768,8 +781,8 @@ The Arcanist maintains distance, opening with Soul Bolt spam and Arcane Drain ag
 - Forbidden Knowledge fragment (one piece of arcane knowledge the Arcanist retained; GM-determined) — **Trade Value**: varies
 
 ### Scaling Options
-- **Arcanist Apprentice (Standard, TV 1):** HP 18, DV 4, Soul 3, Glyphcasting 1, SE 10. Loses Spectral Missile Barrage and Ectoplasmic Shield. Dangerous mainly due to Arcane Drain snowball.
-- **Grand Arcanist (Boss, TV 4):** HP 55, DV 6, Soul 6, Glyphcasting 4, SE 36. Add Legendary Resistance (1/day) and 2 Legendary Actions: Soul Bolt (1), Arcane Drain (2). Gains Time Dilation (1/encounter): after resolving Spectral Missile Barrage, the Arcanist may immediately Move and use Soul Bolt or Arcane Drain. This does not refresh reactions, Recharge rolls, or Legendary Actions.
+- **Arcanist Apprentice (Standard, TV 4):** HP 18, DV 4, Soul 3, Glyphcasting 1, SE 10. Loses Spectral Missile Barrage and Ectoplasmic Shield. Dangerous mainly due to Arcane Drain snowball.
+- **Grand Arcanist (Boss, TV 11):** HP 55, DV 6, Soul 6, Glyphcasting 4, SE 36. Add Legendary Resistance (1/day) and 2 Legendary Actions: Soul Bolt (1), Arcane Drain (2). Gains Time Dilation (1/encounter): after resolving Spectral Missile Barrage, the Arcanist may immediately Move and use Soul Bolt or Arcane Drain. This does not refresh reactions, Recharge rolls, or Legendary Actions.
 
 ---
 

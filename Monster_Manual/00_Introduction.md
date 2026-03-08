@@ -34,7 +34,7 @@ Each creature is categorized by threat level, which corresponds to the Threat Va
 
 Threat tiers are descriptive benchmark bands. **The printed TV on a creature is always its final encounter-budget contribution.** If a stat block says `TV 3`, add `3` to the encounter total. If it says `TV 16`, add `16`.
 
-Early chapters often use benchmark values such as `0.25`, `1`, `2`, and `4` directly. Later chapters and unique creatures often print larger absolute TVs because they are already scaled, bespoke threats.
+Chapters 1-9 now print fully converted absolute TVs aligned to their intended level bands.
 
 **Calculating Encounter TV:**
 - Party TV = Sum of all PC levels
@@ -99,14 +99,13 @@ Each creature entry includes:
 
 **Name & Classification**
 - **Type:** Undead, Aberration, Beast, etc.
-- **Threat Tier:** Minion, Standard, Elite, Boss, or Legendary
-- **Threat Value (TV):** Numeric value for encounter balancing
+- **Threat Tier:** Minion, Standard, Elite, Boss, or Legendary, with the printed encounter-budget TV shown in parentheses
 
 **Lore & Behavior**
 Brief description of the creature's nature, origins, and role in Nosgoth.
 
 **Statistics**
-- **HP / Health:** Hit Points (some chapters label this as Health)
+- **HP:** Hit Points
 - **DV:** Defense Value (calculated as 1 + higher of Shadow or Will). The DV hard cap from base stats is **6**. No creature's innate DV exceeds 6. Effective DV may be raised above 6 through armor bonuses, magical effects, lair actions, or reactions, but the base stat block DV line should never read higher than 6.
 
 > **DV Cap & Scaling Note:** The GM Guide's homebrew formulas may produce projected DV values above 6 for Elite and Boss creatures aimed at higher-level parties. This is intentional — those formulas describe *effective* DV (base + armor + reactions + lair bonuses), not base stat block DV. When creating or scaling a creature, keep the printed DV line at 6 or below and layer additional defenses through Armor, shield reactions, lair actions, or conditional bonuses (e.g., "+2 DV when in darkness") to reach the target effective DV.
@@ -154,7 +153,7 @@ To scale a creature up or down:
 - -2 damage on attacks
 - Remove one special ability
 
-> **Scaling Note:** The scaling guidelines above are approximations for Tier 1–2 (TV 0.25–4) creatures. At higher Threat Values (TV 9+), scaling is **non-linear** — creatures gain disproportionately more HP, damage, and special abilities per tier. When scaling high-tier creatures, use the stat blocks in Chapters 7–9 as reference points rather than applying simple arithmetic.
+> **Scaling Note:** The scaling guidelines above are approximations for Tier 1–2 (TV 0.25–4) creatures. At higher Threat Values (TV 9+), scaling is **non-linear** — creatures gain disproportionately more HP, damage, and special abilities per tier. When scaling high-tier creatures, use the stat blocks in Chapter 5 and Chapters 7–9 as reference points rather than applying simple arithmetic.
 
 ### Adding Variants
 
@@ -223,7 +222,7 @@ Creatures in Nosgoth are not just obstacles—they're story elements:
 - Vampire Thrall Swarms (Elite)
 - Echo Serpents (Standard)
 - Sarafan Inquisitors (Elite)
-- Glyphfused Automatons (Standard)
+- Bound-Logic Scribes (Standard)
 
 ### Levels 7-10 (Veteran Adventurers)
 - Hunger-Warped Vampires (Elite)

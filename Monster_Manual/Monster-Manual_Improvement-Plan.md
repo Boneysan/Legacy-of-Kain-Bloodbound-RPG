@@ -181,6 +181,89 @@ The immediate goal is not to rewrite every creature at once. The goal is to remo
    - **Scaling Options health terminology:** 11 occurrences of `Increase/Reduce Health to` in Ch7 Scaling Options replaced with `Increase/Reduce HP to`. Ch8–9 were already using `HP`.
    - **Verification pass:** Automated check confirmed zero remaining `**Size/Type:**`, `**Resources:**`, split `**Threat Value (TV):**`, or `Increase Health` fields across all nine chapters.
 
+22. **Heading-depth normalization — complete across all nine chapters**
+   - `Monster_Manual/03_Mortals-and-Cultists.md`
+   - `Monster_Manual/04_Beasts-and-Mutants.md`
+   - `Monster_Manual/05_Constructs-and-Automatons.md`
+   - `Monster_Manual/06_Hylden-Forces.md`
+      - All creature-entry subsection headings normalized from `####` to `###` to match the dominant chapter pattern used elsewhere in the manual.
+   - `Monster_Manual/02_Spectral-Entities.md`
+      - One stray late-entry `#### Loot` heading corrected to `### Loot`.
+   - Result: creature-entry subsection heading depth is now consistent across Chapters 1–9.
+
+23. **Auxiliary Health → HP cleanup — Chapters 7–9 completed**
+   - `Monster_Manual/07_Elemental-and-Arcane.md`
+      - Anchor/object references, temporary-HP wording, and late scaling text normalized from `Health` to `HP`.
+   - `Monster_Manual/08_Ancient-Creatures.md`
+      - Auxiliary regeneration, shard/anchor object references, and scaling shorthand normalized from `Health` to `HP`.
+   - `Monster_Manual/09_Legendary-Entities.md`
+      - All weakened-form variants, the Elder God true-manifestation setpiece, and the remaining `full health` prose reference normalized to `HP`.
+   - Result: Chapters 7–9 now contain no remaining `Health` wording; auxiliary prose and scaling text match the canonical `HP` terminology.
+
+24. **Chapter 5 TV conversion — complete**
+   - `Monster_Manual/05_Constructs-and-Automatons.md`
+      - Converted the remaining benchmark-era Chapter 5 entries to final absolute TVs aligned to their printed level bands: `Spellbound Golem`, `Bound-Logic Scribe`, `Obsidian Drone`, `Glyph Spider`, and `Animated Ward`.
+      - Earlier in the pass, the chapter's high-tier setpiece entries were already converted: `Sarafan Clockwork Knight`, `Pillar-Guardian Sentinel`, `Iron-Cage Beast`, `Glyphfused Automaton`, `Hylden Soul-Tower`, `Rune-Forged Warden`, and `Restoration Engine`.
+      - Updated all directly related scaling options, encounter-design examples, sample encounter totals, and the ally-role reference table so the chapter now uses one TV dialect throughout.
+   - `GM_Guide/02_Encounter-Design.md`
+      - Updated the encounter-design note so it now reflects Chapter 5 as fully converted while other early chapters remain in transition.
+   - Result: Chapter 5 now uses final absolute TV values consistently across all of its creature entries and internal examples.
+
+25. **Chapter 1 TV conversion — complete**
+   - `Monster_Manual/01_Undead-and-Vampiric.md`
+      - Added concrete recommended level bands to the chapter's base creatures and converted all benchmark-era printed TVs to final absolute TVs aligned to those bands.
+      - Updated Chapter 1 scaling options, summon references, and encounter-design examples so the chapter now uses one absolute-TV dialect throughout.
+      - Removed the chapter's remaining benchmark-era boss-action wording where the text was describing generic role expectations rather than printed creature TV.
+   - `GM_Guide/02_Encounter-Design.md`
+      - Updated encounter-design notes and Ch1 sample cross-references to reflect Chapter 1 as fully converted.
+   - `Monster_Manual/00_Introduction.md`
+      - Updated the manual-wide conversion-state note so it now includes Chapter 1 among the fully converted chapters.
+   - Result: Chapter 1 now uses final absolute TV values consistently across all of its creature entries and internal examples.
+
+26. **Chapter 2 TV conversion — complete**
+   - `Monster_Manual/02_Spectral-Entities.md`
+      - Added concrete recommended level bands to the chapter's base creatures and converted all benchmark-era printed TVs to final absolute TVs aligned to those bands.
+      - Updated Chapter 2 scaling options, dual-mode Sluagh references, and encounter-design examples so the chapter now uses one absolute-TV dialect throughout.
+      - Corrected the chapter's lingering benchmark-era encounter summaries for `Wraith of the Abyss` and `Spectral Arcanist`.
+   - `GM_Guide/02_Encounter-Design.md`
+      - Updated the repo-wide conversion-state notes so they now include Chapter 2 among the fully converted chapters.
+   - `Monster_Manual/00_Introduction.md`
+      - Updated the manual-wide conversion-state note so it now includes Chapter 2 among the fully converted chapters.
+   - Result: Chapter 2 now uses final absolute TV values consistently across all of its creature entries and internal examples.
+
+27. **Chapter 3 TV conversion — complete**
+   - `Monster_Manual/03_Mortals-and-Cultists.md`
+      - Converted the chapter's remaining benchmark-era printed TVs to final absolute TVs aligned to the existing recommended level bands.
+      - Updated linked scaling options, summon references, lair-action reinforcement text, sample encounters, and encounter-design blurbs so the chapter now uses one absolute-TV dialect throughout.
+      - Added recommended level bands to the late Sarafan and Rune-Forger entries that were still missing them.
+   - `GM_Guide/02_Encounter-Design.md`
+      - Updated the repo-wide conversion-state notes so they now include Chapter 3 among the fully converted chapters.
+   - `Monster_Manual/00_Introduction.md`
+      - Updated the manual-wide conversion-state note so it now includes Chapter 3 among the fully converted chapters.
+   - Result: Chapter 3 now uses final absolute TV values consistently across all of its creature entries and internal examples.
+
+28. **Chapter 4 TV conversion — complete**
+   - `Monster_Manual/04_Beasts-and-Mutants.md`
+      - Converted the chapter's benchmark-era printed TVs to final absolute TVs aligned to the existing recommended level bands.
+      - Updated linked scaling options, sample encounters, lair-action brood text, and encounter-design blurbs so the chapter now uses one absolute-TV dialect throughout.
+      - Added a chapter note clarifying that Chapter 4 now uses final absolute TVs throughout.
+   - `GM_Guide/02_Encounter-Design.md`
+      - Updated the repo-wide conversion-state notes so they now include Chapter 4 among the fully converted chapters.
+   - `Monster_Manual/00_Introduction.md`
+      - Updated the manual-wide conversion-state note so it now includes Chapter 4 among the fully converted chapters.
+   - Result: Chapter 4 now uses final absolute TV values consistently across all of its creature entries and internal examples.
+
+29. **Chapter 6 TV conversion — complete**
+   - `Monster_Manual/06_Hylden-Forces.md`
+      - Converted the chapter's benchmark-era printed TVs to final absolute TVs aligned to the existing recommended level bands.
+      - Updated summon tables, duplicate late-entry blocks, sample encounters, named-NPC TV hooks, scaling options, and encounter-design blurbs so the chapter now uses one absolute-TV dialect throughout.
+      - Added a chapter note clarifying that Chapter 6 now uses final absolute TVs throughout.
+   - `GM_Guide/02_Encounter-Design.md`
+      - Updated the repo-wide conversion-state notes so they now reflect that all nine Monster Manual chapters are fully converted.
+   - `Monster_Manual/00_Introduction.md`
+      - Updated the manual-wide conversion-state note so it now reflects that all nine Monster Manual chapters are fully converted.
+   - Result: Chapter 6 now uses final absolute TV values consistently across all of its creature entries and internal examples.
+
 ### Current balance notes
 
 1. **Core TV model work is stable**
@@ -198,32 +281,35 @@ The immediate goal is not to rewrite every creature at once. The goal is to remo
    - If more tuning happens, likely candidates are only a few stylistic holdouts such as `Sarafan Grand Inquisitor`, and even those now read more as preference calls than obvious misses.
 
 4. **What still needs a broader pass**
-   - Stat-block vocabulary still varies between Ch1–6 (`HP`, `DV`, `DR`) and Ch7–9 (`Health`, `Armor`). The math is now unified; the terminology is not.
+      - The core stat-block schema is now unified across all nine chapters.
+      - Remaining terminology drift is mostly outside the core stat blocks: scaling notes, anchors, and a few descriptive callouts still use legacy `Health` wording.
    - If another balance pass happens, keep it narrow and evidence-driven. Recent passes are shaving edge-case output, not fixing hard contradictions.
-   - Early chapters (1 and 2) have minor heading and metadata drift from pre-normalization writes that hasn't been swept.
+   - Early chapters (1 and 2) still have minor subsection-label and metadata drift from pre-normalization writes that hasn't been swept.
 
 ### Still pending
 
 1. Additional boss/action-economy review outside the first-wave outliers.
-2. Further chapter-by-chapter heading/section-hierarchy consistency pass (minor style drift in early chapters, e.g. `###` vs `####` heading depth).
+2. Optional subsection-label wording pass for chapter-internal consistency (for example `Stats` vs `Statistics`, or `Scaling` vs `Scaling Options`).
+3. Optional cleanup of any remaining non-stat-block legacy wording outside Chapters 7–9 so prose matches the canonical stat-block terminology.
 
 ### Immediate next consistency targets
 
-1. Heading depth parity across all chapters.
-   - Chapters 1–3 use `####` for stat-block subsections (Lore, Stats, Attacks, etc.); Chapters 7–9 use `###`. A single global pass would unify these, but it is purely cosmetic.
+1. Subsection-label wording parity across chapters.
+   - Heading depth is now unified, but label wording still varies by chapter (`Stats` vs `Statistics`, `Abilities` vs `Special Abilities`, `Scaling` vs `Scaling Options`).
 
-2. Skills attribute annotation cleanup.
-   - Some Ch9 already-normalised entries still include attribute reminders in skill lines, e.g. `Forbidden Knowledge (Soul) 5`. These are not incorrect but do not match the Ch1–6 style of `Forbidden Knowledge 5`.
+2. Auxiliary wording cleanup outside stat blocks in earlier chapters where needed.
+   - Chapters 7–9 are now clean. Any remaining prose cleanup would be limited to stray legacy wording elsewhere in the manual.
 
 ---
 
 ## Current State
 
-The Monster Manual is now on a single TV model. **Flat absolute TV** is the canonical standard across all chapters and the GM Guide.
+**Flat absolute TV** is the canonical standard across the GM Guide and Monster Manual, but the printed Monster Manual conversion is still in progress.
 
 - `GM_Guide/02_Encounter-Design.md` and `Monster_Manual/00_Introduction.md` both define TV as an absolute encounter-budget number.
 - Threat tier labels (Minion, Standard, Elite, Boss, Legendary) are retained as descriptive bands; the TV value in each stat block is the authoritative number.
 - All nine chapters now use a single consistent stat-block threat header: `**Threat Tier**: [Tier] (TV N)`.
+- Chapters 1–9 are now on final absolute TVs.
 
 **P3 schema normalization is complete.** All nine chapters now share a single stat-block schema: `HP`, `DV`, `Armor`, `Initiative`, `Movement`, merged `**Threat Tier:** Label (TV N)` header, and `**Type:**` creature type. There are no remaining `Health`, `Resources`, `Size/Type`, or split Threat Value fields in any stat block. All 127 creature entries across all chapters have an `- **Initiative:** N` field.
 
@@ -231,14 +317,15 @@ The Monster Manual is now on a single TV model. **Flat absolute TV** is the cano
 
 ## Direction Taken
 
-**Flat absolute TV** was chosen as the canonical standard. All of the following have been completed:
+**Flat absolute TV** was chosen as the canonical standard. The following foundation work has been completed:
 
 1. `GM_Guide/02_Encounter-Design.md` rewritten to define TV as an absolute encounter-budget value (not a party-level multiplier).
 2. `Monster_Manual/00_Introduction.md` updated to remove the relative-tier TV model.
 3. Threat tier labels retained as descriptive bands; the explicit TV number in each stat block is the authoritative value.
 4. All mixed-format split entries across Chapters 3–6 converted to the single-line `**Threat Tier**: [Tier] (TV N)` format.
+5. Chapter 5 completed its benchmark-TV to final-absolute-TV conversion.
 
-The remaining work is purely vocabulary normalization (P3).
+The remaining work is now optional consistency cleanup: subsection-label wording parity, any further narrow boss review, and any stray non-stat-block wording cleanup outside Chapters 7–9.
 
 ---
 
@@ -381,7 +468,7 @@ These creatures are the best early candidates for direct rebalance:
 
 ### P3 - Normalize presentation and terminology
 
-**Status:** Complete.
+**Status:** Complete for core stat-block schema; minor prose cleanup remains optional.
 
 All core stat-block vocabulary is now unified across all nine chapters:
 
@@ -393,7 +480,7 @@ All core stat-block vocabulary is now unified across all nine chapters:
 - `- **Initiative:** N` stat-block field — all 127 creatures ✅
 - `**Resources:**` block eliminated — all chapters ✅
 
-Remaining minor style variance (heading depth `###` vs `####`, attribute annotations in skill lines) is cosmetic and does not affect stat-block comparability.
+Remaining minor variance is cosmetic or outside the stat blocks themselves: subsection-label wording drift and any stray legacy prose wording outside Chapters 7–9.
 
 ---
 
@@ -402,7 +489,7 @@ Remaining minor style variance (heading depth `###` vs `####`, attribute annotat
 ### Chapters 1-3
 
 - Now on the canonical schema. All stat blocks have `HP`, `DV`, merged Threat Tier, and `Initiative`.
-- Minor heading-depth variance (`####` vs `###`) remains as a cosmetic style difference.
+- Minor subsection-label wording variance remains as a cosmetic style difference.
 
 ### Chapters 4-6
 
@@ -418,11 +505,11 @@ Remaining minor style variance (heading depth `###` vs `####`, attribute annotat
 
 ## Proposed Work Order
 
-1. Sweep the manual for terminology and formatting consistency.
-2. Standardize the stat-block schema for all future additions.
-3. Rebalance the next tier of boss and elite outliers in Chapters 1, 2, 4, 5, and 6.
-4. Revisit GM Guide sample encounters so they clearly model the new absolute-TV standard.
-5. Do a final chapter-by-chapter pass for TV coverage and tier spacing.
+1. Sweep subsection-label wording parity across the nine chapters where `Stats` vs `Statistics` or similar labels still drift.
+2. Run a subsection-label consistency pass across Chapters 1-9.
+3. Sweep any remaining auxiliary prose outside Chapters 7–9 for legacy terminology where `HP` is now the intended canonical term.
+4. If more balance work is desired, review any remaining boss/action-economy edge cases after the TV pass.
+5. Do a final chapter-by-chapter presentation pass before treating the manual as style-complete.
 
 ---
 
@@ -442,10 +529,8 @@ The Monster Manual should be considered structurally improved when the following
 
 If work continues from this document, the most efficient next editing pass is:
 
-1. `Monster_Manual/01_Undead-and-Vampiric.md`
-2. `Monster_Manual/02_Spectral-Entities.md`
-3. `Monster_Manual/04_Beasts-and-Mutants.md`
-4. `Monster_Manual/05_Constructs-and-Automatons.md`
-5. `Monster_Manual/06_Hylden-Forces.md`
+1. Run a repo-wide post-conversion sweep for any stray benchmark-era prose or sample-encounter shorthand that survived outside the core chapter status notes.
+2. After the TV pass, do subsection-label wording cleanup across all nine chapters.
+3. Then do any remaining boss/action-economy review as a narrow balancing pass instead of a schema pass.
 
-That sequence continues the rebalance pass now that the governing math and the first-wave Chapter 3 corrections are already in place.
+That sequence finishes the plan's remaining consistency work before any further discretionary rebalance.

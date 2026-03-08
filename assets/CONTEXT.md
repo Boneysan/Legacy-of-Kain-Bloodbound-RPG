@@ -404,98 +404,107 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 
 ### Monster_Manual Chapters Completed ✓
 1. **00_Introduction.md** - Manual organization, threat tier system (Minion/Standard/Elite/Boss/Legendary), TV calculations, stat block format, creature customization, narrative use, design philosophy
-2. **01_Undead-and-Vampiric.md** - 8 fully statted creatures:
-   - Feralslave Ghoul (Minion, TV 0.25)
-   - Hunger-Warped Vampire (Elite, TV 2)
-   - Nosgothian Revenant (Standard, TV 1)
-   - Bone-Pyre Skeleton (Minion, TV 0.25)
-   - Crypt-Bound Wight (Elite, TV 2)
-   - Vampire Thrall Swarm (Elite, TV 2)
-   - Red Vein Acolyte (Standard, TV 1)
-   - Bloodflame Specter (Standard, TV 1)
+2. **01_Undead-and-Vampiric.md** - 8 fully statted creatures using final absolute TVs:
+   - Feralslave Ghoul
+   - Hunger-Warped Vampire
+   - Nosgothian Revenant
+   - Bone-Pyre Skeleton
+   - Crypt-Bound Wight
+   - Vampire Thrall Swarm
+   - Red Vein Acolyte
+   - Bloodflame Specter
    - Plus: Campaign integration, encounter ideas, Legendary Actions rules
-3. **02_Spectral-Entities.md** - 8 fully statted creatures:
-   - Echo Serpent (Standard, TV 1)
-   - Mirror Wraith (Elite, TV 2)
-   - Soul-Eater Shade (Standard, TV 1)
-   - Shimmering Howler (Minion, TV 0.25)
-   - Silent Mourner (Standard, TV 1)
-   - Phase-Beast (Elite, TV 2)
-   - Gravewind Entity (Boss, TV 4, with Legendary Actions)
+3. **02_Spectral-Entities.md** - 8 fully statted creatures using final absolute TVs:
+   - Echo Serpent
+   - Mirror Wraith
+   - Soul-Eater Shade
+   - Shimmering Howler
+   - Silent Mourner
+   - Phase-Beast
+   - Gravewind Entity
    - Plus: Combat tactics, encounter design, story hooks
-4. **03_Mortals-and-Cultists.md** - 8 fully statted creatures:
-   - Cult of the Abyss Fanatic (Minion, TV 0.25)
-   - Forsaken Priest of Light (Standard, TV 1)
-   - Wandering Mad Seer (Standard, TV 1)
-   - Sarafan Inquisitor (Elite, TV 2)
-   - Outcast Raider (Standard, TV 1)
-   - Black Rune Warlock (Elite, TV 2)
-   - Bleeding Eye Assassin (Elite, TV 2)
-   - Witch-Hunter Commander (Elite, TV 2)
+4. **03_Mortals-and-Cultists.md** - 8 fully statted creatures using final absolute TVs:
+   - Cult of the Abyss Fanatic
+   - Forsaken Priest of Light
+   - Wandering Mad Seer
+   - Sarafan Inquisitor
+   - Outcast Raider
+   - Black Rune Warlock
+   - Bleeding Eye Assassin
+   - Witch-Hunter Commander
    - Plus: Tactics, moral complexity, encounter design, Legendary Actions
-5. **04_Beasts-and-Mutants.md** - 8 fully statted creatures:
-   - Dire Cave Wolf (Standard, TV 1)
-   - Nosgothian Drake (Elite, TV 2)
-   - Glimmerback Lizard (Minion, TV 0.25)
-   - Blight-Boar (Standard, TV 1)
-   - Bloodgullet Hound (Standard, TV 1)
-   - Stonemaul Troll (Elite, TV 2)
-   - Bramblehide Bear (Elite, TV 2)
-   - Warptooth Cougar (Elite, TV 2)
+5. **04_Beasts-and-Mutants.md** - 8 fully statted creatures using final absolute TVs:
+   - Dire Cave Wolf
+   - Nosgothian Drake
+   - Glimmerback Lizard
+   - Blight-Boar
+   - Bloodgullet Hound
+   - Stonemaul Troll
+   - Bramblehide Bear
+   - Warptooth Cougar
    - Plus: Hunting, resources, corruption indicators, taming rules
-6. **05_Constructs-and-Automatons.md** - 8 fully statted creatures:
-   - Sarafan Clockwork Knight (Elite, TV 2)
-   - Pillar-Guardian Sentinel (Boss, TV 4, with Legendary Actions and core weaknesses)
-   - Spellbound Golem (Standard, TV 1)
-   - Iron-Cage Beast (Elite, TV 2, Hylden bio-construct)
-   - Glyphfused Automaton (Elite, TV 2)
-   - Hylden Soul-Tower (Boss, TV 4, siege engine with 3 soul cores)
-   - Bound-Logic Scribe (Standard, TV 1, living archive)
-   - Obsidian Drone (Minion, TV 0.25, swarm scout)
+6. **05_Constructs-and-Automatons.md** - 8 fully statted creatures using final absolute TVs:
+   - Sarafan Clockwork Knight
+   - Pillar-Guardian Sentinel
+   - Spellbound Golem
+   - Iron-Cage Beast
+   - Glyphfused Automaton
+   - Hylden Soul-Tower
+   - Bound-Logic Scribe
+   - Obsidian Drone
    - Plus: Programming exploits, weakness exploitation, repair mechanics
-7. **06_Hylden-Forces.md** - 8 fully statted creatures:
-   - Hylden Shock Trooper (Elite, TV 2, possessed warrior)
-   - Hylden Flesh Architect (Elite, TV 2, biomancer creating abominations)
-   - Mind-Tethered Abomination (Standard, TV 1, fused corpses)
-   - Corruption Host (Standard, TV 1, mortals transforming into Hylden)
-   - Bio-Sigil Reaver (Elite, TV 2, phase assassin)
-   - Hylden Rift Engineer (Elite, TV 2, portal summoner)
-   - Void-Spoken Oracle (Boss, TV 4, prophet with Legendary Actions and telepathic coordination)
-   - Hylden Horror Warden (Elite, TV 2, psychological torturer)
+7. **06_Hylden-Forces.md** - 8 fully statted creatures using final absolute TVs:
+   - Hylden Shock Trooper
+   - Hylden Flesh Architect
+   - Mind-Tethered Abomination
+   - Corruption Host
+   - Bio-Sigil Reaver
+   - Hylden Rift Engineer
+   - Void-Spoken Oracle
+   - Hylden Horror Warden
    - Plus: Corruption mechanics, reality distortion, possession rules, moral complexity
 
-8. **07_Elemental-and-Arcane.md** - 8 fully statted creatures:
+8. **07_Elemental-and-Arcane.md** - Expanded elemental and arcane roster using the current `Stats / Attacks / Abilities / Tactics / Loot / Scaling Options` structure:
    - Fire-Spite Djinn
    - Spiritbound Flame Wolf
    - Bloodhail Cyclone
    - Frost-Wrought Avenger
-   - Frostbound Guardian
+   - Glacial Warden
    - Arcane Flare Wyrm
+   - Null Elemental
    - Thundercrack Behemoth
    - Mist Binder
-   - Plus: Elemental hazards, anti-magic counters, encounter variants by terrain/weather
+   - Flame Wisp
+   - Pillar-Stone Golem
+   - Umbral Vortex
+   - SE-Feeder
+   - Plus: rare magical loot, elemental hazards, anti-magic counters, and terrain/weather encounter variants
 
-9. **08_Ancient-Creatures.md** - 8 fully statted creatures:
-   - Relic-Watcher Colossus (Boss, TV 16)
-   - Stone-Chime Oracle (Controller, TV 12)
-   - Blackmarrow Leviathan (Boss, TV 17)
-   - Bound Pillar Shade (Elite, TV 11)
-   - Vaultspawn Ravager (Elite, TV 10)
-   - Titan-Kin Stalker (Major, TV 12)
-   - Forgotten Dreambeast (Major, TV 13)
-   - Root-Entombed Horror (Deadly, TV 15)
-   - Plus: Site-locked guardians, lair effects, terrain-denial tools
+9. **08_Ancient-Creatures.md** - Current ancient-creatures and ruinspawn roster:
+   - Relic-Watcher Colossus
+   - Stone-Chime Oracle
+   - Blackmarrow Leviathan
+   - Bound Pillar Shade
+   - Root-Entombed Horror
+   - Primordial Blood Stalker
+   - Pillar-Decay Sentinel
+   - Living Ward
+   - Plus: site-locked guardians, lair actions, battlefield-scale threats, and unique relic/fragment rewards
 
-10. **09_Legendary-Entities.md** - 8 fully statted creatures:
-   - Razielic Remnant (Boss, TV 18)
-   - Kain’s Echo-Knight (Boss, TV 17)
-   - Ariel’s Spectral Wrath (Deadly, TV 16)
-   - The Blood Moon Prophet (Major, TV 15)
-   - Keeper of the Abyssal Heart (Boss, TV 19)
-   - Unseen Monarch (Deadly, TV 16)
-   - The Pale Sarafan (Deadly, TV 17)
-   - Warden of Lost Names (Deadly, TV 16)
-   - Plus: Lair actions, regional effects, narrative stakes and foreshadowing guidance
+10. **09_Legendary-Entities.md** - Expanded legendary and story-bound threat roster:
+   - Razielic Remnant
+   - Kain’s Echo-Knight
+   - Ariel’s Spectral Wrath
+   - The Blood Moon Prophet
+   - Keeper of the Abyssal Heart
+   - Tendril of the Wheel
+   - Unseen Monarch
+   - The Pale Sarafan
+   - Warden of Lost Names
+   - Echo of Moebius
+   - Eye of the Wheel
+   - Elder God Manifestation
+   - Plus: lair actions, regional effects, artifact-tier rewards, and campaign-finale narrative stakes
 
 ### In Progress / Needs Refinement
 - Equipment lists and weapon statistics (07_Equipment.md)
