@@ -3,6 +3,7 @@
 - Arc: Ascension
 - Recommended levels: 8-10
 - Target TV: 29 baseline, 36 for the heavier version
+- Difficulty: Standard
 - Use when: The Rift Ember must be defended, redirected, or shut down under concentrated Hylden pressure.
 
 ## Location

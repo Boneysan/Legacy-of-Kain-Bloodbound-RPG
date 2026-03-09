@@ -3,6 +3,7 @@
 - Arc: Awakening
 - Recommended levels: 3
 - Target TV: 12
+- Difficulty: Standard
 - Use when: The campaign needs a violent opener on the road to Avernus.
 
 ## Location

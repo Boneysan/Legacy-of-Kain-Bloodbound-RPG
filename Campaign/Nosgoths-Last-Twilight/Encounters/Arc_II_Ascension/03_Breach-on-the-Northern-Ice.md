@@ -3,6 +3,7 @@
 - Arc: Ascension
 - Recommended levels: 7-9
 - Target TV: 18 baseline before terrain pressure
+- Difficulty: Pressure
 - Use when: The northern crisis needs a clean first proof that the Hylden front is real.
 
 ## Location

@@ -7,6 +7,7 @@ Only Session 4 is meant to default to a true full-scale battlefield encounter. S
 ## Session 1: Endgame Parley Break
 
 - Primary location: Coalition camp, parley ground, or ritual perimeter on the Pillar Heath.
+- Primary encounter: Use Encounters/Arc_IV_Convergence/02_Endgame-Parley-Break.md.
 - Recommended lineup: Choose the faction that is trying to make negotiation impossible first.
 - Scene weight: Secondary pressure scene by default.
 - Sarafan break package: 1 Sarafan Inquisitor, 2 Sarafan Footsoldiers, and 1 Sarafan Outrider striking at a witness, relic courier, or suspect PC.
@@ -17,6 +18,7 @@ Only Session 4 is meant to default to a true full-scale battlefield encounter. S
 ## Session 2: Road to the Hall
 
 - Primary location: Pillar Heath route, moving judgment-path, or Hall threshold.
+- Primary encounter: Use Encounters/Arc_IV_Convergence/03_Road-to-the-Hall.md.
 - Recommended lineup: 1 Silent Mourner and 2 Soul-Eater Shades if the route should feel like metaphysical punishment, or 1 Hylden War-Stalker and 2 Hylden-Possessed Grunts if it should feel like an enemy bloc testing the line physically.
 - Scene weight: Secondary route-pressure scene, not a standalone endgame battle.
 - Core objective: Protect the person, rite, or coalition element needed to reach the Hall rather than simply clearing the path.
@@ -26,6 +28,7 @@ Only Session 4 is meant to default to a true full-scale battlefield encounter. S
 ## Session 3: Black Fulcrum Chamber Crisis
 
 - Primary location: Hall of Equilibrium approach and Black Fulcrum chamber.
+- Primary encounter: Use Encounters/Arc_IV_Convergence/04_Black-Fulcrum-Chamber-Crisis.md.
 - Recommended lineup: Build around the bloc most threatened by the party's likely choice.
 - Scene weight: Chamber-pressure scene by default; reinforce only if the campaign's main clash happens before Session 4.
 - Wheel pressure package: 1 Silent Mourner and 2 Soul-Eater Shades complicating action through despair and attrition.
@@ -45,6 +48,7 @@ Only Session 4 is meant to default to a true full-scale battlefield encounter. S
 ## Session 5: Last Pursuit Or Mercy Scene
 
 - Primary location: Ruined battlefield edge, collapsing rite site, survivor route, or epilogue threshold.
+- Primary encounter: Use Encounters/Arc_IV_Convergence/05_Last-Pursuit-or-Mercy-Scene.md.
 - Recommended lineup: Keep it narrow and personal.
 - Scene weight: Consequence scene, not a replacement for the campaign's main finale.
 - Hunt package: 1 surviving major antagonist with 1-2 escorts appropriate to their bloc.

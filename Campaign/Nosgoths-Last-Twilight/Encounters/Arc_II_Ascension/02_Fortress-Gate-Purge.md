@@ -3,6 +3,7 @@
 - Arc: Ascension
 - Recommended levels: 6-10
 - Target TV: 25 baseline, 33 for the heavier version
+- Difficulty: Challenging
 - Use when: Sarafan pressure turns the fortress dispute into a public custody-or-purge crisis.
 
 ## Location

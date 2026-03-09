@@ -3,6 +3,7 @@
 - Arc: Awakening
 - Recommended levels: 5-6
 - Target TV: 16
+- Difficulty: Pressure
 - Use when: Sarafan pressure needs to become visible, immediate, and public.
 
 ## Location

@@ -3,6 +3,7 @@
 - Arc: Convergence
 - Recommended levels: 16-20
 - Target TV: 59 listed roster, or 70+ if live reinforcement abilities are fully enabled
+- Difficulty: Standard
 - Use when: One battlefield front must decide whether the party's chosen ending can actually be executed.
 
 ## Location

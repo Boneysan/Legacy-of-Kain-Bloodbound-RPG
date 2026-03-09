@@ -3,6 +3,7 @@
 - Arc: Revelation
 - Recommended levels: 11-15
 - Target TV: 40 listed roster, or 49-54 if the Void-Touched uses its full summon kit
+- Difficulty: Standard
 - Use when: The Crimson Fracture tries to turn Chronoplast instability into proof that collapse is freedom.
 
 ## Location

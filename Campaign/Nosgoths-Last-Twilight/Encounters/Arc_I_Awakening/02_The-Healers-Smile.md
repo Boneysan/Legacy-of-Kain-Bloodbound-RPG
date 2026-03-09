@@ -3,6 +3,7 @@
 - Arc: Awakening
 - Recommended levels: 4-5
 - Target TV: 15
+- Difficulty: Standard
 - Use when: Investigation inside Avernus has to break into open horror.
 
 ## Location

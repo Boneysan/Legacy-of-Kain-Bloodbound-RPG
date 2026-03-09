@@ -3,6 +3,7 @@
 - Arc: Ascension
 - Recommended levels: 6-7
 - Target TV: 17-20
+- Difficulty: Standard
 - Use when: The party first reaches Dumah's Fortress and the gate itself must test their claim.
 
 ## Location

@@ -21,6 +21,7 @@ Use this document when you want the encounter plan for each Awakening session in
 ## Session 3: Blood-Channel Hold
 
 - Primary location: Flooded antechamber, narrow descent stair, or blood-channel junction beneath Avernus.
+- Primary encounter: Use Encounters/Arc_I_Awakening/04_Blood-Channel-Hold.md.
 - Recommended lineup: 3 Acolytes of Hash'ak'gik holding the route while 1 compromised guide, cult handler, or retreating rite-operator moves deeper into the complex.
 - Core objective: Break the hold fast enough to keep the cult from finishing its delay action, while still choosing whether to rescue captives or preserve secrecy.
 - Terrain notes: Slick stone, partial flooding, collapsing steps, and spectral bleed that can separate the front and rear of the party.
@@ -29,6 +30,7 @@ Use this document when you want the encounter plan for each Awakening session in
 ## Session 4: Blood-Well Chamber Defense
 
 - Primary location: The Blood-Well chamber itself, with older Accord markings, profaned ritual stations, and blood-fed floor channels.
+- Primary encounter: Use Encounters/Arc_I_Awakening/05_Blood-Well-Chamber-Defense.md.
 - Recommended lineup: 1 Vessel of Hash'ak'gik, 2 Acolytes of Hash'ak'gik, and an active blood-rite surge that reshapes the room each round.
 - Core objective: Split the party between relic contact, witness protection, and interrupting profanation before the chamber forces a worse answer.
 - Terrain notes: Spoken vows alter cover lines, blood channels ignite or flood, and spectral afterimages reveal the chamber's older operators.
@@ -37,6 +39,7 @@ Use this document when you want the encounter plan for each Awakening session in
 ## Session 5: Sanguine Extraction Standoff
 
 - Primary location: Blood-Well chamber exits, adjoining tunnels, and the first viable extraction route back toward the surface.
+- Primary encounter: Use Encounters/Arc_I_Awakening/06_Sanguine-Extraction-Standoff.md.
 - Recommended lineup: 1 surviving Vessel or elite cult proxy, 2 Acolytes of Hash'ak'gik, and 1 Sarafan Inquisitor or small Sarafan advance element arriving at the edge of the scene.
 - Core objective: Decide who leaves with the Sanguine Knot, who controls the chamber, and which faction gets to define what happened below Avernus.
 - Terrain notes: Tight exits, unstable ritual residue, and bystanders or prisoners who make clean violence politically costly.
@@ -45,6 +48,7 @@ Use this document when you want the encounter plan for each Awakening session in
 ## Session 6: Avernus Exit Pursuit
 
 - Primary location: Cathedral road out of Avernus, outer sanctuaries, or a ruined checkpoint on the way east.
+- Primary encounter: Use Encounters/Arc_I_Awakening/07_Avernus-Exit-Pursuit.md.
 - Recommended lineup: Choose the pursuer who best matches Session 5 fallout.
 - Sarafan version: 1 Sarafan Outrider and 2 Sarafan Footsoldiers trying to intercept the party quietly before formal purge orders spread.
 - Cult version: 2 Acolytes of Hash'ak'gik and 1 marked survivor or hidden cell leader attempting one last theft or curse.
