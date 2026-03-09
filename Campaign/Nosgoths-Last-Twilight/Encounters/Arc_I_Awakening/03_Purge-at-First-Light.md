@@ -16,7 +16,8 @@
 | Creature | Count | TV Each | Total TV | Monster Source |
 |:---|:---|:---|:---|:---|
 | Sarafan Inquisitor | 1 | 8 | 8 | Monster_Manual/03_Mortals-and-Cultists.md |
-| Sarafan Clockwork Knight | 1 | 8 | 8 | Monster_Manual/05_Constructs-and-Automatons.md |
+| Sarafan Outrider | 1 | 5 | 5 | Monster_Manual/03_Mortals-and-Cultists.md |
+| Sarafan Footsoldier | 1 | 3 | 3 | Monster_Manual/03_Mortals-and-Cultists.md |
 
 ## Encounter Objective
 
@@ -26,5 +27,7 @@
 ## Running Notes
 
 - The Inquisitor should read the room, pick the most suspect PC, and try to turn the settlement against them.
-- The Clockwork Knight is the hard enforcement piece that makes escape lanes feel temporary.
+- The Outrider herds civilians, closes escape lanes, and keeps the fight mobile instead of static.
+- The Footsoldier gives the scene a visible custody-and-witness layer, forcing the party to choose between the public square and the real threat.
+- If you want a harsher anti-supernatural version, replace the Outrider with a Sarafan Clockwork Knight and treat that as an escalated crackdown rather than the default package.
 - If the party wins cleanly, move Sarafan pressure toward investigation and schism rather than immediate second-wave extermination.

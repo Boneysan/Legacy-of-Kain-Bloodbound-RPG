@@ -2,7 +2,7 @@
 
 - Arc: Revelation
 - Recommended levels: 11-15
-- Target TV: 40 baseline, 49 for the heavier version
+- Target TV: 40 listed roster, or 49-54 if the Void-Touched uses its full summon kit
 - Use when: The Crimson Fracture tries to turn Chronoplast instability into proof that collapse is freedom.
 
 ## Location
@@ -27,5 +27,7 @@
 ## Running Notes
 
 - Start with the Zealots and at least one Walker already contesting space.
-- Bring the Void-Touched in after the party has committed to a lane so Merge Protocol changes the shape of the room.
-- For higher-level parties, add the extra Walker or a dimensional seam dealing 1 Spectral damage at the start of each turn to non-phased creatures on exposed catwalks.
+- Bring the Void-Touched in after the party has committed to a lane.
+- Baseline mode: use only the creatures listed in the roster. Do not add further bodies through Merge Protocol or summon-style actions; let the Void-Touched escalate the scene through timing, terrain, and split-realm pressure instead.
+- Escalated mode: enable Merge Protocol and other live reinforcements only for level 13-15 parties or when the party has unusually strong allied support. In that mode, treat the encounter as a materially heavier fight than the listed baseline.
+- For higher-level parties, either add the extra Walker or an active dimensional seam dealing 1 Spectral damage at the start of each turn to non-phased creatures on exposed catwalks, but avoid stacking every escalation at once unless you want a near-deadly set-piece.

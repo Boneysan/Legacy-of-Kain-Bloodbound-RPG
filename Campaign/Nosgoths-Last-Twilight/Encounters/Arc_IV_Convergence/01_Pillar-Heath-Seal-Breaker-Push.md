@@ -2,7 +2,7 @@
 
 - Arc: Convergence
 - Recommended levels: 16-20
-- Target TV: 59 baseline, 66-68 for the heavier version
+- Target TV: 59 listed roster, or 70+ if live reinforcement abilities are fully enabled
 - Use when: One battlefield front must decide whether the party's chosen ending can actually be executed.
 
 ## Location
@@ -30,5 +30,7 @@
 
 - The Dimension Lord is the anchor and should force the party off the objective rather than simply chase kills.
 - The Rift-Priest contaminates the zone and opens movement breaks that make the pylons and operator vulnerable.
+- Baseline mode: keep the listed roster fixed. Treat summon-style abilities and Dimensional Tether as battlefield pressure, threatened reinforcements, or narrative stakes rather than additional bodies on the map.
+- Escalated mode: if you enable live reinforcements from the Dimension Lord or Rift-Priest, treat the front as a finale spike for level 18-20 parties or a heavily reinforced coalition and reduce pressure somewhere else in the overall endgame sequence.
 - The Troopers and Grunts create time pressure; the optional War-Stalker makes the front more military, while the optional Wraith makes it feel more metaphysically ruptured.
 - Tune visible instability or reinforcement pressure to match the endgame answer already chosen in the adjudication matrix.
