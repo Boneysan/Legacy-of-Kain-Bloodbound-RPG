@@ -9,6 +9,7 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Revelation.
 - Core factions: Cult of the Wheel, Crimson Fracture, Pale Accord, Kain's orbit, Moebian remnants
 - Kain usage: testing the party's judgment rather than rewarding their loyalty
 - Recurring cast: see 02_NPC-Appendix.md
+- Detailed encounter planning: see 03_Encounter-Guide.md
 - Entry requirement: begin with a concrete contradiction carried out of Arc II, not a generic lead
 - Fracture continuity: the Ash-Glass Procession should arrive here as a remembered threat, a pursuing convert-network, or a fresh wound-site congregation rather than a brand-new concept.
 

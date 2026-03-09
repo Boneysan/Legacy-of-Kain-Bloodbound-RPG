@@ -9,6 +9,7 @@ This folder breaks the campaign into usable GM support files.
 - Arc_II_Ascension: Fortress politics, clan legitimacy, and the northern Hylden breach.
 - Arc_III_Revelation: The Chronoplast, the Cult of the Wheel, and the truth behind the Heart.
 - Arc_IV_Convergence: Pillar Heath endgame, final coalitions, and Nosgoth's fate.
+- Encounters: Standalone encounter sheets grouped by arc, each with monster rosters, source files, and encounter locations.
 - Relics: One file per Abyssal Heart fragment, plus a quick-reference index.
 - Faction-Tracker: Standing, clocks, and faction escalation notes.
 
@@ -16,14 +17,16 @@ Arc IV also includes an endgame adjudication matrix for resolving Wheel, Hylden,
 
 Each arc folder now also includes a session prep sheet you can update as sessions lock in.
 Each arc folder now also includes an NPC appendix for recurring cast and replacement guidance.
+Each arc folder now also includes an encounter guide with session-by-session encounter planning.
 
 ## Recommended Workflow
 
 1. Read the main campaign file first.
 2. Use the current arc folder as your weekly planning space.
-3. Update the faction tracker after every major session outcome.
-4. Update the relevant relic file the first time the party interacts with that fragment.
-5. Move unresolved consequences forward into the next arc before starting prep.
+3. Pull the matching encounter sheet when you want a ready-made battlefield with monsters and location already assigned.
+4. Update the faction tracker after every major session outcome.
+5. Update the relevant relic file the first time the party interacts with that fragment.
+6. Move unresolved consequences forward into the next arc before starting prep.
 
 ## Current Fragment Order
 

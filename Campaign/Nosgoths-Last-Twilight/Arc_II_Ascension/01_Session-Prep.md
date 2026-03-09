@@ -9,6 +9,7 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Ascension.
 - Core factions: Vampire Clans, Sarafan Order, Hylden Remnants, Pale Accord, Outlands Guilds, Crimson Fracture
 - Kain usage: distant strategic pressure or one intervention that reframes the northern crisis
 - Recurring cast: see 02_NPC-Appendix.md
+- Detailed encounter planning: see 03_Encounter-Guide.md
 - Fracture front: use the Ash-Glass Procession as the recurring Fracture face, with Ash-Glass Reth converting survivors and carrying Elder Seripha's doctrine from the fortress roads into the northern breach.
 
 ## Session 1

@@ -9,6 +9,7 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 - Core factions: every surviving major faction
 - Kain usage: only in moments worthy of changing the campaign's final shape
 - Recurring cast: see 02_NPC-Appendix.md
+- Detailed encounter planning: see 04_Encounter-Guide.md
 - GM tool: use 03_Endgame-Adjudication-Matrix.md once Session 3 fixes the party's real priority and again in Session 5 when final fallout is narrated.
 
 ## Session 1
