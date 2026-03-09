@@ -410,7 +410,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 
 **Phase Strike** (Shadow 5 + Glyphcasting 4 = 9d6, costs 2 SE)
 - Range: 30 feet (teleport attack)
-- Damage: 10 Physical + 3 Corruption damage
+- Damage: 9 Physical + 2 Corruption damage
 - Effect: The Reaver phases through reality, appearing adjacent to the target and striking. This movement ignores walls, obstacles, and enemies. It does not provoke opportunity attacks.
 
 **Corruption Burst** (Soul 4 + Glyphcasting 4 = 8d6, Recharge 5-6, costs 3 SE)
@@ -427,7 +427,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 
 **Master Assassin**: The Reaver has Advantage on attack rolls vs creatures that have not acted yet this encounter (surprise advantage). Additionally, attacks made while Invisible automatically have Advantage.
 
-**Self-Destruct Protocol** (1/encounter): When reduced to 0 HP, the Reaver can choose to detonate their bio-sigils. All creatures within 15 feet take 12 damage (untyped) and forces each affected creature to make a DR 3 Will save or gain 2 Corruption points (DR 4 Shadow save to halve the damage). The Reaver's body is completely destroyed (no resurrection, no loot).
+**Self-Destruct Protocol** (1/encounter): When reduced to 0 HP, the Reaver can choose to detonate their bio-sigils. All creatures within 15 feet take 8 Corruption damage and must make a DR 3 Will save or gain 1 Corruption point (DR 4 Shadow save to halve the damage). The Reaver's body is completely destroyed (no resurrection, no loot).
 
 ### Tactics
 - **Open with Invisibility**: Reavers start combat Invisible, using Bio-Sigil Camouflage to close unseen.
@@ -574,7 +574,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 ### Attacks
 **Void Blast** (Soul 7 + Glyphcasting 6 = 13d6, costs 4 SE)
 - Range: 60 feet
-- Damage: 12 Corruption + 6 Soul damage
+- Damage: 10 Corruption + 4 Soul damage
 - Effect: On Critical Hit (3+ successes), the target is **Unraveled** (lose 4 SE or BP, or take 4 additional Soul damage) and gains 2 Corruption points.
 
 **Prophecy of Doom** (Soul 7 + Forbidden Knowledge 6 = 13d6, Recharge 5-6, costs 6 SE)
@@ -584,7 +584,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 
 **Dimensional Rupture** (Soul 7 + Glyphcasting 6 = 13d6, once per encounter, costs 8 SE)
 - Range: 40-foot radius centered on a point within 80 feet
-- Damage: 14 Force + 6 Corruption damage to all creatures in the radius
+- Damage: 10 Force + 4 Corruption damage to all creatures in the radius
 - Effect: The Oracle rips reality open. All creatures in the radius gain 2 Corruption points and must pass a DR 5 Shadow save or be teleported 2d6 x 5 feet in a random direction (lose positioning, potentially separated from allies).
 
 ### Abilities
@@ -598,18 +598,17 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 
 **Forbidden Knowledge Sight**: The Oracle can see 3 rounds into the future. Once per round, when targeted by an attack, they gain +2 DV against that attack (they see attacks coming before they happen). *(Subsequent attacks in the same round are resolved normally.)*
 
-**Legendary Actions (3 per round)**: The Oracle can use Legendary Actions at the end of another creature's turn.
+**Legendary Actions (2 per round)**: The Oracle can use Legendary Actions at the end of another creature's turn.
 - **Move**: The Oracle floats up to half their movement speed.
-- **Void Blast**: The Oracle uses Void Blast (costs 1 action).
-- **Buff Allies**: The Oracle grants one Hylden ally within 60 feet +4 dice on their next roll (costs 2 actions).
-- **Forbidden Knowledge of Doom** (costs 3 actions): The Oracle uses Forbidden Knowledge of Doom (even if it hasn't recharged).
+- **Void Blast**: The Oracle uses Void Blast (costs 2 actions).
+- **Buff Allies**: The Oracle grants one Hylden ally within 60 feet +3 dice on their next roll (costs 1 action).
 
 ### Tactics
 - **Telepathic Coordination Always Active**: The Oracle's presence makes all Hylden forces +1 die stronger within 30ft. This is their most dangerous ability.
 - **Dimensional Rupture Opening**: They open combat with Dimensional Rupture, scattering the party and corrupting everyone.
 - **Forbidden Knowledge of Doom for Control**: They use this to Curse the entire party, making every action harder.
-- **Void Blast for Damage**: They spam Void Blast using Legendary Actions, targeting spellcasters to drain SE.
-- **Buff Allies with Legendary Actions**: They use actions to buff the strongest Hylden ally (Shock Trooper Warlord, Flesh Architect, etc.), turning them into unstoppable threats.
+- **Void Blast for Damage**: They use Void Blast to pressure exposed casters or isolated targets, but can no longer sustain a pure damage loop through Legendary Actions alone.
+- **Buff Allies with Legendary Actions**: They use spare actions to improve the strongest Hylden ally's next decisive roll rather than stacking constant damage every round.
 - **Forbidden Knowledge Sight for Defense**: They're extremely hard to hit due to the +2 DV spike from Forbidden Knowledge Sight. Players must use status effects, area attacks, or creative tactics.
 - **Glyphcasting for Sustain**: They regenerate SE constantly, allowing near-endless casting.
 
@@ -1172,7 +1171,7 @@ Grunts swarm in groups of 4–8. They charge the nearest enemy and use Crude Wea
 ### Encounter 4: The Oracle's Army (Levels 15-17)
 **Setup**: A **Void-Spoken Oracle** (Boss, TV 15) leads an invasion force: 1 **Bio-Sigil Reaver** (Elite, TV 12), 1 **Horror Warden** (Elite, TV 14), and 2 **Shock Troopers** (Elite, TV 9 each, TV 18 total). Total TV: 59 (deadly encounter for a level 15 party of 4).
 
-**Tactics**: The Oracle coordinates the entire force with Telepathic Coordination (+1 die to all Hylden allies within 30ft). It opens with Dimensional Rupture to scatter the party and corrupt everyone. Reavers use Phase Strike to assassinate casters. The Warden uses Cage of Despair to neutralize the party's strongest fighter. Shock Troopers form a shield wall, protecting the Oracle. The Oracle spams Void Blast and Forbidden Knowledge of Doom using Legendary Actions, debuffing everyone and draining resources.
+**Tactics**: The Oracle coordinates the entire force with Telepathic Coordination (+1 die to all Hylden allies within 30ft). It opens with Dimensional Rupture to scatter the party and corrupt everyone. Reavers use Phase Strike to assassinate casters. The Warden uses Cage of Despair to neutralize the party's strongest fighter. Shock Troopers form a shield wall, protecting the Oracle. The Oracle alternates between Prophecy of Doom, direct Void Blast pressure, and tactical ally buffs rather than sustaining a constant legendary damage loop.
 
 **Environmental Factor**: The battle takes place in a Hylden temple. Reality is unstable—at the start of each round, roll 1d6:
 - **1**: Gravity reverses (all creatures fall upward, take falling damage on ceiling)

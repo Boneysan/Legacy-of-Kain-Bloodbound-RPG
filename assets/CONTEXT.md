@@ -1,6 +1,6 @@
 # Legacy of Kain: Bloodbound RPG - Context Document
 
-**Last Updated:** March 3, 2026 (Systemic Overhaul + Equipment Overhaul + Character Sheet Overhaul)  
+**Last Updated:** March 8, 2026 (Campaign Context Update)  
 **System Version:** 1.0 (In Development)  
 **Game Type:** Dark Gothic Fantasy Tabletop RPG  
 **Setting:** Nosgoth
@@ -10,6 +10,34 @@
 ## Project Overview
 
 Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the dark, gothic world of Nosgoth. The game explores themes of fate vs. free will, corruption of power, and time paradoxes, drawing inspiration from the Legacy of Kain video game series.
+
+---
+
+## Current Campaign Content
+
+### Active Campaign: Nosgoth's Last Twilight
+- **Status:** GM-ready campaign framework with support files for arc prep, relic tracking, faction pressure, and recurring NPCs
+- **Premise:** Post-Defiance Nosgoth. Kain remains active, the Pillars continue to fail, the Hylden threat is still pressing at the edges of reality, and the Abyssal Heart has fractured into five dangerous Heart-fragments.
+- **Core campaign question:** Will the party seal, study, weaponize, or destroy the Abyssal Heart and what kind of ruin are they willing to preserve in Nosgoth?
+
+### Campaign Structure
+1. **Awakening** - Avernus, the Blood-Well, the Sanguine Knot, cult infiltration, and first faction commitments
+2. **Ascension** - Dumah's Fortress, clan legitimacy, the Iron Echo, and the northern Hylden breach
+3. **Revelation** - The Chronoplast, manipulated prophecy, the Chronal Shard, and Wheel pressure
+4. **Convergence** - Pillar Heath, the Hall of Equilibrium, the Black Fulcrum, and the final settlement of the Heart
+
+### Campaign Support Files
+- **Main campaign file:** `Campaign/Nosgoth's_Last_Twilight.md`
+- **Support hub:** `Campaign/Nosgoths-Last-Twilight/00_Campaign-Hub.md`
+- **Arc support:** Each arc folder includes an overview, session-prep sheet, and NPC appendix
+- **GM tracking:** Relic dossiers plus faction standing and faction clocks are maintained in the support folder
+
+### Current Canon Assumptions
+- **Kain:** Post-Defiance Kain is active in Nosgoth and should be treated as a selective strategic force, not a vanished king or passive lore reference.
+- **The Abyssal Heart:** The Heart is an ancient convergence of abyssal resonance, Pillar corruption, and blood-memory; it is not the source of Kain's immortality.
+- **Heart-Fragments:** The active campaign uses five fragments: the Sanguine Knot, Iron Echo, Rift Ember, Chronal Shard, and Black Fulcrum.
+- **Campaign pressure:** The Heart's use should always create faction conflict, corruption pressure, and Material-Spectral instability rather than functioning as a neutral treasure hunt.
+- **End-state logic:** The final question is not whether Nosgoth can be made pure, but which damaged future the party is willing to enforce or preserve.
 
 ---
 
@@ -157,12 +185,13 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 ### Hit Points (HP)
 - **Varies by class**
 - **Starting:** Base (8-12) + Core Attribute (e.g., Blood Knight = 12 + Blood)
-- **Per Level:** +3 to +4 HP (reduced from +4 to +6 to fix HP bloat)
+- **Per Level:** +3 to +4 HP, plus class-based durability milestone bonuses at Levels 5, 10, 15, and 20
+- **Attribute Scaling:** If the attribute named in a class's HP formula increases, Max HP increases by 1 immediately
 - **HP Tiers at Level 20:**
-  - Tank (Blood Knight): ~93 HP
-  - Bruiser (Soul Reaver, Balance Warden): ~91 HP
-  - Mid (Sangromancer, Dreadblade, Glyphwright): ~70-71 HP
-  - Caster (Shadowmancer, Hylden Warlock, Temporal Sentinel): ~70 HP
+   - Tank (Blood Knight): ~101 HP
+   - Bruiser (Soul Reaver, Balance Warden): ~95 HP
+   - Mid (Sangromancer, Dreadblade): ~83 HP
+   - Caster / Utility (Shadowmancer, Glyphwright, Hylden Warlock, Temporal Sentinel): ~78 HP
 
 ---
 
@@ -276,6 +305,16 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 - `07_Elemental-and-Arcane.md` - 8 creatures (Elemental & Arcane) ✓ COMPLETE
 - `08_Ancient-Creatures.md` - 8 creatures (Ancients & Ruinspawn) ✓ COMPLETE
 - `09_Legendary-Entities.md` - 8 creatures (Legendary & Story-Bound) ✓ COMPLETE
+
+### Campaign
+- `Campaign/Nosgoth's_Last_Twilight.md` - Main campaign document for Nosgoth's Last Twilight
+- `Campaign/Nosgoths-Last-Twilight/00_Campaign-Hub.md` - Campaign support hub
+- `Campaign/Nosgoths-Last-Twilight/Arc_I_Awakening` - Arc I overview, session prep, and NPC appendix
+- `Campaign/Nosgoths-Last-Twilight/Arc_II_Ascension` - Arc II overview, session prep, and NPC appendix
+- `Campaign/Nosgoths-Last-Twilight/Arc_III_Revelation` - Arc III overview, session prep, and NPC appendix
+- `Campaign/Nosgoths-Last-Twilight/Arc_IV_Convergence` - Arc IV overview, session prep, and NPC appendix
+- `Campaign/Nosgoths-Last-Twilight/Relics` - Abyssal Heart fragment dossiers
+- `Campaign/Nosgoths-Last-Twilight/Faction-Tracker` - Faction standing and escalation clocks
 
 ### Lore Documentation
 

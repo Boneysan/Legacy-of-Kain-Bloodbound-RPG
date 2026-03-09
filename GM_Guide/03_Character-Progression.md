@@ -218,7 +218,7 @@ Poor: "That's enough XP, you level up."
 
 **What Changes at Each Level:**
 
-1. **Hit Points:** Gain HP based on class (3–4 per level)
+1. **Hit Points:** Gain HP based on class (3–4 per level), plus any class durability milestone bonus at Levels 5, 10, 15, and 20. If the class's HP attribute increases, Max HP also increases immediately by 1.
 
 2. **Class Perk:** Gain your class's level-specific perk
    - Example: Level 6 Blood Knight gains "Juggernaut"
@@ -233,9 +233,10 @@ Poor: "That's enough XP, you level up."
 4. **Attribute Increases:** At levels 4, 8, 12, 16, 20
    - Increase one attribute by 1 (max 5)
 
-5. **Resource Pools:** Recalculate based on new level
+5. **Resource Pools and Derived Stats:** Recalculate based on new level
    - Soul Energy: 3 + Will + (Level ÷ 2, rounded up)
    - Blood Points: 4 + Shadow + (Level ÷ 2, rounded up)
+  - Hit Points: Recalculate if your class HP attribute changed at this level
 
 6. **Skill Points:** Gain +1 skill point at each level
    - Skill max rank = 5

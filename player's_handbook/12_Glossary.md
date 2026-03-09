@@ -101,7 +101,7 @@ Every character has six attributes rated 1–5 (starting max 3, absolute max 5):
 Starting distribution: 15 points, max 3 per attribute. Growth: +1 to one attribute at levels 4, 8, 12, 16, 20. *(Ch. 0, Ch. 1)*
 
 **Hit Points (HP)**
-Universal vitality resource. Varies by class (base 8–12 + a Core Attribute, plus 3–4 per level). At **0 HP**, a character falls Unconscious and begins Death Saves. *(Ch. 0, Ch. 3)*
+Universal vitality resource. Varies by class (base 8–12 + a Core Attribute, plus 3–4 per level and class durability milestones at Levels 5, 10, 15, and 20). If the attribute named in a class's HP formula increases, Max HP increases by 1 immediately. At **0 HP**, a character falls Unconscious and begins Death Saves. *(Ch. 0, Ch. 3)*
 
 **Soul Energy (SE)**
 Resource for spells and supernatural abilities. Maximum = **3 + Will + (Level ÷ 2, rounded up)**. Regained on rest or via special abilities. Used by Soul-based casters. *(Ch. 0, Ch. 1 §1.5, Ch. 5 §5.7)*

@@ -1,0 +1,302 @@
+# Arc I Session Prep
+
+Use this file as a rolling prep sheet for Sessions 1-6 of Awakening.
+
+## Arc I Defaults
+
+- Core fragment: The Sanguine Knot
+- Core pressure: Cult infiltration, false sanctuary, blood-memory, first Corruption costs
+- Core factions: Hash'ak'gik cultists, Sarafan Order, Pale Accord, Outlands Guilds
+- Kain usage: one appearance at most, and only if it changes the party's understanding of what is happening
+- Recurring cast: see 02_NPC-Appendix.md
+- Causality hierarchy: treat the cathedral as present cult control, the Blood-Well as the older Janos-linked blood site, the Sanguine Knot as the current activator, and Hash'ak'gik as contamination rather than origin.
+
+## Session 1
+
+- Purpose: Introduce the road to Avernus, establish danger, and show that hospitality can be a weapon.
+- Opening image: A rain-swept caravan road under a green-tinged moon, with the white spires of Avernus visible far off through mist while one wagon axle screams and the horses refuse the last mile.
+- Primary scenes:
+	- The party meet on the caravan under pressure rather than in safety. Everyone is already moving toward the same problem.
+	- A roadside argument breaks out over whether to press on to Avernus before dawn or camp outside the old milestone shrines.
+	- Signs of wrongness appear before violence does: blood in the rain that nobody is bleeding, a pilgrim speaking in a dead relative's voice, and one sealed crate warming as the road turns downhill.
+	- The caravan reaches a waystation, chapel ruin, or hospice outbuilding where "help" is offered too quickly by apparently kind locals.
+	- The cult ambush or recovery attempt hits at the moment the party must decide whether to defend people, cargo, or information.
+- Faction moves:
+	- Cult of Hash'ak'gik: A hidden cell inside the refuge tries to identify who or what is resonating with the Sanguine Knot and separate that target from the group.
+	- Outlands Guilds: The Ashwalker team wants the courier and reliquary kept moving, not examined, because delay means competition catches up.
+	- Pale Accord: The courier withholds part of the truth, framing the cargo as research rather than admitting it may be prophecy-active.
+	- Sarafan Order: A patrol is one step behind the caravan. They do not appear in force yet, but evidence of their presence should be found by session end.
+- Relic pressure:
+	- The Sanguine Knot does not appear directly, but its influence is already active through the sealed reliquary or courier bundle.
+	- Any PC with blood magic, spectral sensitivity, or unresolved ancestry should feel a pulse, hear a name, or taste iron when the fragment stirs.
+	- No one understands the signal yet, but someone in the caravan definitely recognizes it and lies about that fact.
+- Mandatory NPCs:
+	- Serit Vale, Pale Accord courier: composed, exhausted, and too careful with her satchel. She wants the fragment delivered below Avernus before the Sarafan seize it.
+	- Mera Ash, Ashwalker outrider: practical, unsentimental, and focused on surviving the road. She wants movement, quiet, and payment.
+	- Brother Halden, hospice keeper or roadside confessor: warm, useful, and almost certainly compromised or in contact with someone who is.
+	- One pilgrim tied to a PC's background: use them to make the first blood-memory sign personal.
+- Encounter slot:
+	- Use Cathedral Road Ambush as written if the party needs an immediate combat opener.
+	- Preferred structure: 2 Acolytes of Hash'ak'gik and 1 Outcast Raider collaborator attack during a storm surge while refugees and cargo create competing priorities.
+	- Tactical goal: the enemies are trying to drag the reliquary, courier, or a chosen PC toward a ditch-path leading to a hidden Avernus-side access tunnel.
+	- Non-combat alternative: the cult tries to drug, isolate, or spiritually mark the target first, turning the encounter into pursuit and exposure rather than open battle.
+- Spectral intrusion:
+	- When the first blood is spilled, the rain briefly falls upward in the Spectral overlay and every living figure casts the wrong shadow.
+	- A dead traveler appears standing beside the milestone, pointing not at the cathedral but at the ground beneath it.
+	- One PC receives a fragmentary vision of chained hands, a well of blood, and a voice asking whether their name was inherited or stolen.
+- End-of-session fallout:
+	- The party either keep the caravan intact, lose critical cargo, or discover that one of those outcomes was staged.
+	- The refuge is exposed as compromised, making retreat impossible and descent toward Avernus much more likely in Session 2.
+	- Surviving witnesses now know the party are tied to whatever the cult wanted.
+	- Leave behind one hard clue: a black-iron sigil, a coded note, or a blood-prayer scrap that points toward Avernus without fully explaining it.
+- Prep notes:
+	- Decide before play who is knowingly lying about the reliquary: Serit Vale, Brother Halden, or both.
+	- Pick one PC for the first personalized blood-memory sign and tie it to ancestry, oath, or betrayal.
+	- Keep Kain offstage in Session 1 unless the party makes an unexpectedly decisive or heretical choice.
+	- If combat runs short, end on the discovery that someone opened the reliquary a fraction and resealed it.
+	- If combat runs long, cut the refuge exploration and end on the party being granted entry into Avernus by necessity rather than trust.
+
+## Session 2
+
+- Purpose: Let the party investigate Avernus-facing allies, suspects, and false leads before open cult violence resolves uncertainty.
+- Opening image: Dawn never truly arrives; the cathedral rises through cold mist while bells ring from somewhere inside Avernus even though no visible hands are pulling them.
+- Primary scenes:
+	- The party enter the outer precinct of Avernus under strain, either escorting survivors, chasing stolen cargo, or following the clue left at the end of Session 1.
+	- A tense triage sequence establishes competing priorities: wounded pilgrims, missing caravan goods, and conflicting testimonies about who betrayed whom.
+	- The party investigate three lead sites: a public refuge ward, a shuttered side chapel, and a records room, crypt stair, or supply tunnel tied to the Blood-Well route.
+	- Every useful clue points toward the same answer from different angles: the cult is already inside the system of care, prayer, or shelter.
+	- The session ends when one suspect is exposed, flees, or forces violence before the party fully understand how deep the compromise runs.
+- Faction moves:
+	- Cult of Hash'ak'gik: The cell shifts from recovery to containment. Their goal is to identify what the party learned in Session 1 and silence the one witness most likely to connect the refuge to the Blood-Well.
+	- Pale Accord: Serit Vale tries to redirect the party toward controlled research spaces and away from open accusations that would bring the Sarafan down on everyone.
+	- Outlands Guilds: Mera Ash pressures the party to prioritize exit routes and stashed supplies. She assumes Avernus is already lost if they linger too long.
+	- Sarafan Order: Signs of investigation increase. A confiscated corpse, a branded door, or a questioned healer should make it clear the Purge Clock has started moving.
+	- Cult of the Wheel: Keep this indirect. One priest, mourner, or gravedigger quietly argues that panic only feeds ruin and that some truths are kinder left buried.
+- Relic pressure:
+	- The Sanguine Knot is still sealed away, but proximity to the Blood-Well makes bloodline resonance stronger and more specific.
+	- PCs may start recognizing that certain NPCs feel wrong not because they are demonic in an obvious sense, but because their oaths and identities do not align cleanly.
+	- One clue should only make sense if interpreted through blood, lineage, or inherited obligation rather than ordinary logic.
+- Mandatory NPCs:
+	- Serit Vale: now more defensive, because the party are close to asking questions she cannot answer cleanly.
+	- Mera Ash: use her as the practical timer on the session. If the party over-investigate, she reminds them exits close and watchers gather.
+	- Brother Halden or replacement compromise figure: if he survived Session 1, he should become more suspicious. If not, introduce Sister Caris, a healer whose kindness is either genuine or expertly performed.
+	- One wounded witness: a pilgrim, porter, or child who saw a cult sign, heard a blood-prayer, or saw someone descend where no public stairs exist.
+	- Optional Sarafan precursor NPC: a confessor's agent, lay investigator, or branded scout who has not yet decided whether the party are useful or damned.
+- Encounter slot:
+	- Preferred structure: investigation first, violence second.
+	- Best trigger: The Healer's Smile structure, but treat the Vessel reveal as the climax of bad answers rather than a surprise monster drop.
+	- If the party identify the right suspect early, run a chase through hospice corridors, reliquary rooms, or crypt stairs instead of immediate combat.
+	- If they accuse the wrong target, let the real cult asset use that confusion to trigger a possession scare, arson, or witness disappearance.
+- Spectral intrusion:
+	- In the refuge ward, the party briefly see beds occupied by the dead as well as the living, with some patients lying in both places at once.
+	- One oath or confession spoken aloud causes a wall stain to spread in the shape of clasped hands and iron chains.
+	- A PC tied to ancestry or failed duty sees a dead relative among the chapel kneelers, but only while looking indirectly.
+- End-of-session fallout:
+	- The party identify at least one compromised site, one compromised person, and one route leading below Avernus.
+	- Hash'ak'gik Corruption Clock should likely advance to 1 or 2 depending on whether the party expose the cell publicly.
+	- Sarafan Purge Clock should advance to 1 if the party make noise, leave visible corruption, or involve witnesses who will talk.
+	- The party gain enough proof to justify descent in Session 3, but not enough certainty to know whether Serit Vale is protector, manipulator, or both.
+	- End on disappearance, confession, or pursuit into the lower structure, not safety.
+- Prep notes:
+	- Choose one false lead that looks persuasive but points toward a merely frightened innocent rather than a cult asset.
+	- Tie the real answer to a blood, vow, or inheritance clue so the Sanguine Knot's themes keep shaping the investigation before direct contact.
+	- Keep the cult competent. They should be unsettling because they are organized and useful, not because they rant openly about apocalypse.
+	- If Session 1 ended with major casualties, make grief and triage dominate the first half of Session 2.
+	- If Session 1 ended with the reliquary missing, pivot Session 2 into recovery and tracking rather than static investigation.
+
+## Session 3
+
+- Purpose: Drive the party below the surface toward the Blood-Well and force a choice between speed, secrecy, and safety.
+- Opening image: Beneath the cathedral, candlelight gives way to red reflections on damp stone while old stairs spiral past burial alcoves, sealed blood-channels, and walls scratched by people who wanted to climb back out.
+- Primary scenes:
+	- The party follow the compromised route discovered in Session 2 into crypts, service tunnels, or abandoned rite-passages beneath Avernus.
+	- A split-path decision defines the session's rhythm: descend fast and risk ambush, proceed carefully and lose time, or detour to save captives, witnesses, or stolen cargo.
+	- Midway through the descent, the party find clear proof that the Blood-Well predates the current cult occupation, that Janos-linked blood rites mattered here long before Hash'ak'gik, and that multiple later factions reused the same passages.
+	- The lower structure becomes a pressure maze of warded doors, blood-written signs, and ritual afterimages that can be read differently by different characters.
+	- The session ends at the threshold of the Blood-Well chamber or its final antechamber, with the party understanding they are close enough to be changed by proximity alone.
+- Faction moves:
+	- Cult of Hash'ak'gik: The cult shifts from secrecy to controlled defense. Their goal is to delay the party long enough to complete a rite, move a captive, or prepare the chamber for a cleaner claim on the Sanguine Knot.
+	- Pale Accord: Serit Vale may finally admit that the lower sanctum is older than Avernus and that she was sent not merely to retrieve a relic but to confirm a theory about blood-memory and inherited guardianship.
+	- Outlands Guilds: Mera Ash wants a route map, proof of survivable entry, and a decision about whether extraction remains possible if Sarafan attention hardens above ground.
+	- Sarafan Order: Their presence should be audible or implied rather than immediate. Boots above, broken seals, or torchlight leaking from an upper stair make it clear the descent is now a race.
+	- Cult of the Wheel: Use environmental rhetoric. Old funerary inscriptions or a hidden Wheel votive chamber suggest that burial, surrender, and non-interference once had religious defenders here.
+- Relic pressure:
+	- The Sanguine Knot begins answering specific people rather than the group in general.
+	- PCs with blood magic, unresolved ancestry, or broken oaths should receive tailored signs: a spoken family name, a matching sigil in drying blood, or recognition from a dead voice that should not know them.
+	- At least one locked or warded obstacle should yield to bloodline logic, oath recognition, or sacrifice rather than brute force.
+	- Do not grant direct contact yet; instead, make it clear that even approach has a cost.
+- Mandatory NPCs:
+	- Serit Vale: must decide whether to keep controlling the truth or trust the party with what she knows about the Blood-Well.
+	- Mera Ash: becomes the survival voice, especially if saving people threatens the mission timeline.
+	- One compromised or endangered guide: Brother Halden, Sister Caris, a porter, or a captured cult defector who knows the lower route but may not survive it.
+	- One personal echo NPC: someone dead, missing, or ancestral whose presence in the lower structure makes the descent feel targeted rather than generic.
+- Encounter slot:
+	- Preferred structure: layered hazard plus fight, not corridor skirmish.
+	- Best option: a defensive cult hold in a flooded antechamber, narrow stair, or blood-channel junction where 2-4 Acolytes hold ground while a more important asset retreats or completes a rite offscreen.
+	- Alternative pressure: a rescue scene under time constraint, where freeing captives or stopping a blood-channel rite costs the party surprise, health, or secrecy.
+	- If the party are moving too easily, add terrain that punishes noise and haste: collapsing steps, slick stone, or spectral bleed that separates the front and rear ranks.
+- Spectral intrusion:
+	- The party see buried occupants standing where their sealed niches should be, watching silently as if waiting to judge the descent.
+	- Blood in old channels begins flowing against gravity during moments of emotional intensity.
+	- One PC briefly sees the lower chamber complete and functioning as it once was, revealing a door, sigil, or ritual station hidden in the present.
+	- If someone swears an oath underground, let the place react immediately.
+- End-of-session fallout:
+	- The party reach the Blood-Well threshold, lose the race and arrive late, or force a partial confrontation that makes direct contact inevitable in Session 4.
+	- Hash'ak'gik Corruption Clock should advance again if the party fail to disrupt the cult's preparations or if the lower rites visibly alter the environment.
+	- Sarafan Purge Clock may advance if evidence, survivors, or noise above ground gives the Order confidence that Avernus is now a formal target.
+	- Trust inside the party and among allies should narrow. By the end of Session 3, at least one alliance should feel conditional rather than stable.
+	- End on the first true heartbeat from the Sanguine Knot or on a chamber door opening by blood-recognition.
+- Prep notes:
+	- Decide before play what the cult is buying time for: sacrifice, transfer, rite stabilization, or concealment.
+	- Put one meaningful saveable person on the route so the party must choose between mission efficiency and moral obligation.
+	- Make the lower complex old enough to feel layered: Ancient, Accord, cult, and mortuary use should all be visible.
+	- Put one unmistakable clue in the descent that separates the site's causes: older Janos-era or Hylden blood-work below, newer cult profanation above, and the Sanguine Knot's present heartbeat cutting through both.
+	- Keep one revelation back for Session 4. Session 3 should promise the truth, not spend all of it.
+	- If the party captured a suspect in Session 2, use them as a guide who may be truthful, manipulative, or both.
+
+## Session 4
+
+- Purpose: Stage first contact with the Sanguine Knot and make its price immediate and personal.
+- Opening image: The Blood-Well chamber opens below the cathedral like a living wound, its dark red surface pulsing to a rhythm no human heart could survive.
+- Primary scenes:
+	- The party cross the final threshold and see the Blood-Well chamber in full, with cult preparations, older Accord markings, and evidence of much earlier rites sharing the same stone.
+	- First contact begins as recognition, not possession: the chamber answers names, bloodlines, and broken vows before anyone physically touches the Sanguine Knot.
+	- Each PC most entangled with ancestry, oath, undeath, or blood power receives a tailored temptation, accusation, or revelation.
+	- A confrontation interrupts contemplation. Someone must hold off cult pressure, someone must interpret the relic, and someone must choose whether truth is worth the cost right now.
+	- The session should end with one meaningful contact, one irreversible reveal, and a price already paid.
+- Faction moves:
+	- Cult of Hash'ak'gik: Their goal is no longer subtlety. They want the chamber profaned so that even if the party gain access, the fragment is approached through panic, blood, and compromised judgment.
+	- Pale Accord: Serit Vale wants observation, notation, and controlled handling. If denied, she may reveal knowledge she hoped to keep in reserve.
+	- Outlands Guilds: Mera Ash becomes the extraction advocate. She assumes anything learned here must be survived before it can matter.
+	- Sarafan Order: Keep them imminent but mostly offstage. Their pressure matters because it shortens the party's decision window.
+	- Cult of the Wheel: Use the chamber itself as their voice. The place should suggest that some truths were buried deliberately.
+- Relic pressure:
+	- First contact requires a DR 2-3 Will or Soul test for the character who reaches deepest first.
+	- Failure should inflict 1 Corruption and an involuntary vision of blood inheritance, betrayal, or stolen identity.
+	- Success still grants no safety; it grants clarity at emotional cost.
+	- The Sanguine Knot should expose at least one false identity, one inherited obligation, and one truth a PC would rather leave hidden.
+	- Do not present the Knot as the origin of the chamber. The reveal should clarify that it has awakened inside an older blood-engine the cult only partially understands.
+- Mandatory NPCs:
+	- Serit Vale, because her real mission must become partially visible here.
+	- Mera Ash, because someone has to argue for survival over revelation.
+	- The most compromised surviving cult-linked NPC, whether as supplicant, captive, or revealed Vessel.
+	- One PC-specific echo, ancestor, or betrayed dead whose presence makes the contact feel chosen.
+- Encounter slot:
+	- Preferred structure: split focus under pressure.
+	- Run a chamber defense while one or two PCs engage with the relic and the others contain cult forces, protect witnesses, or hold ritual lines.
+	- Best trigger: a revealed Vessel, elite cult proxy, or blood-rite surge that makes standing still impossible.
+	- If the party avoid combat creatively, replace the fight with collapsing ritual geometry, spectral overload, or a possession cascade risk.
+- Spectral intrusion:
+	- The chamber appears complete in the Spectral, with former operators or sacrificial dead visible at their stations.
+	- The Well reflects not faces but lineages.
+	- A PC may momentarily see another party member as their ancestor, betrayer, or future corpse.
+	- Spoken vows and names should change the room.
+- End-of-session fallout:
+	- One major truth is confirmed publicly or within the party.
+	- At least one PC carries fresh Corruption, a mark, or a social burden tied to what the Knot revealed.
+	- The cult is bloodied, displaced, or partially successful in profaning the chamber.
+	- By session end, the party know the fragment can expose blood-sworn obligation and hidden identity, but not yet how to secure it cleanly.
+- Prep notes:
+	- Decide which reveal matters most to the campaign, and which one matters most to a PC. They should not be the same thing.
+	- Give every player something to do even if only one makes direct relic contact.
+	- Avoid making the vision purely expository. It should demand interpretation.
+	- If the party are already exhausted, let the price come through revelation and Corruption rather than a long fight.
+
+## Session 5
+
+- Purpose: Resolve the immediate struggle for the fragment and expose who now intends to own, hide, or destroy it.
+- Opening image: The chamber is no longer stable; blood has crept into carved channels that were dry for centuries, and every faction still in the field now wants the same room for different reasons.
+- Primary scenes:
+	- The party must decide whether to take, seal, conceal, or temporarily leave the Sanguine Knot while under active pressure.
+	- A second confrontation clarifies the real lines of conflict: cult profanation, Accord containment, Guild extraction, and looming Sarafan interference.
+	- The party test what the Knot can do in practice, whether by exposing a hidden oath, revealing a traitor, or breaking a blood-ward.
+	- The choice of who carries knowledge, relic access, or chamber control matters as much as the relic itself.
+	- The session should end with the fragment's status decided for now, even if imperfectly.
+- Faction moves:
+	- Cult of Hash'ak'gik: If not broken, they attempt one last theft, desecration, or targeted corruption gambit.
+	- Pale Accord: Serit Vale asks for custodianship, documentation rights, or temporary study under escort.
+	- Outlands Guilds: Mera Ash wants movement and deniability. She may support concealment over ownership.
+	- Sarafan Order: This is the point where they may arrive in force, send a small strike team, or issue a demand from above.
+	- Cult of the Wheel: A subtle actor may try to convince the party that burying the fragment again is the least catastrophic option.
+- Relic pressure:
+	- Deliberate use should now cost 1-2 Corruption depending on what the party ask of the Knot.
+	- The Knot's main practical power this session is to reveal blood-sworn obligations and false identities at the worst possible time.
+	- It should be obvious by session end that possession of the Knot is politically explosive even if the party do not fully understand its endgame role.
+- Mandatory NPCs:
+	- Serit Vale
+	- Mera Ash
+	- A Sarafan representative or advance force
+	- One revealed liar whose survival now matters because they still know something useful
+- Encounter slot:
+	- Preferred structure: multi-sided pressure rather than a single clean boss fight.
+	- Let two or more factions collide in the chamber, tunnels, or exit route.
+	- If you need a harder close, pair a revealed Vessel or elite cult survivor with environmental instability and a Sarafan incursion.
+	- If the party avoid battle, use a contested extraction or ritual standoff instead.
+- Spectral intrusion:
+	- The dead begin reacting to the party's choice, not merely observing it.
+	- A hidden oathbreaker or false inheritor should appear unmistakable in the Spectral.
+	- The chamber itself may refuse one outcome and facilitate another.
+- End-of-session fallout:
+	- The Sanguine Knot is now in party custody, faction custody, hidden, or temporarily sealed.
+	- Standing changes should become visible immediately across Accord, Guild, cult, and Sarafan relations.
+	- Hash'ak'gik Corruption Clock likely reaches 2 or 3 if the chamber was profaned or the rite went forward.
+	- Sarafan Purge Clock should advance if the Order now has proof of active corruption under Avernus.
+	- The party leave Arc I's central location with something that can no longer be denied.
+- Prep notes:
+	- Decide before play which outcomes are acceptable for Arc II. Do not let the relic vanish without consequence or trace.
+	- If the party hand it over, make sure they still keep leverage, knowledge, or a secret the recipient does not fully control.
+	- If the party keep it, make the burden immediate.
+	- Leave one faction angry enough to pursue them into Arc II.
+
+## Session 6
+
+- Purpose: Close the arc's local chapter and send the party into Arc II with clear enemies, obligations, and public consequences.
+- Opening image: Avernus behind them, the road ahead colder, and every surviving ally now speaking like someone who has started calculating what the party are worth.
+- Primary scenes:
+	- The party regroup, count losses, and learn which stories about the Blood-Well are already spreading.
+	- A social consolidation sequence forces them to settle debts, decide who travels with them, and choose what version of the truth they will allow into the world.
+	- One faction formally makes an offer, one makes a threat, and one asks for a promise the party will regret making lightly.
+	- The arc closes by pointing toward Dumah's Fortress, martial succession, or the next route tied to the Iron Echo.
+	- End on movement. Arc I should finish with the party in motion toward a harder political landscape.
+- Faction moves:
+	- Sarafan Order: Denunciation, pursuit order, interrogation demand, or a narrowly avoided cleansing action.
+	- Pale Accord: Offer of research cover, guarded alliance, or conditional sanctuary.
+	- Outlands Guilds: Offer of routes, smuggling, or silence for a price.
+	- Cult of Hash'ak'gik: Even if beaten locally, leave behind cells, marked witnesses, or a surviving agent with unfinished business.
+	- Vampire Clans: Introduce their interest now through rumor, envoy, intercepted message, or recovered correspondence pointing toward the Iron Echo and Dumah's Fortress.
+- Relic pressure:
+	- The Knot's influence should now be portable if the party have it, or socially visible if someone else does.
+	- Any bearer should show at least one narrative sign of strain: dreams, compulsions, unwanted recognition, or difficulty ignoring blood-oaths.
+	- If the party do not possess it, make sure its absence is just as active as its presence.
+- Mandatory NPCs:
+	- Serit Vale, if alive and not estranged
+	- Mera Ash, unless the party have already severed ties with the Guilds
+	- One surviving witness whose testimony may become dangerous
+	- One new hook NPC or message bearer tied to Arc II
+- Encounter slot:
+	- Keep combat optional here. The priority is consequence, not attrition.
+	- Best use: a short pursuit, roadside interception, or duel challenge that dramatizes the new status quo rather than replacing it.
+	- If a large battle is needed, it should be because the party failed to escape Avernus quietly, not because the arc needs one more fight.
+- Spectral intrusion:
+	- The arc should close with one final reminder that the Well changed the party permanently.
+	- A dead witness, ancestor, or betrayed soul should appear not to warn, but to observe what the party do next.
+	- If the Knot is in party hands, let it answer to a sleeping or wounded PC in a dream.
+- End-of-session fallout:
+	- Faction standings are no longer theoretical. Mark them in the tracker.
+	- The party enter Arc II with at least one ally, one hunter, one debt, and one secret that could break trust internally.
+	- The campaign's scope expands from hidden corruption under Avernus to open disputes over power and legitimacy.
+	- The path to Dumah's Fortress or the Iron Echo is established explicitly.
+- Prep notes:
+	- Use this session to convert revelations into obligations.
+	- Make every major surviving NPC want something concrete before the party leave.
+	- Tie the next arc hook to what the party did with the Sanguine Knot, not just to geography.
+	- Do not let Arc I end in emotional flatline. Leave one wound open on purpose.
+
+## Running Notes
+
+- Which lies the party currently believes:
+- Which NPC is compromised but not yet exposed:
+- Current owner or bearer of the Sanguine Knot:
+- Sarafan posture toward the party:
+- Guild posture toward the party:
+- Current Corruption consequences in the region:

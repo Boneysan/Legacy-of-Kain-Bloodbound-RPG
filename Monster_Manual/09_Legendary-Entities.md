@@ -834,14 +834,14 @@ The Death Guardian is everything the role was meant to prevent: an undead being 
 **Necrotic Detonation** (2 Actions, costs 12 SE, Recharge 5-6)
 - **Dice Pool:** Soul 6 + Forbidden Knowledge 5 = 11d6 vs Blood
 - **Range:** 30-foot radius
-- **Damage:** 16 Entropic to all living creatures in range
+- **Damage:** 14 Entropic to all living creatures in range
 - **Save:** DR 4 Blood save to halve
 - **Effect on Fail:** Target is **Weakened** for 3 rounds. While Weakened by this blast, the target also suffers −2 dice on all physical actions.
 - **Effect on Undead:** Instead of damage, all undead within 30 feet are healed for 8 HP
 
 **Death Nova (Reaction, 1/combat — triggers automatically when HP is first reduced below half):**
 - **Range:** 30-foot radius burst, triggered by near-death response
-- **Effect:** All living creatures in range make DR 4 Will save or take 12 Soul damage and become **Frightened** for 3 rounds. Living creatures that fail also lose their Reaction until the end of their next turn.
+- **Effect:** All living creatures in range make DR 4 Will save or take 10 Soul damage and become **Frightened** for 2 rounds. Living creatures that fail also lose their Reaction until the end of their next turn.
 - This cannot be prevented, delayed, or selected against.
 
 ### Abilities
@@ -855,12 +855,12 @@ The Death Guardian is everything the role was meant to prevent: an undead being 
 **Legendary Actions (3 per round):**
 - **Reaper's Blade (1 action):** Make one Reaper's Blade attack
 - **Command Undead (1 action):** One undead within 60 feet immediately moves up to its speed and makes one attack outside its normal initiative
-- **Necrotic Detonation (3 actions):** Use Necrotic Detonation even if not recharged (bypasses Recharge; still costs 12 SE)
+- **Grave Wind (2 actions):** One living creature within 30 feet takes 6 Soul damage and must pass a DR 3 Will save or be pulled up to 10 feet toward the Guardian
 
-**Lair Action — Death Bell (Initiative count 20):** All creatures within 60 feet that have taken damage in this encounter must make DR 3 Blood save or their wounds worsen: they take damage equal to the number of rounds of combat that have passed so far (1 damage at round 1, 2 at round 2, etc.). This is a cumulative pressure.
+**Lair Action — Death Bell (Initiative count 20):** All creatures within 60 feet that have taken damage in this encounter must make DR 3 Blood save or their wounds worsen: they take damage equal to half the number of rounds of combat that have passed so far, rounded up (max 3). This is cumulative pressure, but no longer escalates unchecked.
 
 ### Tactics
-The Death Guardian positions at the center of a summoned undead screen, using Necrotic Detonation as its primary area denial tool. Reaper's Blade targets isolated PCs (to generate Risen Thrall fodder). It tracks who has used Legendary Resistance or defensive reactions and targets them with Death Nova conditions when possible. Once reduced below 115 HP, it uses all 3 Legendary Actions every round.
+The Death Guardian positions at the center of a summoned undead screen, using Necrotic Detonation as its primary area denial tool. Reaper's Blade targets isolated PCs (to generate Risen Thrall fodder). It tracks who has used defensive reactions and targets them with Death Nova conditions when possible. Once reduced below 115 HP, it becomes more aggressive with Reaper's Blade, Command Undead, and Grave Wind rather than repeating full detonations every round.
 
 **The Undying Problem:** The party must learn that the Guardian can revive before facing it, or face the crushing morale blow of killing it and watching it stand back up. Integrating this discovery into the adventure — a prophecy, a researcher's notes, an NPC warning — is essential.
 
