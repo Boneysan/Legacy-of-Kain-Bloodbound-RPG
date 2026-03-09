@@ -12,8 +12,9 @@ At a glance:
 	- 7.3.2 Universal Armor
 	- 7.3.3 Rare Armor (GM Discretion)
 	- 7.3.4 Relic Armor (Legendary or Unique)
-- 7.4 Acquisition and Crafting
-- 7.5 Tactical Considerations
+- 7.4 Lineage and Cultural Gear
+- 7.5 Acquisition and Crafting
+- 7.6 Tactical Considerations
 
 **Terminology Reminder:** Defense Value (DV) = number of successes needed to hit a target in combat. Armor = flat damage reduction applied after a hit lands. These are separate mechanics. All armor in this chapter uses **flat damage reduction** (Armor X) unless explicitly noted. See Chapter 0: Core Mechanics for full definitions.
 
@@ -28,7 +29,7 @@ Weapons in Bloodbound deal fixed base damage on a successful hit, modified by we
 **Range Categories:** Melee (adjacent, 1 tile) | Reach (2 tiles) | Close (3–4 tiles) | Ranged (5–8 tiles) | Long Range (9–12+ tiles)
 ### 7.1.1 Class-Specific Weapons (Standard Tier, Levels 1–7)
 
-Each class has three signature weapons reflecting their combat role and thematic identity. These are available at character creation or through early-game acquisition.
+Each class has signature weapons reflecting their combat role and thematic identity. These are available at character creation or through early-game acquisition.
 
 #### 7.1.1.1 Blood Knight
 
@@ -94,6 +95,10 @@ Bludgeoning | One-handed | Melee
 Piercing | One-handed | Reach (2 tiles)
 5 Physical (Piercing) damage. On critical hit, wielder regains 1 HP.
 
+**Pulse Needle**
+Piercing | One-handed | Ranged (8 tiles)
+3 Physical (Piercing) damage. If the target is Bleeding, choose one: pull it 1 tile, or one ally within 2 tiles of it regains 1 HP.
+
 #### 7.1.1.5 Glyphwright
 
 Glyphwrights wield arcane implements inscribed with ancient sigils, enhancing structured magic and providing support.
@@ -109,6 +114,10 @@ Bludgeoning | One-handed | Melee
 **Glyph-Etched Wand**
 Force | One-handed | Ranged (8 tiles)
 3 Force damage. Bypasses Armor. On hit, removes one ongoing magical effect from the target (DR 2 Soul + Glyphcasting check).
+
+**Surveyor's Prism**
+Force | One-handed | Ranged (8 tiles)
+3 Force damage. Bypasses Armor. On hit, choose one ally within 3 tiles of the target; that ally may move 1 tile without provoking Reactions.
 
 #### 7.1.1.6 Dreadblade
 
@@ -157,6 +166,10 @@ Slashing | One-handed | Melee
 **Whisperknife**
 Piercing | One-handed | Melee
 3 Entropic (Void) damage. Prevents non-magical healing. Can be summoned or dismissed as a free action. Passes through magical barriers and glyph-based defenses.
+
+**Prophet's Thorn**
+Entropic | One-handed | Ranged (8 tiles)
+3 Entropic (Void) damage. Prevents non-magical healing. On hit, the target suffers −1 die to the next save it makes against one of your spells before the end of your next turn.
 
 ### 7.1.2 Weapon Tier Progression (Enhanced & Masterwork)
 
@@ -236,6 +249,18 @@ Bludgeoning | Two-handed | Melee
 Slashing | One-handed | Close (3 tiles)
 5 Physical (Slashing) damage. On hit, wielder may initiate a grapple as a free action (opposed Fury + Unarmed Combat roll). Bleeding targets automatically fail the grapple. For Sangromancer, Hylden Warlock, Blood Knight.
 
+**Lattice Boltcaster**
+Force | Two-handed | Long Range (12 tiles)
+5 Force damage. Bypasses Armor. On hit, the next glyph effect that targets this creature before the end of your next turn gains +1 DR or +2 damage (your choice). For Glyphwright.
+
+**Chirurgeon's Chain**
+Spectral | One-handed | Close (4 tiles)
+5 Spectral damage. Ignores Physical Armor. On hit, choose: pull the target 1 tile and inflict standard Bleeding, or one ally within 4 tiles regains 2 HP. For Sangromancer.
+
+**Whispering Prism**
+Entropic | Two-handed | Long Range (12 tiles)
+5 Entropic (Void) damage. Prevents non-magical healing. On hit, target must make a DR 2 Will save or be Silenced until the end of its next turn. For Hylden Warlock.
+
 **Soulreaver Prototype**
 Spectral | One-handed | Melee
 5 Spectral damage. Ignores Physical Armor. Wielder gains +1 Corruption per hit. Requires attunement and a GM story trigger to acquire. For Soul Reaver, Hylden Warlock — GM story reward only.
@@ -255,6 +280,18 @@ Slashing | One-handed | Melee
 **Voidrend Scepter**
 Bludgeoning | One-handed | Melee
 6 Entropic (Void) damage. Prevents non-magical healing. On hit, target must make a DR 3 Will save or suffer Disadvantage on their next action. On a critical hit, target is also Staggered for 1 round. For Hylden Warlock, Soul Reaver.
+
+**Architect's Compass**
+Force | One-handed | Ranged (8 tiles)
+6 Force damage. Bypasses Armor. On hit, choose one: push the target 2 tiles, grant one ally within 6 tiles +1 DV until the start of your next turn, or trigger one glyph you placed within 8 tiles as if the target had entered it. For Glyphwright.
+
+**Avernus Pulse-Scepter**
+Spectral | One-handed | Ranged (8 tiles)
+6 Spectral damage. Ignores Physical Armor. On hit, choose one: inflict standard Bleeding, heal one ally within 6 tiles for 3 HP, or end standard Bleeding on one ally within 6 tiles and grant them +1 Armor until the start of your next turn. For Sangromancer.
+
+**Shard of the Unwheel**
+Entropic | One-handed | Ranged (8 tiles)
+6 Entropic (Void) damage. Prevents non-magical healing. On hit, the target cannot benefit from Advantage or rerolls until the end of its next turn; if it is maintaining Concentration, that effect ends. For Hylden Warlock.
 
 **Sanctified Claymore of Avernus**
 Slashing | Two-handed | Melee
@@ -402,13 +439,83 @@ Relic armor is tied to Nosgoth's deepest lore and requires epic story progressio
 
 ---
 
-## 7.4 Acquisition and Crafting
+## 7.4 Lineage and Cultural Gear
+
+Lineage gear is a cultural overlay, not a class replacement. These items grant narrow utility, survival support, and situational advantages. They do not replace class weapons, class armor, or relic progression.
+
+### 7.4.1 Lineage Gear Rules
+
+- Treat lineage gear as a light overlay, not a separate equipment subsystem.
+- Each lineage or subgroup has one signature item or kit.
+- A character from that lineage or culture may begin play with its signature item at character creation with GM approval.
+- Other characters may acquire lineage gear through barter, faction trust, salvage, inheritance, trophies, or training.
+- Each item grants one narrow passive benefit and one activated benefit usable once per scene or in a clearly situational way.
+- Lineage gear should not grant flat damage increases, broad DV boosts, or class-defining combat actions.
+- If a character carries more than one lineage item, they may activate only one lineage gear benefit per scene.
+
+### 7.4.2 Signature Gear by Lineage and Culture
+
+#### 7.4.2.1 Vampires
+
+**Embermark Harness**
+Razielim lineage gear. A harness of wing straps, ash chalk, and spectral tracers used by hidden Razielim enclaves. +1 die to checks to read planar scars, hidden echo-marks, or recent spectral disturbances. Once per scene, after descending from height or crossing a planar seam, ignore one fall or ledge hazard or gain +1 die to your next Stealth or Observation roll.
+
+**Bastion-Grip Bracers**
+Turelim lineage gear. Stone-weighted siege braces worn by fortress bloodlines and linebreakers. +1 die to checks to brace doors, hold chokepoints, stabilize camp fortifications, or force open heavy stonework. Once per scene, while adjacent to stone, fortification, or heavy cover, you or one adjacent ally gains +1 Armor against one attack or environmental hazard.
+
+**Tomb-Sleeper Shroud**
+Dumahim lineage gear. A burial-cloth kit with iron pegs and weight-stones used in entombment vigils. +1 die to checks to endure burial, crushing debris, cold crypts, or forced marches. Once per scene, if you remained still since your last turn, ignore forced movement and gain +1 die to your next shove, lift, or break-object check.
+
+**Silk Accord Harness**
+Zephonim lineage gear. A web-harness of hooks, silkline, and whisper-thread pouches. +1 die to checks to climb, descend, suspend yourself, or rig ambush lines in ruins. Once per scene, move up to 2 tiles vertically or across an anchorable gap without a check and without provoking Reactions.
+
+**Flesh Architect's Satchel**
+Melchiahim lineage gear. Preservatives, bone needles, clamps, and wrapping cloth used for field repair and preservation. +1 die to checks to harvest organic parts, preserve corpses, or jury-rig bodily repairs. Once per scene, spend an Action to stop Bleeding on yourself or an adjacent creature; if fresh flesh, carrion, or a prepared patch is at hand, that creature also regains 1 HP.
+
+**Tidekeeper Wraps**
+Rahabim lineage gear. Moisture-binding wrappings and salt oils carried by Rahabim who must endure dry land. A Rahabim wearing them ignores dry-air penalties for 8 hours. Anyone wearing them gains +1 die to checks involving swimming, diving, or navigating flooded ruins. Once per scene, while touching water, ask one simple question about recent passage, current direction, or what disturbed the water; the GM answers briefly and truthfully.
+
+#### 7.4.2.2 Other Lineages
+
+**Anchor Reliquary**
+Wraith lineage gear. A shard, token, or name-script bound to the Wraith's purpose. +1 die to checks to detect planar seams, track your Anchor's resonance, or resist banishment and spiritual displacement. Once per scene, while phased, pass through a barrier up to 2 feet thick or ignore one spectral hazard tied to memory, fear, or grief.
+
+**Counter-Frequency Diadem**
+Hylden-Blooded lineage gear. A whisper-dampening lattice of metal, glyph glass, and alien harmonics. +1 die to checks to read Hylden script, stabilize corrupted devices, or maintain focus amid the Whispers. Once per scene, when a Hylden relic, glyph trap, or entropic terrain effect would inflict 1 Corruption or impose Disadvantage, prevent the Corruption or reduce the penalty to −1 die.
+
+**Gravebind Harness**
+Revenant lineage gear. Ash wrappings, oath-nails, corpse clasps, and grave-cord used to keep a revenant fixed to purpose. +1 die to checks to remain active through rot, cold, ruin, or sanctified discomfort. Once per scene, anchor yourself to the world: ignore forced movement, being knocked Prone, or the next environmental penalty caused by rubble, mud, or grave-soil until the start of your next turn.
+
+**Fracture Compass**
+Unbound lineage gear. A broken compass that points toward the least likely path. +1 die to checks to spot hidden exits, unstable timelines, or improbable routes through danger. Once per scene, after failing a non-attack roll tied to escape, pursuit, navigation, or improvisation, reroll 1 failed die.
+
+#### 7.4.2.3 Humans
+
+**Purity March Kit**
+Sarafan cultural gear. Blessed chalk, lamp oil, incense strips, and field-prayer seals. +1 die to checks to consecrate campsites, identify corruption, or resist unholy fear. Once per scene, sanctify a doorway, bridge, or 2-tile space until end of scene; the first undead, spectral, or corrupted creature to cross it suffers −1 die to its next roll.
+
+**Thread-Singer Trail Kit**
+Nomad cultural gear. Knot-cords, water cloth, salvage hooks, and a memory-thread spool. +1 die to checks for navigation, foraging, salvage, or reading weather in the wilds. Once per scene, after 1 minute of scouting, the party ignores one stretch of difficult terrain or one minor travel hazard.
+
+**Omen String**
+Oracle-Blooded cultural gear. A line of bone, glass, or old coin charms tuned to tremors in fate. +1 die to your first Insight or Observation check when entering a new site, meeting a stranger, or examining an omen. Once per scene, ask the GM one of these: What here is about to change? What choice brings the least immediate harm? What danger have we not noticed? The answer must be brief, cryptic, and true.
+
+### 7.4.3 GM Use
+
+Treat lineage gear as cultural signatures rather than standard market inventory. A Rahabim's wraps, a Razielim harness, or a Sarafan purity kit should communicate origin, obligation, and survival practice as much as mechanics.
+
+If this section expands later, expand sideways rather than upward: alternate kits, faction variants, barter notes, and relic versions tied to story rewards are safer than stronger combat math.
+
+---
+
+## 7.5 Acquisition and Crafting
 
 ### Acquisition Tiers
 
 | Tier | Availability | How to Acquire |
 | :--- | :--- | :--- |
 | **Standard** (Class/Universal) | Levels 1+ | Character creation, merchants, faction vendors. Subject to GM approval for some class-specific items. |
+| **Lineage / Cultural Gear** | Levels 1+ | Character creation with GM approval, faction trust, barter, salvage, inheritance, or narrative reward. |
 | **Enhanced** (Tier 2 Weapons) | Levels 8+ | Crafting (DR 3 Focus + Craft check), rare material components, faction commissions. |
 | **Masterwork** (Tier 3 Weapons) | Levels 15+ | Crafting (DR 4 Focus + Craft check), legendary material + legendary location (e.g., vampire bloodforge, ancient glyph forge). |
 | **Rare** (Weapons/Armor) | GM Discretion | Quests, faction loyalty rewards, rare material hunts, defeating powerful foes. |
@@ -424,18 +531,24 @@ Relic armor is tied to Nosgoth's deepest lore and requires epic story progressio
 
 ---
 
-## 7.5 Tactical Considerations
+## 7.6 Tactical Considerations
 
 Weapons and armor in Bloodbound are designed for strategic depth. Class weapon + armor pairings create synergies that reward planning:
 
 - **Blood Knight:** Pair *Bloodfang Dagger* with *Fleshwoven Mail* — apply Bleeding, then heal while standing in the resulting carnage. Upgrade to the *Moonlit Fang* (Rare) for devastating nighttime ambushes.
 - **Soul Reaver:** Use *Spectral Talons* with *Soulrift Weave* — phase into the Spectral Realm for the 6-damage bonus, teleport to flank, and ignore all armor. Upgrade to *Soulbrand Blade* (Rare) for anti-healing pressure.
 - **Shadowmancer:** Combine *Shadow Fang* with *Penumbra Wraps* — the Stealth bonuses stack, enabling reliable ambushes. Upgrade with *Nightfall Cloak* armor for bonus stealth-attack damage.
-- **Sangromancer:** Use *Veinbinder Rod* with *Sanguine Mantle* — apply unhealable Bleeding while boosting Blood spell damage. *Bloodwoven Whip* (Rare) adds battlefield control via grapples.
-- **Glyphwright:** Pair *Runic Focus Rod* with *Sigil-Etched Robes* — the Force damage bypasses Armor entirely while the Robes boost Glyphcasting. *Warding Mantle* protects nearby allies.
+- **Sangromancer:** Use *Pulse Needle* to exploit Bleeding from safety, then shift to *Veinbinder Rod* or *Bloodwoven Whip* when enemies close. *Sanguine Mantle* and *Avernus Pulse-Scepter* support a healer-controller style that keeps allies standing while pressure builds.
+- **Glyphwright:** Pair *Surveyor's Prism* with *Sigil-Etched Robes* or *Warding Mantle* — reposition allies, then punish movement with glyphs. *Lattice Boltcaster* and *Architect's Compass* reward planned battlefield geometry instead of direct damage races.
 - **Dreadblade:** *Assassin's Fang* with *Nightfall Cloak* — stealth attacks deal +2 (weapon) +1 (armor) = +3 bonus damage. *Deathweave Shroud* enables chain kills with Advantage.
 - **Warden of Balance:** *Blessed Mace* with *Sarafan Plate* — Stagger undead on hit while the Plate imposes Will save penalties on nearby undead. *Holy Valor Guard* adds Entropic resistance for anti-corruption missions.
-- **Hylden Warlock:** *Hexbrand* with *Soulwrack Robes* — Corruption damage is boosted by +1, and the Concentration disruption shuts down enemy casters. *Ritual Vestments* reduce the Corruption cost of your own dark spells.
+- **Hylden Warlock:** *Prophet's Thorn* and *Whispering Prism* let you pressure casters from range before committing to melee. *Soulwrack Robes*, *Ritual Vestments*, and *Shard of the Unwheel* create a control build focused on failed saves, disrupted concentration, and denied advantages.
+
+### Lineage Gear in Play
+
+- **Lineage gear** should reinforce identity, not replace class loadouts. A *Tidekeeper Wraps* user still needs class weapons and armor; the wraps simply let Rahabim or their allies function in dry territory.
+- **Cultural kits** reward preparation and story ties. A *Purity March Kit*, *Thread-Singer Trail Kit*, or *Anchor Reliquary* can shape how a party approaches travel, sanctified ground, or planar hazards before combat begins.
+- **Narrative access matters.** These items work best when they come from faction trust, inheritance, salvage, or ritual exchange rather than ordinary shopping.
 
 ### General Tips
 

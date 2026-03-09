@@ -14,6 +14,8 @@ Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is
 
 The *Legacy of Kain: Bloodbound RPG* presents six primary Lineages, each with distinct lore, mechanical traits, and narrative potential. These Lineages are deeply tied to Nosgoth’s metaphysical and physical struggles, shaped by prophecy, corruption, and the eternal conflict between fate and free will.
 
+For lineage-specific equipment, cultural kits, and signature survival tools, see [Chapter 7: Equipment of Nosgoth, Section 7.4](./07_Equipment.md#74-lineage-and-cultural-gear).
+
 ## 2.2 Vampires
 **Lore**: Immortal predators descended from Kain’s lieutenants, vampires are cursed, sterile, and slowly decaying. Once enforcers of balance, their corruption followed Kain’s refusal to sacrifice himself for the Pillars. Each brood reflects its progenitor’s strengths and flaws, with territorial and bestial tendencies.
 - **Movement**: 30 ft (6 squares); move through rubble without penalty.
@@ -125,5 +127,6 @@ Seers touched by divinity or prophecy.
 ## 2.8 Guidance
 - **Lore Integration**: The Lineages are deeply tied to Nosgoth’s themes of fate, corruption, and rebellion. GMs can use their narrative hooks to craft stories around restoring balance (Turelim, Sarafan), defying destiny (Unbound, Razielim), or succumbing to alien influence (Hylden-Blooded).
 - **Mechanical Balance**: Each Lineage offers unique movement, stealth, and combat advantages, balanced by limitations (e.g., Vampire sterility, Wraith Soul Energy needs, Hylden Corruption). Subtypes add variety without overwhelming complexity.
+- **Lineage Gear**: Cultural equipment should reinforce identity without replacing class gear. Use [Chapter 7: Equipment of Nosgoth, Section 7.4](./07_Equipment.md#74-lineage-and-cultural-gear) for signature lineage items, travel kits, and survival tools.
 - **Campaign Hooks**: Social prejudice (e.g., humans vs. Hylden-Blooded), relic quests (e.g., Razielim seeking lost heritage), or prophecy conflicts (e.g., Unbound disrupting fate) can drive encounters and campaigns.
 
