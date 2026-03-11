@@ -76,6 +76,8 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 
 **Death Ecstasy**: When reduced to 0 HP, the Fanatic laughs maniacally and whispers a prayer. All allies within 10 feet gain Advantage on Will saves until the end of the encounter.
 
+**Behavior Tags:** pack, brute
+
 ### Tactics
 - **Swarm Tactics**: Fanatics always attack in groups of 4-8. They surround isolated targets and use Martyrdom Lunge on the same turn to overwhelm defenses.
 - **Fearless Advance**: They never retreat, even when outmatched. This makes them predictable but dangerous.
@@ -149,6 +151,8 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 - Place a Zone of Despair (20-foot radius) that imposes Disadvantage on all enemy rolls while inside
 
 **False Prophet**: The Priest can speak with divine authority, making Intimidation rolls with Advantage against faithful mortals.
+
+**Behavior Tags:** soldier, support
 
 ### Tactics
 - **Support Role**: Forsaken Priests stay behind frontline cultists, using Dark Blessing to empower dangerous allies (like Witch-Hunters or Warlocks).
@@ -227,6 +231,8 @@ Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are ha
 - "The tall one will fall before the moon rises." (One PC will be reduced to 0 HP within 3 rounds.)
 - "Blood will open the path forward." (A blood sacrifice will reveal a hidden passage.)
 
+**Behavior Tags:** controller, coward
+
 ### Tactics
 - **Evasive and Unpredictable**: The Seer uses high DV and Fractured Timeline to avoid damage. They're frustrating to pin down.
 - **Temporal Echo Priority**: They use this ability to undo powerful attacks, healing spells, or tactical positioning by enemies.
@@ -303,6 +309,8 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 
 **Unyielding Faith** (Reaction): When reduced to 0 HP for the first time in an encounter, the Inquisitor remains standing at 1 HP and immediately makes a free Silver Longsword attack.
 
+**Behavior Tags:** soldier
+
 ### Tactics
 - **Identify Priority Targets**: Inquisitors focus fire on vampires, corrupted PCs, and undead. They largely ignore non-supernatural threats.
 - **Judgement Strike for Big Threats**: They save Judgement Strike for dangerous vampires or corrupted spellcasters, using its armor-bypassing property to punish high-defense foes.
@@ -373,6 +381,8 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 **Cowardly Retreat**: While Bloodied, the Raider must pass a DR 2 Will save or spend their turn fleeing at double movement speed. If their leader is killed or if more than half their warband is dead, they automatically fail this save.
 
 **Stealth Setup**: If the Raiders have time to prepare (ambushing travelers on a road, setting a trap in a canyon), they begin combat Hidden. PCs must pass a DR 2 Focus + Observation check to avoid being Surprised (lose first turn).
+
+**Behavior Tags:** ambusher, skirmisher
 
 ### Tactics
 - **Stealth from Range**: Raiders start Hidden and fire arrows from cover (trees, rocks, ruins). They only close to melee once enemies are wounded or outnumbered.
@@ -452,6 +462,8 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 
 **Rune of Warding** (Reaction, 1/encounter): When targeted by an attack, the Warlock can activate a warding rune. They teleport up to 20 feet to an unoccupied space they can see, and the attack misses automatically.
 
+**Behavior Tags:** controller
+
 ### Tactics
 - **Open with Area Damage**: Warlocks start with Hylden Flame to soften up groups, then follow up with Void Bolt on priority targets.
 - **Runic Shielding Management**: They monitor their SE carefully. If running low, they use Blood Price to sacrifice HP for more casting power.
@@ -529,6 +541,8 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 
 **Contract Kill** (Passive): At the start of the encounter, the Assassin designates one PC as their "contract target." They deal +2 damage on all attacks against that target and have Advantage on Stealth rolls when sneaking toward them.
 
+**Behavior Tags:** ambusher, skirmisher
+
 ### Tactics
 - **Stealth Opening**: Assassins begin combat Hidden. They use Shadow Step to reach isolated targets and attempt Coup de Grace on sleeping or Stunned victims.
 - **Poisoned Dart Harassment**: If they can't get close safely, they fire Poisoned Darts from cover, using the Poison effect to weaken priority targets.
@@ -605,6 +619,8 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 
 **Unyielding Commander**: The first time per encounter the Commander would be reduced to 0 HP, they remain standing at 1 HP and gain +2 dice on all attacks for 2 rounds (adrenaline surge).
 
+**Behavior Tags:** soldier, controller
+
 ### Tactics
 - **Lead from the Front**: Commanders charge into melee against spellcasters, using Anti-Magic Aura to disrupt their abilities.
 - **Counter-Spell Strike for Interruption**: They save this reaction for high-cost spells (like rituals or powerful attacks), interrupting them at critical moments.
@@ -661,6 +677,8 @@ The outer ring of Hash'ak'gik's worship—mortals seduced by visions of a god th
 ### Encounter Role
 Acolytes are disposable screening troops. Their true danger is the Blood-Prayer coordination and refusal to break. Use them in groups of 4–6, supporting a Vessel of Hash'ak'gik or guarding a ritual site.
 
+**Behavior Tags:** pack, soldier
+
 ### Tactics
 Acolytes activate Blood-Prayer in the first round, then advance in tight formation. They prioritize spellcasters and anyone displaying holy symbols. If a Vessel is present, they move to protect it, forming a living wall. They will sacrifice themselves without hesitation to buy the Vessel time to complete a ritual.
 
@@ -714,6 +732,8 @@ A mortal hollowed out by Hash'ak'gik's will and rebuilt as a living conduit for 
 
 ### Encounter Role
 Vessels are mid-tier bosses designed for investigation-heavy encounters. The challenge is often *finding* the Vessel before combat, not winning the fight itself. Pair with 4–6 Acolytes for a full cult encounter.
+
+**Behavior Tags:** brute, controller
 
 ### Tactics
 The Vessel begins combat with Voice of the Pit to scatter the party, then targets spellcasters with Demonic Surge. It uses Blood Conduit when threatened, sacrificing Acolytes without hesitation. If the fight turns against it, the Vessel attempts to flee rather than die—it has social connections to protect and information Hash'ak'gik doesn't want exposed.
@@ -800,6 +820,8 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 ### Reactions
 **Sarafan Shield** (Reaction, when an ally within 10 feet is hit by an attack)
 - The Grand Inquisitor interposes, redirecting the attack to itself. The Grand Inquisitor takes the damage instead, reduced by its Armor.
+
+**Behavior Tags:** boss, soldier, controller, support
 
 ### Tactics
 - **Open with Sanctified Judgment**: The Grand Inquisitor begins by blasting enemies in a large Radiant AoE, Frightening undead and steadying nearby allies.
@@ -892,8 +914,10 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 **Lashing Reflex** (Reaction, when a creature enters melee range)
 - The Turning makes one Rending Claws attack with Disadvantage against the triggering creature (uncontrolled flailing)
 
+**Behavior Tags:** boss, brute, controller
+
 ### Tactics
-The Turning has no tactics — it is a creature in agony, acting on fractured instinct. It charges the nearest creature and uses Rending Claws repeatedly. When an enemy is Prone or Grappled, it uses Desperate Bite to feed. It uses Blood Cry reflexively when surrounded. When Feral Desperation triggers, it becomes a true hazard for everyone on the battlefield.
+The Turning fights on fractured instinct rather than reason, but those instincts are still lethal. It rushes the nearest moving creature and tears with Rending Claws until someone falls, stumbles, or is pinned, then lunges in with Desperate Bite to feed and stabilize its failing body. It unleashes Blood Cry when surrounded, cornered, or overwhelmed by pain, buying space through panic rather than planning. Once Feral Desperation triggers, it stops distinguishing ally from enemy and becomes a roaming hazard that mauls whichever creature is closest, making the rescue option dramatically harder but still possible.
 
 **Encounter Design:** The Turning works best as a morally complex encounter. Place it in a location where the party has context — a village, a friend's home, a Sarafan prison. Pair with environmental storytelling (broken chains, scattered personal belongings, blood trails) to establish that this was someone. The Tragic Nature ability gives compassionate parties a path to salvation, but the 3-round Rituals check is risky while the creature fights.
 
@@ -1144,6 +1168,8 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 - Reinforcements: 1d2 Sarafan Footsoldiers (TV 3 each) arrive from an entrance.
 - Blessing of the Pillars: One ally within 30 feet is cured of 1 condition.
 
+**Behavior Tags:** boss, soldier, controller, support
+
 ### Tactics
 - **Force Multiplier**: The Warlord's greatest threat is not personal damage but the combined power of an organized Sarafan force. Rally the Line and Tactical Genius turn standard soldiers into deadly threats. Kill the Warlord first to break the army's coordination.
 - **Anti-Undead Specialist**: Consecrated Presence and Judgment Strike make the Warlord devastating against undead PCs or allies. Non-undead party members should engage while vampiric characters stay at range.
@@ -1206,6 +1232,8 @@ They function as the ground troops of any Sarafan encounter — expendable, coll
 
 **Mortal Courage:** Footsoldiers do not Auto-fail morale checks when an ally is killed; they double down instead (see Sarafan Tactics below).
 
+**Behavior Tags:** soldier, pack
+
 ### Tactics
 Footsoldiers advance in organized groups of 4–8, using Formation Fighting to maximize attack dice. When the party is in melee, Footsoldiers attempt to surround them (2–3 per PC). They don't use complex tactics, but their numbers and discipline make them a genuine threat. Their strength comes from coordinated bodies on the field, not individual durability.
 
@@ -1264,6 +1292,8 @@ They are practical in a way many Sarafan are not. An Outrider doesn't care about
 **Shadow Stealth:** If the Outrider attacks from Stealth (before being detected), its first attack gains Advantage and ignores the target's Armor.
 
 **Terrain Reading:** The Outrider is never Slowed by natural difficult terrain (mud, undergrowth, rubble). They move at full speed through it.
+
+**Behavior Tags:** soldier, skirmisher, ambusher
 
 ### Tactics
 Outriders open combat from Stealth where possible, using Shadow Stealth for maximum first-strike damage, then applying Hunter's Mark to the party's most threatening member. They use Skirmisher to stay at medium range from melee fighters while maintaining crossbow fire. If cornered, they drop to Short Sword and fight dirty rather than surrender.
@@ -1372,6 +1402,8 @@ A Rune-Forger at work is a methodical, deliberate practitioner: they prepare the
 **Runic Expertise:** Rune-Forgers are immune to their own glyphs and can walk through them freely. They can also attempt to disarm enemy magical traps with a Focus + Glyphcasting vs DR roll.
 
 **Arcane Supplier:** After combat, searching a Rune-Forger's equipment reveals 1d3 pre-made Runestones (single-use items each dealing 5 Soul damage in a 10-foot area, thrown as an action) — **Trade Value**: 12 supplies each.
+
+**Behavior Tags:** controller, soldier
 
 ### Tactics
 In pre-planned encounters, the Rune-Forger has placed 3 glyphs at chokepoints and retreats toward them when PCs advance, funneling the party through the minefield. In ambush situations, they prioritize Rune Bolts at range and Deploy Glyph Trap between themselves and melee threats. Rune Shield is reserved for attacks from casters (who may lack the physical follow-up to drain its economy).

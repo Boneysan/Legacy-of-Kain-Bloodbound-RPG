@@ -96,6 +96,8 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 
 **Anti-Vampire Directive**: The Knight can identify vampires on sight and prioritizes them as targets. It will ignore non-vampires unless they attack it or block its path to a vampire.
 
+**Behavior Tags:** soldier, sentinel
+
 ### Tactics
 - **Formation Fighting**: Clockwork Knights work in pairs or squads, using Formation Protocol to boost defenses.
 - **Priority Targeting**: They identify and attack vampires first, using Silver Longsword to exploit weaknesses.
@@ -189,6 +191,8 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 - **Craft** (costs 2 actions): The Sentinel reshapes the battlefield. It can create a 10-foot-tall stone wall (blocks movement and line of sight) or collapse an existing wall within 30 feet.
 - **Pillar Beam** (costs 3 actions): The Sentinel uses Pillar Beam (even if it already used it this round).
 
+**Behavior Tags:** boss, sentinel, controller, brute
+
 ### Tactics
 - **Pillar Beam Opening**: The Sentinel starts combat with Pillar Beam to soften up clustered enemies and Stun priority targets (casters, leaders).
 - **Stone Spike Eruption for Control**: It uses this ability to create difficult terrain, slowing enemy movement and splitting the party.
@@ -269,6 +273,8 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 
 **Mindless Obedience**: The Golem follows the last order it was given, even if centuries old. Clever players can convince it they're authorized by the "master" (requires Persuasion or Deception, DR 3).
 
+**Behavior Tags:** brute, sentinel
+
 ### Tactics
 - **Simple Aggression**: Golems attack the nearest target with Stone Fist, using multi-attack to pummel one enemy.
 - **Elemental Burst When Available**: They use Elemental Burst when it recharges, prioritizing clustered enemies.
@@ -346,6 +352,8 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 **Trapped Soul**: The soul within the Beast is suffering. Characters with Soul-based abilities (Wraiths, Soul Reavers, etc.) can attempt to free the soul with a DR 4 Soul + Rituals roll (requires 1 action in combat). If successful, the Beast collapses (instant death) and the soul is released (may provide information or gratitude).
 
 **Erratic Behavior:** The first time it becomes Bloodied, the Iron-Cage Beast's conflicting commands cause it to lose its next turn as it recalibrates. This happens only once per encounter.
+
+**Behavior Tags:** pack, brute, skirmisher
 
 ### Tactics
 - **Fast and Aggressive**: Iron-Cage Beasts charge in with Pounce, knocking targets Prone, then follow up with Clawed Iron Limbs.
@@ -425,6 +433,8 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 **Phase Step (Recharge 5-6)**: As a bonus action, the Automaton can teleport up to 15 feet to any unoccupied space it can see (glyphs allow brief reality shifts). This can be used once per turn.
 
 **Self-Repair Protocol**: When reduced below 20 HP, the Automaton spends 1 round repairing itself (cannot attack, gains +4 DV). At the end of the round, it regains 10 HP. This can only be used once per encounter.
+
+**Behavior Tags:** soldier, controller, phase_shifter
 
 ### Tactics
 - **Glyph Bolt at Range**: Automatons open combat with Glyph Bolt, targeting casters or priority threats from afar.
@@ -521,6 +531,8 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 - **Soul Cannon** (costs 2 actions): The Tower uses Soul Cannon (even if it already used it this round).
 - **Repair Protocol** (costs 3 actions): The Tower channels soul energy to repair itself, regaining 25 HP. This can be used once per round.
 
+**Behavior Tags:** boss, brute, controller
+
 ### Tactics
 - **Open with Arcane Bombardment**: The Tower starts combat by bombarding clustered enemies, creating difficult terrain and splitting the party.
 - **Soul Cannon for Area Denial**: It uses Soul Cannon to sweep lines of enemies, draining SE and damaging multiple targets.
@@ -605,6 +617,8 @@ Scribes are valuable sources of information. They can answer questions about the
 
 **Fragile but Evasive**: The Scribe has low HP but high DV. It avoids being hit rather than tanking damage.
 
+**Behavior Tags:** controller, sentinel
+
 ### Tactics
 - **Observe First**: The Scribe watches intruders for 1 round before acting, gaining Advantage on attacks vs them (studying weaknesses).
 - **Glyph Seal for Casters**: It uses Glyph Seal to Silence spellcasters, neutralizing their most dangerous abilities.
@@ -677,6 +691,8 @@ Drones are often the first encounter players have with Hylden technology. Their 
 **Observation Relay**: Drones transmit everything they see to their Hylden masters. If a Drone escapes, nearby Hylden forces will be alerted (GM determines response time and reinforcements).
 
 **Fragile**: Drones have low HP. They're designed to harass, not endure. A single solid hit usually destroys them.
+
+**Behavior Tags:** pack, skirmisher, ambusher
 
 ### Tactics
 - **Swarm Harassment**: Drones fly in circles around the party, firing Obsidian Shards and using Divebomb attacks.
@@ -755,6 +771,8 @@ They guard the most important sites in Nosgoth: Pillar vaults, ancient libraries
 **Defensive Stance** (Reaction, when an ally within 10 feet is attacked): The Warden interposes, imposing **Disadvantage** on the attack roll against the ally. If both the Warden and the ally are constructs, this ability also redirects half the damage to the Warden instead.
 
 **Guardian's Vigil**: The Warden has Advantage on Observation checks to detect invisible, hidden, or disguised creatures within 60 feet (runic sensors).
+
+**Behavior Tags:** sentinel, soldier, controller
 
 ### Tactics
 The Rune-Forged Warden does not pursue. It holds position and punishes anyone who enters its zone. It uses Zone of Denial to wear down melee attackers, Glyph Pulse to clear the area when surrounded, and Rune-Etched Halberd to devastate anyone in reach. It fires Arcane Bolt at ranged attackers between melee rounds. Defensive Stance protects other constructs or objects it guards.
@@ -1008,6 +1026,8 @@ In combat, a Restoration Engine is not a primary threat. It exists to sustain al
 
 **Hardened Frame (Reaction):** When the Engine takes damage exceeding 8 from a single hit, its self-preservation protocol activates and it immediately uses Repair Beam on itself (costs 3 SE; heals 12).
 
+**Behavior Tags:** sentinel, support
+
 ### Tactics
 The Restoration Engine positions itself at the edge of combat, maintaining Repair Beam cycles on the most damaged allied creature. It fires Suppression Bolt only when directly targeted (to dissuade attackers) or when its allies are clearly winning (spare actions with nothing better to do). Emergency Overload is reserved for a moment when 2+ allies become Bloodied simultaneously.
 
@@ -1078,6 +1098,8 @@ A party that kills a Glyph Spider before it can retreat probably prevented a Run
 
 **Tiny Profile:** Cannot be targeted by area effects that require a creature to be Medium or larger. Weapon Mastery attackers have Disadvantage against it in dim light.
 
+**Behavior Tags:** ambusher, controller, coward
+
 ### Tactics
 Glyph Spiders flee combat. Upon detecting intruders, a Spider's priority is (1) activate Relay Signal, (2) lay Trip-Wire Glyphs across retreat routes and chokepoints, (3) retreat out of reach. They will only use Glyph Bite if cornered with no escape route.
 
@@ -1146,6 +1168,8 @@ Most Animated Wards are paired with other constructs or physical doors — they 
 **Construct Nature:** Immune to Frightened, Charmed, poison, disease, Corruption (mental). Immune to Prone, Grappled, Restrained (no body to grab).
 
 **Disruption Vulnerability:** Lightning damage disrupts the Ward's projection matrix — Lightning deals double damage to Animated Wards and causes them to lose their next Reaction (short-circuit).
+
+**Behavior Tags:** sentinel, controller, objective_holder
 
 ### Tactics
 The Animated Ward holds its position and uses Ward Pulse to push enemies back from whatever it's guarding. It uses Barrier Projection on any allied construct being attacked. Arcane Lock activates early in the encounter to seal the most obvious escape route. Against aggressive melee PCs, it will repeatedly attempt to push them back, creating distance.

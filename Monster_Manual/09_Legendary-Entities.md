@@ -65,6 +65,8 @@ Regional Effects
 
 ---
 
+**Behavior Tags:** boss, phase_shifter, skirmisher
+
 ### Tactics
 
 **For Players:** The Remnant punishes clumping with Pillar Whorl and Phase Rend—spread out and deny it easy teleport targets. Anchoring glyphs are its key vulnerability; prepare them in advance and force it to fight in anchored zones.
@@ -134,6 +136,8 @@ Regional Effects
 - Time-slips: brief deja vu pockets give Advantage to first roll of an encounter for anyone who prepared here.
 
 ---
+
+**Behavior Tags:** boss, soldier, skirmisher
 
 ### Tactics
 
@@ -206,6 +210,8 @@ Regional Effects
 - Calm sanctity in shrines; Oathbound gain +1 to saves vs fear within 1 mile.
 
 ---
+
+**Behavior Tags:** boss, controller, sentinel
 
 ### Tactics
 
@@ -282,6 +288,8 @@ Regional Effects
 - Superstitions bloom; rumors travel twice as fast; Forbidden Knowledge checks (GM custom) have Advantage.
 
 ---
+
+**Behavior Tags:** boss, controller
 
 ### Tactics
 
@@ -363,6 +371,8 @@ Regional Effects
 - Divination magic in the region fails automatically (the Heart exists outside fate's sight).
 
 ---
+
+**Behavior Tags:** boss, sentinel, brute, controller
 
 ### Tactics
 
@@ -466,6 +476,8 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 
 ---
 
+**Behavior Tags:** boss, brute, controller
+
 ### Tactics
 
 **For Players:** This is a multi-phase fight. Phase 1: survive. Whittle the Tendril until it is Bloodied while avoiding Grapple (spread out; don't let it grab multiple targets). Phase 2: sever the Tether. Once exposed, throw everything at the Tether — it has lower DV and no attacks. Phase 3: finish the Tendril before it TPKs the party. Devour Soul is the existential threat; if someone is grappled, free them IMMEDIATELY before it uses Devour Soul next round. Bring anti-grapple abilities, Freedom of Movement, and resurrection insurance. Radiant damage is not a vulnerability, but where a source explicitly bypasses this creature's Resistance profile it remains an effective answer.
@@ -505,6 +517,8 @@ Regional Effects
 - Gravity quirks; faint heartbeats underfoot at night; sigils dim in a 1-mile radius.
 
 ---
+
+**Behavior Tags:** boss, sentinel, brute, controller
 
 ### Tactics
 
@@ -572,6 +586,8 @@ Regional Effects
 - Whispers give orders; doors open for the rightful; spies thrive.
 
 ---
+
+**Behavior Tags:** boss, ambusher, controller
 
 ### Tactics
 
@@ -644,6 +660,8 @@ Regional Effects
 
 ---
 
+**Behavior Tags:** boss, soldier, sentinel
+
 ### Tactics
 
 **For Players:** Soul damage is the Pale Sarafan’s vulnerability—lead with it. Avoid being designated as the quarry if possible; if you are, use terrain to force the Sarafan into unfavorable positions. Non-undead party members should tank while undead allies stay at range.
@@ -709,6 +727,8 @@ Regional Effects
 - Records go missing; maps mislabel paths; secret doors are easier to find for those who whisper a true name.
 
 ---
+
+**Behavior Tags:** boss, controller, sentinel
 
 ### Tactics
 
@@ -785,6 +805,8 @@ They do not intend harm precisely. They are temporal coherence agents, attemptin
 **Lair Action — Timeline Bleed (Initiative count 20 each round):**
 - The boundary between the current moment and recent past thins. Each PC must make DR 3 Focus save or be briefly haunted by a vision of their own death (or a near-defeat) from a previous session. On fail, they take 6 Soul damage and have Disadvantage on their next action.
 
+**Behavior Tags:** boss, controller, phase_shifter
+
 ### Tactics
 The Echo opens by using Temporal Displacement on the party's most lethal PC (removing their first turn action). Time Strike is its sustained damage. Time Rewind is used if the party is within 2 rounds of victory — it resets the encounter state and keeps the Echo at full HP while the party is now 20 SE poorer. Against a party that reduces it below 100 HP, it will use Temporal Displacement on the highest-damage PC and Time Strike the healer.
 
@@ -858,6 +880,8 @@ The Death Guardian is everything the role was meant to prevent: an undead being 
 - **Grave Wind (2 actions):** One living creature within 30 feet takes 6 Soul damage and must pass a DR 3 Will save or be pulled up to 10 feet toward the Guardian
 
 **Lair Action — Death Bell (Initiative count 20):** All creatures within 60 feet that have taken damage in this encounter must make DR 3 Blood save or their wounds worsen: they take damage equal to half the number of rounds of combat that have passed so far, rounded up (max 3). This is cumulative pressure, but no longer escalates unchecked.
+
+**Behavior Tags:** boss, brute, summoner
 
 ### Tactics
 The Death Guardian positions at the center of a summoned undead screen, using Necrotic Detonation as its primary area denial tool. Reaper's Blade targets isolated PCs (to generate Risen Thrall fodder). It tracks who has used defensive reactions and targets them with Death Nova conditions when possible. Once reduced below 115 HP, it becomes more aggressive with Reaper's Blade, Command Undead, and Grave Wind rather than repeating full detonations every round.
@@ -935,6 +959,8 @@ Encountering Vorador is not something that happens by accident. It happens becau
 **Lair Action — Ancestral Summons (Initiative count 20, each round):**
 - 2d4 Vampiric Fledglings appear in unoccupied spaces within 30 feet of Vorador. They act on his initiative.
 
+**Behavior Tags:** boss, controller, summoner
+
 ### Tactics
 Vorador does not rush. He opens with Zephonim's Curse on the PC with the highest Fury (redirecting all vampire summoned-allies to attack them), then alternates Patriarch's Fang attacks on BP-bearing targets. Patriarch's Call triggers when the party commits a second wave of attacks; the summoned Overlords then engage as the primary frontline while Vorador feeds. If reduced below 100 HP, Mist Form is used once to reposition out of melee before resuming with Legendary Action Fang attacks.
 
@@ -1007,6 +1033,8 @@ An Overlord is the supreme field commander of any Hylden incursion — the decis
 
 **Lair Action — Rift Tear (Initiative count 20):**
 - The Overlord tears a spatial rift in a 20-foot radius at any point within 60 feet. All non-Hylden creatures in the rift area make DR 4 Blood save or take 10 Soul damage and are Displaced 20 feet in a random direction (roll d8 for direction).
+
+**Behavior Tags:** boss, controller, soldier
 
 ### Tactics
 The Overlord opens with **Tactics** aura in effect, then uses Dimensional Anchor on the party's most effective counter to its strategy (typically the healer or the highest-damage PC). Hylden Blade marks remaining threats. Corruption Surge goes off once the party is clustered. The combination of Marking + Tactics means that any surviving Hylden forces (Shock Troopers, Rift-Priests, War-Stalkers) gain significant bonuses, making attrition on subordinate enemies strategically valuable for the party.
@@ -1083,6 +1111,8 @@ Regional Effects
 - All SE regeneration is halved within half a mile. Creatures that rest near the area have nightmares. Animals fall silent. Any prophecy or divination check has a 1-in-6 chance of delivering instead a direct message from the Elder God.
 
 ---
+
+**Behavior Tags:** boss, controller, ambusher
 
 ### Tactics
 
@@ -1168,6 +1198,8 @@ Regional Effects
 - The Wheel's full presence within 5 miles suppresses all SE regeneration by half. Creatures who die in this area are utterly consumed — no ghost, no Spectral echo, no revival without extraordinary intervention. Divination magic fails entirely. Vampires and soul-sensitive creatures feel existential dread and must make a DR 3 Will save at the start of each session spent in the region or gain 1 Corruption.
 
 ---
+
+**Behavior Tags:** boss, brute, controller
 
 ### Tactics
 

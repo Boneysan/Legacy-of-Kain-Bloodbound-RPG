@@ -43,6 +43,8 @@ Feralslave Ghouls are the remains of mortals who died in agony, their souls too 
 
 **Death Throes:** When reduced to 0 HP, makes one final Clawing Grasp attack as a Reaction.
 
+**Behavior Tags:** pack, brute
+
 ### Tactics
 Ghouls rush the nearest living creature mindlessly. They use Feral Pack to swarm isolated targets and grapple them for the killing bite. No strategy, just hunger.
 
@@ -107,6 +109,8 @@ Not all vampires retain their nobility and cunning. Those who give in completely
 - Roll Shadow 4 + Evasion 0 = 4d6 vs DR 2
 - On success, reduce damage by 5
 
+**Behavior Tags:** ambusher, skirmisher, brute
+
 ### Tactics
 Opens with Shadow Leap to close distance, then Pounces on isolated target. Uses claws to shred enemies while regenerating. When bloodied, enters Blood Frenzy and fights recklessly. Attempts to grapple wounded prey for Blood Drain to heal.
 
@@ -169,6 +173,8 @@ Revenants are the restless dead bound to unfinished purpose. Unlike mindless und
 **Vengeful Riposte** (Reaction, when hit by melee attack)
 - Make immediate Cursed Blade attack against attacker
 
+**Behavior Tags:** sentinel, brute
+
 ### Tactics
 Methodical and intelligent fighter. Protects its bound location/object/person zealously. Uses Spectral Grasp to soften targets before closing for melee. Focuses attacks on whoever threatens its purpose. Will pursue fleeing enemies who interfere with its purpose, but returns to guarding position after.
 
@@ -221,6 +227,8 @@ Created through necromantic rituals involving immolation, Bone-Pyre Skeletons ar
 **Brittle Bones:** Vulnerability to Bludgeoning damage (takes double).
 
 **Death Burst:** When destroyed, explodes in 5-foot radius. All creatures in area take 3 Fire damage (DR 1 Evasion save for half).
+
+**Behavior Tags:** soldier, brute
 
 ### Tactics
 Advance in groups, using Flaming Aura to pressure melee fighters. Use Ember Burst when clustered enemies present themselves. No self-preservation—charge directly at enemies.
@@ -278,6 +286,8 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 **Ancient Greatsword Parry** (Reaction, when hit by melee attack)
 - Roll Fury 4 + Weapon Mastery 3 = 7d6 against the triggering attack's successes
 - On success, take no damage and can make immediate counterattack
+
+**Behavior Tags:** sentinel, soldier
 
 ### Tactics
 Commands lesser undead from back line while using Aura of Dread to control battlefield. Shadow Steps to isolated targets for Life Drain. Uses Ancient Greatsword Parry defensively. If bloodied, becomes aggressive and uses Ancient Greatsword relentlessly.
@@ -339,6 +349,8 @@ When lesser vampires are destroyed, their remaining essence sometimes animates n
 
 **Keen Senses:** Advantage on Observation checks related to smell or sound.
 
+**Behavior Tags:** pack, skirmisher
+
 ### Tactics
 Attempts to Engulf isolated targets while using superior mobility to avoid area attacks. Spreads out when facing area magic, then reforms. Uses Blood Drain Swarm when badly wounded to regenerate.
 
@@ -396,8 +408,10 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 **Blood Shield** (Reaction, when hit by attack)
 - Spend 5 HP to add +2 DV against that attack
 
+**Behavior Tags:** controller, objective_holder
+
 ### Tactics
-Stays at range, pelting enemies with Blood Bolt. Uses Blood Curse on biggest threat. When cornered, uses Vampiric Touch to sustain. Will flee while Bloodied to return with reinforcements.
+Begins fights from behind sturdier undead or from the edge of a prepared ritual space, opening with Blood Curse on the most dangerous striker or caster before settling into Blood Bolt pressure. It spends its own flesh through Rituals when one decisive curse or bolt will turn the exchange, then uses Blood Shield to preserve distance rather than stand and trade. If forced into melee, it uses Vampiric Touch only long enough to recover and disengage. When Bloodied, it retreats toward wards, coffins, or waiting servants so it can return with reinforcements or finish a blood rite already in motion.
 
 ### Loot
 - Bloodstained ritual robes
@@ -447,6 +461,8 @@ Vampires destroyed by fire sometimes leave behind vengeful spirits—Bloodflame 
 **Spectral Sight:** Can see 60 feet into Spectral Realm and detect living creatures through walls.
 
 **Eternal Agony:** At start of each of its turns, emits unearthly scream. All living creatures within 10 feet take 2 Soul damage (no save).
+
+**Behavior Tags:** controller, phase_shifter
 
 ### Tactics
 Uses Phase Movement to pass through walls and surprise enemies. Focuses Spectral Flame Touch on lightly armored targets. Uses Burning Wail when enemies cluster. Retreats into walls when seriously wounded.
@@ -603,6 +619,8 @@ Most Overlords were once members of the great vampire clans, and some still carr
 - Roll Shadow 5 + Stealth 3 = 8d6 vs DR 3
 - On success, the Overlord sidesteps with supernatural grace, taking no damage and appearing 10 feet away
 
+**Behavior Tags:** boss, controller, skirmisher
+
 ### Tactics
 The Overlord opens with Blood Dominion on the party's strongest melee fighter, turning them against their allies. It uses Crimson Torrent when enemies cluster, healing allied undead while damaging PCs. It saves Sovereign Claws for isolated targets and uses Blood Drain on grappled prey to sustain itself. When bloodied, Blood Frenzy makes it extremely aggressive. Legendary Actions maintain constant pressure — using Move to reposition and Sovereign Claws to punish overextension. Mist Form gives it a second chance if the party thinks they've won.
 
@@ -678,6 +696,8 @@ Grave-Knights are often bound to a specific location (a battlefield, a fortress,
 ### Reactions
 **Cursed Greatsword Parry** (Reaction, when hit by a melee attack)
 - Reduce damage taken by 5 (deflected by cursed greatsword)
+
+**Behavior Tags:** soldier, controller, sentinel
 
 ### Tactics
 The Grave-Knight Commander fights from within a formation of lesser undead, using Commander's Presence to strengthen them and Death's Command to unleash a devastating alpha strike. It engages the party's frontline fighter with Cursed Greatsword while its minions swarm flanks. It saves Gravetide Strike for targets that break through to threaten it directly. Deathless Fortitude makes it deceptively hard to finish — parties that expend resources to "kill" it once may find themselves facing an enraged Commander surrounded by empowered undead.
@@ -757,6 +777,8 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 ### Lair Action
 - **Bone Tide:** On initiative count 20, skeletal hands erupt from the ground in a 20-foot radius area. Creatures in the area must pass a DR 4 Blood save or be Restrained until the end of their next turn.
 
+**Behavior Tags:** boss, summoner, controller
+
 ### Tactics
 The Bonelord Archon fights from behind a wall of summoned undead. It opens by casting Raise Dead to establish a screen, then bombards the party with Soul Scourge from maximum range. It uses Necrotic Detonation when enemies cluster or breach its undead line — the simultaneous healing of allies and damage to foes makes melee engagement punishing. It saves Legendary Resistance for disabling effects and uses Command Undead to focus-fire vulnerable targets.
 
@@ -816,6 +838,8 @@ Unlike Feralslave Ghouls, which are animated by lingering soul-fragments, Risen 
 
 **Collapse on 0 HP:** When reduced to 0 HP, the Thrall simply crumples — no death throes.
 
+**Behavior Tags:** pack, brute
+
 ### Tactics
 Risen Thralls swarm and absorb damage. Their sole value is being in the way. GMs should use 4–8 at a time to slow down the party and drain resources before the real threats arrive. Players who use area-damage abilities will clear them efficiently; single-target specialists will feel the weight of attrition.
 
@@ -872,6 +896,8 @@ Fledglings have not yet mastered the full array of vampiric powers, but they are
 
 **Uncontrolled Hunger:** If the Fledgling witnesses a creature at 0 HP, it must make a DR 2 Will save or spend its next action feeding on that creature instead of engaging other targets.
 
+**Behavior Tags:** ambusher, skirmisher
+
 ### Tactics
 Fledglings rush the closest target, prioritizing wounded PCs to chain their Blood Frenzy proc. They are reckless — an elder vampire directing them might position them to absorb flanking attacks. When a Fledgling enters its second Frenzy, other enemies should press their advantage; the distraction is free action economy.
 
@@ -922,6 +948,8 @@ Archers are more tactically valuable than their TV suggests; their positioning a
 **Dead Eyes:** Immune to Blinded, Frightened, and all emotion-based effects; unaffected by Darkness (no vision to impair).
 
 **Brittle Frame:** When a Skeletal Archer takes 5 or more damage from a single hit, it must make a DR 2 Blood save (use GM discretion since it has no Blood) or fall to 0 HP (shatters outright). Treat as auto-fail.
+
+**Behavior Tags:** soldier, ambusher
 
 ### Tactics
 Place Skeletal Archers in elevated positions, windows, or behind barricades. They fire at the nearest moving target in the open. Intelligent commanders will position them to cover choke points. Once PCs enter melee range of an Archer, it switches to a desperate Shove (Fury 1 = 1d6, 2 Bludgeoning, no special) and retreats. They are worth 0 XP but serious attrition hazards in swarms of 4–6.
@@ -975,6 +1003,8 @@ Vampire lords prize them as palace guards and tomb sentinels. They don't sleep, 
 **Undead Sentinel:** Immune to Soul Drain, poison, disease. Not affected by Frightened, Charmed, or morale-based effects.
 
 **Martial Echo:** The Skeletal Knight fights with faint remnants of its former training. It will Hold a position, provide cover to adjacent undead, and use Shield Bash before Longsword when outnumbered.
+
+**Behavior Tags:** soldier, sentinel
 
 ### Tactics
 Skeletal Knights are the doorstep guardians of Nosgoth's dungeons. They hold corridors, guard doorways, and block retreat routes. Pair with 2–4 Risen Thralls (TV 2 each, who absorb hits) and 2 Skeletal Archers (TV 2 each, who fire over the Knight's shoulder) for a TV 11–15 encounter that tests positioning and resource management without being overwhelming.
@@ -1048,6 +1078,8 @@ Most Zealots barely understand the Fracture's true goals. They know they are par
 
 **Realm-Touched:** Attacks carry faint spectral resonance from proximity to Feral Council rituals. On a hit with 3 or more successes, deal an additional 2 Spectral damage.
 
+**Behavior Tags:** brute, controller
+
 ### Tactics
 Zealots charge the nearest target without hesitation, prioritizing isolated or unarmored party members. They never retreat — if reduced below 5 HP, they become even more reckless, spending their Berserker Rush without regard for positioning. A pack of 3-4 Zealots is a resource-drain designed to leave the party wounded before the real Fracture threat appears.
 
@@ -1106,6 +1138,8 @@ The process is not without cost. Every Dimension-Walker bears the mark of their 
 **Realm Shift** (Action, costs 5 SE): The Dimension-Walker briefly steps through the Spectral Realm and re-emerges at any point within 30 feet, passing through walls and obstacles up to 5 feet thick. Until the start of its next turn, attacks against it have Disadvantage from the residual spectral shimmer.
 
 **Dimension-Scarred:** Resistance to Spectral damage (halved). Immune to being involuntarily pulled into the Spectral Realm.
+
+**Behavior Tags:** phase_shifter, ambusher, skirmisher
 
 ### Tactics
 The Dimension-Walker opens combat behind the front line, using Realm Shift to appear adjacent to squishier targets. It alternates Spectral Strike (to drain Will) and Voidblade (for split physical/spectral damage), using Realm Shift to disengage whenever threatened. Below 20 HP, it uses Realm Shift offensively — phasing behind party members to attack their rear arc.
@@ -1180,6 +1214,8 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 
 ### Lair Action
 **Dimensional Seam:** On initiative count 20, the boundary between realms tears open at a random 15-foot radius zone within the encounter area. Creatures in the zone are Deafened (-1 die on Focus checks) until they leave the area or the Void-Touched is defeated.
+
+**Behavior Tags:** boss, controller, phase_shifter
 
 ### Tactics
 The Void-Touched opens with Merge Protocol to establish numerical advantage — turning a TV 4 Boss encounter into a TV 4 Boss plus two TV 3 Elites. It positions itself centrally to maximize Feral Council Authority for all Fracture allies, using Commanding Roar every round. It reserves Reality Fracture for clustered party members or as a "reset" when one side has consolidated. While Bloodied, the Void-Touched becomes erratic — using Reality Fracture every turn it recharges and burning Legendary Actions more aggressively. This escalation is intentional: a Void-Touched under pressure loses fine control of its dimensional instability.

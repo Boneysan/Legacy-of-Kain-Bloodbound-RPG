@@ -105,6 +105,14 @@ Best for: named villains, arc anchors, legendary entities.
 
 These should be used sparingly and only when they materially help encounter behavior or VTT handoff.
 
+### support
+Prioritizes healing, ally buffs, protection, condition removal, or sustain over direct damage.
+
+Use `support` only when this is the creature's dominant combat purpose, not just one useful ability.
+If removing the creature first would noticeably reduce enemy durability, coordination, or resilience, `support` is likely justified.
+Do not use `support` for units that merely have a morale aura, a single ally buff, or one incidental healing/protection rider.
+`support` often pairs well with `soldier`, `controller`, `sentinel`, or `boss` when the creature both enables allies and fills another clear battlefield role.
+
 ### objective_holder
 Treats an object, ritual, captive, or battlefield locus as the real priority of the encounter.
 

@@ -71,6 +71,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 ---
 
+**Behavior Tags:** sentinel, brute, controller
+
 ### Tactics
 
 **For Players:** The key is to identify the anchor. A successful **Glyphcasting** or **Observation (Focus)** check (DR 4) will reveal the source of the Djinn's binding. While some party members keep the Djinn occupied, others must focus their attacks on the anchor. Cold-based attacks are highly effective, as they can slow the Djinn and reduce its damage output. Dousing the **Immolate** effect is crucial to prevent accumulating damage.
@@ -152,6 +154,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 **Behavior:** The Flame Wolf is a patient and tactical hunter. It will often begin an encounter with Ethereal Stride to position itself advantageously, followed by a Soulfire Howl to weaken spellcasters and other resource-heavy characters. It then picks a target, often the one who seems most spiritually or magically potent, and relentlessly pursues them with Phantom Bites. It is not mindlessly aggressive and will retreat if seriously threatened, using its speed and stealth to escape and re-engage on its own terms.
 
 ---
+
+**Behavior Tags:** skirmisher, ambusher, controller
 
 ### Tactics
 
@@ -236,6 +240,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 ---
 
+**Behavior Tags:** brute, controller
+
 ### Tactics
 
 **For Players:** This is a battle of attrition and positioning. Staying out of the Sanguine Vortex is paramount. Weapon Mastery attackers will need to find a way to get clear shots, either by dispelling the magical storm or by getting dangerously close. Inflicting Fire or Lightning damage is the most effective way to bring it down quickly. It's critical to stop anyone from **Bleeding**, as this fuels the cyclone's most dangerous ability. Healers must be protected.
@@ -317,6 +323,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 ---
 
+**Behavior Tags:** sentinel, brute
+
 ### Tactics
 
 **For Players:** The avenger's single-mindedness is both its greatest strength and its greatest weakness. The chosen target will be under immense pressure, but this allows the rest of the party to act with relative impunity. Use Fire damage to melt its armor and exploit its vulnerability. The target player should focus on defense and evasion (kiting), while their allies deal damage. Spells that can immobilize it, despite its Unyielding Ice, are valuable for buying time.
@@ -397,6 +405,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 **Behavior:** The Warden is a territorial defender. It establishes Permafrost Zones around entry points and uses Ice Walls to funnel attackers into kill zones. It engages in melee only when intruders breach its defenses, using Icebound Slam to knock enemies back into frozen terrain. It fights with cold logic, not rage - repositioning to maximize the effectiveness of its zones rather than chasing fleeing targets.
 
 ---
+
+**Behavior Tags:** sentinel, controller, brute
 
 ### Tactics
 
@@ -483,6 +493,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 **Behavior:** Flare Wyrms are erratic and territorial. They circle their claimed area at high speed, leaving Mana Trails that create a web of hazardous light. They target spellcasters first (sensing their SE reserves) and use Arcane Siphon to drain them before finishing with Arcane Bolts. If cornered or bloodied, they dive through enemy formations using Prismatic Flare to blind and scatter.
 
 ---
+
+**Behavior Tags:** skirmisher, controller
 
 ### Tactics
 
@@ -573,6 +585,8 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 
 ---
 
+**Behavior Tags:** controller, brute
+
 ### Tactics
 
 **For Players:** Martial characters are the key to this fight. The Null Elemental's vulnerability to mundane weapons means a fighter with a standard steel sword hits harder than a wizard's most powerful spell. Casters should avoid wasting SE on direct damage - instead, use physical buffs on allies (which will be suppressed if they enter the Nullification Field, so buff BEFORE engaging). Spread out to avoid Anti-Magic Pulse catching the whole party.
@@ -654,6 +668,8 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 **Behavior:** The Behemoth is a brute force elemental. It will charge into melee, using Thunderclap Fist to scatter enemies. It employs Storm Surge to clear groups or strike at range. Its Electric Aura punishes clustering, and it uses its mobility to reposition. It is relentless, feeding on the chaos of battle.
 
 ---
+
+**Behavior Tags:** brute, skirmisher
 
 ### Tactics
 
@@ -737,11 +753,13 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 
 ---
 
+**Behavior Tags:** controller, phase_shifter
+
 ### Tactics
 
-**For Players:** Wind spells or abilities can disperse the mist, revealing the Binder. Bright light or fire can weaken it. Focus on breaking free from restraints quickly, and use area attacks to force it out of stealth.
+**For Players:** Wind, bright light, and broad area attacks are the cleanest answers. Break restrains quickly, avoid letting one isolated character remain inside the fog with the Binder, and pressure it before it can maintain Soul Bind for multiple rounds.
 
-**For the GM:** Use the Binder's stealth to create tension. Have it bind key party members, forcing the others to rescue them. Its aura can turn the battlefield into a maze of fog.
+**For the GM:** The Binder opens from concealment, using Obscuring Veil and Ethereal Shift to approach through walls or bodies before striking with Misty Grasp against the most isolated target. It only commits to Soul Bind when that victim is already screened by fog, slowed allies, or terrain that makes a rescue costly. If pressured directly, it vanishes, repositions through solid cover, and resumes the pattern rather than trading in the open.
 
 ---
 
@@ -810,6 +828,8 @@ They sustain themselves by feeding on ambient magical energy and fear. Environme
 **Fuel Depletion:** The Wisp has a Fuel resource starting at 5. Each time it uses Ember Burst, reduce Fuel by 1. When Fuel reaches 0, the Wisp's attacks deal half damage and it loses Searing Aura. At 0 HP, the Wisp **Blazes Out** (see below) regardless of remaining Fuel.
 
 **Blazing Out (Reaction, triggers at 0 HP):** The Wisp detonates. All creatures within 10 feet must make DR 3 Blood save or take 8 Fire damage and gain Burning. The Wisp leaves behind a Ember Patch - the point of detonation is a 10-foot radius of persistent flame for 1 minute (4 Fire damage to any creature who enters).
+
+**Behavior Tags:** skirmisher, controller
 
 ### Tactics
 The Flame Wisp opens by establishing its Searing Aura in the melee cluster, then hammers clustered targets with Ember Burst to seed the Burning condition before shifting to Fire Dart spam. It keeps moving - never staying still once Ember Burst is fired - making melee contact costly. Against parties with water or ice abilities, it keeps maximum distance and prioritizes Cold-wielding characters for elimination.
@@ -881,6 +901,8 @@ Pillar-Stone Golems are found near the ruins of ancient Pillar sites and in the 
 
 **Legendary Resistance (2/day):** If the Golem fails a save, it can choose to succeed instead.
 
+**Behavior Tags:** sentinel, brute
+
 ### Tactics
 The Pillar-Stone Golem positions itself at the center of its territory and waits. It uses Pillar Fist to target the creature dealing it the most damage (Stagger removes their next action). Stone Slam is used when 3+ PCs cluster close. Rune Burst is used while the Golem is Bloodied - a defensive last resort rather than an opener.
 
@@ -943,6 +965,8 @@ In practice, they are enormously dangerous. They pull creatures toward them, the
 **Non-Corporeal Body:** Immune to physical conditions - Grappled, Prone, Restrained, Knocked Back. Impervious to nonmagical physical attacks.
 
 **Silent Pull (Passive):** The Vortex makes no sound. It does not appear on Observation checks unless the viewer has Darkvision or mystic senses that detect dimensional anomalies. First contact is always a surprise.
+
+**Behavior Tags:** controller, brute
 
 ### Tactics
 The Umbral Vortex opens with Consuming Dark to neutralize lights and Frighten the party, then uses Void Draw to drag Frightened characters into its space for automatic Shadow damage. Shadow Lash handles anyone close enough to attempt melee while blind. The key tactical counter is Radiant damage - a Radiant source that deals 15+ damage to the Vortex will cause it to visibly "crack," reducing its Void Presence aura range by half.
@@ -1009,6 +1033,8 @@ What makes them exceptionally dangerous is the cascading snowball effect: each s
 **SE Sensitivity:** The SE-Feeder detects all creatures with active SE within 120 feet automatically, including through walls. It can identify relative SE totals (who has the most, who is depleted) without rolls. It always focuses the most SE-rich target.
 
 **Dimensional Slip (Bonus Action, costs 6 SE, 1/round):** Teleport up to 30 feet to any unoccupied space. Cannot be used while Stunned.
+
+**Behavior Tags:** ambusher, controller
 
 ### Tactics
 The SE-Feeder enters from concealment (Stealth 3), immediately opening with Siphon Burst to drain the whole party simultaneously. It then focuses Unarmed Combat on whoever still has the most SE, using Arcane Lash to interrupt high-SE-cost abilities. If it reaches 100 SE, its Drain rolls become significantly more potent and the fight difficulty escalates rapidly.

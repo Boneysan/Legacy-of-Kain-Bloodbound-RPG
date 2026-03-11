@@ -82,6 +82,8 @@ Echo Serpents are the spectral remnants of great serpents that died in places of
 
 **Spectral Sight:** Detects living creatures within 60 feet regardless of walls or darkness.
 
+**Behavior Tags:** ambusher, skirmisher, phase_shifter
+
 ### Tactics
 Uses Phase Strike to approach through walls. Attacks isolated targets with Spectral Bite, then uses Coiling Grasp to constrict and drain. Retreats through walls if seriously wounded.
 
@@ -143,6 +145,8 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 - Roll Will 4 + 0 = 4d6 vs spell's DR
 - On success, reflect spell back at caster
 
+**Behavior Tags:** controller, phase_shifter, ambusher
+
 ### Tactics
 Opens with Identity Theft on strongest party member to sow chaos. Creates Life Echo duplicates to overwhelm defenses. Uses Mirror Image and Phase Step to avoid damage. Targets spellcasters with Reflection Shield.
 
@@ -198,6 +202,8 @@ Soul-Eater Shades are manifestations of pure hunger from the Spectral Realm. The
 
 **Weakness to Light:** Takes double damage from Radiant attacks. If in area of bright light (sunlight, Radiant spell), has disadvantage on attacks.
 
+**Behavior Tags:** brute, skirmisher
+
 ### Tactics
 Relentlessly pursues highest SE/Soul value target. Uses Soul Rend repeatedly, regenerating damage. Employs Essence Drain on isolated prey. If multiple enemies, uses Hunger Wave. No strategy—only hunger.
 
@@ -243,6 +249,8 @@ Spectral wolves that hunt in packs across the Material and Spectral Realms. Thei
 **Phase Runner:** Can move through walls as part of movement without taking damage.
 
 **Keen Senses:** Advantage on Observation checks.
+
+**Behavior Tags:** pack, skirmisher
 
 ### Tactics
 Always travel in packs of 4-6. One Howler uses Disorienting Howl while others surround and attack isolated target. Chase fleeing prey relentlessly.
@@ -296,6 +304,8 @@ Silent Mourners are souls bound to places of great tragedy—battlefields, execu
 **Cannot Speak:** Immune to spells or effects that require hearing its voice. Cannot be reasoned with verbally.
 
 **Spectral Nature:** Immune to physical conditions, poison, disease.
+
+**Behavior Tags:** controller, phase_shifter
 
 ### Tactics
 Remains near its bound location. Uses Aura of Sorrow to wear down enemies passively. Employs Spectral Bonds on aggressive foes, then uses Grief Touch repeatedly. Saves Wail of Despair for when surrounded or seriously threatened.
@@ -356,6 +366,8 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 **Phase Evasion** (Reaction, when hit by attack)
 - Roll Shadow 5 + 0 = 5d6 vs DR 3
 - On success, shift between realms and take no damage
+
+**Behavior Tags:** ambusher, skirmisher, phase_shifter
 
 ### Tactics
 Uses unpredictable Phase Shift to confound enemies. Employs Blink Strike to attack and retreat. Reality Rend on biggest threats. Uses Dimensional Instability to scatter party formation. Extremely aggressive—no self-preservation.
@@ -427,8 +439,10 @@ Gravewind Entities are ancient spirits of wind and death, formed in places where
 **Wind Shield** (Reaction, when hit by ranged attack)
 - Deflect attack, taking no damage
 
+**Behavior Tags:** boss, controller, summoner
+
 ### Tactics
-Opens with Spectral Storm to thin ranks, then uses Gravewind Vortex to cluster enemies. Maintains Storm Form to punish melee attackers. Uses Legendary Actions to spread Soul Scour attacks throughout round. When bloodied, uses Summon Shades and becomes more aggressive. Uses Soul Harvest to sustain.
+Opens with Soul Scour to test multiple targets or Gravewind Vortex if the party is already clustered, then drifts through the center of the fight so Storm Form punishes anyone trying to hold position around it. It spends Legendary Actions on Soul Scour for steady pressure and reserves Spectral Storm for moments when enemies line up, commit to a corridor, or try to stabilize at range. If corpses are available early, it animates one to harry the backline or lock down exits; once bloodied, it escalates by calling in Shades and pressing closer so Soul Harvest can keep it in the fight.
 
 ### Loot
 - Eye of the Storm (artifact that grants resistance to Soul damage, Trade Value: 200 supplies)
@@ -479,6 +493,8 @@ In the Legacy of Kain canon, the Sluagh haunt the spaces between meaningful afte
 **Cowardly Scavenger:** A Sluagh will not attack a target at full HP unless it is part of a swarm of 3+ Sluagh. If Bloodied while alone, it flees into the Spectral Realm.
 
 **Swarm Intelligence (Swarm only):** When 3+ Sluagh are within 30 ft of each other, they gain +1 DV and their Carrion Grasp deals +2 damage. At 5+, they gain an additional +1 to hit.
+
+**Behavior Tags:** pack, ambusher, skirmisher
 
 ### Tactics
 Sluagh lurk at the edges of combat, waiting for someone to weaken. They do not initiate fights against healthy parties. Instead, they trail the group at a distance (detectable via Carrion Sense—a PC with Observation may notice the growing "pressure" of spectral attention). Once a PC becomes Bloodied or expends significant SE, the Sluagh close in. In the Spectral Realm, they are bolder and attack in swarms from multiple directions, targeting Wraiths and phased characters.
@@ -643,6 +659,8 @@ In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he wa
 - Roll Shadow 4 + Stealth 4 = 8d6 vs DR 3
 - On success, the Wraith phases partially into the Abyss, halving all damage from the triggering attack
 
+**Behavior Tags:** boss, controller, phase_shifter
+
 ### Tactics
 The Wraith of the Abyss is a patient predator. It uses Phase Shift to stalk the party invisibly, waiting until a PC is isolated or low on SE. It opens with Void Scream to Frighten and drain SE from the group, then focuses Abyss Touch on the most SE-depleted target for maximum damage. Soul Siphon sustains it through prolonged fights. It uses Abyssal Fade to shrug off retaliation and Consume the Fallen to snowball if it scores a kill.
 
@@ -703,6 +721,8 @@ They possess no intelligence beyond a dim awareness of the living. They don't pl
 **Unseen (Passive):** In dim light or darkness, the Lingering Shade is automatically Invisible until it attacks or a creature succeeds on a DR 3 Focus + Observation check.
 
 **Dispelled by Light:** When exposed to bright light (torch, magical illumination, sunlit areas), the Shade has −2 dice on all actions. A Radiant attack that reduces it to 0 HP destroys it permanently rather than simply dispersing it.
+
+**Behavior Tags:** ambusher, coward
 
 ### Tactics
 Lingering Shades do not fight tactically. They drift toward the nearest warm creature and brush against them repeatedly. In groups of 6–10, their Cold Presence auras and HP-blocking Chill Touches create serious attrition. Use them to soft-lock healing in areas where the party needs to rest. A single Shade is a nuisance; a corridor of twenty is a test of endurance.
@@ -769,6 +789,8 @@ They are dangerous combatants: range, a powerful drain ability, and enough spect
 **Ectoplasmic Shield (Reaction, costs 3 SE):** When targeted by an attack, the Arcanist raises a spectral barrier. The triggering attack has −3 to its effective dice pool (attacker rolls 3 fewer dice). This can be used once per round.
 
 **Library Guardian (Passive):** If the Arcanist is defending a specific location it has claimed as its territory, it gains +1 die on all rolls while within that location. It knows every inch of the space and cannot be flanked inside it.
+
+**Behavior Tags:** controller, phase_shifter
 
 ### Tactics
 The Arcanist maintains distance, opening with Soul Bolt spam and Arcane Drain against SE-dependent characters (casters, vampires). It saves Spectral Missile Barrage for when clustered PCs offer a good target. Ectoplasmic Shield is used reactively to protect against the party's best attacker. It will retreat through walls if cornered — treat this as a repositioning action, not a retreat; it reappears at range on its next turn.

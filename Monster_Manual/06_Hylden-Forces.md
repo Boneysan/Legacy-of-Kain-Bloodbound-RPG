@@ -123,6 +123,8 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 
 **Glyphcasting Aura** (Passive): Enemies within 10 feet of the Shock Trooper suffer Disadvantage on Will saves (reality feels unstable).
 
+**Behavior Tags:** soldier
+
 ### Tactics
 - **Coordinated Assault**: Shock Troopers work in squads, using Tactical Coordination to boost attack rolls. They focus fire on one target at a time.
 - **Biometal Rifle at Range**: They start combat at range, using rifles to Disrupt spellcasters and drain resources.
@@ -201,6 +203,8 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 
 **Glyphcasting Aura** (Passive): Enemies within 10 feet suffer -1 die on Will saves.
 
+**Behavior Tags:** controller, summoner
+
 ### Tactics
 - **Stay at Range**: Flesh Architects avoid melee, staying behind Shock Troopers or Abominations while casting.
 - **Summon Abomination Early**: They open combat by raising an Abomination to soak damage and provide cover.
@@ -273,6 +277,8 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 **Unnatural Resilience**: The Abomination ignores the first instance of being reduced to 0 HP each encounter (it just keeps moving, horror movie style). It collapses on the second instance.
 
 **Terror Presence**: Creatures seeing the Abomination for the first time must pass a DR 2 Will save or be **Weakened** (−1 die on next attack roll) due to its horrific appearance.
+
+**Behavior Tags:** brute
 
 ### Tactics
 - **Relentless Advance**: Abominations charge forward, attacking the nearest enemy with Fused Limbs.
@@ -351,6 +357,8 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 
 **Final Transformation** (1/encounter): When reduced to 0 HP, the Host can choose to fully embrace the Corruption. They immediately transform into a **Mind-Tethered Abomination** (Standard, TV 6, as described above) and continue fighting. This is a one-way transformation—they cannot revert. (When transformed, the Abomination is controlled by the GM as a hostile creature. It retains the original Host's movement and position but loses all Host abilities, replacing them with the Abomination stat block. If the Hylden controller that created the Host is killed, the Abomination collapses at the end of its next turn.)
 
+**Behavior Tags:** ambusher, controller
+
 ### Tactics
 - **Infiltrate First**: Corruption Hosts use Infiltrator's Guise to approach unsuspecting PCs or set up ambushes. They strike when targets are vulnerable (resting, distracted, separated).
 - **Tendril Lash for Control**: They Grapple priority targets (casters, ranged attackers), dealing Corruption damage over time.
@@ -428,6 +436,8 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 **Master Assassin**: The Reaver has Advantage on attack rolls vs creatures that have not acted yet this encounter (surprise advantage). Additionally, attacks made while Invisible automatically have Advantage.
 
 **Self-Destruct Protocol** (1/encounter): When reduced to 0 HP, the Reaver can choose to detonate their bio-sigils. All creatures within 15 feet take 8 Corruption damage and must make a DR 3 Will save or gain 1 Corruption point (DR 4 Shadow save to halve the damage). The Reaver's body is completely destroyed (no resurrection, no loot).
+
+**Behavior Tags:** ambusher, skirmisher, phase_shifter
 
 ### Tactics
 - **Open with Invisibility**: Reavers start combat Invisible, using Bio-Sigil Camouflage to close unseen.
@@ -518,6 +528,8 @@ The summoned creature appears at the start of the Engineer's next turn. It obeys
 
 **Emergency Rift** (Reaction, 1/encounter): When reduced below 10 HP, the Engineer can open a rift and escape into the Hylden dimension as a reaction. They vanish instantly, ending their participation in the encounter. They may return later (GM's discretion).
 
+**Behavior Tags:** controller, summoner, phase_shifter
+
 ### Tactics
 - **Open Rift Early**: Engineers start combat by summoning reinforcements, using Open Rift to bring in Shock Troopers or Abominations.
 - **Reality Tear at Range**: They stay at range, using Reality Tear to Unravel spellcasters and drain resources.
@@ -603,6 +615,8 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 - **Void Blast**: The Oracle uses Void Blast (costs 2 actions).
 - **Buff Allies**: The Oracle grants one Hylden ally within 60 feet +3 dice on their next roll (costs 1 action).
 
+**Behavior Tags:** boss, controller, support
+
 ### Tactics
 - **Telepathic Coordination Always Active**: The Oracle's presence makes all Hylden forces +1 die stronger within 30ft. This is their most dangerous ability.
 - **Dimensional Rupture Opening**: They open combat with Dimensional Rupture, scattering the party and corrupting everyone.
@@ -682,6 +696,8 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 **Break the Mind** (Passive): When the Warden reduces a creature to 0 HP, that creature must pass a DR 5 Will save or gain 2 Corruption points (trauma from the encounter).
 
 **Spectral Prison**: If the Warden successfully uses Cage of Despair on a creature, that creature is marked. For the next 24 hours, they have nightmares of the encounter (Disadvantage on rest recovery rolls, regain half HP/SE/BP from rest instead of full).
+
+**Behavior Tags:** controller, sentinel
 
 ### Tactics
 - **Open with Mind Spike**: Wardens start by Frightening priority targets (fighters, leaders), reducing their effectiveness.
@@ -767,6 +783,8 @@ They serve as force multipliers for Hylden operations: opening rifts to bring re
 
 **Sacrificial Host** (Passive): When the Rift-Priest is reduced to 0 HP, the Hylden mind abandons the mortal host. The host dies instantly. If there is a living mortal within 30 feet (PC, NPC, or summoned Grunt), the Hylden can attempt to possess them (target must pass a DR 4 Will save or become the new host — the Rift-Priest returns at half HP on its next turn).
 
+**Behavior Tags:** controller, summoner
+
 ### Tactics
 - **Support Position**: The Rift-Priest fights from behind Shock Troopers and Grunts, using Corruption Lance at range and Rift Tear to scatter enemy formations.
 - **Corruption Pressure**: It uses Corruption Pulse when enemies cluster, forcing Will saves and spreading Corruption. This creates long-term consequences even if the party wins.
@@ -834,6 +852,8 @@ Grunts are cannon fodder. Hylden commanders send them in waves to absorb enemy r
 **Hivemind Fodder** (Passive): Gains Advantage on all attack rolls when within 10 feet of another Hylden creature (the partial fragment resonates with stronger Hylden minds nearby).
 
 **Expendable Host** (Passive): When reduced to 0 HP, there is a 25% chance (roll 1 on 1d4) the Hylden fragment detonates. All creatures within 5 feet take 4 Corruption damage (DR 1 Will save for half).
+
+**Behavior Tags:** pack, brute
 
 ### Tactics
 Grunts swarm in groups of 4–8. They rush the nearest enemy and attack mindlessly. Their only real tactic is overwhelming numbers — they cluster around priority targets to trigger Hivemind Fodder bonuses and force Expendable Host detonations in close quarters.
@@ -937,6 +957,8 @@ Only a handful of Dimension Lords exist. Each one represents a full-scale existe
 - Living creatures that long rest within 1 mile must pass DR 2 Will save or gain 1 Corruption point (nightmares of the banished dimension).
 - Spectral creatures cannot enter the affected region (dimensional interference).
 
+**Behavior Tags:** boss, controller, summoner, phase_shifter
+
 ### Tactics
 - **Strategic Commander**: The Dimension Lord rarely fights without a retinue. It summons reinforcements early with Rift Tactics, then positions itself to maximize Glyphcasting Aura coverage while allies engage.
 - **Disruption and Control**: Dimensional Implosion and Warp Pulse scatter formations. Warp Shield redirects damage to allies or summoned fodder. The Lord fights a battle of positioning, not attrition.
@@ -1029,6 +1051,8 @@ Not all Hylden agree with the invasion. Vex'thal is a deserter — a Hylden mind
 **Dimensional Flicker** (Reaction, when hit by a melee attack)
 - The Rift-Priest briefly phases between dimensions, reducing the damage by 5 and teleporting 10 feet in any direction
 
+**Behavior Tags:** controller, summoner
+
 ### Tactics
 The Rift-Priest fights from the backline behind Shock Troopers or summoned Grunts. It opens with Corruption Pulse to contaminate the party, then uses Corruption Lance to wear down targets from range. Rift Tear scatters the party when they try to close distance or form formations. Dimensional Tether provides expendable meat shields. Rift Conduit ensures it rarely runs dry on SE.
 
@@ -1104,6 +1128,8 @@ For GMs, Grunts solve a critical gap in Hylden encounters: the need for low-tier
 **Distorted Movement**: The Grunt moves with eerie, jerky motions that are difficult to predict. Creatures making Opportunity Attacks against the Grunt have **Disadvantage**.
 
 **Barely Functional**: The possessing spirit has limited control. The Grunt cannot use complex tactics, operate machinery, or communicate intelligibly. It follows one-word commands from higher-ranking Hylden: "attack," "guard," "advance," "hold."
+
+**Behavior Tags:** pack, brute
 
 ### Tactics
 Grunts swarm in groups of 4–8. They charge the nearest enemy and use Crude Weapon Strike repeatedly. If directed by a higher-ranking Hylden (Shock Trooper, Rift-Priest, Oracle), they focus fire on a single target or use Corrupted Grasp to pin down priority enemies (healers, casters) for the rest of the force to finish. They never retreat.
@@ -1327,6 +1353,8 @@ When their handler is killed, the psychic tether snaps, and the War-Stalker ente
 **Feral Frenzy (Passive, triggers when handler is killed or departs beyond 30 feet):** The War-Stalker immediately gains +2 Fury (attacks become Fury 6 base) for the remainder of combat. However, it loses Hylden Bond and Hylden Bile Spit (the Hylden conditioning breaks down) and may attack any creature indiscriminately, including former Hylden allies — GM discretion on targeting priority.
 
 **Corrupted Scent:** The War-Stalker can detect creatures with any Corruption points within 120 feet by scent, regardless of concealment or invisibility. It prioritizes Corrupted targets for attack (sees them as "marked" by Hylden corruption).
+
+**Behavior Tags:** ambusher, skirmisher, brute
 
 ### Tactics
 The War-Stalker begins combat in Stealth (Stealth 3), waiting for the Hylden handler to trigger the engagement. On the first round, it uses Pounce to knock down the party's most armored melee fighter, applying Hylden Bile Spit on the second round to neuter their damage output. If the handler is killed early (a common tactic), the Frenzy creates an unpredictable second threat — suddenly the Hylden positioning becomes chaotic as their controlled weapon turns on everything.

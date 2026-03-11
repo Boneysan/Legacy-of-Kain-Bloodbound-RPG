@@ -91,6 +91,8 @@ Unlike their mundane cousins, Dire Cave Wolves are intelligent enough to recogni
 
 **Coordinated Hunt**: Once per round, when an ally hits a creature the wolf can see, the wolf can use a reaction to immediately move up to half its movement speed toward that creature (without provoking opportunity attacks).
 
+**Behavior Tags:** pack, ambusher, skirmisher
+
 ### Tactics
 - **Surround and Strike**: Wolves spread out to flank enemies, using Tactics to maximize dice pools.
 - **Target the Weak**: Wolves prioritize wounded, isolated, or low-armor targets. They avoid heavily armored foes.
@@ -169,6 +171,8 @@ Drakes are solitary hunters, but mated pairs will defend their nests to the deat
 
 **Dive Attack**: If the Drake starts its turn flying at least 20 feet above its target, it can dive. It moves up to its full flying speed in a straight line toward the target and makes a Bite attack with +2 dice. If the attack hits, the target is knocked **Prone**.
 
+**Behavior Tags:** brute, skirmisher
+
 ### Tactics
 - **Aerial Superiority**: The Drake starts combat flying, using Flame Breath to soften up groups before diving to melee.
 - **Dive and Retreat**: It uses Dive Attack to strike priority targets (casters, ranged attackers), then flies back up to avoid retaliation.
@@ -235,6 +239,8 @@ Despite their fragility, Glimmerbacks have a defensive mechanism: when threatene
 
 **Skittish**: The Glimmerback automatically flees if it takes any damage. It will not fight unless physically restrained.
 
+**Behavior Tags:** coward, skirmisher
+
 ### Tactics
 - **Avoid Combat**: Glimmerbacks don't fight. They use Shimmer Flash to blind attackers and sprint away.
 - **Swarm Encounters**: GMs can place 4-8 Glimmerbacks in an area. If players want their scales, they must capture them alive (traps, nets, non-lethal damage).
@@ -299,6 +305,8 @@ Consuming Blight-Boar meat causes illness in mortals. Even vampires find their b
 **Unstoppable Charge**: When the Boar uses Trampling Charge, it cannot be stopped by opportunity attacks or terrain (it smashes through obstacles).
 
 **Diseased Flesh**: If a creature consumes Blight-Boar meat, they must pass a DR 3 Blood save or become violently ill (Disadvantage on all rolls for 8 hours).
+
+**Behavior Tags:** brute, controller
 
 ### Tactics
 - **Aggressive Charge**: Blight-Boars open combat with Trampling Charge, then follow up with Necrotic Tusk Gore attacks.
@@ -373,6 +381,8 @@ Unlike normal dogs, Bloodgullets are viciously intelligent. They can track prey 
 **Vampiric Resilience**: The Hound regains 3 HP at the start of each of its turns if it dealt damage with Blood Fang Bite on its previous turn. Regeneration stops for 1 round if the Hound takes Fire damage or Radiant damage.
 
 **Night Vision**: The Hound can see perfectly in darkness.
+
+**Behavior Tags:** pack, ambusher, skirmisher
 
 ### Tactics
 - **Target the Wounded**: Hounds prioritize injured PCs, using Blood Scent to identify weakened prey.
@@ -451,6 +461,8 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 
 **Limited Intelligence**: The Troll has Disadvantage on Focus and Will-based rolls. It's easily tricked or distracted by clever players.
 
+**Behavior Tags:** brute
+
 ### Tactics
 - **Smash First, Think Never**: Trolls open with Ground Slam if enemies are clustered, then follow up with Massive Club attacks.
 - **Boulder Throw for Weapon Mastery Threats**: If enemies stay at range, the Troll throws boulders until they close or it can reach them.
@@ -528,6 +540,8 @@ Despite their fearsome appearance, Bramblehide Bears are still animals. They can
 
 **Keen Smell**: The Bear can track creatures by scent and has Advantage on Focus + Observation rolls.
 
+**Behavior Tags:** brute, ambusher
+
 ### Tactics
 - **Stealth from Forest**: Bears use Forest Camouflage to Hide, then ambush with Bramble Charge.
 - **Multi-Attack Pressure**: They make two Claw Swipe attacks per turn, focusing on one target to overwhelm them.
@@ -598,6 +612,8 @@ Their most unsettling trait is their ability to seemingly vanish mid-combat, onl
 **Vanish**: As a reaction when the Cougar takes damage, it can Phase Shift immediately (even if it's already used Phase Shift this turn). This can be used once per encounter.
 
 **Keen Senses**: The Cougar can see invisible creatures and has Advantage on Focus + Observation rolls.
+
+**Behavior Tags:** ambusher, skirmisher, phase_shifter
 
 ### Tactics
 - **Phase Shift for Positioning**: The Cougar phases into walls or through enemies to reach vulnerable targets (casters, ranged attackers).
@@ -687,6 +703,8 @@ Blightmaw Alphas are solitary territorial hunters. They tolerate no other large 
 ### Reactions
 **Tail Lash** (Reaction, when a creature moves within 10 feet behind the Blightmaw)
 - Makes a free attack: Fury 5 + 0 = 5d6, dealing 6 Physical (Bludgeoning) and pushing the target 10 feet away
+
+**Behavior Tags:** boss, ambusher, brute, controller
 
 ### Tactics
 The Blightmaw Alpha ambushes from concealment in corrupted terrain. It opens with Trampling Charge to knock the most armored target Prone, then follows with Crushing Jaws to grapple them. While holding prey, it uses Toxic Spray on clustered enemies who try to rescue their ally. When bloodied, Territorial Rage makes it a relentless grappler. Alpha's Roar summons any nearby corrupted beasts to join the fight.
@@ -931,6 +949,8 @@ The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the a
 - **Nest Collapse:** A 15-foot section of the lair collapses. Creatures in the area must pass a DR 3 Shadow save or take 8 Bludgeoning damage and be buried (Restrained, DR 3 Fury to escape as action).
 - **Call the Brood:** 1d3 Nosgothian Drakes (TV 8 each) arrive from nesting tunnels.
 
+**Behavior Tags:** boss, brute, controller
+
 ### Tactics
 - **Aerial Dominance**: The Wyrm opens by circling overhead, softening the party with Corruption Breath before landing to engage. It returns to the air whenever multiple melee attackers close in.
 - **Divide and Conquer**: It uses Rending Jaws to grapple the most dangerous target, then Wing Buffet and Tail Sweep to scatter the rest of the party.
@@ -998,6 +1018,8 @@ In the years since the Pillars began to fail, Blightwater Eels have become incre
 
 **Contaminating Bite:** Creatures Bitten by the Eel who fail the Blight Toxin save are also considered **Contaminated** - they leave a blood trail in water that attracts additional Eels within 300 feet (1d3 arrive in 1d6 rounds if other Eels are present).
 
+**Behavior Tags:** ambusher, skirmisher
+
 ### Tactics
 The Eel lurks beneath the surface, striking with Blight Bite against anyone who wades into its territory. It prioritizes accumulating Blight Toxin stacks on single targets rather than spreading damage, aiming to incapacitate one creature at a time. On land it fights defensively, using Tail Lash to create space to retreat to water.
 
@@ -1053,6 +1075,8 @@ A single rat is an annoyance. Two hundred are a hazard. Plague Rat Swarms don't 
 **Disease Reservoir:** When a Plague Rat Swarm attacks, the target's Plague Fever save DR increases by 1 for every additional Swarm attacking them simultaneously (maximum DR 5 with 4 swarms).
 
 **Half Damage from Standard Attacks:** Weapons deal half damage to the Swarm (it's too diffuse). Area effects, fire, and cold damage the Swarm normally.
+
+**Behavior Tags:** pack, brute
 
 ### Tactics
 Swarms are encountered in groups of 2-5. They file through gaps, drop from ceilings, and bubble up from beneath floorboards. In large numbers they are a sustained bleed on resources and HP. Combat is most effective with fire or area attacks; point-and-shoot single-target warriors will find them frustrating and exhausting.
@@ -1113,6 +1137,8 @@ They have no intelligence beyond predatory instinct, but they are extremely effe
 
 **Athletics:** Moves through earth, gravel, and soft stone freely. Cannot burrow through worked stone (dungeon floors older than a century may count as worked stone at GM discretion).
 
+**Behavior Tags:** ambusher, brute
+
 ### Tactics
 The Tunnelworm spends its first round burrowing beneath the party while they enter the area, erupting among them for maximum disruption. It Chomps the most heavily armored target (whose vibration-footstep is largest/heaviest) and uses Earth Tremor to knock prone any melee party members who resist its initial attack. Once Bloodied, it burrows away.
 
@@ -1172,6 +1198,8 @@ They are no longer strictly animals; the Corruption has given them a rudimentary
 **Corruption Aura (Passive, 5 feet):** Any creature that ends its turn adjacent to the Raptor must make DR 1 Blood save or gain 1 Corruption point (represents ambient Corruption emanation).
 
 **Light Sensitivity:** In bright light (torch or better), the Raptor has Disadvantage on attacks and will retreat toward darkness if damaged.
+
+**Behavior Tags:** ambusher, skirmisher
 
 ### Tactics
 Corrupted Raptors hunt in pairs or trios. They dive, apply Talon Strike, and fly away beyond reach - a sustained aerial harassment that, over many rounds, accumulates alarming amounts of Corruption on the party. Characters without ranged options will find them exceptionally frustrating. Radiant or fire damage will drive them away quickly.
@@ -1235,6 +1263,8 @@ The creature is not intelligent; it operates entirely on chemical detection of w
 **Chemical Observation:** Corruption Leeches detect blood and life-heat within 60 feet. They can track a specific creature across water or difficult terrain once they have scented them.
 
 **Near-Invisible:** In dim light or darkness, Corruption Leeches are automatically unseen by Passive Observation (require active check DR 3 Focus to spot before they attack).
+
+**Behavior Tags:** pack, ambusher
 
 ### Tactics
 Corruption Leeches do not engage in traditional combat. They crawl onto creatures during movement through their territory, attempt Latch-On, and drain passively. Their primary danger is mass accumulation: 4 Leeches attached to a PC deal 4 HP damage and can inflict up to 4 Corruption points at the start of each of the PC's turns while the PC cannot take other actions. Fire is the universal counter-measure (but that may be a problem indoors or in a library).
@@ -1312,6 +1342,8 @@ The Rahabim have a nuanced relationship with Tide-Drakes. They cannot be tamed, 
 **Aquatic Apex:** While fully submerged, the Tide-Drake is automatically Invisible until it attacks or surfaces. It can hold its breath indefinitely and ignores underwater difficult terrain.
 
 **Death Throes:** When reduced to 0 HP, the Tide-Drake makes one final wild Death Roll (no Grapple requirement) against any creature within melee reach, dealing 8 Physical damage on a hit (DR 2 Blood save for half).
+
+**Behavior Tags:** ambusher, brute
 
 ### Tactics
 The Tide-Drake never engages on the surface if it can avoid it. It sinks to the bottom of the deepest part of the water and waits for a target to enter its range, then surges upward with Stealth Rise to trigger Surge Bite. Once it has a target Grappled, it immediately uses Death Roll and drags them deeper. It ignores other targets while the Death Roll is active - isolating one creature and drowning them is more efficient than fighting a whole party.

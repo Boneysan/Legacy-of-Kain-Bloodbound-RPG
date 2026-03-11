@@ -62,9 +62,13 @@ Legendary Actions (2 per round)
 
 ---
 
+**Behavior Tags:** boss, sentinel, brute
+
 ### Tactics
 - Built as a failsafe to guard relic vaults. Obeys ward-languages; clever PCs can display sigils to reduce aggression (DR 4 Glyphcasting check).
-- Fights to hold chokepoints, uses Shockwave to deny clustering.
+- Marks the two intruders it judges most dangerous at the start of the fight, then plants itself at the vault mouth or primary choke so every approach runs through Stone-Hewer Fist range.
+- Uses Pillar Shockwave whenever clustered enemies threaten to break its line, then follows with Stomp to punish anyone who closes through the disruption.
+- If prey tries to disengage or attack from safety, it shifts to Hurl Debris and advances just far enough to keep the chamber under judgment rather than abandoning the objective.
 
 ### Loot
 - Heart-Runestone: Socket to grant +1 Armor and once/day Shockwave (minor) to a shield.
@@ -121,6 +125,8 @@ Legendary Actions (2 per round)
 - Effect: When targeted, gain +2 DV vs that attack, then move 10ft without OA.
 
 ---
+
+**Behavior Tags:** controller, sentinel
 
 ### Tactics
 - Was once a temple interpreter; now defends sacred timelines. Dislikes chaos magic.
@@ -182,6 +188,8 @@ Legendary Actions (2 per round)
 
 ---
 
+**Behavior Tags:** ambusher, brute
+
 ### Tactics
 - Feeds on drowned tombs and silted vaults. Signs: slow currents against wind, hollow groans.
 - Ambushes from below, then relocates and collapses terrain.
@@ -241,6 +249,8 @@ Legendary Actions (2 per round)
 
 ---
 
+**Behavior Tags:** sentinel, phase_shifter, skirmisher
+
 ### Tactics
 - A remnant enforcement spirit. Wards respond to proper rites (Glyphwright can parley, DR 4).
 - Hit-and-run striker, focuses on marked enemies and casters with resources.
@@ -298,10 +308,12 @@ Legendary Actions (2 per round)
 
 ---
 
+**Behavior Tags:** ambusher, brute, sentinel
+
 ### Tactics
-- Born where a great wrong stained the grove. Prefers ambush near brambles.
-- The Root-Entombed Horror is not merely a creature of the forest. Its roots extend deep enough to touch the corrupted ley lines that once fed the Pillars of Nosgoth. As the Pillars decayed, the magical runoff poisoned the earth, and the Horror is the result — a living tumor of corrupted Pillar energy given form. In areas where a Pillar once stood, these creatures are especially powerful and often serve as unwitting guardians of buried Pillar fragments.
-- Pins one foe and zones the rest with thorns.
+- Born where a great wrong stained the grove. Prefers ambush near brambles, root-mats, and other ground that supports Deep Root regeneration.
+- It opens by Grappling the first intruder who pushes too far ahead, then holds that victim in place while using Thornburst to slow and punish anyone trying to close for a rescue.
+- Once engaged, it does not chase far. It anchors itself in dense growth, forces the party to come through punishing terrain, and relies on regeneration and mass to win an attrition fight unless driven out with fire or displacement.
 
 ### Loot
 - Living Root Core: Planting it purifies a small area or crafts a druidic focus granting +1 to Nature or Observation checks.
@@ -365,6 +377,8 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 **Legendary Actions (2 per round):**
 - **Blood Rend (1 action):** Make one Blood Rend attack
 - **Ancient Lunge (2 actions):** Use Ancient Lunge (still costs 5 SE)
+
+**Behavior Tags:** boss, ambusher, brute
 
 ### Tactics
 The Blood Stalker opens from Stealth, using Ancient Lunge to Pin the most armored PC (to disable them) before switching attention to the softest target for maximum Blood Drain efficiency. Primal Howl triggers when 3+ PCs are clustered. It maintains Blood Frenzy chains by targeting vulnerable targets. If reduced below 90 HP, it begins targeting healers.
@@ -433,6 +447,8 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 
 **Legendary Resistance (2/day):** If the Sentinel fails a save, it can choose to succeed instead.
 
+**Behavior Tags:** sentinel, controller, brute
+
 ### Tactics
 The Sentinel advances slowly, using Corruption Aura to force the party to spread out. It targets magical weapon-users with Decay Touch to degrade their equipment. Pillar Shard Barrage is used against clusters of 3+ PCs. Corruption Pulse triggers at half HP — this is a design intent, not a desperation move; the Sentinel is deadliest in the final half of the fight when Corruption points begin cascading into Corruption effects.
 
@@ -497,6 +513,8 @@ They manifest as large geometric constructs of light and pale stone, roughly hum
 **Construct Nature:** Immune to Frightened, Charmed, Corruption (mental), poison, disease, physical conditions.
 
 **Legendary Resistance (2/day):** If the Ward fails a save, it can choose to succeed instead.
+
+**Behavior Tags:** sentinel, controller
 
 ### Tactics
 The Living Ward prioritizes Counter-Glyph against every ability the party uses — this creates immediate pressure on SE-spending decisions. Ward Nullify is used when the party has activated 2+ powerful effects simultaneously (a summoned creature + ongoing spell, for example). Arcane Discharge punishes anyone in the open at range. The Ward doesn't move unless its protected location is being approached; it fights from the optimal position for its Ward Lattice to benefit any mechanical allies also guarding the vault.
