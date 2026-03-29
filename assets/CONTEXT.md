@@ -73,7 +73,7 @@ Legacy of Kain: Bloodbound RPG is a custom tabletop role-playing game set in the
 5. **Focus** - Mental acuity, concentration, precision, awareness
 6. **Blood** - Vitality, life essence, vampiric power
 
-**Starting Distribution:** 15 points, max 3 per attribute at creation
+**Starting Distribution:** Spend 10 points from 0, max 3 assigned per attribute at creation before lineage bonuses
 **Attribute Growth:** +1 to one Core Attribute at Levels 4, 8, 12, 16, 20 (max 5)
 
 ---
@@ -846,7 +846,7 @@ Complete rewrite of the player-facing character sheet. Old file `Chatacter Sheet
 1. Choose Concept & Background
 2. Select Lineage (Race)
 3. Choose Class
-4. Assign Attributes (15 points, max 3)
+4. Assign Attributes (10 points from 0, max 3 before lineage bonuses)
 5. Assign Skills (5-6 points per 03_Classes.md, max 3 or highest associated attribute at Level 1; absolute max 5)
 6. Choose Starting Gear
 7. Select Level 1 Class Perk + 1 Universal Perk (Tier 1)

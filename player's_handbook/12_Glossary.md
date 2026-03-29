@@ -87,7 +87,7 @@ Distinct d6s rolled when Pushing a roll or activating certain Corrupted Perk abi
 ## 12.2 Attributes and Resources
 
 **Core Attributes (6)**
-Every character has six attributes rated 1–5 (starting max 3, absolute max 5):
+Every character has six attributes that range from 0-5 in play (starting spend cap 3, absolute max 5):
 
 | Attribute | Governs | Key Classes |
 | :--- | :--- | :--- |
@@ -98,7 +98,7 @@ Every character has six attributes rated 1–5 (starting max 3, absolute max 5):
 | **Focus** | Mental acuity, concentration, precision | All classes (awareness, crafting, perception) |
 | **Blood** | Physical vitality, life essence, vampiric power | Blood Knight, Sangromancer |
 
-Starting distribution: 15 points, max 3 per attribute. Growth: +1 to one attribute at levels 4, 8, 12, 16, 20. *(Ch. 0, Ch. 1)*
+Starting distribution: spend 10 points from 0, max 3 assigned per attribute before lineage bonuses. Growth: +1 to one attribute at levels 4, 8, 12, 16, 20. *(Ch. 0, Ch. 1)*
 
 **Hit Points (HP)**
 Universal vitality resource. Varies by class (base 8–12 + a Core Attribute, plus 3–4 per level and class durability milestones at Levels 5, 10, 15, and 20). If the attribute named in a class's HP formula increases, Max HP increases by 1 immediately. At **0 HP**, a character falls Unconscious and begins Death Saves. *(Ch. 0, Ch. 3)*

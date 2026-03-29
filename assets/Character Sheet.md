@@ -54,9 +54,9 @@ Successes: [ ] [ ] [ ]     Failures: [ ] [ ] [ ]
 
 ---
 
-## 📊 Core Attributes (1–5)
+## 📊 Core Attributes (0–5)
 
-*Starting: Distribute 15 points across all six (max 3 each at Level 1).*
+*Starting: Spend 10 points across all six. Begin at 0, assign at most 3 to any one attribute at Level 1 before lineage bonuses, then apply any lineage modifiers.*
 
 | Attribute | Score | Growth |
 |---|---|---|

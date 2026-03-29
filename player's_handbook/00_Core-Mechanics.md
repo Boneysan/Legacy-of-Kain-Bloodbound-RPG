@@ -52,7 +52,7 @@ Every character has six core attributes that define their capabilities:
 - Key for: Blood Knight, Sangromancer
 - Used for: Blood magic, vampiric powers, physical resilience
 
-**Starting Attributes:** At character creation, distribute 15 points across all six attributes with a maximum of 3 in any single attribute.
+**Starting Attributes:** At character creation, spend 10 points across the six core attributes. Characters begin with 0 in each attribute, may assign at most 3 points to any one attribute before lineage bonuses, and still obey the absolute maximum of 5.
 
 ---
 

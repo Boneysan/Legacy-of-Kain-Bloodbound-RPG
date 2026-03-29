@@ -96,7 +96,7 @@ Shadowmancer: Stealth specialist manipulating darkness and fear.
 
 Consult your GM for the full class list and specific perks.
 ## 1.5 Step 4: Assign Attributes
-Distribute 15 points across six attributes, with a maximum of 3 per attribute. Each governs specific aspects of your character:
+Spend 10 points across six attributes. Characters begin with 0 in each attribute, may assign a maximum of 3 points to any one attribute before lineage bonuses, and still obey the absolute maximum of 5. Any lineage-granted attribute bonus is applied after allocation. Each attribute governs specific aspects of your character:
 
 Fury: Aggression and emotional force. Governs raw power, rage, and intimidation. Key for classes like Blood Knight or Dreadblade. Linked to skills like Weapon Mastery and Intimidation.
 Soul: Spiritual power and connection to the Spectral Realm. Crucial for spellcasters like Soul Reaver or Glyphwright. Influences Soul Energy and skills like Glyphcasting and Possession.
