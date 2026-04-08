@@ -66,7 +66,7 @@ Characters like Kain, Raziel, Moebius, and the Elder God are larger-than-life fi
 
 ### Identity
 **Titles:** Vampire Lord, Scion of Balance, The Defiant One, The Time Killer  
-**Nature:** Ancient vampire, former Guardian of Balance, wielder of the Soul Reaver  
+**Wilderness:** Ancient vampire, former Guardian of Balance, wielder of the Soul Reaver  
 **Era:** From the Age of Corruption to the Age of Fracture  
 **Current Status:** Active agent of Nosgoth's restoration — wields the purified Soul Reaver, works to break the Wheel of Fate and rebuild the Pillars
 
@@ -126,7 +126,7 @@ Kain appears as a towering, regal vampire with aristocratic features twisted by 
 
 ### Identity
 **Titles:** First-Born of Kain's Brood, The Redeemed Betrayer, Soul Reaver, Wraith Champion  
-**Nature:** Sacrificed soul bound within the Soul Reaver blade  
+**Wilderness:** Sacrificed soul bound within the Soul Reaver blade  
 **Era:** From Rise of Vampire Clans through his sacrifice  
 **Current Status:** Essence merged with Soul Reaver, consciousness fragmented
 
@@ -194,7 +194,7 @@ When Raziel's essence manifests from the Soul Reaver, he appears as a spectral w
 
 ### Identity
 **Titles:** The Time Streamer, Guardian of Time, Oracle of Fate, The Deceiver  
-**Nature:** Human transformed into immortal time manipulator, servant of the Elder God  
+**Wilderness:** Human transformed into immortal time manipulator, servant of the Elder God  
 **Era:** From Age of Corruption through Age of Fracture  
 **Current Status:** Weakened but active, schemes across timelines
 
@@ -263,7 +263,7 @@ An ancient man in flowing robes decorated with temporal glyphs and arcane symbol
 
 ### Identity
 **Titles:** The Elder God, The Wheel of Fate, Devourer of Souls, The Eternal Hunger  
-**Nature:** Ancient cosmic parasite disguised as deity  
+**Wilderness:** Ancient cosmic parasite disguised as deity  
 **Era:** Predates recorded history, persists through all ages  
 **Current Status:** Weakened after exposure by Kain and Raziel, but still active
 
@@ -333,7 +333,7 @@ A massive, tentacled entity dwelling in the depths of the Spectral Realm. Its bo
 
 ### Identity
 **Titles:** Vorador the Defiant, Last of the Ancients, The Blood Magus, Mentor of Kain  
-**Nature:** Ancient vampire, one of the last of the original vampire race  
+**Wilderness:** Ancient vampire, one of the last of the original vampire race  
 **Era:** From the Ancient Wars through multiple vampire generations  
 **Current Status:** Unknown—killed multiple times, yet returns
 
@@ -382,7 +382,7 @@ A powerful, aristocratic vampire with green-tinged skin and ancient features. He
 - Can turn encounter around with sudden arrival
 - Example: Party surrounded by Sarafan—Vorador descends from shadows, slaughters half in seconds, then vanishes with a laugh: "Kain sends his regards."
 
-**As Living History:**
+**As Living Lore:**
 - Remembers events from before the Pillars fell
 - Knows secrets of the Ancient War
 - Can identify ancient artifacts and locations
@@ -609,8 +609,8 @@ Adamas is a lean, ageless vampire with close-cropped grey hair and spectacles he
 | SE | 8 |
 
 **Abilities**
-- **Silver Tongue:** Advantage on Persuasion and Deception checks. Can reroll one failed social check per scene.
-- **Silver Tongue:** Advantage on Persuasion and Deception checks. Can reroll one failed social check once per scene.
+- **Silver Tongue:** Advantage on Persuasion and Infiltration checks. Can reroll one failed social check per scene.
+- **Silver Tongue:** Advantage on Persuasion and Infiltration checks. Can reroll one failed social check once per scene.
 - **Accord Cipher:** Can encode/decode Pale Accord diplomatic messages. Carries sealed letters that, if delivered, can call in favours from Accord contacts across Nosgoth.
 - **Pact of Restraint:** Adamas has voluntarily suppressed his vampiric feeding instinct. He does not regenerate naturally but is immune to vampiric frenzy (the involuntary combat state triggered at 0 HP).
 - **Emergency Mist (1/day):** Can dissolve into mist and flee if reduced below 5 HP.

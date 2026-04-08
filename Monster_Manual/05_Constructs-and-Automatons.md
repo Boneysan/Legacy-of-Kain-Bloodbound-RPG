@@ -86,7 +86,7 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 - Effect: Silvered bolts. If multiple Clockwork Knights coordinate, they can all fire at the same target with Advantage (GM determines if they're programmed for this).
 
 ### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 3, restores 10 HP).
+**Construct Wilderness**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 3, restores 10 HP).
 
 **Glyph-Powered Core**: The Knight is powered by holy glyphs. It has Advantage on saves vs Necrotic and Corruption damage. However, if hit by Lightning damage, it must pass a DR 3 Focus save or be **Stunned** for 1 round (overload).
 
@@ -173,7 +173,7 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 - Effect: All creatures in range must pass a DR 4 Fury save or be knocked **Prone**.
 
 ### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means.
+**Construct Wilderness**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means.
 
 **Regeneration (Ambient Magic)**: The Sentinel regains 10 HP at the start of each of its turns, unless it's in an area with no magical energy (rare). This regeneration can only be stopped by destroying its core (see below).
 
@@ -244,7 +244,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 
 **Skills**:
 - Unarmed Combat: 3
-- Nature: 2
+- Wilderness: 2
 - Craft: 3
 
 ### Attacks
@@ -253,7 +253,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 - Damage: 6 Physical damage
 - Effect: The Golem can make two Stone Fist attacks per turn (multi-attack).
 
-**Elemental Burst** (Soul 2 + Nature 2 = 4d6, Recharge 5-6)
+**Elemental Burst** (Soul 2 + Wilderness 2 = 4d6, Recharge 5-6)
 - Range: 20-foot cone
 - Damage: 5 Elemental damage (type depends on golem variant: Fire, Cold, Lightning, or Force)
 - Effect: Targets must pass a DR 2 Shadow save or suffer an additional status effect based on element:
@@ -263,7 +263,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
   - **Force**: Pushed back 10 feet
 
 ### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Forbidden Knowledge, DR 2, restores 10 HP).
+**Construct Wilderness**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Forbidden Knowledge, DR 2, restores 10 HP).
 
 **Elemental Body**: The Golem has Resistance to one elemental damage type (Fire, Cold, Lightning, or Acid, chosen when created).
 
@@ -271,7 +271,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 
 **Command Word Vulnerability**: If a character knows the Golem's command word (requires Forbidden Knowledge or research), they can deactivate it with a DR 3 Focus + Forbidden Knowledge roll. The Golem shuts down for 1 minute (or until reactivated).
 
-**Mindless Obedience**: The Golem follows the last order it was given, even if centuries old. Clever players can convince it they're authorized by the "master" (requires Persuasion or Deception, DR 3).
+**Mindless Obedience**: The Golem follows the last order it was given, even if centuries old. Clever players can convince it they're authorized by the "master" (requires Persuasion or Infiltration, DR 3).
 
 **Behavior Tags:** brute, sentinel
 
@@ -343,13 +343,13 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 - Effect: Target must pass a DR 3 Fury save or be knocked **Prone**.
 
 ### Abilities
-**Hybrid Nature**: The Beast is part construct, part undead. It's immune to poison and disease, but vulnerable to both Radiant damage (harms the soul) and Lightning damage (disrupts the iron frame). Both deal +2 damage.
+**Hybrid Wilderness**: The Beast is part construct, part undead. It's immune to poison and disease, but vulnerable to both Radiant damage (harms the soul) and Lightning damage (disrupts the iron frame). Both deal +2 damage.
 
 **Agonized Fury**: While Bloodied, the Beast enters a rage. It gains +2 dice on all attacks and movement speed increases by 15 ft per turn. However, it can no longer use Soul Scream (the soul is too fragmented).
 
 **Tactics**: The Beast gains +1 die on attack rolls for each allied Iron-Cage Beast or Hylden creature within 10 feet (max +3 dice).
 
-**Trapped Soul**: The soul within the Beast is suffering. Characters with Soul-based abilities (Wraiths, Soul Reavers, etc.) can attempt to free the soul with a DR 4 Soul + Rituals roll (requires 1 action in combat). If successful, the Beast collapses (instant death) and the soul is released (may provide information or gratitude).
+**Trapped Soul**: The soul within the Beast is suffering. Characters with Soul-based abilities (Wraiths, Soul Reavers, etc.) can attempt to free the soul with a DR 4 Soul + Ritualism roll (requires 1 action in combat). If successful, the Beast collapses (instant death) and the soul is released (may provide information or gratitude).
 
 **Erratic Behavior:** The first time it becomes Bloodied, the Iron-Cage Beast's conflicting commands cause it to lose its next turn as it recalibrates. This happens only once per encounter.
 
@@ -424,7 +424,7 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 - Effect: The Automaton targets one creature and attempts to trap them in a cage of glyphs. Target must pass a DR 4 Shadow save or be **Restrained**. The target can attempt to break free with a DR 4 Fury + Athletics or Focus + Forbidden Knowledge roll at the start of each of their turns. The prison lasts up to 3 rounds.
 
 ### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Forbidden Knowledge, DR 4, restores 15 HP).
+**Construct Wilderness**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Forbidden Knowledge, DR 4, restores 15 HP).
 
 **Glyph Adaptation (1/encounter)**: After being hit by a damage type, the Automaton gains Resistance to that type until the end of its next turn.
 
@@ -487,7 +487,7 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 
 **Skills**:
 - Tactics: 5
-- Rituals: 5
+- Ritualism: 5
 - Craft: 4
 
 ### Attacks
@@ -496,7 +496,7 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 - Damage: 15 Physical damage
 - Effect: On Critical Hit (3+ successes), target is **Grappled** (held by the Tower's massive claw). While Grappled, the target takes 8 automatic damage at the start of each of their turns. Escape requires a DR 5 Fury + Athletics roll.
 
-**Soul Cannon** (Soul 6 + Rituals 5 = 11d6, costs 4 SE)
+**Soul Cannon** (Soul 6 + Ritualism 5 = 11d6, costs 4 SE)
 - Range: 80-foot line
 - Damage: 14 Soul damage to all creatures in the line
 - Effect: Targets must pass a DR 5 Will save or lose 3 SE (or take 3 additional Soul damage if they have no SE).
@@ -512,7 +512,7 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 - Effect: Targets must pass a DR 5 Shadow save or be knocked **Prone** and take an additional 4 damage (trampled underfoot).
 
 ### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means.
+**Construct Wilderness**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means.
 
 **Colossal Size**: The Soul-Tower occupies a 4x4 tile space. It has 20-foot reach on melee attacks. Creatures can move through its space but treat it as difficult terrain.
 
@@ -607,7 +607,7 @@ Scribes are valuable sources of information. They can answer questions about the
 - Effect: The Scribe overwhelms targets with a telepathic torrent of information. Targets must pass a DR 3 Will save or be **Confused** (Disadvantage on all rolls for 2 rounds, as their minds reel from information overload).
 
 ### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft or Forbidden Knowledge, DR 2, restores 10 HP).
+**Construct Wilderness**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft or Forbidden Knowledge, DR 2, restores 10 HP).
 
 **Living Archive**: The Scribe has encyclopedic knowledge of its archive's contents. Players can ask it questions about history, magic, creatures, or lore. It answers truthfully but in precise, formal language. It will not answer questions unrelated to its archive.
 
@@ -682,7 +682,7 @@ Drones are often the first encounter players have with Hylden technology. Their 
 - Effect: The Drone slams into a target and immediately flies away (no opportunity attack). If multiple Drones coordinate, they can all Divebomb the same target on the same turn.
 
 ### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 2, restores 5 HP).
+**Construct Wilderness**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 2, restores 5 HP).
 
 **Flight**: The Drone can fly, ignoring ground-based obstacles and terrain. While flying, melee attackers have Disadvantage unless they can reach the Drone.
 
@@ -760,7 +760,7 @@ They guard the most important sites in Nosgoth: Pillar vaults, ancient libraries
 - Effect: A minor ranged attack for targets beyond halberd reach. The Warden fires a bolt of condensed runic energy from its eyes.
 
 ### Abilities
-**Construct Nature**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 3, restores 10 HP per success).
+**Construct Wilderness**: Immune to fear, charm, corruption, poison, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 3, restores 10 HP per success).
 
 **Runic Shielding**: At the start of each of the Warden's turns, it generates a shield of 5 temporary HP (runic barrier). This shield absorbs damage before HP and does not stack — if the previous shield was not fully depleted, the remainder is replaced.
 
@@ -821,7 +821,7 @@ The Rune-Forged Warden does not pursue. It holds position and punishes anyone wh
 
 **Environmental Factor**: The vault has narrow corridors. Knights block the path, forcing PCs to either destroy them or find alternate routes (climbing over, squeezing past, breaking walls).
 
-**Twist**: If the party presents a Sarafan insignia or speaks a holy prayer, the Knights may recognize them as "authorized" and allow passage (DR 3 Persuasion or Deception).
+**Twist**: If the party presents a Sarafan insignia or speaks a holy prayer, the Knights may recognize them as "authorized" and allow passage (DR 3 Persuasion or Infiltration).
 
 ---
 
@@ -832,7 +832,7 @@ The Rune-Forged Warden does not pursue. It holds position and punishes anyone wh
 
 **Environmental Factor**: The Pillar site is sacred ground. Corrupted PCs or those wielding forbidden magic may trigger additional hostility (Sentinel gains +2 dice on attacks vs them).
 
-**Twist**: If the party can convince the Sentinel they're trying to *restore* the Pillar (not destroy it), it may stand down (requires a DR 4 Persuasion + History check, plus proof of good intentions).
+**Twist**: If the party can convince the Sentinel they're trying to *restore* the Pillar (not destroy it), it may stand down (requires a DR 4 Persuasion + Lore check, plus proof of good intentions).
 
 ---
 
@@ -843,7 +843,7 @@ The Rune-Forged Warden does not pursue. It holds position and punishes anyone wh
 
 **Environmental Factor**: The battlefield is open (flat plains). PCs must either attack the Tower directly (focusing on Soul Cores) or sabotage it (climb onto it, disable cores, jam machinery with DR 4 Focus + Craft rolls).
 
-**Twist**: If the party frees the trapped souls from the Tower (by destroying cores and performing a DR 5 Soul + Rituals ritual), the souls may turn on the Tower from within, dealing massive internal damage (50 HP) and weakening its defenses.
+**Twist**: If the party frees the trapped souls from the Tower (by destroying cores and performing a DR 5 Soul + Ritualism ritual), the souls may turn on the Tower from within, dealing massive internal damage (50 HP) and weakening its defenses.
 
 ---
 
@@ -956,7 +956,7 @@ Every construct tells a story. Who built it? Why? What does its presence reveal 
 Nosgoth's pervasive corruption raises a natural question: can constructs be corrupted?
 
 ### The Short Answer
-Standard constructs are **immune to Corruption** as a mental effect — they have no soul to taint and no will to subvert. Their Construct Nature trait explicitly includes corruption immunity.
+Standard constructs are **immune to Corruption** as a mental effect — they have no soul to taint and no will to subvert. Their Construct Wilderness trait explicitly includes corruption immunity.
 
 ### The Exceptions
 However, three categories of construct can interact with Corruption:
@@ -1022,7 +1022,7 @@ In combat, a Restoration Engine is not a primary threat. It exists to sustain al
 
 **Triage Protocol (Passive):** The Restoration Engine prioritizes Bloodied allies. If any ally it can see is Bloodied, the Engine will use Repair Beam on that ally on its turn before taking any other action, spending SE to do so.
 
-**Construct Nature:** Immune to Frightened, Charmed, Corrupted (as mental effect), poison, disease. Cannot be healed by standard means — requires Focus + Craft DR 3 (10 HP per success).
+**Construct Wilderness:** Immune to Frightened, Charmed, Corrupted (as mental effect), poison, disease. Cannot be healed by standard means — requires Focus + Craft DR 3 (10 HP per success).
 
 **Hardened Frame (Reaction):** When the Engine takes damage exceeding 8 from a single hit, its self-preservation protocol activates and it immediately uses Repair Beam on itself (costs 3 SE; heals 12).
 
@@ -1094,7 +1094,7 @@ A party that kills a Glyph Spider before it can retreat probably prevented a Run
 
 **Relay Signal (Bonus Action, no SE cost):** The Spider sends a signal to any connected construct within 300 feet, alerting it to the presence and approximate location of intruders. This activates dormant constructs if any are in range.
 
-**Construct Nature:** Immune to Frightened, Charmed, poison, disease. Cannot be charmed into cooperation.
+**Construct Wilderness:** Immune to Frightened, Charmed, poison, disease. Cannot be charmed into cooperation.
 
 **Tiny Profile:** Cannot be targeted by area effects that require a creature to be Medium or larger. Weapon Mastery attackers have Disadvantage against it in dim light.
 
@@ -1165,7 +1165,7 @@ Most Animated Wards are paired with other constructs or physical doors — they 
 
 **Threat Assessment (Passive):** The Animated Ward identifies creatures who have dealt damage to it or its allies as Threat-Marked. It will prioritize using Ward Pulse on Threat-Marked creatures over neutral or unknown creatures.
 
-**Construct Nature:** Immune to Frightened, Charmed, poison, disease, Corruption (mental). Immune to Prone, Grappled, Restrained (no body to grab).
+**Construct Wilderness:** Immune to Frightened, Charmed, poison, disease, Corruption (mental). Immune to Prone, Grappled, Restrained (no body to grab).
 
 **Disruption Vulnerability:** Lightning damage disrupts the Ward's projection matrix — Lightning deals double damage to Animated Wards and causes them to lose their next Reaction (short-circuit).
 

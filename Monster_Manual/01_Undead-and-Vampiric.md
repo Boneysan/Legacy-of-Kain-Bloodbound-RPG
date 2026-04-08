@@ -11,7 +11,7 @@ This chapter now uses final absolute TV values aligned to each entry's intended 
 ## 1.1 Feralslave Ghoul
 
 **Type:** Undead (Mindless)  
-**Threat Tier:** Minion (TV 2)
+**Threat Tier:** Minion (Level 4) - TV 2
 **Recommended Levels:** 1-3
 
 ### Lore
@@ -37,7 +37,7 @@ Feralslave Ghouls are the remains of mortals who died in agony, their souls too 
 - **Damage:** 4 physical (Piercing) + Bleeding
 
 ### Abilities
-**Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
 
 **Feral Pack:** Gains Advantage on attack rolls when within 10 feet of another Feralslave Ghoul.
 
@@ -62,7 +62,7 @@ Ghouls rush the nearest living creature mindlessly. They use Feral Pack to swarm
 ## 1.2 Hunger-Warped Vampire
 
 **Type:** Undead (Vampiric, Feral)  
-**Threat Tier:** Elite (TV 7)
+**Threat Tier:** Elite (Level 5) - TV 7
 **Recommended Levels:** 5-9
 
 ### Lore
@@ -102,7 +102,7 @@ Not all vampires retain their nobility and cunning. Those who give in completely
 
 **Sunlight Weakness:** Takes 10 Fire damage at start of turn if in direct sunlight. DV reduced by 2 in sunlight.
 
-**Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
 
 ### Reactions
 **Predator's Evasion** (Reaction, when hit by attack)
@@ -129,7 +129,7 @@ Opens with Shadow Leap to close distance, then Pounces on isolated target. Uses 
 ## 1.3 Nosgothian Revenant
 
 **Type:** Undead (Intelligent, Cursed)  
-**Threat Tier:** Standard (TV 4)
+**Threat Tier:** Standard (Level 4) - TV 4
 **Recommended Levels:** 2-6
 
 
@@ -165,7 +165,7 @@ Revenants are the restless dead bound to unfinished purpose. Unlike mindless und
 
 **Purpose-Bound:** Cannot voluntarily move more than 100 feet from the object, location, or person they're bound to protect/hunt/avenge.
 
-**Undead Nature:** Immune to Soul Drain, poison, disease, charm. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease, charm. Takes double damage from Radiant.
 
 **Deathless Concentration:** Advantage on saves against being stunned or paralyzed.
 
@@ -192,7 +192,7 @@ Methodical and intelligent fighter. Protects its bound location/object/person ze
 ## 1.4 Bone-Pyre Skeleton
 
 **Type:** Undead (Animated, Fire-Touched)  
-**Threat Tier:** Minion (TV 2)
+**Threat Tier:** Minion (Level 4) - TV 2
 **Recommended Levels:** 1-3
 
 ### Lore
@@ -220,7 +220,7 @@ Created through necromantic rituals involving immolation, Bone-Pyre Skeletons ar
 - **Special:** All creatures in cone must make DR 2 Evasion save, half damage on success
 
 ### Abilities
-**Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
 
 **Flaming Aura:** Creatures that start their turn within 5 feet (1 square) take 1 Fire damage.
 
@@ -243,7 +243,7 @@ Advance in groups, using Flaming Aura to pressure melee fighters. Use Ember Burs
 ## 1.5 Crypt-Bound Wight
 
 **Type:** Undead (Intelligent, Shadow-Touched)  
-**Threat Tier:** Elite (TV 6)
+**Threat Tier:** Elite (Level 4) - TV 6
 **Recommended Levels:** 4-8
 
 ### Lore
@@ -274,7 +274,7 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 - **Effect:** All mindless undead within range act on Wight's initiative and gain +1 die on attack rolls until start of Wight's next turn
 
 ### Abilities
-**Undead Nature:** Immune to Soul Drain, poison, disease, charm, exhaustion. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease, charm, exhaustion. Takes double damage from Radiant.
 
 **Shadow Step:** As Bonus Action, teleport up to 30 feet to area of dim light or darkness.
 
@@ -308,7 +308,7 @@ Commands lesser undead from back line while using Aura of Dread to control battl
 ## 1.6 Vampire Thrall Swarm
 
 **Type:** Undead (Vampiric, Swarm)  
-**Threat Tier:** Elite (TV 6)
+**Threat Tier:** Elite (Level 4) - TV 6
 **Recommended Levels:** 4-8
 
 ### Lore
@@ -317,7 +317,7 @@ When lesser vampires are destroyed, their remaining essence sometimes animates n
 ### Statistics
 - **HP:** 30
 - **DV:** 5 (1 + Shadow 4)
-- **Armor:** 0 (but see Swarm Nature)
+- **Armor:** 0 (but see Swarm Wilderness)
 - **Initiative:** 5
 - **Movement:** 30 feet (6 squares), Climb 30 feet, Fly 30 feet
 - **Attributes:** Fury 3, Soul 1, Shadow 4, Will 2, Focus 3, Blood 3
@@ -337,7 +337,7 @@ When lesser vampires are destroyed, their remaining essence sometimes animates n
 - **Effect:** Swarm moves through a creature's space. Creature must make DR 3 Evasion save or become Engulfed (Restrained and takes automatic Thousand Bites damage at start of each turn)
 
 ### Abilities
-**Swarm Nature:**
+**Swarm Wilderness:**
 - Occupies 10-foot cube but can squeeze through any opening
 - Resistant to physical damage from weapons (takes half damage from Slashing, Piercing, Bludgeoning)
 - Vulnerable to area effects (takes double damage from AoE attacks)
@@ -345,7 +345,7 @@ When lesser vampires are destroyed, their remaining essence sometimes animates n
 
 **Vampiric Regeneration:** Regains 3 HP at start of its turn unless took Fire or Radiant damage last round.
 
-**Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
 
 **Keen Senses:** Advantage on Observation checks related to smell or sound.
 
@@ -363,7 +363,7 @@ Attempts to Engulf isolated targets while using superior mobility to avoid area 
 ## 1.7 Red Vein Acolyte
 
 **Type:** Undead (Vampiric, Corrupted Priest)  
-**Threat Tier:** Standard (TV 4)
+**Threat Tier:** Standard (Level 4) - TV 4
 **Recommended Levels:** 2-6
 
 ### Lore
@@ -375,18 +375,18 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 - **Armor:** 0 (cloth robes)
 - **Initiative:** 3
 - **Movement:** 30 feet (6 squares)
-- **Attributes:** Fury 2, Soul 4, Shadow 2, Will 2, Focus 3, Blood 3
-- **Skills:** Rituals 4, Forbidden Knowledge 3, Persuasion 2
+- Attributes: Fury 2, Soul 4, Shadow 2, Will 2, Focus 3, Blood 3
+- Skills: Ritualism 4, Forbidden Knowledge 3, Persuasion 2
 
 ### Attacks
 **Blood Bolt** (Action)
-- **Dice Pool:** Soul 2 + Rituals 4 = 6d6
+- **Dice Pool:** Soul 2 + Ritualism 4 = 6d6
 - **Damage:** 5 Blood damage
 - **Range:** 60 feet (12 squares)
 - **Special:** Target must make DR 2 Will save or suffer Bleeding
 
 **Vampiric Touch** (Action, melee)
-- **Dice Pool:** Soul 4 + Rituals 4 = 8d6
+- **Dice Pool:** Soul 4 + Ritualism 4 = 8d6
 - **Damage:** 6 Necrotic damage
 - **Special:** Acolyte regains HP equal to half damage dealt
 
@@ -396,11 +396,11 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 - **Effect:** Target must make DR 3 Will save or suffer Cursed: -2 dice penalty on all attack rolls and saves for 1 minute. Can repeat save at end of each turn.
 
 ### Abilities
-**Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
 
-**Rituals:** Can spend 2 HP to add +1 die to any spell attack or increase spell damage by 2.
+**Ritualism:** Can spend 2 HP to add +1 die to any spell attack or increase spell damage by 2.
 
-**Ritual Caster:** Given 10 minutes and proper materials, can cast rituals from memory (GM discretion on effects).
+**Ritualism Caster:** Given 10 minutes and proper materials, can cast rituals from memory (GM discretion on effects).
 
 **Vampiric Weakness:** Takes double damage from Radiant. Disadvantage in direct sunlight.
 
@@ -411,12 +411,12 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 **Behavior Tags:** controller, objective_holder
 
 ### Tactics
-Begins fights from behind sturdier undead or from the edge of a prepared ritual space, opening with Blood Curse on the most dangerous striker or caster before settling into Blood Bolt pressure. It spends its own flesh through Rituals when one decisive curse or bolt will turn the exchange, then uses Blood Shield to preserve distance rather than stand and trade. If forced into melee, it uses Vampiric Touch only long enough to recover and disengage. When Bloodied, it retreats toward wards, coffins, or waiting servants so it can return with reinforcements or finish a blood rite already in motion.
+Begins fights from behind sturdier undead or from the edge of a prepared ritual space, opening with Blood Curse on the most dangerous striker or caster before settling into Blood Bolt pressure. It spends its own flesh through Ritualism when one decisive curse or bolt will turn the exchange, then uses Blood Shield to preserve distance rather than stand and trade. If forced into melee, it uses Vampiric Touch only long enough to recover and disengage. When Bloodied, it retreats toward wards, coffins, or waiting servants so it can return with reinforcements or finish a blood rite already in motion.
 
 ### Loot
 - Bloodstained ritual robes
-- Rituals tome (Trade Value: 20 supplies, can teach Blood Bolt spell)
-- Ritual components (Trade Value: 50 supplies total)
+- Ritualism tome (Trade Value: 20 supplies, can teach Blood Bolt spell)
+- Ritualism components (Trade Value: 50 supplies total)
 - Unholy symbol of vampire lord
 
 ---
@@ -424,7 +424,7 @@ Begins fights from behind sturdier undead or from the edge of a prepared ritual 
 ## 1.8 Bloodflame Specter
 
 **Type:** Undead (Spectral, Fire-Touched)  
-**Threat Tier:** Standard (TV 4)
+**Threat Tier:** Standard (Level 4) - TV 4
 **Recommended Levels:** 2-6
 
 ### Lore
@@ -454,7 +454,7 @@ Vampires destroyed by fire sometimes leave behind vengeful spirits—Bloodflame 
 ### Abilities
 **Incorporeal:** Cannot be harmed by nonmagical physical attacks. Physical attacks pass through harmlessly. Magical weapons and spells affect normally.
 
-**Undead Nature:** Immune to Soul Drain, poison, disease, grappled, restrained, prone. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease, grappled, restrained, prone. Takes double damage from Radiant.
 
 **Phase Movement:** Can move through creatures and objects, but takes 5 Force damage if it ends turn inside solid object.
 
@@ -549,7 +549,7 @@ Use 2 actions for most solo Boss undead and reserve 3 actions for Legendary unde
 ## 1.11 Nosgothian Vampire Overlord
 
 **Type:** Undead (Vampiric, Noble)  
-**Threat Tier:** Boss (TV 13)
+**Threat Tier:** Boss (Level 9) - TV 13
 **Recommended Levels:** 11-15
 
 ### Lore
@@ -605,7 +605,7 @@ Most Overlords were once members of the great vampire clans, and some still carr
 
 **Sunlight Vulnerability:** Takes 15 Fire damage at start of turn in direct sunlight. DV reduced by 3 in sunlight.
 
-**Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
 
 **Legendary Resistance (3/day):** When the Overlord fails a save, it can choose to succeed instead.
 
@@ -642,7 +642,7 @@ The Overlord opens with Blood Dominion on the party's strongest melee fighter, t
 ## 1.12 Grave-Knight Commander
 
 **Type:** Undead (Intelligent, Martial)  
-**Threat Tier:** Elite (Strong) (TV 8)
+**Threat Tier:** Elite (Strong) (Level 6) - TV 8
 **Recommended Levels:** 6-10
 
 ### Lore
@@ -683,7 +683,7 @@ Grave-Knights are often bound to a specific location (a battlefield, a fortress,
 
 ### Abilities
 
-**Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
 
 **Commander's Presence:** All undead allies within 30 feet gain +1 die on attack rolls (the Commander's tactical aura organizes their assault).
 
@@ -719,7 +719,7 @@ The Grave-Knight Commander fights from within a formation of lesser undead, usin
 ## 1.13 Bonelord Archon
 
 **Type:** Undead (Intelligent, Spellcaster)  
-**Threat Tier:** Legendary (TV 14)
+**Threat Tier:** Legendary (Level 8) - TV 14
 **Recommended Levels:** 12-16
 
 ### Lore
@@ -734,13 +734,13 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 - **Initiative:** 5
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 3, Soul 6, Shadow 4, Will 5, Focus 5, Blood 0 (Immune to Blood-based effects)
-- **Skills:** Rituals 5, Glyphcasting 4, Intimidation 4, Forbidden Knowledge 5, Observation 3
+- **Skills:** Ritualism 5, Glyphcasting 4, Intimidation 4, Forbidden Knowledge 5, Observation 3
 - **Soul Energy (SE):** 50
 - **Blood Points (BP):** N/A
 
 ### Attacks
 **Soul Scourge** (Action)
-- **Dice Pool:** Soul 6 + Rituals 5 = 11d6 vs DV
+- **Dice Pool:** Soul 6 + Ritualism 5 = 11d6 vs DV
 - **Range:** 60 feet
 - **Damage:** 10 Soul damage
 - **Special:** On hit, target's max SE is reduced by 3 until short rest.
@@ -755,13 +755,13 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 - **Effect:** Summon 2 Feralslave Ghouls (TV 2 each) or 1 Nosgothian Revenant (TV 4) within 30 feet. Maximum of 6 summoned undead at once. Summoned undead act on the Archon's initiative.
 
 **Necrotic Detonation** (Action, costs 12 SE, Recharge 5-6)
-- **Dice Pool:** Soul 6 + Rituals 5 = 11d6
+- **Dice Pool:** Soul 6 + Ritualism 5 = 11d6
 - **Range:** 25 foot radius centered on Archon
 - **Damage:** 14 Entropic
 - **Special:** Living creatures in the area make a DR 4 Will save for half damage. Undead allies in the area are healed for 8 HP instead.
 
 ### Abilities
-**Undead Nature:** Immune to Soul Drain, poison, disease, fear, charm, sleep. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease, fear, charm, sleep. Takes double damage from Radiant.
 
 **Phylactery Bond:** The Archon's soul is bound to a hidden phylactery. When reduced to 0 HP, the Archon is destroyed but reforms at its phylactery in 1d6 days. The phylactery has HP 30, DV 4, Armor 6, and is typically hidden in a location 1–5 miles away. Destroying the phylactery first is the only way to permanently kill the Archon.
 
@@ -785,14 +785,14 @@ The Bonelord Archon fights from behind a wall of summoned undead. It opens by ca
 **Encounter Design:** Pair with 4 Feralslave Ghouls (TV 2 each) and 1 Grave-Knight Commander (TV 8) for a full TV 30 encounter. The Archon uses Command Undead to coordinate the Commander's alpha strikes while maintaining its own ranged pressure.
 
 ### Loot
-- Archon's staff (acts as a spellcasting focus; grants +1 die on Rituals checks) — **Trade Value**: 200 supplies
+- Archon's staff (acts as a spellcasting focus; grants +1 die on Ritualism checks) — **Trade Value**: 200 supplies
 - Phylactery shard (if the phylactery is found and shattered — powerful component for anti-undead rituals) — **Trade Value**: 300 supplies
-- Entropic grimoire (contains 3 Rituals spells of the GM's choice) — **Trade Value**: 150 supplies
+- Entropic grimoire (contains 3 Ritualism spells of the GM's choice) — **Trade Value**: 150 supplies
 - Dark essence vial (concentrated entropic energy; can be used to craft a weapon that deals +4 Entropic damage) — **Trade Value**: 120 supplies
 
 ### Scaling Options
-- **Bonelord Acolyte (Boss, TV 11):** HP 70, DV 5, Soul 5, Rituals 4. Loses Legendary Actions, Lair Action, and Phylactery Bond. Raise Dead summons only 1 Ghoul. SE reduced to 24.
-- **Bonelord Sovereign (Legendary, TV 18):** HP 180, DV 6, Soul 7, Rituals 6. Gains 3 Legendary Actions/round. Raise Dead summons 3 Revenants or 1 Grave-Knight Commander. Add Regional Effects: undead within 1 mile are drawn to the Sovereign's lair, and living creatures within 500 feet have Disadvantage on death saves.
+- **Bonelord Acolyte (Boss, TV 11):** HP 70, DV 5, Soul 5, Ritualism 4. Loses Legendary Actions, Lair Action, and Phylactery Bond. Raise Dead summons only 1 Ghoul. SE reduced to 24.
+- **Bonelord Sovereign (Legendary, TV 18):** HP 180, DV 6, Soul 7, Ritualism 6. Gains 3 Legendary Actions/round. Raise Dead summons 3 Revenants or 1 Grave-Knight Commander. Add Regional Effects: undead within 1 mile are drawn to the Sovereign's lair, and living creatures within 500 feet have Disadvantage on death saves.
 
 ---
 
@@ -803,7 +803,7 @@ The Bonelord Archon fights from behind a wall of summoned undead. It opens by ca
 ## 1.14 Risen Thrall
 
 **Type:** Undead (Mindless)
-**Threat Tier:** Minion (TV 2)
+**Threat Tier:** Minion (Level 4) - TV 2
 **Recommended Levels:** 1-3
 
 ### Lore
@@ -832,7 +832,7 @@ Unlike Feralslave Ghouls, which are animated by lingering soul-fragments, Risen 
 
 **Mindless Advance:** Immune to Frightened, Charmed, and Confused. Cannot be demoralized. Ignores difficult terrain caused by writhing undead or corpse-piles.
 
-**Undead Nature:** Immune to Soul Drain, poison, and disease. Takes double damage from Radiant sources.
+**Undead Wilderness:** Immune to Soul Drain, poison, and disease. Takes double damage from Radiant sources.
 
 **Slow:** Cannot use Reactions. Movement is always 20 feet regardless of modifiers.
 
@@ -856,7 +856,7 @@ Risen Thralls swarm and absorb damage. Their sole value is being in the way. GMs
 ## 1.15 Vampiric Fledgling
 
 **Type:** Undead (Intelligent, Newly-Turned)
-**Threat Tier:** Standard (TV 3)
+**Threat Tier:** Standard (Level 3) - TV 3
 **Recommended Levels:** 1-4
 
 ### Lore
@@ -915,7 +915,7 @@ Fledglings rush the closest target, prioritizing wounded PCs to chain their Bloo
 ## 1.16 Skeletal Archer
 
 **Type:** Undead (Mindless, Weapon Mastery)
-**Threat Tier:** Minion (TV 2)
+**Threat Tier:** Minion (Level 4) - TV 2
 **Recommended Levels:** 1-3
 
 ### Lore
@@ -943,7 +943,7 @@ Archers are more tactically valuable than their TV suggests; their positioning a
 
 ### Abilities
 
-**Undead Nature:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant sources.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant sources.
 
 **Dead Eyes:** Immune to Blinded, Frightened, and all emotion-based effects; unaffected by Darkness (no vision to impair).
 
@@ -967,7 +967,7 @@ Place Skeletal Archers in elevated positions, windows, or behind barricades. The
 ## 1.17 Skeletal Knight
 
 **Type:** Undead (Mindless, Armored)
-**Threat Tier:** Standard (TV 3)
+**Threat Tier:** Standard (Level 3) - TV 3
 **Recommended Levels:** 1-4
 
 ### Lore
@@ -1037,7 +1037,7 @@ Led by the secretive **Feral Council** — a cabal of ancient vampires who have 
 ## 1.18 Fracture Zealot
 
 **Type:** Undead (Vampire, Standard)
-**Threat Tier:** Standard (TV 5)
+**Threat Tier:** Standard (Level 5) - TV 5
 **Recommended Levels:** 3-7
 
 ### Lore
@@ -1072,7 +1072,7 @@ Most Zealots barely understand the Fracture's true goals. They know they are par
 
 ### Abilities
 
-**Undead Nature:** Immune to Soul Drain, poison, disease.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease.
 
 **Feral Senses:** The Zealot cannot be Surprised while conscious.
 
@@ -1113,7 +1113,7 @@ The process is not without cost. Every Dimension-Walker bears the mark of their 
 - **Initiative:** 5
 - **Movement:** 35 feet (7 squares)
 - **Attributes:** Fury 3, Soul 3, Shadow 3, Will 3, Focus 2, Blood 3
-- **Skills:** Weapon Mastery (Fury): 3, Spectral Navigation (Soul): 3, Stealth (Shadow): 4, Athletics (Blood): 3
+- **Skills:** Weapon Mastery (Fury): 3, Ethereal Mastery (Soul or Shadow): 3, Stealth (Shadow): 4, Athletics (Blood): 3
 - **Soul Energy (SE):** 20
 - **Blood Points (BP):** 20
 
@@ -1126,14 +1126,14 @@ The process is not without cost. Every Dimension-Walker bears the mark of their 
 - **Special:** On Critical Hit, target must pass a DR 3 Will save or be Disoriented (Disadvantage on their next action roll).
 
 **Spectral Strike** (Action)
-- **Dice Pool:** Soul 3 + Spectral Navigation 3 = 6d6 vs Will
+- **Dice Pool:** Soul 3 + Ethereal Mastery 3 = 6d6 vs Will
 - **Range:** 30 feet
 - **Damage:** 7 Spectral
 - **Special:** Ignores non-magical Armor.
 
 ### Abilities
 
-**Undead Nature:** Immune to Soul Drain, poison, disease.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease.
 
 **Realm Shift** (Action, costs 5 SE): The Dimension-Walker briefly steps through the Spectral Realm and re-emerges at any point within 30 feet, passing through walls and obstacles up to 5 feet thick. Until the start of its next turn, attacks against it have Disadvantage from the residual spectral shimmer.
 
@@ -1147,7 +1147,7 @@ The Dimension-Walker opens combat behind the front line, using Realm Shift to ap
 **Encounter Design:** A pair of Dimension-Walkers flanking a Fracture Void-Touched creates one of the most disorienting encounters in Chapter 1 — the constant positional teleportation makes zone control nearly impossible.
 
 ### Loot
-- Dimension-shard amulet (spectral magic focus; +1 die on Spectral Navigation checks; crumbles to dust in 1d6 weeks if not maintained with Fracture ritual oil) — **Trade Value:** 60 supplies
+- Dimension-shard amulet (spectral magic focus; +1 die on Ethereal Mastery checks; crumbles to dust in 1d6 weeks if not maintained with Fracture ritual oil) — **Trade Value:** 60 supplies
 - Void-touched blood vial (component for spectral ward rituals; one use) — **Trade Value:** 40 supplies
 
 ### Scaling Options
@@ -1174,7 +1174,7 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 - **Initiative:** 4
 - **Movement:** 40 feet (8 squares)
 - **Attributes:** Fury 4, Soul 4, Shadow 3, Will 4, Focus 3, Blood 4
-- **Skills:** Weapon Mastery (Fury): 4, Spectral Navigation (Soul): 4, Tactics (Will): 4, Stealth (Shadow): 3, Athletics (Blood): 3
+- **Skills:** Weapon Mastery (Fury): 4, Ethereal Mastery (Soul or Shadow): 4, Tactics (Will): 4, Stealth (Shadow): 3, Athletics (Blood): 3
 - **Soul Energy (SE):** 30
 - **Blood Points (BP):** 28
 
@@ -1187,7 +1187,7 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 - **Special:** On Critical Hit, target is *Phased* (can pass through solid objects but takes 3 Spectral damage at the start of each of their turns; lasts until they pass a DR 3 Will save as an action).
 
 **Reality Fracture** (Action, costs 8 SE)
-- **Dice Pool:** Soul 4 + Spectral Navigation 4 = 8d6 vs Will (area)
+- **Dice Pool:** Soul 4 + Ethereal Mastery 4 = 8d6 vs Will (area)
 - **Range:** 25-foot radius burst centered on the Void-Touched
 - **Damage:** 10 Physical + 8 Spectral
 - **Special:** Creatures who fail their save are Disoriented (Disadvantage on the next 2 action rolls). Half damage on successful save.
@@ -1197,7 +1197,7 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 
 ### Abilities
 
-**Undead Nature:** Immune to Soul Drain, poison, disease.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease.
 
 **Dimensional Instability:** The Void-Touched partially exists in both realms simultaneously. Physical attacks against it have a 1-in-6 chance of passing through harmlessly (roll 1d6 on each hit; on a result of 1, the attack misses regardless of other rolls). Spectral, Soul, and Radiant attacks bypass this effect.
 
@@ -1272,7 +1272,7 @@ Banshees are spirits of grief so concentrated that they linger as weapons. Some 
 
 **Funeral Cold:** Resistant to Fire and Cold damage. The Banshee's form is a death-chill rather than living flame.
 
-**Undead Nature:** Immune to Soul Drain, poison, disease, and Bleeding. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease, and Bleeding. Takes double damage from Radiant.
 
 **Sorrow Made Audible:** Creatures that are already Frightened by the Banshee take +1 Soul damage from its Spectral Touch.
 

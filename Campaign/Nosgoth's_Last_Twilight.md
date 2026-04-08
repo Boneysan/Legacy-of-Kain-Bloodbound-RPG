@@ -76,7 +76,7 @@ Source note for the GM:
 
 - If you need roleplay support for Janos Audron or Ariel, use the World Primer legendary figure entries rather than the NPC Compendium.
 
-## Religions and Philosophical Pressure
+## Lores and Philosophical Pressure
 
 - The Wheel of Fate should shape funerary rites, public resignation, and the quiet horror of people who still believe inevitability is mercy.
 - The Defiant Creed should appear anywhere Kain is whispered of as a necessary heresy rather than a savior, especially in ruined settlements resisting Sarafan control.

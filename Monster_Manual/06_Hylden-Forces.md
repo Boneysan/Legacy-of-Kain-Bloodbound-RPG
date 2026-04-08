@@ -18,7 +18,7 @@ Now, the Hylden exist in a dimension of torment, constantly seeking ways to brea
 
 ### Common Hylden Traits
 
-**Possession**: Many Hylden manifest by possessing mortal hosts. The original personality is suppressed or destroyed, and the body is twisted to suit Hylden needs.
+**Ethereal Mastery**: Many Hylden manifest by possessing mortal hosts. The original personality is suppressed or destroyed, and the body is twisted to suit Hylden needs.
 
 **Biomechanical Fusion**: Hylden technology blends flesh and metal. Their constructs are part organic, part machine—alive and suffering.
 
@@ -32,7 +32,7 @@ Now, the Hylden exist in a dimension of torment, constantly seeking ways to brea
 
 ## Shared Traits
 
-### Hylden Nature
+### Hylden Wilderness
 Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage).
 
 *All Hylden creatures in this chapter possess this trait unless noted otherwise.*
@@ -46,7 +46,7 @@ Some powerful Hylden emanate a field that warps perception. GMs may add this tra
 
 The Hylden were banished beyond the veil of reality — they cannot simply walk into the material world. Every creature in this chapter represents one of three mechanisms by which Hylden presence manifests in Nosgoth:
 
-- **Possession:** The Hylden spirit has seized a mortal or vampire host, suppressing or destroying the original personality. The host body is physically twisted by the occupation: joints bend at wrong angles, the voice carries a hollow echo, and flesh warps to suit the possessor’s needs. Shock Troopers, Rift-Priests, and the Void-Spoken Oracle are possessed hosts. They are not willing participants — they are occupied territories.
+- **Ethereal Mastery:** The Hylden spirit has seized a mortal or vampire host, suppressing or destroying the original personality. The host body is physically twisted by the occupation: joints bend at wrong angles, the voice carries a hollow echo, and flesh warps to suit the possessor’s needs. Shock Troopers, Rift-Priests, and the Void-Spoken Oracle are possessed hosts. They are not willing participants — they are occupied territories.
 
 - **Fabricated Constructs:** Hylden who have established a material foothold can build biomechanical servants from captured flesh, metal, and dimensional energy fused into autonomous forms. These constructs are not possessed but are built extensions of Hylden will — purpose-built weapons and tools. The Iron-Cage Beast, Bio-Sigil Reaver, and similar entries represent this category.
 
@@ -92,7 +92,7 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 **Skills**:
 - Tactics: 4
 - Weapon Mastery: 3
-- Possession: 3
+- Ethereal Mastery: 3
 
 ### Attacks
 **Corrupted Blade** (Fury 4 + Weapon Mastery 3 = 7d6)
@@ -105,13 +105,13 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 - Damage: 5 Force damage
 - Effect: This weapon fires concentrated energy bolts. On hit, the target must pass a DR 2 Will save or be **Disrupted** (lose 1 SE or BP, or take 1 additional Soul damage if they have neither).
 
-**Hylden Surge** (Soul 3 + Possession 3 = 6d6, Recharge 5-6)
+**Hylden Surge** (Soul 3 + Ethereal Mastery 3 = 6d6, Recharge 5-6)
 - Range: 20-foot cone
 - Damage: 5 Corruption damage to all creatures in the cone
 - Effect: Targets must pass a DR 3 Will save or gain 1 Corruption point. The Shock Trooper releases a wave of Hylden energy from its possessed body.
 
 ### Abilities
-**Hylden Nature**: Immune to Spectral effects, possession, and mind control (already possessed). Resistant to Soul damage (half damage). Vulnerable to Radiant damage (takes +2 damage, the light harms the possessing entity). *(See 'Hylden Nature' under Shared Traits below.)*
+**Hylden Wilderness**: Immune to Spectral effects, possession, and mind control (already possessed). Resistant to Soul damage (half damage). Vulnerable to Radiant damage (takes +2 damage, the light harms the possessing entity). *(See 'Hylden Wilderness' under Shared Traits below.)*
 
 **Bio-Tempered Flesh**: The host's body has been enhanced by Hylden biomancy. It has Armor 2 vs Physical damage and does not need to eat or sleep (the Hylden sustains it).
 
@@ -119,7 +119,7 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 
 **Soul Override** (1/encounter): When reduced to 0 HP, the Hylden can attempt to possess a nearby mortal (within 10 feet). Target must pass a DR 4 Will save or be possessed. The Shock Trooper's HP becomes half the new host's max HP, and combat continues. If no valid host is nearby, the Hylden dissipates (death).
 
-**PC Possession Resolution:** If Soul Override targets a PC at 0 HP, the player makes a contested Will save (their Will vs the Shock Trooper's Will). On success, the possession fails and the trooper is destroyed. On failure, the PC is possessed for 1d4 rounds — the GM controls the character, who acts on the trooper's initiative. Allies can attempt to exorcise the possession by dealing 10+ Soul damage to the possessed PC (this damages the trooper's spirit, not the PC) or by succeeding on a DR 3 Forbidden Knowledge or Rituals check as an action within 5ft. After 1d4 rounds, the trooper's spirit burns out and the PC regains control, gaining 2 Corruption from the experience.
+**PC Ethereal Mastery Resolution:** If Soul Override targets a PC at 0 HP, the player makes a contested Will save (their Will vs the Shock Trooper's Will). On success, the possession fails and the trooper is destroyed. On failure, the PC is possessed for 1d4 rounds — the GM controls the character, who acts on the trooper's initiative. Allies can attempt to exorcise the possession by dealing 10+ Soul damage to the possessed PC (this damages the trooper's spirit, not the PC) or by succeeding on a DR 3 Forbidden Knowledge or Ritualism check as an action within 5ft. After 1d4 rounds, the trooper's spirit burns out and the PC regains control, gaining 2 Corruption from the experience.
 
 **Glyphcasting Aura** (Passive): Enemies within 10 feet of the Shock Trooper suffer Disadvantage on Will saves (reality feels unstable).
 
@@ -174,28 +174,28 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 
 **Skills**:
 - Craft: 4
-- Rituals: 4
+- Ritualism: 4
 
 ### Attacks
-**Fleshwarp Touch** (Soul 5 + Rituals 4 = 9d6)
+**Fleshwarp Touch** (Soul 5 + Ritualism 4 = 9d6)
 - Range: Weapon Mastery
 - Damage: 6 Soul + 3 Corruption damage
 - Effect: On Critical Hit (3+ successes), the target's flesh begins to mutate. They are **Weakened** (Disadvantage on Fury-based rolls) for 3 rounds as their muscles spasm uncontrollably.
 
-**Bio-Spike Eruption** (Soul 5 + Rituals 4 = 9d6, costs 3 SE)
+**Bio-Spike Eruption** (Soul 5 + Ritualism 4 = 9d6, costs 3 SE)
 - Range: 30 feet (target creature or corpse)
 - Damage: 8 Physical damage to all creatures within 10 feet of the target
 - Effect: The Architect causes bone spikes to erupt from the target's body, impaling nearby creatures. If the target is a corpse, it's consumed in the process (cannot be revived).
 
-**Summon Abomination** (Soul 5 + Rituals 4 = 9d6, once per encounter, costs 5 SE)
+**Summon Abomination** (Soul 5 + Ritualism 4 = 9d6, once per encounter, costs 5 SE)
 - Range: 20 feet
 - Damage: None
 - Effect: The Architect animates a corpse or reshapes nearby flesh into a **Flesh Abomination** (Minion, TV 3 (weakened), 15 HP, deals 4 damage per attack, lasts until destroyed). The Abomination obeys the Architect's commands.
 
 ### Abilities
-**Hylden Nature:** See Shared Traits at the beginning of this chapter.
+**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
 
-**Rituals Mastery**: The Architect can manipulate living and dead tissue. Outside combat, they can perform surgeries, create bio-constructs, or enhance allies with grafts (requires 1 hour per procedure).
+**Ritualism Mastery**: The Architect can manipulate living and dead tissue. Outside combat, they can perform surgeries, create bio-constructs, or enhance allies with grafts (requires 1 hour per procedure).
 
 **Regeneration Protocol**: At the start of each of the Architect's turns, they regain 5 HP by cannibalizing their host's tissues. This causes the host visible deterioration (skin peeling, organs shifting).
 
@@ -216,11 +216,11 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 ### Loot
 - Bio-surgery tools (allows biomancy procedures, requires training) - **Trade Value**: 60 supplies, dangerous in wrong hands
 - Flesh graft samples (1d3, can be implanted to grant +1 to an attribute for 24 hours, causes 1 Corruption) - **Trade Value**: 25 supplies each
-- Hylden biomancy tome (contains forbidden knowledge) - **Trade Value**: 80 supplies, studying it grants Rituals skill but causes Corruption
+- Hylden biomancy tome (contains forbidden knowledge) - **Trade Value**: 80 supplies, studying it grants Ritualism skill but causes Corruption
 - Grafted organs (if harvested from the Architect's body) - **Trade Value**: 40 supplies, used in alchemy or rituals
 
 ### Scaling Options
-**Master Flesh Architect** (Boss, TV 15): +15 HP, increase Soul and Rituals to 6. Add "Mass Fleshwarp" ability (affects all creatures within 15 feet, DR 4 Will save or be Weakened). Can summon 1 Abomination per encounter. Add 2 Legendary Actions per round: Move, Fleshwarp Touch, or Flesh Harvest (costs 2 actions).
+**Master Flesh Architect** (Boss, TV 15): +15 HP, increase Soul and Ritualism to 6. Add "Mass Fleshwarp" ability (affects all creatures within 15 feet, DR 4 Will save or be Weakened). Can summon 1 Abomination per encounter. Add 2 Legendary Actions per round: Move, Fleshwarp Touch, or Flesh Harvest (costs 2 actions).
 
 ---
 
@@ -270,7 +270,7 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 ### Abilities
 **Bio-Construct**: Immune to fear, charm, poison, disease, and mental effects (no mind of its own). Does not need to eat, sleep, or breathe.
 
-**Mind-Tethered**: The Abomination is controlled by a Hylden creature within 100 feet. If the controller is killed or the tether is severed (DR 4 Soul + Rituals check to sever psychically), the Abomination collapses instantly (death).
+**Mind-Tethered**: The Abomination is controlled by a Hylden creature within 100 feet. If the controller is killed or the tether is severed (DR 4 Soul + Ritualism check to sever psychically), the Abomination collapses instantly (death).
 
 **Regeneration (Fused Flesh)**: The Abomination regains 3 HP at the start of each of its turns (flesh knits together). This regeneration stops if it takes Fire or Elemental damage since its last turn.
 
@@ -326,7 +326,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 - Blood: 2
 
 **Skills**:
-- Deception: 3
+- Infiltration: 3
 - Forbidden Knowledge: 3
 - Stealth: 4
 
@@ -347,11 +347,11 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 - Effect: Targets must pass a DR 3 Will save or be **Weakened** (−1 die on all rolls for 2 rounds, as Hylden whispers fill their minds).
 
 ### Abilities
-**Partial Possession**: The Host is between mortal and Hylden. They're immune to Corruption effects (already saturated) but vulnerable to Radiant damage (+2 damage).
+**Partial Ethereal Mastery**: The Host is between mortal and Hylden. They're immune to Corruption effects (already saturated) but vulnerable to Radiant damage (+2 damage).
 
 **Corrupted Flesh**: When the Host takes damage, tendrils and growths erupt from their wounds defensively. They gain +1 DV for each time they've been hit this encounter (max +3 DV), as their body becomes increasingly monstrous.
 
-**Infiltrator's Guise**: Outside combat, the Host appears mostly human (pale, sickly, but human). They can pass Deception checks to blend into mortal populations. This allows them to gather intelligence or set up ambushes.
+**Infiltrator's Guise**: Outside combat, the Host appears mostly human (pale, sickly, but human). They can pass Infiltration checks to blend into mortal populations. This allows them to gather intelligence or set up ambushes.
 
 **Hylden Whispers** (Passive): Enemies within 10 feet of the Host hear faint whispers in an alien language. They suffer -1 die on Focus-based rolls (concentration is disrupted).
 
@@ -427,7 +427,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 - Effect: The Reaver's sigils flare violently. All affected creatures gain 1 Corruption point.
 
 ### Abilities
-**Hylden Nature:** See Shared Traits at the beginning of this chapter.
+**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
 
 **Bio-Sigil Camouflage**: As a bonus action, the Reaver can activate their sigils to become **Invisible** (cannot be seen, attacks against them have Disadvantage). This lasts until they attack or take damage. They can use this ability once per turn.
 
@@ -509,7 +509,7 @@ They're strategic thinkers, not frontline fighters. They open rifts to bring in 
 - Effect: Basic ranged attack. The Engineer uses this when conserving SE or targeting distant enemies.
 
 ### Abilities
-**Hylden Nature:** See Shared Traits at the beginning of this chapter.
+**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
 
 **Open Rift** (1/encounter, requires 1 action, costs 5 SE): The Engineer opens a portal to the Hylden dimension. Roll 1d6:
 
@@ -600,7 +600,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 - Effect: The Oracle rips reality open. All creatures in the radius gain 2 Corruption points and must pass a DR 5 Shadow save or be teleported 2d6 x 5 feet in a random direction (lose positioning, potentially separated from allies).
 
 ### Abilities
-**Hylden Nature:** See Shared Traits at the beginning of this chapter.
+**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
 
 **Glyphcasting**: The Oracle constantly channels Hylden energy. At the start of each of their turns, they regain 3 SE (max SE: 20).
 
@@ -687,7 +687,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 - Effect: The Warden traps one target in a psychic cage. Target must pass a DR 4 Will save or be **Paralyzed** (cannot move or act) for 2 rounds. While Paralyzed, they experience vivid hallucinations of their worst fears. The target can attempt a new save at the end of each of their turns to break free.
 
 ### Abilities
-**Hylden Nature:** See Shared Traits at the beginning of this chapter.
+**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
 
 **Fear Aura** (Passive): All enemies within 20 feet of the Warden have Disadvantage on Will saves (oppressive dread).
 
@@ -720,7 +720,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 
 ### 9. Hylden Rift-Priest
 
-**Type**: Hylden (Ritualist/Caster)  
+**Type**: Hylden (Ritualismist/Caster)  
 **Threat Tier**: Elite (TV 11)  
 **Recommended Levels**: 8-13
 
@@ -775,7 +775,7 @@ They serve as force multipliers for Hylden operations: opening rifts to bring re
 - Effect: The Rift-Priest opens a small rift and summons 1d3 Hylden-Possessed Grunts (TV 3 each) to the battlefield. They appear within 15 feet of the Rift-Priest and act on its initiative.
 
 ### Abilities
-**Hylden Nature:** See Shared Traits at the beginning of this chapter.
+**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
 
 **Rift Conduit** (Passive): The Rift-Priest's ritual scars glow brighter as it spends SE. For every 10 SE spent, all Hylden allies within 30 feet gain +1 die on their next attack roll (the dimensional energy empowers them).
 
@@ -847,7 +847,7 @@ Grunts are cannon fodder. Hylden commanders send them in waves to absorb enemy r
 - Effect: On hit, target must pass a DR 1 Will save or have Disadvantage on their next action (the Hylden fragment's malice pulses into them).
 
 ### Abilities
-**Hylden Nature (Partial):** Immune to Spectral effects and mind control. Not immune to possession (the existing Hylden fragment is too weak to resist a stronger will). Resistant to Soul damage (half damage).
+**Hylden Wilderness (Partial):** Immune to Spectral effects and mind control. Not immune to possession (the existing Hylden fragment is too weak to resist a stronger will). Resistant to Soul damage (half damage).
 
 **Hivemind Fodder** (Passive): Gains Advantage on all attack rolls when within 10 feet of another Hylden creature (the partial fragment resonates with stronger Hylden minds nearby).
 
@@ -928,7 +928,7 @@ Only a handful of Dimension Lords exist. Each one represents a full-scale existe
 - Effect: The Dimension Lord tears open a major rift and summons one of the following (Lord's choice): 4 Hylden-Possessed Grunts (TV 3 each), 2 Hylden Shock Troopers (TV 9 each), or 1 Hylden Rift-Priest (TV 11). Summoned units appear within 20 feet and act on the Lord's initiative.
 
 ### Abilities
-**Hylden Nature:** See Shared Traits at the beginning of this chapter.
+**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
 
 **Glyphcasting Aura (Enhanced)** (Passive): All non-Hylden creatures within 20 feet have Disadvantage on Observation checks and Focus-based saves. Weapon Mastery attacks that pass through the aura have their dice pools reduced by 2.
 
@@ -1037,7 +1037,7 @@ Not all Hylden agree with the invasion. Vex'thal is a deserter — a Hylden mind
 - Effect: All enemies in the radius must make a DR 4 Will save. On failure: gain 2 Corruption points + **Disadvantage** on next roll. On success: gain 1 Corruption point. The Rift-Priest pulses raw dimensional energy outward, contaminating everything nearby.
 
 ### Abilities
-**Hylden Nature:** Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage). *(See Shared Traits at the beginning of this chapter.)*
+**Hylden Wilderness:** Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage). *(See Shared Traits at the beginning of this chapter.)*
 
 **Rift Conduit**: At the start of each of the Rift-Priest's turns, it regains 2 SE (drawing power directly from the dimension beyond). Maximum SE: 15.
 
@@ -1119,7 +1119,7 @@ For GMs, Grunts solve a critical gap in Hylden encounters: the need for low-tier
 - Effect: Target must make a DR 1 Blood save or be **Grappled** (the Grunt clings with unnatural tenacity). While grappled, the target takes 1 Corruption damage at the start of each of their turns.
 
 ### Abilities
-**Hylden Nature:** Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage). *(See Shared Traits at the beginning of this chapter.)*
+**Hylden Wilderness:** Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage). *(See Shared Traits at the beginning of this chapter.)*
 
 **Expendable Host**: When reduced to 0 HP, the possessed body collapses. There is a 25% chance (roll 1d4; on a 1) the Hylden spirit lashes out in its death throes: all creatures within 5 feet must make a DR 1 Will save or take 2 Soul damage.
 
@@ -1163,7 +1163,7 @@ Grunts swarm in groups of 4–8. They charge the nearest enemy and use Crude Wea
 
 ### Sample Encounters
 
-### Encounter 1: The Possession (Levels 6-8)
+### Encounter 1: The Ethereal Mastery (Levels 6-8)
 **Setup**: A village has been infiltrated by 4 **Corruption Hosts** (Standard, TV 6 each, TV 24 total). They're spreading Corruption and preparing for a Hylden invasion. The party must identify and eliminate them before the village is lost.
 
 **Tactics**: Hosts use Infiltrator's Guise to blend in. Players must use Observation, Insight, or magical detection to identify them. When discovered, Hosts fight with Tendril Lash and Corrupted Touch, spreading Corruption. If killed, some may use Final Transformation, turning into Abominations mid-combat.
@@ -1230,7 +1230,7 @@ Players may ally with one faction against another, creating complex political dy
 Hylden leave behind dangerous technology:
 - **Bio-Metal Implants**: Grant powers but cause Corruption
 - **Rift Stabilizers**: Allow teleportation but risk dimensional breaches
-- **Possession Shards**: Can trap souls or possess enemies
+- **Ethereal Mastery Shards**: Can trap souls or possess enemies
 
 These artifacts tempt players with power at a cost, fitting the game's themes.
 

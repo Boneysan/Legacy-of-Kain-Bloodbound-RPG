@@ -74,7 +74,7 @@ Echo Serpents are the spectral remnants of great serpents that died in places of
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons and spells affect normally.
 
-**Spectral Nature:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease.
+**Spectral Wilderness:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease.
 
 **Phase Movement:** Can move through walls and objects but takes 5 Force damage if ends turn inside solid matter.
 
@@ -109,11 +109,11 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 - **Initiative:** 6
 - **Movement:** 40 feet (8 squares), Fly 40 feet (hover)
 - **Attributes:** Fury 2, Soul 4, Shadow 4, Will 4, Focus 3, Blood 0
-- **Skills:** Deception 4, Intimidation 3, Stealth 4
+- **Skills:** Infiltration 4, Intimidation 3, Stealth 4
 
 ### Attacks
 **Identity Theft** (Action, requires line of sight to target)
-- **Dice Pool:** Soul 4 + Deception 4 = 8d6
+- **Dice Pool:** Soul 4 + Infiltration 4 = 8d6
 - **Range:** 30 feet (6 squares)
 - **Effect:** Target must make DR 3 Will save or become Frightened and Weakened. While in this state, perceives allies as enemies. Can repeat save at end of each turn. Lasts 1 minute.
 - **Special:** While target is Confused, Mirror Wraith takes their appearance perfectly
@@ -132,7 +132,7 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons and spells affect normally.
 
-**Spectral Nature:** Cannot be grappled, restrained, prone. Immune to poison, disease, charm.
+**Spectral Wilderness:** Cannot be grappled, restrained, prone. Immune to poison, disease, charm.
 
 **Mirror Image:** At start of combat, creates 1d4 illusory duplicates that occupy same space. When hit, one duplicate disappears. Duplicates shatter when wraith takes Soul or Radiant damage.
 
@@ -194,7 +194,7 @@ Soul-Eater Shades are manifestations of pure hunger from the Spectral Realm. The
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
 
-**Spectral Nature:** Immune to physical conditions, poison, disease.
+**Spectral Wilderness:** Immune to physical conditions, poison, disease.
 
 **Growing Hunger:** Each time Shade reduces a creature to 0 HP, it gains +5 max HP and +1 die on all attacks. Maximum 3 stacks (+15 HP, +3 dice). Additional kills beyond 3 stacks grant no further benefit. Resets on long rest.
 
@@ -303,7 +303,7 @@ Silent Mourners are souls bound to places of great tragedy—battlefields, execu
 
 **Cannot Speak:** Immune to spells or effects that require hearing its voice. Cannot be reasoned with verbally.
 
-**Spectral Nature:** Immune to physical conditions, poison, disease.
+**Spectral Wilderness:** Immune to physical conditions, poison, disease.
 
 **Behavior Tags:** controller, phase_shifter
 
@@ -419,7 +419,7 @@ Gravewind Entities are ancient spirits of wind and death, formed in places where
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
 
-**Elemental Nature:** Immune to poison, disease, exhaustion, charm, fear, paralysis.
+**Elemental Wilderness:** Immune to poison, disease, exhaustion, charm, fear, paralysis.
 
 **Storm Form:** Occupies 15-foot cube space. Creatures entering or starting turn in space take 5 Soul + 3 Cold damage (no save).
 
@@ -486,7 +486,7 @@ In the Legacy of Kain canon, the Sluagh haunt the spaces between meaningful afte
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons, Spectral damage, and Soul-based effects work normally.
 
-**Spectral Nature:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease, Frightened.
+**Spectral Wilderness:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease, Frightened.
 
 **Carrion Sense:** Detects creatures with reduced SE, Bloodied creatures, or actively Fading creatures within 120 feet, regardless of walls or concealment. This is the Sluagh's primary hunting sense.
 
@@ -509,7 +509,7 @@ Sluagh lurk at the edges of combat, waiting for someone to weaken. They do not i
 ### Loot
 - Spectral residue (grey, viscous substance with faint luminescence) – Trade Value: 10 supplies; alchemical component for Spectral-resistance crafting
 - Memory fragment (a brief, vivid sensory impression from whatever the Sluagh last consumed) – no trade value, but may provide plot information
-- Carrion essence (harvestable with DR 2 Rituals check) – Trade Value: 15 supplies; can be used to create Sluagh lures or repellents
+- Carrion essence (harvestable with DR 2 Ritualism check) – Trade Value: 15 supplies; can be used to create Sluagh lures or repellents
 
 ### Scaling Options
 **Elder Sluagh** (Elite, TV 6): +15 HP, increase Soul to 3 and Shadow to 3. Carrion Grasp deals 6 Soul damage and drains 2 SE. Add "Devour Echo" ability (Action, 1/encounter): consume a single memory, enchantment, or ward within 10 ft, permanently destroying it. This can strip a Wraith's anchor if they fail a DR 3 Will save.
@@ -643,7 +643,7 @@ In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he wa
 
 **Incorporeal:** Immune to nonmagical physical attacks. Can move through solid objects and creatures; takes 5 Force damage if it ends its turn inside a solid object.
 
-**Spectral Nature:** Immune to physical conditions (grappled, restrained, prone by physical means), poison, disease.
+**Spectral Wilderness:** Immune to physical conditions (grappled, restrained, prone by physical means), poison, disease.
 
 **Abyssal Resilience:** Resistant to Fire, Cold, and Lightning damage (half damage from each). The Abyss has burned away conventional weaknesses.
 
@@ -839,7 +839,7 @@ Phase Wraiths are hunters that never fully commit to one realm. They flicker bet
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons and spells affect normally.
 
-**Spectral Nature:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease, and Bleeding.
+**Spectral Wilderness:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease, and Bleeding.
 
 **Dimensional Slip:** When struck by an attack, the Phase Wraith may use its reaction to halve the damage by phasing partially out of reality.
 

@@ -44,7 +44,7 @@ Human:
 
 Description: Frail but defiant, humans are adaptable mortals fighting for survival.
 Bonuses: Choose any two skills to receive a +1 bonus.
-Unique Trait: Gain 1 extra perk every 4 levels.
+Unique Trait: Gain 1 extra perk at Levels 6, 12, and 18 (every 6 levels).
 Movement: Ignore one terrain penalty per session; +1 to Stealth in crowds.
 Narrative Hook: The last flickers of resistance and redemption.
 
@@ -108,7 +108,7 @@ Blood: Physical vitality and life essence. Core for Blood Knight or Sangromancer
 ### 1.5.1 Calculating Starting Resource Pools
 
 Soul Energy (SE): For classes using Soul Energy, maximum SE = 3 + Will attribute + (Character Level ÷ 2, rounded up). See the Spellcasting in Nosgoth section for details.
-Blood Points (BP): For classes or lineages using Blood Points, maximum BP = 4 + Shadow attribute + (Character Level ÷ 2, rounded up). See the Spellcasting in Nosgoth section for details.
+Blood Points (BP): For classes or lineages using Blood Points, maximum BP = 4 + Blood attribute + (Character Level ÷ 2, rounded up). See the Spellcasting in Nosgoth section for details.
 
 ## 1.6 Step 5: Assign Skills
 Assign skill points (5–6, based on class) to skills like Glyphcasting, Weapon Mastery, Stealth, or Forbidden Knowledge. Each skill is tied to an attribute and contributes to dice pools.

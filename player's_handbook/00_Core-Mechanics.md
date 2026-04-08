@@ -112,31 +112,20 @@ DV represents how hard a creature is to hit in combat:
 
 ### Advantage
 **When you have an edge on a roll:**
-- Roll your normal dice pool
-- **Re-roll all dice that showed 1-4 (failures)**
-- Add any new successes to your original successes
-- Keep the total
-
-**Common Sources:**
-- Attacking from stealth or surprise
-- Beneficial positioning (high ground, flanking)
-- Environmental factors (attacking in darkness as a Shadowmancer)
-- Ally assistance
+- Roll your normal dice pool.
+- **Re-roll all dice that showed 1-4 (failures).**
+- Add any new successes to your original successes.
+- **No Stacking:** Multiple sources of Advantage do not grant additional re-rolls. You either have Advantage or you do not.
 
 ### Disadvantage
 **When you're hindered on a roll:**
-- Roll your normal dice pool
-- **Re-roll half of your successes (round up)**
-- Only the re-rolled dice that still show 5-6 count; the rest of those dice become failures
-- Your un-rerolled successes are kept
+- Roll your normal dice pool.
+- **Re-roll half of your successes (round up).**
+- Only the re-rolled dice that still show 5-6 count; the rest of those dice become failures. Your un-rerolled successes are kept.
+- **No Stacking:** Multiple sources of Disadvantage do not grant additional re-rolls. You either have Disadvantage or you do not.
 
-> *Design Note: This makes Disadvantage punishing (roughly halving your success rate on affected dice) without making success nearly impossible, keeping combat tense but fair.*
-
-**Common Sources:**
-- Poor positioning
-- Environmental hazards
-- Status effects (Blinded, Frightened)
-- Unfavorable conditions
+### Multiple Sources (The Rule of One)
+If you have both Advantage and Disadvantage from any number of sources, they **cancel each other out** completely. You simply roll your normal dice pool once as normal. You cannot have "Double Advantage" to override a single source of Disadvantage.
 
 ---
 
@@ -266,7 +255,7 @@ For the canonical definitions of status effects and recurring combat conditions 
 
 ### Blood Points (BP)
 **Used by: Vampires, Blood Knights, Sangromancers**
-- **Starting Maximum:** 4 + Shadow attribute + (Character Level ÷ 2, rounded up)
+- **Starting Maximum:** 4 + Blood attribute + (Character Level ÷ 2, rounded up)
 - Spent for vampiric abilities and blood magic
 - Gained near dying creatures or by feeding
 

@@ -23,6 +23,8 @@ For lineage-specific equipment, cultural kits, and signature survival tools, see
 - **Movement Effects**: Scale vertical surfaces (DR 1) near blood trails.
 - **Bonuses**: +1 Weapon Mastery, +1 Stealth.
 - **Unique Trait**: Gain 1 Blood near dying creatures.
+- **Lineage Paragon (Level 10)**: Predatory Perfection. Gain +1 Fury or Blood attribute (max 6). Your movement effects now allow you to scale vertical surfaces without a check.
+- **Lineage Paragon (Level 20)**: Elder Vampire. You gain Resistance to all non-magical Physical damage. Your Predatory Perfection bonus increases to +2.
 - **Narrative Hook**: Bound by the wheel of fate and ancient blood.
 
 ### 2.2.1 Razielim
@@ -68,6 +70,8 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 - **Movement Effects**: Pass through thin barriers while phased.
 - **Bonuses**: +1 Possession, +1 Observation, +1 Will.
 - **Unique Trait**: *Wraith Phasing* (Bonus Action, Will uses per long rest, phase into Spectral Realm: translucent, 35 ft speed, ignore terrain/obstacles ≤1 ft thick, deal Spectral damage, resist non-magical physical damage, immune to non-magical grapples/restraints).
+- **Lineage Paragon (Level 10)**: Spectral Resonance. Gain +1 Soul or Will attribute (max 6). Your Wraith Phasing now lasts until the end of the scene or until you dismiss it.
+- **Lineage Paragon (Level 20)**: Wraith Lord. You can exist in both the Material and Spectral realms simultaneously, perceiving and interacting with both without phasing. Your Spectral Resonance bonus increases to +2.
 - **Anchor:** At character creation, designate one Anchor — an object, location, or living NPC tied to your purpose. If destroyed without replacement within 7 days, make a **DR 2 Will check** at the start of each session; failure = **+1 Corruption**. Replacing an Anchor requires 1 hour of ritual and a meaningful new connection. *(Full rules: Lineage Lore — Wraiths.)*
 - **Narrative Hook**: Forgotten by death, hunted by time.
 
@@ -78,6 +82,8 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 - **Movement Effects**: Surge 10 ft once per scene with Corruption Die.
 - **Bonuses**: +1 Glyphcasting, +1 Forbidden Knowledge.
 - **Unique Trait**: Cast one spell per long rest without cost, gain Corruption.
+- **Lineage Paragon (Level 10)**: Eldritch Adaptation. Gain +1 Soul or Focus attribute (max 6). When you use your Unique Trait, you may choose to take 1d6 damage instead of gaining Corruption.
+- **Lineage Paragon (Level 20)**: Void Architect. You gain immunity to Entropic damage. Your Eldritch Adaptation bonus increases to +2.
 - **Narrative Hook**: Bearers of ancient wrath, seeking dominion or revenge.
 
 ## 2.5 Humans
@@ -86,7 +92,7 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 - **Stealth**: +1 in crowds/chaotic environments.
 - **Movement Effects**: Dash through narrow spaces others cannot.
 - **Bonuses**: +1 to any two skills.
-- **Unique Trait**: Gain 1 extra perk every 4 levels.
+- **Unique Trait**: Gain 1 extra Universal Perk at Levels 10 and 20.
 - **Narrative Hook**: Last flickers of resistance and redemption.
 
 ### 2.5.1 Sarafan
@@ -111,6 +117,8 @@ Seers touched by divinity or prophecy.
 - **Movement Effects**: Collapse into ash once per rest to move through bars/cracks.
 - **Bonuses**: +1 Concentration, +1 Rituals.
 - **Unique Trait**: *Unyielding Purpose* (Passive: revive with 1 HP once per arc at 0 HP; Active: Bonus Action, once per scene, ignore difficult terrain, gain Advantage against forced movement, or gain +2 damage and Advantage on one roll directly tied to unfinished business).
+- **Lineage Paragon (Level 10)**: Deathless Will. Gain +1 Will or Shadow attribute (max 6). Your Unyielding Purpose can now be used twice per scene.
+- **Lineage Paragon (Level 20)**: Eternal Avenger. You gain Resistance to Necrotic and Soul damage. Your Deathless Will bonus increases to +2.
 - **Narrative Hook**: Defying the grave, serving a second purpose.
 
 ## 2.7 Unbound
@@ -120,6 +128,8 @@ Seers touched by divinity or prophecy.
 - **Movement Effects**: Teleport 20 ft as Bonus Action once per session.
 - **Bonuses**: +1 any skill, +1 Insight or Observation.
 - **Unique Trait**: *Untethered Soul* (immune to one fate-altering magical/prophetic effect per session); *Probability Shift* (Reaction, once per scene: re-roll 1–2 dice for self/ally (keep higher) or enemy (use new result)).
+- **Lineage Paragon (Level 10)**: Paradox Walker. Gain +1 Focus or Soul attribute (max 6). Your Unique Trait can now be used twice per session.
+- **Lineage Paragon (Level 20)**: Fate-Breaker. You are immune to all fate-altering or predictive magical effects. Your Paradox Walker bonus increases to +2.
 - **Narrative Hook**: Broken from destiny’s tapestry, proof fate can be hacked.
 
 ---
@@ -128,5 +138,8 @@ Seers touched by divinity or prophecy.
 - **Lore Integration**: The Lineages are deeply tied to Nosgoth’s themes of fate, corruption, and rebellion. GMs can use their narrative hooks to craft stories around restoring balance (Turelim, Sarafan), defying destiny (Unbound, Razielim), or succumbing to alien influence (Hylden-Blooded).
 - **Mechanical Balance**: Each Lineage offers unique movement, stealth, and combat advantages, balanced by limitations (e.g., Vampire sterility, Wraith Soul Energy needs, Hylden Corruption). Subtypes add variety without overwhelming complexity.
 - **Lineage Gear**: Cultural equipment should reinforce identity without replacing class gear. Use [Chapter 7: Equipment of Nosgoth, Section 7.4](./07_Equipment.md#74-lineage-and-cultural-gear) for signature lineage items, travel kits, and survival tools.
+- **Campaign Hooks**: Social prejudice (e.g., humans vs. Hylden-Blooded), relic quests (e.g., Razielim seeking lost heritage), or prophecy conflicts (e.g., Unbound disrupting fate) can drive encounters and campaigns.
+
+gear) for signature lineage items, travel kits, and survival tools.
 - **Campaign Hooks**: Social prejudice (e.g., humans vs. Hylden-Blooded), relic quests (e.g., Razielim seeking lost heritage), or prophecy conflicts (e.g., Unbound disrupting fate) can drive encounters and campaigns.
 

@@ -202,4 +202,4 @@ The Wheel of Fate turns. The Elder God watches. The Pillars crumble.
 
 Your story begins now.
 
-*"History abhors a paradox."*
+*"Lore abhors a paradox."*

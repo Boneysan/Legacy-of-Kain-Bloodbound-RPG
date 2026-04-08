@@ -195,7 +195,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **Initiative:** 6
 - **Movement:** 60 feet (12 squares), Fly 60 feet (hover)
 - **Attributes:** Fury 5, Soul 4, Shadow 6, Will 2, Focus 3, Blood 5
-- **Skills:** Athletics 4, Observation 3, Rituals 4
+- **Skills:** Athletics 4, Observation 3, Ritualism 4
 
 **Immunities:** Cold, Non-magical physical damage
 **Vulnerabilities:** Lightning, Fire
@@ -280,7 +280,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **Initiative:** 3
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 5, Soul 2, Shadow 4, Will 5, Focus 2, Blood 1
-- **Skills:** Intimidation 3, Athletics 3, Nature 3
+- **Skills:** Intimidation 3, Athletics 3, Wilderness 3
 
 **Immunities:** Cold, Fear, Charm
 **Vulnerabilities:** Fire
@@ -709,7 +709,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 - **Initiative:** 6
 - **Movement:** 75 feet (15 squares), Fly 75 feet (hover)
 - **Attributes:** Fury 2, Soul 5, Shadow 6, Will 4, Focus 3, Blood 0
-- **Skills:** Deception 4, Glyphcasting 4, Stealth 2
+- **Skills:** Infiltration 4, Glyphcasting 4, Stealth 2
 
 **Immunities:** Poison, Non-magical physical damage
 **Vulnerabilities:** Wind, Bright light
@@ -1039,7 +1039,7 @@ What makes them exceptionally dangerous is the cascading snowball effect: each s
 ### Tactics
 The SE-Feeder enters from concealment (Stealth 3), immediately opening with Siphon Burst to drain the whole party simultaneously. It then focuses Unarmed Combat on whoever still has the most SE, using Arcane Lash to interrupt high-SE-cost abilities. If it reaches 100 SE, its Drain rolls become significantly more potent and the fight difficulty escalates rapidly.
 
-**Party Counter:** The optimal tactic is massive burst damage in the first 2 rounds before Soul Gluttony triggers. Every round spent not dealing damage is a round the SE-Feeder snowballs. Parties with SE-recovery abilities (Potions, Rituals) should save them until after the Feeder is dead, not during - using them feeds it.
+**Party Counter:** The optimal tactic is massive burst damage in the first 2 rounds before Soul Gluttony triggers. Every round spent not dealing damage is a round the SE-Feeder snowballs. Parties with SE-recovery abilities (Potions, Ritualism) should save them until after the Feeder is dead, not during - using them feeds it.
 
 **Key Weakness:** Physical damage (magical weapons). The SE-Feeder has no physical resistance, and its Incorporeal immunity doesn't protect against magical weapons. Parties with strong physical magical weapons can trade effectively. Parties that rely primarily on SE-powered abilities will have a very bad time.
 

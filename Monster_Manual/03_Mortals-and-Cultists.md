@@ -31,7 +31,7 @@ This chapter now uses final absolute TV values aligned to each entry's intended 
 ## 3.1 Cult of the Abyss Fanatic
 
 **Type**: Mortal Humanoid (Cultist)  
-**Threat Tier**: Minion (TV 3)  
+**Threat Tier**: Minion (Level 5) - TV 3  
 **Recommended Levels**: 1-4
 
 ### Lore
@@ -57,7 +57,7 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 
 **Skills**:
 - Weapon Mastery (Crude Weapons): 1
-- Religion (Will): 3
+- Lore (Will): 3
 - Concentration (Blood): 2
 
 ### Attacks
@@ -66,7 +66,7 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 - Damage: 3 Physical damage on success
 - Effect: On Critical Hit (3+ successes), the Fanatic screams a prayer that grants all nearby cultists Advantage on their next attack.
 
-**Martyrdom Lunge** (Fury 2 + Religion 3 = 5d6, once per encounter)
+**Martyrdom Lunge** (Fury 2 + Lore 3 = 5d6, once per encounter)
 - Range: Weapon Mastery
 - Damage: 5 Physical damage
 - Effect: The Fanatic throws themselves at an enemy with suicidal abandon. If this attack would reduce the Fanatic to 0 HP (from reactions or opportunity attacks), they gain Advantage on the roll.
@@ -124,15 +124,15 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 - Weapon Mastery (Fury): 1
 - Craft: 2
 - Intimidation: 2
-- Religion (Corrupted): 3
+- Lore (Corrupted): 3
 
 ### Attacks
-**Corrupted Smite** (Soul 4 + Religion 3 = 7d6)
+**Corrupted Smite** (Soul 4 + Lore 3 = 7d6)
 - Range: 20 feet
 - Damage: 4 Soul damage on success
 - Effect: Target must pass a DR 2 Will save or be Shaken (Disadvantage on next attack roll).
 
-**Dark Blessing** (Soul 4 + Religion 3 = 7d6, Recharge 5-6)
+**Dark Blessing** (Soul 4 + Lore 3 = 7d6, Recharge 5-6)
 - Range: 30 feet (ally or self)
 - Damage: None
 - Effect: Grant one ally +2 dice on all rolls until the end of their next turn. That ally takes 2 Soul damage immediately (unavoidable).
@@ -145,7 +145,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 ### Abilities
 **Curse of the Fallen** (1/encounter): As a reaction when an enemy deals damage to the Priest, the Priest intones a curse. That enemy must pass a DR 2 Will save or suffer Disadvantage on their next roll.
 
-**Ritual of Twisted Faith** (1/day): Spend 10 minutes performing a ritual. Choose one effect:
+**Ritualism of Twisted Faith** (1/day): Spend 10 minutes performing a ritual. Choose one effect:
 - Raise 1d3 Feralslave Ghouls (Minions, TV 2 each) to serve for 1 hour
 - Heal all allies within 30 feet for 10 HP, but each takes 1 Corruption
 - Place a Zone of Despair (20-foot radius) that imposes Disadvantage on all enemy rolls while inside
@@ -157,16 +157,16 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 ### Tactics
 - **Support Role**: Forsaken Priests stay behind frontline cultists, using Dark Blessing to empower dangerous allies (like Witch-Hunters or Warlocks).
 - **Cursed Defense**: When threatened, they use Curse of the Fallen to weaken attackers, then retreat behind allies.
-- **Ritual Stealth**: If the party encounters the Priest before combat, they may have already used Ritual of Twisted Faith to prepare undead reinforcements or a Zone of Despair.
+- **Ritualism Stealth**: If the party encounters the Priest before combat, they may have already used Ritualism of Twisted Faith to prepare undead reinforcements or a Zone of Despair.
 
 ### Loot
 - Corrupted holy symbol - **Trade Value**: 10 supplies (to cultists), 5 supplies (to scholars)
 - Blessed robes (Light armor, Armor 1) - **Trade Value**: 15 supplies
-- Ritual components - **Trade Value**: 8 supplies
+- Ritualism components - **Trade Value**: 8 supplies
 - Prayer book with crossed-out passages - **Trade Value**: 12 supplies (lore/history)
 
 ### Scaling Options
-**High Priest of Despair** (Elite, TV 7): +10 HP, +1 Soul, +1 Will, increase Religion to 4. Add "Mass Curse" ability (affects all enemies within 20 feet).
+**High Priest of Despair** (Elite, TV 7): +10 HP, +1 Soul, +1 Will, increase Lore to 4. Add "Mass Curse" ability (affects all enemies within 20 feet).
 
 ---
 
@@ -282,7 +282,7 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 - Forbidden Knowledge: 4
 - Weapon Mastery: 4
 - Intimidation: 3
-- Religion: 2
+- Lore: 2
 
 ### Attacks
 **Silver Longsword** (Fury 4 + Weapon Mastery 4 = 8d6)
@@ -361,7 +361,7 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 **Skills**:
 - Tactics: 3
 - Weapon Mastery: 2
-- Nature: 2
+- Wilderness: 2
 - Intimidation: 1
 
 ### Attacks
@@ -433,7 +433,7 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 
 **Skills**:
 - Glyphcasting: 4
-- Rituals: 3
+- Ritualism: 3
 - Forbidden Knowledge: 3
 - Intimidation: 2
 
@@ -546,7 +546,7 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 ### Tactics
 - **Stealth Opening**: Assassins begin combat Hidden. They use Shadow Step to reach isolated targets and attempt Coup de Grace on sleeping or Stunned victims.
 - **Poisoned Dart Harassment**: If they can't get close safely, they fire Poisoned Darts from cover, using the Poison effect to weaken priority targets.
-- **Evasion for Nature**: When attacked, they use Evasion to negate damage, then Shadow Step away to reset Stealth.
+- **Evasion for Wilderness**: When attacked, they use Evasion to negate damage, then Shadow Step away to reset Stealth.
 - **Contract Kill Focus**: They relentlessly pursue their designated target, ignoring others unless threatened. This makes them predictable but deadly to the marked PC.
 - **Retreat on Failure**: If their contract target survives and they're reduced below 10 HP, Assassins will flee using Shadow Step and report failure to the guild.
 
@@ -683,7 +683,7 @@ Acolytes are disposable screening troops. Their true danger is the Blood-Prayer 
 Acolytes activate Blood-Prayer in the first round, then advance in tight formation. They prioritize spellcasters and anyone displaying holy symbols. If a Vessel is present, they move to protect it, forming a living wall. They will sacrifice themselves without hesitation to buy the Vessel time to complete a ritual.
 
 ### Loot
-- Ritual dagger (black iron, warm to the touch) – **Trade Value**: 3 supplies
+- Ritualism dagger (black iron, warm to the touch) – **Trade Value**: 3 supplies
 - Avernus sigil pendant – **Trade Value**: 5 supplies (to scholars; 10 to the Sarafan, who will also ask questions)
 - Vial of donor blood (1 dose) – **Trade Value**: 2 supplies; can be used as a Corruption-tainted alchemical component
 
@@ -728,7 +728,7 @@ A mortal hollowed out by Hash'ak'gik's will and rebuilt as a living conduit for 
 
 **Blood Conduit** (Reaction, once per scene): The first time the Vessel becomes Bloodied, it sacrifices one adjacent Acolyte (killing them instantly) to restore 15 HP and gain +1 DV until end of next turn.
 
-**Possession Cascade** (Special, 1/encounter): If the Vessel is killed, the demonic essence attempts to leap to the nearest mortal within 15 ft (including PCs). Target must make a DR 4 Will save. On failure, they are Stunned for 1 round and gain 2 Corruption. On success, the essence dissipates—for now.
+**Ethereal Mastery Cascade** (Special, 1/encounter): If the Vessel is killed, the demonic essence attempts to leap to the nearest mortal within 15 ft (including PCs). Target must make a DR 4 Will save. On failure, they are Stunned for 1 round and gain 2 Corruption. On success, the essence dissipates—for now.
 
 ### Encounter Role
 Vessels are mid-tier bosses designed for investigation-heavy encounters. The challenge is often *finding* the Vessel before combat, not winning the fight itself. Pair with 4–6 Acolytes for a full cult encounter.
@@ -742,10 +742,10 @@ The Vessel begins combat with Voice of the Pit to scatter the party, then target
 - Personal effects matching their cover identity – **Trade Value**: varies
 - Black iron ring (warm, hums faintly) – **Trade Value**: 10 supplies; functions as a minor glyph focus
 - Journal with coded cult communications – **Trade Value**: priceless to the right faction; decoding requires DR 3 Forbidden Knowledge check
-- Residual demonic essence (harvestable with DR 3 Rituals check) – **Trade Value**: 15 supplies; alchemical component for Corruption-related crafting
+- Residual demonic essence (harvestable with DR 3 Ritualism check) – **Trade Value**: 15 supplies; alchemical component for Corruption-related crafting
 
 ### Scaling Options
-**Greater Vessel** (Boss, TV 11): +20 HP, increase Soul and Will to 5. Add 2 Legendary Actions per round: Demonic Surge, Move, or Voice of the Pit (costs 2). Possession Cascade affects up to 2 mortals within 20 ft.
+**Greater Vessel** (Boss, TV 11): +20 HP, increase Soul and Will to 5. Add 2 Legendary Actions per round: Demonic Surge, Move, or Voice of the Pit (costs 2). Ethereal Mastery Cascade affects up to 2 mortals within 20 ft.
 
 ---
 
@@ -859,7 +859,7 @@ Turnings are pitiable and extremely dangerous. They lash out at everything nearb
 
 The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire clans see them as failed experiments or tragic accidents. For the victims themselves, every second is agony.
 
-**Narrative Note:** The Turning is designed as a moral encounter. The creature was recently a person — possibly someone the party knew. A successful Rituals check can save them. This creates tension between "kill the monster" and "save the victim."
+**Narrative Note:** The Turning is designed as a moral encounter. The creature was recently a person — possibly someone the party knew. A successful Ritualism check can save them. This creates tension between "kill the monster" and "save the victim."
 
 ### Statistics
 - **HP**: 55
@@ -908,7 +908,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 
 **Feral Desperation**: While Bloodied, the Turning gains +2 dice on all attack rolls but loses the ability to distinguish friend from foe — it attacks the nearest creature regardless of allegiance. The GM controls targeting.
 
-**Tragic Nature**: A DR 4 Craft or Rituals check as an Action can identify that this creature was recently human and that the transformation is incomplete. A DR 5 Rituals check performed over 3 consecutive rounds (the caster must maintain concentration and remain within 5 feet) can halt the transformation, reverting the creature to an unconscious mortal with 1 HP and 3 Corruption. The Turning fights normally during this process.
+**Tragic Wilderness**: A DR 4 Craft or Ritualism check as an Action can identify that this creature was recently human and that the transformation is incomplete. A DR 5 Ritualism check performed over 3 consecutive rounds (the caster must maintain concentration and remain within 5 feet) can halt the transformation, reverting the creature to an unconscious mortal with 1 HP and 3 Corruption. The Turning fights normally during this process.
 
 ### Reactions
 **Lashing Reflex** (Reaction, when a creature enters melee range)
@@ -919,7 +919,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 ### Tactics
 The Turning fights on fractured instinct rather than reason, but those instincts are still lethal. It rushes the nearest moving creature and tears with Rending Claws until someone falls, stumbles, or is pinned, then lunges in with Desperate Bite to feed and stabilize its failing body. It unleashes Blood Cry when surrounded, cornered, or overwhelmed by pain, buying space through panic rather than planning. Once Feral Desperation triggers, it stops distinguishing ally from enemy and becomes a roaming hazard that mauls whichever creature is closest, making the rescue option dramatically harder but still possible.
 
-**Encounter Design:** The Turning works best as a morally complex encounter. Place it in a location where the party has context — a village, a friend's home, a Sarafan prison. Pair with environmental storytelling (broken chains, scattered personal belongings, blood trails) to establish that this was someone. The Tragic Nature ability gives compassionate parties a path to salvation, but the 3-round Rituals check is risky while the creature fights.
+**Encounter Design:** The Turning works best as a morally complex encounter. Place it in a location where the party has context — a village, a friend's home, a Sarafan prison. Pair with environmental storytelling (broken chains, scattered personal belongings, blood trails) to establish that this was someone. The Tragic Wilderness ability gives compassionate parties a path to salvation, but the 3-round Ritualism check is risky while the creature fights.
 
 ### Loot
 - Shredded personal effects (reveal identity of the victim) — **Trade Value**: Varies
@@ -927,9 +927,9 @@ The Turning fights on fractured instinct rather than reason, but those instincts
 - If saved: the living victim, who may become an ally, informant, or ongoing responsibility
 
 ### Scaling Options
-**Early Turning** (Standard, TV 4): HP 25, DV 4, Fury 3, Blood 2. Remove Feral Desperation. Unstable Form always rolls 1–2 (the transformation is failing). DR 3 Rituals check to save (only 1 round needed).
+**Early Turning** (Standard, TV 4): HP 25, DV 4, Fury 3, Blood 2. Remove Feral Desperation. Unstable Form always rolls 1–2 (the transformation is failing). DR 3 Ritualism check to save (only 1 round needed).
 
-**Complete Turning** (Boss, TV 11): HP 70, DV 6, Fury 6, Blood 5. Remove Tragic Nature (the person is gone). Add Vampiric Regeneration (regains 4 HP at the start of each turn). Add Legendary Actions (2/round): Rending Claws (1), Blood Cry (2). The creature is now a full feral vampire in all but name.
+**Complete Turning** (Boss, TV 11): HP 70, DV 6, Fury 6, Blood 5. Remove Tragic Wilderness (the person is gone). Add Vampiric Regeneration (regains 4 HP at the start of each turn). Add Legendary Actions (2/round): Rending Claws (1), Blood Cry (2). The creature is now a full feral vampire in all but name.
 
 ---
 
@@ -957,7 +957,7 @@ The Turning fights on fractured instinct rather than reason, but those instincts
 ---
 
 ### Encounter 2: The Heretic's Pyre (Levels 8-10)
-**Setup**: A **Forsaken Priest of Light** (Standard, TV 5) has raised 3 **Feralslave Ghouls** (Minions, TV 2 each, TV 6 total) using Ritual of Twisted Faith. He's holed up in a ruined chapel, surrounded by 8 **Cult of the Abyss Fanatics** (Minions, TV 3 each, TV 24 total). Total TV: 35.
+**Setup**: A **Forsaken Priest of Light** (Standard, TV 5) has raised 3 **Feralslave Ghouls** (Minions, TV 2 each, TV 6 total) using Ritualism of Twisted Faith. He's holed up in a ruined chapel, surrounded by 8 **Cult of the Abyss Fanatics** (Minions, TV 3 each, TV 24 total). Total TV: 35.
 
 **Tactics**: Fanatics form a defensive line at the chapel entrance, using Martyrdom Lunge to soften up intruders. Ghouls swarm isolated PCs. The Priest stays in the back, using Dark Blessing on Ghouls and Corrupted Smite on casters.
 
@@ -1191,7 +1191,7 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 ## 3.14 Sarafan Footsoldier
 
 **Type**: Mortal (Human, Soldier)
-**Threat Tier**: Minion (TV 3)
+**Threat Tier**: Minion (Level 5) - TV 3
 **Recommended Levels**: 1-4
 
 ### Lore

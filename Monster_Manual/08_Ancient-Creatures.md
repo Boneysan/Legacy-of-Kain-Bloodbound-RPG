@@ -155,7 +155,7 @@ Legendary Actions (2 per round)
 - **Initiative:** 5
 - **Movement:** 60 feet (12 squares), Swim 60 feet, Burrow 30 feet (silt)
 - **Attributes:** Fury 8, Soul 3, Shadow 4, Will 4, Focus 3, Blood 0
-- **Skills:** Athletics 5, Observation 5, Nature 5
+- **Skills:** Athletics 5, Observation 5, Wilderness 5
 
 **Immunities:** Poison
 **Resistances:** Cold, Physical (non-magical)
@@ -316,7 +316,7 @@ Legendary Actions (2 per round)
 - Once engaged, it does not chase far. It anchors itself in dense growth, forces the party to come through punishing terrain, and relies on regeneration and mass to win an attrition fight unless driven out with fire or displacement.
 
 ### Loot
-- Living Root Core: Planting it purifies a small area or crafts a druidic focus granting +1 to Nature or Observation checks.
+- Living Root Core: Planting it purifies a small area or crafts a druidic focus granting +1 to Wilderness or Observation checks.
 
 ### Scaling Options
 - **Weakened Form (TV 12):** Reduce HP to 200, Armor to 4, and Crushing Vines damage to 14 Bludgeoning. Remove Deep Root's regeneration.
@@ -368,7 +368,7 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 
 **Blood Frenzy (Passive):** When the Stalker reduces a creature to 0 HP, it immediately regains 15 HP and may make one free Blood Rend as a Bonus Action against the nearest living creature. This bonus attack also triggers Blood Frenzy if it scores another kill (only once per turn total).
 
-**Ancient Memory (Passive):** In any location the Stalker has inhabited for decades or longer, it has Advantage on all Stealth, Observation, and Nature checks. It knows every escape route, every ambush point, and every hiding spot in its lair.
+**Ancient Memory (Passive):** In any location the Stalker has inhabited for decades or longer, it has Advantage on all Stealth, Observation, and Wilderness checks. It knows every escape route, every ambush point, and every hiding spot in its lair.
 
 **Supernatural Hide:** The Stalker's ancient hide reduces all damage from nonmagical sources by 3 (in addition to its Armor value). Magical weapon attacks are unaffected.
 
@@ -510,7 +510,7 @@ They manifest as large geometric constructs of light and pale stone, roughly hum
 
 **Absolute Guardian (Passive):** The Living Ward cannot be magically Teleported, Displaced, or removed from its location against its will. It is anchored to its position.
 
-**Construct Nature:** Immune to Frightened, Charmed, Corruption (mental), poison, disease, physical conditions.
+**Construct Wilderness:** Immune to Frightened, Charmed, Corruption (mental), poison, disease, physical conditions.
 
 **Legendary Resistance (2/day):** If the Ward fails a save, it can choose to succeed instead.
 

@@ -9,24 +9,21 @@ In the cursed land of Nosgoth, power is a double-edged blade. The Perks System a
 
 ## 4.1 Perk Progression
 
-Characters gain **One Universal Perk** at specific levels. Humans gain additional perks via their racial trait.
+Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra Universal Perk at Levels 10 and 20 via their racial trait.
 
 | Level | Perk Gained | Tier Access |
 | :---: | :--- | :--- |
 | **1** | Universal Perk | Tier 1 |
 | **3** | Universal Perk | Tier 1 |
-| **4** | *Human Bonus Perk* | Tier 1 |
 | **5** | Universal Perk | Tier 1 |
 | **6** | Universal Perk | Tier 1-2 |
 | **8** | Universal Perk | Tier 1-2 |
-| **8** | *Human Bonus Perk* | Tier 1-2 |
 | **10** | Universal Perk | Tier 1-2 |
+| **10** | *Human Bonus Perk* | Tier 1-2 |
 | **11** | Universal Perk | Tier 1-3 |
-| **12** | *Human Bonus Perk* | Tier 1-3 |
 | **13** | Universal Perk | Tier 1-3 |
 | **15** | Universal Perk | Tier 1-3 |
 | **16** | Universal Perk | Tier 1-4 |
-| **16** | *Human Bonus Perk* | Tier 1-4 |
 | **18** | Universal Perk | Tier 1-4 |
 | **20** | Universal Perk | Tier 1-4 |
 | **20** | *Human Bonus Perk* | Tier 1-4 |
@@ -50,8 +47,8 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 | **Spirit Bond** | Commune with a ghost for insight (narrative clues). Failure costs 1 Corruption. | 1/Long Rest |
 | **Battle Meditation** | Regain **2 HP** after combat if no Corruption was gained during the fight. | Post-Combat |
 | **Tombborn** | Sense undead or cursed ground within **30 ft**. | Passive |
-| **Focused Ritualist** | Gain **Advantage** on ritual, glyphcasting, and spellcasting rolls while at max HP. | Passive |
-| **Death Watcher** | Automatically detect when an enemy drops below **25% HP**. | Passive |
+| **Focused Ritualist** | Gain **Advantage** on ritual, glyphcasting, and spellcasting rolls while at max HP or while you have any amount of Temporary HP. | Passive |
+| **Death Watcher** | Automatically detect when an enemy drops below **25% HP**. Additionally, your first attack against a target at ≤25% HP deals +2 damage. | Passive |
 
 ### Tier 2 Universal Perks (Levels 6-10)
 *Prerequisite: One Tier 1 Universal Perk.*
@@ -59,15 +56,17 @@ Characters gain **One Universal Perk** at specific levels. Humans gain additiona
 | Perk Name | Effect | Cost / Trigger |
 | :--- | :--- | :--- |
 | **Momentum Kill** | Gain **+10 ft movement** immediately after killing an enemy. | Passive (On Kill) |
-| **Phase Slip** | Ignore difficult terrain in the Spectral Realm. | Passive |
+| **Phase Slip** | Ignore difficult terrain in the Spectral Realm. Additionally, you can move through one solid object (up to 5 ft thick) once per scene. | Passive |
 | **Forbidden Tap** | Add **+2 dice** to any roll. | **Gain 1 Corruption** |
 | **Void Walker** | Immune to corrupted terrain hazards (blighted ground, acid, etc). | Passive |
 | **Time Echo** | Reroll one Initiative roll. | 1/Long Rest |
 | **Soul Ward** | Absorb one source of damage completely (negates one attack). | 1/Long Rest |
 | **Spell Siphon** | Steal one activated ability you have witnessed the target use this scene (Target makes **DR 2 Will** save; on success each time you use it, the ability is lost). Lasts until rest. | **1 Corruption** |
 | **Spectral Fortitude**| **+2 DV** while in the Spectral Realm. | Passive |
-| **Blood Alchemy** | Convert HP to Soul Energy (3 HP = 1 SE, max Level/2). | Free Action, 1/turn |
-| **Shadow Link** | Teleport to a shadow within **10 ft**. | **1 SE** (Bonus Action) |
+| **Blood Alchemy** | Convert HP to Soul Energy (3 HP = 1 SE, max Level/2 SE per turn). | Free Action, 1/turn |
+| **Shadow Link** | Teleport to a shadow within **10 ft**. | **1 SE** (Bonus Action), once per scene |
+| **Clan Diplomat** | Gain **Advantage** on Social checks when interacting with leaders or high-ranking members of any established Nosgoth faction (Vampire Clans, Sarafan, etc.). | Passive |
+| **Zealot's Tongue** | Use **Will** or **Fury** instead of Social attributes for Persuasion/Intimidation if the target shares your primary goal or lineage. | Passive |
 
 ### Tier 3 Universal Perks (Levels 11-15)
 *Prerequisite: One Tier 2 Universal Perk.*

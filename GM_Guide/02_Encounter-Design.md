@@ -59,61 +59,63 @@ Published Monster Manual entries use their printed TV exactly as written. Chapte
 
 ### Benchmark Enemy Tiers
 
-| Enemy Type | Benchmark TV | Typical Use |
-|-----------|--------------|-------------|
-| **Minion** | 0.25 | Disposable bodies, swarm pressure, weak support |
-| **Standard Enemy** | 1 | Rank-and-file threat, roughly one meaningful combatant |
-| **Elite Enemy** | 2 | Strong specialist, two-PC level pressure |
-| **Boss** | 4 | Encounter centerpiece, requires action-economy support |
-| **Legendary** | 6+ | Campaign threat, layered defenses and multiple phases |
+Threat Value (TV) is relative to the **Average Party Level (APL)**. A "standard" challenge for a level 5 party uses TV 5 enemies.
 
-These benchmark values are the starting point for low-tier published creatures. If you are building a custom creature for a specific party level, scale the benchmark by the party's average level to get the creature's final absolute TV. Published stat blocks should always print the final TV players and GMs add directly to encounter budgets.
+| Enemy Type | Relative TV | Typical Use |
+|-----------|--------------|-------------|
+| **Minion** | APL - 2 (min 0.25) | Disposable bodies, swarm pressure, weak support |
+| **Standard Enemy** | APL + 0 | Rank-and-file threat, roughly one meaningful combatant |
+| **Elite Enemy** | APL + 2 | Strong specialist, high pressure, 1-2 unique abilities |
+| **Boss** | APL + 4 | Encounter centerpiece, Legendary Actions (2), higher HP |
+| **Legendary** | APL + 6+ | Campaign threat, multi-phase, Legendary Actions (3), high Armor |
+
+When using a published Monster Manual entry, look at its **Printed TV** and compare it to your party's level to determine its effective tier for *your* group. A "Boss (Level 5) - TV 9" is a Boss for level 5s, but only a Standard enemy for level 9s.
 
 ### Quick Enemy Stat Creation (Homebrew Baselines)
 
-Use these formulas when building a creature specifically for a party's average level. The output is a creature whose final printed TV should match the intended benchmark for that level band.
+Use these formulas when building a creature for a specific **Target Level**. The resulting creature's **Printed TV** will be the sum of its Target Level + the Tier modifier.
 
-**Minion (TV 0.25):**
+**Minion (Printed TV = Level - 2):**
 - HP: 3–6
-- DV: 1 + (party level ÷ 4)
+- DV: 1 + (Level ÷ 4)
 - Armor: 0
-- Attack: Party level d6 (1 attack)
+- Attack: Level d6 (1 attack)
 - Damage: 2-3
 
-**Standard Enemy (TV 1):**
-- HP: 10 + (3 × party level)
-- DV: 2 + (party level ÷ 3)
+**Standard Enemy (Printed TV = Level + 0):**
+- HP: 10 + (3 × Level)
+- DV: 2 + (Level ÷ 3)
 - Armor: 0-2
-- Attack: (Party level + 2) d6
+- Attack: (Level + 2) d6
 - Damage: 4-6
-- Contested checks: pool = party level ÷ 2 (round up)
+- Contested checks: pool = Level ÷ 2 (round up)
 
-**Elite Enemy (TV 2):**
-- HP: 15 + (4 × party level)
-- DV: 3 + (party level ÷ 2), max 6 (excess becomes effective DV via Armor or reactions)
+**Elite Enemy (Printed TV = Level + 2):**
+- HP: 15 + (4 × Level)
+- DV: 3 + (Level ÷ 2), max 6 (excess becomes effective DV via Armor or reactions)
 - Armor: 2-3
-- Attack: (Party level + 3) d6
+- Attack: (Level + 3) d6
 - Damage: 6-8
 - Special: 1-2 unique abilities
-- Contested checks: pool = party level
+- Contested checks: pool = Level
 
-**Boss (TV 4):**
-- HP: 20 + (5 × party level)
-- DV: 4 + (party level ÷ 2), max 6 (excess becomes effective DV via Armor or reactions)
+**Boss (Printed TV = Level + 4):**
+- HP: 20 + (5 × Level)
+- DV: 4 + (Level ÷ 2), max 6 (excess becomes effective DV via Armor or reactions)
 - Armor: 3-4
-- Attack: (Party level + 4) d6, 2 attacks per turn
+- Attack: (Level + 4) d6, 2 attacks per turn
 - Damage: 8-12
-- Special: 3-4 unique abilities, Resistance to 1-2 damage types; solo bosses usually gain 2 Legendary Actions/round or a supporting retinue, not both by default
-- Contested checks: pool = party level
+- Special: 3-4 unique abilities, 2 Legendary Actions/round
+- Contested checks: pool = Level
 
-**Legendary (TV 6+):**
-- HP: 30 + (6 × party level)
-- DV: 6 (base cap; layer additional defense through Armor, reactions, and lair bonuses)
+**Legendary (Printed TV = Level + 6+):**
+- HP: 30 + (6 × Level)
+- DV: 6 (base cap; layer defenses)
 - Armor: 4-6
-- Attack: (Party level + 6) d6, 3 attacks per turn
+- Attack: (Level + 6) d6, 3 attacks per turn
 - Damage: 14-18
-- Special: 5+ unique abilities, Immunity to 1 or more damage types where appropriate, Legendary Actions (3/round)
-- Contested checks: pool = party level + 2
+- Special: 5+ unique abilities, 3 Legendary Actions/round
+- Contested checks: pool = Level + 2
 
 ---
 

@@ -76,6 +76,7 @@ When a spell lists a save (e.g., *DR 2 Blood save*), the target rolls **Attribut
 - **Area of Effect (AoE):** Affects shapes like radii or cones; targets save to halve/negate. No attack roll needed for point-targeted AoE.
 - **Resistances and Immunities:** Resistance halves damage after the relevant Armor interaction. Immunity negates the damage or effect entirely. Effects that bypass Resistance do not bypass Immunity unless they say so explicitly. Corrupted beings may still be vulnerable to holy effects if a source grants that weakness.
 - **Critical Spell Effects:** Attack rolls with 3+ successes or exceeding DV by 2+ deal bonus damage, inflict status, or trigger spell-specific effects.
+- **Mastery Piercing (Armor Gate):** To ensure high-level magic remains effective against the most heavily armored foes, all **Master Tier** spells and **Signature Upgrades** (from class features) automatically ignore up to 3 points of a target's Armor. Additionally, any spell that achieves 4+ successes on its casting roll ignores 2 points of Armor regardless of its tier. These effects stack if both conditions are met.
 - **Spell Damage Scaling:** Damaging spell attacks and instantaneous combat spells follow the game's normal damaging-ability scaling unless a spell says otherwise. Ongoing hazards, persistent auras, summons, and long-form rituals do not gain this automatic scaling unless their text explicitly says they do.
 - **Combat Control Durations:** As a baseline, a combat spell that denies actions, spellcasting, movement, or targeting should either last no longer than 3 rounds, require Concentration, or allow an end-of-turn repeat save. Longer lockouts should generally be reserved for rituals, scene powers, or spells that clearly state an exceptional cost or restriction.
 - **Spell Duration:** Instantaneous, rounds/minutes, concentration-based, or permanent until dispelled.
@@ -102,7 +103,7 @@ Use your single Reaction per round to respond:
 ## 5.7 Resource Pools
 
 - **Soul Energy (SE):** Maximum = 3 + Will attribute + (Character Level / 2, rounded up). Start combat at maximum; regain via rest, soul shards, or channeling.
-- **Blood Points (BP):** Maximum = 4 + Shadow attribute + (Character Level / 2, rounded up). Start combat at maximum (if not starved); regain via feeding or relics.
+- **Blood Points (BP):** Maximum = 4 + Blood attribute + (Character Level / 2, rounded up). Start combat at maximum (if not starved); regain via feeding or relics.
 
 ## 5.8 Defining a "Scene" in Spellcasting
 

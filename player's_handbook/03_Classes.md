@@ -83,12 +83,12 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 13 | **Font of Vitae** | +2 Max BP. Regain 1 BP on kill. | Passive |
 | 14 | **Relentless Predator** | Warpath ignores 2 Armor against Bloodied targets. Life Drain heals +1. | Passive |
 | 15 | **Crimson Terror** | Crimson Avatar causes Fear aura (Will vs Difficulty 3). | Passive |
-| 15 | *or* **Endless Hunger** | Life Drain triggers on every melee hit you make, not just the first hit each turn. When you kill an enemy, you also heal an additional 4 HP; this stacks with the Life Drain heal from that killing blow. | Passive |
+| 15 | *or* **Endless Hunger** | Life Drain triggers on every melee hit you make, not just the first hit each turn. When you kill an enemy, you also heal an additional 4 HP; this stacks with the Life Drain heal from that killing blow. **Total Life Drain healing is capped at your Blood attribute + Level in HP per turn.** | Passive |
 | 16 | **Unyielding Spirit** | Deathbound restores 10 HP. +1 die vs Stun/Paralysis. | Passive |
-| 17 | **Lord of the Feast** | Life Drain heals 100% of damage dealt while you are Bloodied. | Passive |
+| 17 | **Lord of the Feast** | Life Drain heals up to 150% of damage dealt (rounded up). The per-turn cap remains in effect. | Passive |
 | 18 | **Essence Thief** | Steal 1 BP or SE on melee hit (Will vs Difficulty 3). | Passive, 1/turn |
 | 19 | **Adamantite Form** | +1 Base Armor. Immune to Critical Hits. | Passive |
-| 20 | **Blood Tyrant** | Passive: Melee crits restore 3 HP. Active (1/long rest, 1 min): +3 Fury dice to all attacks, Life Drain heals 100% of damage dealt with no per-turn limit, and each kill immediately grants a Bonus Action. | Passive + Action, 1/long rest |
+| 20 | **Blood Tyrant** | Passive: Melee crits restore 3 HP. Active (1/long rest, 1 min): +3 Fury dice to all attacks, Life Drain heals 100% of damage dealt, and each kill immediately grants a Bonus Action. **During this transformation, your per-turn Life Drain healing cap is doubled.** | Passive + Action, 1/long rest |
 | 20 | *or* **Siege Incarnate** | Permanently immune to forced movement, knockback, and grapple. Melee attacks ignore all Armor. Allies within 15ft gain +2 DV. | Passive |
 
 
@@ -100,7 +100,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Role**: Phase Warrior / Hybrid Caster
 **Core Attributes**: Soul, Fury
 **Starting HP**: 10 + Soul (+4 per level; +1 Max HP at Levels 5, 10, 15, and 20)
-**Key Skills**: Weapon Mastery, Athletics, Insight, Spectral Navigation, Stealth
+**Key Skills**: Weapon Mastery, Athletics, Insight, Ethereal Mastery, Stealth
 
 #### Spell Access
 - **Casting Model:** Known spells.
@@ -163,6 +163,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 *   **Cloak of Mist** (Bonus Action): Auto-succeed on one Stealth check (1/short rest).
 *   **Shadow Familiar** (Ritual): Summon a small shadow entity (HP = Level*2 + Soul).
 *   **Backstab** (Passive): +3 Damage when attacking from stealth or flanking.
+*   **Soul of Shadows** (Passive): Regain 1 SE whenever an enemy fails a saving throw against one of your Fear effects (Fear Toxin, Terror Aura, Nightmare Chorus).
 
 #### Class Perks
 | Level | Perk Name | Effect | Action/Cost |
@@ -176,7 +177,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 6 | **Assassinate** | Auto-crit on surprised targets. | Passive |
 | 7 | **Shadow Bind** | Root target in place using their shadow. | Action, 1 SE |
 | 8 | **Nightmare Fuel** | Fear Toxin deals 3 Spectral damage at the start of each turn. | Passive |
-| 9 | **Shadow Form** | Become intangible, gaining Resistance to all damage except Radiant and Elemental (Fire). | Action, 3 SE |
+| 9 | **Shadow Form** | Become intangible, gaining Resistance to all damage except Radiant and Elemental (Fire). Requires Concentration; if Concentration breaks, the form ends immediately. | Action, 3 SE, Concentration up to 1 min |
 | 10 | **Master of Shadows** | Shadow Step range increases to 60ft. | Passive |
 | 10 | *or* **Nightmare Chorus** | Fear Toxin now affects all enemies within 5ft of the primary target; each makes a separate Will save. Will save Difficulty for your Fear effects increases by 1, including Terror Aura. | Passive |
 | 11 | **Living Darkness** | Darkness spell deals 2 Entropic damage at the start of each turn to enemies. | Passive |
@@ -185,8 +186,8 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 14 | **Shadow Walk** | Travel through the Spectral Realm (Teleport miles). | Ritual, 5 SE |
 | 15 | **Terror Aura** | Enemies within 10ft must roll Will or be Frightened. | Passive |
 | 15 | *or* **Shadow Court** | Maintain up to 3 Doppelgangers simultaneously. One Bonus Action commands all active Doppelgangers. Each additional or replacement Doppelganger costs 2 SE to summon. | Passive |
-| 16 | **Eclipse** | Global darkness (1 mile radius) for 1 hour. | Ritual, 10 SE |
-| 17 | **Death from Below** | Pull target into Spectral Realm (DR 3 Soul save; killed on failure, non-boss only). | Action, 5 SE |
+| 16 | **Eclipse** | Create an area of magical darkness (300-foot radius) for up to 1 hour. Requires Concentration; if Concentration breaks, the darkness ends immediately. | Ritual, 10 SE, Concentration |
+| 17 | **Death from Below** | Pull target into Spectral Realm (DR 3 Soul save; killed on failure). Cannot target creatures with a Threat Value of 4 or higher, or any creature designated as a Boss or Legendary entity by the GM. | Action, 5 SE |
 | 18 | **Umbral Lord** | Regain 1 SE whenever you deal Entropic damage. | Passive |
 | 19 | **Eternal Night** | You operate as if in darkness even in sunlight. | Passive |
 | 20 | **Apotheosis of Shadow** | Transcend physical form — become an avatar of living darkness. Gain immunity to Physical damage, Blindsight 60 ft, and all shadow-based abilities cost 0 SE for 1 minute. Enemies that can see you must succeed on a DR 4 Will save or be Frightened. | Action, 1/long rest |
@@ -234,7 +235,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 13 | **Voracious Siphon** | Vital Leech heals +Soul HP, steals 1 BP. | Passive |
 | 14 | **Blood Scent** | Sense living creatures within 60ft automatically. | Passive |
 | 15 | **Master Puppeteer** | Blood Puppet affects 2 targets or lasts longer. | Passive |
-| 15 | *or* **Sanguine Desolation** | At the start of each of your turns, each creature within 30ft currently affected by your Hemorrhage immediately suffers one Hemorrhage damage tick. Vein Strike's bonus increases to +4 damage. When a creature affected by your Hemorrhage dies, each enemy within 10ft becomes Bleeding for 1 round. | Passive |
+| 15 | *or* **Sanguine Desolation** | At the start of each of your turns, each creature within 30ft currently affected by your Hemorrhage immediately suffers one Hemorrhage damage tick. This additional tick is separate from the normal start-of-turn tick on the target's own turn; both can occur in the same round. Vein Strike's bonus increases to +4 damage. When a creature affected by your Hemorrhage dies, each enemy within 10ft becomes Bleeding for 1 round. | Passive |
 | 16 | **Plague of Clots** | Target cannot heal and is Slowed (Blood Save). | Action, 1 BP |
 | 17 | **Heartblood Invigoration** | Reduce all BP costs by 1 (min 1). | Passive |
 | 18 | **Sanguine Eruption** | Bloodburst area +5ft and knocks Prone. | Passive |
@@ -256,7 +257,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 - **Casting Model:** Prepared spells.
 - **Spell Access:** You prepare Glyph spells and Rituals tied to wards, traps, sigils, arcane infrastructure, delay effects, and magical analysis.
 - **Starting Spells:** Prepare 3 spells from your class spell list at Level 1.
-- **Gain Rate:** Increase the number of prepared spells by 1 at Levels 4, 8, 12, 16, and 20. You may change your prepared spells after a long rest while you have access to your tools, sigils, or workshop kit.
+- **Gain Rate:** Increase the number of prepared spells by 1 at Levels 2, 4, 6, 8, 12, 16, and 20. You may change your prepared spells after a long rest while you have access to your tools, sigils, or workshop kit.
 - **Class Features vs. Spells:** **Flame Sigil**, **Chrono Weave**, and **Nexus Weaving** are signature class techniques rather than learned spells. They do not count as preparing similarly named Chapter 5 options unless a feature says otherwise.
 
 #### Core Abilities
@@ -268,7 +269,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | Level | Perk Name | Effect | Action/Cost |
 | :--- | :--- | :--- | :--- |
 | 1 | **Glyph Channel** | +5ft range/radius for glyph spells. | Passive |
-| 2 | **Arcane Focus** | Regain 1 SE when a glyph is triggered. | Passive |
+| 2 | **Arcane Focus** | Regain 1 SE when a glyph is triggered (maximum 3 SE per short rest from this source). | Passive |
 | 3 | **Glyph Recall** | Move a placed glyph up to 30ft. | Bonus Action, 1 SE |
 | 4 | **Shock Sigil** | Glyphs deal +1 Electrical damage. | Passive |
 | 5 | **Chrono Weave** | Delay a glyph's trigger (up to 1 min). | Passive |
@@ -320,7 +321,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 7 | **Shadow Ambush** | Make a free attack if starting combat from stealth. | Passive |
 | 8 | **Blur Step** | Dodge one melee attack automatically. | Reaction, once per scene |
 | 9 | **Death's Whisper** | Instantly kill a target below 10 HP (DR 3 Blood save negates; non-boss only). | Action |
-| 10 | **Perfect Kill** | Critical hits deal ×3 damage. Once per short rest, spend a Bonus Action to mark a target — your next attack against them this scene is an automatic critical hit regardless of the roll. | Passive + Bonus Action |
+| 10 | **Perfect Kill** | Critical hits deal ×3 damage. Once per short rest, spend a Bonus Action to mark a target — your next attack against them this scene is an automatic critical hit regardless of the roll. The ×3 multiplier does not apply to crits triggered by Auto-Crit From Stealth — those crits deal ×2 damage instead. | Passive + Bonus Action |
 | 10 | *or* **Ghost Protocol** | Once per scene, when you re-enter Stealth mid-combat, your next attack ignores the target's Armor and forces them to make a DR 3 Will save or become Frightened for 1 round. This effect resets after a kill. | Passive |
 | 11 | **Lingering Gloom** | Smoke Veil lasts longer and poisons enemies. | Passive |
 | 12 | **Spectral Sepsis** | Venom Edge prevents healing. | Passive |
@@ -332,7 +333,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 17 | **Grim Executioner** | Death's Whisper threshold increases to 25% HP. | Passive |
 | 18 | **One with the Void** | Invisible while in Dim Light. | Passive |
 | 19 | **Phantom Assassin** | Shadow Ambush grants two attacks. | Passive |
-| 20 | **Wraith Walker** | Permanent Haste, Auto-Crit on all hits for 1 min. | Action, 1/long rest |
+| 20 | **Wraith Walker** | You permanently gain +15 ft movement speed and may take one additional Action on each of your turns. Additionally, when activated, your attacks are automatic critical hits for 1 minute. | Action, 1/long rest |
 | 20 | *or* **Death's Arithmetic** | Each kill reduces your SE costs by 1 (cumulative, min 0, resets after combat). After 3 kills in one combat, attacks ignore all Armor and Resistances for the scene. | Passive |
 
 ### 3.3.7 Warden of Balance
@@ -353,7 +354,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 - **Class Features vs. Spells:** **Time Stasis**, **Guardian's Edict**, and **Judgment Wheel** are class features rather than learned spells. They do not consume prepared spell access unless a future feature explicitly says otherwise.
 
 #### Core Abilities
-*   **Time Stasis** (Action, 2 SE): Freeze a creature for 1 round (Will Save) or object for 1 min.
+*   **Time Stasis** (Action, 3 SE): Freeze a creature for 1 round (Will Save) or object for 1 min. The SE cost reduces to 2 at Level 12 when Stabilizing Presence is gained.
 *   **Guardian's Edict** (Bonus Action): Allies gain +1 DV and Temp HP equal to your Will.
 *   **Timeless Bulwark** (Passive): Gain Advantage against time-altering effects.
 
@@ -373,7 +374,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 10 | **Eternal Balance** | Take two full turns in one round. | 1/long rest |
 | 10 | *or* **Scales of Retribution** | Mark a target with Judgment. Until the marked target is Bloodied or the scene ends, half the damage they deal is reflected back to them as Spectral damage (rounded up). | Bonus Action, 2 SE, once per scene |
 | 11 | **Pillar’s Resilience** | Edict of Order grants Resistance to Magic. | Passive |
-| 12 | **Stabilizing Presence** | Time Stasis lasts 2 rounds. | Passive |
+| 12 | **Stabilizing Presence** | Time Stasis lasts 2 rounds and its SE cost is reduced to 2. | Passive |
 | 13 | **Fated Intercession** | Fate Align restores 3 HP to ally. | Passive |
 | 14 | **True Sight** | See through illusions and invisibility. | Action |
 | 15 | **Perfected Equilibrium** | Balance Strike deals double dmg to High Corruption. | Passive |
@@ -406,6 +407,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 *   **Void Shard** (Action, 1 SE): Deal 3 Entropic Dmg or dispel an effect.
 *   **Entropic Curse** (Action, 1 SE): Target suffers Disadvantage on attacks and saves (Concentration).
 *   **Entropic Surge** (Passive): +1 Die to spellcasting if Corruption is > 7.
+*   **Exile's Resilience** (Passive): During a Short Rest, regain Soul Energy equal to your Will attribute.
 
 #### Class Perks
 | Level | Perk Name | Effect | Action/Cost |

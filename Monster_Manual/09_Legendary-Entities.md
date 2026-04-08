@@ -256,7 +256,7 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 - **Initiative:** 9
 - **Movement:** 50 feet (10 squares)
 - **Attributes:** Fury 2, Soul 8, Shadow 6, Will 7, Focus 7, Blood 3
-- **Skills:** Forbidden Knowledge 4, Deception 5, Persuasion 4, Insight 3
+- **Skills:** Forbidden Knowledge 4, Infiltration 5, Persuasion 4, Insight 3
 
 **Resistances:** Spectral
 **Vulnerabilities:** Radiant
@@ -557,7 +557,7 @@ Regional Effects
 - **Initiative:** 12
 - **Movement:** 70 feet (14 squares)
 - **Attributes:** Fury 4, Soul 7, Shadow 9, Will 7, Focus 7, Blood 0
-- **Skills:** Deception 4, Stealth 5, Insight 4, Observation 3
+- **Skills:** Infiltration 4, Stealth 5, Insight 4, Observation 3
 
 **Immunities:** Charmed
 **Resistances:** Psychic, Soul
@@ -599,7 +599,7 @@ Regional Effects
 
 ### Loot
 
-- **Crown of Whispers:** Grants telepathy (60ft) and +2 to all Deception and Intimidation checks. Wearing it for more than 24 hours requires a DR 3 Will save or the wearer gains 1 Corruption.
+- **Crown of Whispers:** Grants telepathy (60ft) and +2 to all Infiltration and Intimidation checks. Wearing it for more than 24 hours requires a DR 3 Will save or the wearer gains 1 Corruption.
 - **Monarch’s Signet Ring:** Once per day, command one creature (DR 4 Will save or obey a single non-suicidal command).
 - **Invisible Ink Codex:** Contains 1d4 forgotten rituals or spell formulae (GM’s choice).
 
@@ -626,7 +626,7 @@ Regional Effects
 - **Initiative:** 11
 - **Movement:** 60 feet (12 squares)
 - **Attributes:** Fury 8, Soul 4, Shadow 6, Will 6, Focus 7, Blood 0
-- **Skills:** Athletics 4, Evasion 6, Nature 3, Observation 4
+- **Skills:** Athletics 4, Evasion 6, Wilderness 3, Observation 4
 
 **Resistances:** Radiant
 **Vulnerabilities:** Soul
@@ -699,7 +699,7 @@ Regional Effects
 - **Initiative:** 10
 - **Movement:** 50 feet (10 squares)
 - **Attributes:** Fury 2, Soul 9, Shadow 7, Will 8, Focus 8, Blood 0
-- **Skills:** Glyphcasting 4, History 6, Insight 3
+- **Skills:** Glyphcasting 4, Lore 6, Insight 3
 
 **Resistances:** Psychic, Soul
 
@@ -918,7 +918,7 @@ Encountering Vorador is not something that happens by accident. It happens becau
 - **Initiative:** 8
 - **Movement:** 45 feet (9 squares), Fly 50 feet (mist form optional — see Mist Form)
 - **Attributes:** Fury 6, Soul 5, Blood 6, Shadow 5, Will 5, Focus 5
-- **Skills:** Weapon Mastery 5, Rituals 5, Intimidation 5, Glyphcasting 3, Stealth 3
+- **Skills:** Weapon Mastery 5, Ritualism 5, Intimidation 5, Glyphcasting 3, Stealth 3
 - **SE:** 100 | **BP:** 30
 
 ### Attacks
@@ -931,7 +931,7 @@ Encountering Vorador is not something that happens by accident. It happens becau
 - **Dominated Condition:** The Dominated creature is **Dominated** for 1 minute. While Dominated this way, it treats Vorador as an ally and hostile PCs as enemies. DR 4 Will save at the end of each of its turns to break free.
 
 **Zephonim's Curse** (2 Actions, costs 15 SE)
-- **Dice Pool:** Soul 5 + Rituals 5 = 10d6
+- **Dice Pool:** Soul 5 + Ritualism 5 = 10d6
 - **Range:** 60 feet
 - **Effect:** On hit, target immediately gains 3 Corruption points and all vampiric entities within 60 feet treat the target as a blood-source (they will prioritize attacking the cursed creature until the Curse's duration expires in 3 rounds or is removed).
 - **Save:** DR 5 Will save to halve Corruption gain (still 1 Corruption on success)
@@ -967,9 +967,9 @@ Vorador does not rush. He opens with Zephonim's Curse on the PC with the highest
 **Roleplaying Vorador in Combat:** He is not angry. He is disappointed and efficient. He comments on the party's tactics. He remembers their names. If any PC is a vampire, he speaks to them specifically (*"At least you understand what is at stake. Pity you chose such companions."*). He is devastating but never mindless.
 
 ### Loot
-- Vorador's ring (Zephonim clan signet; grants immunity to vampiric Domination by lesser vampires and +1 die on all Rituals rolls) — **Trade Value**: 400 supplies or story item
+- Vorador's ring (Zephonim clan signet; grants immunity to vampiric Domination by lesser vampires and +1 die on all Ritualism rolls) — **Trade Value**: 400 supplies or story item
 - Blood vial of Vorador (his blood is ancient beyond reckoning; drinking it grants a temporary 1d4 hours of vampiric regeneration 2 HP/round — at the cost of 2 Corruption) — **Trade Value**: 250 supplies
-- Zephonim texts (Vorador's library was legendary; recovering his personal notes rewards the party with 1d4 Glyphcasting or Rituals techniques) — **Trade Value**: 150 supplies each
+- Zephonim texts (Vorador's library was legendary; recovering his personal notes rewards the party with 1d4 Glyphcasting or Ritualism techniques) — **Trade Value**: 150 supplies each
 
 ### Scaling Options
 - **Vorador Contained (Boss, TV 6):** A weakened Vorador, recently imprisoned or heavily drained. HP 120, DV 5, Blood 4, SE 40, BP 15. Loses Patriarch's Call and Lair Action. Legendary Actions reduce to 2 per round. Legendary Resistance 2/day.
@@ -1216,7 +1216,7 @@ Regional Effects
 - **The Elder God's Silence:** With the Manifestation driven back, the Wheel's crushing presence recedes. SE regeneration returns to normal. Spectral Realm navigation is restored. Creatures that were consumed may be recoverable through a long ritual quest.
 - **Shard of the Severed Tendril:** A fragment of the Elder God's physical form. Can be used to forge a weapon with permanent Soul penetration (+4 to attack pools vs. Spectral entities) and Wheel's suppression (the bearer's death cannot be consumed by the Wheel for 7 days after the weapon is attuned). One-time crafting material.
 - **Inscription of the Wheel's Flaw:** The knowledge gained from studying the Elder God's retreat reveals a specific spiritual frequency — a combination of Pillar-resonance and Spectral navigation — that makes future encounters easier. Party gains a permanent +2 to Forbidden Knowledge checks related to the Elder God and its servants.
-- **The Opened Path:** The Spectral Realm in the region is now accessible without a catalyst. One PC may choose to enter it permanently, becoming a liminal being capable of perceiving both realms simultaneously (Spectral Navigation always active; becomes a major character arc).
+- **The Opened Path:** The Spectral Realm in the region is now accessible without a catalyst. One PC may choose to enter it permanently, becoming a liminal being capable of perceiving both realms simultaneously (Ethereal Mastery always active; becomes a major character arc).
 
 ---
 

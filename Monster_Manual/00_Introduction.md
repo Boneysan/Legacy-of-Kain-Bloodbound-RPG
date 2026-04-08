@@ -24,29 +24,27 @@ The manual is divided into thematic chapters, each containing creatures appropri
 
 ### Threat Tiers
 
-Each creature is categorized by threat level, which corresponds to the Threat Value (TV) system from **GM_Guide Chapter 2: Encounter Design**:
+Threat Value (TV) is relative to the **Average Party Level (APL)**. A "standard" challenge for a level 5 party uses TV 5 enemies.
 
-- **Minion (benchmark TV 0.25):** Weak enemies; used in groups to pressure action economy
-- **Standard (benchmark TV 1):** Baseline threat; reliable rank-and-file opponent
-- **Elite (benchmark TV 2):** Strong specialist; roughly two standards' worth of pressure
-- **Boss (benchmark TV 4):** Encounter centerpiece; needs layered defenses or support
-- **Legendary (benchmark TV 6+):** Campaign-defining threat with multiple layers of action economy
+- **Minion (Relative TV = APL - 2):** Weak enemies; used in groups to pressure action economy
+- **Standard (Relative TV = APL + 0):** Baseline threat; reliable rank-and-file opponent
+- **Elite (Relative TV = APL + 2):** Strong specialist; high pressure, 1-2 unique abilities
+- **Boss (Relative TV = APL + 4):** Encounter centerpiece; 2 Legendary Actions/round
+- **Legendary (Relative TV = APL + 6+):** Campaign-defining threat; 3+ Legendary Actions/round
 
-Threat tiers are descriptive benchmark bands. **The printed TV on a creature is always its final encounter-budget contribution.** If a stat block says `TV 3`, add `3` to the encounter total. If it says `TV 16`, add `16`.
-
-Chapters 1-9 now print fully converted absolute TVs aligned to their intended level bands.
+Threat tiers are descriptive benchmark bands. **The printed TV on a creature is always its final absolute encounter-budget contribution.** If a stat block says `TV 9` and its header says `Elite (Level 7)`, it means this creature is an Elite challenge for a Level 7 party.
 
 **Calculating Encounter TV:**
-- Party TV = Sum of all PC levels
-- Enemy TV = the printed TV on each creature
-- Trivial: 25% of Party TV
-- Easy: 50% of Party TV
-- Standard: 75-100% of Party TV
-- Challenging: 125-150% of Party TV
-- Deadly: 175-200% of Party TV
-- Legendary: 250%+ of Party TV
+- **Party TV** = Sum of all PC levels (e.g., 4 players at Level 5 = Party TV 20).
+- **Enemy TV** = The absolute printed TV on each creature.
+- **Trivial:** Total Enemy TV is 25% of Party TV.
+- **Easy:** Total Enemy TV is 50% of Party TV.
+- **Standard:** Total Enemy TV is 75-100% of Party TV.
+- **Challenging:** Total Enemy TV is 125-150% of Party TV.
+- **Deadly:** Total Enemy TV is 175-200% of Party TV.
+- **Legendary:** Total Enemy TV is 250%+ of Party TV.
 
-*Example: A Level 5 party of 4 has Party TV 20. A balanced encounter (TV 20) could be: 2 TV 4 bosses + 4 TV 2 elites + 4 TV 1 standards, 1 TV 12 major threat + 2 TV 4 lieutenants, or any other mix totaling about 20.*
+*Example: A Level 5 party of 4 has Party TV 20. A "Challenging" encounter (TV 25-30) could be one TV 11 Boss (Level 7) supported by two TV 9 Elites (Level 7).*
 
 ---
 

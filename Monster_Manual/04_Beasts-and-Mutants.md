@@ -35,7 +35,7 @@ This chapter now uses final absolute TV values aligned to each entry's intended 
 ### 1. Dire Cave Wolf
 
 **Type**: Beast (Predator)  
-**Threat Tier**: Standard (TV 4)  
+**Threat Tier**: Standard (Level 4) - TV 4  
 **Recommended Levels**: 2-6
 
 ### Lore
@@ -433,7 +433,7 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 **Skills**:
 - Unarmed Combat (Fury): 4
 - Intimidation: 3
-- Nature: 2
+- Wilderness: 2
 - Weapon Mastery: 4
 
 ### Attacks
@@ -513,7 +513,7 @@ Despite their fearsome appearance, Bramblehide Bears are still animals. They can
 **Skills**:
 - Unarmed Combat (Fury): 4
 - Intimidation: 3
-- Nature: 2
+- Wilderness: 2
 
 ### Attacks
 **Claw Swipe** (Fury 5 + Unarmed Combat 4 = 9d6)
@@ -671,7 +671,7 @@ Blightmaw Alphas are solitary territorial hunters. They tolerate no other large 
 **Skills**:
 - Unarmed Combat (Fury): 3
 - Athletics (Fury): 3
-- Nature (Focus): 2
+- Wilderness (Focus): 2
 
 ### Attacks
 **Crushing Jaws** (Fury 5 + Unarmed Combat 3 = 8d6)

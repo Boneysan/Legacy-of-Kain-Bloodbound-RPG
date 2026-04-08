@@ -430,7 +430,7 @@ Use resource scarcity to:
 **Value:**
 - Cannot be purchased through normal means
 - Discovery is major plot point
-- Possession draws dangerous attention
+- Ethereal Mastery draws dangerous attention
 - Multiple factions willing to kill for them
 
 ### Hylden Technology
@@ -449,7 +449,7 @@ Use resource scarcity to:
 
 **Risk:**
 - Using Hylden tech often increases Corruption
-- Possession may attract Hylden attention
+- Ethereal Mastery may attract Hylden attention
 - Can backfire catastrophically
 
 ### Sarafan Relics

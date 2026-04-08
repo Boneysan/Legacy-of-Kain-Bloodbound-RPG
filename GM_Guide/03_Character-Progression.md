@@ -228,7 +228,7 @@ Poor: "That's enough XP, you level up."
    - **Levels 6, 8, 10:** Tier 2 Universal Perk
    - **Levels 11, 13, 15:** Tier 3 Universal Perk
    - **Levels 16, 18, 20:** Tier 4 Universal Perk
-   - Humans gain additional Universal Perk at levels 4, 8, 12, 16, 20
+   - Humans gain additional Universal Perk at levels 6, 12, 18
 
 4. **Attribute Increases:** At levels 4, 8, 12, 16, 20
    - Increase one attribute by 1 (max 5)
