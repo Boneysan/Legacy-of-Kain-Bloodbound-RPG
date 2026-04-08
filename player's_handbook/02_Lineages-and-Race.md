@@ -34,7 +34,7 @@ Winged pariahs, believed extinct, reborn in spectral flame. Obsessed with fate a
 ### 2.2.2 Turelim
 Warrior-kings with telekinetic force, loyal to Kain's vision.
 - **Bonus**: +1 Tactics.
-- **Feature**: *Turelim Protector* (Reaction to take an ally’s hit, +2 Armor for that attack, once per scene).
+- **Feature**: *Turelim Protector* (Reaction, once per scene: when an ally within 30 ft is hit by an attack, reduce the damage by your Fury, to a maximum of 3.)
 
 ### 2.2.3 Dumahim
 Stoic, hulking brutes, entombed for centuries.

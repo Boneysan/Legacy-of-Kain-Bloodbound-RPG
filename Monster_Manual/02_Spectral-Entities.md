@@ -808,4 +808,121 @@ The Arcanist maintains distance, opening with Soul Bolt spam and Arcane Drain ag
 
 ---
 
+## 2.15 Phase Wraith
+
+**Type:** Spectral Predator  
+**Threat Tier:** Elite (TV 4)
+**Recommended Levels:** 3-6
+
+### Lore
+Phase Wraiths are hunters that never fully commit to one realm. They flicker between the Material and Spectral as if both are equally insubstantial, stalking prey through walls, ceilings, and blind angles before materializing for a killing strike. They are less theatrical than other ghosts and far more dangerous for it.
+
+### Statistics
+- **HP:** 14
+- **DV:** 3 (1 + Shadow 2)
+- **Armor:** Special (Incorporeal)
+- **Initiative:** 5
+- **Movement:** 45 feet (9 squares)
+- **Attributes:** Fury 3, Soul 2, Shadow 4, Will 2, Focus 4, Blood 0
+- **Skills:** Stealth 4, Athletics 2, Unarmed Combat (Soul): 3
+
+### Attacks
+**Wraith Strike** (Action)
+- **Dice Pool:** Fury 3 + Unarmed Combat 3 = 6d6
+- **Range:** Weapon Mastery
+- **Damage:** 3 Soul damage
+- **Special:** If the Phase Wraith has not been in the target's line of sight since the end of its last turn, it gains +2 dice on the attack.
+
+**Phase Step** (Bonus Action, once per round)
+- **Effect:** Teleport up to 30 feet to an unoccupied space it can see, including through walls and obstacles.
+
+### Abilities
+**Incorporeal:** Immune to nonmagical physical attacks. Magical weapons and spells affect normally.
+
+**Spectral Nature:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease, and Bleeding.
+
+**Dimensional Slip:** When struck by an attack, the Phase Wraith may use its reaction to halve the damage by phasing partially out of reality.
+
+**Predatory Flicker:** If it begins its turn out of line of sight, the Phase Wraith ignores opportunity attacks that turn.
+
+**Behavior Tags:** ambusher, skirmisher, phase_shifter
+
+### Tactics
+The Phase Wraith refuses fair engagements. It teleports behind isolated targets, uses walls to break line of sight, then commits to a single high-certainty strike before flickering away again. When wounded, it becomes even more patient, circling until it can attack from concealment.
+
+### Loot
+- Phase-shard crystal (component for teleportation rites, Trade Value: 45 supplies)
+- Distorted afterimage trapped in glass (valuable to occult scholars, Trade Value: 30 supplies)
+
+### Scaling Options
+- **Lesser Phase Wraith (Standard, TV 3):** HP 10, DV 3, loses Predatory Flicker.
+- **Elder Phase Wraith (Boss, TV 7):** HP 26, DV 4, Shadow 5. Dimensional Slip can be used twice per round against different attacks, and Wraith Strike deals 5 Soul damage.
+
+---
+
+## 2.16 Echo of Kain
+
+**Type:** Spectral Sovereign Echo  
+**Threat Tier:** Boss (TV 15)
+**Recommended Levels:** 12-16
+
+### Lore
+The Echo of Kain is not Kain himself, but a pressure-mark left on reality by his will. In places where prophecy, blood, and the Spectral Realm knot together, that imprint can stand up and fight. It remembers rulership as a reflex, judgment as instinct, and survival as inevitability. To face it is to battle a fragment of Nosgoth's most dangerous conviction.
+
+### Statistics
+- **HP:** 50
+- **DV:** 5 (1 + Shadow 4)
+- **Armor:** 0
+- **Initiative:** 8
+- **Movement:** 40 feet (8 squares)
+- **Attributes:** Fury 5, Soul 5, Shadow 5, Will 5, Focus 4, Blood 5
+- **Skills:** Weapon Mastery 5, Athletics 4, Intimidation 5, Glyphcasting 4, Concentration (Will): 4
+- **SE:** 0 | **BP:** 0
+
+### Attacks
+**Soul Reaver — Spectral Form** (Action)
+- **Dice Pool:** Fury 5 + Weapon Mastery 5 = 10d6
+- **Range:** Weapon Mastery
+- **Damage:** 5 Soul damage
+- **Special:** This damage cannot be reduced below 1 by Armor, resistance, or other mitigation. A creature slain by this blade cannot be restored except by extraordinary intervention.
+
+**Temporal Stasis** (Action, 2/encounter)
+- **Dice Pool:** Soul 5 + Glyphcasting 4 = 9d6
+- **Range:** 60 feet (12 squares)
+- **Effect:** Target must make a DR 4 Will save or be removed from time for 2 rounds. While frozen, they cannot act, be targeted, or affect the battlefield. When they return, they are **Confused** until the end of their next turn.
+
+**Blood Omen Surge** (Action, once per phase)
+- **Range:** 30-foot radius (6 squares), centered on self
+- **Damage:** 3 Blood damage to all creatures of the Echo's choice in range
+- **Special:** The Echo heals HP equal to the total damage dealt.
+
+**Pillars' Weight** (Action)
+- **Dice Pool:** Will 5 + Concentration 4 = 9d6
+- **Range:** 20-foot zone (4 squares) within 60 feet
+- **Damage:** 2 Soul damage
+- **Special:** Creatures in the zone must make a DR 4 Will save or fall Prone. A creature that ends its turn in the zone takes the damage again.
+
+### Abilities
+**Inevitable:** Once per encounter, the Echo of Kain cannot be reduced below 1 HP by a single hit. Instead, that hit leaves it at 1 HP. If it is reduced to 0 HP by multiple separate hits in the same round, it dies normally. At the start of each of its turns, it regains 2 HP. It is immune to instant-death effects.
+
+**Phase II — The Damned Sovereign:** When the Echo is reduced to 50% HP or below, it immediately uses Blood Omen Surge as a free action if it has not already used it this phase, and its attacks inflict **Bleeding** for the rest of the encounter. If it is reduced from above 50% HP to 0 HP by a single attack, Phase II triggers first and the Echo remains at 1 HP through Inevitable.
+
+**Spectral Tyrant:** Resistant to Physical, Fire, Cold, and Shadow damage. Immune to poison, fear, charm, stun, petrification, and Bleeding.
+
+**Unceasing Pressure:** Creatures that start their turn within 10 feet of the Echo take 1 Soul damage unless they succeed on a DR 3 Will save.
+
+### Tactics
+The Echo opens with Temporal Stasis on the party member most likely to break its tempo, then advances behind Pillars' Weight to fracture positioning. It uses Soul Reaver — Spectral Form to punish whoever overextends and saves Blood Omen Surge for its Phase II transition unless a clustered party offers too much healing value to ignore. It should feel beatable through coordination, but no longer stall a table by healing through low-damage attrition.
+
+### Loot
+- Echo-forged blade fragment that hums near temporal fractures
+- Blood-memory crystal containing one vision from Kain's past or future
+- Sovereign ash, a rare reagent for time- and fate-linked rituals
+
+### Scaling Options
+- **Fading Echo (TV 11):** HP 36, DV 4, loses Unceasing Pressure. Inevitable still functions once per encounter.
+- **Ascendant Echo (TV 18):** HP 70, DV 6, Soul Reaver damage becomes 7, and Temporal Stasis becomes 3/encounter. Blood Omen Surge deals 4 Blood damage.
+
+---
+
 *"The Spectral Realm hungers. And what hungers never sleeps, never rests, never stops coming. Not even knowledge. Perhaps especially not knowledge."*

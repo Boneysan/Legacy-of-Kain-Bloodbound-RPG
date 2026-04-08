@@ -1236,7 +1236,63 @@ The Void-Touched opens with Merge Protocol to establish numerical advantage — 
 
 ---
 
-## 1.21 Vampire Clan Templates
+## 1.21 Banshee
+
+**Type:** Undead (Spectral, Wailing Spirit)  
+**Threat Tier:** Elite (TV 4)
+**Recommended Levels:** 3-6
+
+### Lore
+Banshees are spirits of grief so concentrated that they linger as weapons. Some are dead mourners, some are victims denied burial, and some are the echo of a massacre given a voice. In Nosgoth they drift through mausoleums, drowned chapels, and plague-pits, keening at the living with a sorrow that curdles into violence the moment it is heard.
+
+### Statistics
+- **HP:** 14
+- **DV:** 3 (1 + Shadow 2)
+- **Armor:** Special (Incorporeal)
+- **Initiative:** 4
+- **Movement:** 40 feet (8 squares), Fly 40 feet (hover)
+- **Attributes:** Fury 1, Soul 4, Shadow 3, Will 4, Focus 2, Blood 0
+- **Skills:** Intimidation 4, Concentration (Will): 2
+
+### Attacks
+**Death Shriek** (Action)
+- **Dice Pool:** Soul 4 + Intimidation 4 = 8d6
+- **Range:** 20-foot radius (4 squares), centered on self
+- **Damage:** 2 Soul damage
+- **Special:** Living creatures in the area must make a DR 2 Will save or become **Frightened** for 2 rounds.
+
+**Spectral Touch** (Action)
+- **Dice Pool:** Soul 4 + 0 = 4d6
+- **Range:** Weapon Mastery
+- **Damage:** 2 Soul damage
+- **Special:** Ignores Physical Armor.
+
+### Abilities
+**Incorporeal:** Nonmagical physical attacks deal half damage to the Banshee. It may pass through walls, doors, and creatures. If it ends its turn inside solid matter, it takes 5 Force damage.
+
+**Funeral Cold:** Resistant to Fire and Cold damage. The Banshee's form is a death-chill rather than living flame.
+
+**Undead Nature:** Immune to Soul Drain, poison, disease, and Bleeding. Takes double damage from Radiant.
+
+**Sorrow Made Audible:** Creatures that are already Frightened by the Banshee take +1 Soul damage from its Spectral Touch.
+
+**Behavior Tags:** controller, phase_shifter, artillery
+
+### Tactics
+The Banshee opens with Death Shriek from behind cover or through a wall, then glides through solid matter to harry isolated or already-panicked targets. It avoids prolonged melee, using incorporeality to deny clean lines of attack and retreating through architecture when pressed.
+
+### Loot
+- Mourning charm or burial token tied to the spirit's identity
+- Condensed wail-essence (component for fear wards or binding rites, Trade Value: 35 supplies)
+- Memory fragment revealing the death that created it
+
+### Scaling Options
+- **Restless Banshee (Standard, TV 3):** HP 10, DV 3, Death Shriek only Frightens on a failed save and loses Sorrow Made Audible.
+- **Cathedral Banshee (Boss, TV 8):** HP 28, DV 4, Soul 5, Will 5. Death Shriek damage becomes 4 Soul and it gains **Echoing Choir** (once per encounter): all creatures currently Frightened take 3 automatic Soul damage.
+
+---
+
+## 1.22 Vampire Clan Templates
 
 Vampires are not a monolithic faction — the six clans of Kain's bloodline each embody a distinct martial and supernatural identity. Use these templates to quickly convert any generic vampire stat block (Hunger-Warped Vampire, Vampiric Fledgling, Vampire Overlord, etc.) into a clan-specific enemy that reflects the faction the party has encountered.
 
@@ -1258,7 +1314,7 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 >
 > *Modify any vampire stat block:* +1 Fury, +1 Will. +1 Armor (telekinetic reinforcement).
 >
-> **Telekinetic Bulwark** (Reaction, once per scene): When an ally within 30 feet is hit by an attack, the Turelim interposes with telekinetic force — the ally gains +2 Armor against that single attack. If the attack still hits, the Turelim takes 2 Force damage (redirected kinetic energy).
+> **Telekinetic Bulwark** (Reaction, once per scene): When an ally within 30 feet is hit by an attack, the Turelim interposes with telekinetic force — reduce the damage by the Turelim's Fury, to a maximum of 3.
 >
 > *Weakness:* Turelim cannot benefit from Stealth checks — their presence announces itself through subconscious telekinetic tremors that cause minor vibrations in nearby surfaces.
 

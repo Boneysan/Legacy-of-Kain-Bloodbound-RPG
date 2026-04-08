@@ -342,7 +342,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Lore**: Sworn to protect the shattered Balance Pillars, Wardens are priests, enforcers, and oracles. A Warden of Balance emerges when a person — of any lineage — swears themselves to the concept of the Pillars rather than to any earthly faction, driven by cosmic duty rather than blood or creed.
 **Role**: Judge / Fate Caster / Support
 **Core Attributes**: Will, Soul
-**Starting HP**: 10 + Will (+4 per level; +1 Max HP at Levels 5, 10, 15, and 20)
+**Starting HP**: 11 + Will (+4 per level; +1 Max HP at Levels 5, 10, 15, and 20)
 **Key Skills**: Rituals, Glyphcasting, Insight, Persuasion, Religion
 
 #### Spell Access

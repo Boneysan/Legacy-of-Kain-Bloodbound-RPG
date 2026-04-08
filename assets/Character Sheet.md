@@ -49,7 +49,7 @@ Successes: [ ] [ ] [ ]     Failures: [ ] [ ] [ ]
 | Sangromancer | 9 + Blood (+3/level) |
 | Glyphwright | 8 + Soul (+3/level) |
 | Dreadblade | 9 + Shadow (+3/level) |
-| Warden of Balance | 10 + Will (+4/level) |
+| Warden of Balance | 11 + Will (+4/level) |
 | Hylden Warlock | 8 + Soul (+3/level) |
 
 ---
