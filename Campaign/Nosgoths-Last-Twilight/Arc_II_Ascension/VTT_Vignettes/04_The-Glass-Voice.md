@@ -12,7 +12,7 @@ The Hylden do not threaten first. They explain. The Glass Voice arrives through 
 ## Scene Info
 
 - **Arc / Session:** Arc II — Session 5
-- **Trigger:** The party has reached the Rift Ember breach site and encountered Hylden presence beyond mere environmental hazard. A negotiation interface presents itself — a Glass Voice device, a possessed soldier speaking in measured intervals, or a projection above the Resonance Pillar.
+- **Trigger:** The party has reached the Rift Ember breach site and encountered Hylden presence beyond mere environmental hazard. A negotiation interface presents itself — a Glass Voice device, a possessed soldier speaking in measured intervals, or a projection above the Resonance Pillar. **Contact is initiated by Hylden response to party action, not by the party seeking them out.** The Glass Voice activates when the party attempts any deliberate engagement with the breach mechanics — trying to seal it, redirect it, analyze the seal structure, or interact with the Resonance Pillar. Passive presence does not trigger it. If the party approaches and takes no action, the Glass Voice does not appear in this session; file this as a missed encounter and have the contact occur as an interruption during the next travel beat.
 - **Scene Type:** `confrontation`
 - **Est. Duration:** 4–6 min
 - **Tags This Scene Can Change:** `hylden_engagement`, `ash_glass_reach`

@@ -47,6 +47,15 @@ Arc IV resolves the campaign at mythic scale. Every surviving oath, grievance, a
 - Nosgoth enters its post-campaign state.
 - The final relationship between the Wheel and the Hylden breach network is decided in practice, not only in rhetoric.
 
+## Key NPCs
+
+- **The Last Witness** — A civilian survivor whose life has been shaped by the party's actions across Arcs I–III. They are not a faction representative and carry no political agenda. They arrive at the Heath independently, at Session 1, and Warden Asha Merel is aware of their standing. Their role is to anchor the proceedings in a ground-level human consequence that no faction statement can replicate. First appears in V02 as an observer in the Hall gallery. The GM should establish who this person is before Arc IV begins — a specific individual from the party's history, named and concrete. They are most powerful when the party recognizes them.
+- **Sepulcher-Mother Elain** — The Wheel's senior voice and Vicar Oren Bale's superior. She does not appear at the Heath until the final session (V05); the party will not encounter her directly before then. She is aware of the campaign's events and specifically aware of whatever the party did or did not do to the Wheel during Arc III. Her manner in V05 is calm, prophetic about surrendering, and committed to the Wheel's philosophy without needing to explain it. GMs should note her name to players during a late Arc III or early Arc IV transitional moment so her arrival at the convergence does not feel unannounced.
+
+## A Note on Kain's Presence
+
+Kain is physically present in Arc IV only if all three of the following are true at the start of V04: `party_operative_truth` was committed in Arc III V05, `coalition_shape` is recognized after V02, and `black_fulcrum_status` reaches `cleared` or higher at V04. Most campaigns will not meet all three conditions. **This is an intended design outcome, not a failure state.** Arc IV and the finale (V05) are fully functional without Kain present; Black Marshal Sevran carries his function, and Kain's absence is its own statement about the party's account. The GM should not attempt to engineer conditions to bring Kain in if they were not earned. The pressure of his absence is a legitimate campaign ending.
+
 ## Carry Forward
 
 - The final state of the Pillars, the Wheel, and the Hylden Gate.

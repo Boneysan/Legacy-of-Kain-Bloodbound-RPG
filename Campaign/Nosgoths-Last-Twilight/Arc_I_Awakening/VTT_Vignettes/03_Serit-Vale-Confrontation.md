@@ -12,7 +12,7 @@ After the ambush, the party has standing to ask for the truth. Serit Vale has be
 ## Scene Info
 
 - **Arc / Session:** Arc I — Session 1 (post-ambush) or Session 2 (investigation phase)
-- **Trigger:** The party has survived the cult ambush or a significant cult incident. Serit Vale is present. A PC directly asks her what the cargo actually is, what the cult wanted, or what she hasn't told them.
+- **Trigger:** The party has survived the cult ambush or a significant cult incident. Serit Vale is present. A PC directly asks her what the cargo actually is, what the cult wanted, or what she hasn't told them. **Note:** The ambush that satisfies this trigger fires as a combat encounter after Vignette 02 (False Refuge) closes, not before it. The cult cell established in V02 initiates during or immediately after the party leaves the waystation. If the party never reached the waystation (V02 was skipped), the ambush may instead occur at the next road chokepoint; the trigger for V03 remains the same.
 - **Scene Type:** `confrontation`
 - **Est. Duration:** 4–6 min
 - **Tags This Scene Can Change:** `serit_trust`, `reliquary_status`

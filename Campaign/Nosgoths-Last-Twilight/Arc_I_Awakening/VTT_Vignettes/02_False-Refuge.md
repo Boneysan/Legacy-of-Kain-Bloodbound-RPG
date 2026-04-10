@@ -27,6 +27,7 @@ Hospitality in Nosgoth is never free. When Brother Halden opens the waystation d
 | Brother Halden | Warm, practiced, and one beat too fast. He has already made room for the party. He already knows roughly how many they are. |
 | Serit Vale | Exhausted and trying to evaluate the space without looking like she's evaluating the space. |
 | Mera Ash | On edge. She doesn't like enclosed spaces with strangers and she is not pretending otherwise. |
+| A guild broker (background) | An Outlands Guild factor sheltering here on commercial business, heading toward Avernus. Does not advertise their affiliation. Mentions it if the party makes useful conversation. Their presence plants the `guild_pressure` thread that pays off in V05. |
 
 ---
 
@@ -128,3 +129,5 @@ Hospitality in Nosgoth is never free. When Brother Halden opens the waystation d
 - The warmth of the building and the quality of the welcome are both genuine *and* calculated. He is not a monster. That is the point.
 - Mera Ash is the scene's implicit timer. If she starts moving toward the door unilaterally, the party has taken too long.
 - If someone rolls Awareness during Halden's explanation: the "rider" detail is sourced too cleanly for an ad hoc cover. Someone rehearsed it. It is not a lie that emerged under pressure — it was retrieved.
+- The guild broker is a background presence; do not spotlight them unless the party makes friendly conversation with the other sheltered travelers. If they do, the broker mentions being "Accord-adjacent, commerce side" and having business at Avernus. Their name is Turas Vel. They survive the night regardless of party choice — and they reach the party again in V05 with the `guild_pressure` thread activated. If the party was hostile or the waystation scenario ended badly, Vel's approach in V05 is cooler but still present.
+- **The ambush follows this vignette, not a prior scene.** The cult cell Halden is managing activates during or immediately after the party leaves the waystation. Run the ambush as a combat encounter between V02 and V03. The GM should not wait for the party to seek out a fight; the cult moves when the party is on the road and exposed. V03 (What Serit Knows) requires the party to have survived this encounter before it can fire.
