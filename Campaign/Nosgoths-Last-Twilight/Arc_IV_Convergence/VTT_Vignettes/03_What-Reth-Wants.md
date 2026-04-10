@@ -67,9 +67,9 @@ By the time Ash-Glass Reth makes this offer, the Procession is not small anymore
 
 > If the party cannot describe the mechanism — if the "seat" is theoretical — Reth says: *"Then what you're describing is not a seat. It's a promise. I've had promises."*
 
-**Outcome:** If a mechanism is described, `coalition_shape` gains `procession-neutral` — the Procession does not oppose. If not, `coalition_shape` gains `procession-hostile` — Reth begins active disruption of coalition logistics.
+**Outcome:** Reth is not converted, but they offer conditional alignment — the Procession will not move against the party's coalition in the final proceedings and will direct Procession resources away from interference while it is live. **This choice requires the party to name the specific mechanism at the table.** If no mechanism can be described, the party has not truly chosen this branch; move to Choice D or accept the default outcome.
 
-**Tags:** `coalition_shape: procession-neutral` OR `procession-hostile`
+**Tags:** `coalition_shape: procession-neutral`
 
 ---
 

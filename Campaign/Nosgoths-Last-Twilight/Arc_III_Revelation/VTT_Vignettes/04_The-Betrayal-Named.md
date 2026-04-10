@@ -51,21 +51,35 @@ The betrayal in Arc III does not arrive as a villain reveal. It arrives as an ex
 
 ---
 
-### B — Name What Was Lost Because of the Manipulation
+### B — Name What Was Lost, and Absorb the Breach
 
-> You do not want the explanation. You want acknowledgment. Name the specific cost — a person, a choice, a wound that happened because the false sequence was believed.
+> You do not want the explanation. You want acknowledgment. Name the specific cost — a person, a choice, a wound that happened because the false sequence was believed. After the Witness names it back, the party chooses to absorb the betrayal and continue the working relationship in its changed form.
 
 **NPC Response (Witness):**
 
-> They do not deflect. *"I know."* Two seconds of silence. *"I knew when it happened. I told myself the outcome was likely even without the manipulation — that naming it wouldn't have changed the decision. I do not believe that anymore."* They look directly at whoever named the cost. *"If you want to use what I know for what comes next, I am offering it. If you need to put me somewhere where I can't make more decisions like this, I understand that too."*
+> They do not deflect. *"I know."* Two seconds of silence. *"I knew when it happened. I told myself the outcome was likely even without the manipulation — that naming it wouldn't have changed the decision. I do not believe that anymore."* They look directly at whoever named the cost. *"If you want to use what I know for what comes next, I am offering it."*
 
-**Outcome:** The party gets the acknowledgment. The wound is named. What they do with the Witness after this moment is a party decision with Arc IV consequences — a broken ally is different from an absorbed one is different from a severed one. The emotion in the room is real and the Witness has offered both options honestly.
+**Outcome:** The wound is named and the party absorbs it rather than severing over it. The Witness remains in the coalition with a defined role and explicit limits. Their intelligence is available for Arc IV. The relationship is functional but qualified — it carries the weight of what was acknowledged.
 
-**Tags:** `betrayal_resolved: absorbed` or `severed` (party decides), `wheel_exposure: broken`
+**Tags:** `betrayal_resolved: absorbed`, `wheel_exposure: broken`
 
 ---
 
-### C — Turn the Witness Into a Weapon Against the Wheel
+### C — Name What Was Lost, and End the Relationship
+
+> Same acknowledgment demand as Choice B — but after the Witness names it back, the party makes clear the relationship is over. The cost was too specific, the silence too long, or the trust too completely gone.
+
+**NPC Response (Witness):**
+
+> They do not deflect. *"I know."* A silence. *"If you need to put me somewhere where I can't make more decisions like this, I understand that too."* They hold themselves still and do not argue. *"My knowledge is still yours to use, without my presence in the room. I'll put it all in writing before I go."*
+
+**Outcome:** The wound is named and the relationship ends cleanly. The Witness leaves the party's orbit. Their intelligence reaches the party in document form rather than through active participation. In Arc IV, the Witness is a free agent — their knowledge may reach other factions first, or may come at the cost of the party finding a different operative relationship.
+
+**Tags:** `betrayal_resolved: severed`, `wheel_exposure: broken`
+
+---
+
+### D — Turn the Witness Into a Weapon Against the Wheel
 
 > They have names, dates, and procedures. Use them to expose the Wheel's operation before it can be buried again.
 
@@ -79,7 +93,7 @@ The betrayal in Arc III does not arrive as a villain reveal. It arrives as an ex
 
 ---
 
-### D — Ask Why They Didn't Come to the Party Sooner
+### E — Ask Why They Didn't Come to the Party Sooner
 
 > Not accusation. Genuine question. What kept them silent through Arc I and II?
 

@@ -43,7 +43,7 @@ This is the last vignette. The Heart of Nosgoth is assembled, the Fulcrum has re
 
 ---
 
-## The Declaration — What the Heart Is For
+## Player Choices — The Declaration
 
 The party must give a declaration. The GM uses their `party_operative_truth` tag, the `heart_purpose` tag from the Fulcrum, and the coalition's overall `coalition_shape` to calibrate which of the following outcomes is available and what it costs.
 
@@ -127,7 +127,34 @@ The party must give a declaration. The GM uses their `party_operative_truth` tag
 
 ---
 
-## After the Declaration — Merel's Final Speaking
+## If No Clear Choice Is Made
+
+> If the party cannot reach consensus and the scene ends before a declaration is given, Merel closes the record as inconclusive. The Heart is neither activated nor sealed by intentional choice. The assembly disperses without a concluded coalition. The Wheel survives the day by default; the Hylden Gate question remains unaddressed. This is the bluntest version of Outcome C — restraint that did not choose itself, and whose absence from the record will be the most legible fact in it.
+
+**Default Tags:** `heart_purpose: withdrawn`, `hylden_gate_resolution: sealed`, `wheel_final_state: default-surviving`
+
+---
+
+## Campaign Epilogue Conditions
+
+This is the final vignette. There is no next scene. The table below records what each outcome leaves behind — the conditions present if the campaign continues or is revisited.
+
+| Tag | Value | Campaign Legacy |
+|-----|-------|----------------|
+| `heart_purpose` | `spent-for-balance` | Balance preserved structurally; no faction holds the Heart; Nosgoth requires tending but is not in crisis collapse |
+| `heart_purpose` | `gate-opened-negotiated` | Hylden reintegration under documented terms; the most ambitious and most fragile outcome; continuation tracking required |
+| `heart_purpose` | `foreclosed` | Heart secured without activation; world unchanged; the question deferred to a successor coalition |
+| `heart_purpose` | `withdrawn` | Declaration not made; record notes absence; successor coalition begins from this impasse |
+| `hylden_gate_resolution` | `deferred` | Hylden question remains open; addressable in a continuation campaign |
+| `hylden_gate_resolution` | `open-on-terms` | Hylden return conditional on stated terms; terms require an active steward to enforce |
+| `hylden_gate_resolution` | `sealed` | Gate closed; Hylden incursion ended; breach network cannot reopen without extraordinary effort |
+| `wheel_final_state` | `reduced-surviving` | Wheel survives as philosophy only; possible minor adversary in any continuation |
+| `wheel_final_state` | `opposing-surviving` | Wheel continues as principled opposition; formally documented in Hall record |
+| `wheel_final_state` | `default-surviving` | Wheel neither addressed nor defeated; resurfaces at full strength in any continuation |
+
+---
+
+## After the Declaration — Merel’s Final Speaking
 
 Regardless of which outcome is chosen, Merel delivers one closing statement. The GM may use one of these, or speak their own:
 

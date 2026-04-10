@@ -37,7 +37,9 @@ The Black Fulcrum is not a faction. It is an assessment. When the balance-releva
 
 ---
 
-## The Examination (Three Questions)
+## The Examination (Player Choices)
+
+This scene does not use discrete A/B/C/D selections. The party’s *choices* are how they respond to Merel’s three questions: with confidence, with honesty, with evasion, or with refusal. The response type tables below are the choice framework. Each question is a discrete engagement beat; the Fulcrum finding at the end reflects the aggregate.
 
 Merel asks three questions, derived from the party's arc state. Each question should be GM-customized based on the actual arc-state tags. Defaults are provided below.
 
@@ -98,18 +100,25 @@ Merel makes a determination. It does not have to be the party's preference. It r
 
 ---
 
-## Tags
+---
 
-| Fulcrum Finding | Tag Value | Effect on Vignette 05 |
-|-----------------|-----------|----------------------|
-| Defensible | `black_fulcrum_status: cleared` | Heart activation authorized in final session; Kain-side backing confirmed |
-| Functional-incomplete | `black_fulcrum_status: conditional` | Heart activation conditionally available; Sevran present but not fully committed |
-| Not defensible | `black_fulcrum_status: unfounded` | Party goes into Vignette 05 without Fulcrum recognition; harder path; still winnable |
+## If No Clear Choice Is Made
 
-Additionally:
-- Strong honest answers on Question 1 → `heart_purpose: understood`
-- Party names `party_operative_truth` term correctly under pressure → no additional tag, but Merel notes it in the formal record
-- Last Witness present and testimony matches the party's account → `coalition_shape` upgraded (remove fracture notation if present)
+> If the party refuses to engage the examination — stonewalls multiple questions, refuses to answer, or walks out before the final question — the sitting ends without a finding. Merel notes that the coalition withdrew from examination. The party enters Vignette 05 without Fulcrum recognition. This is treated as inadequate answers for all purposes.
+
+**Default Tag:** `black_fulcrum_status: unfounded` (due to withdrawal, not inadequacy)
+
+---
+
+## Next-Scene Effects
+
+| Tag | Value | Effect on Vignette 05 |
+|-----|-------|----------------------|
+| `black_fulcrum_status` | `cleared` | Heart activation authorised in final session; Kain-side backing confirmed; Kain present in V05 if earned |
+| `black_fulcrum_status` | `conditional` | Heart activation conditionally available; Sevran present but not fully committed |
+| `black_fulcrum_status` | `unfounded` | Party goes into V05 without Fulcrum recognition; harder path, still winnable |
+| `heart_purpose` | `understood` | Party demonstrated understanding of the Heart’s cost in Question 1; Merel notes it formally in the record |
+| `coalition_shape` | (modifier) | If the Last Witness is present and their testimony matches the party’s account, any fracture notation is removed from the coalition record |
 
 ---
 

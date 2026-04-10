@@ -50,7 +50,7 @@ The Chronoplast showed two futures. The party has been walking through Arc III c
 
 **Outcome:** Arc IV opens with the party operating as balance agents. Their coalition-building is oriented toward restoration, not control. Factions that want to own the outcome will oppose them. Kain's entry in Arc IV is as an ally with a price, not an obstacle.
 
-**Tags:** `party_operative_truth: balance-through-sacrifice`, `chronoplast_access: committed`
+**Tags:** `party_operative_truth: balance-through-sacrifice`, `chronoplast_access: full`
 
 ---
 
@@ -66,7 +66,7 @@ The Chronoplast showed two futures. The party has been walking through Arc III c
 
 **Outcome:** Arc IV opens with the party as architects of a managed transition. Their coalition is smaller but more coherent. Anti-Hylden factions become active antagonists. The Glass Voice takes a stronger role in Arc IV negotiations. The ending available to this path includes the darkest win condition and the most coherent partial success.
 
-**Tags:** `party_operative_truth: hylden-reintegration`, `chronoplast_access: committed`
+**Tags:** `party_operative_truth: hylden-reintegration`, `chronoplast_access: full`
 
 ---
 
@@ -82,7 +82,7 @@ The Chronoplast showed two futures. The party has been walking through Arc III c
 
 **Outcome:** The party enters Arc IV without confirmed Kain-side backing. They are more agile politically but more exposed strategically. Their coalition choices in Arc IV become higher-stakes because they lack guaranteed support. The `party_operative_truth` tag records `undecided`, which activates a harder version of the coalition hall confrontation.
 
-**Tags:** `party_operative_truth: undecided`, `chronoplast_access: deferred`
+**Tags:** `party_operative_truth: undecided`, `chronoplast_access: partial`
 
 ---
 
@@ -96,7 +96,7 @@ The Chronoplast showed two futures. The party has been walking through Arc III c
 
 **After this, the party still must choose from A, B, or C.** But if they choose A or B immediately after Iriane's answer — if the answer moves them — the tag value gains a suffix: `party_operative_truth: balance-through-sacrifice (chosen under testimony)` or `party_operative_truth: hylden-reintegration (chosen under testimony)`. This has a small mechanical carry. In Arc IV Coalition Hall, Iriane will speak for them without being asked.
 
-**Tags:** `party_operative_truth: [inherits from A or B above, with testimony suffix if chosen immediately]`
+**Tags:** `party_operative_truth: balance-through-sacrifice (chosen under testimony)` — if Choice A follows; `party_operative_truth: hylden-reintegration (chosen under testimony)` — if Choice B follows; `party_operative_truth: undecided` — if Choice C follows
 
 ---
 
@@ -114,9 +114,9 @@ At the end of this scene, the Arc III state tracker should be finalized:
 
 | Final Tag | Carry-Forward Effect in Arc IV |
 |-----------|-------------------------------|
-| `chronoplast_access` | `committed` — party operates on their chosen account; `deferred` — party is still revising; `denied` (if Vignette 01 outcome) — party has only partial Chronoplast intelligence |
-| `chronal_shard_fate` | `secured`, `broken`, `given` — where the fragment is; modifies Heart assembly possibility in Arc IV |
-| `wheel_exposure` | `broken` — Wheel enters Arc IV as combatant, not philosophy; `named` — Wheel is publicly accused but not dismantled; `hidden` — Wheel appears in Arc IV with all prior infrastructure intact |
+| `chronoplast_access` | `full` — party operates on their chosen account; `partial` — party is still revising; `denied` (if Vignette 01 outcome) — party has only partial Chronoplast intelligence |
+| `chronal_shard_fate` | `recovered`, `destroyed`, `lost` — where the fragment is; modifies Heart assembly possibility in Arc IV |
+| `wheel_exposure` | `broken` — Wheel enters Arc IV as combatant, not philosophy; `named` — Wheel is publicly accused but not dismantled; `concealed` — Wheel appears in Arc IV with all prior infrastructure intact |
 | `party_operative_truth` | Freeform — Arc IV opens with the GM having this string and using it to anchor every faction's opening posture to the party |
 | `betrayal_resolved` | `absorbed`/`severed`/`weaponized`/`unresolved` — determines Witness's Arc IV availability and behavior |
 
