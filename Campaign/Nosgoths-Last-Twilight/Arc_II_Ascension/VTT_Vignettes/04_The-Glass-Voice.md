@@ -2,7 +2,12 @@
 
 The Hylden do not threaten first. They explain. The Glass Voice arrives through a device, a possessed intermediary, or a projection that speaks with patient, alien clarity about the mechanics of the breach and the precise logic of what it is asking. The problem is not that its reasoning is wrong. The problem is what accepting even one premise commits the party to.
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v04-what-the-glass-voice-offers](../07_Vignette-Flow-Matrix.md#v04-what-the-glass-voice-offers)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v04-what-the-glass-voice-offers](../08_Detailed-Vignette-Consequence-Matrix.md#v04-what-the-glass-voice-offers)
+- State tracker tags: [`hylden_engagement`](../Arc_II_VTT-State.md#hylden_engagement), [`ash_glass_reach`](../Arc_II_VTT-State.md#ash_glass_reach), [`iron_echo_status`](../Arc_II_VTT-State.md#iron_echo_status)
+
 
 ## Scene Info
 

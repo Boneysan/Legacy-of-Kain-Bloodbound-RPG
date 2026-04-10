@@ -10,6 +10,8 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Ascension.
 - Kain usage: distant strategic pressure or one intervention that reframes the northern crisis
 - Recurring cast: see 02_NPC-Appendix.md
 - Detailed encounter planning: see 03_Encounter-Guide.md
+- Vignette control sheet: see 07_Vignette-Flow-Matrix.md
+- Detailed Arc II choice fallout: see 08_Detailed-Vignette-Consequence-Matrix.md
 - Fracture front: use the Ash-Glass Procession as the recurring Fracture face, with Ash-Glass Reth converting survivors and carrying Elder Seripha's doctrine from the fortress roads into the northern breach.
 
 ## Session 1

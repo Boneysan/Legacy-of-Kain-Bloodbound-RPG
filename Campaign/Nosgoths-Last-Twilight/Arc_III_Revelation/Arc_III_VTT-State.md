@@ -18,6 +18,7 @@ Update this file after each vignette resolves. In Arc III, story-state tracks no
 
 ## Arc III Story-State Tags
 
+<a id="chronoplast_access"></a>
 ### `chronoplast_access`
 Tracks what the party was able to learn and how reliably at the Chronoplast.
 
@@ -33,6 +34,7 @@ Tracks what the party was able to learn and how reliably at the Chronoplast.
 
 ---
 
+<a id="chronal_shard_fate"></a>
 ### `chronal_shard_fate`
 Tracks what happened to the Chronal Shard during Arc III.
 
@@ -49,6 +51,7 @@ Tracks what happened to the Chronal Shard during Arc III.
 
 ---
 
+<a id="wheel_exposure"></a>
 ### `wheel_exposure`
 Tracks whether the Cult of the Wheel's true agenda has been made public or politically live.
 
@@ -64,6 +67,7 @@ Tracks whether the Cult of the Wheel's true agenda has been made public or polit
 
 ---
 
+<a id="party_operative_truth"></a>
 ### `party_operative_truth`
 The single most important Arc III tag: which mutually exclusive future did the party treat as *real* — the one they acted on?
 
@@ -75,6 +79,7 @@ ___
 
 ---
 
+<a id="betrayal_resolved"></a>
 ### `betrayal_resolved`
 Tracks how Arc III's internal betrayal resolved — when it clarified one arc while complicating the endgame.
 

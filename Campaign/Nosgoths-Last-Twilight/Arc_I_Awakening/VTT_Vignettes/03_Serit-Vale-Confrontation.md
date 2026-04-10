@@ -2,7 +2,12 @@
 
 After the ambush, the party has standing to ask for the truth. Serit Vale has been managing them, and they have had a chance to notice. This scene forces the first real negotiation over information: what she gives the party, and on what terms, shapes every conversation with the Accord from here forward.
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v03-what-serit-knows](../07_Vignette-Flow-Matrix.md#v03-what-serit-knows)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v03-what-serit-knows](../08_Detailed-Vignette-Consequence-Matrix.md#v03-what-serit-knows)
+- State tracker tags: [`serit_trust`](../Arc_I_VTT-State.md#serit_trust), [`reliquary_status`](../Arc_I_VTT-State.md#reliquary_status)
+
 
 ## Scene Info
 

@@ -2,7 +2,12 @@
 
 The Chronoplast does not lie. It shows two or more things that are all true, simultaneously, and asks which one the party is willing to treat as real enough to act on. This is the arc's central epistemological wound: not whether the future exists, but whether the party can be honest about which future they choose to believe because it is convenient.
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v03-what-the-machine-shows](../07_Vignette-Flow-Matrix.md#v03-what-the-machine-shows)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v03-what-the-machine-shows](../08_Detailed-Vignette-Consequence-Matrix.md#v03-what-the-machine-shows)
+- State tracker tags: [`chronoplast_access`](../Arc_III_VTT-State.md#chronoplast_access), [`chronal_shard_fate`](../Arc_III_VTT-State.md#chronal_shard_fate), [`wheel_exposure`](../Arc_III_VTT-State.md#wheel_exposure)
+
 
 ## Scene Info
 

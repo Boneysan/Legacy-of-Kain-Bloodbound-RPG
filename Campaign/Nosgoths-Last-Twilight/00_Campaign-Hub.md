@@ -5,6 +5,7 @@ This folder breaks the campaign into usable GM support files.
 ## Structure
 
 - 01_Design-Review-Notes.md: Lore and arc-structure improvement notes for future campaign revisions.
+- 02_Vignette-Control-Index.md: One-page links to each arc's vignette flow matrix and any detailed choice-consequence matrix.
 - Arc_I_Awakening: Early campaign pressure, Avernus, the Blood-Well, and first faction commitments.
 - Arc_II_Ascension: Fortress politics, clan legitimacy, and the northern Hylden breach.
 - Arc_III_Revelation: The Chronoplast, the Cult of the Wheel, and the truth behind the Heart.
@@ -18,15 +19,17 @@ Arc IV also includes an endgame adjudication matrix for resolving Wheel, Hylden,
 Each arc folder now also includes a session prep sheet you can update as sessions lock in.
 Each arc folder now also includes an NPC appendix for recurring cast and replacement guidance.
 Each arc folder now also includes an encounter guide with session-by-session encounter planning.
+Arc I, Arc II, Arc III, and Arc IV also include detailed vignette consequence matrices for exact downstream NPC, tag, and encounter routing.
 
 ## Recommended Workflow
 
 1. Read the main campaign file first.
-2. Use the current arc folder as your weekly planning space.
-3. Pull the matching encounter sheet when you want a ready-made battlefield with monsters and location already assigned.
-4. Update the faction tracker after every major session outcome.
-5. Update the relevant relic file the first time the party interacts with that fragment.
-6. Move unresolved consequences forward into the next arc before starting prep.
+2. Use 02_Vignette-Control-Index.md when you need the fastest route from vignette to encounter and tracker update.
+3. Use the current arc folder as your weekly planning space.
+4. Pull the matching encounter sheet when you want a ready-made battlefield with monsters and location already assigned.
+5. Update the faction tracker after every major session outcome.
+6. Update the relevant relic file the first time the party interacts with that fragment.
+7. Move unresolved consequences forward into the next arc before starting prep.
 
 ## Current Fragment Order
 

@@ -1,0 +1,17 @@
+# Arc III Vignette Flow Matrix
+
+Use this as the fast control sheet for Revelation. Run the vignette, update Arc_III_VTT-State.md, then pull the listed encounter or pressure scene before the next prep block.
+
+| Vignette | Session / trigger | Main decision pressure | Tags to update | Encounter handoff | Carry-forward checkpoint |
+|----------|-------------------|------------------------|----------------|-------------------|--------------------------|
+| 01 — Tracks in the Frost <a id="v01-tracks-in-the-frost"></a> | Session 1 approach to the Chronoplast with the Arc II contradiction in hand | Which contradiction framework the party accepts first: tracks, witness logic, skepticism, or the Wheel's calm | `chronoplast_access`, `betrayal_resolved` | Open with Encounters/Arc_III_Revelation/02_Time-Loop-Skirmish.md as the first proof that sequence is unstable. | Record which memory framework the party trusts before the machine itself speaks. |
+| 02 — What the Wheel Offers <a id="v02-what-the-wheel-offers"></a> | Session 2 Wheel settlement or shrine confrontation | Reject surrender, probe the Wheel's agenda, address a tempted ally, or accept respite | `wheel_exposure`, `betrayal_resolved` | Use Encounters/Arc_III_Revelation/03_Burial-Rite-Interruption.md or the same location as a pressure scene if combat never breaks. | Note who in the party's orbit is tempted, and whether the Wheel stays philosophical or becomes operationally visible. |
+| 03 — What the Machine Shows <a id="v03-what-the-machine-shows"></a> | Session 3 Chronoplast access and Chronal Shard contact | See both futures, expose manipulation, touch the Shard directly, or refuse machine authority | `chronoplast_access`, `chronal_shard_fate`, `wheel_exposure` | Run Encounters/Arc_III_Revelation/01_Chronoplast-Claim-Assault.md as the scramble for meaning, custody, or survival once the reading lands. | Record which future now feels actionable and who wants the Shard because of it. |
+| 04 — The Name in the Archive <a id="v04-the-name-in-the-archive"></a> | Session 3-4 betrayal confrontation | Absorb, sever, weaponize, or complicate the betrayal after the manipulated account is exposed | `betrayal_resolved`, `wheel_exposure` | Route to Encounters/Arc_III_Revelation/04_Corridor-of-Contradictions.md or an archive chase if the party pursues the witness, Curator Thess, or the last missing record. | Decide whether the Witness enters Arc IV as ally, document source, free agent, or active fracture. |
+| 05 — Which Future Is Real <a id="v05-which-future-is-real"></a> | Session 5 closing declaration before Arc IV | Commit to sacrifice, Hylden terms, or operational ambiguity | `party_operative_truth`, `chronoplast_access`, `chronal_shard_fate` | Close on Encounters/Arc_III_Revelation/05_Chronoplast-Exit-Fight.md if the arc needs pressure at the moment of commitment. | Finalize the operative truth that every Arc IV faction will read the party through. |
+
+## Fast Use
+
+- If `wheel_exposure` stays `concealed`, make the Wheel's next move personal and pastoral. If it becomes `named` or `broken`, make the next move political or violent.
+- If `chronal_shard_fate` is `recovered`, decide immediately who besides the party wants it. Leave no neutral vacuum around that result.
+- If `betrayal_resolved` remains `unresolved`, plan the rupture point in Arc IV before Arc III closes. Do not leave it ambient.

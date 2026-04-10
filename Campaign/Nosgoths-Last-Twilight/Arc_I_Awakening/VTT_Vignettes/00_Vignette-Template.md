@@ -2,6 +2,12 @@
 
 Use this template for all VTT branching vignettes. Short scenes (2–5 min) that fire at defined triggers, resolve through player choice, and write their outcome into the arc's story-state tracker. Do not extend a vignette beyond its natural length — let it close, tag the result, and move into the encounter or dialogue it feeds.
 
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v0x-scene-key](../07_Vignette-Flow-Matrix.md#v0x-scene-key)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v0x-scene-key](../08_Detailed-Vignette-Consequence-Matrix.md#v0x-scene-key)
+- State tracker tags: [`tag_name`](../Arc_I_VTT-State.md#tag_name), [`second_tag_name`](../Arc_I_VTT-State.md#second_tag_name)
+
 ---
 
 ## Scene Info

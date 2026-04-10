@@ -2,7 +2,12 @@
 
 The Cult of the Wheel's argument is not stupid. It is emotionally true in ways the party has earned the right to feel. This scene is a philosophy confrontation, not a cult exposure — the Wheel makes its clearest possible case for surrender, and the party must answer with more than refusal.
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v02-what-the-wheel-offers](../07_Vignette-Flow-Matrix.md#v02-what-the-wheel-offers)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v02-what-the-wheel-offers](../08_Detailed-Vignette-Consequence-Matrix.md#v02-what-the-wheel-offers)
+- State tracker tags: [`wheel_exposure`](../Arc_III_VTT-State.md#wheel_exposure), [`betrayal_resolved`](../Arc_III_VTT-State.md#betrayal_resolved)
+
 
 ## Scene Info
 

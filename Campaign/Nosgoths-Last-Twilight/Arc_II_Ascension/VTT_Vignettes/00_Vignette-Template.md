@@ -2,6 +2,12 @@
 
 Arc II vignettes stage the political and military confrontations that follow from Arc I's fragment choices. Scenes here tend to be confrontational or consequential — the party has standing, enemies have identified them, and every conversation is negotiation under pressure. The format is identical to the Arc I template; the register shifts from survival and revelation to legitimacy and leverage.
 
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v0x-scene-key](../07_Vignette-Flow-Matrix.md#v0x-scene-key)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v0x-scene-key](../08_Detailed-Vignette-Consequence-Matrix.md#v0x-scene-key)
+- State tracker tags: [`tag_name`](../Arc_II_VTT-State.md#tag_name), [`second_tag_name`](../Arc_II_VTT-State.md#second_tag_name)
+
 ---
 
 ## Scene Info

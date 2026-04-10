@@ -2,7 +2,12 @@
 
 The betrayal in Arc III does not arrive as a villain reveal. It arrives as an explanation. Someone the party had reason to trust has been carrying a curated lie, a necessary false memory, or a prophecy fragment shaped by Moebian interference — and they knew, at some level, and said nothing. This scene is that conversation.
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v04-the-name-in-the-archive](../07_Vignette-Flow-Matrix.md#v04-the-name-in-the-archive)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v04-the-name-in-the-archive](../08_Detailed-Vignette-Consequence-Matrix.md#v04-the-name-in-the-archive)
+- State tracker tags: [`betrayal_resolved`](../Arc_III_VTT-State.md#betrayal_resolved), [`wheel_exposure`](../Arc_III_VTT-State.md#wheel_exposure)
+
 
 ## Scene Info
 

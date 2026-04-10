@@ -10,6 +10,8 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Awakening.
 - Kain usage: one appearance at most, and only if it changes the party's understanding of what is happening
 - Recurring cast: see 02_NPC-Appendix.md
 - Detailed encounter planning: see 03_Encounter-Guide.md
+- Vignette control sheet: see 07_Vignette-Flow-Matrix.md
+- Detailed Arc I choice fallout: see 08_Detailed-Vignette-Consequence-Matrix.md
 - Causality hierarchy: treat the cathedral as present cult control, the Blood-Well as the older Janos-linked blood site, the Sanguine Knot as the current activator, and Hash'ak'gik as contamination rather than origin.
 
 ## Session 1

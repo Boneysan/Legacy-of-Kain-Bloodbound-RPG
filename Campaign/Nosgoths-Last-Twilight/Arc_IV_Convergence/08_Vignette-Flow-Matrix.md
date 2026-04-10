@@ -1,0 +1,17 @@
+# Arc IV Vignette Flow Matrix
+
+Use this as the fast control sheet for Convergence. Run the vignette, update Arc_IV_VTT-State.md, then pull the listed encounter, examination, or end-state branch before the next prep block.
+
+| Vignette | Session / trigger | Main decision pressure | Tags to update | Encounter handoff | Carry-forward checkpoint |
+|----------|-------------------|------------------------|----------------|-------------------|--------------------------|
+| 01 — Everyone Comes to the Heath <a id="v01-everyone-comes-to-the-heath"></a> | Session 1 opening coalition convergence | Whether the party arrives unified, fractured, advised, or unanchored | `coalition_shape`, `wheel_final_state` | If negotiations break or are meant to cost blood immediately, use Encounters/Arc_IV_Convergence/02_Endgame-Parley-Break.md. | Record whether Merel is anchoring the party, merely observing them, or letting every faction rush them at once. |
+| 02 — The Hall Tests the Coalition <a id="v02-the-hall-tests-the-coalition"></a> | Session 2 Hall recognition | Named accountability, collective accountability, partial recognition, or witness-anchored record | `black_fulcrum_status`, `coalition_shape` | Mostly procedural, but the result determines whether the path to the Hall stays formal or becomes a harder crisis route in later sessions. | Decide whether the Hall recognizes the account, tolerates it provisionally, or withholds standing. |
+| 03 — What Reth Wants <a id="v03-what-reth-wants"></a> | Session 2-3 private Procession approach | Structure, inclusion, Reth's alternative, or named grief | `coalition_shape`, `wheel_final_state`, `hylden_gate_resolution` | No direct fight by default; this modifies whether the Procession interferes with Encounters/Arc_IV_Convergence/03_Road-to-the-Hall.md and the final execution scenes. | Record whether Reth becomes neutral, hostile, or a policy counterweight the party can cite in the Hall. |
+| 04 — Fulcrum Contact <a id="v04-fulcrum-contact"></a> | Session 3 examination of the coalition's account | Whether the party can defend their stated purpose under Merel's three questions | `black_fulcrum_status`, `heart_purpose`, `coalition_shape` | If the examination is pressured by outside action, use Encounters/Arc_IV_Convergence/04_Black-Fulcrum-Chamber-Crisis.md rather than a static room. | Record whether Sevran or Kain backs the final session, and whether the coalition's account is defensible, conditional, or unfounded. |
+| 05 — The Heart Is For <a id="v05-the-heart-is-for"></a> | Session 5 final declaration with the Heart assembled | Pillar restoration, structured Gate opening, foreclosure, or failed declaration | `heart_purpose`, `hylden_gate_resolution`, `wheel_final_state` | Execute the chosen ending under Encounters/Arc_IV_Convergence/01_Pillar-Heath-Seal-Breaker-Push.md if battlefield pressure is active, then use Encounters/Arc_IV_Convergence/05_Last-Pursuit-or-Mercy-Scene.md for the last personal consequence. | Write the campaign end-state paragraph in Arc_IV_VTT-State.md immediately after the declaration lands. |
+
+## Fast Use
+
+- If `coalition_shape` is process-heavy but not yet assessed, do not skip the assessment step at the close of Vignette 04. Arc IV breaks if the coalition never gets a final shape.
+- If `black_fulcrum_status` is `unfounded`, treat every final ally as conditional and every final opponent as emboldened.
+- Use 03_Endgame-Adjudication-Matrix.md after Vignette 04, not before. The party's real priority is only legible once the Fulcrum contact is complete.

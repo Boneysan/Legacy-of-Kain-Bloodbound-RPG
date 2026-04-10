@@ -2,7 +2,12 @@
 
 The relic does not announce itself. It identifies. One character feels something on the road or near the cargo that is too specific to be coincidence — a name spoken in a dead voice, a warmth in the wrong place, a vision pulling at something inherited rather than learned. This vignette is a solo aside. Run it privately if possible. What the affected PC decides to do with the experience is the choice.
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v04-first-blood-memory](../07_Vignette-Flow-Matrix.md#v04-first-blood-memory)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v04-first-blood-memory](../08_Detailed-Vignette-Consequence-Matrix.md#v04-first-blood-memory)
+- State tracker tags: [`reliquary_status`](../Arc_I_VTT-State.md#reliquary_status), [`serit_trust`](../Arc_I_VTT-State.md#serit_trust)
+
 
 ## Scene Info
 

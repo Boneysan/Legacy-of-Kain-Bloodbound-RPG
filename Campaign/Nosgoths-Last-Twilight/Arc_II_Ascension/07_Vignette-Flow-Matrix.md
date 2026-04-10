@@ -1,0 +1,17 @@
+# Arc II Vignette Flow Matrix
+
+Use this as the fast control sheet for Ascension. Run the vignette, update Arc_II_VTT-State.md, then pull the listed encounter or branch before the next prep block.
+
+| Vignette | Session / trigger | Main decision pressure | Tags to update | Encounter handoff | Carry-forward checkpoint |
+|----------|-------------------|------------------------|----------------|-------------------|--------------------------|
+| 01 — Whose Leave <a id="v01-whose-leave"></a> | Session 1 gate challenge at Dumah's Fortress | Public alignment, neutrality, or refusal under rival claimants | `fortress_claim`, `ash_glass_reach` | Start with Encounters/Arc_II_Ascension/01_Empty-Throne-Gate.md. If Sarafan pressure turns the arrival into public custody theater, branch to Encounters/Arc_II_Ascension/02_Fortress-Gate-Purge.md. | Record who sheltered the party, who saw it, and whether the Procession now has a read on the outsiders. |
+| 02 — The Loyalty Test <a id="v02-the-loyalty-test"></a> | Session 2 claimant request or neutral tasking | Whether the party become an instrument, broker, or disruption point inside fortress politics | `fortress_claim`, `iron_echo_status`, `sarafan_bloc` | Run Encounters/Arc_II_Ascension/05_Claimants-Test.md by default. Swap to Encounters/Arc_II_Ascension/02_Fortress-Gate-Purge.md if the task becomes public Sarafan justification instead of internal testing. | Log who now knows the Iron Echo chamber location and whether Maelin Rook's private line is open. |
+| 03 — What Command Sounds Like <a id="v03-what-command-sounds-like"></a> | Session 3 first Iron Echo contact | Claimant validation, party legitimacy, refusal, or oath exposure | `iron_echo_status`, `fortress_claim`, `sarafan_bloc` | Route into Encounters/Arc_II_Ascension/06_Iron-Echo-Chamber-Crisis.md. Use the chamber's result to decide who travels north as ally, envoy, prisoner, or burden. | Record whether the Echo is now public memory, sealed leverage, or contested proof. |
+| 04 — What the Glass Voice Offers <a id="v04-what-the-glass-voice-offers"></a> | Session 5 breach negotiation interface | Whether the party reject, investigate, or technically engage Hylden terms | `hylden_engagement`, `ash_glass_reach` | Pull Encounters/Arc_II_Ascension/04_Rift-Line-Emergency.md first. Only the negotiated branch should unlock redirection as a technically legible Session 6 option. | Note which PC or faction the Hylden now consider a usable interlocutor. |
+| 05 — The Breach Answer <a id="v05-the-breach-answer"></a> | Session 6 breach execution under pressure | Seal, redirect, deny leverage, or accept open failure | `hylden_engagement`, `ash_glass_reach`, `iron_echo_status` | Close through Encounters/Arc_II_Ascension/03_Breach-on-the-Northern-Ice.md, optionally layered with Encounters/Arc_II_Ascension/04_Rift-Line-Emergency.md for a full crisis finish. | Write the contradiction that forces Arc III: the witness, record, wound, or prophecy no normal history can hold. |
+
+## Fast Use
+
+- Session 4 is the march-and-fallout buffer. Use the results of Vignette 03 to decide who comes north, what baggage follows, and how much fortress politics infect the frontier.
+- If `sarafan_bloc` opens a private line, spend it once on warning or procedural cover before the hardliners erase it.
+- If `hylden_engagement` becomes `negotiated`, treat that as a technical unlock and a political liability at the same time. Do not give the party one without the other.

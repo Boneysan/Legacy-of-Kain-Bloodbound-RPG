@@ -6,6 +6,7 @@ Update this file after each vignette resolves. At the start of each session, rev
 
 ## Story-State Tags
 
+<a id="serit_trust"></a>
 ### `serit_trust`
 Tracks Serit Vale's level of openness with the party. Affects her warning behavior, information access, and Arc II Accord cooperation.
 
@@ -23,6 +24,7 @@ Tracks Serit Vale's level of openness with the party. Affects her warning behavi
 
 ---
 
+<a id="guild_pressure"></a>
 ### `guild_pressure`
 Tracks the Outlands Guilds' posture toward the party. Affects Mera Ash's behavior and whether the Guilds send a second operative in Arc II.
 
@@ -39,6 +41,7 @@ Tracks the Outlands Guilds' posture toward the party. Affects Mera Ash's behavio
 
 ---
 
+<a id="sarafan_attention"></a>
 ### `sarafan_attention`
 Tracks how many confirmed data points the Sarafan Order has about the party and the fragment. Feeds the Sarafan Purge Clock.
 
@@ -56,6 +59,7 @@ Tracks how many confirmed data points the Sarafan Order has about the party and 
 
 ---
 
+<a id="reliquary_status"></a>
 ### `reliquary_status`
 Tracks what the party knows and has done with the Sanguine Knot — both physically and informationally.
 
@@ -74,6 +78,7 @@ Tracks what the party knows and has done with the Sanguine Knot — both physica
 
 ---
 
+<a id="public_story"></a>
 ### `public_story`
 Tracks what people outside the party believe happened at Avernus and on the caravan road. Affects witness behavior, cult response posture, Sarafan intelligence quality, and what the party can credibly claim in Session 6.
 

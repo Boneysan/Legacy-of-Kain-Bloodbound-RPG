@@ -2,7 +2,12 @@
 
 The contradiction from Arc II does not wait for a convenient moment. This scene fires the moment the party enters time-scarred territory and encounters matter they expected to find ahead of them already behind them, or memory that the rest of the group insists hasn't happened yet. The ground here has stopped agreeing with itself, and the party's first task is not to panic.
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v01-tracks-in-the-frost](../07_Vignette-Flow-Matrix.md#v01-tracks-in-the-frost)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v01-tracks-in-the-frost](../08_Detailed-Vignette-Consequence-Matrix.md#v01-tracks-in-the-frost)
+- State tracker tags: [`chronoplast_access`](../Arc_III_VTT-State.md#chronoplast_access), [`betrayal_resolved`](../Arc_III_VTT-State.md#betrayal_resolved)
+
 
 ## Scene Info
 

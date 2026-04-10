@@ -2,7 +2,12 @@
 
 Both claimants need something from the party, and the fortress is watching. Before access to the Iron Echo becomes possible, the party must demonstrate at minimum that they are useful and at most that their presence here is worth the political cost it imposes on whoever shelters them. The task assigned is the test. What the party does with the assignment is the answer.
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v02-the-loyalty-test](../07_Vignette-Flow-Matrix.md#v02-the-loyalty-test)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v02-the-loyalty-test](../08_Detailed-Vignette-Consequence-Matrix.md#v02-the-loyalty-test)
+- State tracker tags: [`fortress_claim`](../Arc_II_VTT-State.md#fortress_claim), [`iron_echo_status`](../Arc_II_VTT-State.md#iron_echo_status), [`sarafan_bloc`](../Arc_II_VTT-State.md#sarafan_bloc)
+
 
 ## Scene Info
 

@@ -2,7 +2,12 @@
 
 The Iron Echo does not award authority. It locates it — or the absence of it. The fragment has been waiting in the fortress for someone with enough unbroken oath to enter the chamber cleanly, and it has been a long time since anyone here qualified. This scene is the first contact, and the price is not physical.
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v03-what-command-sounds-like](../07_Vignette-Flow-Matrix.md#v03-what-command-sounds-like)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v03-what-command-sounds-like](../08_Detailed-Vignette-Consequence-Matrix.md#v03-what-command-sounds-like)
+- State tracker tags: [`iron_echo_status`](../Arc_II_VTT-State.md#iron_echo_status), [`fortress_claim`](../Arc_II_VTT-State.md#fortress_claim)
+
 
 ## Scene Info
 

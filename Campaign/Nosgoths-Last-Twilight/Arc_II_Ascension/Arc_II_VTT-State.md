@@ -20,6 +20,7 @@ Record the closing Arc I tag values here before play begins.
 
 ## Arc II Story-State Tags
 
+<a id="fortress_claim"></a>
 ### `fortress_claim`
 Tracks how the Dumah's Fortress dispute resolved. Feeds clan posture, Iron Echo access, and who controls military passage northward.
 
@@ -38,6 +39,7 @@ Tracks how the Dumah's Fortress dispute resolved. Feeds clan posture, Iron Echo 
 
 ---
 
+<a id="iron_echo_status"></a>
 ### `iron_echo_status`
 Tracks what happened to the Iron Echo fragment during the fortress arc.
 
@@ -56,6 +58,7 @@ Tracks what happened to the Iron Echo fragment during the fortress arc.
 
 ---
 
+<a id="hylden_engagement"></a>
 ### `hylden_engagement`
 Tracks how the party handled first Hylden contact at the Rift Ember breach.
 
@@ -74,6 +77,7 @@ Tracks how the party handled first Hylden contact at the Rift Ember breach.
 
 ---
 
+<a id="sarafan_bloc"></a>
 ### `sarafan_bloc`
 Tracks which Sarafan faction now sees the party as useful vs. an active target.
 
@@ -91,6 +95,7 @@ Tracks which Sarafan faction now sees the party as useful vs. an active target.
 
 ---
 
+<a id="ash_glass_reach"></a>
 ### `ash_glass_reach`
 Tracks whether the Crimson Fracture's Ash-Glass Procession gained meaningful access to Arc II events.
 

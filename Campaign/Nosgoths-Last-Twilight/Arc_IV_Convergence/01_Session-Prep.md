@@ -11,6 +11,8 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 - Recurring cast: see 02_NPC-Appendix.md
 - Detailed encounter planning: see 04_Encounter-Guide.md
 - GM tool: use 03_Endgame-Adjudication-Matrix.md once Session 3 fixes the party's real priority and again in Session 5 when final fallout is narrated.
+- Vignette control sheet: see 08_Vignette-Flow-Matrix.md
+- Detailed Arc IV choice fallout: see 09_Detailed-Vignette-Consequence-Matrix.md
 
 ## Session 1
 

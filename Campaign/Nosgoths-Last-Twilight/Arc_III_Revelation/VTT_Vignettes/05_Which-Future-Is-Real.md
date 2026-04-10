@@ -2,7 +2,12 @@
 
 The Chronoplast showed two futures. The party has been walking through Arc III carrying the knowledge that both are possible, that neither eliminated the other, and that the Heart of Nosgoth cannot fulfil both at once. This scene does not resolve that contradiction. It asks the party to choose which future they will act as though is real — knowing they may be wrong — before Arc IV makes the choice for them in a form they can't revise.
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v05-which-future-is-real](../07_Vignette-Flow-Matrix.md#v05-which-future-is-real)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v05-which-future-is-real](../08_Detailed-Vignette-Consequence-Matrix.md#v05-which-future-is-real)
+- State tracker tags: [`party_operative_truth`](../Arc_III_VTT-State.md#party_operative_truth), [`chronoplast_access`](../Arc_III_VTT-State.md#chronoplast_access)
+
 
 ## Scene Info
 

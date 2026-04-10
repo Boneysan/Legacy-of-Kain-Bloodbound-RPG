@@ -2,7 +2,12 @@
 
 The fortress does not grant entry. It interrogates arrivals. Before the party can plan, find shelter, or locate the Iron Echo, they must answer the first political question Dumah's Fortress has been asking since its last lord fell: under whose authority do you stand here?
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v01-whose-leave](../07_Vignette-Flow-Matrix.md#v01-whose-leave)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v01-whose-leave](../08_Detailed-Vignette-Consequence-Matrix.md#v01-whose-leave)
+- State tracker tags: [`fortress_claim`](../Arc_II_VTT-State.md#fortress_claim)
+
 
 ## Scene Info
 

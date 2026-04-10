@@ -2,7 +2,12 @@
 
 The Hall of Equilibrium does not make decisions. It asks whether the people claiming to make them are honest about what they are claiming. Warden Asha Merel has been authorized to admit one coalition for formal proceedings — one unified group with one account of what the Heart is for. This scene is the Hall's assessment. It is not a hearing. It is a test of whether the party's coalition is real enough to be accountable for.
 
----
+## Control Links
+
+- Fast flow: [../08_Vignette-Flow-Matrix.md#v02-the-hall-tests-the-coalition](../08_Vignette-Flow-Matrix.md#v02-the-hall-tests-the-coalition)
+- Detailed fallout: [../09_Detailed-Vignette-Consequence-Matrix.md#v02-the-hall-tests-the-coalition](../09_Detailed-Vignette-Consequence-Matrix.md#v02-the-hall-tests-the-coalition)
+- State tracker tags: [`black_fulcrum_status`](../Arc_IV_VTT-State.md#black_fulcrum_status), [`coalition_shape`](../Arc_IV_VTT-State.md#coalition_shape)
+
 
 ## Scene Info
 

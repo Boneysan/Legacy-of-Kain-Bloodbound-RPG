@@ -19,6 +19,7 @@ The final tracker. Arc IV has no Carry Forward — it has outcomes. Use this fil
 
 ## Arc IV Story-State Tags
 
+<a id="coalition_shape"></a>
 ### `coalition_shape`
 Tracks the party's coalition status through the Heath proceedings and into the final confrontation. Vignettes 01–03 write *process values* as the coalition forms; the *assessment value* summarises the coalition’s overall shape at the close of Vignette 04.
 
@@ -55,6 +56,7 @@ Tracks the party's coalition status through the Heath proceedings and into the f
 
 ---
 
+<a id="black_fulcrum_status"></a>
 ### `black_fulcrum_status`
 Tracks the coalition’s examination record status at the Hall of Coalition — which determines how the Fulcrum examination proceeds and what Kain-side backing is available for the final session. *Physical custody of the Black Fulcrum artifact, if relevant to your campaign, should be noted in GM Notes rather than this tag.*
 
@@ -82,6 +84,7 @@ Tracks the coalition’s examination record status at the Hall of Coalition — 
 
 ---
 
+<a id="hylden_gate_resolution"></a>
 ### `hylden_gate_resolution`
 Tracks the final state of the Hylden Gate threat.
 
@@ -101,6 +104,7 @@ Tracks the final state of the Hylden Gate threat.
 
 ---
 
+<a id="wheel_final_state"></a>
 ### `wheel_final_state`
 Tracks the Cult of the Wheel’s condition at campaign close.
 
@@ -121,6 +125,7 @@ Tracks the Cult of the Wheel’s condition at campaign close.
 
 ---
 
+<a id="heart_purpose"></a>
 ### `heart_purpose`
 The single most important Arc IV tag: what did the party decide the complete Heart of Darkness is *for*?
 

@@ -2,7 +2,12 @@
 
 The fragment has been secured — or it nearly has been. Before Session 5 closes and before the arc resolves its central custody question through the formal Choice Guide entry, this vignette stages the conversation about *who should hold it going forward.* This is the political moment. Every faction represented in the room has a position, some spoken and some not.
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v05-who-carries-the-knot](../07_Vignette-Flow-Matrix.md#v05-who-carries-the-knot)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v05-who-carries-the-knot](../08_Detailed-Vignette-Consequence-Matrix.md#v05-who-carries-the-knot)
+- State tracker tags: [`reliquary_status`](../Arc_I_VTT-State.md#reliquary_status), [`guild_pressure`](../Arc_I_VTT-State.md#guild_pressure), [`public_story`](../Arc_I_VTT-State.md#public_story), [`serit_trust`](../Arc_I_VTT-State.md#serit_trust), [`sarafan_attention`](../Arc_I_VTT-State.md#sarafan_attention)
+
 
 ## Scene Info
 

@@ -2,6 +2,12 @@
 
 Arc IV vignettes stage mythic-register confrontations: final offers, irreconcilable demands, and the weight of every prior choice arriving at once. Scenes here are short because the game has been building to them for three arcs — they don't need exposition, only clarity. The format is identical to the Arc I template; the register shifts from revelatory to adjudicatory. Every choice in Arc IV is a statement about what the party believes Nosgoth is worth.
 
+## Control Links
+
+- Fast flow: [../08_Vignette-Flow-Matrix.md#v0x-scene-key](../08_Vignette-Flow-Matrix.md#v0x-scene-key)
+- Detailed fallout: [../09_Detailed-Vignette-Consequence-Matrix.md#v0x-scene-key](../09_Detailed-Vignette-Consequence-Matrix.md#v0x-scene-key)
+- State tracker tags: [`tag_name`](../Arc_IV_VTT-State.md#tag_name), [`second_tag_name`](../Arc_IV_VTT-State.md#second_tag_name)
+
 ---
 
 ## Scene Info

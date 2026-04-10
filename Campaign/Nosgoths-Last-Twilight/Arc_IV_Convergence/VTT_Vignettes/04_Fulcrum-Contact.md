@@ -2,7 +2,12 @@
 
 The Black Fulcrum is not a faction. It is an assessment. When the balance-relevant decision becomes immediate — when the Heart is assembled and the party has a coalition recognized or contested, and an account logged with the Hall — the Fulcrum convenes. This scene is the rendering of all prior arc choices into a single structured judgment: can the party defend their account to someone who has read everything, has no stake in the outcome, and will ask the question no one else has been willing to ask?
 
----
+## Control Links
+
+- Fast flow: [../08_Vignette-Flow-Matrix.md#v04-fulcrum-contact](../08_Vignette-Flow-Matrix.md#v04-fulcrum-contact)
+- Detailed fallout: [../09_Detailed-Vignette-Consequence-Matrix.md#v04-fulcrum-contact](../09_Detailed-Vignette-Consequence-Matrix.md#v04-fulcrum-contact)
+- State tracker tags: [`black_fulcrum_status`](../Arc_IV_VTT-State.md#black_fulcrum_status), [`heart_purpose`](../Arc_IV_VTT-State.md#heart_purpose), [`coalition_shape`](../Arc_IV_VTT-State.md#coalition_shape)
+
 
 ## Scene Info
 

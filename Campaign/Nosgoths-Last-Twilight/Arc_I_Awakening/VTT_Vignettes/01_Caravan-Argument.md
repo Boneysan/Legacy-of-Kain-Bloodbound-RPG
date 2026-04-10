@@ -2,17 +2,16 @@
 
 The road to Avernus demands a choice before the first blood falls. Whether to press through the dark or shelter at the milestone shrines is not a tactical question — it is the first measure of what the party will trade for speed, and what it will not. Serit wants speed. Mera wants clarity. The cargo wants both, and neither.
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v01-caravan-argument](../07_Vignette-Flow-Matrix.md#v01-caravan-argument)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v01-caravan-argument](../08_Detailed-Vignette-Consequence-Matrix.md#v01-caravan-argument)
+- State tracker tags: [`serit_trust`](../Arc_I_VTT-State.md#serit_trust), [`sarafan_attention`](../Arc_I_VTT-State.md#sarafan_attention), [`reliquary_status`](../Arc_I_VTT-State.md#reliquary_status)
+
 
 ## Scene Info
 
-- **Arc / Session:** Arc I — Session 1
-- **Trigger:** The party has been travelling together long enough for fault lines to show. The road splits or the horses refuse. One wagon wheel begins to scream. Avernus is visible through mist but not close.
-- **Scene Type:** `setup`
-- **Est. Duration:** 3–5 min
-- **Tags This Scene Can Change:** `serit_trust`, `sarafan_attention`
 
----
 
 ## Cast
 

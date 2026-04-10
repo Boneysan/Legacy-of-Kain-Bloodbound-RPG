@@ -2,7 +2,12 @@
 
 This is the last vignette. The Heart of Nosgoth is assembled, the Fulcrum has rendered its finding, the coalition has been tested, and the party now knows what the Heart can do. This scene asks what it should do. It is not a battle. It is a decision at the end of everything the campaign has built — and it must feel like that: consequential, earned, and final in the way that decisions are final when there is no revision available.
 
----
+## Control Links
+
+- Fast flow: [../08_Vignette-Flow-Matrix.md#v05-the-heart-is-for](../08_Vignette-Flow-Matrix.md#v05-the-heart-is-for)
+- Detailed fallout: [../09_Detailed-Vignette-Consequence-Matrix.md#v05-the-heart-is-for](../09_Detailed-Vignette-Consequence-Matrix.md#v05-the-heart-is-for)
+- State tracker tags: [`heart_purpose`](../Arc_IV_VTT-State.md#heart_purpose), [`hylden_gate_resolution`](../Arc_IV_VTT-State.md#hylden_gate_resolution), [`wheel_final_state`](../Arc_IV_VTT-State.md#wheel_final_state)
+
 
 ## Scene Info
 

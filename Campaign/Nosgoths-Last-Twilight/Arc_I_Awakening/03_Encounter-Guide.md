@@ -18,6 +18,15 @@ Use this document when you want the encounter plan for each Awakening session in
 - Core objective: Expose the false benefactor before the Vessel escapes into the larger refuge population or completes a possession rite.
 - Escalation option: If the suspect is identified early, run the encounter as a chase through crypt stairs and medical wards rather than a chapel stand-up fight.
 
+## Interstitial Branch: Purge at First Light
+
+- Primary location: Half-burned hamlet, outer hospice quarter, or any visible surface settlement on Avernus's edge.
+- Primary encounter: Use Encounters/Arc_I_Awakening/03_Purge-at-First-Light.md.
+- Use when: `public_story` is `panic` or `open_truth`, `sarafan_attention` is `1+`, or the party let surface witnesses carry Blood-Well evidence into daylight before the descent or the exit.
+- Recommended lineup: 1 Sarafan Inquisitor, 1 Sarafan Outrider, and 1 Sarafan Footsoldier, with trapped civilians and one falsely accused target in the kill zone.
+- Core objective: Force the party to choose between rescue, escape, and public contradiction before the Order turns suspicion into doctrine.
+- Deployment note: Slot this between Sessions 2 and 3 when the surface story gets loud early, or use it in place of a quieter Session 6 road scene if Arc I closes under open scandal.
+
 ## Session 3: Blood-Channel Hold
 
 - Primary location: Flooded antechamber, narrow descent stair, or blood-channel junction beneath Avernus.

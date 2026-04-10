@@ -2,6 +2,12 @@
 
 Arc III vignettes stage interpretive confrontations: the party knows things now, but the Chronoplast and the Chronal Shard mean that what they know may not be trustworthy. Scenes here tend to involve revelation under pressure of unreliability — a truth that forces a choice between the evidence and the feeling, between what the faction says happened and what the fragment shows. The format is identical to the Arc I template; the register shifts from political leverage to epistemic weight.
 
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v0x-scene-key](../07_Vignette-Flow-Matrix.md#v0x-scene-key)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v0x-scene-key](../08_Detailed-Vignette-Consequence-Matrix.md#v0x-scene-key)
+- State tracker tags: [`tag_name`](../Arc_III_VTT-State.md#tag_name), [`second_tag_name`](../Arc_III_VTT-State.md#second_tag_name)
+
 ---
 
 ## Scene Info

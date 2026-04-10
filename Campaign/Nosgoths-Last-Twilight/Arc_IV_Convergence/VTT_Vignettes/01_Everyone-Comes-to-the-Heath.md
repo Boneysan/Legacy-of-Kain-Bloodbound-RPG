@@ -2,7 +2,12 @@
 
 The campaign has been moving toward this convergence since the first road split. Every faction that survived Arcs I–III has a position on what the Heart should be used for and who should hold it. This scene is the opening of that conversation — not the resolution, but the moment when the full shape of the coalition problem becomes visible at once. Every major surviving voice is present or represented. Every offer is genuine. None of them are compatible.
 
----
+## Control Links
+
+- Fast flow: [../08_Vignette-Flow-Matrix.md#v01-everyone-comes-to-the-heath](../08_Vignette-Flow-Matrix.md#v01-everyone-comes-to-the-heath)
+- Detailed fallout: [../09_Detailed-Vignette-Consequence-Matrix.md#v01-everyone-comes-to-the-heath](../09_Detailed-Vignette-Consequence-Matrix.md#v01-everyone-comes-to-the-heath)
+- State tracker tags: [`coalition_shape`](../Arc_IV_VTT-State.md#coalition_shape)
+
 
 ## Scene Info
 

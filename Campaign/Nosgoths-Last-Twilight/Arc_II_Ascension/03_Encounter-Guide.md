@@ -9,6 +9,15 @@ Use this document for session-by-session encounter planning across fortress poli
 - Recommended lineup: 2 Outcast Raiders, 1 Spellbound Golem, and 1 flex elite rival tied to the claimant who reaches the party first.
 - Core objective: Make the gate itself test whether the party are taking possession, seeking legitimacy, or refusing the claim publicly.
 
+## Interstitial Branch: Fortress Gate Purge
+
+- Primary location: Gate tunnel and inner threshold of Dumah's Fortress.
+- Primary encounter: Use Encounters/Arc_II_Ascension/02_Fortress-Gate-Purge.md.
+- Use when: Sarafan hardliners convert the arrival or loyalty test into a public custody crisis because the party backed a claimant, exposed a scandal, or carried Arc I corruption suspicion into the gate scene.
+- Recommended lineup: 1 Sarafan Inquisitor, 4 Sarafan Footsoldiers, and 1 Sarafan Outrider.
+- Core objective: Hold the claimant, witness, or command sigil long enough to keep the Sarafan from defining the whole dispute as purge-worthy.
+- Deployment note: Run this as the escalation branch for Session 1 fallout, or as the violent version of Session 2's loyalty test when fortress politics stop being containable.
+
 ## Session 2: Claimant's Test
 
 - Primary location: Gate hall, sealed barracks, oath chamber, or duel gallery inside the fortress.

@@ -2,7 +2,12 @@
 
 By the time Ash-Glass Reth arrives with this question, the Procession is not small anymore. Every structure that failed in Arcs I and II recruited for it. The question Reth is asking is not whether the party will join — they know the answer to that — but whether the party will admit what they are trying to prevent, and whether what they're trying to prevent is actually distinguishable from what Reth is already doing in the parts of Nosgoth the party hasn't reached.
 
----
+## Control Links
+
+- Fast flow: [../08_Vignette-Flow-Matrix.md#v03-what-reth-wants](../08_Vignette-Flow-Matrix.md#v03-what-reth-wants)
+- Detailed fallout: [../09_Detailed-Vignette-Consequence-Matrix.md#v03-what-reth-wants](../09_Detailed-Vignette-Consequence-Matrix.md#v03-what-reth-wants)
+- State tracker tags: [`coalition_shape`](../Arc_IV_VTT-State.md#coalition_shape), [`wheel_final_state`](../Arc_IV_VTT-State.md#wheel_final_state), [`hylden_gate_resolution`](../Arc_IV_VTT-State.md#hylden_gate_resolution)
+
 
 ## Scene Info
 

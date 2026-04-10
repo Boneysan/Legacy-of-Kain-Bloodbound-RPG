@@ -2,7 +2,12 @@
 
 The breach does not care what the party wants. It cares what the party does. This is the scene where every strategic argument about the Rift Ember ends and the actual answer is enacted — seal, redirect, widen, or survive the failure — and the cost of that answer becomes immediately visible in the people and terrain around it.
 
----
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v05-the-breach-answer](../07_Vignette-Flow-Matrix.md#v05-the-breach-answer)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v05-the-breach-answer](../08_Detailed-Vignette-Consequence-Matrix.md#v05-the-breach-answer)
+- State tracker tags: [`hylden_engagement`](../Arc_II_VTT-State.md#hylden_engagement), [`iron_echo_status`](../Arc_II_VTT-State.md#iron_echo_status), [`ash_glass_reach`](../Arc_II_VTT-State.md#ash_glass_reach)
+
 
 ## Scene Info
 

@@ -2,6 +2,12 @@
 
 Hospitality in Nosgoth is never free. When Brother Halden opens the waystation door and the warmth inside is exactly what an exhausted party wants, the cost is already set. The question is not whether to accept — the road behind is closed by now — but what the party decides to do with suspicion when sleep is the other option.
 
+## Control Links
+
+- Fast flow: [../07_Vignette-Flow-Matrix.md#v02-false-refuge](../07_Vignette-Flow-Matrix.md#v02-false-refuge)
+- Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v02-false-refuge](../08_Detailed-Vignette-Consequence-Matrix.md#v02-false-refuge)
+- State tracker tags: [`reliquary_status`](../Arc_I_VTT-State.md#reliquary_status), [`public_story`](../Arc_I_VTT-State.md#public_story), [`sarafan_attention`](../Arc_I_VTT-State.md#sarafan_attention), [`serit_trust`](../Arc_I_VTT-State.md#serit_trust)
+
 ---
 
 ## Scene Info
