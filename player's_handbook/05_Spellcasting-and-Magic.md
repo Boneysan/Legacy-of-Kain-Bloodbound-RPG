@@ -103,7 +103,7 @@ Use your single Reaction per round to respond:
 ## 5.7 Resource Pools
 
 - **Soul Energy (SE):** Maximum = 3 + Will attribute + (Character Level / 2, rounded up). Start combat at maximum; regain via rest, soul shards, or channeling.
-- **Blood Points (BP):** Maximum = 4 + Blood attribute + (Character Level / 2, rounded up). Start combat at maximum (if not starved); regain via feeding or relics.
+- **Blood Points (BP):** Maximum = 4 + Shadow attribute + (Character Level / 2, rounded up). Start combat at maximum (if not starved); regain via feeding or relics.
 
 ## 5.8 Defining a "Scene" in Spellcasting
 

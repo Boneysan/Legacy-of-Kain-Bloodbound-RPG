@@ -127,7 +127,7 @@ Drakes are solitary hunters, but mated pairs will defend their nests to the deat
 - **Defense Value (DV)**: 5
 - **Difficulty Rating (DR)**: 2 (Physical saves), 1 (Mental saves)
 - **Movement**: 30 feet per turn (ground), 50 feet per turn (flying)
-- **Armor**: Heavy (scales, Armor 3 vs Physical, Armor 1 vs Elemental)
+- **Armor**: Heavy (scales, Armor: 3 vs Physical, Armor: 1 vs Elemental)
 - **Initiative:** 4
 - **SE**: N/A (abilities use the Recharge system rather than SE costs)
 - **BP**: N/A
@@ -165,7 +165,7 @@ Drakes are solitary hunters, but mated pairs will defend their nests to the deat
 ### Abilities
 **Flight**: The Drake can fly, ignoring ground-based obstacles and terrain. While flying, melee attackers have Disadvantage unless they can reach the Drake.
 
-**Armored Scales**: The Drake has Armor 3 vs Physical damage and Armor 1 vs Elemental damage. Attacks with the "Armor Piercing" property ignore this.
+**Armored Scales**: The Drake has Armor: 3 vs Physical damage and Armor: 1 vs Elemental damage. Attacks with the "Armor Piercing" property ignore this.
 
 **Territorial Roar**: Once per encounter, the Drake can roar intimidatingly. All enemies within 30 feet must pass a DR 2 Will save or be **Frightened** for 2 rounds.
 
@@ -271,7 +271,7 @@ Consuming Blight-Boar meat causes illness in mortals. Even vampires find their b
 - **Defense Value (DV)**: 3
 - **Difficulty Rating (DR)**: 2 (Physical saves, tough), 0 (Mental saves, mindless)
 - **Movement**: 35 feet per turn (charging boar)
-- **Armor**: Light (thick hide, Armor 1 vs Physical)
+- **Armor**: Light (thick hide, Armor: 1 vs Physical)
 - **Initiative:** 1
 - **SE**: N/A (abilities use the Recharge system rather than SE costs)
 - **BP**: N/A
@@ -291,7 +291,7 @@ Consuming Blight-Boar meat causes illness in mortals. Even vampires find their b
 ### Attacks
 **Necrotic Tusk Gore** (Fury 4 + Weapon Mastery 2 = 6d6)
 - Range: Weapon Mastery
-- Damage: 5 Physical + 2 Necrotic damage on success
+- Damage: 5 Physical + 2 Entropic damage on success
 - Effect: On Critical Hit (3+ successes), the target contracts **Blight Fever** (Disadvantage on Blood and Will saves for 24 hours, can be cured with medicine or magic).
 
 **Trampling Charge** (Fury 4 + Athletics 3 = 7d6, Recharge 5-6)
@@ -300,7 +300,7 @@ Consuming Blight-Boar meat causes illness in mortals. Even vampires find their b
 - Effect: The Boar charges in a straight line, attacking the first creature it reaches. If the attack hits, the target is knocked **Prone**.
 
 ### Abilities
-**Corruption Aura**: Any creature that starts its turn within 5 feet of the Blight-Boar takes 1 Necrotic damage automatically (no roll, represents disease and corruption).
+**Corruption Aura**: Any creature that starts its turn within 5 feet of the Blight-Boar takes 1 Entropic damage automatically (no roll, represents disease and corruption).
 
 **Unstoppable Charge**: When the Boar uses Trampling Charge, it cannot be stopped by opportunity attacks or terrain (it smashes through obstacles).
 
@@ -319,7 +319,7 @@ Consuming Blight-Boar meat causes illness in mortals. Even vampires find their b
 - Corrupted meat (dangerous to eat, but can be used in rituals) - **Trade Value**: 3 supplies
 
 ### Scaling Options
-**Blightlord Boar** (Elite, TV 7): +12 HP, increase Fury to 5. Corruption Aura radius increases to 10 feet and deals 2 Necrotic damage. Add "Plague Burst" ability (when killed, explodes in 15-foot radius, dealing 6 Necrotic damage to all creatures, DR 3 Blood save to halve).
+**Blightlord Boar** (Elite, TV 7): +12 HP, increase Fury to 5. Corruption Aura radius increases to 10 feet and deals 2 Entropic damage. Add "Plague Burst" ability (when killed, explodes in 15-foot radius, dealing 6 Entropic damage to all creatures, DR 3 Blood save to halve).
 
 *Cross-Reference: Blight-Boars are frequently found near areas of Hylden activity. See Chapter 6: Hylden Forces for related encounters.*
 
@@ -395,7 +395,7 @@ Unlike normal dogs, Bloodgullets are viciously intelligent. They can track prey 
 - Vampiric collar (if the Hound was owned by a vampire, may have insignia or tracking magic) - **Trade Value**: 15 supplies (or story clue)
 
 ### Scaling Options
-**Alpha Bloodgullet** (Elite, TV 8): +10 HP, increase Fury to 4, Tactics to 4. Add "Howl of Hunger" ability (once per encounter, all wounded creatures within 60 feet take 3 Necrotic damage automatically, and all allied Hounds gain +2 dice on next attack).
+**Alpha Bloodgullet** (Elite, TV 8): +10 HP, increase Fury to 4, Tactics to 4. Add "Howl of Hunger" ability (once per encounter, all wounded creatures within 60 feet take 3 Entropic damage automatically, and all allied Hounds gain +2 dice on next attack).
 
 ---
 
@@ -417,7 +417,7 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 - **Defense Value (DV)**: 4 (large target, slow)
 - **Difficulty Rating (DR)**: 3 (Physical saves, tough), 1 (Mental saves, dumb)
 - **Movement**: 30 feet per turn (slow and heavy)
-- **Armor**: Heavy (stone-like skin, Armor 3 vs Physical, Armor 1 vs Elemental)
+- **Armor**: Heavy (stone-like skin, Armor: 3 vs Physical, Armor: 1 vs Elemental)
 - **Initiative:** 1
 - **SE**: N/A (abilities use the Recharge system rather than SE costs)
 - **BP**: N/A
@@ -457,7 +457,7 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 
 **Size: Large**: The Troll occupies a 10-foot-by-10-foot space. It has 10-foot reach on melee attacks. Creatures can move through its space but treat it as difficult terrain.
 
-**Thick Hide**: The Troll has Armor 3 vs Physical damage and Armor 1 vs Elemental damage.
+**Thick Hide**: The Troll has Armor: 3 vs Physical damage and Armor: 1 vs Elemental damage.
 
 **Limited Intelligence**: The Troll has Disadvantage on Focus and Will-based rolls. It's easily tricked or distracted by clever players.
 
@@ -497,7 +497,7 @@ Despite their fearsome appearance, Bramblehide Bears are still animals. They can
 - **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 3 (Physical saves), 1 (Mental saves)
 - **Movement**: 35 feet per turn
-- **Armor**: Medium (bramble hide, Armor 2 vs Physical, creatures that attack in melee take 2 Physical damage from thorns)
+- **Armor**: Medium (bramble hide, Armor: 2 vs Physical, creatures that attack in melee take 2 Physical damage from thorns)
 - **Initiative:** 2
 - **SE**: N/A (abilities use the Recharge system rather than SE costs)
 - **BP**: N/A
@@ -596,12 +596,12 @@ Their most unsettling trait is their ability to seemingly vanish mid-combat, onl
 ### Attacks
 **Phase Claws** (Fury 4 + Observation 4 = 8d6)
 - Range: Weapon Mastery
-- Damage: 6 Physical + 3 Soul damage (claws phase through armor)
+- Damage: 6 Physical + 3 Spectral damage (claws phase through armor)
 - Effect: This attack ignores DR from armor. On Critical Hit (3+ successes), the target is **Bleeding** (2 Physical damage at the start of each turn) and **Shaken** (Disadvantage on next attack).
 
 **Pounce from Nowhere** (Fury 4 + Stealth 5 = 9d6, Recharge 5-6)
 - Range: 30 feet (teleport attack)
-- Damage: 8 Physical + 3 Soul damage
+- Damage: 8 Physical + 3 Spectral damage
 - Effect: The Cougar phases out of existence, then reappears adjacent to a target and attacks. This movement does not provoke opportunity attacks. On hit, the target is knocked **Prone**.
 
 ### Abilities
@@ -698,7 +698,7 @@ Blightmaw Alphas are solitary territorial hunters. They tolerate no other large 
 
 **Territorial Rage**: While Bloodied, the Blightmaw gains +5 feet of movement speed and Advantage on Grapple-related attacks. It will not retreat from its territory under any circumstances.
 
-**Corruption-Touched**: The Blightmaw radiates faint Corruption. Creatures that start their turn grappled by it must make a DR 1 Blood save or gain 1 Corruption point (the toxins seep through contact).
+**Corruption-Touched**: The Blightmaw radiates faint Corruption. Creatures that start their turn grappled by it must make a DR 1 Blood save or gain 1 Entropic point (the toxins seep through contact).
 
 ### Reactions
 **Tail Lash** (Reaction, when a creature moves within 10 feet behind the Blightmaw)
@@ -714,15 +714,15 @@ The Blightmaw Alpha ambushes from concealment in corrupted terrain. It opens wit
 **Encounter Design:** A lone Blightmaw Alpha (TV 7) is a solid mid-tier solo threat. For higher challenge, pair it with 2-4 Blight-Boars (TV 5 each, total encounter TV 17-27) that serve as outriders flushing prey toward the Alpha. Place the encounter in a swamp or corrupted forest where the Toxic Spray sludge creates terrain denial.
 
 ### Loot
-- Blightmaw hide (extremely tough, Corruption-resistant material) - **Trade Value**: 60 supplies, can be crafted into Armor 2 that grants Poison resistance
+- Blightmaw hide (extremely tough, Corruption-resistant material) - **Trade Value**: 60 supplies, can be crafted into Armor: 2 that grants Poison resistance
 - Toxic spray gland (alchemical component, used to brew potent poisons or anti-toxins) - **Trade Value**: 40 supplies
 - Alpha fang (2 fangs, each the length of a human forearm) - **Trade Value**: 25 supplies each, can be crafted into a dagger that inflicts Poisoned on critical hit
 - Corrupted beast core (pulsing organic gem found in the skull) - **Trade Value**: 50 supplies, studied for Corruption research or used in Hylden-related crafting
 
 ### Scaling Options
-**Juvenile Blightmaw** (Standard, TV 5): HP 25, DV 4, Fury 3, Blood 2. Remove Alpha's Roar and Territorial Rage. Toxic Spray is a 10-foot cone dealing 4 Elemental damage. No grapple on Crushing Jaws.
+**Juvenile Blightmaw** (Standard, TV 5): HP: 25, DV: 4, Fury 3, Blood 2. Remove Alpha's Roar and Territorial Rage. Toxic Spray is a 10-foot cone dealing 4 Elemental damage. No grapple on Crushing Jaws.
 
-**Blightmaw Matriarch** (Boss, TV 11): HP 72, DV 6, Fury 6, Blood 5. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Crushing Jaws (1), Toxic Spray (2, only if recharged). Add "Brood Call" (1/encounter): summons 1d2 Juvenile Blightmaws from the surrounding terrain.
+**Blightmaw Matriarch** (Boss, TV 11): HP: 72, DV: 6, Fury 6, Blood 5. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Crushing Jaws (1), Toxic Spray (2, only if recharged). Add "Brood Call" (1/encounter): summons 1d2 Juvenile Blightmaws from the surrounding terrain.
 
 ---
 
@@ -778,7 +778,7 @@ The Blightmaw Alpha ambushes from concealment in corrupted terrain. It opens wit
 
 **Tactics**: Blight-Boars charge first with Trampling Charge, spreading out to use Corruption Aura. The Bear ambushes from the trees (Forest Camouflage), using Bramble Charge to scatter the party. The Bear then Grapples priority targets with Crushing Bite.
 
-**Environmental Factor**: The forest itself is corrupted. At the start of each round, all PCs must pass a DR 1 Will save or take 1 Corruption (corrupted atmosphere). Staying in the forest too long is dangerous.
+**Environmental Factor**: The forest itself is corrupted. At the start of each round, all PCs must pass a DR 1 Will save or take 1 Entropic (corrupted atmosphere). Staying in the forest too long is dangerous.
 
 **Twist**: After combat, the party finds the source of corruption: a Hylden artifact buried beneath the forest. They can destroy it (ending the corruption but alerting nearby Hylden agents) or leave it (corruption spreads, but they avoid attention).
 
@@ -909,14 +909,14 @@ The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the a
 ### Attacks
 **Rending Jaws** (Fury 6 + Unarmed Combat 5 = 11d6 vs DV)
 - Range: Weapon Mastery (10 feet)
-- Damage: 14 Physical (Piercing) + 4 Corruption
+- Damage: 14 Physical (Piercing) + 4 Entropic
 - Effect: On hit, target must pass a DR 4 Blood save or be Grappled in the Wyrm's jaws. While grappled, the target takes 8 automatic Piercing damage at the start of each of its turns. Escape requires a contested Fury + Athletics check against the Wyrm's 11d6.
 
 **Corruption Breath** (Action, costs 10 SE, Recharge 5-6)
 - Range: 50-foot cone
 - Dice Pool: Soul 3 + 4 = 7d6 vs Will
-- Damage: 16 Corruption damage
-- Effect: Half damage on successful defense. Creatures that take full damage must pass a DR 3 Will save or gain 1 Corruption point. The affected area becomes Corruption-tainted difficult terrain for 3 rounds.
+- Damage: 16 Entropic damage
+- Effect: Half damage on successful defense. Creatures that take full damage must pass a DR 3 Will save or gain 1 Entropic point. The affected area becomes Corruption-tainted difficult terrain for 3 rounds.
 
 **Tail Sweep** (Bonus Action, 1/round)
 - Dice Pool: Fury 6 + Athletics 5 = 11d6 vs DV
@@ -930,13 +930,13 @@ The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the a
 - Effect: Target is pushed back 15 feet. If airborne, the Wyrm can use this to maintain distance.
 
 ### Abilities
-**Corrupted Apex** (Passive): The Alpha Wyrm is immune to Corruption effects (it has fully metabolized ambient Corruption). It is also immune to fear, charm, and poison.
+**Corrupted Apex** (Passive): The Alpha Wyrm is immune to Corruption effects (it has fully metabolized ambient Corruption). It is also Immune to Frightened, charm, and poison.
 
-**Aerial Predator** (Passive): While flying, the Wyrm has +2 DV against ranged attacks from below (effective DV 8 in the air). Weapon Mastery attacks from grounded creatures have Disadvantage unless the attacker can reach its altitude.
+**Aerial Predator** (Passive): While flying, the Wyrm has +2 DV against ranged attacks from below (effective DV: 8 in the air). Weapon Mastery attacks from grounded creatures have Disadvantage unless the attacker can reach its altitude.
 
 **Territorial Rage** (Passive): While fighting within its lair or territory, the Wyrm gains +2 dice on all attack rolls and regenerates 5 HP at the start of each of its turns.
 
-**Legendary Resistance (2/day):** If the Wyrm fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If the Wyrm fails a save, it can choose to succeed instead.
 
 ### Legendary Actions (2/round)
 - **Tail Sweep (1 action):** Make one Tail Sweep attack.
@@ -945,7 +945,7 @@ The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the a
 
 ### Lair Action
 **Corruption Surge:** If fought in its lair, on initiative count 20 the following occurs (choose one):
-- **Toxic Vents:** Corruption gas erupts from 2 points within the lair. Creatures within 10 feet of a vent take 6 Corruption damage (DR 3 Blood save for half).
+- **Toxic Vents:** Corruption gas erupts from 2 points within the lair. Creatures within 10 feet of a vent take 6 Entropic damage (DR 3 Blood save for half).
 - **Nest Collapse:** A 15-foot section of the lair collapses. Creatures in the area must pass a DR 3 Shadow save or take 8 Bludgeoning damage and be buried (Restrained, DR 3 Fury to escape as action).
 - **Call the Brood:** 1d3 Nosgothian Drakes (TV 8 each) arrive from nesting tunnels.
 
@@ -958,15 +958,15 @@ The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the a
 - **Intelligent Retreat**: Unlike lesser beasts, the Alpha Wyrm retreats if reduced below 40 HP and not in its lair. It returns with Drake scouts to harass the party over subsequent days.
 
 ### Loot
-- Alpha Wyrm scales (can craft Armor 4 medium armor with Corruption resistance) - **Trade Value**: 200 supplies
-- Corruption sac (volatile alchemical reagent; can craft 3 Corruption grenades or antitoxin) - **Trade Value**: 120 supplies
-- Wyrm fangs (pair; can be forged into twin daggers dealing +3 Piercing + 2 Corruption) - **Trade Value**: 150 supplies per pair
+- Alpha Wyrm scales (can craft Armor: 4 medium armor with Corruption resistance) - **Trade Value**: 200 supplies
+- Corruption sac (volatile alchemical reagent; can craft 3 Entropic grenades or antitoxin) - **Trade Value**: 120 supplies
+- Wyrm fangs (pair; can be forged into twin daggers dealing +3 Piercing + 2 Entropic) - **Trade Value**: 150 supplies per pair
 - Hoard contents (the Wyrm hoards shiny objects): 4d6 x 20 ancient coins, 1d3 minor magical items (GM's choice), assorted gemstones - **Trade Value**: 300+ supplies total
 
 ### Scaling Options
-**Juvenile Wyrm (Boss, TV 10):** HP 80, DV 5, Fury 5, Armor 3. Loses Legendary Actions, Lair Action, and Corruption Breath. Tail Sweep and Wing Buffet deal half damage. No Territorial Rage. Flying speed 60 feet.
+**Juvenile Wyrm (Boss, TV 10):** HP: 80, DV: 5, Fury 5, Armor: 3. Loses Legendary Actions, Lair Action, and Corruption Breath. Tail Sweep and Wing Buffet deal half damage. No Territorial Rage. Flying speed 60 feet.
 
-**Elder Wyrm Matriarch (Legendary, TV 18):** HP 220, DV 6, Fury 7, Armor 6. Gains 3 Legendary Actions/round. Corruption Breath recharges on 4-6 and deals 20 damage. Add **Corrupted Apotheosis (1/encounter)**: When reduced to 50 HP, the Matriarch undergoes a transformation - gaining +3 Armor, immunity to all damage for 1 round, and immediately using Corruption Breath (no cost). Regional Effects: wildlife within 3 miles is corrupted and hostile; Corruption checks in the region are made at Disadvantage.
+**Elder Wyrm Matriarch (Legendary, TV 18):** HP: 220, DV: 6, Fury 7, Armor: 6. Gains 3 Legendary Actions/round. Corruption Breath recharges on 4-6 and deals 20 damage. Add **Corrupted Apotheosis (1/encounter)**: When reduced to 50 HP, the Matriarch undergoes a transformation - gaining +3 Armor, immunity to all damage for 1 round, and immediately using Corruption Breath (no cost). Regional Effects: wildlife within 3 miles is corrupted and hostile; Corruption checks in the region are made at Disadvantage.
 
 ---
 
@@ -1029,7 +1029,7 @@ The Eel lurks beneath the surface, striking with Blight Bite against anyone who 
 - Eel meat (edible if cleaned thoroughly, though it has a bitter aftertaste) - **Trade Value**: 3 supplies
 
 ### Scaling Options
-**Mature Blightwater Eel (Elite, TV 7):** HP 25, DV 4, Fury 4. Blight Toxin stacks deal 4 damage. Add **Coiling Grip**: on a critical hit (3+ successes), the target is Grappled. Grappled creatures in water begin drowning (DR 3 Blood save per round or start suffocating).
+**Mature Blightwater Eel (Elite, TV 7):** HP: 25, DV: 4, Fury 4. Blight Toxin stacks deal 4 damage. Add **Coiling Grip**: on a critical hit (3+ successes), the target is Grappled. Grappled creatures in water begin drowning (DR 3 Blood save per round or start suffocating).
 
 ---
 
@@ -1086,7 +1086,7 @@ Swarms are encountered in groups of 2-5. They file through gaps, drop from ceili
 - Occasionally a shiny trinket at the nest center (1d4 supplies worth of odds and ends)
 
 ### Scaling Options
-**Horde (Elite, TV 7):** A larger, denser swarm. HP 25, DV 3. Biting Mass deals 5 damage. Plague Fever is automatic on hit (no save) on a critical hit. Add **Consume the Fallen**: when a creature is reduced to 0 HP within the Swarm's space, the Swarm regains 5 HP.
+**Horde (Elite, TV 7):** A larger, denser swarm. HP: 25, DV: 3. Biting Mass deals 5 damage. Plague Fever is automatic on hit (no save) on a critical hit. Add **Consume the Fallen**: when a creature is reduced to 0 HP within the Swarm's space, the Swarm regains 5 HP.
 
 ---
 
@@ -1148,7 +1148,7 @@ The Tunnelworm spends its first round burrowing beneath the party while they ent
 - Athletics gland (alchemical component, rare) - **Trade Value**: 20 supplies
 
 ### Scaling Options
-**Elder Tunnelworm (Boss, TV 9):** HP 55, DV 5, Armor 4, Fury 4. Chomp deals 10 damage. Add **Swallow Whole**: when Grappling a creature, can attempt to Swallow (Fury 4 vs DR 4 Blood save). Swallowed creature is Restrained, Blinded, and takes 8 acid damage at the start of each turn; escape requires DR 4 Athletics from inside.
+**Elder Tunnelworm (Boss, TV 9):** HP: 55, DV: 5, Armor: 4, Fury 4. Chomp deals 10 damage. Add **Swallow Whole**: when Grappling a creature, can attempt to Swallow (Fury 4 vs DR 4 Blood save). Swallowed creature is Restrained, Blinded, and takes 8 acid damage at the start of each turn; escape requires DR 4 Athletics from inside.
 
 ---
 
@@ -1185,7 +1185,7 @@ They are no longer strictly animals; the Corruption has given them a rudimentary
 **Talon Strike** (Fury 2 + Weapon Mastery 1 = 3d6)
 - Range: Weapon Mastery (aerial)
 - Damage: 3 Slashing
-- Effect: On hit, target must make DR 2 Blood save or gain **1 Corruption point** from the corrupted talons
+- Effect: On hit, target must make DR 2 Blood save or gain **1 Entropic point** from the corrupted talons
 
 **Dive Bomb** (Fury 2 + Weapon Mastery 1 = 3d6, Bonus Action, once per combat)
 - Range: 30 feet (diving charge from height)
@@ -1195,7 +1195,7 @@ They are no longer strictly animals; the Corruption has given them a rudimentary
 ### Abilities
 **Flyby:** The Corrupted Raptor does not provoke opportunity attacks when it moves away from a creature after attacking.
 
-**Corruption Aura (Passive, 5 feet):** Any creature that ends its turn adjacent to the Raptor must make DR 1 Blood save or gain 1 Corruption point (represents ambient Corruption emanation).
+**Corruption Aura (Passive, 5 feet):** Any creature that ends its turn adjacent to the Raptor must make DR 1 Blood save or gain 1 Entropic point (represents ambient Corruption emanation).
 
 **Light Sensitivity:** In bright light (torch or better), the Raptor has Disadvantage on attacks and will retreat toward darkness if damaged.
 
@@ -1211,7 +1211,7 @@ Corrupted Raptors hunt in pairs or trios. They dive, apply Talon Strike, and fly
 - Corrupted raptor talon (1, used as a minor crafting component or sinister trophy) - **Trade Value**: 5 supplies
 
 ### Scaling Options
-**Corrupted Raptor Alpha (Standard, TV 6):** HP 12, DV 5, Fury 3, Focus 3. Talon Strike automatically triggers Corruption on hit (no save). Add Screech (1/combat): all creatures within 20 feet make DR 2 Will save or be Frightened until end of next turn.
+**Corrupted Raptor Alpha (Standard, TV 6):** HP: 12, DV: 5, Fury 3, Focus 3. Talon Strike automatically triggers Corruption on hit (no save). Add Screech (1/combat): all creatures within 20 feet make DR 2 Will save or be Frightened until end of next turn.
 
 ---
 
@@ -1253,7 +1253,7 @@ The creature is not intelligent; it operates entirely on chemical detection of w
 
 **While Attached (Passive):**
 - The Leech does not take actions - it drains passively
-- At the start of each of the host's turns: host loses 1 HP and must make a DR 2 Blood save or gain **1 Corruption point**
+- At the start of each of the host's turns: host loses 1 HP and must make a DR 2 Blood save or gain **1 Entropic point**
 - At the start of each of the host's turns, the Leech regains 2 HP while attached
 - A single host can have a maximum of 4 Leeches attached simultaneously
 
@@ -1267,7 +1267,7 @@ The creature is not intelligent; it operates entirely on chemical detection of w
 **Behavior Tags:** pack, ambusher
 
 ### Tactics
-Corruption Leeches do not engage in traditional combat. They crawl onto creatures during movement through their territory, attempt Latch-On, and drain passively. Their primary danger is mass accumulation: 4 Leeches attached to a PC deal 4 HP damage and can inflict up to 4 Corruption points at the start of each of the PC's turns while the PC cannot take other actions. Fire is the universal counter-measure (but that may be a problem indoors or in a library).
+Corruption Leeches do not engage in traditional combat. They crawl onto creatures during movement through their territory, attempt Latch-On, and drain passively. Their primary danger is mass accumulation: 4 Leeches attached to a PC deal 4 HP damage and can inflict up to 4 Entropic points at the start of each of the PC's turns while the PC cannot take other actions. Fire is the universal counter-measure (but that may be a problem indoors or in a library).
 
 Use them to preface larger combat encounters - a party that wades through a Leech-infested swamp arrives at the dungeon entrance already at Corruption disadvantage.
 
@@ -1276,7 +1276,7 @@ Use them to preface larger combat encounters - a party that wades through a Leec
 - Nothing else of value
 
 ### Scaling Options
-**Corrupted Leech Clutch (Elite, TV 8):** A single egg-sac that hatches as a Bonus Action, releasing 3 Corruption Leeches in a 10-foot radius. Treating the sac as a single enemy (HP 8) allows the party to stomp it before it hatches.
+**Corrupted Leech Clutch (Elite, TV 8):** A single egg-sac that hatches as a Bonus Action, releasing 3 Entropic Leeches in a 10-foot radius. Treating the sac as a single enemy (HP: 8) allows the party to stomp it before it hatches.
 
 ---
 
@@ -1358,9 +1358,9 @@ On land (when cornered), the Drake loses its DV bonus and Aquatic Apex but retai
 - Jaw assembly (intact teeth usable as components for alchemical or ritual purposes) - **Trade Value**: 30 supplies
 
 ### Scaling Options
-**River Tide-Drake (Standard, TV 6):** HP 30, DV 4, Armor 2, Fury 3. Remove Death Throes. Smaller and less patient - found in rivers and marsh territories.
+**River Tide-Drake (Standard, TV 6):** HP: 30, DV: 4, Armor: 2, Fury 3. Remove Death Throes. Smaller and less patient - found in rivers and marsh territories.
 
-**Elder Tide-Drake (Boss, TV 12):** HP 85, DV 6 (submerged), Armor 4, Fury 5, Blood 4. Add *Crushing Maw*: the Grapple from Surge Bite requires a DR 4 check to escape. Add *Territorial Roar* (1/encounter): all creatures within 60 feet must pass DR 3 Will save or be Frightened for 2 rounds. Add Legendary Resistance (1/day).
+**Elder Tide-Drake (Boss, TV 12):** HP: 85, DV: 6 (submerged), Armor: 4, Fury 5, Blood 4. Add *Crushing Maw*: the Grapple from Surge Bite requires a DR 4 check to escape. Add *Territorial Roar* (1/encounter): all creatures within 60 feet must pass DR 3 Will save or be Frightened for 2 rounds. Add Legendary Resistance (1/day).
 
 **End of Chapter 4: Beasts & Mutants**
 

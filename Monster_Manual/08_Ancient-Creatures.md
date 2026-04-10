@@ -29,7 +29,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 - **Attributes:** Fury 7, Soul 3, Shadow 2, Will 5, Focus 3, Blood 0
 - **Skills:** Athletics 5, Intimidation 4, Forbidden Knowledge 3
 
-**Immunities:** Poison, Charm, Sleep
+**Immunities:** Poison, Charmededededed, Sleep
 **Resistances:** Bludgeoning/Piercing/Slashing (non-magical)
 
 ---
@@ -75,7 +75,7 @@ Legendary Actions (2 per round)
 - Vault Glyph Fragment: Clue to open nearby relic doors.
 
 ### Scaling Options
-- TV 18: HP 280; Armor 9; gains Legendary Resistance (1/day).
+- TV 18: HP: 280; Armor: 9; gains Legendary Resistance (1/day).
 
 ---
 
@@ -198,7 +198,7 @@ Legendary Actions (2 per round)
 - Leviathan Scale Mantle: Cloak granting Swim 20 and advantage vs forced movement in water.
 
 ### Scaling Options
-- TV 20: HP 340; gains Legendary Resistance (2/day) and a third Legendary Action (Surge: Undertow as a bonus action).
+- TV 20: HP: 340; gains Legendary Resistance (2/day) and a third Legendary Action (Surge: Undertow as a bonus action).
 
 ---
 
@@ -220,7 +220,7 @@ Legendary Actions (2 per round)
 - **Skills:** Forbidden Knowledge 3, Stealth 5, Insight 4
 
 **Immunities:** Non-magical physical
-**Resistances:** Radiant, Soul
+**Resistances:** Radiant, Spectral
 **Vulnerabilities:** Glyph magic
 
 ---
@@ -231,12 +231,12 @@ Legendary Actions (2 per round)
 - Action: 1
 - Range: 10ft
 - Dice Pool: Soul + Glyphcasting = 10d6
-- Damage: 10 Soul + 4 Force; on hit, target loses 1 SE (or BP) if they have any.
+- Damage: 10 Spectral + 4 Force; on hit, target loses 1 SE (or BP) if they have any.
 
 **Pillar Mark (Special)**
 - Action: 1; Cost: 6 SE
 - Range: 60ft
-- Effect: Mark a target. First time each round the Shade hits the marked target, it deals +6 Soul.
+- Effect: Mark a target. First time each round the Shade hits the marked target, it deals +6 Spectral.
 
 **Phase Step (Special)**
 - Action: Bonus Action; Cost: 3 SE
@@ -245,7 +245,7 @@ Legendary Actions (2 per round)
 ### Abilities
 
 **Anchored Guardian (Passive)**
-- The Shade cannot move more than 100ft from its Pillar shard. If the shard (HP 50, Armor 10) is destroyed, the Shade dissipates.
+- The Shade cannot move more than 100ft from its Pillar shard. If the shard (HP: 50, Armor: 10) is destroyed, the Shade dissipates.
 
 ---
 
@@ -259,8 +259,8 @@ Legendary Actions (2 per round)
 - Fractured Pillar Sliver: Focus +1 for checks to resist corruption or planar effects.
 
 ### Scaling Options
-- **Weakened Form (TV 8):** Reduce HP to 55, Armor to 1, and Balance Lash damage to 7 Soul + 3 Force. Remove Pillar Mark.
-- **Empowered Form (TV 14):** Increase HP to 125, Soul to 7, and Balance Lash damage to 14 Soul + 6 Force. Add Legendary Action (1/round): Phase Lash — teleport 10ft and make a Balance Lash as a single action.
+- **Weakened Form (TV 8):** Reduce HP to 55, Armor to 1, and Balance Lash damage to 7 Spectral + 3 Force. Remove Pillar Mark.
+- **Empowered Form (TV 14):** Increase HP to 125, Soul to 7, and Balance Lash damage to 14 Spectral + 6 Force. Add Legendary Action (1/round): Phase Lash — teleport 10ft and make a Balance Lash as a single action.
 
 ---
 
@@ -351,7 +351,7 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 **Blood Rend** (Action)
 - **Dice Pool:** Fury 6 + Athletics 3 = 9d6
 - **Range:** Weapon Mastery (15-foot reach — massive creature)
-- **Damage:** 12 physical (Slashing) + **Blood Drain** (target loses 3 BP; if at 0 BP, takes 3 extra Soul damage instead)
+- **Damage:** 12 physical (Slashing) + **Blood Drain** (target loses 3 BP; if at 0 BP, takes 3 extra Spectral damage instead)
 - **Special:** The Stalker regains 4 HP per successful Blood Rend hit (vampiric regeneration)
 
 **Ancient Lunge** (Action, costs 5 SE)
@@ -372,7 +372,7 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 
 **Supernatural Hide:** The Stalker's ancient hide reduces all damage from nonmagical sources by 3 (in addition to its Armor value). Magical weapon attacks are unaffected.
 
-**Legendary Resistance (2/day):** If the Stalker fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If the Stalker fails a save, it can choose to succeed instead.
 
 **Legendary Actions (2 per round):**
 - **Blood Rend (1 action):** Make one Blood Rend attack
@@ -391,8 +391,8 @@ The Blood Stalker opens from Stealth, using Ancient Lunge to Pin the most armore
 - Blood-crystal formation (solidified predator blood, only forms in creatures this old) — **Trade Value**: 100 supplies
 
 ### Scaling Options
-- **Adolescent Blood Stalker (Boss, TV 5):** HP 95, DV 5, Fury 5, Blood 4. No Legendary Actions or Legendary Resistance. Primal Howl is Recharge 5-6 only.
-- **Elder Blood Stalker (TV 17):** HP 240, DV 6, Fury 7, Soul 5, SE 60. Blood Rend deals 16 + 4 Blood Drain. Add 3 Legendary Actions/round. Blood Frenzy heals 25 HP and triggers two free attacks.
+- **Adolescent Blood Stalker (Boss, TV 5):** HP: 95, DV: 5, Fury 5, Blood 4. No Legendary Actions or Legendary Resistance. Primal Howl is Recharge 5-6 only.
+- **Elder Blood Stalker (TV 17):** HP: 240, DV: 6, Fury 7, Soul 5, SE: 60. Blood Rend deals 16 + 4 Blood Drain. Add 3 Legendary Actions/round. Blood Frenzy heals 25 HP and triggers two free attacks.
 
 ---
 
@@ -423,7 +423,7 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 **Decay Touch** (Action)
 - **Dice Pool:** Soul 6 + Forbidden Knowledge 4 = 10d6
 - **Range:** 10-foot melee reach
-- **Damage:** 10 Corruption damage (ignores Physical Armor — it infects rather than wounds)
+- **Damage:** 10 Entropic damage (ignores Physical Armor — it infects rather than wounds)
 - **Special:** On hit, any magical item or enchanted object carried by the target loses 1 enhancement bonus for 24 hours (magical weapons deal -1 damage; magical armor provides -1 DV bonus). This effect does not stack beyond -3 per item.
 
 **Pillar Shard Barrage** (2 Actions, costs 8 SE, Recharge 5-6)
@@ -435,13 +435,13 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 
 **Corruption Pulse** (Action, 1/encounter, free — triggers automatically the first time the Sentinel becomes Bloodied)
 - **Range:** 30-foot radius
-- **Effect:** All living creatures in range make DR 4 Will save or immediately gain **2 Corruption points**. No damage — pure Corruption burst.
+- **Effect:** All living creatures in range make DR 4 Will save or immediately gain **2 Entropic points**. No damage — pure Corruption burst.
 
 ### Abilities
 
-**Corruption Aura (Passive, 10 feet):** Creatures who begin their turn within 10 feet must make DR 3 Blood save or gain **1 Corruption point**. This aura cannot be disabled by silencing magic (it is a physical emanation, not a magical broadcast).
+**Corruption Aura (Passive, 10 feet):** Creatures who begin their turn within 10 feet must make DR 3 Blood save or gain **1 Entropic point**. This aura cannot be disabled by silencing magic (it is a physical emanation, not a magical broadcast).
 
-**Pillar Link (Special):** If there is any Pillar fragment, Pillar site, or functional Pillar stone within 100 feet, the Sentinel regenerates 8 HP at the start of each turn and Decay Touch deals +3 Corruption damage. In Pillar ruins, this often activates immediately.
+**Pillar Link (Special):** If there is any Pillar fragment, Pillar site, or functional Pillar stone within 100 feet, the Sentinel regenerates 8 HP at the start of each turn and Decay Touch deals +3 Entropic damage. In Pillar ruins, this often activates immediately.
 
 **Ancient Construct:** Immune to Frightened, Charmed, Corruption (as mental effect), poison, disease. Cannot be Pushed, Pulled, or Knocked Prone. Immune to Sleep and Paralysis.
 
@@ -452,7 +452,7 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 ### Tactics
 The Sentinel advances slowly, using Corruption Aura to force the party to spread out. It targets magical weapon-users with Decay Touch to degrade their equipment. Pillar Shard Barrage is used against clusters of 3+ PCs. Corruption Pulse triggers at half HP — this is a design intent, not a desperation move; the Sentinel is deadliest in the final half of the fight when Corruption points begin cascading into Corruption effects.
 
-**Key Counter:** The Sentinel's weakness is ranged damage from pure physical sources (nonmagical weapons deal full physical damage without triggering Corruption Aura on the attacker, and its DV 6 still applies but its armor is mediocre at 3). Soul-based attacks bypass its Armor 3 entirely. Groups who focus on ranged Soul damage clear it efficiently.
+**Key Counter:** The Sentinel's weakness is ranged damage from pure physical sources (nonmagical weapons deal full physical damage without triggering Corruption Aura on the attacker, and its DV: 6 still applies but its armor is mediocre at 3). Soul-based attacks bypass its Armor: 3 entirely. Groups who focus on ranged Spectral damage clear it efficiently.
 
 ### Loot
 - Corruption-stone fragment (3d4, cracked Pillar stone saturated with Corruption) — **Trade Value**: 20 supplies each (Corruption-based alchemy, Hylden ritual components)
@@ -460,8 +460,8 @@ The Sentinel advances slowly, using Corruption Aura to force the party to spread
 - Pillar-Decay Rune (one still-legible rune inscribed into the stone; could be studied for insights into Pillar magic or Corruption mechanics) — **Trade Value**: 50 supplies (story item)
 
 ### Scaling Options
-- **Pillar-Decay Warden (Elite, TV 3):** HP 65, DV 5, Armor 2, Soul 4. SE 25. Decay Touch deals 7 Corruption. No Pillar Shard Barrage or Corruption Pulse. Corruption Aura 5 feet only.
-- **Sovereign Decay Colossus (TV 16):** HP 260, DV 6, Armor 5, Soul 8, SE 90. Decay Touch deals 14 Corruption + destroys one item enchantment permanently. 3 Legendary Actions/round. Corruption Aura 20 feet (DR 4 to avoid). Pillar Link activates anywhere in the same structure.
+- **Pillar-Decay Warden (Elite, TV 3):** HP: 65, DV: 5, Armor: 2, Soul 4. SE: 25. Decay Touch deals 7 Entropic. No Pillar Shard Barrage or Corruption Pulse. Corruption Aura 5 feet only.
+- **Sovereign Decay Colossus (TV 16):** HP: 260, DV: 6, Armor: 5, Soul 8, SE: 90. Decay Touch deals 14 Entropic + destroys one item enchantment permanently. 3 Legendary Actions/round. Corruption Aura 20 feet (DR 4 to avoid). Pillar Link activates anywhere in the same structure.
 
 ---
 
@@ -490,7 +490,7 @@ They manifest as large geometric constructs of light and pale stone, roughly hum
 **Arcane Discharge** (Action)
 - **Dice Pool:** Soul 5 + Glyphcasting 4 = 9d6
 - **Range:** 50 feet (10 squares)
-- **Damage:** 10 Soul/Arcane damage
+- **Damage:** 10 Spectral/Force damage
 - **Special:** Penetrates 2 points of armor (the discharge bypasses physical protection)
 
 **Ward Nullify** (2 Actions, costs 10 SE, Recharge 5-6)
@@ -504,7 +504,7 @@ They manifest as large geometric constructs of light and pale stone, roughly hum
 
 ### Abilities
 
-**Arcane Resilience (Passive):** Immune to all magical status effects (Frightened, Charmed, Confused, Paralyzed, etc. caused by magical sources). Resistant to Soul and Arcane damage (takes half).
+**Arcane Resilience (Passive):** Immune to all magical status effects (Frightened, Charmed, Confused, Paralyzed, etc. caused by magical sources). Resistant to Soul and Force damage (takes half).
 
 **Ward Lattice (Passive, 20-foot radius):** Allied constructs, bound NPCs, and specifically authorized creatures within 20 feet of the Living Ward gain +1 DV against magical attacks (the Ward extends its protective field).
 
@@ -527,5 +527,5 @@ The Living Ward prioritizes Counter-Glyph against every ability the party uses �
 - Arcane ledger (a record of every magical event the Ward has witnessed and countered over millennia — extraordinary historical document) — **Trade Value**: 200+ supplies to a scholar, priceless to certain factions
 
 ### Scaling Options
-- **Minor Living Ward (Elite, TV 3):** HP 55, DV 5, Soul 4, SE 20. Only Arcane Discharge and Counter-Glyph (costs 3 SE). No Ward Nullify, no Legendary Resistance. Ward Lattice 10 feet only.
-- **Primordial Living Ward (TV 15):** HP 230, DV 6, Armor 3, Soul 7, SE 80. Arcane Discharge deals 15. Ward Nullify radius 60 feet (permanent within ward boundaries). Counter-Glyph auto-succeeds on any roll of 4+ successes (no opposed roll needed). 3 Legendary Actions/round. Legendary Resistance 4/day.
+- **Minor Living Ward (Elite, TV 3):** HP: 55, DV: 5, Soul 4, SE: 20. Only Arcane Discharge and Counter-Glyph (costs 3 SE). No Ward Nullify, no Legendary Resistance. Ward Lattice 10 feet only.
+- **Primordial Living Ward (TV 15):** HP: 230, DV: 6, Armor: 3, Soul 7, SE: 80. Arcane Discharge deals 15. Ward Nullify radius 60 feet (permanent within ward boundaries). Counter-Glyph auto-succeeds on any roll of 4+ successes (no opposed roll needed). 3 Legendary Actions/round. Legendary Resistance 4/day.

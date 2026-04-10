@@ -66,7 +66,7 @@ Skills are grouped into five categories. Each skill now features an **Active Uti
 
 ## 6.4 Skill Point Economy
 
-- **Starting Points:** Characters begin with **6 skill points** at Level 1.
+- **Starting Points:** Characters begin with **5–6 skill points** (based on class) at Level 1.
 - **Skill Cap:** Maximum of 3 ranks at Level 1; maximum of 5 ranks at Level 20.
 - **Progression:** Gain **1 skill point** per level. 
 - **Active Mastery:** When you reach 4 ranks in a skill, you may use its Active Utility as a Bonus Action (if it was an Action) or twice per scene (if it was once per scene).

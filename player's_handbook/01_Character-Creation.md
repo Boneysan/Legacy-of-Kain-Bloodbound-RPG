@@ -108,7 +108,7 @@ Blood: Physical vitality and life essence. Core for Blood Knight or Sangromancer
 ### 1.5.1 Calculating Starting Resource Pools
 
 Soul Energy (SE): For classes using Soul Energy, maximum SE = 3 + Will attribute + (Character Level ÷ 2, rounded up). See the Spellcasting in Nosgoth section for details.
-Blood Points (BP): For classes or lineages using Blood Points, maximum BP = 4 + Blood attribute + (Character Level ÷ 2, rounded up). See the Spellcasting in Nosgoth section for details.
+Blood Points (BP): For classes or lineages using Blood Points, maximum BP = 4 + Shadow attribute + (Character Level ÷ 2, rounded up). See the Spellcasting in Nosgoth section for details.
 
 ## 1.6 Step 5: Assign Skills
 Assign skill points (5–6, based on class) to skills like Glyphcasting, Weapon Mastery, Stealth, or Forbidden Knowledge. Each skill is tied to an attribute and contributes to dice pools.
@@ -168,7 +168,7 @@ Armor: Ritual Vestments, Woven Shadows, Inkbound Mantle.
 
 
 ## 1.8 Calculating Defense Value (DV)
-Base DV = 1 + (higher of Shadow or Will). Add modifiers from armor or other sources.
+Base DV = 1 + (higher of Shadow or Will). Add modifiers from armor or other sources. Static DV from attributes, armor, and perks is capped at 6; only temporary cover and reactions can raise it higher.
 ## 1.9 Step 7: Pick Perks
 At Level 1, gain two perks:
 

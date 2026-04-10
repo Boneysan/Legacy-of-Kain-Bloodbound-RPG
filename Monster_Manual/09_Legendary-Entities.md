@@ -33,7 +33,7 @@ Guidance:
 - **Skills:** Glyphcasting 4, Insight 4, Evasion 4, Intimidation 3
 
 **Immunities:** Non-magical physical
-**Resistances:** Fire, Cold, Lightning, Force, Soul
+**Resistances:** Fire, Cold, Lightning, Force, Spectral
 **Vulnerabilities:** Anchoring glyphs
 
 ---
@@ -41,7 +41,7 @@ Guidance:
 ### Attacks
 
 1) Reaver-Echo Slash (Basic)
-- Action: 1; 10ft; Soul 8 + 4 = 12d6; 16 Soul + 6 Force. On hit, target loses 1 SE (or BP) if any.
+- Action: 1; 10ft; Soul 8 + 4 = 12d6; 16 Spectral + 6 Force. On hit, target loses 1 SE (or BP) if any.
 
 2) Phase Rend (Teleport Strike)
 - Bonus Action; Cost: 8 SE; teleport 30ft and make a Reaver-Echo Slash at Advantage.
@@ -51,7 +51,7 @@ Guidance:
 3) Fate-Defier (Passive)
 - First time each round the Remnant would take 15+ damage, reduce that instance by 8 (minimum 1).
 
-**Legendary Resistance (3/day):** If this entity fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
 
 Legendary Actions (2 per round)
 - Spectral Step: Teleport 20ft.
@@ -77,15 +77,15 @@ Regional Effects
 
 ### Loot
 
-- **Remnant's Soul Fragment:** A shard of Raziel's fractured essence. Can be used to forge a weapon that deals +8 Soul damage and ignores Armor on spectral creatures. Alternatively, a spellcaster can absorb it to permanently gain +1 Soul.
-- **Wraith Blade Echo:** A spectral weapon that phases between material and ethereal. Deals Physical or Soul damage (wielder's choice each attack). Requires attunement.
+- **Remnant's Soul Fragment:** A shard of Raziel's fractured essence. Can be used to forge a weapon that deals +8 Spectral damage and ignores Armor on spectral creatures. Alternatively, a spellcaster can absorb it to permanently gain +1 Spectral.
+- **Wraith Blade Echo:** A spectral weapon that phases between material and ethereal. Deals Physical or Spectral damage (wielder's choice each attack). Requires attunement.
 - **Memory of the Abyss:** A vision-scroll that reveals one hidden truth about the Pillars or the Elder God when meditated upon.
 
 ---
 
 ### Scaling Options
 
-**Weakened Form (TV 14):** HP 120; SE 60; Armor 3. Attributes reduced by 2 across the board. Loses Legendary Actions and Lair Action. Fate-Defier reduces by 4 instead of 8. Suitable for a fleeting vision of Raziel's echo or a fragment encountered in a dream sequence.
+**Weakened Form (TV 14):** HP: 120 | SE: 60 | Armor: 3. Attributes reduced by 2 across the board. Loses Legendary Actions and Lair Action. Fate-Defier reduces by 4 instead of 8. Suitable for a fleeting vision of Raziel's echo or a fragment encountered in a dream sequence.
 
 ---
 
@@ -105,8 +105,8 @@ Regional Effects
 - **Attributes:** Fury 7, Soul 5, Shadow 6, Will 6, Focus 6, Blood 3
 - **Skills:** Athletics 5, Evasion 5, Insight 3, Observation 4
 
-**Resistances:** Force, Soul
-**Immunities:** Charm, Fear
+**Resistances:** Force, Spectral
+**Immunities:** Charmed, Frightened
 
 ---
 
@@ -123,7 +123,7 @@ Regional Effects
 
 ### Abilities
 
-**Legendary Resistance (3/day):** If this entity fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
 
 Legendary Actions (2 per round)
 - Offhand Cut: Make Timescar Blade (half damage).
@@ -157,7 +157,7 @@ Regional Effects
 
 ### Scaling Options
 
-**Weakened Form (TV 13):** HP 110; SE 40; BP 10; Armor 4. Attributes reduced by 2 across the board. Loses Legendary Actions and Lair Action. Rewrite costs 15 SE instead of 10 and is limited to 2/encounter. Suitable for a time-fractured echo encountered in a temporal rift or prophetic vision.
+**Weakened Form (TV 13):** HP: 110 | SE: 40 | BP: 10 | Armor: 4. Attributes reduced by 2 across the board. Loses Legendary Actions and Lair Action. Rewrite costs 15 SE instead of 10 and is limited to 2/encounter. Suitable for a time-fractured echo encountered in a temporal rift or prophetic vision.
 
 ---
 
@@ -179,7 +179,7 @@ Regional Effects
 - **Skills:** Glyphcasting 4, Insight 3, Persuasion 4
 
 **Immunities:** Non-magical physical
-**Resistances:** Radiant, Soul
+**Resistances:** Radiant, Spectral
 **Vulnerabilities:** Desecration zones
 
 ---
@@ -197,7 +197,7 @@ Regional Effects
 3) Mercy Weighed (Passive)
 - When a Marked foe deals damage to an ally, Ariel’s Wrath may move the Mark to that foe’s attacker instead. (Moving the Mark requires a bonus action and can only be done once per round.)
 
-**Legendary Resistance (2/day):** If this entity fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
 
 Legendary Actions (2 per round)
 - Searing Glance: 30ft; 8 Radiant.
@@ -224,14 +224,14 @@ Regional Effects
 ### Loot
 
 - **Pillar Shard of Balance:** A fragment of the Pillar of Balance. Grants the holder +1 to all saves and the ability to sense Corruption within 60ft.
-- **Ariel’s Lament:** A spectral melody that can be played once per day to remove 1 Corruption point from a willing creature (or add 1 to an unwilling creature, DR 4 Will save).
+- **Ariel’s Lament:** A spectral melody that can be played once per day to remove 1 Entropic point from a willing creature (or add 1 to an unwilling creature, DR 4 Will save).
 - **Tears of the Guardian:** Three crystallized tears that can each be consumed to restore 20 HP and 10 SE.
 
 ---
 
 ### Scaling Options
 
-**Weakened Form (TV 12):** HP 90; SE 60; Armor 2. Attributes reduced by 2 across the board. Loses Legendary Actions and Lair Action. Marked by Wrath deals +2 Radiant instead of +4. Suitable for a sorrowful apparition in a ruined shrine or a memory relived through the Pillars.
+**Weakened Form (TV 12):** HP: 90 | SE: 60 | Armor: 2. Attributes reduced by 2 across the board. Loses Legendary Actions and Lair Action. Marked by Wrath deals +2 Radiant instead of +4. Suitable for a sorrowful apparition in a ruined shrine or a memory relived through the Pillars.
 
 ---
 
@@ -279,7 +279,7 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 4) Crimson Veil (Reaction, 2/encounter)
 - When targeted by an attack, the Prophet wraps itself in a shroud of blood-light, gaining +3 Armor against that attack.
 
-**Legendary Resistance (2/day):** If this entity fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
 
 Lair Action
 - Crowd Sway: A wave of whispers; enemies within 30ft must pass a DR 4 Will save or be Charmed until damaged.
@@ -303,13 +303,13 @@ Regional Effects
 
 - **Crimson Lens:** An eye-piece that grants the wearer prophetic visions — once per long rest, ask the GM one yes/no question about upcoming events (answered truthfully but cryptically).
 - **Blood Moon Shard:** A red crystal that pulses with lunar energy. Can be used to craft a weapon that deals +4 damage during night encounters.
-- **Prophet's Tattered Robes:** Light armor (Armor 2) that grants Advantage on all Will saves against divination and scrying.
+- **Prophet's Tattered Robes:** Light armor (Armor: 2) that grants Advantage on all Will saves against divination and scrying.
 
 ---
 
 ### Scaling Options
 
-**Weakened Form (TV 11):** HP 75; SE 50; BP 8; Armor 2. Attributes reduced by 2 across the board. Loses Lair Action and Crimson Veil. Red Cycle triggers every fifth round instead of third. Suitable for a lesser prophet or a blood moon vision encountered during a lunar event.
+**Weakened Form (TV 11):** HP: 75 | SE: 50 | BP: 8 | Armor: 2. Attributes reduced by 2 across the board. Loses Lair Action and Crimson Veil. Red Cycle triggers every fifth round instead of third. Suitable for a lesser prophet or a blood moon vision encountered during a lunar event.
 
 ---
 
@@ -331,7 +331,7 @@ Regional Effects
 - **Skills:** Athletics 4, Glyphcasting 5, Intimidation 4
 
 **Resistances:** Fire, Cold, Lightning, Force
-**Immunities:** Charm, Fear
+**Immunities:** Charmed, Frightened
 
 ---
 
@@ -351,7 +351,7 @@ Regional Effects
 4) Abyssal Drain (Passive)
 - When the Keeper hits a creature with Heartbrand Halberd, it regains 5 HP. If the target has 0 SE or BP, the Keeper instead regains 10 HP.
 
-**Legendary Resistance (3/day):** If this entity fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
 
 Legendary Actions (3 per round)
 - Halberd Sweep (1 action): Make a Heartbrand Halberd attack against all creatures within 10ft (one roll, apply to each).
@@ -362,7 +362,7 @@ Legendary Actions (3 per round)
 Lair Action (on initiative 20)
 - **Heartbeat:** The Abyssal Heart pulses with one of the following effects (choose one):
   - **Gravitational Pull:** All creatures within 40ft must pass DR 4 Fury save or be pulled 15ft toward the Keeper.
-  - **Necrotic Exhalation:** A wave of dark energy fills the chamber. All creatures take 6 Necrotic damage (no save). The Keeper is healed for 6 HP.
+  - **Necrotic Exhalation:** A wave of dark energy fills the chamber. All creatures take 6 Entropic damage (no save). The Keeper is healed for 6 HP.
   - **Abyssal Chains:** Spectral chains target 1d3 creatures within 30ft. Targets must pass DR 4 Shadow save or be Restrained until end of their next turn.
 
 Regional Effects
@@ -384,15 +384,15 @@ Regional Effects
 
 ### Loot
 
-- **Heartbrand Halberd:** A massive weapon infused with Abyssal energy. Deals 12 Slashing + 4 Necrotic; on hit, wielder heals 3 HP. Requires attunement. The weapon whispers dark temptations — the wielder must pass a DR 3 Will save after each long rest or gain 1 Corruption point.
-- **Abyssal Heart Fragment:** A chunk of the Heart itself, pulsing with dark power. Can be used to craft an artifact-tier item (GM's discretion) or traded to a faction for an enormous favor. Carrying it grants +2 Armor but inflicts 1 Corruption point per day.
+- **Heartbrand Halberd:** A massive weapon infused with Abyssal energy. Deals 12 Slashing + 4 Entropic; on hit, wielder heals 3 HP. Requires attunement. The weapon whispers dark temptations — the wielder must pass a DR 3 Will save after each long rest or gain 1 Entropic point.
+- **Abyssal Heart Fragment:** A chunk of the Heart itself, pulsing with dark power. Can be used to craft an artifact-tier item (GM's discretion) or traded to a faction for an enormous favor. Carrying it grants +2 Armor but inflicts 1 Entropic point per day.
 - **Keeper's Ward-Key:** A glyph-inscribed token that opens all sealed doors within the Abyssal complex. May grant access to deeper, even more dangerous areas.
 
 ---
 
 ### Scaling Options
 
-**Weakened Form (TV 15):** HP 160; SE 60; BP 10; Armor 5. Attributes reduced by 2 across the board. Loses Legendary Actions and Lair Action. Heartbind costs 15 SE. Consume is unavailable. Suitable for an echo of the Keeper guarding a lesser Abyssal vault.
+**Weakened Form (TV 15):** HP: 160 | SE: 60 | BP: 10 | Armor: 5. Attributes reduced by 2 across the board. Loses Legendary Actions and Lair Action. Heartbind costs 15 SE. Consume is unavailable. Suitable for an echo of the Keeper guarding a lesser Abyssal vault.
 
 ---
 
@@ -413,7 +413,7 @@ Regional Effects
 - **Attributes:** Fury 9, Soul 10, Shadow 7, Will 9, Focus 8, Blood 0
 - **Skills:** Forbidden Knowledge 6, Insight 6, Athletics 5, Intimidation 7
 
-**Immunities:** Non-magical physical, Poison, Charm, Fear, Sleep, Necrotic, Corruption, Soul
+**Immunities:** Non-magical physical, Poison, Charmededededed, Frightened, Sleep, Entropic, Entropic, Spectral
 **Resistances:** Fire, Cold, Lightning, Force, Radiant
 **Vulnerabilities:** None (see Severing the Tether below)
 
@@ -425,7 +425,7 @@ Regional Effects
 - Action: 1; 20ft reach; Fury 9 + 5 = 14d6; 24 Bludgeoning + 8 Force. On hit, target must pass a DR 5 Fury save or be Grappled. While grappled, the target takes 12 automatic Bludgeoning damage at start of each turn. The Tendril can grapple up to 3 creatures simultaneously. Escape requires a contested check at Disadvantage (the Tendril rolls 14d6).
 
 2) Wheel's Mandate (AoE)
-- Action: 1; Cost: 20 SE; 40ft radius centered on Tendril; DR 5 Will save or take 18 Soul + 10 Force damage. Success: half damage. Creatures that fail by 2+ are additionally Stunned for 1 round (the weight of cosmic inevitability crushes their will).
+- Action: 1; Cost: 20 SE; 40ft radius centered on Tendril; DR 5 Will save or take 18 Spectral + 10 Force damage. Success: half damage. Creatures that fail by 2+ are additionally Stunned for 1 round (the weight of cosmic inevitability crushes their will).
 
 3) Devour Soul (Special)
 - Action: 1; requires target to be Grappled; automatic — no roll; Target's max HP is permanently reduced by 20 (until greater restoration or equivalent). If this reduces max HP to 0, the creature is consumed utterly — body and soul. Cannot be resurrected by any means short of divine intervention.
@@ -438,9 +438,9 @@ Regional Effects
 5) Manifest Eye (Passive, always active)
 - The Tendril perceives all creatures within 120ft regardless of invisibility, stealth, phase state, or dimensional position. It cannot be surprised. It detects lies automatically.
 
-**Legendary Resistance (4/day):** If this entity fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
 
-**Mythic Trait — Severing the Tether:** The Tendril is effectively immortal while connected to the Elder God's body deep underground. When reduced to 0 HP, it regenerates to 100 HP at start of its next turn. To prevent this, the party must **sever the Tether** — a pulsing conduit of flesh extending from the Tendril into the earth. The Tether has HP 80, DV 4, Armor 6, and is immune to non-magical damage. It can only be attacked while the Tendril is Bloodied (the strain exposes it). Once the Tether is severed, the Tendril cannot regenerate and its Armor drops to 6. The Elder God screams — all creatures within 60ft must pass DR 5 Will save or be Stunned for 1 round.
+**Mythic Trait — Severing the Tether:** The Tendril is effectively immortal while connected to the Elder God's body deep underground. When reduced to 0 HP, it regenerates to 100 HP at start of its next turn. To prevent this, the party must **sever the Tether** — a pulsing conduit of flesh extending from the Tendril into the earth. The Tether has HP: 80, DV: 4, Armor: 6, and is immune to non-magical damage. It can only be attacked while the Tendril is Bloodied (the strain exposes it). Once the Tether is severed, the Tendril cannot regenerate and its Armor drops to 6. The Elder God screams — all creatures within 60ft must pass DR 5 Will save or be Stunned for 1 round.
 
 Legendary Actions (4 per round)
 - Tendril Lash (1 action): Attack one creature within 20ft for 16 Bludgeoning (Fury 9 + 5 = 14d6).
@@ -489,22 +489,22 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 ### Loot
 
 - **Fragment of the Wheel:** A calcified piece of the Elder God's body, vibrating with cosmic energy. Can be forged into an artifact weapon or armor by a master craftsman. The bearer can see the Spectral Realm at will, gains +3 to all saves, but permanently loses 1 max HP per day the Fragment is carried (the Wheel feeds). Cannot be destroyed by mortal means.
-- **Eye of the Elder God:** A massive, lidless eye torn from the chamber walls. Functions as superior scrying device — the user can observe any location in Nosgoth for up to 10 minutes per day. However, the Elder God can see through it in return. Using it more than once per week requires a DR 5 Will save or gain 2 Corruption points.
+- **Eye of the Elder God:** A massive, lidless eye torn from the chamber walls. Functions as superior scrying device — the user can observe any location in Nosgoth for up to 10 minutes per day. However, the Elder God can see through it in return. Using it more than once per week requires a DR 5 Will save or gain 2 Entropic points.
 - **Severed Tether:** The pulsing conduit itself. Can be used as a one-time resurrection component that bypasses the Wheel — the resurrected soul returns to life without passing through the death cycle. Alternatively, it can be burned to permanently seal one dimensional rift or Hylden portal.
 
 ---
 
 ### Scaling Options
 
-**Weakened Form (TV 17):** HP 200; SE 100; Armor 6. Attributes reduced by 2 across the board. Loses Legendary Actions beyond 2 per round, Mythic Trait (the Tendril can be killed normally), and World Shudder. Devour Soul reduces max HP by 10 instead of 20. Suitable for a partially severed Tendril encountered in a Pillar ruin, or a prophetic vision of the Elder God's reach.
+**Weakened Form (TV 17):** HP: 200 | SE: 100 | Armor: 6. Attributes reduced by 2 across the board. Loses Legendary Actions beyond 2 per round, Mythic Trait (the Tendril can be killed normally), and World Shudder. Devour Soul reduces max HP by 10 instead of 20. Suitable for a partially severed Tendril encountered in a Pillar ruin, or a prophetic vision of the Elder God's reach.
 
-**True Manifestation (TV 28+):** This is the Elder God itself — not a stat block but a campaign event. It cannot be killed, only driven back. Use the Tendril stat block but with: HP 1000 (regenerates 50 HP at the start of each turn), 6 Legendary Actions per round, all damage dealt is doubled, Devour Soul is automatic on any creature within 10ft at start of its turn. The "fight" is about completing a ritual, activating an artifact, or reaching a specific location while the Elder God tries to stop the party. Running this encounter traditionally will result in a TPK — it is designed as a cinematic setpiece, not a balanced combat.
+**True Manifestation (TV 28+):** This is the Elder God itself — not a stat block but a campaign event. It cannot be killed, only driven back. Use the Tendril stat block but with: HP: 1000 (regenerates 50 HP at the start of each turn), 6 Legendary Actions per round, all damage dealt is doubled, Devour Soul is automatic on any creature within 10ft at start of its turn. The "fight" is about completing a ritual, activating an artifact, or reaching a specific location while the Elder God tries to stop the party. Running this encounter traditionally will result in a TPK — it is designed as a cinematic setpiece, not a balanced combat.
 - Action: 1; Cost: 12 SE; 25ft radius; DR 4 Evasion save or 18 Force damage and pushed 15ft; success: half, no push.
 
 3) Ward of the Core (Passive)
 - While within its lair, gains +2 Armor and allies gain +1 DV.
 
-**Legendary Resistance (3/day):** If this entity fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
 
 Legendary Actions (2 per round)
 - Guard Sweep: 10ft arc; 10 Slashing.
@@ -530,15 +530,15 @@ Regional Effects
 
 ### Loot
 
-- **Heart of the Abyss:** A pulsing, dark organ. Can be used to permanently increase one attribute by +1 (max 6), but inflicts 3 Corruption on the user.
+- **Heart of the Abyss:** A pulsing, dark organ. Can be used to permanently increase one attribute by +1 (max 6), but inflicts 3 Entropic on the user.
 - **Abyssal Chain Links:** Can be forged into a weapon that Restrains on critical hits (DR 5 Will save to escape).
-- **Void Essence (3 doses):** Each dose grants immunity to all damage for 1 round but inflicts 1 Corruption.
+- **Void Essence (3 doses):** Each dose grants immunity to all damage for 1 round but inflicts 1 Entropic.
 
 ---
 
 ### Scaling Options
 
-**Weakened Form (TV 15):** HP 140; SE 60; BP 10; Armor 5. Attributes reduced by 2 across the board. Loses Legendary Actions. Ward of the Core grants +1 Armor (no ally DV bonus). Abyss Pulse radius reduced to 15ft. Suitable for a diminished warden guarding a lesser vault or a memory of the Heart’s protector.
+**Weakened Form (TV 15):** HP: 140 | SE: 60 | BP: 10 | Armor: 5. Attributes reduced by 2 across the board. Loses Legendary Actions. Ward of the Core grants +1 Armor (no ally DV bonus). Abyss Pulse radius reduced to 15ft. Suitable for a diminished warden guarding a lesser vault or a memory of the Heart’s protector.
 
 ---
 
@@ -559,8 +559,8 @@ Regional Effects
 - **Attributes:** Fury 4, Soul 7, Shadow 9, Will 7, Focus 7, Blood 0
 - **Skills:** Infiltration 4, Stealth 5, Insight 4, Observation 3
 
-**Immunities:** Charmed
-**Resistances:** Psychic, Soul
+**Immunities:** Charmedededededed
+**Resistances:** Psychic, Spectral
 
 ---
 
@@ -577,7 +577,7 @@ Regional Effects
 3) Command the Scene (Passive)
 - Once/round, as a free effect, slide one creature 5ft. (Range: 60ft. All enemies who can hear the Monarch must make a DR 4 Will save. On failure, they lose their next action. Usable once per round as a Legendary Action costing 2 actions.)
 
-**Legendary Resistance (2/day):** If this entity fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
 
 Lair Action
 - Hidden Court: All ranged attacks beyond 20ft have Disadvantage until next round.
@@ -599,7 +599,7 @@ Regional Effects
 
 ### Loot
 
-- **Crown of Whispers:** Grants telepathy (60ft) and +2 to all Infiltration and Intimidation checks. Wearing it for more than 24 hours requires a DR 3 Will save or the wearer gains 1 Corruption.
+- **Crown of Whispers:** Grants telepathy (60ft) and +2 to all Infiltration and Intimidation checks. Wearing it for more than 24 hours requires a DR 3 Will save or the wearer gains 1 Entropic.
 - **Monarch’s Signet Ring:** Once per day, command one creature (DR 4 Will save or obey a single non-suicidal command).
 - **Invisible Ink Codex:** Contains 1d4 forgotten rituals or spell formulae (GM’s choice).
 
@@ -607,7 +607,7 @@ Regional Effects
 
 ### Scaling Options
 
-**Weakened Form (TV 12):** HP 85; SE 50; Armor 2. Attributes reduced by 2 across the board. Loses Legendary Resistance and Lair Action. Disappear/Appear costs 10 SE. Suitable for a lesser courtier of the Unseen Court or a whisper-shade encountered in a political intrigue.
+**Weakened Form (TV 12):** HP: 85 | SE: 50 | Armor: 2. Attributes reduced by 2 across the board. Loses Legendary Resistance and Lair Action. Disappear/Appear costs 10 SE. Suitable for a lesser courtier of the Unseen Court or a whisper-shade encountered in a political intrigue.
 
 ---
 
@@ -646,7 +646,7 @@ Regional Effects
 3) Oath of Pursuit (Passive)
 - Chooses a quarry; gains +2 to all attacks vs the quarry; cannot willingly retreat while quarry stands.
 
-**Legendary Resistance (3/day):** If this entity fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
 
 Legendary Actions (2 per round)
 - Riteblade Riposte: Half-damage strike when missed by a melee attack.
@@ -664,7 +664,7 @@ Regional Effects
 
 ### Tactics
 
-**For Players:** Soul damage is the Pale Sarafan’s vulnerability—lead with it. Avoid being designated as the quarry if possible; if you are, use terrain to force the Sarafan into unfavorable positions. Non-undead party members should tank while undead allies stay at range.
+**For Players:** Spectral damage is the Pale Sarafan’s vulnerability—lead with it. Avoid being designated as the quarry if possible; if you are, use terrain to force the Sarafan into unfavorable positions. Non-undead party members should tank while undead allies stay at range.
 
 **For the GM:** Designate the party’s strongest melee fighter as quarry and pursue relentlessly. Use Consecrated Step to maintain positioning advantage and Execute Gap to close distance when kited. Sanctified Ground should target undead-heavy parties or heal allies in prolonged fights.
 
@@ -673,14 +673,14 @@ Regional Effects
 ### Loot
 
 - **Sarafan Crusader’s Blade:** A holy weapon that deals +6 Radiant damage to undead and fiends. Against non-undead, it deals +3 Physical damage.
-- **Incorruptible Plate:** Heavy armor (Armor 4 Physical, 3 Magic) that grants immunity to Corruption from external sources while worn.
+- **Incorruptible Plate:** Heavy armor (Armor: 4 Physical, 3 Magic) that grants immunity to Corruption from external sources while worn.
 - **The Pale Banner:** A war standard that, when planted, grants all allies within 30ft +1 DV and immunity to Fear for 10 minutes. Single use.
 
 ---
 
 ### Scaling Options
 
-**Weakened Form (TV 13):** HP 100; SE 25; Armor 3. Attributes reduced by 2 across the board. Loses Legendary Actions and Sanctified Ground Lair Action. Oath of Pursuit grants +1 instead of +2. Suitable for a ghostly Sarafan crusader haunting a ruined chapel or a trial-of-faith apparition.
+**Weakened Form (TV 13):** HP: 100 | SE: 25 | Armor: 3. Attributes reduced by 2 across the board. Loses Legendary Actions and Sanctified Ground Lair Action. Oath of Pursuit grants +1 instead of +2. Suitable for a ghostly Sarafan crusader haunting a ruined chapel or a trial-of-faith apparition.
 
 ---
 
@@ -701,7 +701,7 @@ Regional Effects
 - **Attributes:** Fury 2, Soul 9, Shadow 7, Will 8, Focus 8, Blood 0
 - **Skills:** Glyphcasting 4, Lore 6, Insight 3
 
-**Resistances:** Psychic, Soul
+**Resistances:** Psychic, Spectral
 
 ---
 
@@ -718,7 +718,7 @@ Regional Effects
 
 ### Abilities
 
-**Legendary Resistance (2/day):** If this entity fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
 
 Legendary Actions (2 per round)
 - Quietus: Sound dampens; verbal components and shouted commands fail on 1-2 on a d6.
@@ -748,7 +748,7 @@ Regional Effects
 
 ### Scaling Options
 
-**Weakened Form (TV 12):** HP 80; SE 60; Armor 2. Attributes reduced by 2 across the board. Loses Legendary Resistance and Lair Action. Unword duration reduced to end of Warden’s next turn. Suitable for a lesser name-keeper in a forgotten archive or a whispered echo in a library of the damned.
+**Weakened Form (TV 12):** HP: 80 | SE: 60 | Armor: 2. Attributes reduced by 2 across the board. Loses Legendary Resistance and Lair Action. Unword duration reduced to end of Warden’s next turn. Suitable for a lesser name-keeper in a forgotten archive or a whispered echo in a library of the damned.
 
 ---
 ## Echo of Moebius
@@ -778,7 +778,7 @@ They do not intend harm precisely. They are temporal coherence agents, attemptin
 **Time Strike** (Action)
 - **Dice Pool:** Soul 6 + Glyphcasting 5 = 11d6
 - **Range:** 60 feet
-- **Damage:** 12 Soul damage
+- **Damage:** 12 Spectral damage
 - **Special:** On a Critical Hit (5+ successes), target is briefly displaced in time — aged 1d4 decades (−1 to their Fury and Blood attributes until the effect is magically reversed via at minimum a DR 4 Glyphcasting ritual)
 
 **Temporal Displacement** (2 Actions, costs 12 SE)
@@ -796,14 +796,14 @@ They do not intend harm precisely. They are temporal coherence agents, attemptin
 
 **Always Next (Passive):** The Echo cannot be Surprised. It processes all Stealth attempts as though it already knew they were coming (because it did, briefly, before the timeline version began).
 
-**Legendary Resistance (3/day):** If the Echo fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If the Echo fails a save, it can choose to succeed instead.
 
 **Legendary Actions (2 per round):**
 - **Time Strike (1 action):** Make one Time Strike at target within range
 - **Temporal Displacement (2 actions):** Use Temporal Displacement on one target (still costs 12 SE)
 
 **Lair Action — Timeline Bleed (Initiative count 20 each round):**
-- The boundary between the current moment and recent past thins. Each PC must make DR 3 Focus save or be briefly haunted by a vision of their own death (or a near-defeat) from a previous session. On fail, they take 6 Soul damage and have Disadvantage on their next action.
+- The boundary between the current moment and recent past thins. Each PC must make DR 3 Focus save or be briefly haunted by a vision of their own death (or a near-defeat) from a previous session. On fail, they take 6 Spectral damage and have Disadvantage on their next action.
 
 **Behavior Tags:** boss, controller, phase_shifter
 
@@ -818,7 +818,7 @@ The Echo opens by using Temporal Displacement on the party's most lethal PC (rem
 - Echo memory (a recording of what Moebius saw — briefest glimpse of a possible future) — **Trade Value**: priceless (narrative item)
 
 ### Scaling Options
-- **Temporal Remnant (Elite, TV 5):** HP 80, DV 5, Soul 4, SE 30. No Time Rewind or Timestop Aura. Time Strike deals 8 damage. Good for early encounters with Moebius-touched locations.
+- **Temporal Remnant (Elite, TV 5):** HP: 80, DV: 5, Soul 4, SE: 30. No Time Rewind or Timestop Aura. Time Strike deals 8 damage. Good for early encounters with Moebius-touched locations.
 - **Moebius Resurgent (TV 20+):** If the party is fighting in a location of extreme temporal power, the Echo reaches full strength as Moebius-at-peak. Add **Absolute Foresight**: the Echo knows the result of all dice rolls before they happen and may choose to have any one roll per round automatically succeed or fail. No Legendary Resistance limit (unlimited). This is a campaign-ending encounter.
 
 ---
@@ -863,7 +863,7 @@ The Death Guardian is everything the role was meant to prevent: an undead being 
 
 **Death Nova (Reaction, 1/combat — triggers automatically when HP is first reduced below half):**
 - **Range:** 30-foot radius burst, triggered by near-death response
-- **Effect:** All living creatures in range make DR 4 Will save or take 10 Soul damage and become **Frightened** for 2 rounds. Living creatures that fail also lose their Reaction until the end of their next turn.
+- **Effect:** All living creatures in range make DR 4 Will save or take 10 Spectral damage and become **Frightened** for 2 rounds. Living creatures that fail also lose their Reaction until the end of their next turn.
 - This cannot be prevented, delayed, or selected against.
 
 ### Abilities
@@ -872,12 +872,12 @@ The Death Guardian is everything the role was meant to prevent: an undead being 
 
 **Lord of Death's Domain:** All undead creatures within 100 feet that the Guardian commands gain +2 dice on attacks. Undead allies do not make morale saves while the Guardian lives.
 
-**Legendary Resistance (3/day):** If the Death Guardian fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If the Death Guardian fails a save, it can choose to succeed instead.
 
 **Legendary Actions (3 per round):**
 - **Reaper's Blade (1 action):** Make one Reaper's Blade attack
 - **Command Undead (1 action):** One undead within 60 feet immediately moves up to its speed and makes one attack outside its normal initiative
-- **Grave Wind (2 actions):** One living creature within 30 feet takes 6 Soul damage and must pass a DR 3 Will save or be pulled up to 10 feet toward the Guardian
+- **Grave Wind (2 actions):** One living creature within 30 feet takes 6 Spectral damage and must pass a DR 3 Will save or be pulled up to 10 feet toward the Guardian
 
 **Lair Action — Death Bell (Initiative count 20):** All creatures within 60 feet that have taken damage in this encounter must make DR 3 Blood save or their wounds worsen: they take damage equal to half the number of rounds of combat that have passed so far, rounded up (max 3). This is cumulative pressure, but no longer escalates unchecked.
 
@@ -894,8 +894,8 @@ The Death Guardian positions at the center of a summoned undead screen, using Ne
 - Death Guardian's Seal (a sigil branded into the Guardian's palm; holds residual Pillar energy) — **Trade Value**: 200 supplies (used to unlock Pillar-of-Death-locked mechanisms or as a ward against undead creation in an area)
 
 ### Scaling Options
-- **Fallen Guardian Echo (Boss, TV 5):** HP 90, DV 5, Soul 4, SE 30. Reaper's Blade deals 8 damage; risen thralls are only Feralslave Ghouls. No Undying (easily destroyed). Loses all Legendary Actions and Legendary Resistance.
-- **The Death Ascendant (TV 20+):** The Guardian after consuming an entire region's worth of death energy. HP 320, DV 6, Armor 5, Soul 8, SE 130. Legendary Actions increase to 3 per round: Reaper's Blade deals 18 + kills auto-raise Vampire Thralls. Undying triggers within 500 miles of any death. Necrotic Detonation deals 22 and Weakened is permanent until magically cured.
+- **Fallen Guardian Echo (Boss, TV 5):** HP: 90, DV: 5, Soul 4, SE: 30. Reaper's Blade deals 8 damage; risen thralls are only Feralslave Ghouls. No Undying (easily destroyed). Loses all Legendary Actions and Legendary Resistance.
+- **The Death Ascendant (TV 20+):** The Guardian after consuming an entire region's worth of death energy. HP: 320, DV: 6, Armor: 5, Soul 8, SE: 130. Legendary Actions increase to 3 per round: Reaper's Blade deals 18 + kills auto-raise Vampire Thralls. Undying triggers within 500 miles of any death. Necrotic Detonation deals 22 and Weakened is permanent until magically cured.
 
 ---
 
@@ -933,8 +933,8 @@ Encountering Vorador is not something that happens by accident. It happens becau
 **Zephonim's Curse** (2 Actions, costs 15 SE)
 - **Dice Pool:** Soul 5 + Ritualism 5 = 10d6
 - **Range:** 60 feet
-- **Effect:** On hit, target immediately gains 3 Corruption points and all vampiric entities within 60 feet treat the target as a blood-source (they will prioritize attacking the cursed creature until the Curse's duration expires in 3 rounds or is removed).
-- **Save:** DR 5 Will save to halve Corruption gain (still 1 Corruption on success)
+- **Effect:** On hit, target immediately gains 3 Entropic points and all vampiric entities within 60 feet treat the target as a blood-source (they will prioritize attacking the cursed creature until the Curse's duration expires in 3 rounds or is removed).
+- **Save:** DR 5 Will save to halve Corruption gain (still 1 Entropic on success)
 
 **Patriarch's Call** (2 Actions, costs 20 SE, 1/encounter)**
 - **Range:** 300 feet
@@ -949,7 +949,7 @@ Encountering Vorador is not something that happens by accident. It happens becau
 
 **Vampiric Immortality:** When Vorador is reduced to 0 HP without having been killed by a True Stake or Radiant weapon, he disperses into mist and retreats. He is not dead — he will return the next session at full HP unless positive steps are taken to locate and *finish* him. This does not trigger in combat by default; treat as a narrative escalation tool.
 
-**We Are Eternal (Legendary Resistance, 4/day):** If Vorador fails a saving throw, he can choose to succeed instead.
+**We Are Eternal (Legendary Resistance, 4/day):** If Vorador fails a save, he can choose to succeed instead.
 
 **Legendary Actions (3 per round):**
 - **Patriarch's Fang (1 action):** Make one fang attack
@@ -968,12 +968,12 @@ Vorador does not rush. He opens with Zephonim's Curse on the PC with the highest
 
 ### Loot
 - Vorador's ring (Zephonim clan signet; grants immunity to vampiric Domination by lesser vampires and +1 die on all Ritualism rolls) — **Trade Value**: 400 supplies or story item
-- Blood vial of Vorador (his blood is ancient beyond reckoning; drinking it grants a temporary 1d4 hours of vampiric regeneration 2 HP/round — at the cost of 2 Corruption) — **Trade Value**: 250 supplies
+- Blood vial of Vorador (his blood is ancient beyond reckoning; drinking it grants a temporary 1d4 hours of vampiric regeneration 2 HP/round — at the cost of 2 Entropic) — **Trade Value**: 250 supplies
 - Zephonim texts (Vorador's library was legendary; recovering his personal notes rewards the party with 1d4 Glyphcasting or Ritualism techniques) — **Trade Value**: 150 supplies each
 
 ### Scaling Options
-- **Vorador Contained (Boss, TV 6):** A weakened Vorador, recently imprisoned or heavily drained. HP 120, DV 5, Blood 4, SE 40, BP 15. Loses Patriarch's Call and Lair Action. Legendary Actions reduce to 2 per round. Legendary Resistance 2/day.
-- **Vorador Ascendant (TV 21):** Vorador at the absolute peak of his power — free, fed, and with centuries of preparation. HP 300, DV 6, all attributes +1, SE 140, BP 40. Patriarch's Call summons 2d6 Fledglings + 2d2 Overlords. Legendary Actions increase to 4 per round. Lair Actions trigger twice per round.
+- **Vorador Contained (Boss, TV 6):** A weakened Vorador, recently imprisoned or heavily drained. HP: 120, DV: 5, Blood 4, SE: 40, BP: 15. Loses Patriarch's Call and Lair Action. Legendary Actions reduce to 2 per round. Legendary Resistance 2/day.
+- **Vorador Ascendant (TV 21):** Vorador at the absolute peak of his power — free, fed, and with centuries of preparation. HP: 300, DV: 6, all attributes +1, SE: 140, BP: 40. Patriarch's Call summons 2d6 Fledglings + 2d2 Overlords. Legendary Actions increase to 4 per round. Lair Actions trigger twice per round.
 
 ---
 
@@ -1004,27 +1004,27 @@ An Overlord is the supreme field commander of any Hylden incursion — the decis
 **Hylden Blade** (Action)
 - **Dice Pool:** Fury 5 + Weapon Mastery 4 = 9d6
 - **Range:** Weapon Mastery (15-foot reach — dimensional extension)
-- **Damage:** 15 physical + 5 Soul (the blade passes through dimensions as it strikes)
+- **Damage:** 15 physical + 5 Spectral (the blade passes through dimensions as it strikes)
 - **Special:** On hit, target is **Marked** — all Hylden forces' attacks deal +3 damage against Marked targets. Marking lasts until the target leaves combat or the Overlord is defeated. Multiple Marks from different hits do not stack.
 
 **Corruption Surge** (2 Actions, costs 15 SE, Recharge 5-6)
 - **Dice Pool:** Soul 6 + Forbidden Knowledge 4 = 10d6
 - **Range:** 40-foot radius
-- **Effect:** All living creatures in range make DR 5 Will save. On fail: immediately gain 3 Corruption and take 12 Corruption damage. All Hylden forces within range simultaneously heal 8 HP.
-- **On Success:** 1 Corruption and 6 Corruption damage.
+- **Effect:** All living creatures in range make DR 5 Will save. On fail: immediately gain 3 Entropic and take 12 Entropic damage. All Hylden forces within range simultaneously heal 8 HP.
+- **On Success:** 1 Entropic and 6 Entropic damage.
 
 **Dimensional Anchor** (2 Actions, costs 20 SE, 1/encounter)
 - **Range:** 60 feet, one target
-- **Effect:** The Overlord imprisons the target in a Hylden dimensional pocket. The target is **removed from combat** for 3d6 rounds — they cannot be targeted, act, or perceive their surroundings during this time. The effect can be ended early by a DR 5 Glyphcasting check (as an action by any character with spellcasting ability) or by disrupting the Overlord's concentration (3+ Soul damage in one hit).
+- **Effect:** The Overlord imprisons the target in a Hylden dimensional pocket. The target is **removed from combat** for 3d6 rounds — they cannot be targeted, act, or perceive their surroundings during this time. The effect can be ended early by a DR 5 Glyphcasting check (as an action by any character with spellcasting ability) or by disrupting the Overlord's concentration (3+ Spectral damage in one hit).
 - **Save:** DR 5 Will save to avoid entirely. On success, the target is merely Stunned for 1 round.
 
 ### Abilities
 
 **Tactics (Passive):** All Hylden forces (any creature with the Hylden type or in Hylden service) within 100 feet gain +2 dice on all attacks and saves. Hylden Rift-Priests and War-Stalkers act on initiative count 20 during their turns if they have not yet acted that round (priority response command).
 
-**Dimensional Resistance:** The Overlord is immune to being Teleported, Displaced, or Banished against its will. It can choose to trigger a dimension-skip (Bonus Action, costs 8 SE): teleport up to 40 feet, leaving a 10-foot radius shockwave of 6 Soul damage at origin point.
+**Dimensional Resistance:** The Overlord is immune to being Teleported, Displaced, or Banished against its will. It can choose to trigger a dimension-skip (Bonus Action, costs 8 SE): teleport up to 40 feet, leaving a 10-foot radius shockwave of 6 Spectral damage at origin point.
 
-**Legendary Resistance (4/day):** If the Overlord fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (4/day):** If the Overlord fails a save, it can choose to succeed instead.
 
 **Legendary Actions (3 per round):**
 - **Hylden Blade (1 action):** Make one Hylden Blade attack
@@ -1032,7 +1032,7 @@ An Overlord is the supreme field commander of any Hylden incursion — the decis
 - **Dimensional Anchor (3 actions, 1/encounter):** Use Dimensional Anchor immediately outside normal turn order
 
 **Lair Action — Rift Tear (Initiative count 20):**
-- The Overlord tears a spatial rift in a 20-foot radius at any point within 60 feet. All non-Hylden creatures in the rift area make DR 4 Blood save or take 10 Soul damage and are Displaced 20 feet in a random direction (roll d8 for direction).
+- The Overlord tears a spatial rift in a 20-foot radius at any point within 60 feet. All non-Hylden creatures in the rift area make DR 4 Blood save or take 10 Spectral damage and are Displaced 20 feet in a random direction (roll d8 for direction).
 
 **Behavior Tags:** boss, controller, soldier
 
@@ -1044,14 +1044,14 @@ The Overlord opens with **Tactics** aura in effect, then uses Dimensional Anchor
 **Encounter Design:** The Hylden Overlord makes the most sense as a campaign-climax encounter — the commander behind every Hylden incursion the party has fought throughout the arc. Pair with 2 Hylden Rift-Priests (TV 11 each), 3 Hylden War-Stalkers (TV 7 each), and 6 Hylden Shock Troopers (TV 9 each) for a full-army confrontation encounter at TV 116 — reserved for groups that have earned a true endgame military-scale finale.
 
 ### Loot
-- Hylden Overlord's Warpplate (exceptional armor; Armor 3, grants the wearer immunity to Dimensional Anchor and forced teleportation effects) — **Trade Value**: 500 supplies (story item)
+- Hylden Overlord's Warpplate (exceptional armor; Armor: 3, grants the wearer immunity to Dimensional Anchor and forced teleportation effects) — **Trade Value**: 500 supplies (story item)
 - Dimensional anchor crystal (the component used for the Anchor ability; a skilled artificer could reverse-engineer it into a one-use dimensional prison trap) — **Trade Value**: 200 supplies
 - Hylden command seal (grants the bearer authority over lesser Hylden; surviving Hylden forces within 100 feet must make DR 4 Will save or treat the bearer as an Overlord for 1 hour) — **Trade Value**: 300 supplies (or story item)
 - Strategic record (the Overlord's tactical assessment of Nosgoth, its strongpoints, its weaknesses, and the Hylden's invasion timeline) — **Trade Value**: priceless to any opposing faction
 
 ### Scaling Options
-- **Hylden Warlord (Boss, TV 5):** HP 105, DV 5, Soul 4, SE 40. No Dimensional Anchor or Lair Action. Legendary Actions reduce to 2 per round. Legendary Resistance 2/day. Tactics aura 60 feet only.
-- **Hylden God-Emperor (TV 22+):** The Overlord empowered by direct contact with the Elder God's design, having spent centuries modifying body and mind to overcome every weakness. HP 360, DV 6, all attributes +1, SE 160. Dimensional Anchor affects 2 targets simultaneously (separate saves). Corruption Surge deals 18 damage and applies 4 Corruption on fail. Lair Action triggers twice per round. Legendary Actions increase to 4 per round.
+- **Hylden Warlord (Boss, TV 5):** HP: 105, DV: 5, Soul 4, SE: 40. No Dimensional Anchor or Lair Action. Legendary Actions reduce to 2 per round. Legendary Resistance 2/day. Tactics aura 60 feet only.
+- **Hylden God-Emperor (TV 22+):** The Overlord empowered by direct contact with the Elder God's design, having spent centuries modifying body and mind to overcome every weakness. HP: 360, DV: 6, all attributes +1, SE: 160. Dimensional Anchor affects 2 targets simultaneously (separate saves). Corruption Surge deals 18 damage and applies 4 Entropic on fail. Lair Action triggers twice per round. Legendary Actions increase to 4 per round.
 
 ---
 
@@ -1072,7 +1072,7 @@ The Overlord opens with **Tactics** aura in effect, then uses Dimensional Anchor
 - **Attributes:** Fury 3, Soul 8, Shadow 4, Will 6, Focus 5, Blood 2
 - **Skills:** Forbidden Knowledge 4, Intimidation 2, Insight 5
 
-**Immunities:** Fear, Charm
+**Immunities:** Frightened, Charmededededed
 **Resistances:** Spectral, Force
 **Vulnerabilities:** Soul Reavers, concentrated Pillar essence, Radiant on psychic structures
 
@@ -1087,7 +1087,7 @@ The Overlord opens with **Tactics** aura in effect, then uses Dimensional Anchor
 - Action: 1; Cost: 8 SE; 40ft; target makes a DR 4 Will save or becomes Restrained and cannot spend SE for 2 rounds. A creature already Restrained this way is also Weakened.
 
 3) Corruption Pulse (AoE)
-- Action: 1; Cost: 10 SE; 20ft radius; all targets take 8 Entropic damage. DR 4 Will save or gain 1 Corruption point. Recharge 5-6.
+- Action: 1; Cost: 10 SE; 20ft radius; all targets take 8 Entropic damage. DR 4 Will save or gain 1 Entropic point. Recharge 5-6.
 
 ### Abilities
 
@@ -1097,7 +1097,7 @@ The Overlord opens with **Tactics** aura in effect, then uses Dimensional Anchor
 5) False Purpose (Lore Ability)
 - Outside of combat, the Eye of the Wheel can act as an infiltrator or advisor. GMs may use this entity as a long-term deception — a patron, oracle, or guide who is secretly a conduit for the Elder God. Creatures within 30ft who attempt to discern its true nature must make a Forbidden Knowledge or Insight check (DR 5) to see through its disguise.
 
-**Legendary Resistance (2/day):** If the Eye fails a saving throw, it may choose to succeed instead.
+**Legendary Resistance (2/day):** If the Eye fails a save, it may choose to succeed instead.
 
 Legendary Actions (2 per round)
 - Tendril Strike: 15ft melee — 10 Spectral damage (1 action).
@@ -1124,7 +1124,7 @@ Regional Effects
 
 ### Loot
 
-- **Eye-Fragment Lens:** A shard of the vessel's body. Grants the wearer +2 to Forbidden Knowledge and the ability to detect Elder God influence within 30ft (passive). Carrying it for more than a week without a purification ritual inflicts 1 Corruption per day.
+- **Eye-Fragment Lens:** A shard of the vessel's body. Grants the wearer +2 to Forbidden Knowledge and the ability to detect Elder God influence within 30ft (passive). Carrying it for more than a week without a purification ritual inflicts 1 Entropic per day.
 - **Spoke of Memory:** A crystallized SE-filament from the Wheel's connection. Can be used once to completely restore a creature's SE to maximum as a bonus action.
 - **The False Oracle's Notes:** Documents in the Eye's handwriting predicting party actions, detailing vulnerabilities of regional leaders, and mapping Pillar-node locations (all accurate, all obtained through the Elder God's sight).
 
@@ -1132,7 +1132,7 @@ Regional Effects
 
 ### Scaling Options
 
-**Weakened Form (TV 10):** HP 70; SE 40; Armor 1. Soul reduced to 6, Will to 4. Loses Legendary Resistance and Lair Action. Corruption Pulse recharges on 6 only. Suitable for a freshly-bound vessel still developing its connection to the Elder God, or an Eye whose link to the Wheel has been partially severed.
+**Weakened Form (TV 10):** HP: 70 | SE: 40 | Armor: 1. Soul reduced to 6, Will to 4. Loses Legendary Resistance and Lair Action. Corruption Pulse recharges on 6 only. Suitable for a freshly-bound vessel still developing its connection to the Elder God, or an Eye whose link to the Wheel has been partially severed.
 
 ---
 
@@ -1153,7 +1153,7 @@ Regional Effects
 - **Attributes:** Fury 4, Soul 12, Shadow 6, Will 10, Focus 8, Blood 0
 - **Skills:** Forbidden Knowledge 6, Intimidation 4, Insight 4
 
-**Immunities:** Non-magical physical, Fear, Charm, Blood-based effects
+**Immunities:** Non-magical physical, Frightened, Charmededededed, Blood-based effects
 **Resistances:** All elemental, Spectral, Force, Radiant
 **Vulnerabilities:** Soul Reavers wielded by a creature with a purified soul, concentrated Pillar essence, direct Spectral Realm disruption (severing the Wheel's rotation)
 
@@ -1181,9 +1181,9 @@ Regional Effects
 - At the start of each of the Elder God's turns, it regenerates 15 HP. This regeneration is suppressed until the start of the Elder God's next turn if it took damage from a Soul Reaver or was struck by a Pillar-purified effect that turn.
 
 4) Wheel's Will (Reaction)
-- Cost: 20 SE; When a creature within 60ft succeeds on a saving throw, the Elder God may force them to reroll, taking the new result.
+- Cost: 20 SE; When a creature within 60ft succeeds on a save, the Elder God may force them to reroll, taking the new result.
 
-**Legendary Resistance (5/day):** If the Elder God fails a saving throw, it may choose to succeed instead.
+**Legendary Resistance (5/day):** If the Elder God fails a save, it may choose to succeed instead.
 
 Legendary Actions (3 per round)
 - Disgorge: 30ft; 12 Entropic damage to one creature (1 action).
@@ -1195,7 +1195,7 @@ Lair Action (on 20 Initiative)
 - Pillar of Consumption: One section of the battlefield (15ft radius) becomes a zone of spiritual leeching. Any creature starting its turn there automatically loses 5 HP and 3 SE (no save). The zone persists for 3 rounds. Multiple zones can exist simultaneously.
 
 Regional Effects
-- The Wheel's full presence within 5 miles suppresses all SE regeneration by half. Creatures who die in this area are utterly consumed — no ghost, no Spectral echo, no revival without extraordinary intervention. Divination magic fails entirely. Vampires and soul-sensitive creatures feel existential dread and must make a DR 3 Will save at the start of each session spent in the region or gain 1 Corruption.
+- The Wheel's full presence within 5 miles suppresses all SE regeneration by half. Creatures who die in this area are utterly consumed — no ghost, no Spectral echo, no revival without extraordinary intervention. Divination magic fails entirely. Vampires and soul-sensitive creatures feel existential dread and must make a DR 3 Will save at the start of each session spent in the region or gain 1 Entropic.
 
 ---
 
@@ -1222,4 +1222,4 @@ Regional Effects
 
 ### Scaling Options
 
-**Weakened Form (TV 17):** HP 200; SE 100; Armor 5. Soul reduced to 10, Will to 8, Focus to 6. Loses 3 Legendary Resistances (retains 2/day). Inexorable Regeneration reduced to 8 HP. Consume the Dead becomes Recharge 5-6. Suitable for a partial manifestation summoned through a flawed ritual, or the Elder God projecting power through a single cracked Pillar rather than a full confluence.
+**Weakened Form (TV 17):** HP: 200 | SE: 100 | Armor: 5. Soul reduced to 10, Will to 8, Focus to 6. Loses 3 Legendary Resistances (retains 2/day). Inexorable Regeneration reduced to 8 HP. Consume the Dead becomes Recharge 5-6. Suitable for a partial manifestation summoned through a flawed ritual, or the Elder God projecting power through a single cracked Pillar rather than a full confluence.

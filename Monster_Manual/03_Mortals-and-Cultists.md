@@ -72,7 +72,7 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 - Effect: The Fanatic throws themselves at an enemy with suicidal abandon. If this attack would reduce the Fanatic to 0 HP (from reactions or opportunity attacks), they gain Advantage on the roll.
 
 ### Abilities
-**Cult Indoctrination**: Immune to fear effects. Automatically pass morale checks.
+**Cult Indoctrination**: Immune to Frightened effects. Automatically pass morale checks.
 
 **Death Ecstasy**: When reduced to 0 HP, the Fanatic laughs maniacally and whispers a prayer. All allies within 10 feet gain Advantage on Will saves until the end of the encounter.
 
@@ -109,7 +109,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 - **Defense Value (DV)**: 3
 - **Difficulty Rating (DR)**: 2 (all saves)
 - **Movement**: 25 feet per turn
-- **Armor**: Light (blessed robes, Armor 1 vs Physical)
+- **Armor**: Light (blessed robes, Armor: 1 vs Physical)
 - **Initiative:** 3
 
 **Attributes**:
@@ -129,13 +129,13 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 ### Attacks
 **Corrupted Smite** (Soul 4 + Lore 3 = 7d6)
 - Range: 20 feet
-- Damage: 4 Soul damage on success
+- Damage: 4 Spectral damage on success
 - Effect: Target must pass a DR 2 Will save or be Shaken (Disadvantage on next attack roll).
 
 **Dark Blessing** (Soul 4 + Lore 3 = 7d6, Recharge 5-6)
 - Range: 30 feet (ally or self)
 - Damage: None
-- Effect: Grant one ally +2 dice on all rolls until the end of their next turn. That ally takes 2 Soul damage immediately (unavoidable).
+- Effect: Grant one ally +2 dice on all rolls until the end of their next turn. That ally takes 2 Spectral damage immediately (unavoidable).
 
 **Mace of Broken Faith** (Fury 1 + Weapon Mastery 1 = 2d6)
 - Range: Weapon Mastery
@@ -147,7 +147,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 
 **Ritualism of Twisted Faith** (1/day): Spend 10 minutes performing a ritual. Choose one effect:
 - Raise 1d3 Feralslave Ghouls (Minions, TV 2 each) to serve for 1 hour
-- Heal all allies within 30 feet for 10 HP, but each takes 1 Corruption
+- Heal all allies within 30 feet for 10 HP, but each takes 1 Entropic
 - Place a Zone of Despair (20-foot radius) that imposes Disadvantage on all enemy rolls while inside
 
 **False Prophet**: The Priest can speak with divine authority, making Intimidation rolls with Advantage against faithful mortals.
@@ -161,12 +161,12 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 
 ### Loot
 - Corrupted holy symbol - **Trade Value**: 10 supplies (to cultists), 5 supplies (to scholars)
-- Blessed robes (Light armor, Armor 1) - **Trade Value**: 15 supplies
+- Blessed robes (Light armor, Armor: 1) - **Trade Value**: 15 supplies
 - Ritualism components - **Trade Value**: 8 supplies
 - Prayer book with crossed-out passages - **Trade Value**: 12 supplies (lore/history)
 
 ### Scaling Options
-**High Priest of Despair** (Elite, TV 7): +10 HP, +1 Soul, +1 Will, increase Lore to 4. Add "Mass Curse" ability (affects all enemies within 20 feet).
+**High Priest of Despair** (Elite, TV 7): +10 HP, +1 Spectral, +1 Will, increase Lore to 4. Add "Mass Curse" ability (affects all enemies within 20 feet).
 
 ---
 
@@ -206,7 +206,7 @@ Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are ha
 ### Attacks
 **Paradox Touch** (Soul 4 + Insight 4 = 8d6)
 - Range: Weapon Mastery
-- Damage: 5 Soul damage on success
+- Damage: 5 Spectral damage on success
 - Effect: Target experiences visions of their own death. They must pass a DR 3 Will save or be Stunned until the end of their next turn.
 
 **Temporal Echo** (Reaction, 1/encounter)
@@ -234,7 +234,7 @@ Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are ha
 **Behavior Tags:** controller, coward
 
 ### Tactics
-- **Evasive and Unpredictable**: The Seer uses high DV and Fractured Timeline to avoid damage. They're frustrating to pin down.
+- **Evasive and Unpredictable**: The Seer uses high DV and Fractured Timeline to aEntropic damage. They're frustrating to pin down.
 - **Temporal Echo Priority**: They use this ability to undo powerful attacks, healing spells, or tactical positioning by enemies.
 - **Prophetic Warnings for Allies**: If accompanied by cultists or other mortals, the Seer's warnings make them much harder to hit.
 - **Intimidation**: Cryptic Prophecies unnerve players and create paranoia.
@@ -267,7 +267,7 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 3 (all saves)
 - **Movement**: 30 feet per turn
-- **Armor**: Heavy (blessed plate armor, Armor 3 vs Physical, Armor 2 vs Soul/Necrotic)
+- **Armor**: Heavy (blessed plate armor, Armor: 3 vs Physical, Armor: 2 vs Soul/Necrotic)
 - **Initiative:** 2
 
 **Attributes**:
@@ -319,7 +319,7 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 
 ### Loot
 - Silver longsword (Weapon Mastery weapon, +2 damage vs undead) - **Trade Value**: 35 supplies
-- Blessed plate armor (Heavy, Armor 3 Physical, Armor 2 Soul) - **Trade Value**: 50 supplies
+- Blessed plate armor (Heavy, Armor: 3 Physical, Armor: 2 Spectral) - **Trade Value**: 50 supplies
 - Silvered crossbow bolts (10 bolts) - **Trade Value**: 15 supplies
 - Holy water (1d3 vials, deals 4 Radiant damage to undead on contact) - **Trade Value**: 8 supplies per vial
 - Sarafan insignia (proves membership in the Order) - **Trade Value**: 20 supplies (to collectors), could grant access to Sarafan strongholds or cause hostility depending on PC actions
@@ -347,7 +347,7 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 - **Defense Value (DV)**: 4
 - **Difficulty Rating (DR)**: 1 (all saves)
 - **Movement**: 35 feet per turn (unarmored)
-- **Armor**: Light (leather and furs, Armor 1 vs Physical)
+- **Armor**: Light (leather and furs, Armor: 1 vs Physical)
 - **Initiative:** 5
 
 **Attributes**:
@@ -440,7 +440,7 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 ### Attacks
 **Void Bolt** (Soul 5 + Glyphcasting 4 = 9d6)
 - Range: 40 feet
-- Damage: 6 Soul damage on success
+- Damage: 6 Spectral damage on success
 - Effect: On Critical Hit (3+ successes), the target is Cursed (Disadvantage on their next roll).
 
 **Hylden Flame** (Soul 5 + Glyphcasting 4 = 9d6, costs 2 SE)
@@ -450,15 +450,15 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 
 **Rune of Torment** (Soul 5 + Glyphcasting 4 = 9d6, Recharge 5-6, costs 3 SE)
 - Range: 30 feet
-- Damage: 8 Soul damage
+- Damage: 8 Spectral damage
 - Effect: The target must pass a DR 3 Will save or be Stunned until the end of their next turn as agony wracks their mind.
 
 ### Abilities
-**Runic Shielding**: The Warlock's runes flare when attacked, granting Armor 2 against all damage types. However, each time the Warlock takes damage, they lose 1 SE as the runes consume energy to protect them.
+**Runic Shielding**: The Warlock's runes flare when attacked, granting Armor: 2 against all damage types. However, each time the Warlock takes damage, they lose 1 SE as the runes consume energy to protect them.
 
 **Blood Price**: The Warlock can spend HP instead of SE to cast spells. For every 2 HP spent, gain 1 SE. This can be used even when the Warlock has 0 SE remaining.
 
-**Demon Summoning** (1/day, requires 10-minute ritual): The Warlock summons an **Abyssal Servant** (Standard, TV 4) to serve them for 1 hour. *(Abyssal Servant: HP 12, DV 3, Armor 0; Attack: **Claw** 4d6 melee — 3 Entropic damage; Immune to fear and charm; cannot act independently of summoner's instructions.)* The demon obeys commands but is hostile and will attack the Warlock if they show weakness.
+**Demon Summoning** (1/day, requires 10-minute ritual): The Warlock summons an **Abyssal Servant** (Standard, TV 4) to serve them for 1 hour. *(Abyssal Servant: HP: 12, DV: 3, Armor: 0; Attack: **Claw** 4d6 melee — 3 Entropic damage; Immune to Frightened and charm; cannot act independently of summoner's instructions.)* The demon obeys commands but is hostile and will attack the Warlock if they show weakness.
 
 **Rune of Warding** (Reaction, 1/encounter): When targeted by an attack, the Warlock can activate a warding rune. They teleport up to 20 feet to an unoccupied space they can see, and the attack misses automatically.
 
@@ -500,7 +500,7 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 - **Defense Value (DV)**: 6 (agile and trained to evade)
 - **Difficulty Rating (DR)**: 3 (Shadow and Focus saves), 2 (other saves)
 - **Movement**: 40 feet per turn (light armor, acrobatic)
-- **Armor**: Light (dark leathers, Armor 1 vs Physical)
+- **Armor**: Light (dark leathers, Armor: 1 vs Physical)
 - **Initiative:** 7
 
 **Attributes**:
@@ -579,7 +579,7 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 3 (all saves, trained resilience)
 - **Movement**: 30 feet per turn
-- **Armor**: Heavy (rune-inscribed plate, Armor 3 vs Physical, Armor 2 vs Magic)
+- **Armor**: Heavy (rune-inscribed plate, Armor: 3 vs Physical, Armor: 2 vs Magic)
 - **Initiative:** 4
 
 **Attributes**:
@@ -630,7 +630,7 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 
 ### Loot
 - Rune-etched longsword (Weapon Mastery weapon, +2 dice vs spellcasters) - **Trade Value**: 40 supplies
-- Rune-inscribed plate armor (Heavy, Armor 3 Physical, Armor 2 Magic) - **Trade Value**: 60 supplies
+- Rune-inscribed plate armor (Heavy, Armor: 3 Physical, Armor: 2 Magic) - **Trade Value**: 60 supplies
 - Witch-Hunter insignia (grants access to Witch-Hunter strongholds) - **Trade Value**: 25 supplies (or story leverage)
 - Anti-magic manacles (magical restraints, prevents spellcasting while worn) - **Trade Value**: 30 supplies
 
@@ -672,7 +672,7 @@ The outer ring of Hash'ak'gik's worship—mortals seduced by visions of a god th
 
 **Vessel's Calm** (Passive): Immune to Morale checks. Acolytes of Hash'ak'gik never flee, never surrender, and never negotiate once combat begins. This should unnerve players accustomed to mortal enemies breaking.
 
-**Sacrificial Strike** (Weapon Mastery, 1 Action): Fury (2) + Weapon Mastery (1) = 3d6 vs DV. Deals 4 Force damage. On a critical hit, the target gains 1 Corruption as demonic energy bleeds through the wound.
+**Sacrificial Strike** (Weapon Mastery, 1 Action): Fury (2) + Weapon Mastery (1) = 3d6 vs DV. Deals 4 Force damage. On a critical hit, the target gains 1 Entropic as demonic energy bleeds through the wound.
 
 ### Encounter Role
 Acolytes are disposable screening troops. Their true danger is the Blood-Prayer coordination and refusal to break. Use them in groups of 4–6, supporting a Vessel of Hash'ak'gik or guarding a ritual site.
@@ -688,7 +688,7 @@ Acolytes activate Blood-Prayer in the first round, then advance in tight formati
 - Vial of donor blood (1 dose) – **Trade Value**: 2 supplies; can be used as a Corruption-tainted alchemical component
 
 ### Scaling Options
-**Devoted Acolyte** (TV 5): +8 HP, +1 Soul. Sacrificial Strike deals 6 damage and inflicts Weakened on critical hit in addition to Corruption.
+**Devoted Acolyte** (TV 5): +8 HP, +1 Spectral. Sacrificial Strike deals 6 damage and inflicts Weakened on critical hit in addition to Corruption.
 
 ---
 
@@ -724,11 +724,11 @@ A mortal hollowed out by Hash'ak'gik's will and rebuilt as a living conduit for 
 
 **Voice of the Pit** (Action, Recharge 5–6): The Vessel speaks with Hash'ak'gik's voice. All enemies within 30 ft must make a DR 3 Will save or become Frightened for 2 rounds. Creatures that fail by 3+ are also Stunned for 1 round. This ability has no visible magical effect—it is simply *words*, spoken with absolute authority.
 
-**Demonic Surge** (Melee or Ranged, 1 Action): Soul (4) + Forbidden Knowledge (2) = 6d6 vs DV. Deals 8 Force damage. The Vessel's hands crackle with black-red energy. On hit, the target must make a DR 2 Blood save or gain 1 Corruption.
+**Demonic Surge** (Melee or Ranged, 1 Action): Soul (4) + Forbidden Knowledge (2) = 6d6 vs DV. Deals 8 Force damage. The Vessel's hands crackle with black-red energy. On hit, the target must make a DR 2 Blood save or gain 1 Entropic.
 
 **Blood Conduit** (Reaction, once per scene): The first time the Vessel becomes Bloodied, it sacrifices one adjacent Acolyte (killing them instantly) to restore 15 HP and gain +1 DV until end of next turn.
 
-**Ethereal Mastery Cascade** (Special, 1/encounter): If the Vessel is killed, the demonic essence attempts to leap to the nearest mortal within 15 ft (including PCs). Target must make a DR 4 Will save. On failure, they are Stunned for 1 round and gain 2 Corruption. On success, the essence dissipates—for now.
+**Ethereal Mastery Cascade** (Special, 1/encounter): If the Vessel is killed, the demonic essence attempts to leap to the nearest mortal within 15 ft (including PCs). Target must make a DR 4 Will save. On failure, they are Stunned for 1 round and gain 2 Entropic. On success, the essence dissipates—for now.
 
 ### Encounter Role
 Vessels are mid-tier bosses designed for investigation-heavy encounters. The challenge is often *finding* the Vessel before combat, not winning the fight itself. Pair with 4–6 Acolytes for a full cult encounter.
@@ -769,7 +769,7 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 4 (all saves)
 - **Movement**: 30 feet per turn
-- **Armor**: Heavy (Sarafan blessed plate, Armor 4 vs Physical, Armor 2 vs Magic)
+- **Armor**: Heavy (Sarafan blessed plate, Armor: 4 vs Physical, Armor: 2 vs Magic)
 - **Initiative:** 2
 - **Soul Energy (SE):** 18
 
@@ -795,7 +795,7 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 
 **Divine Condemnation** (Soul 5 + Intimidation 5 = 10d6, costs 3 SE)
 - Range: 60 feet
-- Damage: 7 Radiant + 4 Soul damage
+- Damage: 7 Radiant + 4 Spectral damage
 - Effect: Undead and vampiric targets take double the Radiant portion (14 Radiant). On Critical Hit, the target is **Marked by the Sarafan** — all Sarafan allies gain +1 die on attacks against it for 3 rounds.
 
 **Sanctified Judgment** (Will 6 + Intimidation 5 = 11d6, Recharge 5-6, costs 5 SE)
@@ -806,7 +806,7 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 ### Abilities
 **Sanctified Aura** (Passive): All Sarafan allies within 15 feet gain Advantage on Will saves. Undead and vampiric PCs suffer Disadvantage on attack rolls while within the aura. The aura is suppressed for 1 round if the Grand Inquisitor takes 15+ damage in a single hit.
 
-**Unshakable Faith**: Immune to fear, charm, Domination, and Corruption. Automatically succeeds on Will saves against mind-control effects.
+**Unshakable Faith**: Immune to Frightened, charm, Domination, and Corruption. Automatically succeeds on Will saves against mind-control effects.
 
 **Inquisitor's Judgment**: The Grand Inquisitor can sense undead and vampiric creatures within 120 feet, regardless of disguise, invisibility, or Mist Form. This detection is supernatural (holy instinct) and cannot be fooled by mundane means. Magical concealment requires a contested roll: the concealer's pool vs the Inquisitor's Will 6 + Observation 3 = 9d6.
 
@@ -834,15 +834,15 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 
 ### Loot
 - Purifier's Mace (holy weapon, deals +3 Radiant to undead; wielder who is undead/vampiric takes 3 Radiant damage at the start of each turn while holding it) — **Trade Value**: 150 supplies
-- Sarafan Grand Plate (Armor 4 Physical, Armor 2 Magic, grants immunity to fear; bears Sarafan insignia, making the wearer a target for all vampire factions) — **Trade Value**: 200 supplies
+- Sarafan Grand Plate (Armor: 4 Physical, Armor: 2 Magic, grants immunity to fear; bears Sarafan insignia, making the wearer a target for all vampire factions) — **Trade Value**: 200 supplies
 - Holy symbol of the Grand Inquisitor (cast Divine Condemnation 1/day, DR 3 Soul check required) — **Trade Value**: 120 supplies
 - Sealed orders (reveals Sarafan strategic objectives, troop movements, or targeted individuals — major plot hook) — **Trade Value**: Priceless to the right faction
 - Sanctified oil (3 doses, weapons coated deal +2 Radiant for 1 hour) — **Trade Value**: 30 supplies per dose
 
 ### Scaling Options
-**Sarafan Inquisitor-Captain** (Elite, TV 8): HP 50, DV 5, -1 to all attributes. Remove Legendary Actions and Legendary Resistance. Remove Sanctified Judgment. Reduce SE to 10.
+**Sarafan Inquisitor-Captain** (Elite, TV 8): HP: 50, DV: 5, -1 to all attributes. Remove Legendary Actions and Legendary Resistance. Remove Sanctified Judgment. Reduce SE to 10.
 
-**Sarafan High Inquisitor** (Legendary, TV 16): HP 130, Will 7, Soul 6. Legendary Resistance 3/day. Add "Holy Crusade" Legendary Action (3 actions): All Sarafan within 60 feet make one free attack and gain +2 DV for 1 round. Add Lair Actions for Sarafan fortresses.
+**Sarafan High Inquisitor** (Legendary, TV 16): HP: 130, Will 7, Soul 6. Legendary Resistance 3/day. Add "Holy Crusade" Legendary Action (3 actions): All Sarafan within 60 feet make one free attack and gain +2 DV for 1 round. Add Lair Actions for Sarafan fortresses.
 
 ---
 
@@ -891,7 +891,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 **Desperate Bite** (Fury 5 + Unarmed Combat 3 = 8d6, requires target is Grappled or Prone)
 - Range: Weapon Mastery
 - Damage: 10 Physical (Piercing) + 5 HP drain
-- Effect: The Turning regains 5 HP. The bitten target must make a DR 2 Blood save or contract **Vampiric Taint** (1 Corruption point; if the target reaches 5+ Corruption from this source, they begin their own Turning in 1d6 days — plot hook, not mechanical transformation).
+- Effect: The Turning regains 5 HP. The bitten target must make a DR 2 Blood save or contract **Vampiric Taint** (1 Entropic point; if the target reaches 5+ Corruption from this source, they begin their own Turning in 1d6 days — plot hook, not mechanical transformation).
 
 **Blood Cry** (Blood 4 + 0 = 4d6, 20-foot radius, Recharge 5-6)
 - Range: Self-centered, 20-foot radius
@@ -908,7 +908,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 
 **Feral Desperation**: While Bloodied, the Turning gains +2 dice on all attack rolls but loses the ability to distinguish friend from foe — it attacks the nearest creature regardless of allegiance. The GM controls targeting.
 
-**Tragic Wilderness**: A DR 4 Craft or Ritualism check as an Action can identify that this creature was recently human and that the transformation is incomplete. A DR 5 Ritualism check performed over 3 consecutive rounds (the caster must maintain concentration and remain within 5 feet) can halt the transformation, reverting the creature to an unconscious mortal with 1 HP and 3 Corruption. The Turning fights normally during this process.
+**Tragic Wilderness**: A DR 4 Craft or Ritualism check as an Action can identify that this creature was recently human and that the transformation is incomplete. A DR 5 Ritualism check performed over 3 consecutive rounds (the caster must maintain concentration and remain within 5 feet) can halt the transformation, reverting the creature to an unconscious mortal with 1 HP and 3 Entropic. The Turning fights normally during this process.
 
 ### Reactions
 **Lashing Reflex** (Reaction, when a creature enters melee range)
@@ -927,9 +927,9 @@ The Turning fights on fractured instinct rather than reason, but those instincts
 - If saved: the living victim, who may become an ally, informant, or ongoing responsibility
 
 ### Scaling Options
-**Early Turning** (Standard, TV 4): HP 25, DV 4, Fury 3, Blood 2. Remove Feral Desperation. Unstable Form always rolls 1–2 (the transformation is failing). DR 3 Ritualism check to save (only 1 round needed).
+**Early Turning** (Standard, TV 4): HP: 25, DV: 4, Fury 3, Blood 2. Remove Feral Desperation. Unstable Form always rolls 1–2 (the transformation is failing). DR 3 Ritualism check to save (only 1 round needed).
 
-**Complete Turning** (Boss, TV 11): HP 70, DV 6, Fury 6, Blood 5. Remove Tragic Wilderness (the person is gone). Add Vampiric Regeneration (regains 4 HP at the start of each turn). Add Legendary Actions (2/round): Rending Claws (1), Blood Cry (2). The creature is now a full feral vampire in all but name.
+**Complete Turning** (Boss, TV 11): HP: 70, DV: 6, Fury 6, Blood 5. Remove Tragic Wilderness (the person is gone). Add Vampiric Regeneration (regains 4 HP at the start of each turn). Add Legendary Actions (2/round): Rending Claws (1), Blood Cry (2). The creature is now a full feral vampire in all but name.
 
 ---
 
@@ -1072,7 +1072,7 @@ When running **Elite** or **Boss**-tier mortals in climactic encounters, conside
 **For Black Rune Warlocks**:
 - **Teleport**: The mortal teleports up to 20 feet to an unoccupied space they can see.
 - **Cantrip**: The mortal casts a minor spell (Void Bolt at reduced dice, 4d6 instead of 9d6).
-- **Runic Barrier** (costs 2 actions): The mortal creates a magical barrier, granting themselves +2 DV and Armor 2 until the start of their next turn.
+- **Runic Barrier** (costs 2 actions): The mortal creates a magical barrier, granting themselves +2 DV and Armor: 2 until the start of their next turn.
 
 **For Bleeding Eye Assassins**:
 - **Shadow Step**: The mortal teleports up to 15 feet to a shadowed area and becomes Hidden.
@@ -1104,7 +1104,7 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 - **Defense Value (DV)**: 6
 - **Difficulty Rating (DR)**: 4 (all saves)
 - **Movement**: 30 feet per turn
-- **Armor**: 5 (Consecrated Sarafan Warplate — Armor 5 vs Physical, 3 vs Magical)
+- **Armor**: 5 (Consecrated Sarafan Warplate — Armor: 5 vs Physical, 3 vs Magical)
 - **Initiative:** 4
 - **Soul Energy (SE):** 20
 
@@ -1151,11 +1151,11 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 
 **Consecrated Presence** (Passive): Undead creatures within 20 feet of the Warlord have Disadvantage on attack rolls (the holy aura weakens their connection to unlife).
 
-**Unbreakable Concentration** (Passive): The Warlord is immune to fear, charm, and Corruption effects. Mortal allies within 30 feet gain Advantage on Will saves against these effects.
+**Unbreakable Concentration** (Passive): The Warlord is Immune to Frightened, charm, and Corruption effects. Mortal allies within 30 feet gain Advantage on Will saves against these effects.
 
 **Last Stand** (Passive): When reduced to 25 HP or below, the Warlord enters a state of righteous fury. They gain +2 dice on all attack rolls and their movement speed increases by 10 feet. This lasts until the Warlord is healed above 25 HP or falls.
 
-**Legendary Resistance (2/day):** If the Warlord fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If the Warlord fails a save, it can choose to succeed instead.
 
 ### Legendary Actions (2/round)
 - **Strike (1 action):** Make one Sanctified Greatsword attack.
@@ -1177,14 +1177,14 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 
 ### Loot
 - Sanctified greatsword (deals +4 Radiant damage vs undead; requires attunement) — **Trade Value**: 250 supplies
-- Consecrated Sarafan warplate (Armor 5 vs Physical, 3 vs Magical; grants immunity to fear) — **Trade Value**: 300 supplies
+- Consecrated Sarafan warplate (Armor: 5 vs Physical, 3 vs Magical; grants immunity to fear) — **Trade Value**: 300 supplies
 - Warlord's tactical journal (contains detailed intelligence on local undead strongholds and troop movements — plot hook) — **Trade Value**: 100 supplies (to faction leaders)
 - Sarafan signet ring (grants audience with high-ranking Sarafan officials; +2 dice on Persuasion with Sarafan loyalists) — **Trade Value**: 80 supplies
 
 ### Scaling Options
-**Sarafan Captain (Boss, TV 10):** HP 75, DV 5, Fury 4, Will 4. Loses Legendary Actions, Lair Action, and Last Stand. Rally the Line grants +1 die instead of +2. Tactical Genius offers only Shield Wall. Armor 4.
+**Sarafan Captain (Boss, TV 10):** HP: 75, DV: 5, Fury 4, Will 4. Loses Legendary Actions, Lair Action, and Last Stand. Rally the Line grants +1 die instead of +2. Tactical Genius offers only Shield Wall. Armor: 4.
 
-**Sarafan High Marshal (Legendary, TV 18):** HP 150, DV 6, Armor 6. Fury 6, Will 6. Gains 3 Legendary Actions/round. Add **Crusade Decree (1/encounter)**: All mortal allies within 60 feet can immediately make one attack or move their full speed. Judgment Strike loses Recharge (usable at will for 8 SE). Add Regional Effects: Sarafan patrols double within 5 miles; undead creatures in the region have Disadvantage on Stealth checks.
+**Sarafan High Marshal (Legendary, TV 18):** HP: 150, DV: 6, Armor: 6. Fury 6, Will 6. Gains 3 Legendary Actions/round. Add **Crusade Decree (1/encounter)**: All mortal allies within 60 feet can immediately make one attack or move their full speed. Judgment Strike loses Recharge (usable at will for 8 SE). Add Regional Effects: Sarafan patrols double within 5 miles; undead creatures in the region have Disadvantage on Stealth checks.
 
 ---
 
@@ -1203,7 +1203,7 @@ They function as the ground troops of any Sarafan encounter — expendable, coll
 
 ### Statistics
 - **HP:** 6
-- **DV:** 3 (1 + Will 1 + Armor 1)
+- **DV:** 3 (1 + Will 1 + Armor: 1)
 - **Armor:** 1 (light mail and breastplate)
 - **Initiative:** 1
 - **Movement:** 30 feet (6 squares)
@@ -1245,8 +1245,8 @@ Footsoldiers advance in organized groups of 4–8, using Formation Fighting to m
 - Belt pouch (1d6+2 supplies in coin-equivalent)
 
 ### Scaling Options
-- **Veteran Footsoldier (Standard, TV 5):** HP 14, DV 4, Armor 2, Fury 3, Weapon Mastery 2. Add Cleave (when hitting a target, any adjacent creature takes 2 splash damage).
-- **Sarafan Sergeant (Elite, TV 7):** HP 24, DV 4, Armor 2, Fury 3, Will 3. Add Rally Cry (1/encounter, Action): all Sarafan allies within 30 feet immediately make one free attack or move their full speed.
+- **Veteran Footsoldier (Standard, TV 5):** HP: 14, DV: 4, Armor: 2, Fury 3, Weapon Mastery 2. Add Cleave (when hitting a target, any adjacent creature takes 2 splash damage).
+- **Sarafan Sergeant (Elite, TV 7):** HP: 24, DV: 4, Armor: 2, Fury 3, Will 3. Add Rally Cry (1/encounter, Action): all Sarafan allies within 30 feet immediately make one free attack or move their full speed.
 
 ---
 
@@ -1307,8 +1307,8 @@ Outriders open combat from Stealth where possible, using Shadow Stealth for maxi
 - Wilderness kit (rope, tinderbox, rations) — **Trade Value**: 5 supplies
 
 ### Scaling Options
-- **Outrider Champion (Elite, TV 8):** HP 24, DV 5, Focus 4, Weapon Mastery 3, Stealth 3. Add Explosive Bolt (1/encounter, costs a prepared item): crossbow shot deals +6 Fire damage in 5-foot radius.
-- **Sarafan Shadow-Stalker (Boss, TV 11):** HP 55, DV 6, Fury 4, Focus 4, Shadow 3. Add Lethal Precision: critical hits inflict Bleeding. Add Escape Artist: cannot be Grappled or Restrained by undead.
+- **Outrider Champion (Elite, TV 8):** HP: 24, DV: 5, Focus 4, Weapon Mastery 3, Stealth 3. Add Explosive Bolt (1/encounter, costs a prepared item): crossbow shot deals +6 Fire damage in 5-foot radius.
+- **Sarafan Shadow-Stalker (Boss, TV 11):** HP: 55, DV: 6, Fury 4, Focus 4, Shadow 3. Add Lethal Precision: critical hits inflict Bleeding. Add Escape Artist: cannot be Grappled or Restrained by undead.
 
 ---
 
@@ -1346,9 +1346,9 @@ Commoners should appear in most urban and rural encounters as ambient inhabitant
 
 ### GM Notes: Non-combatant Rules
 
-**Attacking Commoners:** Characters who attack unarmed, non-threatening Commoners gain **1 Corruption point** per attack. Vampire PCs are exempt if they feed non-lethally (Commoner survives at 1 HP, shaken but alive), but lethal feeding in public view carries social consequences.
+**Attacking Commoners:** Characters who attack unarmed, non-threatening Commoners gain **1 Entropic point** per attack. Vampire PCs are exempt if they feed non-lethally (Commoner survives at 1 HP, shaken but alive), but lethal feeding in public view carries social consequences.
 
-**Commoner Crowds:** A mob of Commoners (10+) functions as a hazard rather than an encounter. Treat the mob as a single Large creature (HP 30, DV 2, deals 6 Bludgeoning per round automatically to any creature in melee) representing the danger of panicked crowds, not organized intent.
+**Commoner Crowds:** A mob of Commoners (10+) functions as a hazard rather than an encounter. Treat the mob as a single Large creature (HP: 30, DV: 2, deals 6 Bludgeoning per round automatically to any creature in melee) representing the danger of panicked crowds, not organized intent.
 
 **Hostage Mechanics:** If a Commoner is taken hostage, opposing faction NPCs (Sarafan, vampire clans) have one standard set of responses: comply (DR 3 Will), counter-threaten, or attack immediately. The GM should communicate faction dispositions before this choice becomes relevant.
 
@@ -1384,16 +1384,16 @@ A Rune-Forger at work is a methodical, deliberate practitioner: they prepare the
 **Rune Bolt** (Action)
 - **Dice Pool:** Focus 4 + Glyphcasting 4 = 8d6
 - **Range:** 50 feet (10 squares)
-- **Damage:** 7 Soul/Arcane damage
+- **Damage:** 7 Spectral/Force damage
 - **Special:** Penetrates 1 point of Armor (the bolt is partially spectral)
 
 **Deploy Glyph Trap (2 Actions, costs 5 SE)**
 - The Rune-Forger places a triggered glyph on the ground, floor, wall, or ceiling within 20 feet. It is invisible to non-magical senses (DR 3 Focus save to detect passively, or any Detect Magic).
 - **Trigger:** Any creature that enters the glyph's 10-foot area that the Rune-Forger has not keyed to the rune (takes 1 minute to key a creature immune)
-- **Effect:** Triggered creature takes 6 Soul damage and must make DR 3 Will save or be Slowed (movement halved, −1 die on attacks) until end of their next turn
+- **Effect:** Triggered creature takes 6 Spectral damage and must make DR 3 Will save or be Slowed (movement halved, −1 die on attacks) until end of their next turn
 - **Limit:** Maximum 3 active glyphs at a time
 
-**Rune Shield (Reaction, costs 3 SE):** When hit by an attack, the Rune-Forger activates a protective rune. The attacker takes 4 Soul damage as a backlash and the incoming hit is reduced by 3 damage.
+**Rune Shield (Reaction, costs 3 SE):** When hit by an attack, the Rune-Forger activates a protective rune. The attacker takes 4 Spectral damage as a backlash and the incoming hit is reduced by 3 damage.
 
 ### Abilities
 
@@ -1401,7 +1401,7 @@ A Rune-Forger at work is a methodical, deliberate practitioner: they prepare the
 
 **Runic Expertise:** Rune-Forgers are immune to their own glyphs and can walk through them freely. They can also attempt to disarm enemy magical traps with a Focus + Glyphcasting vs DR roll.
 
-**Arcane Supplier:** After combat, searching a Rune-Forger's equipment reveals 1d3 pre-made Runestones (single-use items each dealing 5 Soul damage in a 10-foot area, thrown as an action) — **Trade Value**: 12 supplies each.
+**Arcane Supplier:** After combat, searching a Rune-Forger's equipment reveals 1d3 pre-made Runestones (single-use items each dealing 5 Spectral damage in a 10-foot area, thrown as an action) — **Trade Value**: 12 supplies each.
 
 **Behavior Tags:** controller, soldier
 
@@ -1417,8 +1417,8 @@ In pre-planned encounters, the Rune-Forger has placed 3 glyphs at chokepoints an
 - Minor warding rune (passive item: once per day, negate 3 points of damage from a magical attack) — **Trade Value**: 40 supplies
 
 ### Scaling Options
-- **Journeyman Rune-Forger (Standard, TV 4):** HP 18, DV 3, Focus 3, SE 10. Maximum 2 glyphs, no Prepared Battlefield. Rune Bolt deals 5 damage.
-- **Master Rune-Forger (Boss, TV 11):** HP 50, DV 5, Focus 5, Soul 5, SE 32. Maximum 5 glyphs. Add Rune Storm (2 actions, 15 SE, 1/encounter): up to 3 active glyphs simultaneously detonate in their areas. Add Legendary Resistance (1/day). Gains Rune Construct (1/encounter): animates a Glyph Spider construct from available materials.
+- **Journeyman Rune-Forger (Standard, TV 4):** HP: 18, DV: 3, Focus 3, SE: 10. Maximum 2 glyphs, no Prepared Battlefield. Rune Bolt deals 5 damage.
+- **Master Rune-Forger (Boss, TV 11):** HP: 50, DV: 5, Focus 5, Soul 5, SE: 32. Maximum 5 glyphs. Add Rune Storm (2 actions, 15 SE, 1/encounter): up to 3 active glyphs simultaneously detonate in their areas. Add Legendary Resistance (1/day). Gains Rune Construct (1/encounter): animates a Glyph Spider construct from available materials.
 
 ---
 

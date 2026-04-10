@@ -29,7 +29,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **Attributes:** Fury 6, Soul 3, Shadow 4, Will 2, Focus 3, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Intimidation 4, Observation 3, Glyphcasting 4
 
-**Immunities:** Fire, Poison, Fear, Charm, Sleep
+**Immunities:** Fire, Poison, Frightened, Charmededededed, Sleep
 **Vulnerabilities:** Cold, Magical Silence/Dampening effects
 
 ---
@@ -54,7 +54,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 **3. Infernal Binding (Innate Ability)**
 - **Passive**
-- **Effect:** The Fire-Spite Djinn is bound to a specific object or a small area (e.g., a brazier, a throne, a single room). It cannot move more than 100 feet from its anchor. If its anchor is destroyed (HP 50, Armor 10), the Djinn is immediately banished.
+- **Effect:** The Fire-Spite Djinn is bound to a specific object or a small area (e.g., a brazier, a throne, a single room). It cannot move more than 100 feet from its anchor. If its anchor is destroyed (HP: 50, Armor: 10), the Djinn is immediately banished.
 
 **4. Heat Wave (Aura)**
 - **Passive**
@@ -91,8 +91,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 ### Scaling Options
 
-- **Threat Value 15 (Major):** Increase HP to 120 and Armor to 6. **Cinder Strike** now deals 14 damage. **Emberstorm** costs 8 SE and deals 16 damage. Gains a new ability: **Detonation (Reaction)** - When reduced to 0 HP (but its anchor is intact), it explodes. All creatures within 30ft must make a DR 4 Evasion save or take 25 Fire damage.
-- **Threat Value 18 (Deadly):** As above, but gains a Legendary Action. It can use **Cinder Strike** at the end of another creature's turn (1/round). Its **Heat Wave** aura now also reduces incoming healing to creatures within it by 50%.
+- **TV 15 (Major):** Increase HP to 120 and Armor to 6. **Cinder Strike** now deals 14 damage. **Emberstorm** costs 8 SE and deals 16 damage. Gains a new ability: **Detonation (Reaction)** - When reduced to 0 HP (but its anchor is intact), it explodes. All creatures within 30ft must make a DR 4 Evasion save or take 25 Fire damage.
+- **TV 18 (Deadly):** As above, but gains a Legendary Action. It can use **Cinder Strike** at the end of another creature's turn (1/round). Its **Heat Wave** aura now also reduces incoming healing to creatures within it by 50%.
 
 ---
 
@@ -124,7 +124,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **Action:** 1 Action
 - **Range:** Weapon Mastery (5ft)
 - **Dice Pool:** Soul 5 + 3 = 8d6
-- **Damage:** 8 Fire Damage + 4 Soul Damage. The target's soul is seared, imposing a -1 penalty to all Will checks for 1 minute. This penalty can stack.
+- **Damage:** 8 Fire Damage + 4 Spectral damage. The target's soul is seared, imposing a -1 penalty to all Will checks for 1 minute. This penalty can stack.
 
 **2. Soulfire Howl (Debuff)**
 - **Action:** 1 Action
@@ -175,8 +175,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 ### Scaling Options
 
-- **Threat Value 12 (Major):** Increase HP to 90 and SE to 60. **Phantom Bite** now deals 10 Fire + 6 Soul damage. **Soulfire Howl** now affects a 30ft cone. Gains **Pack Alpha** passive: all allied beasts or elementals within 30ft deal an extra 3 damage with their attacks.
-- **Threat Value 16 (Deadly):** As above, but **Ethereal Stride** is now a free action (1/round). When it successfully hits with a **Phantom Bite**, it can immediately attempt to grapple the target as a Bonus Action, its spectral jaws locking onto their soul. Escaping requires a contested Soul vs. Will check.
+- **TV 12 (Major):** Increase HP to 90 and SE to 60. **Phantom Bite** now deals 10 Fire + 6 Spectral damage. **Soulfire Howl** now affects a 30ft cone. Gains **Pack Alpha** passive: all allied beasts or elementals within 30ft deal an extra 3 damage with their attacks.
+- **TV 16 (Deadly):** As above, but **Ethereal Stride** is now a free action (1/round). When it successfully hits with a **Phantom Bite**, it can immediately attempt to grapple the target as a Bonus Action, its spectral jaws locking onto their soul. Escaping requires a contested Soul vs. Will check.
 
 ---
 
@@ -199,7 +199,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 **Immunities:** Cold, Non-magical physical damage
 **Vulnerabilities:** Lightning, Fire
-**Resistances:** Necrotic
+**Resistances:** Entropic
 
 ---
 
@@ -222,7 +222,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **Cost:** 5 BP per turn
 - **Range:** 30ft
 - **Save:** DR 4 Will save
-- **Effect:** The cyclone targets one creature that is currently **Bleeding**. On a failed save, it takes control of their blood, dealing 15 Necrotic damage and healing the cyclone for the same amount. The cyclone can maintain this channel as its action each turn.
+- **Effect:** The cyclone targets one creature that is currently **Bleeding**. On a failed save, it takes control of their blood, dealing 15 Entropic damage and healing the cyclone for the same amount. The cyclone can maintain this channel as its action each turn.
 
 ### Abilities
 
@@ -260,8 +260,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 ### Scaling Options
 
-- **Threat Value 17 (Deadly):** Increase HP to 150 and Armor to 7. The **Sanguine Vortex** aura is now 30ft. **Hemorrhage** no longer requires the target to be Bleeding. Gains a new reaction: **Flash Freeze**. When the cyclone takes Fire damage, it can use its reaction to instantly create a 10ft radius burst of ice around the attacker. The attacker must make a DR 4 Evasion save or become Restrained (frozen in place) until the end of their next turn.
-- **Threat Value 20 (Legendary):** As above, but gains Legendary Actions (2 per round). It can use **Flensing Shards** (1 action) or **Move** up to its speed without provoking opportunity attacks (1 action). The pull effect of its **Sanguine Vortex** is now a contested Fury vs. Fury check, and on a failure, the target is also knocked prone.
+- **TV 17 (Deadly):** Increase HP to 150 and Armor to 7. The **Sanguine Vortex** aura is now 30ft. **Hemorrhage** no longer requires the target to be Bleeding. Gains a new reaction: **Flash Freeze**. When the cyclone takes Fire damage, it can use its reaction to instantly create a 10ft radius burst of ice around the attacker. The attacker must make a DR 4 Evasion save or become Restrained (frozen in place) until the end of their next turn.
+- **TV 20 (Legendary):** As above, but gains Legendary Actions (2 per round). It can use **Flensing Shards** (1 action) or **Move** up to its speed without provoking opportunity attacks (1 action). The pull effect of its **Sanguine Vortex** is now a contested Fury vs. Fury check, and on a failure, the target is also knocked prone.
 
 ---
 
@@ -282,7 +282,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **Attributes:** Fury 5, Soul 2, Shadow 4, Will 5, Focus 2, Blood 1
 - **Skills:** Intimidation 3, Athletics 3, Wilderness 3
 
-**Immunities:** Cold, Fear, Charm
+**Immunities:** Cold, Frightened, Charmededededed
 **Vulnerabilities:** Fire
 **Resistances:** Slashing and Piercing from non-magical weapons
 
@@ -343,8 +343,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 ### Scaling Options
 
-- **Threat Value 13 (Major):** Increase HP to 120 and Armor to 8. **Hoarfrost Axe** now deals 15 Physical + 6 Cold damage. The range of **Glacial Slam** increases to a 20ft cone. Gains a new aura: **Rimefrost Aura (5ft)** - creatures starting their turn in the aura take 3 Cold damage and cannot take reactions.
-- **Threat Value 17 (Deadly):** As above, but its **Vengeful Pursuit** is now more potent. It can use its reaction to make a **Hoarfrost Axe** attack against its chosen target if they try to move away from it. It also gains one Legendary Resistance, allowing it to succeed on a saving throw it would have failed.
+- **TV 13 (Major):** Increase HP to 120 and Armor to 8. **Hoarfrost Axe** now deals 15 Physical + 6 Cold damage. The range of **Glacial Slam** increases to a 20ft cone. Gains a new aura: **Rimefrost Aura (5ft)** - creatures starting their turn in the aura take 3 Cold damage and cannot take reactions.
+- **TV 17 (Deadly):** As above, but its **Vengeful Pursuit** is now more potent. It can use its reaction to make a **Hoarfrost Axe** attack against its chosen target if they try to move away from it. It also gains one Legendary Resistance, allowing it to succeed on a save it would have failed.
 
 ---
 
@@ -365,7 +365,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **Attributes:** Fury 4, Soul 3, Shadow 2, Will 6, Focus 3, Blood 0
 - **Skills:** Intimidation 3, Athletics 3, Observation 3
 
-**Immunities:** Cold, Fear, Charm, Poison
+**Immunities:** Cold, Frightened, Charmededededed, Poison
 **Vulnerabilities:** Fire, Sonic
 **Resistances:** Slashing and Piercing from non-magical weapons
 
@@ -388,7 +388,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 **3. Ice Wall (Reaction)**
 - **Trigger:** An ally within 30ft is targeted by a ranged attack.
 - **Cost:** 5 SE
-- **Effect:** The Warden raises a wall of solid ice between the attacker and the target. The wall is 10ft wide, 10ft tall, and has 20 HP and Armor 4. It provides total cover until destroyed or until the end of the Warden's next turn, whichever comes first.
+- **Effect:** The Warden raises a wall of solid ice between the attacker and the target. The wall is 10ft wide, 10ft tall, and has 20 HP and Armor: 4. It provides total cover until destroyed or until the end of the Warden's next turn, whichever comes first.
 
 ### Abilities
 
@@ -426,8 +426,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 ### Scaling Options
 
-- **Threat Value 14 (Major):** Increase HP to 140 and Armor to 9. Permafrost Zone radius increases to 30ft. Ice Wall now has 30 HP and Armor 6. Gains **Glacial Tactics (Legendary Action, 1/round)**: The Warden can create an additional Ice Wall or move an existing Permafrost Zone up to 10ft.
-- **Threat Value 17 (Deadly):** As above, but the Warden gains 2 Legendary Actions per round. Crystalline Reformation now heals 10 HP at the start of each turn. When shattered at 0 HP, the death burst deals 15 Cold damage in a 15ft radius and all creatures hit are Restrained for 1 round.
+- **TV 14 (Major):** Increase HP to 140 and Armor to 9. Permafrost Zone radius increases to 30ft. Ice Wall now has 30 HP and Armor: 6. Gains **Glacial Tactics (Legendary Action, 1/round)**: The Warden can create an additional Ice Wall or move an existing Permafrost Zone up to 10ft.
+- **TV 17 (Deadly):** As above, but the Warden gains 2 Legendary Actions per round. Crystalline Reformation now heals 10 HP at the start of each turn. When shattered at 0 HP, the death burst deals 15 Cold damage in a 15ft radius and all creatures hit are Restrained for 1 round.
 
 ---
 
@@ -514,8 +514,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 ### Scaling Options
 
-- **Threat Value 14 (Major):** Increase HP to 110 and Armor to 5. Arcane Bolt deals 14 damage, Prismatic Flare deals 16 damage and the Blinding effect lasts 2 rounds. Gains Legendary Action (1/round): Arcane Bolt.
-- **Threat Value 17 (Deadly):** As above, but HP 150, gains 2 Legendary Actions/round. Add **Arcane Overload (1/encounter):** The Wyrm supercharges, doubling its flying speed for 2 rounds and causing Mana Trail to deal 8 damage instead of 4. Unstable Core detonation deals 20 Force damage in a 30ft radius.
+- **TV 14 (Major):** Increase HP to 110 and Armor to 5. Arcane Bolt deals 14 damage, Prismatic Flare deals 16 damage and the Blinding effect lasts 2 rounds. Gains Legendary Action (1/round): Arcane Bolt.
+- **TV 17 (Deadly):** As above, but HP: 150, gains 2 Legendary Actions/round. Add **Arcane Overload (1/encounter):** The Wyrm supercharges, doubling its flying speed for 2 rounds and causing Mana Trail to deal 8 damage instead of 4. Unstable Core detonation deals 20 Force damage in a 30ft radius.
 
 ---
 
@@ -536,9 +536,9 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **Attributes:** Fury 5, Soul 7, Shadow 5, Will 6, Focus 6, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Glyphcasting 5, Observation 4, Intimidation 2
 
-**Immunities:** Non-magical physical, Poison, Charm, Fear, Force
+**Immunities:** Non-magical physical, Poison, Charmededededed, Frightened, Force
 **Vulnerabilities:** Mundane physical attacks (non-magical weapons deal full damage - the Null Elemental's anti-magic nature inverts normal defenses)
-**Resistances:** All magical damage types (Fire, Cold, Lightning, Radiant, Soul, Necrotic) - halved
+**Resistances:** All magical damage types (Fire, Cold, Lightning, Radiant, Spectral, Entropic) - halved
 
 ---
 
@@ -605,8 +605,8 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 
 ### Scaling Options
 
-- **Threat Value 10 (Elite):** Reduce HP to 80, Armor to 4. Nullification Field radius reduced to 10ft and dice pool reduction to -2. Remove Anti-Magic Pulse. Devour Spell heals only 5 HP.
-- **Threat Value 18 (Deadly):** Increase HP to 200, Armor to 8. Nullification Field radius 30ft, -4 dice. Anti-Magic Pulse recharges on 4-6. Gains 2 Legendary Actions/round: Void Touch (1) and Devour Spell (1). Void Collapse deals 24 Force damage in 25ft.
+- **TV 10 (Elite):** Reduce HP to 80, Armor to 4. Nullification Field radius reduced to 10ft and dice pool reduction to -2. Remove Anti-Magic Pulse. Devour Spell heals only 5 HP.
+- **TV 18 (Deadly):** Increase HP to 200, Armor to 8. Nullification Field radius 30ft, -4 dice. Anti-Magic Pulse recharges on 4-6. Gains 2 Legendary Actions/round: Void Touch (1) and Devour Spell (1). Void Collapse deals 24 Force damage in 25ft.
 
 ---
 
@@ -689,8 +689,8 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 
 ### Scaling Options
 
-- **Threat Value 16 (Deadly):** Increase HP to 150 and Armor to 7. **Thunderclap Fist** now deals 18 Lightning + 6 Thunder damage. **Storm Surge** costs 14 SE and deals 20 damage. Gains **Chain Lightning**: When it hits with Storm Surge, it can arc to one additional target within 10ft of the first.
-- **Threat Value 20 (Legendary):** As above, but gains Legendary Actions (2 per round). It can use **Thunderclap Fist** (1 action) or **Move** up to its speed without provoking opportunity attacks (1 action). Its **Electric Aura** now also disrupts concentration on spells.
+- **TV 16 (Deadly):** Increase HP to 150 and Armor to 7. **Thunderclap Fist** now deals 18 Lightning + 6 Thunder damage. **Storm Surge** costs 14 SE and deals 20 damage. Gains **Chain Lightning**: When it hits with Storm Surge, it can arc to one additional target within 10ft of the first.
+- **TV 20 (Legendary):** As above, but gains Legendary Actions (2 per round). It can use **Thunderclap Fist** (1 action) or **Move** up to its speed without provoking opportunity attacks (1 action). Its **Electric Aura** now also disrupts concentration on spells.
 
 ---
 
@@ -713,7 +713,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 
 **Immunities:** Poison, Non-magical physical damage
 **Vulnerabilities:** Wind, Bright light
-**Resistances:** Cold, Necrotic
+**Resistances:** Cold, Entropic
 
 ---
 
@@ -723,7 +723,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 - **Action:** 1 Action
 - **Range:** 15ft
 - **Dice Pool:** Soul 5 + 4 = 9d6
-- **Damage:** 6 Cold Damage + 6 Soul Damage. On hit, the target is Restrained by misty tendrils until the start of the Binder's next turn.
+- **Damage:** 6 Cold Damage + 6 Spectral damage. On hit, the target is Restrained by misty tendrils until the start of the Binder's next turn.
 
 **2. Soul Bind (Channeled Ability)**
 - **Action:** 1 Action to initiate and maintain
@@ -773,8 +773,8 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 
 ### Scaling Options
 
-- **Threat Value 12 (Major):** Increase HP to 100 and SE to 65. **Misty Grasp** now deals 8 Cold + 8 Soul damage. **Soul Bind** can affect two targets at once. Gains **Mist Clone**: As a reaction, it can create an illusory duplicate of itself.
-- **Threat Value 16 (Deadly):** As above, but **Obscuring Veil** now also silences sounds within the aura. **Soul Bind** lasts for 2 minutes and requires a DR 5 Will check to break free.
+- **TV 12 (Major):** Increase HP to 100 and SE to 65. **Misty Grasp** now deals 8 Cold + 8 Spectral damage. **Soul Bind** can affect two targets at once. Gains **Mist Clone**: As a reaction, it can create an illusory duplicate of itself.
+- **TV 16 (Deadly):** As above, but **Obscuring Veil** now also silences sounds within the aura. **Soul Bind** lasts for 2 minutes and requires a DR 5 Will check to break free.
 
 ---
 
@@ -841,8 +841,8 @@ The Flame Wisp opens by establishing its Searing Aura in the melee cluster, then
 - Flame Wisp core (rarely survives detonation intact; requires quick action at 0 HP to attempt DR 3 Focus recovery) - **Trade Value**: 80 supplies (extremely rare)
 
 ### Scaling Options
-- **Spark Wisp (Standard, TV 2):** HP 30, DV 5, Soul 3, SE 14, Fuel 3. Fire Dart deals 5 damage. No Ember Burst. Blazes Out radius reduced to 5 feet.
-- **Inferno Wisp (Boss, TV 12):** HP 140, DV 6, Soul 7, SE 50, Fuel 8. Fire Dart deals 12 damage. Ember Burst radius 30 feet, 16 damage. Add Conflagration (1/encounter, 2 actions): 60-foot cone, 20 Fire damage, all failing targets Burning. Add Legendary Resistance (2/day).
+- **Spark Wisp (Standard, TV 2):** HP: 30, DV: 5, Soul 3, SE: 14, Fuel 3. Fire Dart deals 5 damage. No Ember Burst. Blazes Out radius reduced to 5 feet.
+- **Inferno Wisp (Boss, TV 12):** HP: 140, DV: 6, Soul 7, SE: 50, Fuel 8. Fire Dart deals 12 damage. Ember Burst radius 30 feet, 16 damage. Add Conflagration (1/encounter, 2 actions): 60-foot cone, 20 Fire damage, all failing targets Burning. Add Legendary Resistance (2/day).
 
 ---
 
@@ -886,7 +886,7 @@ Pillar-Stone Golems are found near the ruins of ancient Pillar sites and in the 
 **Rune Burst** (2 Actions, costs 8 SE, 1/encounter)
 - **Dice Pool:** Soul 3 + Glyphcasting 5 = 8d6 (the Golem's inscribed runes flare)
 - **Range:** 30-foot radius centered on self
-- **Damage:** 14 Arcane/Force damage
+- **Damage:** 14 Force/Force damage
 - **Save:** DR 4 Will save to halve
 
 ### Abilities
@@ -914,8 +914,8 @@ The Pillar-Stone Golem positions itself at the center of its territory and waits
 - Stone dust (alchemical; when consumed, grants temporary +1 Armor for 1 hour but reduces speed by 10 feet) - **Trade Value**: 18 supplies
 
 ### Scaling Options
-- **Lesser Stone Golem (Boss, TV 5):** HP 95, DV 5, Armor 3, Fury 4. No Rune Burst or Slow Recovery. Stone Slam deals 7 damage. Still Immovable.
-- **Pillar-Heart Colossus (TV 15):** HP 220, DV 6, Armor 6, Fury 6, Soul 5, SE 60. Pillar Fist deals 18 damage. Stone Slam 30-foot radius, 14 damage, Prone + Staggered. Add **Pillar Wrath (Legendary Action, 3/round):** Pillar Fist (1), Stone Slam (2), Rune Burst (3, costs 3 LA). Slow Recovery heals 10 HP at the start of each turn.
+- **Lesser Stone Golem (Boss, TV 5):** HP: 95, DV: 5, Armor: 3, Fury 4. No Rune Burst or Slow Recovery. Stone Slam deals 7 damage. Still Immovable.
+- **Pillar-Heart Colossus (TV 15):** HP: 220, DV: 6, Armor: 6, Fury 6, Soul 5, SE: 60. Pillar Fist deals 18 damage. Stone Slam 30-foot radius, 14 damage, Prone + Staggered. Add **Pillar Wrath (Legendary Action, 3/round):** Pillar Fist (1), Stone Slam (2), Rune Burst (3, costs 3 LA). Slow Recovery heals 10 HP at the start of each turn.
 
 ---
 
@@ -978,8 +978,8 @@ The Umbral Vortex opens with Consuming Dark to neutralize lights and Frighten th
 - Darkness vial (sealed container of Vortex-darkness; when broken, creates a 15-foot radius of magical darkness for 5 rounds) - **Trade Value**: 30 supplies
 
 ### Scaling Options
-- **Shadow Tear (Elite, TV 3):** HP 45, DV 5, Shadow 4, SE 18. Only has Shadow Lash. No Consuming Dark or Void Draw. Acts as a wandering shadow elemental.
-- **Abyssal Collapse (TV 14):** HP 180, DV 6, Shadow 7, SE 65. Shadow Lash deals 14. Void Draw affects 35 feet (DR 4). Consuming Dark 60-foot radius, permanent until the Vortex is destroyed. Add Legendary Resistance (2/day), Legendary Actions (2 per round): Shadow Lash (1), Consuming Dark (2).
+- **Shadow Tear (Elite, TV 3):** HP: 45, DV: 5, Shadow 4, SE: 18. Only has Shadow Lash. No Consuming Dark or Void Draw. Acts as a wandering shadow elemental.
+- **Abyssal Collapse (TV 14):** HP: 180, DV: 6, Shadow 7, SE: 65. Shadow Lash deals 14. Void Draw affects 35 feet (DR 4). Consuming Dark 60-foot radius, permanent until the Vortex is destroyed. Add Legendary Resistance (2/day), Legendary Actions (2 per round): Shadow Lash (1), Consuming Dark (2).
 
 ---
 
@@ -1011,13 +1011,13 @@ What makes them exceptionally dangerous is the cascading snowball effect: each s
 - **Dice Pool:** Soul 5 + Unarmed Combat 4 = 9d6
 - **Range:** 60 feet (12 squares)
 - **Damage:** None (no physical harm)
-- **Effect on Hit:** Target loses 8 SE. The SE-Feeder gains 4 SE. If the target has 0 SE, the Unarmed Combat deals 8 Soul damage instead (it consumes the life-force when SE is depleted)
-- **Note:** This explicitly targets SE, not HP. Creatures without SE are immune to the SE loss but still take the Soul damage on a hit when at 0 SE.
+- **Effect on Hit:** Target loses 8 SE. The SE-Feeder gains 4 SE. If the target has 0 SE, the Unarmed Combat deals 8 Spectral damage instead (it consumes the life-force when SE is depleted)
+- **Note:** This explicitly targets SE, not HP. Creatures without SE are immune to the SE loss but still take the Spectral damage on a hit when at 0 SE.
 
 **Siphon Burst** (2 Actions, costs 12 SE, Recharge 5-6)
 - **Save:** DR 4 Will save
 - **Range:** 30-foot radius centered on self
-- **Effect:** All creatures in range must make DR 4 Will save. On fail: lose 6 SE, and the SE-Feeder gains 3 SE per creature drained. On success: lose 3 SE. Creatures with 0 SE take 6 Soul damage instead of SE loss.
+- **Effect:** All creatures in range must make DR 4 Will save. On fail: lose 6 SE, and the SE-Feeder gains 3 SE per creature drained. On success: lose 3 SE. Creatures with 0 SE take 6 Spectral damage instead of SE loss.
 
 **Arcane Lash (Reaction, costs 4 SE):** When a creature within 15 feet attempts to cast a spell, use a SE-powered ability, or spend SE, the SE-Feeder can immediately make one Unarmed Combat roll against them as an interrupt. If successful, the target loses 6 SE and the SE cost of their action is not refunded (the ability still triggers but takes more SE than expected).
 
@@ -1048,6 +1048,6 @@ The SE-Feeder enters from concealment (Stealth 3), immediately opening with Siph
 - Soul residue (5d6 charges of faint Soul Energy in vial form) - **Trade Value**: 6 supplies per vial
 
 ### Scaling Options
-- **SE-Nibbler (Minion, TV 1):** HP 22, DV 4, Soul 3, SE 20. Unarmed Combat pools drain 4 SE (not 8). No Siphon Burst or Arcane Lash. Trivial solo; concerning in groups of 4-5.
-- **Soul Gestalt (TV 14):** HP 180, DV 6, Soul 7, SE starts at 80. Unarmed Combat drains 12 SE. Siphon Burst affects 50-foot radius, drains 10 SE per target. Soul Gluttony triggers at 120/180/250. Legendary Resistance (2/day), Legendary Actions (2 per round): Unarmed Combat (1), Siphon Burst (2).
+- **SE-Nibbler (Minion, TV 1):** HP: 22, DV: 4, Soul 3, SE: 20. Unarmed Combat pools drain 4 SE (not 8). No Siphon Burst or Arcane Lash. Trivial solo; concerning in groups of 4-5.
+- **Soul Gestalt (TV 14):** HP: 180, DV: 6, Soul 7, SE starts at 80. Unarmed Combat drains 12 SE. Siphon Burst affects 50-foot radius, drains 10 SE per target. Soul Gluttony triggers at 120/180/250. Legendary Resistance (2/day), Legendary Actions (2 per round): Unarmed Combat (1), Siphon Burst (2).
 

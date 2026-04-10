@@ -54,8 +54,8 @@ Ghouls rush the nearest living creature mindlessly. They use Feral Pack to swarm
 - Ghoul flesh (used in necromantic rituals, disgusting)
 
 ### Scaling Options
-- **Veteran Ghoul (Standard, TV 4):** HP 15, DV 3, +1 to all attributes, gains Diseased Bite (inflicts Weakened on hit)
-- **Ghoul Alpha (Elite, TV 6):** HP 25, DV 4, Fury 3, commands pack tactics, all ghouls within 30 feet act on its initiative
+- **Veteran Ghoul (Standard, TV 4):** HP: 15, DV: 3, +1 to all attributes, gains Diseased Bite (inflicts Weakened on hit)
+- **Ghoul Alpha (Elite, TV 6):** HP: 25, DV: 4, Fury 3, commands pack tactics, all ghouls within 30 feet act on its initiative
 
 ---
 
@@ -121,8 +121,8 @@ Opens with Shadow Leap to close distance, then Pounces on isolated target. Uses 
 - Occasionally, a trinket from past life
 
 ### Scaling Options
-- **Fledgling Hunger Vampire (Standard, TV 5):** HP 20, DV 4, -1 to all attributes, no Shadow Leap
-- **Vampire Beast Lord (Boss, TV 11):** HP 55, DV 6, Fury 5, Blood 5, commands pack of 3-4 Feralslave Ghouls, gains 2 Legendary Actions per round as a solo boss
+- **Fledgling Hunger Vampire (Standard, TV 5):** HP: 20, DV: 4, -1 to all attributes, no Shadow Leap
+- **Vampire Beast Lord (Boss, TV 11):** HP: 55, DV: 6, Fury 5, Blood 5, commands pack of 3-4 Feralslave Ghouls, gains 2 Legendary Actions per round as a solo boss
 
 ---
 
@@ -149,12 +149,12 @@ Revenants are the restless dead bound to unfinished purpose. Unlike mindless und
 ### Attacks
 **Cursed Blade** (Action)
 - **Dice Pool:** Fury 3 + Weapon Mastery 2 = 5d6
-- **Damage:** 5 physical (Slashing) + 2 Soul damage
+- **Damage:** 5 physical (Slashing) + 2 Spectral damage
 - **Special:** Blade counts as magical for overcoming resistances
 
 **Spectral Grasp** (Action)
 - **Dice Pool:** Shadow 2 + 0 = 2d6
-- **Damage:** 4 Soul damage (ignores Physical Armor)
+- **Damage:** 4 Spectral damage (ignores Physical Armor)
 - **Range:** 15 feet (3 squares)
 - **Special:** Target must make DR 2 Will save or be Frightened until end of next turn
 
@@ -184,8 +184,8 @@ Methodical and intelligent fighter. Protects its bound location/object/person ze
 - Revenant essence (component for binding rituals, Trade Value: 30 supplies)
 
 ### Scaling Options
-- **Weakened Revenant (Minion, TV 2):** HP 10, DV 3, -1 to attributes, no Undying Purpose
-- **Elite Revenant Knight (Elite, TV 6):** HP 40, DV 5, Fury 4, wears spectral plate armor (Armor 3), can use Undying Purpose twice
+- **Weakened Revenant (Minion, TV 2):** HP: 10, DV: 3, -1 to attributes, no Undying Purpose
+- **Elite Revenant Knight (Elite, TV 6):** HP: 40, DV: 5, Fury 4, wears spectral plate armor (Armor: 3), can use Undying Purpose twice
 
 ---
 
@@ -261,12 +261,12 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 ### Attacks
 **Ancient Greatsword** (Action)
 - **Dice Pool:** Fury 4 + Weapon Mastery 3 = 7d6
-- **Damage:** 8 physical (Slashing) + 3 Necrotic
+- **Damage:** 8 physical (Slashing) + 3 Entropic
 - **Special:** Two-handed, reach 10 feet
 
 **Life Drain Touch** (Action)
 - **Dice Pool:** Shadow 4 + 0 = 4d6
-- **Damage:** 6 Necrotic damage (ignores Physical Armor)
+- **Damage:** 6 Entropic damage (ignores Physical Armor)
 - **Special:** Wight regains HP equal to damage dealt. Target's maximum HP reduced by damage until long rest.
 
 **Command Undead** (Bonus Action)
@@ -293,15 +293,15 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 Commands lesser undead from back line while using Aura of Dread to control battlefield. Shadow Steps to isolated targets for Life Drain. Uses Ancient Greatsword Parry defensively. If bloodied, becomes aggressive and uses Ancient Greatsword relentlessly.
 
 ### Loot
-- Ancient armor (can be restored, Armor 3, Trade Value: 100 supplies to collector)
-- Greatsword with necromantic enchantment (6 base damage + 2 Necrotic)
+- Ancient armor (can be restored, Armor: 3, Trade Value: 100 supplies to collector)
+- Greatsword with necromantic enchantment (6 base damage + 2 Entropic)
 - Crypt treasure (Trade Value: 2d6 x 10 supplies)
 - Wight essence (rare component for necromancy, Trade Value: 75 supplies)
 - Personal effects revealing tragic history
 
 ### Scaling Options
-- **Lesser Wight (Standard, TV 4):** HP 25, DV 4, DR 2, no Command Undead or Ancient Greatsword Parry
-- **Wight Lord (Boss, TV 10):** HP 60, DV 6, DR 4, gains Legendary Actions (2 per round): Move, Attack, or Command Undead (costs 2 actions)
+- **Lesser Wight (Standard, TV 4):** HP: 25, DV: 4, DR 2, no Command Undead or Ancient Greatsword Parry
+- **Wight Lord (Boss, TV 10):** HP: 60, DV: 6, DR 4, gains Legendary Actions (2 per round): Move, Attack, or Command Undead (costs 2 actions)
 
 ---
 
@@ -387,7 +387,7 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 
 **Vampiric Touch** (Action, melee)
 - **Dice Pool:** Soul 4 + Ritualism 4 = 8d6
-- **Damage:** 6 Necrotic damage
+- **Damage:** 6 Entropic damage
 - **Special:** Acolyte regains HP equal to half damage dealt
 
 **Blood Curse** (Action, Recharge 5-6)
@@ -442,7 +442,7 @@ Vampires destroyed by fire sometimes leave behind vengeful spirits—Bloodflame 
 ### Attacks
 **Spectral Flame Touch** (Action)
 - **Dice Pool:** Soul 4 + 0 = 4d6
-- **Damage:** 4 Fire + 3 Soul damage
+- **Damage:** 4 Fire + 3 Spectral damage
 - **Special:** Ignores Physical Armor
 
 **Burning Wail** (Action, Recharge 5-6)
@@ -460,7 +460,7 @@ Vampires destroyed by fire sometimes leave behind vengeful spirits—Bloodflame 
 
 **Spectral Sight:** Can see 60 feet into Spectral Realm and detect living creatures through walls.
 
-**Eternal Agony:** At start of each of its turns, emits unearthly scream. All living creatures within 10 feet take 2 Soul damage (no save).
+**Eternal Agony:** At start of each of its turns, emits unearthly scream. All living creatures within 10 feet take 2 Spectral damage (no save).
 
 **Behavior Tags:** controller, phase_shifter
 
@@ -628,14 +628,14 @@ The Overlord opens with Blood Dominion on the party's strongest melee fighter, t
 
 ### Loot
 - Overlord's signet ring (ancient clan identifier, grants +1 die on Intimidation) — **Trade Value:** 150 supplies
-- Bloodforged cloak (reduces Radiant damage by 2 when worn, but grants 1 Corruption per week of use) — **Trade Value:** 200 supplies
+- Bloodforged cloak (reduces Radiant damage by 2 when worn, but grants 1 Entropic per week of use) — **Trade Value:** 200 supplies
 - Ancient vampire fang (legendary alchemical component) — **Trade Value:** 100 supplies
 - Clan treasury key (leads to hidden vault, GM determines contents) — **Trade Value:** Priceless
 - Blood chalice (if filled with blood, restores 10 HP to drinker; usable once per day) — **Trade Value:** 120 supplies
 
 ### Scaling Options
-- **Diminished Overlord (Elite, TV 8):** HP 50, DV 5, -2 to all attributes, no Legendary Actions or Legendary Resistance. Remove Mist Form. Reduce Crimson Torrent to 15-foot cone.
-- **Ancient Overlord (Legendary, TV 18):** HP 140, Blood 7, Will 6, Legendary Resistance 4/day. Add "Sanguis Imperium" — all vampiric creatures within 120 feet obey the Overlord's will (no save). Add Lair Actions.
+- **Diminished Overlord (Elite, TV 8):** HP: 50, DV: 5, -2 to all attributes, no Legendary Actions or Legendary Resistance. Remove Mist Form. Reduce Crimson Torrent to 15-foot cone.
+- **Ancient Overlord (Legendary, TV 18):** HP: 140, Blood 7, Will 6, Legendary Resistance 4/day. Add "Sanguis Imperium" — all vampiric creatures within 120 feet obey the Overlord's will (no save). Add Lair Actions.
 
 ---
 
@@ -706,13 +706,13 @@ The Grave-Knight Commander fights from within a formation of lesser undead, usin
 
 ### Loot
 - Cursed greatsword (deals +2 Cold damage, but wielder takes 1 Cold damage per hour of use) — **Trade Value:** 80 supplies
-- Ancient commander's plate (Armor 3 physical, but cannot be removed without a Remove Curse ritual) — **Trade Value:** 60 supplies
+- Ancient commander's plate (Armor: 3 physical, but cannot be removed without a Remove Curse ritual) — **Trade Value:** 60 supplies
 - Battle standard (grants +1 die on Will saves to allies within 30 feet, but attracts undead attention) — **Trade Value:** 90 supplies
 - Commander's orders (fragment of parchment revealing its original mission — plot hook) — **Trade Value:** Varies
 
 ### Scaling Options
-- **Grave-Knight Squire (Standard, TV 5):** HP 25, DV 4, Fury 3, no Tactics skill. Remove Death's Command and Commander's Presence. Armor 2.
-- **Grave-Knight Warlord (Boss, TV 12):** HP 75, DV 6, Fury 5, Will 5, Tactics 5. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Cursed Greatsword (1), Death's Command (2). Commander's Presence radius increases to 45 feet.
+- **Grave-Knight Squire (Standard, TV 5):** HP: 25, DV: 4, Fury 3, no Tactics skill. Remove Death's Command and Commander's Presence. Armor: 2.
+- **Grave-Knight Warlord (Boss, TV 12):** HP: 75, DV: 6, Fury 5, Will 5, Tactics 5. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Cursed Greatsword (1), Death's Command (2). Commander's Presence radius increases to 45 feet.
 
 ---
 
@@ -742,7 +742,7 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 **Soul Scourge** (Action)
 - **Dice Pool:** Soul 6 + Ritualism 5 = 11d6 vs DV
 - **Range:** 60 feet
-- **Damage:** 10 Soul damage
+- **Damage:** 10 Spectral damage
 - **Special:** On hit, target's max SE is reduced by 3 until short rest.
 
 **Bone Lance** (Action)
@@ -763,14 +763,14 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 ### Abilities
 **Undead Wilderness:** Immune to Soul Drain, poison, disease, fear, charm, sleep. Takes double damage from Radiant.
 
-**Phylactery Bond:** The Archon's soul is bound to a hidden phylactery. When reduced to 0 HP, the Archon is destroyed but reforms at its phylactery in 1d6 days. The phylactery has HP 30, DV 4, Armor 6, and is typically hidden in a location 1–5 miles away. Destroying the phylactery first is the only way to permanently kill the Archon.
+**Phylactery Bond:** The Archon's soul is bound to a hidden phylactery. When reduced to 0 HP, the Archon is destroyed but reforms at its phylactery in 1d6 days. The phylactery has HP: 30, DV: 4, Armor: 6, and is typically hidden in a location 1–5 miles away. Destroying the phylactery first is the only way to permanently kill the Archon.
 
-**Death's Mantle** (Passive): Living creatures that start their turn within 10 feet of the Archon take 3 Necrotic damage (necrotic energy radiating from its form).
+**Death's Mantle** (Passive): Living creatures that start their turn within 10 feet of the Archon take 3 Entropic damage (necrotic energy radiating from its form).
 
-**Legendary Resistance (2/day):** If the Archon fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (2/day):** If the Archon fails a save, it can choose to succeed instead.
 
 ### Legendary Actions (3/round)
-- **Soul Scourge (1 action):** Make one Soul Scourge attack at half damage (5 Soul).
+- **Soul Scourge (1 action):** Make one Soul Scourge attack at half damage (5 Spectral).
 - **Command Undead (1 action):** One undead ally within 60 feet can immediately move up to its speed or make one attack.
 - **Dark Rebuke (2 actions):** When an enemy within 30 feet casts a spell, the Archon can counter it. Roll Soul 6 + Glyphcasting 4 = 10d6 vs DR 4. On success, the spell is negated and the Archon regains 5 SE.
 
@@ -791,8 +791,8 @@ The Bonelord Archon fights from behind a wall of summoned undead. It opens by ca
 - Dark essence vial (concentrated entropic energy; can be used to craft a weapon that deals +4 Entropic damage) — **Trade Value**: 120 supplies
 
 ### Scaling Options
-- **Bonelord Acolyte (Boss, TV 11):** HP 70, DV 5, Soul 5, Ritualism 4. Loses Legendary Actions, Lair Action, and Phylactery Bond. Raise Dead summons only 1 Ghoul. SE reduced to 24.
-- **Bonelord Sovereign (Legendary, TV 18):** HP 180, DV 6, Soul 7, Ritualism 6. Gains 3 Legendary Actions/round. Raise Dead summons 3 Revenants or 1 Grave-Knight Commander. Add Regional Effects: undead within 1 mile are drawn to the Sovereign's lair, and living creatures within 500 feet have Disadvantage on death saves.
+- **Bonelord Acolyte (Boss, TV 11):** HP: 70, DV: 5, Soul 5, Ritualism 4. Loses Legendary Actions, Lair Action, and Phylactery Bond. Raise Dead summons only 1 Ghoul. SE reduced to 24.
+- **Bonelord Sovereign (Legendary, TV 18):** HP: 180, DV: 6, Soul 7, Ritualism 6. Gains 3 Legendary Actions/round. Raise Dead summons 3 Revenants or 1 Grave-Knight Commander. Add Regional Effects: undead within 1 mile are drawn to the Sovereign's lair, and living creatures within 500 feet have Disadvantage on death saves.
 
 ---
 
@@ -848,8 +848,8 @@ Risen Thralls swarm and absorb damage. Their sole value is being in the way. GMs
 - Necrotic shard (faint residual energy; alchemical component) — **Trade Value**: 2 supplies
 
 ### Scaling Options
-- **Armored Thrall (Standard, TV 4):** HP 14, DV 3, Armor 2. Gains Shield Block (Reaction: reduce melee damage by 3).
-- **Charged Thrall (Elite, TV 6):** HP 25, DV 3, Armor 1. Explodes on death: 10-foot radius, 4 Necrotic damage, DR 2 Blood save to halve.
+- **Armored Thrall (Standard, TV 4):** HP: 14, DV: 3, Armor: 2. Gains Shield Block (Reaction: reduce melee damage by 3).
+- **Charged Thrall (Elite, TV 6):** HP: 25, DV: 3, Armor: 1. Explodes on death: 10-foot radius, 4 Entropic damage, DR 2 Blood save to halve.
 
 ---
 
@@ -907,8 +907,8 @@ Fledglings rush the closest target, prioritizing wounded PCs to chain their Bloo
 - Fledgling fang (1, alchemical component; dark vitality) — **Trade Value**: 8 supplies
 
 ### Scaling Options
-- **Desperate Fledgling (Minion, TV 2):** HP 10, DV 3. Remove Blood Frenzy. Acts as a half-turned thrall with even less control.
-- **Blooded Fledgling (Elite, TV 6):** HP 28, DV 5, Blood 4. Add Mist Step (Bonus Action, 2 SE): teleport 20 feet. Blood Frenzy triggers twice before resetting.
+- **Desperate Fledgling (Minion, TV 2):** HP: 10, DV: 3. Remove Blood Frenzy. Acts as a half-turned thrall with even less control.
+- **Blooded Fledgling (Elite, TV 6):** HP: 28, DV: 5, Blood 4. Add Mist Step (Bonus Action, 2 SE): teleport 20 feet. Blood Frenzy triggers twice before resetting.
 
 ---
 
@@ -959,8 +959,8 @@ Place Skeletal Archers in elevated positions, windows, or behind barricades. The
 - Bone material (raw material) — **Trade Value**: 1 supply
 
 ### Scaling Options
-- **Veteran Skeletal Archer (Standard, TV 4):** HP 10, DV 3, Focus 3, Weapon Mastery 2. Add Pinning Shot: on hit, DR 2 Blood save or target's movement is halved until end of next turn.
-- **Cursed Archer (Elite, TV 6):** HP 18, DV 3. Arrows deal 2 extra Necrotic damage and inflict Bleeding. Add Death's Aim: once per encounter, makes two arrow attacks with one action.
+- **Veteran Skeletal Archer (Standard, TV 4):** HP: 10, DV: 3, Focus 3, Weapon Mastery 2. Add Pinning Shot: on hit, DR 2 Blood save or target's movement is halved until end of next turn.
+- **Cursed Archer (Elite, TV 6):** HP: 18, DV: 3. Arrows deal 2 extra Entropic damage and inflict Bleeding. Add Death's Aim: once per encounter, makes two arrow attacks with one action.
 
 ---
 
@@ -1015,8 +1015,8 @@ Skeletal Knights are the doorstep guardians of Nosgoth's dungeons. They hold cor
 - Bone material — **Trade Value**: 1 supply
 
 ### Scaling Options
-- **Knight-Commander (Elite, TV 5):** HP 22, DV 4, Armor 3, Fury 3, Will 2, Weapon Mastery 3. Add **Rally the Dead (Action, 1/encounter):** All undead allies within 30 feet gain +1 die on attacks until end of the Knight-Commander's next turn.
-- **Deathguard Champion (Boss, TV 9):** HP 48, DV 5, Armor 4, Fury 4, Will 3. Add Legendary Resistance (1/day). Longsword deals 7 damage + Bleeding. Add Athletics (2 actions): move up to 20 feet in a line; all creatures in path make DR 3 Blood save or take 5 damage and are knocked Prone.
+- **Knight-Commander (Elite, TV 5):** HP: 22, DV: 4, Armor: 3, Fury 3, Will 2, Weapon Mastery 3. Add **Rally the Dead (Action, 1/encounter):** All undead allies within 30 feet gain +1 die on attacks until end of the Knight-Commander's next turn.
+- **Deathguard Champion (Boss, TV 9):** HP: 48, DV: 5, Armor: 4, Fury 4, Will 3. Add Legendary Resistance (1/day). Longsword deals 7 damage + Bleeding. Add Athletics (2 actions): move up to 20 feet in a line; all creatures in path make DR 3 Blood save or take 5 damage and are knocked Prone.
 
 ---
 
@@ -1090,8 +1090,8 @@ Zealots charge the nearest target without hesitation, prioritizing isolated or u
 - Fractured fang (a tooth etched with dimension-sigils, usable in spectral ward rituals) — **Trade Value:** 10 supplies
 
 ### Scaling Options
-- **Fracture Recruit (Standard, TV 3):** HP 12, remove Realm-Touched. BP 6. Pure frenzy, no spectral aspect.
-- **Fracture Fanatic (Elite, TV 7):** HP 32, DV 4, Blood 3. Add *Bloodlust*: on killing a target, immediately make one free attack against the nearest enemy.
+- **Fracture Recruit (Standard, TV 3):** HP: 12, remove Realm-Touched. BP: 6. Pure frenzy, no spectral aspect.
+- **Fracture Fanatic (Elite, TV 7):** HP: 32, DV: 4, Blood 3. Add *Bloodlust*: on killing a target, immediately make one free attack against the nearest enemy.
 
 ---
 
@@ -1151,8 +1151,8 @@ The Dimension-Walker opens combat behind the front line, using Realm Shift to ap
 - Void-touched blood vial (component for spectral ward rituals; one use) — **Trade Value:** 40 supplies
 
 ### Scaling Options
-- **Fracture Phase-Scout (Elite, TV 6):** HP 30, remove Spectral Strike. Realm Shift recharges on 5-6 (roll 1d6 at start of each turn). Focus 1.
-- **Fracture Rift-Breaker (Boss, TV 13):** HP 75, DV 5. Realm Shift can carry one willing or unwilling creature within 5 feet. Add *Rift Bomb* (Action, costs 10 SE): 20-foot radius Spectral blast, 10 Spectral damage; DR 3 Will save for half.
+- **Fracture Phase-Scout (Elite, TV 6):** HP: 30, remove Spectral Strike. Realm Shift recharges on 5-6 (roll 1d6 at start of each turn). Focus 1.
+- **Fracture Rift-Breaker (Boss, TV 13):** HP: 75, DV: 5. Realm Shift can carry one willing or unwilling creature within 5 feet. Add *Rift Bomb* (Action, costs 10 SE): 20-foot radius Spectral blast, 10 Spectral damage; DR 3 Will save for half.
 
 ---
 
@@ -1205,7 +1205,7 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 
 **Feral Council Authority:** All Crimson Fracture allies within 60 feet gain +1 die on attack rolls.
 
-**Legendary Resistance (1/day):** When the Void-Touched fails a saving throw, it may choose to succeed instead.
+**Legendary Resistance (1/day):** When the Void-Touched fails a save, it may choose to succeed instead.
 
 ### Legendary Actions (2/round)
 - **Void Rend (1 action):** Make one Void Rend attack at half damage (6 Physical + 2 Spectral).
@@ -1258,13 +1258,13 @@ Banshees are spirits of grief so concentrated that they linger as weapons. Some 
 **Death Shriek** (Action)
 - **Dice Pool:** Soul 4 + Intimidation 4 = 8d6
 - **Range:** 20-foot radius (4 squares), centered on self
-- **Damage:** 2 Soul damage
+- **Damage:** 2 Spectral damage
 - **Special:** Living creatures in the area must make a DR 2 Will save or become **Frightened** for 2 rounds.
 
 **Spectral Touch** (Action)
 - **Dice Pool:** Soul 4 + 0 = 4d6
 - **Range:** Weapon Mastery
-- **Damage:** 2 Soul damage
+- **Damage:** 2 Spectral damage
 - **Special:** Ignores Physical Armor.
 
 ### Abilities
@@ -1274,7 +1274,7 @@ Banshees are spirits of grief so concentrated that they linger as weapons. Some 
 
 **Undead Wilderness:** Immune to Soul Drain, poison, disease, and Bleeding. Takes double damage from Radiant.
 
-**Sorrow Made Audible:** Creatures that are already Frightened by the Banshee take +1 Soul damage from its Spectral Touch.
+**Sorrow Made Audible:** Creatures that are already Frightened by the Banshee take +1 Spectral damage from its Spectral Touch.
 
 **Behavior Tags:** controller, phase_shifter, artillery
 
@@ -1287,8 +1287,8 @@ The Banshee opens with Death Shriek from behind cover or through a wall, then gl
 - Memory fragment revealing the death that created it
 
 ### Scaling Options
-- **Restless Banshee (Standard, TV 3):** HP 10, DV 3, Death Shriek only Frightens on a failed save and loses Sorrow Made Audible.
-- **Cathedral Banshee (Boss, TV 8):** HP 28, DV 4, Soul 5, Will 5. Death Shriek damage becomes 4 Soul and it gains **Echoing Choir** (once per encounter): all creatures currently Frightened take 3 automatic Soul damage.
+- **Restless Banshee (Standard, TV 3):** HP: 10, DV: 3, Death Shriek only Frightens on a failed save and loses Sorrow Made Audible.
+- **Cathedral Banshee (Boss, TV 8):** HP: 28, DV: 4, Soul 5, Will 5. Death Shriek damage becomes 4 Spectral and it gains **Echoing Choir** (once per encounter): all creatures currently Frightened take 3 automatic Spectral damage.
 
 ---
 
@@ -1302,7 +1302,7 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 
 > **Razielim Vampire** — *The Lost Clan; spectral-winged survivors carrying the weight of extinction*
 >
-> *Modify any vampire stat block:* +1 Soul, +1 Shadow.
+> *Modify any vampire stat block:* +1 Spectral, +1 Shadow.
 >
 > **Spectral Glide** (Bonus Action, once per scene): Until the start of its next turn, the Razielim may move up to 40 feet horizontally through the air, gaining the benefits of elevation and not provoking opportunity attacks. Attacks against it have -1 die while gliding.
 >

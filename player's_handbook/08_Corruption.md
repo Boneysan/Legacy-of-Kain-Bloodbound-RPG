@@ -87,7 +87,7 @@ Corrupted Perks are chosen in place of a Universal Perk slot. Crossing a thresho
 
 #### Corrupted Surge
 
-**Effect (Active):** Once per short rest, as a Bonus Action, you can spend 1 SE to add +2 damage to your next successful weapon or spell attack this turn.
+**Effect (Active):** Once per short rest, as a Bonus Action, you can gain **1 Corruption** to add +2 damage to your next successful weapon or spell attack this turn.
 
 **Drawback:** After using this ability, your connection to Nosgoth's balance weakens; you suffer a -1 die penalty on saves against Radiant or holy effects until you complete a short rest.
 
@@ -99,7 +99,7 @@ Corrupted Perks are chosen in place of a Universal Perk slot. Crossing a thresho
 
 #### Veil of the Damned
 
-**Effect (Active):** As an Action, once per short rest, you summon a 10-foot (2 squares) radius cloud of spectral mist centered on yourself, lasting 1 minute. The area is lightly obscured, granting Advantage on your Stealth checks and imposing Disadvantage on enemies' Observation checks within or targeting the area. You can see normally within the mist. Costs 1 Soul Energy (SE).
+**Effect (Active):** As an Action, once per short rest, you summon a 10-foot (2 squares) radius cloud of spectral mist centered on yourself, lasting 1 minute. The area is lightly obscured, granting Advantage on your Stealth checks and imposing Disadvantage on enemies' Observation checks within or targeting the area. You can see normally within the mist. Costs 1 Soul Energy (SE) and you gain **1 Corruption**.
 
 **Drawback:** The mist clings to you unnaturally; until your next short rest, you suffer a -1 die penalty on saves against Radiant or holy effects, as the mist marks you as tainted.
 
@@ -107,7 +107,7 @@ Corrupted Perks are chosen in place of a Universal Perk slot. Crossing a thresho
 
 #### Hunger's Blade
 
-**Effect (Passive):** When you deal damage with a melee weapon attack to a living creature with blood, you regain 2 HP, up to once per turn. If the target is Bleeding, the healing increases to 4 HP.
+**Effect (Passive):** Once per turn, when you deal damage with a melee weapon attack to a living creature with blood, you regain 2 HP. If the target is Bleeding, the healing increases to 4 HP.
 
 **Drawback:** Your hunger intensifies; you must succeed on a DR 2 Will save each scene to avoid attacking or feeding on a bleeding ally within 10 feet (2 squares). Failure imposes a -1 die penalty on non-attack actions for 1 round.
 
@@ -115,35 +115,35 @@ Corrupted Perks are chosen in place of a Universal Perk slot. Crossing a thresho
 
 #### Hylden's Grasp
 
-**Effect (Active):** As an Action, once per scene, you conjure a glyph of Hylden energy at a point within 30 feet (6 squares). Enemies within a 10-foot (2 squares) radius must make a DR 2 Blood or Evasion save (their choice). On a failure, they are Rooted for 1 round and take 2 Entropic (Corruption) damage. Costs 2 Soul Energy.
+**Effect (Active):** As an Action, once per scene, you conjure a glyph of Hylden energy at a point within 30 feet (6 squares). Enemies within a 5-foot (1 square) radius must make a DR 2 Blood or Evasion save (their choice). On a failure, they are Rooted for 1 round and take 2 Corruption damage. Costs 2 Soul Energy and you gain **1 Corruption**.
 
-**Drawback:** Using this ability increases your Corruption Level by 1, and you lose 1 SE as Hylden whispers invade your mind.
+**Drawback:** Hylden visions and whispers haunt your sleep.
 
-**Narrative Flavor:** You channel the banished Hylden's entropy, your hands glowing with sickly green sigils. Your voice occasionally carries an alien timbre, and you dream of a desolate, glyph-scarred wasteland. GMs may use this to foreshadow Hylden incursions or faction suspicion.
+**Narrative Flavor:** You conjure a glyph of ancient entropic energy, your hands glowing with sickly green sigils. Your voice occasionally carries an alien timbre, and you dream of a desolate, glyph-scarred wasteland. GMs may use this to foreshadow Hylden incursions or faction suspicion.
 
 #### Soul Leech
 
 **Effect (Active):** As a Bonus Action, once per short rest, you can target a creature within 15 feet (3 squares) that you've damaged this turn. They must make a DR 2 Will save or take 3 Spectral damage (bypassing Armor), and you regain 1 Soul Energy (SE).
 
-**Drawback:** Your soul becomes tainted; until your next long rest, any healing you receive from non-corrupted sources (e.g., holy magic or Balance Wardens) is reduced by 2 HP.
+**Drawback:** Non-corrupted healing is reduced by 2 HP until your next long rest.
 
 **Narrative Flavor:** You siphon a fragment of your foe's essence, your eyes glowing with stolen light. Your shadow flickers unnaturally, as if alive, and you feel a gnawing emptiness within. This perk aligns with Soul Reavers or Hylden Warlocks, emphasizing soul manipulation.
 
 #### Abyssal Echo
 
-**Effect (Reactive):** Once per scene, when you fail a saving throw against a spell or magical effect, you can use your Reaction to reroll the save with Advantage. If you succeed, the caster takes 2 Entropic (Void) damage (bypassing all Armor). Costs 1 SE.
+**Effect (Reactive):** Once per scene, when you fail a saving throw against a spell or magical effect, you can use your Reaction and gain **1 Corruption** to reroll the save with +1 die. On a success, the caster takes 2 Void damage (bypassing Armor and Resistance).
 
-**Drawback:** The Abyss's touch lingers; you suffer a -1 die penalty on Insight checks until your next short rest, as reality feels distorted.
+**Drawback:** -1 die to Insight until your next short rest.
 
-**Narrative Flavor:** You deflect magic with a ripple of void energy, your form briefly glitching like a broken tapestry. Your reflection shows a stranger's face, and you hear faint, mocking laughter. This perk suits Unbound or Hylden characters, tying to their resistance to fate.
+**Narrative Flavor:** The Abyss deflects magic back at its source — but its whispers distort your reality.
 
 #### Corrupted Ferocity
 
-**Effect (Active):** As a Bonus Action, once per short rest, you can enter a frenzied state for 1 minute. Your melee attacks deal +3 damage, but you take 1 physical damage (bypassing Armor) each time you attack. Gaining 1 Corruption activates this perk; no SE cost.
+**Effect (Active):** As a Bonus Action, once per short rest, you can gain **1 Corruption** to enter a frenzied state for 1 minute. Your melee attacks deal +3 damage, but you take 1 physical damage (bypassing Armor) each time you attack.
 
-**Drawback:** After the frenzy ends, you're exhausted, suffering a -1 die penalty on all Blood and Evasion checks until you complete a short rest.
+**Drawback:** Exhaustion after the frenzy ends: -1 die to Blood and Evasion until your next short rest.
 
-**Narrative Flavor:** You unleash a torrent of corrupted rage, your body sprouting jagged, bone-like protrusions. Your laughter grows unhinged, and allies may fear you're losing control. This perk fits Blood Knights or Turelim, enhancing their combat prowess at a steep cost.
+**Narrative Flavor:** Corrupted rage sprouts bone-like protrusions, and your unhinged laughter alarms allies. This perk fits Blood Knights or Turelim, enhancing their combat prowess at a steep cost.
 
 ---
 
@@ -151,51 +151,51 @@ Corrupted Perks are chosen in place of a Universal Perk slot. Crossing a thresho
 
 #### Soulrend Dominion
 
-**Effect (Active):** As an Action, once per long rest, you unleash a wave of soul-devouring energy in a 15-foot (3 squares) radius centered on yourself. Enemies in the area must make a DR 3 Will save. On a failure, they take 6 Spectral damage (bypassing Armor) and are Frightened for 1 minute (repeat save at end of each turn). On a success, they take 3 Spectral damage. You regain 1 Soul Energy (SE) per affected enemy. Costs 5 SE.
+**Effect (Active):** As an Action, once per long rest, you unleash a wave of soul-devouring energy in a 15-foot (3 squares) radius centered on yourself. Enemies in the area must make a DR 3 Will save. On a failure, they take 6 Spectral damage (bypassing Armor) and are Frightened for 1 minute (repeat save at end of each turn). On a success, they take 3 Spectral damage. You regain 1 Soul Energy (SE) per affected enemy. Costs 3 SE and you gain **2 Corruption**.
 
-**Drawback:** Your soul frays; your Corruption Level increases by 1, and until your next long rest, you suffer a -2 die penalty on saves against Radiant or holy effects. Additionally, spectral entities are drawn to you, increasing the chance of hostile encounters (GM discretion).
+**Drawback:** Until your next long rest, you suffer a -2 die penalty on saves against Radiant or holy effects. Additionally, spectral entities are drawn to you, increasing the chance of hostile encounters (GM discretion).
 
-**Narrative Flavor:** You tear at the essence of your foes, your form wreathed in spectral fire. Your eyes burn with an unnatural void, and your voice echoes with a chorus of trapped souls. Allies may fear you're becoming a conduit for the Elder God. GMs can use this to introduce spectral pursuers or visions of the Wheel of Fate.
+**Narrative Flavor:** You tear at the essence of your foes, wreathed in spectral fire. Your voice echoes with a chorus of trapped souls, and you risk becoming a conduit for the Elder God.
 
 #### Bloodforged Apotheosis
 
-**Effect (Active):** As an Action, once per short rest, you transform into a blood-wrought avatar for 1 minute. Your melee attacks deal +4 Entropic (Corruption) damage (bypassing Armor), and you gain 5 Temporary HP at the start of each of your turns. Costs 2 Blood Points (BP) and increases your Corruption Level by 1.
+**Effect (Active):** As an Action, once per short rest, you transform into a monstrous avatar for 1 minute. Your melee attacks deal +4 Blood damage (bypassing Armor), and you gain 5 Temporary HP at the start of each of your turns. Costs 2 Blood Points (BP) and you gain **1 Corruption**.
 
-**Drawback:** Your body warps permanently (e.g., crimson veins pulse visibly, or bone spurs protrude); you suffer a -2 die penalty on Persuasion checks with uncorrupted NPCs (e.g., Sarafan, Nomads). After the effect ends, you take 4 physical damage (bypassing Armor) from overexertion.
+**Drawback:** Leaves a permanent physical warp (crimson veins, elongated joints, etc.). -2 dice to Persuasion with pure NPCs. Take 4 self-damage (bypassing Armor) when the transformation ends.
 
-**Narrative Flavor:** Your blood boils, reshaping you into a living weapon. Your laughter is guttural, and your presence terrifies mortals. This perk suits vampires or Sangromancers, amplifying their bloodlust but marking them as monstrous. GMs may have factions hunt you as a threat.
+**Narrative Flavor:** Your blood reshapes you into a monstrous weapon — terrifying mortals and drawing hunters.
 
 #### Hylden's Rift
 
-**Effect (Active):** As an Action, once per long rest, you tear open a rift to the Hylden's banished dimension at a point within 60 feet (12 squares), creating a 10-foot (2 squares) radius zone of chaotic energy for 1 minute. Enemies entering or starting their turn in the zone take 4 Entropic (Void) damage (bypassing all Armor) and must make a DR 3 Blood save or be slowed (half speed) for 1 round. Costs 4 SE.
+**Effect (Active):** As an Action, once per long rest, you tear open a rift to the Hylden's banished dimension at a point within 60 feet (12 squares), creating a 10-foot (2 squares) radius zone of chaotic energy for 1 minute. All creatures in the zone take 4 Void damage (bypassing Armor and Resistance) and must make a DR 3 Blood save or move at half speed for 1 round. Costs 4 SE and you gain **2 Corruption**.
 
-**Drawback:** The rift destabilizes you; your Corruption Level increases by 2, and your maximum HP is reduced by 5 until you complete a long rest. The rift may attract Hylden attention, potentially summoning a minor Hylden entity (GM discretion).
+**Drawback:** -5 Max HP until next long rest. May draw Hylden attention (GM discretion).
 
-**Narrative Flavor:** You channel the Hylden's entropy, your hands glowing with otherworldly sigils. Your dreams are plagued by visions of a shattered realm, and your shadow writhes independently. This perk aligns with Hylden Warlocks, risking cosmic consequences for immense power.
+**Narrative Flavor:** You channel Hylden entropy into reality — but their realm's visions and attention haunt you.
 
 #### Abyssal Pact
 
-**Effect (Active):** As a Bonus Action, once per scene, you can sacrifice 5 HP to gain +2 dice on all attack rolls, skill checks, and saves for 1 minute. If you reduce an enemy to 0 HP during this time, you regain 3 HP and 1 SE.
+**Effect (Active):** As a Bonus Action, once per scene, you can sacrifice 5 HP and gain **1 Corruption** to gain +2 dice on all rolls for 1 minute. Regain 3 HP and 1 SE for each enemy you kill during this time.
 
-**Drawback:** The pact binds you to the Abyss; your Corruption Level increases by 1 each time you use this ability, and until your next short rest, you suffer a -1 die penalty on Insight and Concentration checks as abyssal whispers cloud your mind.
+**Drawback:** -1 die to Insight and Concentration until your next short rest.
 
-**Narrative Flavor:** You offer your vitality to an unseen force, your wounds weeping black ichor. Your movements are unnaturally fluid, but your gaze grows distant, as if listening to a voice only you hear. This perk suits Blood Knights or Unbound, offering versatility at a steep cost. GMs can hint at an abyssal entity taking interest.
+**Narrative Flavor:** You offer vitality to the Abyss — gaining power as the whispers grow louder.
 
 #### Wraith's Lament
 
-**Effect (Active):** As an Action, once per short rest, you emit a keening wail that affects all enemies within 30 feet (6 squares). Targets must make a DR 3 Will save. On a failure, they take 5 Spectral damage (bypassing Armor) and cannot take Reactions until the end of their next turn. On a success, they take 2 Spectral damage. Costs 2 SE.
+**Effect (Active):** As an Action, once per short rest, you emit a keening wail that affects all enemies within 30 feet (6 squares). Targets must make a DR 3 Will save. On a failure, they take 5 Spectral damage (bypassing Armor) and cannot take Reactions for 1 round. On a success, they take 2 Spectral damage. Costs 2 SE and you gain **1 Corruption**.
 
-**Drawback:** Your connection to the Spectral Realm deepens; your Corruption Level increases by 1, and after the first full minute you spend in the Spectral Realm in a scene, you lose 1 SE at the end of each additional full minute spent there until your next long rest.
+**Drawback:** Gain 1 Corruption at the end of each full minute spent in the Spectral Realm until your next long rest.
 
-**Narrative Flavor:** Your wail echoes with the sorrow of lost souls, your form flickering like a dying flame. Your touch grows cold, and mirrors show a gaunt, spectral version of you. This perk fits Wraiths or Shadowmancers, enhancing their spectral prowess but binding them to the Spectral Realm's torment.
+**Narrative Flavor:** Your wail carries the sorrow of lost souls — but it binds you to their torment.
 
 #### Corrupted Ascension
 
-**Effect (Active):** As an Action, once per long rest, you ascend into a corrupted state for 1 minute. You gain a fly speed equal to your movement speed, your attacks deal +3 Entropic (Corruption) damage (bypassing Armor), and you ignore difficult terrain. Costs 3 BP or 3 SE, and increases your Corruption Level by 2.
+**Effect (Active):** As an Action, once per long rest, you ascend into a corrupted state for 1 minute. You gain a fly speed equal to your movement speed, +3 Corruption damage on all attacks (bypassing Armor), and immunity to difficult terrain. Costs 3 BP or 3 SE, and you gain **2 Corruption**.
 
-**Drawback:** Your body mutates (e.g., wings of shadow, glowing veins); you suffer a -2 die penalty on all social skill checks with non-corrupted NPCs permanently. After the effect ends, you're exhausted, suffering a -2 die penalty on all Blood and Evasion checks until you complete a long rest.
+**Drawback:** Leaves a permanent mutation (shadow wings, hollow eyes, etc.). -2 dice to Social rolls with non-corrupted NPCs. Exhaustion after the effect ends (-2 dice to Blood and Evasion until next long rest).
 
-**Narrative Flavor:** You rise on currents of corrupted energy, your form a blasphemy against Nosgoth's balance. Your voice carries an otherworldly resonance, and the Pillars seem to shudder in your presence. This perk suits any class, offering mobility and offense but marking you as an outcast. GMs may have the Sarafan or Balance Wardens target you.
+**Narrative Flavor:** You rise on corrupted currents — a blasphemy against Nosgoth's balance, drawing Sarafan ire.
 
 ---
 

@@ -33,7 +33,7 @@ Now, the Hylden exist in a dimension of torment, constantly seeking ways to brea
 ## Shared Traits
 
 ### Hylden Wilderness
-Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage).
+Immune to Spectral effects, possession, and mind control. Resistant to Spectral damage (half damage). Vulnerable to Radiant damage (+2 damage).
 
 *All Hylden creatures in this chapter possess this trait unless noted otherwise.*
 
@@ -78,7 +78,7 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 - **Defense Value (DV)**: 5
 - **Save DR** *(saves against this creature's abilities)*: 3 (Physical and Will saves), 2 (other saves)
 - **Movement**: 35 ft per turn
-- **Armor**: Medium (bio-tempered flesh, Armor 2 vs Physical, immune to Spectral damage)
+- **Armor**: Medium (bio-tempered flesh, Armor: 2 vs Physical, immune to Spectral damage)
 - **Initiative:** 4
 
 **Attributes**:
@@ -97,29 +97,29 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 ### Attacks
 **Corrupted Blade** (Fury 4 + Weapon Mastery 3 = 7d6)
 - Range: Weapon Mastery
-- Damage: 6 Physical + 2 Corruption damage
-- Effect: On Critical Hit (3+ successes), the target gains 1 Corruption point automatically (the blade is infused with Hylden essence).
+- Damage: 6 Physical + 2 Entropic damage
+- Effect: On Critical Hit (3+ successes), the target gains 1 Entropic point automatically (the blade is infused with Hylden essence).
 
 **Biometal Rifle** (Focus 3 + Weapon Mastery 3 = 6d6, costs 1 SE)
 - Range: 50 feet
 - Damage: 5 Force damage
-- Effect: This weapon fires concentrated energy bolts. On hit, the target must pass a DR 2 Will save or be **Disrupted** (lose 1 SE or BP, or take 1 additional Soul damage if they have neither).
+- Effect: This weapon fires concentrated energy bolts. On hit, the target must pass a DR 2 Will save or be **Disrupted** (lose 1 SE or BP, or take 1 additional Spectral damage if they have neither).
 
 **Hylden Surge** (Soul 3 + Ethereal Mastery 3 = 6d6, Recharge 5-6)
 - Range: 20-foot cone
-- Damage: 5 Corruption damage to all creatures in the cone
-- Effect: Targets must pass a DR 3 Will save or gain 1 Corruption point. The Shock Trooper releases a wave of Hylden energy from its possessed body.
+- Damage: 5 Entropic damage to all creatures in the cone
+- Effect: Targets must pass a DR 3 Will save or gain 1 Entropic point. The Shock Trooper releases a wave of Hylden energy from its possessed body.
 
 ### Abilities
-**Hylden Wilderness**: Immune to Spectral effects, possession, and mind control (already possessed). Resistant to Soul damage (half damage). Vulnerable to Radiant damage (takes +2 damage, the light harms the possessing entity). *(See 'Hylden Wilderness' under Shared Traits below.)*
+**Hylden Wilderness**: Immune to Spectral effects, possession, and mind control (already possessed). Resistant to Spectral damage (half damage). Vulnerable to Radiant damage (takes +2 damage, the light harms the possessing entity). *(See 'Hylden Wilderness' under Shared Traits below.)*
 
-**Bio-Tempered Flesh**: The host's body has been enhanced by Hylden biomancy. It has Armor 2 vs Physical damage and does not need to eat or sleep (the Hylden sustains it).
+**Bio-Tempered Flesh**: The host's body has been enhanced by Hylden biomancy. It has Armor: 2 vs Physical damage and does not need to eat or sleep (the Hylden sustains it).
 
 **Tactical Coordination**: When within 20 feet of another Hylden creature, the Shock Trooper gains Advantage on attack rolls (Hylden share tactical data telepathically).
 
 **Soul Override** (1/encounter): When reduced to 0 HP, the Hylden can attempt to possess a nearby mortal (within 10 feet). Target must pass a DR 4 Will save or be possessed. The Shock Trooper's HP becomes half the new host's max HP, and combat continues. If no valid host is nearby, the Hylden dissipates (death).
 
-**PC Ethereal Mastery Resolution:** If Soul Override targets a PC at 0 HP, the player makes a contested Will save (their Will vs the Shock Trooper's Will). On success, the possession fails and the trooper is destroyed. On failure, the PC is possessed for 1d4 rounds — the GM controls the character, who acts on the trooper's initiative. Allies can attempt to exorcise the possession by dealing 10+ Soul damage to the possessed PC (this damages the trooper's spirit, not the PC) or by succeeding on a DR 3 Forbidden Knowledge or Ritualism check as an action within 5ft. After 1d4 rounds, the trooper's spirit burns out and the PC regains control, gaining 2 Corruption from the experience.
+**PC Ethereal Mastery Resolution:** If Soul Override targets a PC at 0 HP, the player makes a contested Will save (their Will vs the Shock Trooper's Will). On success, the possession fails and the trooper is destroyed. On failure, the PC is possessed for 1d4 rounds — the GM controls the character, who acts on the trooper's initiative. Allies can attempt to exorcise the possession by dealing 10+ Spectral damage to the possessed PC (this damages the trooper's spirit, not the PC) or by succeeding on a DR 3 Forbidden Knowledge or Ritualism check as an action within 5ft. After 1d4 rounds, the trooper's spirit burns out and the PC regains control, gaining 2 Entropic from the experience.
 
 **Glyphcasting Aura** (Passive): Enemies within 10 feet of the Shock Trooper suffer Disadvantage on Will saves (reality feels unstable).
 
@@ -128,12 +128,12 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 ### Tactics
 - **Coordinated Assault**: Shock Troopers work in squads, using Tactical Coordination to boost attack rolls. They focus fire on one target at a time.
 - **Biometal Rifle at Range**: They start combat at range, using rifles to Disrupt spellcasters and drain resources.
-- **Corrupted Blade in Weapon Mastery**: When enemies close, they switch to blades, using Corruption damage to wear down defenses over time.
+- **Corrupted Blade in Weapon Mastery**: When enemies close, they switch to blades, using Entropic damage to wear down defenses over time.
 - **Hylden Surge for Corruption**: They use this ability when enemies cluster, spreading Corruption to multiple targets.
 - **Soul Override Escape**: When defeated, they attempt to possess the nearest PC or NPC, creating chaos. Players must stay alert even after "killing" them.
 
 ### Loot
-- Corrupted blade (weapon, deals +2 Corruption damage but wielder gains 1 Corruption per day of use) - **Trade Value**: 30 supplies, dangerous to use
+- Corrupted blade (weapon, deals +2 Entropic damage but wielder gains 1 Entropic per day of use) - **Trade Value**: 30 supplies, dangerous to use
 - Biometal rifle (ranged weapon, uses SE as ammo, deals Force damage) - **Trade Value**: 50 supplies, requires study to use safely
 - Hylden possession shard (small crystal, contains fragment of Hylden essence) - **Trade Value**: 40 supplies, used in anti-possession wards or studied for lore
 - Twisted host body (if studied, reveals Hylden biomancy techniques) - **Trade Value**: Priceless for scholars
@@ -161,7 +161,7 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 - **Defense Value (DV)**: 4
 - **Save DR** *(saves against this creature's abilities)*: 4 (Will and Soul saves), 2 (Physical saves)
 - **Movement**: 25 ft per turn (frail host)
-- **Armor**: Light (grafted bio-plates, Armor 1 vs Physical, immune to Spectral damage)
+- **Armor**: Light (grafted bio-plates, Armor: 1 vs Physical, immune to Spectral damage)
 - **Initiative:** 4
 
 **Attributes**:
@@ -179,7 +179,7 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 ### Attacks
 **Fleshwarp Touch** (Soul 5 + Ritualism 4 = 9d6)
 - Range: Weapon Mastery
-- Damage: 6 Soul + 3 Corruption damage
+- Damage: 6 Spectral + 3 Entropic damage
 - Effect: On Critical Hit (3+ successes), the target's flesh begins to mutate. They are **Weakened** (Disadvantage on Fury-based rolls) for 3 rounds as their muscles spasm uncontrollably.
 
 **Bio-Spike Eruption** (Soul 5 + Ritualism 4 = 9d6, costs 3 SE)
@@ -215,7 +215,7 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 
 ### Loot
 - Bio-surgery tools (allows biomancy procedures, requires training) - **Trade Value**: 60 supplies, dangerous in wrong hands
-- Flesh graft samples (1d3, can be implanted to grant +1 to an attribute for 24 hours, causes 1 Corruption) - **Trade Value**: 25 supplies each
+- Flesh graft samples (1d3, can be implanted to grant +1 to an attribute for 24 hours, causes 1 Entropic) - **Trade Value**: 25 supplies each
 - Hylden biomancy tome (contains forbidden knowledge) - **Trade Value**: 80 supplies, studying it grants Ritualism skill but causes Corruption
 - Grafted organs (if harvested from the Architect's body) - **Trade Value**: 40 supplies, used in alchemy or rituals
 
@@ -242,7 +242,7 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 - **Defense Value (DV)**: 3
 - **Save DR** *(saves against this creature's abilities)*: 2 (Physical saves), 0 (Mental saves, mindless)
 - **Movement**: 30 ft per turn (lurching gait)
-- **Armor**: Medium (fused flesh, Armor 2 vs Physical)
+- **Armor**: Medium (fused flesh, Armor: 2 vs Physical)
 - **Initiative:** 2
 
 **Attributes**:
@@ -268,9 +268,9 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 - Effect: Affected creatures' Armor is reduced by 1 for 3 rounds (corrosive effect).
 
 ### Abilities
-**Bio-Construct**: Immune to fear, charm, poison, disease, and mental effects (no mind of its own). Does not need to eat, sleep, or breathe.
+**Bio-Construct**: Immune to Frightened, charm, poison, disease, and mental effects (no mind of its own). Does not need to eat, sleep, or breathe.
 
-**Mind-Tethered**: The Abomination is controlled by a Hylden creature within 100 feet. If the controller is killed or the tether is severed (DR 4 Soul + Ritualism check to sever psychically), the Abomination collapses instantly (death).
+**Mind-Tethered**: The Abomination is controlled by a Hylden creature within 100 feet. If the controller is killed or the tether is severed (DR 4 Spectral + Ritualism check to sever psychically), the Abomination collapses instantly (death).
 
 **Regeneration (Fused Flesh)**: The Abomination regains 3 HP at the start of each of its turns (flesh knits together). This regeneration stops if it takes Fire or Elemental damage since its last turn.
 
@@ -333,17 +333,17 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 ### Attacks
 **Corrupted Touch** (Soul 3 + Forbidden Knowledge 3 = 6d6)
 - Range: Weapon Mastery
-- Damage: 4 Soul + 2 Corruption damage
-- Effect: On Critical Hit (3+ successes), the target gains 1 Corruption point (Hylden essence spreads).
+- Damage: 4 Spectral + 2 Entropic damage
+- Effect: On Critical Hit (3+ successes), the target gains 1 Entropic point (Hylden essence spreads).
 
 **Tendril Lash** (Fury 3 + Forbidden Knowledge 3 = 6d6, once per turn)
 - Range: 15 feet (tendrils burst from the Host's body)
 - Damage: 5 Physical damage
-- Effect: Target must pass a DR 2 Shadow save or be **Grappled** (held by tendrils). While Grappled, the target takes 2 Corruption damage automatically at the start of each turn. Escape requires a DR 3 Fury + Athletics roll.
+- Effect: Target must pass a DR 2 Shadow save or be **Grappled** (held by tendrils). While Grappled, the target takes 2 Entropic damage automatically at the start of each turn. Escape requires a DR 3 Fury + Athletics roll.
 
 **Corruption Wave** (Soul 3 + Corruption 3 = 6d6, Recharge 6, costs 2 SE)
 - Range: 20-foot radius centered on the Host
-- Damage: 4 Corruption damage to all creatures in the radius
+- Damage: 4 Entropic damage to all creatures in the radius
 - Effect: Targets must pass a DR 3 Will save or be **Weakened** (−1 die on all rolls for 2 rounds, as Hylden whispers fill their minds).
 
 ### Abilities
@@ -361,7 +361,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 
 ### Tactics
 - **Infiltrate First**: Corruption Hosts use Infiltrator's Guise to approach unsuspecting PCs or set up ambushes. They strike when targets are vulnerable (resting, distracted, separated).
-- **Tendril Lash for Control**: They Grapple priority targets (casters, ranged attackers), dealing Corruption damage over time.
+- **Tendril Lash for Control**: They Grapple priority targets (casters, ranged attackers), dealing Entropic damage over time.
 - **Corrupted Touch in Weapon Mastery**: They spread Corruption to as many enemies as possible, weakening them for future encounters.
 - **Corruption Wave When Surrounded**: If clustered enemies close in, they use Corruption Wave to Confuse everyone, creating chaos.
 - **Final Transformation as Last Resort**: When dying, they transform into an Abomination, shocking players and continuing the fight.
@@ -372,7 +372,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 - Hylden whisper recording (if studied, reveals Hylden communication patterns) - **Trade Value**: 25 supplies (lore)
 
 ### Scaling Options
-**Advanced Corruption Host** (Elite, TV 8): +15 HP, increase Soul and Forbidden Knowledge to 4. Corrupted Flesh increases DV by +2 per hit (max +6). Add "Spread Corruption" ability (all enemies within 10 feet gain 1 Corruption at the start of the Host's turn).
+**Advanced Corruption Host** (Elite, TV 8): +15 HP, increase Soul and Forbidden Knowledge to 4. Corrupted Flesh increases DV by +2 per hit (max +6). Add "Spread Corruption" ability (all enemies within 10 feet gain 1 Entropic at the start of the Host's turn).
 
 ---
 
@@ -394,7 +394,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 - **Defense Value (DV)**: 6
 - **Save DR** *(saves against this creature's abilities)*: 4 (Shadow and Will saves), 3 (Physical saves)
 - **Movement**: 45 ft per turn (enhanced agility)
-- **Armor**: Light (bio-enhanced skin, Armor 2 vs Physical, immune to Spectral damage)
+- **Armor**: Light (bio-enhanced skin, Armor: 2 vs Physical, immune to Spectral damage)
 - **Initiative:** 7
 
 **Attributes**:
@@ -413,18 +413,18 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 ### Attacks
 **Sigil Blade** (Shadow 5 + Weapon Mastery 5 = 10d6)
 - Range: Weapon Mastery
-- Damage: 8 Physical + 3 Corruption damage
-- Effect: On Critical Hit (3+ successes), the target is **Bleeding** (3 Physical damage at the start of each turn) and gains 1 Corruption point. The blade is wreathed in shifting sigils.
+- Damage: 8 Physical + 3 Entropic damage
+- Effect: On Critical Hit (3+ successes), the target is **Bleeding** (3 Physical damage at the start of each turn) and gains 1 Entropic point. The blade is wreathed in shifting sigils.
 
 **Phase Strike** (Shadow 5 + Glyphcasting 4 = 9d6, costs 2 SE)
 - Range: 30 feet (teleport attack)
-- Damage: 9 Physical + 2 Corruption damage
+- Damage: 9 Physical + 2 Entropic damage
 - Effect: The Reaver phases through reality, appearing adjacent to the target and striking. This movement ignores walls, obstacles, and enemies. It does not provoke opportunity attacks.
 
 **Corruption Burst** (Soul 4 + Glyphcasting 4 = 8d6, Recharge 5-6, costs 3 SE)
 - Range: 20-foot radius centered on the Reaver
-- Damage: 6 Corruption damage to all creatures in the radius
-- Effect: The Reaver's sigils flare violently. All affected creatures gain 1 Corruption point.
+- Damage: 6 Entropic damage to all creatures in the radius
+- Effect: The Reaver's sigils flare violently. All affected creatures gain 1 Entropic point.
 
 ### Abilities
 **Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
@@ -435,7 +435,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 
 **Master Assassin**: The Reaver has Advantage on attack rolls vs creatures that have not acted yet this encounter (surprise advantage). Additionally, attacks made while Invisible automatically have Advantage.
 
-**Self-Destruct Protocol** (1/encounter): When reduced to 0 HP, the Reaver can choose to detonate their bio-sigils. All creatures within 15 feet take 8 Corruption damage and must make a DR 3 Will save or gain 1 Corruption point (DR 4 Shadow save to halve the damage). The Reaver's body is completely destroyed (no resurrection, no loot).
+**Self-Destruct Protocol** (1/encounter): When reduced to 0 HP, the Reaver can choose to detonate their bio-sigils. All creatures within 15 feet take 8 Entropic damage and must make a DR 3 Will save or gain 1 Entropic point (DR 4 Shadow save to halve the damage). The Reaver's body is completely destroyed (no resurrection, no loot).
 
 **Behavior Tags:** ambusher, skirmisher, phase_shifter
 
@@ -448,7 +448,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 - **Self-Destruct as Final Option**: If capture is certain, they detonate, taking enemies with them and destroying evidence.
 
 ### Loot
-- Sigil blade (weapon, deals +3 Corruption damage but wielder gains 1 Corruption per day of use) - **Trade Value**: 50 supplies, dangerous
+- Sigil blade (weapon, deals +3 Entropic damage but wielder gains 1 Entropic per day of use) - **Trade Value**: 50 supplies, dangerous
 - Bio-sigil fragments (if the Reaver didn't self-destruct, 1d3 fragments remain) - **Trade Value**: 40 supplies each, can be studied or used in rituals
 - Phase crystal (allows one-time teleport up to 30 feet) - **Trade Value**: 60 supplies
 - **Note**: If the Reaver self-destructs, no loot remains (body is vaporized).
@@ -476,7 +476,7 @@ They're strategic thinkers, not frontline fighters. They open rifts to bring in 
 - **Defense Value (DV)**: 5
 - **Save DR** *(saves against this creature's abilities)*: 5 (Will and Soul saves), 3 (Physical saves)
 - **Movement**: 30 ft per turn
-- **Armor**: Medium (dimensional anchors, Armor 2 vs Physical, Armor 3 vs Magic, immune to Spectral damage)
+- **Armor**: Medium (dimensional anchors, Armor: 2 vs Physical, Armor: 3 vs Magic, immune to Spectral damage)
 - **Initiative:** 5
 
 **Attributes**:
@@ -495,8 +495,8 @@ They're strategic thinkers, not frontline fighters. They open rifts to bring in 
 ### Attacks
 **Reality Tear** (Soul 6 + Glyphcasting 3 = 9d6, costs 3 SE)
 - Range: 40 feet
-- Damage: 8 Force + 3 Soul damage
-- Effect: The Engineer tears a hole in reality, damaging the target. On Critical Hit (3+ successes), the target is **Unraveled** (lose 3 SE or BP, or take 3 additional Soul damage).
+- Damage: 8 Force + 3 Spectral damage
+- Effect: The Engineer tears a hole in reality, damaging the target. On Critical Hit (3+ successes), the target is **Unraveled** (lose 3 SE or BP, or take 3 additional Spectral damage).
 
 **Rift Collapse** (Soul 6 + Forbidden Knowledge 5 = 11d6, Recharge 5-6, costs 5 SE)
 - Range: 30-foot radius centered on a point within 60 feet
@@ -567,7 +567,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 - **Defense Value (DV)**: 6
 - **Save DR** *(saves against this creature's abilities)*: 5 (all saves)
 - **Movement**: 30 ft per turn (floats above ground)
-- **Armor**: Heavy (reality shell, Armor 3 vs Physical, Armor 5 vs Magic, immune to Spectral damage)
+- **Armor**: Heavy (reality shell, Armor: 3 vs Physical, Armor: 5 vs Magic, immune to Spectral damage)
 - **Initiative:** 5
 
 **Attributes**:
@@ -586,8 +586,8 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 ### Attacks
 **Void Blast** (Soul 7 + Glyphcasting 6 = 13d6, costs 4 SE)
 - Range: 60 feet
-- Damage: 10 Corruption + 4 Soul damage
-- Effect: On Critical Hit (3+ successes), the target is **Unraveled** (lose 4 SE or BP, or take 4 additional Soul damage) and gains 2 Corruption points.
+- Damage: 10 Entropic + 4 Spectral damage
+- Effect: On Critical Hit (3+ successes), the target is **Unraveled** (lose 4 SE or BP, or take 4 additional Spectral damage) and gains 2 Entropic points.
 
 **Prophecy of Doom** (Soul 7 + Forbidden Knowledge 6 = 13d6, Recharge 5-6, costs 6 SE)
 - Range: All enemies within 60 feet
@@ -596,8 +596,8 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 
 **Dimensional Rupture** (Soul 7 + Glyphcasting 6 = 13d6, once per encounter, costs 8 SE)
 - Range: 40-foot radius centered on a point within 80 feet
-- Damage: 10 Force + 4 Corruption damage to all creatures in the radius
-- Effect: The Oracle rips reality open. All creatures in the radius gain 2 Corruption points and must pass a DR 5 Shadow save or be teleported 2d6 x 5 feet in a random direction (lose positioning, potentially separated from allies).
+- Damage: 10 Force + 4 Entropic damage to all creatures in the radius
+- Effect: The Oracle rips reality open. All creatures in the radius gain 2 Entropic points and must pass a DR 5 Shadow save or be teleported 2d6 x 5 feet in a random direction (lose positioning, potentially separated from allies).
 
 ### Abilities
 **Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
@@ -606,7 +606,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 
 **Telepathic Coordination**: All Hylden allies within 30 feet of the Oracle gain +1 die on all rolls (the Oracle coordinates their actions telepathically). If the Oracle is killed, all Hylden allies lose this bonus and must pass a DR 4 Will save or be **Stunned** for 1 round (psychic backlash).
 
-**Reality Shell**: The Oracle is surrounded by a shell of warped reality. They have Armor 3 vs Physical and Armor 5 vs Magic. Additionally, ranged attacks against the Oracle have Disadvantage (projectiles curve around them).
+**Reality Shell**: The Oracle is surrounded by a shell of warped reality. They have Armor: 3 vs Physical and Armor: 5 vs Magic. Additionally, ranged attacks against the Oracle have Disadvantage (projectiles curve around them).
 
 **Forbidden Knowledge Sight**: The Oracle can see 3 rounds into the future. Once per round, when targeted by an attack, they gain +2 DV against that attack (they see attacks coming before they happen). *(Subsequent attacks in the same round are resolved normally.)*
 
@@ -655,7 +655,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 - **Defense Value (DV)**: 5
 - **Save DR** *(saves against this creature's abilities)*: 4 (Will saves), 3 (other saves)
 - **Movement**: 30 ft per turn
-- **Armor**: Heavy (tormentor's plate, Armor 3 vs Physical, immune to Spectral damage)
+- **Armor**: Heavy (tormentor's plate, Armor: 3 vs Physical, immune to Spectral damage)
 - **Initiative:** 3
 
 **Attributes**:
@@ -678,7 +678,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 
 **Mind Spike** (Soul 5 + Intimidation 5 = 10d6, costs 3 SE)
 - Range: 40 feet
-- Damage: 8 Soul damage
+- Damage: 8 Spectral damage
 - Effect: The Warden drives a psychic spike into the target's mind. Target must pass a DR 4 Will save or be **Frightened** for 3 rounds.
 
 **Cage of Despair** (Soul 5 + Forbidden Knowledge 4 = 9d6, Recharge 5-6, costs 5 SE)
@@ -693,7 +693,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 
 **Harvest Suffering**: When a creature within 30 feet takes damage (from any source), the Warden regains 2 HP (they feed on pain). This can only trigger once per turn.
 
-**Break the Mind** (Passive): When the Warden reduces a creature to 0 HP, that creature must pass a DR 5 Will save or gain 2 Corruption points (trauma from the encounter).
+**Break the Mind** (Passive): When the Warden reduces a creature to 0 HP, that creature must pass a DR 5 Will save or gain 2 Entropic points (trauma from the encounter).
 
 **Spectral Prison**: If the Warden successfully uses Cage of Despair on a creature, that creature is marked. For the next 24 hours, they have nightmares of the encounter (Disadvantage on rest recovery rolls, regain half HP/SE/BP from rest instead of full).
 
@@ -709,7 +709,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 
 ### Loot
 - Barbed chain (weapon, 15-foot reach, deals +2 damage when Grappling) - **Trade Value**: 45 supplies
-- Tormentor's plate (Heavy armor, Armor 3 Physical, grants Advantage on Intimidation) - **Trade Value**: 60 supplies
+- Tormentor's plate (Heavy armor, Armor: 3 Physical, grants Advantage on Intimidation) - **Trade Value**: 60 supplies
 - Spectral prison shard (can trap one creature's consciousness, one-time use) - **Trade Value**: 70 supplies, dangerous item
 - Suffering essence (crystallized pain, harvested by the Warden) - **Trade Value**: 40 supplies, used in dark rituals or alchemy
 
@@ -736,7 +736,7 @@ They serve as force multipliers for Hylden operations: opening rifts to bring re
 - **Defense Value (DV)**: 5
 - **Save DR** *(saves against this creature's abilities)*: 4 (Will saves), 3 (other saves)
 - **Movement**: 30 feet per turn
-- **Armor**: 2 (bio-ritual vestments: Armor 2 vs Physical, immune to Spectral damage)
+- **Armor**: 2 (bio-ritual vestments: Armor: 2 vs Physical, immune to Spectral damage)
 - **Initiative:** 4
 - **Soul Energy (SE):** 15
 
@@ -756,8 +756,8 @@ They serve as force multipliers for Hylden operations: opening rifts to bring re
 ### Attacks
 **Corruption Lance** (Soul 5 + Forbidden Knowledge 4 = 9d6 vs DV)
 - Range: 60 feet
-- Damage: 8 Corruption damage
-- Effect: On hit, target must pass a DR 3 Will save or gain 1 Corruption point.
+- Damage: 8 Entropic damage
+- Effect: On hit, target must pass a DR 3 Will save or gain 1 Entropic point.
 
 **Rift Tear** (Action, costs 5 SE)
 - Range: 30-foot radius centered on a point within 60 feet
@@ -767,8 +767,8 @@ They serve as force multipliers for Hylden operations: opening rifts to bring re
 **Corruption Pulse** (Action, costs 8 SE, Recharge 5-6)
 - Range: 20-foot radius centered on the Rift-Priest
 - Dice Pool: Soul 5 + Forbidden Knowledge 4 = 9d6
-- Damage: 10 Corruption damage
-- Effect: Creatures in the area make a DR 4 Will save for half damage. Creatures that take full damage gain 1 Corruption point. Hylden allies in the area are healed for 5 HP instead.
+- Damage: 10 Entropic damage
+- Effect: Creatures in the area make a DR 4 Will save for half damage. Creatures that take full damage gain 1 Entropic point. Hylden allies in the area are healed for 5 HP instead.
 
 **Dimensional Tether** (Action, costs 6 SE, 1/encounter)
 - Range: Self
@@ -779,7 +779,7 @@ They serve as force multipliers for Hylden operations: opening rifts to bring re
 
 **Rift Conduit** (Passive): The Rift-Priest's ritual scars glow brighter as it spends SE. For every 10 SE spent, all Hylden allies within 30 feet gain +1 die on their next attack roll (the dimensional energy empowers them).
 
-**Phase Anchor** (Passive): The Rift-Priest cannot be banished, teleported, or moved by force against its will while it maintains concentration on a rift. Destroying the rift (HP 20, DV 3, Armor 0 — attack the air where it shimmers) breaks this protection.
+**Phase Anchor** (Passive): The Rift-Priest cannot be banished, teleported, or moved by force against its will while it maintains concentration on a rift. Destroying the rift (HP: 20, DV: 3, Armor: 0 — attack the air where it shimmers) breaks this protection.
 
 **Sacrificial Host** (Passive): When the Rift-Priest is reduced to 0 HP, the Hylden mind abandons the mortal host. The host dies instantly. If there is a living mortal within 30 feet (PC, NPC, or summoned Grunt), the Hylden can attempt to possess them (target must pass a DR 4 Will save or become the new host — the Rift-Priest returns at half HP on its next turn).
 
@@ -793,14 +793,14 @@ They serve as force multipliers for Hylden operations: opening rifts to bring re
 
 ### Loot
 - Rift-attuned focus crystal (can be used to detect dimensional weak points within 100 feet) — **Trade Value**: 80 supplies
-- Bio-ritual vestments (Armor 2 vs Physical, immune to Spectral damage; requires Hylden attunement to wear safely) — **Trade Value**: 60 supplies
+- Bio-ritual vestments (Armor: 2 vs Physical, immune to Spectral damage; requires Hylden attunement to wear safely) — **Trade Value**: 60 supplies
 - Dimensional residue (3 vials; component for teleportation magic or crafting phase-shift items) — **Trade Value**: 40 supplies per vial
 - Corruption-stained scroll (contains the ritual for opening minor rifts — dangerous knowledge) — **Trade Value**: 100 supplies (to scholars or rival factions)
 
 ### Scaling Options
-**Rift Initiate (Standard, TV 5):** HP 25, DV 3, Soul 3, Glyphcasting 2. Loses Corruption Pulse, Dimensional Tether, and Sacrificial Host. Corruption Lance deals 5 damage. SE reduced to 8.
+**Rift Initiate (Standard, TV 5):** HP: 25, DV: 3, Soul 3, Glyphcasting 2. Loses Corruption Pulse, Dimensional Tether, and Sacrificial Host. Corruption Lance deals 5 damage. SE reduced to 8.
 
-**Rift Archon (Boss, TV 15):** HP 68, DV 5, Soul 6, Glyphcasting 5. Gains Legendary Resistance (1/day) and 1 Legendary Action/round (Corruption Lance). Rift Tear radius increases to 25 feet. Dimensional Tether summons 1d3 Grunts.
+**Rift Archon (Boss, TV 15):** HP: 68, DV: 5, Soul 6, Glyphcasting 5. Gains Legendary Resistance (1/day) and 1 Legendary Action/round (Corruption Lance). Rift Tear radius increases to 25 feet. Dimensional Tether summons 1d3 Grunts.
 
 ---
 
@@ -843,15 +843,15 @@ Grunts are cannon fodder. Hylden commanders send them in waves to absorb enemy r
 
 **Corrupted Grasp** (Fury 2 + 1 = 3d6 vs DV, 1/encounter)
 - Range: Weapon Mastery
-- Damage: 2 Corruption damage
+- Damage: 2 Entropic damage
 - Effect: On hit, target must pass a DR 1 Will save or have Disadvantage on their next action (the Hylden fragment's malice pulses into them).
 
 ### Abilities
-**Hylden Wilderness (Partial):** Immune to Spectral effects and mind control. Not immune to possession (the existing Hylden fragment is too weak to resist a stronger will). Resistant to Soul damage (half damage).
+**Hylden Wilderness (Partial):** Immune to Spectral effects and mind control. Not immune to possession (the existing Hylden fragment is too weak to resist a stronger will). Resistant to Spectral damage (half damage).
 
 **Hivemind Fodder** (Passive): Gains Advantage on all attack rolls when within 10 feet of another Hylden creature (the partial fragment resonates with stronger Hylden minds nearby).
 
-**Expendable Host** (Passive): When reduced to 0 HP, there is a 25% chance (roll 1 on 1d4) the Hylden fragment detonates. All creatures within 5 feet take 4 Corruption damage (DR 1 Will save for half).
+**Expendable Host** (Passive): When reduced to 0 HP, there is a 25% chance (roll 1 on 1d4) the Hylden fragment detonates. All creatures within 5 feet take 4 Entropic damage (DR 1 Will save for half).
 
 **Behavior Tags:** pack, brute
 
@@ -908,20 +908,20 @@ Only a handful of Dimension Lords exist. Each one represents a full-scale existe
 ### Attacks
 **Rift Claw** (Fury 5 + Weapon Mastery 4 = 9d6 vs DV)
 - Range: Weapon Mastery (10 feet)
-- Damage: 12 Physical (Slashing) + 6 Corruption
+- Damage: 12 Physical (Slashing) + 6 Entropic
 - Effect: On hit, target is pushed 10 feet in a direction of the Lord's choice (rift energy displaces them). On Critical Hit, the target is also Disoriented (Disadvantage on next action).
 
 **Dimensional Implosion** (Action, costs 10 SE)
 - Range: 30-foot radius centered on a point within 90 feet
 - Dice Pool: Soul 7 + Glyphcasting 6 = 13d6
-- Damage: 14 Force + 6 Corruption
+- Damage: 14 Force + 6 Entropic
 - Effect: Creatures in the area make a DR 4 Shadow save for half damage. The center of the implosion becomes a 10-foot gravity anomaly for 2 rounds (difficult terrain; creatures entering or starting turn there must pass DR 3 Shadow save or be pulled to center).
 
 **Corruption Storm** (Action, costs 15 SE, Recharge 5-6)
 - Range: 40-foot radius centered on the Dimension Lord
 - Dice Pool: Soul 7 + Forbidden Knowledge 5 = 12d6
-- Damage: 16 Corruption damage
-- Effect: Creatures in the area make a DR 4 Will save for half damage. All creatures that take full damage gain 1 Corruption point. All Hylden allies in the area are healed for 10 HP.
+- Damage: 16 Entropic damage
+- Effect: Creatures in the area make a DR 4 Will save for half damage. All creatures that take full damage gain 1 Entropic point. All Hylden allies in the area are healed for 10 HP.
 
 **Rift Tactics** (Action, costs 12 SE, 2/encounter)
 - Range: Self
@@ -936,15 +936,15 @@ Only a handful of Dimension Lords exist. Each one represents a full-scale existe
 
 **Warp Shield** (Reaction, 3/encounter): When targeted by an attack, the Dimension Lord folds space around itself. The attack is redirected to a creature of the Lord's choice within 15 feet (that creature must be a valid target). If no valid target exists, the Lord instead gains +4 DV against the attack.
 
-**Unstable Form** (Passive): When reduced to 50 HP or below, the Dimension Lord's form destabilizes. It gains +2 Armor (space warps protectively) but loses the ability to use Rift Tactics. Its attacks deal +4 Corruption damage as uncontrolled dimensional energy bleeds outward.
+**Unstable Form** (Passive): When reduced to 50 HP or below, the Dimension Lord's form destabilizes. It gains +2 Armor (space warps protectively) but loses the ability to use Rift Tactics. Its attacks deal +4 Entropic damage as uncontrolled dimensional energy bleeds outward.
 
-**Legendary Resistance (3/day):** If the Dimension Lord fails a saving throw, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If the Dimension Lord fails a save, it can choose to succeed instead.
 
 ### Legendary Actions (3/round)
 - **Rift Claw (1 action):** Make one Rift Claw attack.
 - **Dimensional Shift (1 action):** Teleport up to 30 feet. This does not provoke opportunity attacks.
 - **Warp Pulse (2 actions):** Every creature within 15 feet must pass DR 4 Shadow save or be teleported 20 feet in a random direction (1d8). Creatures that impact solid objects take 6 Bludgeoning damage.
-- **Corruption Siphon (2 actions):** Target one creature within 30 feet with 1+ Corruption points. That creature takes 8 Corruption damage (no save) and the Dimension Lord heals for the same amount.
+- **Corruption Siphon (2 actions):** Target one creature within 30 feet with 1+ Corruption points. That creature takes 8 Entropic damage (no save) and the Dimension Lord heals for the same amount.
 
 ### Lair Action
 **Dimensional Breach:** If the encounter takes place near a Hylden rift or in a Hylden-controlled zone, one of the following occurs on initiative count 20:
@@ -954,7 +954,7 @@ Only a handful of Dimension Lords exist. Each one represents a full-scale existe
 
 ### Regional Effects
 - Within 1 mile of a Dimension Lord's base of operations, reality frays: compasses spin, shadows point wrong, and Corruption checks are made at Disadvantage.
-- Living creatures that long rest within 1 mile must pass DR 2 Will save or gain 1 Corruption point (nightmares of the banished dimension).
+- Living creatures that long rest within 1 mile must pass DR 2 Will save or gain 1 Entropic point (nightmares of the banished dimension).
 - Spectral creatures cannot enter the affected region (dimensional interference).
 
 **Behavior Tags:** boss, controller, summoner, phase_shifter
@@ -963,7 +963,7 @@ Only a handful of Dimension Lords exist. Each one represents a full-scale existe
 - **Strategic Commander**: The Dimension Lord rarely fights without a retinue. It summons reinforcements early with Rift Tactics, then positions itself to maximize Glyphcasting Aura coverage while allies engage.
 - **Disruption and Control**: Dimensional Implosion and Warp Pulse scatter formations. Warp Shield redirects damage to allies or summoned fodder. The Lord fights a battle of positioning, not attrition.
 - **Corruption as a Weapon**: Corruption Storm and Corruption Siphon create a Corruption feedback loop — the more Corruption PCs accumulate, the more the Lord can heal. Parties should bring Corruption resistance or cleansing.
-- **Phase Two**: When Unstable Form triggers, the Lord becomes more dangerous but loses summoning. This is the window to finish it — before the +4 Corruption damage stacks become overwhelming.
+- **Phase Two**: When Unstable Form triggers, the Lord becomes more dangerous but loses summoning. This is the window to finish it — before the +4 Entropic damage stacks become overwhelming.
 
 **Encounter Design:** A Dimension Lord should be a multi-session arc villain. The first encounter might be against its forces while the Lord projects its presence. The final confrontation should pit the party (TV 20+) against the Lord (TV 18), a Rift-Priest (TV 11), 2 Shock Troopers (TV 9 each, TV 18 total), and one wave of 4 Grunts (TV 3 each, TV 12 total) — a full invasion force. Total TV: 59.
 
@@ -974,9 +974,9 @@ Only a handful of Dimension Lords exist. Each one represents a full-scale existe
 - Corruption Nexus (a swirling orb of concentrated Corruption; can be weaponized or purified) — **Trade Value**: 250 supplies, extremely dangerous
 
 ### Scaling Options
-**Hylden Rift Commander (Boss, TV 14):** HP 80, DV 5, Soul 5, Armor 3. Loses Legendary Actions, Lair Action, Regional Effects, and Warp Shield. Rift Tactics summons only Grunts, and each use summons one fewer Grunt than the base version. SE reduced to 24.
+**Hylden Rift Commander (Boss, TV 14):** HP: 80, DV: 5, Soul 5, Armor: 3. Loses Legendary Actions, Lair Action, Regional Effects, and Warp Shield. Rift Tactics summons only Grunts, and each use summons one fewer Grunt than the base version. SE reduced to 24.
 
-**Hylden Overlord (Legendary, TV 22):** HP 300, DV 6, Soul 8, Armor 7. Gains 4 Legendary Actions/round. Corruption Storm recharges on 4-6. Rift Tactics gains a third use and can summon a Horror Warden (TV 14). Add **Dimensional Collapse (1/encounter):** The Overlord rips a 60-foot zone of reality apart. All creatures in the zone take 25 Force + 10 Corruption damage (DR 5 Shadow save for half). The zone becomes an impassable rift for 3 rounds.
+**Hylden Overlord (Legendary, TV 22):** HP: 300, DV: 6, Soul 8, Armor: 7. Gains 4 Legendary Actions/round. Corruption Storm recharges on 4-6. Rift Tactics gains a third use and can summon a Horror Warden (TV 14). Add **Dimensional Collapse (1/encounter):** The Overlord rips a 60-foot zone of reality apart. All creatures in the zone take 25 Force + 10 Entropic damage (DR 5 Shadow save for half). The zone becomes an impassable rift for 3 rounds.
 
 ---
 
@@ -1023,8 +1023,8 @@ Not all Hylden agree with the invasion. Vex'thal is a deserter — a Hylden mind
 ### Attacks
 **Corruption Lance** (Soul 5 + Forbidden Knowledge 4 = 9d6, costs 2 SE)
 - Range: 60 feet
-- Damage: 7 Corruption + 3 Soul damage
-- Effect: On hit, target must make a DR 3 Will save or gain 1 Corruption point. The lance appears as a beam of violet-black energy that leaves hairline fractures in reality along its path.
+- Damage: 7 Entropic + 3 Spectral damage
+- Effect: On hit, target must make a DR 3 Will save or gain 1 Entropic point. The lance appears as a beam of violet-black energy that leaves hairline fractures in reality along its path.
 
 **Rift Tear** (Soul 5 + Glyphcasting 4 = 9d6, Recharge 5-6, costs 5 SE)
 - Range: 30-foot radius centered on a point within 60 feet
@@ -1034,14 +1034,14 @@ Not all Hylden agree with the invasion. Vex'thal is a deserter — a Hylden mind
 **Corruption Pulse** (Will 5 + Forbidden Knowledge 4 = 9d6, 1/encounter)
 - Range: 20-foot radius centered on self
 - Damage: None
-- Effect: All enemies in the radius must make a DR 4 Will save. On failure: gain 2 Corruption points + **Disadvantage** on next roll. On success: gain 1 Corruption point. The Rift-Priest pulses raw dimensional energy outward, contaminating everything nearby.
+- Effect: All enemies in the radius must make a DR 4 Will save. On failure: gain 2 Entropic points + **Disadvantage** on next roll. On success: gain 1 Entropic point. The Rift-Priest pulses raw dimensional energy outward, contaminating everything nearby.
 
 ### Abilities
-**Hylden Wilderness:** Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage). *(See Shared Traits at the beginning of this chapter.)*
+**Hylden Wilderness:** Immune to Spectral effects, possession, and mind control. Resistant to Spectral damage (half damage). Vulnerable to Radiant damage (+2 damage). *(See Shared Traits at the beginning of this chapter.)*
 
 **Rift Conduit**: At the start of each of the Rift-Priest's turns, it regains 2 SE (drawing power directly from the dimension beyond). Maximum SE: 15.
 
-**Corruption Aura** (Passive): Creatures that start their turn within 15 feet of the Rift-Priest must make a DR 2 Will save or gain 1 Corruption point. Each creature can only be affected once per encounter by this aura. The air around the Rift-Priest shimmers with visible dimensional distortion.
+**Corruption Aura** (Passive): Creatures that start their turn within 15 feet of the Rift-Priest must make a DR 2 Will save or gain 1 Entropic point. Each creature can only be affected once per encounter by this aura. The air around the Rift-Priest shimmers with visible dimensional distortion.
 
 **Dimensional Tether** (1/encounter, Bonus Action): The Rift-Priest tears open a small rift within 30 feet, summoning 1d4 **Hylden-Possessed Grunts** (TV 3 each, see entry below) that appear in unoccupied spaces adjacent to the rift. The Grunts act on the Rift-Priest’s initiative and fight until destroyed. The rift closes at the end of the Rift-Priest’s next turn.
 
@@ -1056,7 +1056,7 @@ Not all Hylden agree with the invasion. Vex'thal is a deserter — a Hylden mind
 ### Tactics
 The Rift-Priest fights from the backline behind Shock Troopers or summoned Grunts. It opens with Corruption Pulse to contaminate the party, then uses Corruption Lance to wear down targets from range. Rift Tear scatters the party when they try to close distance or form formations. Dimensional Tether provides expendable meat shields. Rift Conduit ensures it rarely runs dry on SE.
 
-**Key Weakness:** The Rift-Priest is fragile in melee (Fury 2, Armor 2). Closing to melee range and staying there — past the Dimensional Flicker reaction — forces it into a losing fight. Radiant damage is especially effective against it and is not reduced by its listed Resistance profile if a source explicitly says so. Anti-magic effects or abilities that suppress SE regeneration cripple its offensive capability.
+**Key Weakness:** The Rift-Priest is fragile in melee (Fury 2, Armor: 2). Closing to melee range and staying there — past the Dimensional Flicker reaction — forces it into a losing fight. Radiant damage is especially effective against it and is not reduced by its listed Resistance profile if a source explicitly says so. Anti-magic effects or abilities that suppress SE regeneration cripple its offensive capability.
 
 **Encounter Design:** Pair with 2 Hylden Shock Troopers (TV 9 each) for a TV 29 encounter that captures the combined-arms feel of a Hylden incursion. The Rift-Priest opens rifts and spreads Corruption while Troopers hold the line. Alternatively, pair with 4–6 Hylden-Possessed Grunts (TV 3 each) for a TV 23–29 encounter focused on the Rift-Priest as the priority target.
 
@@ -1067,9 +1067,9 @@ The Rift-Priest fights from the backline behind Shock Troopers or summoned Grunt
 - Rift-Priest’s journal (encoded in Hylden, details invasion plans, ritual schedules, and Corruption spread targets) — **Trade Value**: Priceless for intelligence; decoding requires DR 4 Forbidden Knowledge check
 
 ### Scaling Options
-**Hylden Rift Acolyte** (Standard, TV 5): HP 25, DV 4, Soul 3, Will 3. Remove Corruption Pulse and Dimensional Tether. Corruption Lance deals 4 Corruption + 2 Soul, costs 1 SE. No Corruption Aura.
+**Hylden Rift Acolyte** (Standard, TV 5): HP: 25, DV: 4, Soul 3, Will 3. Remove Corruption Pulse and Dimensional Tether. Corruption Lance deals 4 Entropic + 2 Spectral, costs 1 SE. No Corruption Aura.
 
-**Hylden Arch-Priest** (Boss, TV 15): HP 75, DV 6, Soul 6, Will 6. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Corruption Lance (1), Rift Tear (2, even if not recharged). Dimensional Tether summons 1d3 Grunts. Add "Permanent Rift" (1/encounter): tears open a rift that persists for 2 rounds. At the start of each of the Arch-Priest's turns, 1 Hylden-Possessed Grunt emerges from it (maximum 2 total).
+**Hylden Arch-Priest** (Boss, TV 15): HP: 75, DV: 6, Soul 6, Will 6. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Corruption Lance (1), Rift Tear (2, even if not recharged). Dimensional Tether summons 1d3 Grunts. Add "Permanent Rift" (1/encounter): tears open a rift that persists for 2 rounds. At the start of each of the Arch-Priest's turns, 1 Hylden-Possessed Grunt emerges from it (maximum 2 total).
 
 ---
 
@@ -1111,17 +1111,17 @@ For GMs, Grunts solve a critical gap in Hylden encounters: the need for low-tier
 **Crude Weapon Strike** (Fury 3 + Weapon Mastery 1 = 4d6)
 - Range: Weapon Mastery
 - Damage: 4 Physical damage
-- Effect: On Critical Hit (3+ successes), the target must make a DR 1 Will save or gain 1 Corruption point (Hylden essence bleeds through the weapon on impact).
+- Effect: On Critical Hit (3+ successes), the target must make a DR 1 Will save or gain 1 Entropic point (Hylden essence bleeds through the weapon on impact).
 
 **Corrupted Grasp** (Fury 3 + 0 = 3d6)
 - Range: Weapon Mastery
-- Damage: 3 Physical + 1 Corruption damage
-- Effect: Target must make a DR 1 Blood save or be **Grappled** (the Grunt clings with unnatural tenacity). While grappled, the target takes 1 Corruption damage at the start of each of their turns.
+- Damage: 3 Physical + 1 Entropic damage
+- Effect: Target must make a DR 1 Blood save or be **Grappled** (the Grunt clings with unnatural tenacity). While grappled, the target takes 1 Entropic damage at the start of each of their turns.
 
 ### Abilities
-**Hylden Wilderness:** Immune to Spectral effects, possession, and mind control. Resistant to Soul damage (half damage). Vulnerable to Radiant damage (+2 damage). *(See Shared Traits at the beginning of this chapter.)*
+**Hylden Wilderness:** Immune to Spectral effects, possession, and mind control. Resistant to Spectral damage (half damage). Vulnerable to Radiant damage (+2 damage). *(See Shared Traits at the beginning of this chapter.)*
 
-**Expendable Host**: When reduced to 0 HP, the possessed body collapses. There is a 25% chance (roll 1d4; on a 1) the Hylden spirit lashes out in its death throes: all creatures within 5 feet must make a DR 1 Will save or take 2 Soul damage.
+**Expendable Host**: When reduced to 0 HP, the possessed body collapses. There is a 25% chance (roll 1d4; on a 1) the Hylden spirit lashes out in its death throes: all creatures within 5 feet must make a DR 1 Will save or take 2 Spectral damage.
 
 **Hivemind Fodder**: Gains +1 die on attack rolls when within 10 feet of another Hylden creature (telepathic coordination from more powerful Hylden nearby). Maximum bonus: +2 dice.
 
@@ -1143,9 +1143,9 @@ Grunts swarm in groups of 4–8. They charge the nearest enemy and use Crude Wea
 - Faint Hylden residue (trace amounts of dimensional energy on the corpse) — **Trade Value**: 5 supplies if harvested with DR 2 Forbidden Knowledge check; used in Hylden detection rituals
 
 ### Scaling Options
-**Fresh Grunt** (Minion, TV 2): HP 4, DV 2, Fury 2. The possession is minutes old; the host is still partially conscious and may cry for help. Deals only 2 Physical damage. Morally devastating to fight.
+**Fresh Grunt** (Minion, TV 2): HP: 4, DV: 2, Fury 2. The possession is minutes old; the host is still partially conscious and may cry for help. Deals only 2 Physical damage. Morally devastating to fight.
 
-**Veteran Grunt** (Standard, TV 5): HP 18, DV 4, Fury 4, Weapon Mastery 2. The possessing spirit has fully integrated with the host. Add "Hylden Surge" ability (Soul 1 + 0 = 1d6, 10-foot radius, 1/encounter): deals 3 Corruption damage to all creatures in the area. More coordinated and dangerous.
+**Veteran Grunt** (Standard, TV 5): HP: 18, DV: 4, Fury 4, Weapon Mastery 2. The possessing spirit has fully integrated with the host. Add "Hylden Surge" ability (Soul 1 + 0 = 1d6, 10-foot radius, 1/encounter): deals 3 Entropic damage to all creatures in the area. More coordinated and dangerous.
 
 ---
 
@@ -1341,8 +1341,8 @@ When their handler is killed, the psychic tether snaps, and the War-Stalker ente
 **Hylden Bile Spit** (Action, costs 4 SE)
 - **Dice Pool:** Focus 2 + Weapon Mastery 2 = 4d6
 - **Range:** 30 feet
-- **Damage:** 5 Corruption damage (the bile is not acid — it carries Hylden corruption energy)
-- **Effect:** Target must make DR 3 Will save or gain **1 Corruption point**. The ichor also halves all Fire, Radiant, and magical damage the target deals for 1 round (the corruption film interferes with magical projection)
+- **Damage:** 5 Entropic damage (the bile is not acid — it carries Hylden corruption energy)
+- **Effect:** Target must make DR 3 Will save or gain **1 Entropic point**. The ichor also halves all Fire, Radiant, and magical damage the target deals for 1 round (the corruption film interferes with magical projection)
 
 ### Abilities
 **Pounce (Action, Recharge 5-6):**
@@ -1367,8 +1367,8 @@ The War-Stalker begins combat in Stealth (Stealth 3), waiting for the Hylden han
 - Hylden leash crystal (the psychic tether anchor, found on the handler's body; a skilled artificer might study it) — **Trade Value**: 30 supplies
 
 ### Scaling Options
-**Fledgling War-Stalker (Standard, TV 5):** HP 18, DV 4, Fury 3, SE 6. Rending Claws deal 5 damage. No Hylden Bile Spit. Frenzy gives +1 Fury only.
-**Veteran War-Stalker (Boss, TV 11):** HP 55, DV 6, Fury 5, SE 20. Rending Claws deal 9 damage + Bleeding on any hit. Hylden Bile Spit now deals 6 Corruption damage; the target must fail a DR 3 Blood save to gain 1 Corruption point. Add **Bone-Breaker (1/encounter):** on landing a Pounce hit, the target must make DR 4 Blood save or suffer -2 dice on physical actions until the end of the encounter.
+**Fledgling War-Stalker (Standard, TV 5):** HP: 18, DV: 4, Fury 3, SE: 6. Rending Claws deal 5 damage. No Hylden Bile Spit. Frenzy gives +1 Fury only.
+**Veteran War-Stalker (Boss, TV 11):** HP: 55, DV: 6, Fury 5, SE: 20. Rending Claws deal 9 damage + Bleeding on any hit. Hylden Bile Spit now deals 6 Entropic damage; the target must fail a DR 3 Blood save to gain 1 Entropic point. Add **Bone-Breaker (1/encounter):** on landing a Pounce hit, the target must make DR 4 Blood save or suffer -2 dice on physical actions until the end of the encounter.
 
 ---
 

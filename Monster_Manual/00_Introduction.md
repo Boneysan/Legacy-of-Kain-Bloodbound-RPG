@@ -24,7 +24,7 @@ The manual is divided into thematic chapters, each containing creatures appropri
 
 ### Threat Tiers
 
-Threat Value (TV) is relative to the **Average Party Level (APL)**. A "standard" challenge for a level 5 party uses TV 5 enemies.
+TV (TV) is relative to the **Average Party Level (APL)**. A "standard" challenge for a level 5 party uses TV 5 enemies.
 
 - **Minion (Relative TV = APL - 2):** Weak enemies; used in groups to pressure action economy
 - **Standard (Relative TV = APL + 0):** Baseline threat; reliable rank-and-file opponent
@@ -61,7 +61,7 @@ For example, a creature with Fury 4 and Weapon Mastery 3 rolls **7d6** to attack
 - **Defense Value (DV)**: The number of successes an attacker must meet or exceed to land a hit. Base DV should stay at **6** or lower; temporary cover, reactions, and special effects may raise effective DV higher.
 - **Difficulty Rating (DR)**: The number of successes needed for saves, checks, and non-attack effects.
 - **Armor**: Flat mitigation applied after a hit lands. Use one Armor score unless a stat block explicitly says otherwise.
-- **Threat Value (TV)**: A creature's overall power rating used for encounter balancing.
+- **TV (TV)**: A creature's overall power rating used for encounter balancing.
 - **Soul Energy (SE)**: Resource pool for magical abilities. Spent to fuel spells and special abilities.
 - **Blood Points (BP)**: Resource pool for vampiric/blood-based abilities.
 
@@ -151,7 +151,7 @@ To scale a creature up or down:
 - -2 damage on attacks
 - Remove one special ability
 
-> **Scaling Note:** The scaling guidelines above are approximations for Tier 1–2 (TV 0.25–4) creatures. At higher Threat Values (TV 9+), scaling is **non-linear** — creatures gain disproportionately more HP, damage, and special abilities per tier. When scaling high-tier creatures, use the stat blocks in Chapter 5 and Chapters 7–9 as reference points rather than applying simple arithmetic.
+> **Scaling Note:** The scaling guidelines above are approximations for Tier 1–2 (TV 0.25–4) creatures. At higher TVs (TV 9+), scaling is **non-linear** — creatures gain disproportionately more HP, damage, and special abilities per tier. When scaling high-tier creatures, use the stat blocks in Chapter 5 and Chapters 7–9 as reference points rather than applying simple arithmetic.
 
 ### Adding Variants
 
@@ -159,7 +159,7 @@ To scale a creature up or down:
 - **Fire-Touched:** +2 Fire damage on attacks, Resistance to Fire
 - **Frost-Wreathed:** Attacks inflict Slowed, Resistance to Cold
 - **Spectral-Touched:** Can phase partially, +1 DV
-- **Corrupted:** +1 Corruption damage, more aggressive tactics
+- **Corrupted:** +1 Entropic damage, more aggressive tactics
 
 **Tactics Variants:**
 - **Alpha/Champion:** Elite tier version with +1 to all skills
@@ -259,7 +259,7 @@ Many creatures inflict status effects tied to damage types (see **Core Mechanics
 - **Bleeding:** Ongoing damage from Piercing/Slashing
 - **Burning:** Fire damage over time
 - **Stunned:** Lost actions from Bludgeoning/Force
-- **Soul Drained:** Reduced max SE from Soul damage
+- **Soul Drained:** Reduced max SE from Spectral damage
 - **Corrupted:** Vulnerability and corruption gain
 
 ### Action Economy
@@ -276,7 +276,7 @@ Encounter design should consider total actions per side:
 This Monster Manual is designed to work seamlessly with:
 
 **Chapter 2: Encounter Design**
-- Threat Value calculations
+- TV calculations
 - Enemy templates (Minion, Standard, Elite, Boss, Legendary)
 - Action economy principles
 - Sample encounters
