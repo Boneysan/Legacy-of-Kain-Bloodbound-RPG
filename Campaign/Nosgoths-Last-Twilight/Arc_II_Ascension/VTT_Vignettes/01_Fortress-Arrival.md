@@ -32,7 +32,7 @@ The fortress does not grant entry. It interrogates arrivals. Before the party ca
 
 ## NPC Opening Line
 
-> **Marshal Kaev Turel's envoy**, stepping forward first: *"The Marshal offers the hospitality of the fortress's eastern quarters, full supply access, and the clarity of a single authority to negotiate with. All he asks is that you enter through the eastern gate."*
+> **Marshal Kaev Turel's envoy**, stepping forward first: *"The Marshal extends the hospitality of the fortress's eastern quarters — provisions, shelter, and a single authority to address rather than two to navigate. His condition is the eastern gate."*
 
 > The western gate is still closed. Steward Drath's people have not moved.
 

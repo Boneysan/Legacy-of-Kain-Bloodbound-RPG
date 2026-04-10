@@ -32,7 +32,7 @@ The Chronoplast does not lie. It shows two or more things that are all true, sim
 
 ## NPC Opening Line
 
-> **Iriane Quell**, reading instruments she has carried since Arc II: *"Both futures I'm seeing are fully coherent. Neither depends on a logical error or a manipulation. They can't both be real — or rather, they can't both be real after a decision is made. Before a decision, the machine can hold them simultaneously."* She looks up. *"I need you to see them before I tell you which one I think was manufactured. The order matters."*
+> **Iriane Quell**, reading instruments she has carried since Arc II: *"Both futures are fully coherent. Neither depends on a logical error or a manipulation. They cannot both be real — or rather, they cannot both be real after a decision is made. Before a decision, the machine can hold them simultaneously."* She looks up. *"I need you to see them before I tell you which one I believe was manufactured. The order matters."*
 
 ---
 
@@ -96,7 +96,7 @@ The Chronoplast does not lie. It shows two or more things that are all true, sim
 
 ## If No Clear Choice Is Made
 
-> If the party cannot agree, the Chronoplast begins defaulting to its longest-running active query — which was set by someone who used it before the party arrived. That query belongs to Curator Thess, and its output is the one that best serves the Wheel's narrative. Default to the manipulated-first-sequence outcome without the party catching the manipulation.
+> If the party cannot agree, the Chronoplast begins defaulting to its longest-running active query — which was set by someone who used it before the party arrived. That query belongs to Curator Thess, and its findings are the ones that most sustain the Wheel's account of what is inevitable. Default to the manipulated-first-sequence outcome without the party catching the manipulation.
 
 **Default Tag:** `chronoplast_access: partial`, `wheel_exposure: concealed`
 

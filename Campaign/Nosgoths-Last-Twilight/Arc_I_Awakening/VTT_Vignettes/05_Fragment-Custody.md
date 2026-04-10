@@ -26,13 +26,13 @@ The fragment has been secured — or it nearly has been. Before Session 5 closes
 
 ## Opening Narration
 
-> The chamber has stopped answering. Whatever it was doing before — answering names, bleeding against gravity, holding the dead in frame — it has gone quiet, and the Sanguine Knot is sitting in a wrapped bundle or sealed container on the nearest flat surface, and the room has arranged itself around the fact that someone has to decide what comes next. Serit Vale has been the most patient she has been in six sessions. That patience is a kind of argument.
+> The chamber has stopped answering. Whatever it was doing before — answering names, bleeding against gravity, holding the dead in frame — it has gone quiet, and the Sanguine Knot is sitting in a wrapped bundle or sealed container on the nearest flat surface, and the room has arranged itself around the fact that someone has to decide what comes next. Serit Vale has been the most patient she has been since the night the caravan reached Avernus. That patience is a kind of argument.
 
 ---
 
 ## NPC Opening Line
 
-> **Serit Vale**, sitting across from the fragment rather than next to it: *"The Accord can provide secure transport, documentation conditions, and research framing that keeps this out of Sarafan inventory lists and Guild manifests. I want to make that offer formally before anyone else makes a worse one. I am telling you what I want and what I'll give in return. I am not going to pretend I don't want it."*
+> **Serit Vale**, sitting across from the fragment rather than next to it: *"The Accord can provide secure transport, documentation conditions, and research framing that keeps this out of Sarafan inventory lists and Guild manifests. I wish to make that offer formally before anyone else makes a worse one. I am telling you what I want and what I will give in return. I will not pretend otherwise."*
 
 > **Mera Ash**, without looking up: *"She's not wrong. She's also not the only person in this room with a more comfortable arrangement ready."*
 

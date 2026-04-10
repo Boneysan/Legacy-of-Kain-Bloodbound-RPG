@@ -30,7 +30,7 @@ The campaign has been moving toward this convergence since the first road split.
 
 ## Opening Narration
 
-> The Heath has no military value. That is why everyone agreed to it. There are no fortifications to hold and no resources to contest and anyone who brings soldiers is announcing they intend to end the conversation before it concludes. Most of the delegations arrived without soldiers. Most. Warden Asha Merel arrived first and she has been standing at the central marker since before dawn. She was here when the Sarafan contingent arrived. She was here when Reth walked in from the east with three Procession attendants and did not acknowledge the Sarafan's presence. She has been tallying. When she sees the party, she does not walk toward them. She waits for them to come to her. She has a question before anything else begins.
+> The Heath sustains nothing and defends nothing. That is why everyone agreed to it. There are no fortifications to hold, nothing worth contesting, and anyone who arrives with soldiers has already announced an intention to end the conversation before it concludes. Most delegations came without them. Most. Warden Asha Merel arrived first and she has been standing at the central marker since before dawn. She was here when the Sarafan contingent arrived. She was here when Reth walked in from the east with three Procession attendants and did not acknowledge the Sarafan's presence. She has been tallying. When she sees the party, she does not walk toward them. She waits for them to come to her. She has a question before anything else begins.
 
 ---
 

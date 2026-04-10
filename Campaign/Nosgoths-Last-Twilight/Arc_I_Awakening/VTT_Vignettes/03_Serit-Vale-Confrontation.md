@@ -18,14 +18,14 @@ After the ambush, the party has standing to ask for the truth. Serit Vale has be
 
 | NPC | Role in This Scene |
 |-----|--------------------|
-| Serit Vale | She has prepared for this question. She has a version of the truth that is accurate enough to satisfy and still keeps her with control of the conversation. |
+| Serit Vale | She has prepared for this conversation. She has a version of the truth precise enough to satisfy and constructed so that only she knows how much it omits. |
 | Mera Ash | Present if the party is together. She is not interested in lore. She wants to know whether the cargo is still survivable to transport. |
 
 ---
 
 ## Opening Narration
 
-> Serit Vale is cleaning something from her hands — not blood, something darker — and she has had exactly the amount of time since the ambush to organize what she will say. She knows the question is coming. She has known it since the waymarker. Her satchel is on the table between you and her, and she has not reached for it since she sat down.
+> Serit Vale is cleaning something from her hands — not blood, something darker — and she has had precisely the time required to arrange what she will say. She has known the question was coming since the waymarker. Her satchel is on the table between you and her, and she has not reached for it since she sat down.
 
 ---
 

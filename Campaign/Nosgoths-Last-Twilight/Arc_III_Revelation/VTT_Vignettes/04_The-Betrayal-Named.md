@@ -31,7 +31,7 @@ The betrayal in Arc III does not arrive as a villain reveal. It arrives as an ex
 
 ## NPC Opening Line
 
-> **The Contradictory Witness**, before anyone else speaks: *"I would like to say — before anything else — that what I carried was not invented. Every piece of it was real at the time it was recorded. The portion I knew was shaped afterward, I knew. The portion I didn't know was shaped, I served as faithfully as my original account. I am asking you to hold the difference in mind while we continue, because if you can't, this conversation ends before I can give you what you actually need to know."*
+> **The Contradictory Witness**, before anyone else speaks: *"I would like to say — before anything else — that what I carried was not invented. Every piece of it was real at the time it was recorded. The portion I knew was shaped afterward, I knew. The portion I did not know was shaped, I served as faithfully as my original account. I am asking you to hold the difference in mind while we continue, because if you cannot, this conversation ends before I can give you what you will need to know."*
 
 ---
 

@@ -25,13 +25,13 @@ The contradiction from Arc II does not wait for a convenient moment. This scene 
 
 ## Opening Narration
 
-> The road to the Chronoplast runs through ruins where clocks move but shadows do not. Ice covers stonework laid in a style that is centuries wrong for this location, and the tracks in the frost ahead of the party were made by boots that match no member of the group — except that when someone checks the formation, the stride length is exact. You have been here before. There is no version of events where that is true. There is also no version where the tracks are wrong.
+> The road to the Chronoplast runs through ruins where clocks move but shadows do not. Ice covers stonework laid in a style that is centuries wrong for this location, and the tracks in the frost ahead of the party were made by boots that match no member of the group — except that when someone examines the formation, the stride length is exact. You have been here before. There is no version of events where that is true. There is also no version where the tracks are mistaken.
 
 ---
 
 ## NPC Opening Line
 
-> **Iriane Quell**, studying the tracks without touching them: *"The first thing you want to do is establish which of your memories are reliable. I would strongly recommend against doing that by asking each other."* She pauses. *"Most of my own memories since the approach have a seam in them. Something was placed after the fact. I cannot tell you which ones."*
+> **Iriane Quell**, studying the tracks without touching them: *"The first thing you will want to do is establish which of your memories are reliable. I would counsel strongly against using each other to confirm that."* She pauses. *"Most of my own memories since the approach have a seam in them. Something was placed after the fact. I cannot tell you which ones."*
 
 ---
 

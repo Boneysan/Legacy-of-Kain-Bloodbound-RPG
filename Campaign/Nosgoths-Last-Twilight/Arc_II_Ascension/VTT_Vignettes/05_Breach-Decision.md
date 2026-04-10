@@ -26,13 +26,13 @@ The breach does not care what the party wants. It cares what the party does. Thi
 
 ## Opening Narration
 
-> Snow, glyph-fire, and torn reality share the same horizon. The Rift Ember burns with cold light in whatever is carrying it. The breach is not an abstraction anymore — it is a gap in the world the size of a collapsed building, breathing in a rhythm that has nothing to do with wind. Every decision made since the fortress gate comes to a point here, and the point is: now. Every faction still standing has sent someone to witness what happens next.
+> Snow, glyph-fire, and torn reality share the same horizon. The Rift Ember burns with cold light in whatever is carrying it. The breach is not an abstraction anymore — it is a gap in the world the size of a collapsed building, exhaling on a frequency that belongs to no living thing. Every decision made since the fortress gate comes to a point here, and the point is: now. Every faction still standing has sent someone to witness what happens next.
 
 ---
 
 ## NPC Opening Line
 
-> **The Pale Accord operator**, without looking up from their instruments: *"What we've modeled shows three stable states and one probable failure cascade. The stable states each close a different door permanently. I'll describe them but I need you to know that I don't think any of them are free."* They look up. *"Which one do you want?"*
+> **The Pale Accord operator**, without looking up from their instruments: *"What we have modeled shows three stable states and one probable failure cascade. The stable states each close a different door permanently. I will describe them. Understand that I find none of them without cost."* They look up. *"Which one do you want?"*
 
 ---
 

@@ -26,7 +26,7 @@ The Cult of the Wheel's argument is not stupid. It is emotionally true in ways t
 
 ## Opening Narration
 
-> In the settlement, mourners sit in perfect calm while masked officiants speak in low voices about relief. There are candles, warm bread, clean bandages, and no visible weapons. Vicar Oren Bale meets the party at the door with the patience of someone who has watched a great many armed people decide not to burn the place down, and he seems genuinely pleased rather than relieved. He offers the party a seat before asking why they've come. He already knows.
+> In the settlement, mourners sit in undisturbed calm while masked officiants speak in low voices about the relief of ending obligation. There are candles, warm bread, clean bandages, and a pointed silence where weapons would have been. Vicar Oren Bale meets the party at the door with the patience of someone who has presided over the arrival of a great many armed people and watched them reconsider, and he receives them with what appears to be genuine pleasure rather than carefully managed relief. He offers the party a seat before asking why they've come. He already knows.
 
 ---
 

@@ -26,7 +26,7 @@ The Hall of Equilibrium does not make decisions. It asks whether the people clai
 
 ## Opening Narration
 
-> The Hall of Equilibrium was built before the Pillars fell, and the design predates them — which means it was built around the assumption that balance was real and required tending, not around the hope that it might be recovered. The geometry insists on it. Every angle of sightline converges on the center of the floor, and every person in the room knows they are being observed from every position simultaneously. Warden Asha Merel is standing at the center. She looks like she has been standing there for some time. She looks like she could stand there for longer. When the party enters with their coalition, she does not introduce the procedure. She begins immediately.
+> The Hall of Equilibrium was built before the Pillars fell, and the design predates them — which means it was built around the assumption that balance was real and required tending, not around the hope that it might be recovered. The geometry insists on it. Every angle of sightline converges on the center of the floor, and every person in the room knows they are being observed from every position simultaneously. Warden Asha Merel is standing at the center. She has the quality of someone who arrived before anyone else and will remain when everyone else has gone. When the party enters, she does not announce the procedure. She begins.
 
 ---
 
@@ -34,7 +34,7 @@ The Hall of Equilibrium does not make decisions. It asks whether the people clai
 
 > **Warden Asha Merel:** *"The Hall's question is one question, and it is the same for every coalition: Can you state — clearly, together, without revision — what you intend to do with the Heart of Nosgoth, what you will do with the factions you are not including, and who among you is prepared to answer if the account turns out to be wrong?"*
 
-> She looks at the party. *"I'll hear it from whoever speaks first."*
+> She looks at the party. *"I will hear it from whoever speaks first."*
 
 ---
 

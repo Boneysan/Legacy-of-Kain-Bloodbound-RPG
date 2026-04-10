@@ -1,6 +1,6 @@
 # 01 — The Caravan Argument
 
-The road to Avernus splits a decision before the first blood falls. Whether to push through the dark or shelter at the milestone shrines is not a tactical question — it is the first test of what the party values under pressure. Serit wants speed. Mera wants clarity. The cargo wants both, and neither.
+The road to Avernus demands a choice before the first blood falls. Whether to press through the dark or shelter at the milestone shrines is not a tactical question — it is the first measure of what the party will trade for speed, and what it will not. Serit wants speed. Mera wants clarity. The cargo wants both, and neither.
 
 ---
 
@@ -18,15 +18,15 @@ The road to Avernus splits a decision before the first blood falls. Whether to p
 
 | NPC | Role in This Scene |
 |-----|--------------------|
-| Serit Vale | Controlled urgency. She needs Avernus *tonight* and she has a reason she won't state clearly. |
-| Mera Ash | Practical arbiter. She'll do whichever direction is decided quickly — she resents the delay more than either option. |
+| Serit Vale | Controlled urgency. She must reach Avernus before dawn and has said as much as she intends to about why. |
+| Mera Ash | Practical arbiter. She will do whichever is decided quickly — she resents the delay more than either choice. |
 | Brother Halden | Background figure only. He is helping with the wagon. He is listening to everything. |
 
 ---
 
 ## Opening Narration
 
-> The road narrows under a green-tinged moon. Avernus is ahead, its white spires barely visible through the mist, and one of the lead horses has planted its feet and refused to move. The wagon axle is making a sound like a joint about to separate. Behind you, someone has lit a lantern they should have kept dark. Serit Vale stands beside the stalled wheel with her arms folded and her satchel pressed against her side, and she is already looking at you like the decision belongs to you.
+> The road narrows under a green-tinged moon. Avernus is visible ahead — its white spires pale as old bone against the mist, closer than they should be and no nearer than they were an hour ago. One of the lead horses has stopped at the verge and will not be persuaded. Its refusal is the most honest thing on the road tonight. The wagon axle speaks in the register of things about to separate. Behind you, someone has lit a lantern they were told to keep dark. Serit Vale stands beside the stalled wheel with her arms folded and her satchel pressed hard against her ribs, already watching you with the expression of one who has decided the choice is yours whether you have been told so or not.
 
 ---
 
@@ -44,7 +44,7 @@ The road to Avernus splits a decision before the first blood falls. Whether to p
 
 **NPC Response:**
 
-> **Mera Ash**, already moving: *"Good. We fix the axle in motion or we lose another hour. Someone get underneath it."* Serit exhales and loosens her grip on the satchel slightly — not relief, exactly, but the release of a held argument.
+> **Mera Ash**, already moving: *"Good. We mend it moving or we lose the night. Get underneath."* Serit exhales and loosens her grip on the satchel slightly — not relief, exactly, but the release of a held argument.
 
 **Outcome:** The party arrives at the waystation before dawn, exhausted but ahead of any Sarafan patrol. The cult has less time to prepare, but the party has no rest before the ambush. Note this as the high-speed, low-social-cover path.
 
@@ -72,7 +72,7 @@ The road to Avernus splits a decision before the first blood falls. Whether to p
 
 **NPC Response:**
 
-> **Serit Vale** steps between the player character and the cargo wagon with more speed than someone composed should have: *"That is sealed under research authority and is not for examination on a road in the dark. Whatever you felt — if you felt something — is exactly the reason this needs to be inside Avernus before morning."* She is not lying. She is also not saying everything.
+> **Serit Vale** steps between the player character and the cargo wagon with more speed than someone composed should have: *"That is sealed under Accord authority and is not to be opened on a road in the dark. Whatever you felt — if you felt something — is precisely the reason this must be behind better walls before morning."* She is not lying. She is also not saying everything.
 
 **Outcome:** The inspection is denied, but the attempt tells the party something: she anticipated this, she moved immediately, and she did not say it was impossible — only inadvisable. Serit's hidden truth (she knows the relic resonates with blood) has been knocked closer to the surface. If a PC with blood magic or spectral sensitivity made the move, they register one pulse before Serit intervenes.
 
@@ -86,7 +86,7 @@ The road to Avernus splits a decision before the first blood falls. Whether to p
 
 **NPC Response:**
 
-> **Serit Vale** meets the question without flinching: *"There is a receiving contact at Avernus who will assume failure if we don't appear by the morning bell. They will destroy their notes. The Accord's documentation of the site's origin becomes unrecoverable."* She pauses. *"That is the true answer. There is also a less comfortable answer, which is that I am carrying something that has been answering to certain people since we crossed the second waymarker, and I would prefer it behind better walls before it answers to the wrong one."*
+> **Serit Vale** meets the question without flinching: *"There is a receiving contact at Avernus who will assume failure if we do not appear by the morning bell. Their records become ash. The Accord's documentation of the site's origin becomes unrecoverable."* She pauses. *"That is the true answer. There is also a less comfortable answer, which is that I am carrying something that has been answering to certain people since we crossed the second waymarker, and I would prefer it behind better walls before it answers to the wrong one."*
 
 **Outcome:** This is the most honest Serit will be in Arc I. She has partially confirmed the relic is active. `serit_trust` rises but she is now committed — she can't walk this back. If no one follows up, the moment closes and she won't revisit it tonight.
 

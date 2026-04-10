@@ -32,7 +32,7 @@ Both claimants need something from the party, and the fortress is watching. Befo
 
 ## NPC Opening Line
 
-> **The sheltering claimant**, sitting across a bare table with no other witnesses: *"I need something done that I cannot assign to my own people. Not because it is wrong. Because it being done by someone with no prior stake here will carry more weight if it needs to be witnessed later. I want to be clear that I am asking, not ordering. And I want to be equally clear that the distinction may matter less than it sounds."*
+> **The sheltering claimant**, sitting across a bare table with no other witnesses: *"I need something done that I cannot assign to my own people. Not because the task is wrong. Because whoever does it must have no prior stake here — the thing may need to be witnessed afterward, and the witness must be clean. I want to be clear that I am asking, not ordering. I want to be equally clear that the distinction may matter less than it sounds."*
 
 ---
 
@@ -86,7 +86,7 @@ Both claimants need something from the party, and the fortress is watching. Befo
 
 **NPC Response (claimant, publicly):**
 
-> They respond the way people who have been in power long enough to know when they've lost a round respond: controlled acknowledgment, minimal confirmation, immediate subject change. In private, later: *"You realize I can't protect you here if you do that again."*
+> They respond the way people who have been in power long enough to know when they've lost a round respond: controlled acknowledgment, minimal confirmation, immediate subject change. In private, afterward: *"You will understand that I cannot extend shelter here if you act so again."*
 
 **Outcome:** The party blows the cover on something the claimant needed quiet. Public standing goes up with the neutral faction; the insider-faction relationship cracks but doesn't break. Maelin Rook files a much more favorable Sarafan report: the outsiders are independent and potentially exploitable. One of the two claimants begins treating the party as a threat to be redirected rather than an asset to be managed.
 

@@ -57,7 +57,7 @@ The relic does not announce itself. It identifies. One character feels something
 
 **NPC Response (Serit):**
 
-> She sets her satchel down carefully and looks at the PC for a long moment. Then: *"Your bloodline, or what you owe someone? Both are possible. The Sanguine Knot doesn't invent — it locates."* She pulls out a journal. *"Tell me the name it used. I need to know if it matches the site's prior record."* She is trying to sound clinical. She is not fully succeeding.
+> She sets her satchel down carefully and looks at the PC for a long moment. Then: *"Your bloodline, or what you owe someone? Both are possible. The Sanguine Knot doesn't invent — it locates."* She pulls out a journal. *"Tell me the name it used. I need to know whether it matches the site's prior record."* She is performing precision. She does not quite manage it.
 
 **Outcome:** Serit knows. She now begins treating the PC as a likely bloodline carrier and adjusting her Accord reports accordingly. This accelerates her cooperation in Sessions 2–3 but also begins a chain of Accord documentation that labels the PC as a point of interest. `serit_trust` benefits directly.
 

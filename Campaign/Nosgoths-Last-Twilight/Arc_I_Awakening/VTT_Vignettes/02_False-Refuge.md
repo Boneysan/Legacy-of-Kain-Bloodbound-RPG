@@ -32,7 +32,7 @@ Hospitality in Nosgoth is never free. When Brother Halden opens the waystation d
 
 ## NPC Opening Line
 
-> **Brother Halden**, stepping back from the door and extending his arm: *"We had word a caravan was behind schedule. Come in — there are wounded from the road east, if you have healers. We've made room."*
+> **Brother Halden**, stepping back from the door and extending his arm: *"Word came that a caravan was overdue on the south road. Come in — there are people here from the eastern road in need of attention, if any among you has the skill. There is room for you."*
 
 > *Who told him?*
 
@@ -46,7 +46,7 @@ Hospitality in Nosgoth is never free. When Brother Halden opens the waystation d
 
 **NPC Response:**
 
-> **Mera Ash**, quietly to whoever is closest: *"He knew how many of us there were. Did you tell someone we were coming?"* She doesn't wait for an answer. She takes the corner with the window. She does not sleep.
+> **Mera Ash**, quietly to whoever is closest: *"He knew our number before we were through the door. Did someone speak of our approach?"* She doesn't wait for an answer. She takes the corner with the window. She does not sleep.
 
 **Outcome:** The party is inside and relatively safe for the night. Brother Halden assigns them rooms and offers to store the reliquary "somewhere dry." If a PC allows it, the cargo moves out of direct sight. The cult cell inside the refuge now has position.
 

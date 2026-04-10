@@ -32,7 +32,7 @@ The Hylden do not threaten first. They explain. The Glass Voice arrives through 
 
 ## NPC Opening Line
 
-> **The Glass Voice**, without preamble: *"The breach in this location is not a wound. It is a structural failure in a seal that was imposed rather than negotiated, maintained by instruments that were never designed to hold indefinitely. We are not asking for domination. We are asking for boundary revision, which is empirically different. You have a fragment that can alter the seal's geometry. We are here to discuss terms for its use."*
+> **The Glass Voice**, without preamble: *"The breach in this location is not a wound. It is a structural failure in a seal that was imposed rather than negotiated, maintained by instruments that were never designed to hold indefinitely. We are not asking for domination. We are asking for boundary revision, which is a different claim. You have a fragment that can alter the seal's geometry. We are here to discuss terms for its use."*
 
 ---
 

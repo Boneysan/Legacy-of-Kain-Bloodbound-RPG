@@ -1,6 +1,6 @@
 # 03 — What Reth Wants
 
-By the time Ash-Glass Reth makes this offer, the Procession is not small anymore. Every structure that failed in Arcs I and II recruited for it. The question Reth is asking is not whether the party will join — they know the answer to that — but whether the party will admit what they are trying to prevent, and whether what they're trying to prevent is actually distinguishable from what Reth is already doing in the parts of Nosgoth the party hasn't reached.
+By the time Ash-Glass Reth arrives with this question, the Procession is not small anymore. Every structure that failed in Arcs I and II recruited for it. The question Reth is asking is not whether the party will join — they know the answer to that — but whether the party will admit what they are trying to prevent, and whether what they're trying to prevent is actually distinguishable from what Reth is already doing in the parts of Nosgoth the party hasn't reached.
 
 ---
 
@@ -45,7 +45,7 @@ By the time Ash-Glass Reth makes this offer, the Procession is not small anymore
 
 > *"I know you believe that. I believed it too, about four hundred people ago, when I was describing a future rather than building it."* They look at the party with something that is not quite contempt and not quite pity. *"The structures you're describing — who decided they were the right ones? Who was in the room? Who wrote the law? It wasn't these people."*
 
-> If Silk-Without-Moon is present, she quietly: *"The point is not whether the future has structure, Reth. The point is whether the structure is a warehouse."*
+> If Silk-Without-Moon is present, she quietly: *"The point is not whether the future has structure, Reth. The point is whether the structure is a crypt."*
 
 > Reth, without looking at her: *"Or a faction."*
 

@@ -26,7 +26,7 @@ The Iron Echo does not award authority. It locates it — or the absence of it. 
 
 ## Opening Narration
 
-> The chamber of the Iron Echo does not look like a treasury. It looks like a courtroom built for generals, where every scar in the stone holds the memory of a command someone gave too late or too early or to the wrong soldiers. The fragment sits at the center on a martial dais — not glowing, not dramatic — simply present in the manner of things that have waited a very long time and are no longer surprised by anything that approaches. Old echo-marks line the walls. One of them is still bleeding, very slowly, from a source that has been dry for a century.
+> The chamber of the Iron Echo does not look like a treasury. It looks like a court of judgment built for generals — a room where commands were expected to be obeyed and where every scar in the stone preserves the memory of one given too early, too late, or to soldiers who were already dead. The fragment sits at the center on a martial dais — not luminous, not theatrical — simply present in the manner of things that have waited long enough to have stopped being surprised by anything that approaches. Old echo-marks line the walls in registers the party cannot read. One of them is still bleeding, very slowly, from a source that has been dry for a century.
 
 ---
 
