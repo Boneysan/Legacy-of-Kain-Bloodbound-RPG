@@ -107,6 +107,14 @@ Arc I should feel local, claustrophobic, and intimate. The party are not yet sha
 - Whether the Sarafan response leads first toward custody, purge, or schism.
 - Whether the first fragment becomes party leverage, faction leverage, or a future problem hidden badly.
 
+### Dramatic Pulse: The Atmosphere of Arc I
+
+> **Serit Vale — The Weight of the Satchel:**
+> "You speak of 'cargo' as if we carry grain or iron—items with a weight that can be measured in stones and measured by the strength of a horse’s back. But this... this has a gravity that pulls at the very fabric of the soul. We are the pallbearers for a secret that has forgotten how to die."
+
+> **Brother Halden — The Mask of the Martyr:**
+> "How comforting it is, the illusion of sanctuary. A warm hearth, a cup of tea, the soft words of a man who claims to serve a higher grace. You cling to these things like children hiding under a blanket from a storm they cannot comprehend. But grace is a transient thing in Nosgoth—a flickering candle in a cathedral of infinite shadow."
+
 ### GM Consequence Rule
 
 End Arc I with four concrete things in motion:
@@ -157,6 +165,14 @@ This arc is about legitimacy, command, and whether technical necessity can excus
 - Whether the north becomes a wounded frontier, a redirected disaster, or a proof-text for the Fracture.
 - Which witness, record, or impossible contradiction survives to drive Arc III.
 
+### Dramatic Pulse: The Logic of Arc II
+
+> **Marshal Kaev Turel — The Architecture of Order:**
+> "Legitimacy is not a gift bestowed by the weak upon the strong; it is a cage we build to keep the chaos of our own nature at bay. Order is a predatory thing; it demands a constant sacrifice of 'freedom' to maintain the illusion of 'peace.' If you find my methods brutal, it is only because the world you inhabit is a beast that refuses to be tamed."
+
+> **The Glass Voice — The Hylden’s Resentment:**
+> "You worship the Pillars as foundations, yet they are but the bars of a prison you were never meant to see. Your 'Balance' is a stagnation—a beautiful, porcelain stillness maintained by the blood of those we were once permitted to be. The breach is not a wound... it is an eye, finally opening."
+
 ### GM Consequence Rule
 
 Do not let the fortress feel solved just because the party move north.
@@ -200,6 +216,14 @@ This arc is about whether truth is liberating, weaponizable, or simply another b
 - Whether the party arrive at the endgame with an operative truth or with structural indecision.
 - Whether Kain's contract opens, closes, or remains at risk.
 
+### Dramatic Pulse: The Burden of Arc III
+
+> **Vicar Oren Bale — The Mercy of the Wheel:**
+> "Why do you struggle so fiercely against the inevitable? You are like moths battering yourselves against a lantern, convinced that your frantic wings can change the nature of the light. The Wheel turns, grinding the bones of the righteous and the wicked alike into a fine, grey powder of history. There is a profound mercy in surrender."
+
+> **Black Marshal Sevran — The Kain Contract:**
+> "He watches you, you know. Not with the eyes of a father, but with the cold, clinical measurement of a man who has seen his own destiny rewritten in the blood of his brothers. There are no clean consciences in the service of the Scion of Balance. There is only the ability to act without the comfort of being right."
+
 ### GM Consequence Rule
 
 By the end of Arc III, write one sentence that answers this question:
@@ -235,6 +259,14 @@ This arc is not about whether the party are strong enough. It is about whether t
 - At the Fulcrum, do they prioritize breaking the Wheel, stabilizing the breach network, imposing factional order, embracing fracture, or a burdened compromise?
 - In the endgame crisis, do they prioritize chamber control, battlefield control, or witness and survivor extraction?
 - At final execution, do they accept visible cost or try to conceal the price and risk false balance?
+
+### Dramatic Pulse: The Verdict of Arc IV
+
+> **Kain — The Final Measurement:**
+> "So, the coin finally lands. You stand at the center of a storm you helped to brew, clutching the shards of a reality you were never meant to touch. Did you think the Heart was a prize? A weapon? It is a mirror, reflecting the exact diameter of your resolve. Choose well, Bearers. For I am weary of watching this world die, and I would see if you have the strength to let it be born."
+
+> **The Last Witness — The Closing Epitaph:**
+> "The world does not end with a shout, but with the quiet arrival of a morning that no longer owes anything to the past. The Pillars stand—or they fall—but the sun rises regardless, touching the ruins of our certainty with a light that is neither cruel nor kind. We are the survivors of a history that tried to erase us."
 
 ### What Those Choices Change
 
