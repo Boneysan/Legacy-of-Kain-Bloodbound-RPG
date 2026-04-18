@@ -166,7 +166,7 @@ When a class feature and a spell share a name, treat the Chapter 5 spell as the 
 - **Blind Insight** [HW, WB]: Cost: 1 SE (+1 Corruption). 1 min; self; gain disturbing truth about danger.
 - **Dissonant Pulse** [HW, WB]: Cost: 1 SE. Self; 10-ft radius; DR 2 Will save or break concentration and suffer Disadvantage on the next Focus-based check.
 - **Echo of Rot** [HW]: Cost: 1 SE. 30 ft; DR 2 Blood save or halved healing + decay odor for 3 rounds.
-- **Eldritch Gasp** [HW]: Cost: 1 SE. 15-ft cone; DR 2 Blood save or 1 Spectral damage + silenced 1 round.
+- **Eldritch Gasp** [HW]: Cost: 1 SE. 15-ft cone; DR 2 Blood save or 1 Spectral damage + **Silenced** 1 round.
 - **Glyph Disruptor** [GW, HW]: Cost: 1 SE. 30 ft; Soul + Forbidden vs. DR to dispel glyph.
 - **Hex of Pain** [SM, HW]: Cost: 1 SE. 30 ft; DR 2 Will save or suffer Disadvantage on attacks and checks for 1 round.
 - **Minor Rift** [SR, HW]: Cost: 1 SE. 30 ft; pull object 10 ft or make 5-ft area difficult terrain 1 round.
@@ -231,7 +231,7 @@ When a class feature and a spell share a name, treat the Chapter 5 spell as the 
 ### 5.10.3 Expert Tier (Levels 11–15)
 
 #### Glyph Spells
-- **Glyph Lockdown** [GW, WB]: Cost: 3 SE. Touch; triggers on entry; DR 3 Blood or Immobilized in 10-ft field 3 rounds.
+- **Glyph Lockdown** [GW, WB]: Cost: 3 SE. Touch; triggers on entry; DR 3 Blood or **Rooted** in 10-ft field for 3 rounds.
 - **Glyph of Collapse** [GW, HW]: Cost: 3 SE. 1 min; touch structure; triggers collapse; DR 3 Evasion or 6 Physical (Bludgeoning) + Restrained.
 - **Glyph of Doom** [GW, HW]: Cost: 3 SE. Touch; triggers on damage; +3 damage to next 3 instances.
 - **Glyph of Drowning** [GW]: Cost: 3 SE. Touch near water; triggers; DR 3 Evasion or suffocate 1 min.
@@ -270,7 +270,7 @@ When a class feature and a spell share a name, treat the Chapter 5 spell as the 
 #### Forbidden Spells
 - **Cacophonic Flare** [HW]: Cost: 3 SE (+1 Corruption). Self; 20-ft radius; DR 3 Will or Deafened/Stunned + Blinded/ -1 Will 1 min.
 - **Dark Reflection** [SM, HW]: Cost: 3 SE. Self; summon reflection (your stats, Spectral damage attacks, menace/teleport) 1 min.
-- **Descent of Teeth** [SM, HW]: Cost: 3 SE. 10-ft radius in 60 ft; 5 Spectral damage + DR 3 Evasion or Bleeding that deals 2 damage at the start of each turn for 2 rounds.
+- **Descent of Teeth** [SM, HW]: Cost: 3 SE. 10-ft radius in 60 ft; 5 Spectral damage + DR 3 Evasion or **Bleeding** (2 damage, 2 rounds).
 - **Fatebind Curse** [WB, HW]: Cost: 4 SE (+2 Corruption). 10 min; curse with item; auto-fail/crit hit once/session until removed.
 - **Night Sovereign's Path** [SM]: Cost: 3 SE. Bonus; teleport between shadows up to 60 ft. Until the start of your next turn, you are Invisible unless you attack, cast a damaging spell, or leave dim light or darkness.
 - **Oblivion Whisper** [SM, HW]: Cost: 3 SE (+1 Corruption). Touch/15 ft; DR 3 Will or forget spell/clue 24 hrs.
@@ -329,4 +329,4 @@ When a class feature and a spell share a name, treat the Chapter 5 spell as the 
 - **Soul Storm** [SR, HW]: Cost: 5 SE. 30-ft radius in 120 ft; 6 Spectral damage + Frightened (DR 3 Will) + obscured 3 rounds. The Soul Reaver's **Soul Storm** class feature is the Signature Upgrade of this spell.
 - **The God’s Rebuttal** [WB, HW]: Cost: 5 SE (+2 Corruption). Reaction on divine; opposed check to counter + 4 Entropic (Void) damage backlash.
 - **The Whispering Gate** [HW]: Cost: 5 SE (+3 Corruption). 1 hr; open gate to hostile plane (DR 4 Soul + Forbidden Knowledge).
-- **Void Chain** [SR, HW]: Cost: 4 SE. 60 ft; spell attack, 5 Void + DR 4 Blood or Restrained/pull + no teleport.
+- **Void Chain** [SR, HW]: Cost: 4 SE. 60 ft; spell attack, 5 Entropic (Void) + DR 4 Blood or Restrained/pull + no teleport.

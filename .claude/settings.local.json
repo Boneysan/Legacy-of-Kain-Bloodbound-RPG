@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat)",
+      "Bash(grep -n 'silenced' player\\\\'s_handbook/05_Spellcasting-and-Magic.md)",
+      "Bash(echo \"\")",
+      "Read(//tmp/**)"
+    ]
+  }
+}

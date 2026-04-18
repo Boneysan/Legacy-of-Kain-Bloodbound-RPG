@@ -261,8 +261,8 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 - **Class Features vs. Spells:** **Flame Sigil**, **Chrono Weave**, and **Nexus Weaving** are signature class techniques rather than learned spells. They do not count as preparing similarly named Chapter 5 options unless a feature says otherwise.
 
 #### Core Abilities
-*   **Flame Sigil** (Action, 1 SE): 5ft fire burst, 3 damage (Reflex Save).
-*   **Seal of Binding** (Action, 1 SE): Immobilize summoned creature (Will Save).
+*   **Flame Sigil** (Action, 1 SE): 5ft fire burst, 3 Elemental (Fire) damage (DR 2 Evasion save).
+*   **Seal of Binding** (Action, 1 SE): **Rooted** summoned creature (DR 2 Will save).
 *   **Glyph-Lore Intuition** (Passive): Auto-detect glyphs within 15ft.
 
 #### Class Perks
