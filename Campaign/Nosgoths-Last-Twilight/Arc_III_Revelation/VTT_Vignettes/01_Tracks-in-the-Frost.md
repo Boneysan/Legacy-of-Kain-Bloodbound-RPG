@@ -1,6 +1,8 @@
 # 01 — Tracks in the Frost
 
-The contradiction from Arc II does not wait for a convenient moment. This scene fires the moment the party enters time-scarred territory and encounters matter they expected to find ahead of them already behind them, or memory that the rest of the group insists hasn't happened yet. The ground here has stopped agreeing with itself, and the party's first task is not to panic.
+The corrected northern breach record from Arc II does not wait for a convenient moment. This scene fires the moment the party enters time-scarred territory and encounters matter they expected to find ahead of them already behind them, or memory that the rest of the group insists hasn't happened yet. The ground here has stopped agreeing with itself, and the party's first task is not to panic.
+
+Default contradiction for Arc III: the public northern record says Hylden pressure or party breach logic drew first blood at the Resonance Pillar. The corrected record shows a Sarafan containment volley under Scout-Confessor Maelin Rook's authority hit the Accord working ring first.
 
 ## Control Links
 
@@ -12,10 +14,17 @@ The contradiction from Arc II does not wait for a convenient moment. This scene 
 ## Scene Info
 
 - **Arc / Session:** Arc III — Session 1
-- **Trigger:** The party enters a Moebian ruin, time-scarred pass, or dead observatory on the approach to the Chronoplast. The Arc II contradiction arrives in concrete physical form and demands interpretation.
+- **Trigger:** The party enters a Moebian ruin, time-scarred pass, or dead observatory on the approach to the Chronoplast. The corrected northern breach record arrives in concrete physical form and demands interpretation.
 - **Scene Type:** `revelation`
 - **Est. Duration:** 4–6 min
 - **Tags This Scene Can Change:** `chronoplast_access`, `betrayal_resolved`
+
+## Prior-Arc Tag Reading
+
+- If `hylden_engagement` is `negotiated`, make the contradiction specifically about the Glass Voice's stated terms versus what the party later saw at the breach. Iriane recognizes immediately that the seam is politically useful, not just chronally strange.
+- If `hylden_engagement` is `none`, keep the contradiction environmental and temporal first. Iriane has no Hylden framework for it and treats the breach record as a chronology problem before a diplomacy problem.
+- If `iron_echo_status` is `contested` or `sealed`, ask which northern version of events the party acted on after the Echo or containment crisis. That answer tells Iriane which memory-seam is load-bearing and which account the group is already defending.
+- Let `fortress_claim` decide whose account initially carries the most weight with Iriane. `party_backed` means the PC who stood publicly with a claimant is treated as the first authoritative narrator; `neutral_brokered` favors the party member who held the compact language together; `unsettled` or `contested` makes Iriane trust action under pressure more than faction framing.
 
 ---
 
@@ -51,15 +60,15 @@ The contradiction from Arc II does not wait for a convenient moment. This scene 
 
 ## Player Choices
 
-### A — Focus on the Arc II Contradiction Immediately
+### A — Focus on the Northern Breach Record Immediately
 
-> The contradiction is why you are here. Surface it now, in full, in front of Iriane. Let her tell you what it means.
+> The corrected northern breach record is why you are here. Surface it now, in full, in front of Iriane. Let her tell you what it means.
 
 **NPC Response (Iriane):**
 
 > She listens to the full account without interrupting. Then: *"If both versions were experienced directly and neither is fabricated, the Chronoplast's influence extends to the recording stage, not just the recall stage. That means memory here is an active medium, not a passive one."* She writes something down. *"Which of the two versions did you act on afterward? Because the one you chose to act on is probably the one that is more real — not because it is truer, but because you made it load-bearing."*
 
-**Outcome:** Iriane provides the party's first analytical framework for navigating Arc III: acted-on memory carries more evidential weight than raw recollection. The contradiction remains unresolved but is now workable. `chronoplast_access` improves from impossible to possible.
+**Outcome:** Iriane provides the party's first analytical framework for navigating Arc III: acted-on memory carries more evidential weight than raw recollection. The corrected northern breach record remains unresolved but is now workable. `chronoplast_access` improves from impossible to possible.
 
 **Tags:** `chronoplast_access: partial`
 
@@ -109,7 +118,7 @@ The contradiction from Arc II does not wait for a convenient moment. This scene 
 
 ## If No Clear Choice Is Made
 
-> If the party moves into the ruin without engaging the contradiction or the tracks, the site moves without them: Iriane walks into the ruin ahead, the tracks multiply, and the contradiction surfaces during the first shelter stop in the form of one party member insisting an event happened that two others flatly deny. Default to Choice A's outcome, applied under tension rather than in controlled dialogue.
+> If the party move into the ruin without engaging the corrected northern breach record or the tracks, the site moves without them: Iriane walks into the ruin ahead, the tracks multiply, and the contradiction surfaces during the first shelter stop in the form of one party member insisting the Hylden surge opened the exchange while two others now remember the Sarafan first volley. Default to Choice A's outcome, applied under tension rather than in controlled dialogue.
 
 **Default Tag:** `chronoplast_access: partial`
 
@@ -129,4 +138,4 @@ The contradiction from Arc II does not wait for a convenient moment. This scene 
 - The tracks in the frost should physically match specific party members but not all of them. The GM should decide before the scene which three — and use those three to seed which party members are most chronologically entangled with the Chronoplast.
 - Iriane's seam-memory line should land as the scene's most disturbing moment. She is not alarmed. That is the alarming part.
 - The Wheel priest should feel like a relief structure, not a cult. Friendliness, no coercion, no dark implication beyond the factual accuracy of "you will want us before you leave." Let the party underestimate what that means.
-- Do not resolve the contradiction in this scene. The scene's job is to make the contradiction legible and give the party a language for navigating it. Resolution is Session 3.
+- Do not resolve the corrected northern breach record in this scene. The scene's job is to make the contradiction legible and give the party a language for navigating it. Resolution is Session 3.

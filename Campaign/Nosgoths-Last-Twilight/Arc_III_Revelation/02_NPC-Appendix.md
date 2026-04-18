@@ -33,7 +33,7 @@ Use these as the recurring cast for Revelation. Everyone in this appendix should
 
 - Role: Moebian remnant, archivist, or guardian of manipulated records
 - Public face: Precise keeper of ordered history
-- Hidden truth: Thess has spent years preserving lies because the lies were useful long after their author died
+- Hidden truth: Thess has spent years preserving lies because the lies were useful long after their author died, especially the edited Resonance Pillar sequence that makes Hylden first blood look inevitable
 - Wants from the party: Protection from destruction long enough to determine which version of history survives
 - Best use: The bureaucrat of prophecy fraud
 - If lost: The records remain, but become harder to interpret and easier to misuse
@@ -43,8 +43,8 @@ Use these as the recurring cast for Revelation. Everyone in this appendix should
 - Role: Kain-aligned intermediary
 - Public face: Rare messenger who speaks like every sentence has already been weighed for consequence
 - Hidden truth: Sevran does not know Kain's full design either, only the direction of his pressure
-- Wants from the party: Judgment without self-pity, movement without paralysis
-- Best use: Put Kain's philosophy onstage without overusing Kain himself
+- Wants from the party: Judgment without self-pity, movement without paralysis, and one operative truth the Heart can use without becoming anyone's property
+- Best use: Put Kain's philosophy and contract onstage without overusing Kain himself
 - If lost: Reserve Kain's next intervention for a truly pivotal scene
 
 ## The Contradictory Witness
@@ -52,6 +52,7 @@ Use these as the recurring cast for Revelation. Everyone in this appendix should
 - Role: Flexible betrayal or memory-resolution figure
 - Public face: Ally, refugee, archivist, or guide who should be trustworthy by every normal standard
 - Hidden truth: They are carrying a curated prophecy, false memory, or necessary lie
+- Default payload: The corrected northern breach record showing the first Sarafan containment volley hit the Accord working ring before the Hylden surge answered
 - Wants from the party: Forgiveness, silence, or the chance to explain before being judged
-- Best use: Personalize the arc's central question of whether truth and usefulness are still allies
+- Best use: Personalize the arc's central question of whether truth and usefulness are still allies; if the current Last Witness falls away, this figure is the cleanest successor
 - If lost: Their records or spectral echo should still force resolution

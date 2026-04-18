@@ -28,6 +28,13 @@
 
 - Keep the parley from collapsing into irreversible faction war before the party have drawn the coalition lines they can actually live with.
 
+## Package Selection by Coalition State
+
+- If `coalition_shape` is `unified-pending`, use the Fracture break package by default. The point is to test the center and prove that coexistence fails the moment it matters.
+- If `coalition_shape` is `contested-opening` or `unanchored`, use the Sarafan break package by default. The point is to exploit the missing anchor, hit a witness or courier, and turn uncertainty into immediate faction sorting.
+- If `coalition_shape` is `internally-fractured-but-functioning`, choose whichever package can peel the visibly diverging member or punish the coalition's chosen access rules most directly.
+- If `coalition_shape` is `merel-advised`, choose whichever faction the party threatened, rejected, or bypassed in the private approach. The break should feel like the public price of that first pick.
+
 ## Running Notes
 
 - Use either the Sarafan break package or the Fracture break package by default.

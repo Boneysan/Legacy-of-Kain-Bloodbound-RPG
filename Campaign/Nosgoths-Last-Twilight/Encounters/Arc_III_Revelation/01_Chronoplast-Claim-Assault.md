@@ -36,8 +36,8 @@
 ### Choice B — Thess Pursuit
 
 - Trigger: the party saw manipulation first and are hunting the operative or archive thief behind it.
-- Objective shift: this is a pursuit and interception scene, not a static hold.
-- Play guidance: one lane should always remain open toward cover or archive collapse; the tension is whether the party catch Curator Thess before she burns or escapes with the proof.
+- Objective shift: if the party break after the fleeing operative instead of holding the chamber, hand off to Encounters/Arc_III_Revelation/06_Curator-Thess-Pursuit.md rather than running this as a static hold.
+- Play guidance: keep this file only if the pursuit never fully leaves the claim chamber. Once the chase becomes a deeper-archive run, swap to the dedicated pursuit encounter.
 
 ### Choice C — Touched PC Protection
 

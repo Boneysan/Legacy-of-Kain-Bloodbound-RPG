@@ -7,8 +7,8 @@ Use these as the recurring cast for Convergence. Replace any dead or absent figu
 - Role: Legendary claimant to the future of Nosgoth
 - Public face: Scion of Balance, wielder of the purified Soul Reaver, and the one figure every faction must account for whether they trust him or not
 - Hidden truth: He still does not control the outcome, and that is part of what makes him dangerous
-- Wants from the party: A choice strong enough to matter and clear enough to survive history
-- Best use: Rare intervention, never constant patronage
+- Wants from the party: A choice strong enough to matter, clear enough to survive history, and unowned enough to deserve his presence
+- Best use: Rare intervention as measure, never constant patronage or endorsement
 - If absent: His absence must still feel like deliberate pressure, not missing content
 
 ## Warden Asha Merel
@@ -17,7 +17,7 @@ Use these as the recurring cast for Convergence. Replace any dead or absent figu
 - Public face: Severe, lucid, and committed to a form of balance that does not flatter anyone present
 - Hidden truth: She already believes some factions should not survive the ending as intact powers
 - Wants from the party: An answer that can be defended in principle, not just in victory
-- Best use: Give the Hall and the Black Fulcrum a human voice of judgment
+- Best use: Give the Hall and the Black Fulcrum a human voice of judgment, and name the Last Witness's standing without mystifying it
 - If lost: Let the Hall itself take over her function more harshly, or promote Sister Nerys Vale's warnings into Asha's surviving records so the judgment voice still feels continuous
 
 ## Grand Castellan Garric Sol
@@ -67,12 +67,12 @@ Use these as the recurring cast for Convergence. Replace any dead or absent figu
 
 ## The Last Witness
 
-- Role: Common-person perspective on the ending
+- Role: Inherited common-person witness role carried by the current bearer from Arc III
 - Public face: Survivor, refugee, soldier, healer, or child who has no right to decide the world and still must live in it
-- Hidden truth: Their memory of the ending may be what future Nosgoth treats as truth
+- Hidden truth: The role passes to whoever is left still able to speak a fragment's cost plainly after the previous bearer falls, vanishes, or is silenced
 - Wants from the party: Something survivable, even if not something pure
 - Best use: Prevent the ending from becoming only a conversation among powers
-- If lost: Replace with another witness quickly; the ending needs eyes from below
+- If lost: The role passes immediately to whoever saw them fall and can still speak honestly; the ending needs eyes from below
 
 ## Ash-Glass Reth
 

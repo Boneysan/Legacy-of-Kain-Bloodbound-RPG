@@ -25,6 +25,7 @@
 ## Running Notes
 
 - The hunt package should use one surviving major antagonist plus 1-2 escorts appropriate to their bloc rather than forcing a generic roster here.
+- Fill the hunt package with whoever actually survived the endgame. Use Elain if the Wheel was broken but she escaped, a Fracture remnant if Fracture doctrine is still operational on the field, or a Hylden commander if `hylden_gate_resolution` was sealed by force. Give them 1-2 escorts from that faction's roster.
 - The Abyss package is best when the ending tore open the wrong kind of space and needs one final metaphysical consequence.
 - Keep the scene narrow and personal even if the characters are still powerful enough for a larger fight.
 - If combat is unnecessary, run this as a mercy killing, escape corridor, or final witness-protection scene and keep the same stakes.

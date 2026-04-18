@@ -24,6 +24,12 @@
 
 - Retreat in good order, protect the contradiction-bearing witness, or find the correct sequence-path before the hostile loop closes around the party.
 
+## Tone Guidance by Approach
+
+- If Vignette 01 focused on the northern breach record first, foreground investigation. Let loops feel like evidence the party can almost parse, and make Iriane's framework more useful than comforting.
+- If Vignette 01 followed the tracks first, foreground duplicate movement and route unreliability. The most threatening element should be that the party are chasing their own path in the wrong order.
+- If Vignette 01 treated all data as contaminated, stay lighter on answers and heavier on withheld certainty. The site should feel legible enough to be dangerous, but never generous.
+
 ## Running Notes
 
 - The Wraith should force bad positioning and wrong assumptions more than simple damage racing.

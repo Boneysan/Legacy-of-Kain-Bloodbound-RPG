@@ -23,7 +23,7 @@ The Black Fulcrum is not a faction. It is an assessment. When the balance-releva
 
 | NPC | Role in This Scene |
 |-----|--------------------|
-| Kain | Rare intervention; present in person only if `party_operative_truth` was committed in Arc III AND `coalition_shape` is recognized; otherwise represented by silence or Sevran |
+| Kain | Rare intervention; present in person only if the party's committed operative truth survived into a recognized coalition account. In strict mode, treat that as committed `party_operative_truth` plus recognized `coalition_shape`; otherwise represented by silence or Sevran |
 | Warden Asha Merel | Conducts the examination; her questions derive from the arc state tags |
 | Black Marshal Sevran | Present if not already arrived as party anchor; confirms or withholds Kain-side backing on the basis of Fulcrum outcome |
 | The Last Witness | Present if `black_fulcrum_status: witness-anchored`; their testimony weighs on the final question |
@@ -90,13 +90,17 @@ Merel asks three questions, derived from the party's arc state. Each question sh
 
 ### Question 3 — The Question No One Has Asked
 
-> Derived from the campaign's deepest unresolved tag. GM selects from:
+> Derived from the campaign's deepest unresolved tag. GM selects from, including prior-arc tags that never otherwise made it into the formal record:
 
-**If `betrayal_resolved: unresolved`:** *"There is a person in your coalition's history who carried a false account and did not correct it. You have not resolved what that means for the coalition's reliability. I am asking you: can a coalition with an unaddressed breach in its record be trusted to maintain an account it claims is true?"*
+**If `iron_echo_status: contested`:** *"The Iron Echo was not settled. Its unresolved claim is producing faction pressure at this Heath that would not exist if you had decided it. What account do you give for the decision not to decide?"*
 
-**If `betrayal_resolved: absorbed`:** *"The person who carried the false account is now absorbing the correction. They are still in your coalition. What guarantees that the same pressure that shaped the false account doesn't shape the correction?"*
+**If `fortress_claim: neutral_brokered`:** *"You brokered the fortress without anchoring the outcome. Both claimants survived and both are represented in this room's wider coalition politics. Name one structural consequence - not a mistake, a consequence - of that choice."*
 
-**If `wheel_exposure: hidden`:** *"The Wheel's interference was not publicly named in Arc III. That account is still in circulation. Who, in your coalition, is responsible for correcting it — and when?"*
+**If `betrayal_resolved: unresolved`:** *"There is a person in your coalition's history who carried the corrected northern breach record and did not bring it forward. You have not resolved what it means that the first Sarafan containment volley at the Resonance Pillar was made to look like an answer instead of the opening. Can a coalition with that unaddressed breach in its record be trusted to maintain an account it claims is true?"*
+
+**If `betrayal_resolved: absorbed`:** *"The person who carried the corrected northern breach record is now absorbing the correction. They are still in your coalition. What guarantees that the same pressure that reversed the Resonance Pillar's first blood account will not shape the correction you now ask the Hall to trust?"*
+
+**If `wheel_exposure: concealed`:** *"The Wheel's interference was not publicly named in Arc III. The false northern account is still in circulation: many still believe Hylden pressure drew first blood at the Resonance Pillar. Who, in your coalition, is responsible for correcting that record — and when?"*
 
 **If `chronal_shard_fate: broken`:** *"The Shard was broken rather than secured. The intelligence from the Chronoplast is therefore incomplete. Are you proceeding on an incomplete account or a complete one?"*
 
@@ -140,5 +144,5 @@ Merel makes a determination. It does not have to be the party's preference. It r
 
 - This scene should feel like a deposition in the best possible sense: rigorous, uncomfortable, and focused. Merel is not hostile. She is thorough. The questions are derived from the party's actual record. There are no trick questions — only honest ones that are hard to answer.
 - Kain's presence, if earned, should be quiet and weighty. He may speak exactly once, in response to something the party says that earns a response. The GM should decide in advance what line crosses that threshold. A suggested trigger: if the party names something they are willing to sacrifice, without being asked to, that names the same thing Kain once named in his own account — he will acknowledge it. Not warmly. Just: *"Yes."*
-- If `betrayal_resolved` is still `unresolved` at this stage, Merel's third question will be about reliability. The party should feel — not punished, but seen. The breach is not fatal. It is a documented liability. That is different.
+- If `betrayal_resolved` is still `unresolved` at this stage, Merel's third question will be about reliability through the corrected northern breach record. The party should feel — not punished, but seen. The breach is not fatal. It is a documented liability. That is different.
 - The Fulcrum finding is a structural outcome, not a verdict on whether the party is good people. Make sure Merel's language reflects that. The Hall has seen many coalitions. It has seen many good people with bad accounts and many flawed people with defensible ones. What the Fulcrum tests is the account.

@@ -8,6 +8,7 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Awakening.
 - Core pressure: Cult infiltration, false sanctuary, blood-memory, first Corruption costs
 - Core factions: Hash'ak'gik cultists, Sarafan Order, Pale Accord, Outlands Guilds
 - Kain usage: one appearance at most, and only if it changes the party's understanding of what is happening
+- Balance Reckoning: use the existing clock as withdrawal of grace rather than a second corruption track
 - Recurring cast: see 02_NPC-Appendix.md
 - Detailed encounter planning: see 03_Encounter-Guide.md
 - Vignette control sheet: see 07_Vignette-Flow-Matrix.md
@@ -191,6 +192,7 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Awakening.
 	- If the party avoid combat creatively, replace the fight with collapsing ritual geometry, spectral overload, or a possession cascade risk.
 - Spectral intrusion:
 	- The chamber appears complete in the Spectral, with former operators or sacrificial dead visible at their stations.
+	- One operator station is occupied by a silent, blue-mantled figure with no readable face. The chamber notices that presence before the party do.
 	- The Well reflects not faces but lineages.
 	- A PC may momentarily see another party member as their ancestor, betrayer, or future corpse.
 	- Spoken vows and names should change the room.
@@ -198,6 +200,7 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Awakening.
 	- One major truth is confirmed publicly or within the party.
 	- At least one PC carries fresh Corruption, a mark, or a social burden tied to what the Knot revealed.
 	- The cult is bloodied, displaced, or partially successful in profaning the chamber.
+	- If the party used the Knot to expose, shame, or coerce when mercy was still possible, advance Balance Reckoning by 1 and let Nerys withhold an easy rite, shortcut, or endorsement rather than condemning them aloud.
 	- By session end, the party know the fragment can expose blood-sworn obligation and hidden identity, but not yet how to secure it cleanly.
 - Prep notes:
 	- Decide which reveal matters most to the campaign, and which one matters most to a PC. They should not be the same thing.
@@ -221,6 +224,7 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Awakening.
 	- Outlands Guilds: Mera Ash wants movement and deniability. She may support concealment over ownership.
 	- Sarafan Order: This is the point where they may arrive in force, send a small strike team, or issue a demand from above.
 	- Cult of the Wheel: A subtle actor may try to convince the party that burying the fragment again is the least catastrophic option.
+	- Sister Nerys Vale or another Balance voice should answer any reckless fragment leverage by withdrawing grace rather than by lecturing. A rite, sanctuary, or road no longer opens for free.
 - Relic pressure:
 	- Deliberate use should now cost 1-2 Corruption depending on what the party ask of the Knot.
 	- The Knot's main practical power this session is to reveal blood-sworn obligations and false identities at the worst possible time.
@@ -244,6 +248,7 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Awakening.
 	- Standing changes should become visible immediately across Accord, Guild, cult, and Sarafan relations.
 	- Hash'ak'gik Corruption Clock likely reaches 2 or 3 if the chamber was profaned or the rite went forward.
 	- Sarafan Purge Clock should advance if the Order now has proof of active corruption under Avernus.
+	- If Balance Reckoning is 1 or higher, attach one land-rendered consequence immediately: a shrine begins weeping blood, Nerys refuses a requested rite, or the clean road out now demands confession, time, or surrendered leverage.
 	- The party leave Arc I's central location with something that can no longer be denied.
 - Prep notes:
 	- Decide before play which outcomes are acceptable for Arc II. Do not let the relic vanish without consequence or trace.
@@ -274,7 +279,7 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Awakening.
 - Mandatory NPCs:
 	- Serit Vale, if alive and not estranged
 	- Mera Ash, unless the party have already severed ties with the Guilds
-	- One surviving witness whose testimony may become dangerous
+	- One surviving witness whose testimony may become dangerous and who may now inherit the Last Witness role
 	- One new hook NPC or message bearer tied to Arc II
 - Encounter slot:
 	- Keep combat optional here. The priority is consequence, not attrition.
@@ -286,9 +291,11 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Awakening.
 	- If the Knot is in party hands, let it answer to a sleeping or wounded PC in a dream.
 - End-of-session fallout:
 	- Faction standings are no longer theoretical. Mark them in the tracker.
+	- If Balance Reckoning is 2 or higher, Nerys will not endorse the party's custody or account of Avernus without a named debt attached to it.
 	- The party enter Arc II with at least one ally, one hunter, one debt, and one secret that could break trust internally.
 	- The campaign's scope expands from hidden corruption under Avernus to open disputes over power and legitimacy.
 	- The path to Dumah's Fortress or the Iron Echo is established explicitly.
+	- Name the current Last Witness bearer before Arc II begins. The role belongs to the ordinary survivor who can still speak what Avernus cost without faction varnish.
 - Prep notes:
 	- Use this session to convert revelations into obligations.
 	- Make every major surviving NPC want something concrete before the party leave.
@@ -300,6 +307,8 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Awakening.
 - Which lies the party currently believes:
 - Which NPC is compromised but not yet exposed:
 - Current owner or bearer of the Sanguine Knot:
+- Current Last Witness bearer:
 - Sarafan posture toward the party:
 - Guild posture toward the party:
 - Current Corruption consequences in the region:
+- Current Balance Reckoning cues in the region:

@@ -29,6 +29,9 @@
 ## Running Notes
 
 - Use either the Fracture package or the Wheel package by default, not both together.
+- If `wheel_exposure = broken`, use the Fracture package framed as retaliation or suppression. The Wheel should no longer be the cleanest moral center of the exit pressure.
+- Map `party_operative_truth` to package choice: `balance-through-sacrifice` or `hylden-reintegration` usually want the Fracture package because the Wheel has been morally weakened; `undecided` should use whichever bloc feels more immediately dangerous on the route.
+- Treat `party_operative_truth` here as shaping the Kain contract window, not as a standalone direct Kain gate.
 - Add the Mirror Wraith only if the exit itself is carrying the session's main combat weight.
 - Let exhaustion, falling routes, and collapsing futures do as much work as the roster.
 - End on a committed direction toward Arc IV, not on a fully resolved ideological victory.

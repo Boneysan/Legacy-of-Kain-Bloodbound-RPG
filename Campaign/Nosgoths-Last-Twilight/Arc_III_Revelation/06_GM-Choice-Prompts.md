@@ -2,6 +2,8 @@
 
 Use this document when an interpretive or ideological choice lands and you need a clear next scene that keeps the arc active rather than abstract.
 
+Default contradiction for Arc III: the public northern record says Hylden pressure or party breach logic drew first blood at the Resonance Pillar. The corrected record shows a Sarafan containment volley under Scout-Confessor Maelin Rook's authority hit the Accord working ring first.
+
 ## Session 2: The Wheel's Offer
 
 ### If the party reject the Wheel's philosophy
@@ -27,18 +29,18 @@ Use this document when an interpretive or ideological choice lands and you need 
 ### If the party act on the most hopeful future
 
 - Run a race to preserve one person, alliance, or site before the window closes.
-- Make the next scene feel purposeful and dangerously selective.
+- Make the next scene feel purposeful and dangerously selective, especially if the corrected Resonance Pillar record would force them to rethink who opened the northern bloodshed.
 - Reveal later that the future they ignored still contained part of the truth.
 
 ### If the party act on the worst warning
 
-- Run preemptive strike, hard containment, or a scene driven by dread rather than trust.
+- Run preemptive strike, hard containment, or a scene driven by what the corrected first-blood sequence implies about Sarafan escalation.
 - Make caution look sensible and costly at once.
 - Let rivals later exploit how fear narrowed the party's reading of the Shard.
 
 ### If the party treat all futures as traps until corroborated
 
-- Run archive hunts, corroboration scenes, or tense restraint under collapsing time pressure.
+- Run archive hunts, corroboration scenes, or tense restraint under collapsing time pressure around the unedited Resonance Pillar timing strip.
 - Reward discipline while making missed opportunities hurt.
 - Use that interpretive caution later as either wisdom or paralysis depending on what returns.
 
@@ -46,19 +48,19 @@ Use this document when an interpretive or ideological choice lands and you need 
 
 ### If the party protect the relationship and preserve a difficult ally
 
-- Run extraction, shield-the-witness, or defense built around keeping one compromised figure alive.
-- Keep one bridge intact while leaving the air morally unresolved.
+- Run extraction, shield-the-witness, or defense built around keeping the carrier of the corrected northern breach record alive.
+- Keep one bridge intact while leaving the meaning of Maelin Rook's first volley unresolved in public.
 - Put that ally under future pressure to redeem the trust or betray it a second time.
 
 ### If the party expose the betrayal fully
 
-- Run tribunal, coalition fracture, or suppression against those who cannot let the record stand.
-- Clarify the truth fast and damage the group's political flexibility.
+- Run tribunal, coalition fracture, or suppression against those who cannot let the corrected Resonance Pillar sequence stand.
+- Clarify fast that Sarafan containment fire drew first blood at the site and damage the group's political flexibility at the same time.
 - Bring back the exposed record later when enemies claim the party mistake honesty for wisdom.
 
 ### If the party use a limited or tactical truth
 
-- Run a functional but tense alliance scene where everyone senses omission.
+- Run a functional but tense alliance scene where everyone senses omission about who fired first at the Resonance Pillar.
 - Preserve the coalition and stain it at the same time.
 - Let the managed truth leak later when it can do maximum damage.
 
@@ -90,12 +92,12 @@ Use this document when an interpretive or ideological choice lands and you need 
 
 ### If the party release the fullest truth
 
-- Run emergency councils, attempted seizures, or violent suppression of one interpretation becoming common knowledge.
+- Run emergency councils, attempted seizures, or violent suppression once the corrected northern breach record is named publicly.
 - Make Arc IV's stakes unmistakable before the coalition is ready.
 - Reduce secrecy later and increase the number of enemies who know exactly what to stop.
 
 ### If the party curate or privatize the truth
 
-- Run leak hunts, courier interception, and internal suspicion rather than open ideological war.
+- Run leak hunts, courier interception, and internal suspicion around the unedited Resonance Pillar strip rather than open ideological war.
 - Keep the coalition functional a little longer by storing up a bigger break.
 - Detonate that omission later through a leak, witness, or recovered record.

@@ -8,6 +8,7 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 - Core pressure: coalition choice, Pillar fate, end-state consequences, irreversible sacrifice, and the final trade between anti-Wheel action and Hylden stability
 - Core factions: every surviving major faction
 - Kain usage: only in moments worthy of changing the campaign's final shape
+- Kain contract: Open only if Arc III ended with one committed operative truth and no single faction owns it; otherwise use Sevran or absence as the judgment voice
 - Recurring cast: see 02_NPC-Appendix.md
 - Detailed encounter planning: see 04_Encounter-Guide.md
 - GM tool: use 03_Endgame-Adjudication-Matrix.md once Session 3 fixes the party's real priority and again in Session 5 when final fallout is narrated.
@@ -39,10 +40,10 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 	- The party should feel that the campaign itself is being weighed.
 	- Make explicit before Session 3 that the endgame is not only who rules Nosgoth, but whether the Heart is spent against the Wheel, spent stabilizing breach logic, or forced into a ruinous compromise between the two.
 - Mandatory NPCs:
-	- Kain or a clear Kain-aligned proxy
+	- Kain, if the contract is open, or a clear Kain-aligned proxy if it is not
 	- One faction representative the party trust least
 	- One faction representative the party trust most
-	- One survivor from Arc I or II to remind the table what this cost on the ground
+	- The current Last Witness bearer from Arc III, not a newly invented civilian
 	- One Balance-minded voice from earlier arcs or their successor, so the judgment frame arrives as continuity rather than surprise
 - Encounter slot:
 	- Preferred structure: social brinkmanship with limited violence at the edges.
@@ -55,6 +56,7 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 - End-of-session fallout:
 	- The party have a provisional coalition, a declared enemy bloc, or both.
 	- At least one faction is now locked out of persuasion and moves to force.
+	- Mark Kain contract as still Open, now At Risk, or Closed based on whether the coalition is already collapsing into one faction's ownership.
 	- The final road to the Hall of Equilibrium is identified or contested.
 - Prep notes:
 	- List every surviving faction before play and decide what each wants in one sentence.
@@ -82,6 +84,7 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 	- PCs may experience direct judgment scenes tied to earlier choices.
 	- One faction should fail the Hall's logic and respond with open force.
 	- The Hall should also force the party to face which previous "necessary" choice made the Hylden question worse and which made the Wheel harder to wound.
+	- Use the corrected northern breach record as a default Hall test: the party must state publicly whether they accept that the first blood at the Resonance Pillar was Sarafan containment fire into the Accord ring, not Hylden initiation.
 - Mandatory NPCs:
 	- A Warden, Balance-minded scholar, or Hall guide if one still survives
 	- One enemy envoy forced into proximity by the route
@@ -92,6 +95,7 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 	- If battle occurs, terrain and principle should matter more than raw attrition.
 - Spectral intrusion:
 	- The Hall shows vows as architecture and hypocrisy as cracks.
+	- If the party committed to the Reaver-shaped truth in Arc III, a silent blue-mantled figure keeps pace during one Spectral crossing. It aids no one and refuses explanation.
 	- The dead argue silently beside the living at every major choice point.
 	- One path exists only for those willing to admit what they have done.
 - End-of-session fallout:
@@ -119,6 +123,7 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 	- Kain, if present, should force clarity rather than provide comfort.
 	- Wheel, Fracture, Hylden, Sarafan, and clan agendas should all become mutually legible here.
 	- A Balance voice should challenge the party's preferred solution using evidence from the campaign, not abstract philosophy.
+	- Let the corrected Resonance Pillar sequence be one of the chamber's hardest exhibits: if the party want to preserve an order built on curated first blood, make them say so plainly.
 - Relic pressure:
 	- First direct contact requires a DR 4 Will or Soul test.
 	- Failure inflicts 1-2 Corruption and a severe revelation about self, party, or campaign cost.
@@ -126,7 +131,7 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 	- The Fulcrum can complete, seal, break, or redirect the assembled Heart.
 	- Make the three endgame pressures explicit in the chamber: anti-Wheel violence, Hylden-seal stabilization, and factional domination. The party should understand they cannot maximize all three.
 - Mandatory NPCs:
-	- Kain or the clearest opposing claimant to Kain's logic
+	- Kain, if the contract stayed open, or the clearest opposing claimant to Kain's logic
 	- One ally whose support is conditional on the party choosing correctly by their standards
 	- One surviving ideological antagonist
 - Encounter slot:
@@ -182,6 +187,7 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 - Spectral intrusion:
 	- The dead of Nosgoth should feel present in judgment, not just as scenery.
 	- Spectral and Material layers cross freely enough to reshape tactics scene by scene.
+	- If the party carried the Reaver-shaped truth this far, the same figure is visible again at the edge of the Hall or battlefield. It is witness, not ally.
 	- One battlefield area should become a memory of an older war before returning to the present.
 - End-of-session fallout:
 	- The world's next state is effectively decided.
@@ -213,7 +219,7 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 	- The fragment consequences should not disappear simply because the campaign is ending.
 - Mandatory NPCs:
 	- Any surviving figure central to the chosen ending
-	- One witness of the common people, not just powers and monsters
+	- One witness of the common people, ideally the current Last Witness or whoever inherited the role during Session 4
 	- One dead or unrealized presence in the final spectral coda
 - Encounter slot:
 	- Combat is optional here.
@@ -228,12 +234,41 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 	- Record which factions survive with leverage.
 	- Record what each PC becomes in the setting's memory.
 	- Record whether Balance was restored, imposed, faked, or merely invoked by the victors.
+	- Read the matching First Light scene before any wider epilogue ledger so the ending lands in a human morning, not only a strategic summary.
 	- End with consequence, not tidy closure.
 - Prep notes:
 	- Pay off every major choice you can without turning the ending into a ledger.
 	- Give the players time to inhabit the aftermath.
 	- Leave one thread unresolved only if that unresolved thread says something meaningful about Nosgoth.
 	- Use the endgame adjudication matrix to keep Session 5 specific: pick one core outcome, one coalition modifier, and one pressure modifier rather than improvising every consequence from scratch.
+
+## First Light
+
+Read one of these immediately after the final choice lands. Keep the camera off the party. Legacy of Kain endings work best when the world wakes up before it understands what it has survived.
+
+### Seal
+
+The shrine-tender had cleaned the cracked basin every morning for twelve years out of stubbornness rather than faith. Before dawn she knelt with the rag in one hand and watched clear water gather in the old fracture lines faster than she could wipe it away. It did not glow. No choir rose. The basin simply filled, and the air in the room stopped straining as if something enormous had finally unclenched its teeth.
+
+By sunrise the first villagers had come in silence, carrying bandages, ledgers, and the stunned posture of people who had prepared themselves for one more generation of failure. No one called it a miracle. One old man washed blood from his wrists and began to cry because the water stayed water. The shrine-tender sat down against the wall, too tired to pray, while the font kept filling behind her.
+
+### Wound
+
+The confessor had already ruined three reports before the light came. Every official form in the satchel assumed categories that had survived the night: relic seizure, sanctioned purge, doctrinal aberration, witness unreliability. None of them had a field for a world that still held together while something in its order screamed. He pressed a fresh wax seal to the fourth copy and watched it split from edge to center before the stamp could cool.
+
+Outside the command tent, soldiers who had shouted certainty through the dark now whispered like mourners in a library. The confessor rewrote the first line again, not to make it truer, but to make it survivable for the order that would read it. Dawn came thin and metallic through the canvas. He stared at the broken seal, then tucked the page away unfinished because there was no canonical form for a wound that could not be confessed without becoming doctrine.
+
+### Reforge
+
+The steward did not sit at first. The chair in the requisition chamber had belonged to someone with heavier shoulders and cleaner convictions, and the signet rings on the table had been arranged in a row so precise it looked like an accusation. Outside, runners were already waiting for orders about rations, curfew, border rites, and which dead would be named martyrs rather than losses. The ledger lay open to a blank page that would decide what the first day of the new order called itself.
+
+When the steward finally took the chair, it fit badly enough to feel honest. Ink bled through the first line because the hand holding the pen still shook from the Hall. There would be food sent north and warrants sent south; there would be amnesty for some and examples made of others; there would be a dozen explanations for why this rule was necessary. None of them changed the room's most obvious truth: authority had survived, but innocence had not.
+
+### Break
+
+The child woke in the wagon before anyone else because the road had gone quiet in a new way. Not safe. Not gentle. Just no longer listening to the same master. When she climbed down, the milestone at the crossroads threw its shadow east while the cart threw its own north, and the adults were all looking at the horizon as if waiting for someone to tell them which of the two was lying. The wind smelled like wet stone after a fire.
+
+By the time the sun cleared the ridge, traffic had begun again in hesitant pieces: one mule train, two barefoot pilgrims, a pair of scavengers who forgot to threaten anyone. People spoke softer than fear usually made them speak, as if the world had become easier to break by naming it too quickly. The child touched the milestone and grinned when nothing answered back. Behind her, the grown folk kept arguing about omens. Ahead of her, every road felt newly unemployed.
 
 ## Compact Templates
 
@@ -252,5 +287,7 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 - Final coalition members:
 - Final enemies still active:
 - Current state of the Black Fulcrum:
+- Current Last Witness bearer:
+- Kain contract status:
 - Pillar Heath battlefield changes:
 - Which promises cannot survive one more compromise:

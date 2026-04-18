@@ -28,9 +28,16 @@
 
 - Hold chamber control long enough for the party to commit to what the Heart is for before the threatened bloc turns indecision into collapse, surrender, or rupture.
 
+## Status-to-Framing Guidance
+
+- If `black_fulcrum_status` is `cleared`, run the encounter as defense of a recognized account. Enemies are trying to break a standing judgment before it becomes executable.
+- If `black_fulcrum_status` is `conditional`, have the opposition target the known incomplete portions of the party's account. The fight should pressure whatever the coalition could not fully answer.
+- If `black_fulcrum_status` is `unfounded`, frame the room as a scramble for legitimacy without institutional protection. Every hostile move should imply that nobody will validate the party unless they do it themselves.
+
 ## Running Notes
 
 - Use the Wheel, Hylden, or Fracture package based on which answer the party most threatens.
+- If the coalition record entered the Hall as `witness-anchored`, the current Last Witness should be part of what the opposition can threaten, discredit, or force the party to protect.
 - Baseline mode: keep the chosen package fixed and use the chamber itself as the real escalation engine.
 - Reinforced mode: add the extra Shock Trooper or fold this directly into the Pillar Heath set-piece only if Session 3 is carrying the arc's main battle.
 - Make every voiced answer change the room slightly so the choice feels mechanically present before it is final.

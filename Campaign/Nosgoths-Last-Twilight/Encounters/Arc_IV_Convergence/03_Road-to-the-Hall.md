@@ -27,6 +27,14 @@
 
 - Reach the Hall with the required ally, guide, or rite-component intact before the path or the enemy bloc breaks coalition cohesion.
 
+## Package Selection
+
+- If `coalition_shape` is `recognized` and `black_fulcrum_status` is `active` or `active-collective`, favor the physical package. The route is testing the line, not the coalition's right to walk it.
+- If `coalition_shape` is `conditionally-recognized` or `black_fulcrum_status` is `partial`, favor the metaphysical package. The path itself should judge prior omissions, incomplete accountability, and unclosed questions.
+- If `coalition_shape` is `procession-neutral`, remove one logistics complication from the physical package. The route is still dangerous, but it is not being quietly sabotaged from the flank.
+- If `black_fulcrum_status` is `witness-anchored` or `coalition_shape` is `witness-anchored-recognition`, make the current Last Witness a protectable escort objective rather than background color. Enemies should be able to threaten, isolate, or discredit them if the party lose formation.
+- If the campaign is using the Kain contract field and it is not `Open`, represent Kain-side pressure through Sevran, rumor, or silence rather than a physical Kain sighting on the road.
+
 ## Running Notes
 
 - Use either the metaphysical package or the physical package by default.

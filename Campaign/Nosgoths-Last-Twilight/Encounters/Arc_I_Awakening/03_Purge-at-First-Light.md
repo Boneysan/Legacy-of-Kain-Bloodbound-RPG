@@ -25,10 +25,16 @@
 - Evacuate innocents, survive the purge, or force the commander to confront a false accusation before the village burns.
 - Frame the fight as moral pressure in public, not just a duel against two elites.
 
+## Trigger Conditions
+
+- Fire this encounter when `public_story = panic` or `open_truth`, or when `sarafan_attention >= 2`.
+- If none of these are true, keep the Purge in reserve and let Sarafan pressure remain investigative or rhetorical instead of immediate.
+
 ## Running Notes
 
 - The Inquisitor should read the room, pick the most suspect PC, and try to turn the settlement against them.
 - The Outrider herds civilians, closes escape lanes, and keeps the fight mobile instead of static.
 - The Footsoldier gives the scene a visible custody-and-witness layer, forcing the party to choose between the public square and the real threat.
+- If Balance Reckoning has already advanced, show withdrawal of grace nearby: shut shrines, refused rites, or absent sanctuary support should make the crackdown feel spiritually colder rather than merely larger.
 - If you want a harsher anti-supernatural version, replace the Outrider with a Sarafan Clockwork Knight and treat that as an escalated crackdown rather than the default package.
 - If the party wins cleanly, move Sarafan pressure toward investigation and schism rather than immediate second-wave extermination.

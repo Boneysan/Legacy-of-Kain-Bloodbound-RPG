@@ -9,6 +9,18 @@ Captures every gap between what the Detailed Consequence Matrices promise and wh
 3. Mark the item **Implemented** and note the commit.
 4. After each arc's items are done, re-read that arc's Encounter Guide to make sure any new trigger conditions or variant names are reflected there too.
 
+## Continuity Sync - April 2026
+
+The sequel-continuity pass now lives in the main campaign file, the Campaign Hub, arc overviews, session prep sheets, NPC appendices, and key VTT notes. This plan remains encounter-focused.
+
+Use this document to capture only the encounter-file implications of that pass:
+
+- The unnamed Reaver-wound now appears as visual and spectral pressure in Arc I, Arc II, Arc III, and Arc IV. Encounter files should support that imagery where the party make direct fragment contact or cross into judgment-space.
+- The Hylden case now includes one verifiable Pillar injustice, most cleanly tied to the States Pillar. Encounter notes should treat redirect or negotiated-breach options as proven-but-dangerous, not speculative villain technology.
+- Balance Reckoning is now explicitly rendered as withdrawal of grace rather than Corruption by another name. Encounter triggers and aftermath notes should show closed shrines, withheld rites, or lost sanctuary support where relevant.
+- The Last Witness is now an inherited role rather than a preauthored civilian cameo. Arc IV encounter notes should treat witness-protection or witness-presence as a real objective when the coalition record is witness-anchored.
+- Kain now uses a narrative contract first and a strict tag check second. Encounter notes should not treat `party_operative_truth` as a lone direct gate.
+
 ---
 
 ## Priority Legend
@@ -194,6 +206,7 @@ Required changes:
 - Define what the redirect option mechanically is (e.g., a DR 4 Glyphcasting check to convert a pylon into a controlled passage node)
 - State when it's available (`hylden_engagement: negotiated`) and what's lost when absent (`hylden_engagement: none` — no redirect check, seal data is less reliable so stabilization DRs increase by 1)
 - Note Choice D's effect: Hylden use more precise counterplay (focused targeting of whoever negotiated)
+- Add one continuity note: if the Arc II evidence scene has already established the States Pillar injustice, frame the redirect option as the proven-but-dangerous remedy the Glass Voice was correct about, not as speculative Hylden propaganda.
 
 ---
 
@@ -201,7 +214,7 @@ Required changes:
 
 ### MOD-1 — Burial Rite Interruption needs Wheel-awareness toggle
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_III_Revelation/03_Burial-Rite-Interruption.md`
 Matrix source: Arc III V01-D, V02-B, V02-D
@@ -216,7 +229,7 @@ Required changes:
 
 ### MOD-2 — Time-Loop Skirmish needs tone-by-approach guidance
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_III_Revelation/02_Time-Loop-Skirmish.md`
 Matrix source: Arc III V01 (Choices A–C)
@@ -235,7 +248,7 @@ Required changes:
 
 ### MOD-3 — Corridor of Contradictions needs betrayal-state guidance
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_III_Revelation/04_Corridor-of-Contradictions.md`
 Matrix source: Arc III V04 — The Name in the Archive
@@ -250,7 +263,7 @@ Required changes:
 
 ### MOD-4 — Endgame Parley Break needs package-selection guidance
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_IV_Convergence/02_Endgame-Parley-Break.md`
 Matrix source: Arc IV V01 (Choices A–D)
@@ -269,7 +282,7 @@ Required changes:
 
 ### MOD-5 — Pillar Heath Seal-Breaker Push needs heart_purpose guidance
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_IV_Convergence/01_Pillar-Heath-Seal-Breaker-Push.md`
 Matrix source: Arc IV V05 — The Heart Is For
@@ -288,7 +301,7 @@ Required changes:
 
 ### MOD-6 — Road to the Hall needs state-to-package mapping
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_IV_Convergence/03_Road-to-the-Hall.md`
 Matrix source: Arc IV V02, V03
@@ -301,6 +314,8 @@ Required changes:
   - `coalition_shape: recognized` + `black_fulcrum_status: active` → physical package (test the line, not the legitimacy)
   - `coalition_shape: conditionally-recognized` → metaphysical package (the path judges prior choices)
   - Procession-neutral result from V03 → remove one logistics complication from the physical package
+  - `black_fulcrum_status: witness-anchored` → make the current Last Witness a protectable route objective or escort pressure, not background color
+  - If the campaign is using the new Kain contract field and it is not `Open`, represent Kain-side pressure through Sevran, rumor, or silence rather than a physical Kain sighting
 
 ---
 
@@ -308,30 +323,32 @@ Required changes:
 
 ### m-1 — Purge at First Light needs trigger conditions
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_I_Awakening/03_Purge-at-First-Light.md`
 
 Required change:
 - Add a `## Trigger Conditions` note: "Fire this encounter when `public_story = panic` or `open_truth`, or when `sarafan_attention ≥ 2`. If none of these are true, the Purge stays in reserve."
+- Add one continuity-aftermath line: if Balance Reckoning has already advanced, the encounter or its fallout should show withdrawal of grace nearby — shut shrines, refused rites, or absent sanctuary support — rather than just adding more enemies.
 
 ---
 
 ### m-2 — Blood-Well Chamber Defense needs personal-contact hook
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_I_Awakening/05_Blood-Well-Chamber-Defense.md`
 Matrix source: Arc I V04-C
 
 Required change:
 - Add a Running Note: "If V04-C was chosen (Follow the Vision's Pull), use the chain, mark, or ancestral symbol from that vision as the clearest direct-contact hook in the chamber terrain. The relic station that matches the vision should be the most dangerous and most rewarding point in the room."
+- Add one continuity note: if the campaign is using the April 2026 sequel pass, the matched station may also carry the silent blue-mantled operator/wound image. Keep it as visual pressure only, never aid.
 
 ---
 
 ### m-3 — Avernus Exit Pursuit needs skip-condition note
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_I_Awakening/07_Avernus-Exit-Pursuit.md`
 Matrix source: Arc I V05-C
@@ -343,7 +360,7 @@ Required change:
 
 ### m-4 — Empty Throne Gate needs flex-slot guidance
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_II_Ascension/01_Empty-Throne-Gate.md`
 Matrix source: Arc II V01
@@ -355,7 +372,7 @@ Required change:
 
 ### m-5 — Fortress Gate Purge needs trigger conditions
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_II_Ascension/02_Fortress-Gate-Purge.md`
 
@@ -366,29 +383,30 @@ Required change:
 
 ### m-6 — Chronoplast Exit Fight needs state-to-package mapping
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_III_Revelation/05_Chronoplast-Exit-Fight.md`
 
 Required change:
-- Add 2-3 lines in Running Notes: "If `wheel_exposure = broken`, use the Fracture package framed as retaliation or suppression. Map `party_operative_truth` to package: balance-through-sacrifice or hylden-reintegration → Fracture package (Wheel is morally weakened); undecided → either package based on which bloc feels more immediately dangerous."
+- Add 2-3 lines in Running Notes: "If `wheel_exposure = broken`, use the Fracture package framed as retaliation or suppression. Map `party_operative_truth` to package: balance-through-sacrifice or hylden-reintegration → Fracture package (Wheel is morally weakened); undecided → either package based on which bloc feels more immediately dangerous. Treat this tag as shaping the Kain contract window, not as a standalone direct Kain gate."
 
 ---
 
 ### m-7 — Black Fulcrum Chamber Crisis needs status-to-framing table
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_IV_Convergence/04_Black-Fulcrum-Chamber-Crisis.md`
 
 Required change:
 - Add a brief framing note: "`black_fulcrum_status: cleared` → encounter is defense of a recognized account; `conditional` → opposition targets the known incomplete portions; `unfounded` → scramble for legitimacy without institutional protection."
+- Add one witness note: if the coalition record entered the Hall as `witness-anchored`, the current Last Witness should be part of what the opposition can threaten, discredit, or force the party to protect.
 
 ---
 
 ### m-8 — Last Pursuit or Mercy Scene needs antagonist guidance
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_IV_Convergence/05_Last-Pursuit-or-Mercy-Scene.md`
 
@@ -401,18 +419,18 @@ Required change:
 
 ### N-1 — Curator Thess Pursuit (Arc III)
 
-Status: Not started — decide whether to create or fold into M-2
+Status: Implemented
 
+File: `Encounters/Arc_III_Revelation/06_Curator-Thess-Pursuit.md`
 Matrix source: Arc III V03-B
 
 Problem:
 The matrix says "Route directly into 01_Chronoplast-Claim-Assault.md or a pursuit branch toward Curator Thess." No such pursuit encounter exists. The Thess chase is mechanically distinct from a Fracture hold-and-defend — it's a hunt through collapsing archive corridors against a fleeing operative, not a fixed-position defense.
 
-Options:
-- **Option A:** Create `Encounters/Arc_III_Revelation/06_Curator-Thess-Pursuit.md` as a dedicated chase encounter with its own terrain, objective, and roster
-- **Option B:** Fold the pursuit into 01_Chronoplast-Claim-Assault.md as a dedicated variant branch within the State-Conditional Variants section (item M-2)
-
-Recommendation: Option B if the pursuit can share the same roster with modified positioning and objective. Option A if the chase needs its own terrain, pacing, and smaller roster.
+Resolution:
+- Option A chosen. The pursuit now lives as its own encounter file because it needs distinct terrain, pacing, and a lighter pursuit roster than the claim-assault chamber fight.
+- `Encounters/Arc_III_Revelation/01_Chronoplast-Claim-Assault.md` now points Choice B to the dedicated chase handoff once the fight leaves the chamber.
+- Arc III guide, flow matrix, detailed consequence matrix, and encounter index now point to the dedicated file.
 
 ---
 
@@ -420,11 +438,11 @@ Recommendation: Option B if the pursuit can share the same roster with modified 
 
 After implementing encounter-file changes, also update:
 
-- [ ] Arc I `03_Encounter-Guide.md` — reflect any new trigger conditions or variant names
-- [ ] Arc II `03_Encounter-Guide.md` — reflect Breach variants and Hylden toggle
-- [ ] Arc III `03_Encounter-Guide.md` — reflect Chronoplast variants and possible new file
-- [ ] Arc IV `04_Encounter-Guide.md` — reflect package-selection tables
-- [ ] `Encounters/00_Encounter-Index.md` — add any new encounter files
+- [x] Arc I `03_Encounter-Guide.md` — reflect any new trigger conditions or variant names
+- [x] Arc II `03_Encounter-Guide.md` — reflect Breach variants and Hylden toggle
+- [x] Arc III `03_Encounter-Guide.md` — reflect Chronoplast variants and possible new file
+- [x] Arc IV `04_Encounter-Guide.md` — reflect package-selection tables
+- [x] `Encounters/00_Encounter-Index.md` — Curator Thess pursuit file added and companion cross-links synced April 2026
 
 ---
 
@@ -449,12 +467,22 @@ Tags that cleanly cross arc boundaries:
 
 | Tag | Set | Consumed |
 |-----|-----|---------|
-| `party_operative_truth` | Arc III V05 | Arc IV V04 Q2; gates Kain in V04/V05 |
+| `party_operative_truth` | Arc III V05 | Arc IV V04 Q2; opens, weakens, or closes the Kain contract and shapes V04/V05 pressure |
 | `betrayal_resolved` | Arc III V01–V04 | Arc IV V02 (Merel asks directly), Arc IV V04 Q3 |
 | `chronal_shard_fate` | Arc III V03 | Arc IV V04 Q3 (incomplete intelligence question) |
 | `wheel_exposure` | Arc III V02–V04 | Arc IV V04 Q3 |
 | Reth/Procession thread | Arc II V01 (`ash_glass_reach`) → V05 | Arc III rhetoric → Arc IV V03 direct confrontation |
 | `sarafan_attention` → `sarafan_bloc` | Arc I | Garric Sol's framing at the Heath, Arc IV V01 (narrative only) |
+
+### Continuity Fields Now In Play
+
+The April 2026 continuity pass also added carry-forward fields that are not formal vignette tags but still matter to encounter framing:
+
+| Field | Set | Encounter relevance |
+|-------|-----|---------------------|
+| Current Last Witness bearer | Arc I V06, Arc II V06, Arc III V05 fallout | Arc IV route/chamber scenes may need escort, testimony, or witness-protection pressure |
+| Kain contract | Arc III V05 fallout | Arc IV encounter notes should decide whether Kain-side pressure is physical, proxied through Sevran, or absent by design |
+| Balance Reckoning cues | Arc I onward via faction clock | Arc I and Arc II aftermath encounters should show withdrawal of grace, not just more hostile force |
 
 ### Orphaned Tags
 
@@ -480,7 +508,7 @@ Two tables can finish Arc II with radically different tag states and Arc III V01
 #### FIX A — Carry-Forward Reading blocks at arc transitions
 
 **Priority: SIGNIFICANT**
-Status: Not started
+Status: Implemented
 
 Add a `## Prior-Arc Tag Reading` GM Note section to Arc II V01, Arc III V01, and Arc IV V01. Each block lists which prior-arc tags to check before running the scene and what scene modifications apply based on their values.
 
@@ -489,6 +517,7 @@ Add a `## Prior-Arc Tag Reading` GM Note section to Arc II V01, Arc III V01, and
 - `sarafan_attention: 2+` → A Sarafan-adjacent observer is already in the forecourt; Choice D (institutional cover) becomes significantly harder
 - `public_story: panic` → The party's road reputation precedes them; Ledger-Master Vey approaches first, not last
 - `serit_trust: earned` → Serit is with the party and visible; Drath recognizes her Accord status and adjusts his pitch accordingly
+- `balance_reckoning: 1+` or equivalent fallout cue → hospitality, chapels, or protective rites feel thinner than they should; the party are already learning that some support no longer comes freely
 
 **Arc III V01 additions needed:**
 - `hylden_engagement: negotiated` → The contradiction is specifically about the Glass Voice's stated terms vs. observed Hylden behavior; Iriane recognizes it immediately
@@ -499,11 +528,12 @@ Add a `## Prior-Arc Tag Reading` GM Note section to Arc II V01, Arc III V01, and
 **Arc IV V01 additions needed:**
 - `iron_echo_status` → affects which faction Garric Sol invokes as precedent in his position statement
 - `fortress_claim` final value → affects whether clan presence at the Heath is unified or factionally split
+- current Last Witness bearer → affects whether hostile factions open with recruitment, discrediting, or seizure pressure against the witness rather than against the party line directly
 
 #### FIX B — Surface orphaned tags in Arc IV V04 Fulcrum Q3
 
 **Priority: MODERATE**
-Status: Not started
+Status: Implemented
 
 File: Arc IV `VTT_Vignettes/04_Fulcrum-Contact.md`, Question 3 pool
 

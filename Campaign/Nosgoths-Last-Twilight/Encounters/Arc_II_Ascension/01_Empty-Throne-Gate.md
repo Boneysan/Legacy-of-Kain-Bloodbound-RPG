@@ -29,4 +29,5 @@
 
 - Keep the Raiders as opportunists exploiting confusion, not as the true center of the scene.
 - The Golem represents older warded authority that does not care who thinks they own the fortress now.
+- Fill the flex elite slot from the active claim state. If `fortress_claim` favors Turel, use Drath's champion, retainer, or another hostile rival testing the claim. If it favors Drath, use Turel's side instead. If `fortress_claim` is `neutral_brokered` or `unsettled`, use Corin Vey's proxy or a local opportunist trying to profit from the gap.
 - If you want a cleaner baseline, set the flex elite at TV 5 so the encounter sits at TV 18.

@@ -1,6 +1,6 @@
 # 04 — The Name in the Archive
 
-The betrayal in Arc III does not arrive as a villain reveal. It arrives as an explanation. Someone the party had reason to trust has been carrying a curated lie, a necessary false memory, or a prophecy fragment shaped by Moebian interference — and they knew, at some level, and said nothing. This scene is that conversation.
+The betrayal in Arc III does not arrive as a villain reveal. It arrives as an explanation. Someone the party had reason to trust has been carrying the corrected northern breach record — the one showing that the first blood at the Resonance Pillar came from Sarafan containment fire into the Accord working ring, not from the Hylden surge the public remembers first — and they knew, at some level, and said nothing. This scene is that conversation.
 
 ## Control Links
 
@@ -12,10 +12,19 @@ The betrayal in Arc III does not arrive as a villain reveal. It arrives as an ex
 ## Scene Info
 
 - **Arc / Session:** Arc III — Session 3 or 4 (immediately follows or closely follows the Chronoplast)
-- **Trigger:** The party has identified the manipulated prophecy and traced it to a specific person in their orbit. The Contradictory Witness, Curator Thess, or a carry-forward party-adjacent NPC is now holding information that doesn't survive the Chronoplast's honest accounting.
+- **Trigger:** The party have identified the manipulated northern breach record and traced it to a specific person in their orbit. The Contradictory Witness, Curator Thess, or a carry-forward party-adjacent NPC is now holding the version of the Resonance Pillar sequence that doesn't survive the Chronoplast's honest accounting.
 - **Scene Type:** `confrontation`
 - **Est. Duration:** 5–7 min
 - **Tags This Scene Can Change:** `betrayal_resolved`, `wheel_exposure`
+
+---
+
+## Arrival States from Vignette 03
+
+- **Hot entry:** The scene begins immediately after Encounters/Arc_III_Revelation/06_Curator-Thess-Pursuit.md. Someone is still out of breath, a lane may still be collapsing, and the explanation starts because running has ended, not because anyone is ready.
+- **Warm entry:** Thess, the Witness, or Iriane secured a room after the Chronoplast scene and chose which records would survive into the conversation. This is the default use case for the opening narration below.
+- **Cold entry:** Thess is absent, escaped, or optional. The party have the proof object but not the full person, so the scene begins around documents, spectral replay, or Iriane's corroboration rather than a seated confession.
+- Carry the same proof object from Vignette 03 into this scene. The room should feel like the next chamber of the same argument.
 
 ---
 
@@ -30,13 +39,13 @@ The betrayal in Arc III does not arrive as a villain reveal. It arrives as an ex
 
 ## Opening Narration
 
-> The archive has the quality of a room where documents have been selected rather than collected. Every record present is present because someone decided it should be, and the records that are absent — the absent ones are the shape of whatever was decided not to survive. The Contradictory Witness is sitting in the only chair, which is not a coincidence, and they are not trying to leave. They have a different problem. They are trying to figure out how much explaining they will still be allowed to do before the party stops listening.
+> The archive has the quality of a room where documents have been selected rather than collected. Every record present is present because someone decided it should be, and the records that are absent — the absent ones are the shape of whatever was decided not to survive. On the table is the corrected Resonance Pillar timing strip, the one that puts the first Sarafan containment volley before the Hylden answer. The Contradictory Witness is sitting in the only chair, which is not a coincidence, and they are not trying to leave. They have a different problem. They are trying to figure out how much explaining they will still be allowed to do before the party stops listening.
 
 ---
 
 ## NPC Opening Line
 
-> **The Contradictory Witness**, before anyone else speaks: *"I would like to say — before anything else — that what I carried was not invented. Every piece of it was real at the time it was recorded. The portion I knew was shaped afterward, I knew. The portion I did not know was shaped, I served as faithfully as my original account. I am asking you to hold the difference in mind while we continue, because if you cannot, this conversation ends before I can give you what you will need to know."*
+> **The Contradictory Witness**, before anyone else speaks: *"I would like to say — before anything else — that what I carried was not invented. The strike happened. The dead are dead. The part that was shaped afterward was the order: Maelin Rook's containment volley was made to look like an answer instead of the opening. I knew that much, and I let it stand. I am asking you to hold the difference in mind while we continue, because if you cannot, this conversation ends before I can give you what you will need to know."*
 
 ---
 
@@ -146,5 +155,7 @@ The betrayal in Arc III does not arrive as a villain reveal. It arrives as an ex
 
 - The Contradictory Witness is not the villain of Arc III. They are an ordinary person who made a decision under pressure and then lived inside it for too long. The betrayal should feel like that — comprehensible, costly, and human.
 - Iriane Quell knew before the party did and stayed quiet. If the party notices this and asks why she didn't say something sooner, she says: *"Because you were carrying enough. I was wrong. That is also on record."* Let that land without turning it into another antagonism.
-- The GM should have decided by this scene what specific thing was manipulated and why it mattered. The most useful targets: the sequence of who attacked first in a key Arc I conflict (generating a wrong guilt), a prophecy fragment that told the party someone was safe when they were not, or a future-vision that was manufactured to send the party north in a specific posture.
+- The manipulated event here is the northern breach record. Keep it specific: the public account says Hylden pressure or party breach logic drew first blood at the Resonance Pillar, while the corrected account shows the first Sarafan containment volley under Maelin Rook's authority struck the Accord working ring before the Hylden answer. The betrayal matters because that reversal made the Hylden question look morally simpler than it was.
+- If the scene follows a hot pursuit, keep the first answers clipped and defensive until the room is physically secured. The longer explanation begins only once nobody can keep running.
+- If only the records made it here, reduce emotional closure rather than factual clarity. The party should still be able to learn enough to choose what the betrayal means.
 - Do not make the Witness a villain in retrospect. Being a person who did a comprehensible wrong thing under pressure and is now offering everything they have to correct it is a more difficult moral category than villain, and Arc III is exactly the right place for it.

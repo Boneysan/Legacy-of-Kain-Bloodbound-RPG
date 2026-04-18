@@ -28,5 +28,7 @@
 
 - The Mourner should anchor the rite through presence, inevitability, and emotional control rather than brute force.
 - The Shades should stay at the edges until the party breaks the social calm or the ritual geometry.
+- If `wheel_exposure` is `named` or `broken`, frame the rite as a deliberate ideological staging ground rather than a surprise pastoral trap. The Wheel know the party are coming and want the room to read as proof that surrender works.
+- If the party accepted the Wheel's hospitality fully in Vignette 02, Bale and the rite should target specific emotional vulnerabilities, favored losses, or preferred forms of relief rather than generic grief pressure.
 - If the scene should stay lighter, run it as a rescue from ritual quieting and only bring the Shades in when the rite is disrupted.
 - Let any civilian panic, confession, or witness collapse matter as much as tactical success.

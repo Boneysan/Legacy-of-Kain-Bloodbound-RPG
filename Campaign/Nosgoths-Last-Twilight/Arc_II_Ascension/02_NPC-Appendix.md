@@ -60,9 +60,9 @@ Use these as the default recurring cast for Ascension. If Arc I outcomes removed
 
 - Role: Warden observer following fragment imbalance into the fortress and the north
 - Public face: Measured, unseduced by victory, and willing to let a room hate her if it makes them hear the cost of what they are asking for
-- Hidden truth: She already suspects the Heart can temporarily hold the Hylden wound shut, but only by teaching Nosgoth to depend on another catastrophic instrument
+- Hidden truth: She already suspects the Heart can temporarily hold the Hylden wound shut, but only by teaching Nosgoth to depend on another catastrophic instrument; she also suspects the corruption of the States Pillar is recoil from an injustice the Ancients named necessity
 - Wants from the party: A choice they can defend when power is useful but not innocent
-- Best use: Put Balance onstage before the Hall of Equilibrium and give Arc II a living conscience that is not passive or decorative
+- Best use: Put Balance onstage before the Hall of Equilibrium, verify a Hylden truth without blessing a Hylden remedy, and give Arc II a living conscience that is not passive or decorative
 - If lost: Make her absence itself a warning that no one impartial remains in the room
 
 ## Ash-Glass Reth
@@ -87,7 +87,7 @@ Use these as the default recurring cast for Ascension. If Arc I outcomes removed
 
 - Role: Hylden negotiator, projection, or possessed mouthpiece
 - Public face: Coldly articulate envoy offering solutions in the language of function rather than morality
-- Hidden truth: It is not lying about everything, which is what makes it dangerous
+- Hidden truth: It can prove one of its accusations about the Pillars, which is what makes it dangerous
 - Wants from the party: Use of the Rift Ember, a compromised bargain, or one PC willing to be reasonable
-- Best use: Give Hylden Rationalism a face before the breach climax
+- Best use: Give Hylden Rationalism a face before the breach climax, correct often enough that the party cannot dismiss it as propaganda
 - If lost: Let its logic persist through devices, notes, and second-order consequences

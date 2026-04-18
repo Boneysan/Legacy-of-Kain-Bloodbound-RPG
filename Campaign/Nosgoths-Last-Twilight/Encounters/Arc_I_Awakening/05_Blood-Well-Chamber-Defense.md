@@ -27,5 +27,7 @@
 
 - The Vessel should threaten panic, possession, and ritual momentum more than raw damage output.
 - The Acolytes should screen the Vessel, protect ritual stations, and force the party to split attention.
+- If V04-C was chosen, use the chain, mark, or ancestral symbol from the vision as the clearest direct-contact hook in the chamber terrain. The ritual station that matches the vision should be the most dangerous and most rewarding point in the room.
+- If the campaign is using the April 2026 sequel pass, the matched station may also carry the silent blue-mantled operator or wound image. Keep it as visual pressure only, never aid.
 - Each round, let the room change: channels flood, cover opens, or a spectral afterimage reveals a safer or more dangerous lane.
 - If the party avoid combat cleanly, keep the same objective structure and replace the roster's pressure with ritual collapse and possession cascade risk.

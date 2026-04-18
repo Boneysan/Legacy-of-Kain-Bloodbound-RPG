@@ -146,6 +146,7 @@ The breach does not care what the party wants. It cares what the party does. Thi
 
 ## GM Notes
 
+- Canonical carry-forward contradiction: if you want the default Arc III Chronoplast reveal, the public northern record is wrong about first blood. The edited account makes Hylden pressure or the party's breach choice look like the initiating strike. The unedited sequence shows the first Sarafan containment volley, under Scout-Confessor Maelin Rook's field authority or her acting equivalent, hitting the live Accord working ring before the Hylden surge answers.
 - The Sarafan commander's response to Choice B is not recoverable in this scene. Flag it: whoever said the party collaborated with the Hylden is filing that report regardless of the technical truth. That is a live `sarafan_bloc` consequence that moves into Arc III.
 - Reth's lines in every choice are not interruptions — they are the final word in the scene. Whatever the party does, Reth has already described it as proof of something. The difference is what sermon they're building.
 - The Accord operator is competent and has no faction agenda beyond the work. They will record honestly and they will not falsify. The party's best use of them after this scene is to keep their notes from reaching the wrong hands first.

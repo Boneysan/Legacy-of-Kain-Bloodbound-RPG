@@ -24,6 +24,11 @@
 
 - Hold the claimant, witness, or command sigil for 3 rounds, or escort them through the inner gate before the Sarafan can brand the whole fortress faction as irredeemable.
 
+## Trigger Conditions
+
+- Fire this encounter when Sarafan hardliners can plausibly justify intervention at the threshold through public endorsement, exposure, or institutional collapse.
+- Most common triggers: V01-A public Turel endorsement, V02-D public exposure of the loyalty task, or V01-D institutional cover collapse.
+
 ## Running Notes
 
 - Footsoldiers lock the threshold and exploit formation pressure.

@@ -29,5 +29,6 @@
 
 - Use either the Sarafan package or the cult package by default, not both together unless Arc I needs a final spike.
 - The Sarafan version is quieter and custody-driven; the cult version is desperate and contamination-driven.
+- If V05-C concealment holds and no witnesses survived, skip this encounter entirely. Only trigger it if the hiding place is seen, guessed, or betrayed.
 - Let civilian presence matter. A clean tactical victory that burns witness trust should still feel costly.
 - If the party already won social control, run this as a short interception or accusation scene rather than a full road battle.

@@ -51,9 +51,9 @@ Use these as the recurring cast for Awakening. Replace or retire any of them if 
 
 - Role: Wandering Warden of Balance or lay adjudicator attached to no court long enough to be owned by it
 - Public face: Spare, calm, and difficult to impress, speaking as if every argument has a cost beyond the room it happens in
-- Hidden truth: She is already tracking the Heart's pressure and fears the party may become necessary long before they become trustworthy
+- Hidden truth: She is already tracking the Heart's pressure and fears the party may become necessary long before they become trustworthy; she also knows Balance often answers first by withdrawing grace rather than by striking anyone down
 - Wants from the party: Evidence that they can bear power without calling appetite judgment
-- Best use: Seed Balance as a living philosophy before Arc IV and give the party a countervoice not aligned to clan, cult, or crusade
+- Best use: Seed Balance as a living philosophy before Arc IV and give the party a countervoice not aligned to clan, cult, or crusade, especially by refusing easy absolution when their methods are technically effective
 - If lost: Preserve her warnings in notes, rites, or a later Warden successor who inherits her concerns without her patience
 
 ## The Marked Pilgrim
@@ -62,5 +62,5 @@ Use these as the recurring cast for Awakening. Replace or retire any of them if 
 - Public face: Refugee, porter, or traveler who should not matter much and therefore matters immediately
 - Hidden truth: The Sanguine Knot keeps answering through them, around them, or to what their bloodline remembers
 - Wants from the party: Safety, explanation, or release from what is following them
-- Best use: Personalize the relic before direct contact
+- Best use: Personalize the relic before direct contact; if they survive Avernus, they are the cleanest first bearer of the Last Witness role
 - If lost: Keep their memory active through visions, blood-signs, or spectral return

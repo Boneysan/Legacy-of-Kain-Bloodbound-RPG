@@ -31,7 +31,7 @@ The Chronoplast showed two futures. The party has been walking through Arc III c
 
 ## Opening Narration
 
-> The Chronoplast chamber is not quite cold. The ice that ate the eastern corridor has retreated far enough that the records room is usable, and Iriane has spread what she organized into three stacks by category: things that can be verified by external record, things that can be verified only by the Shard, and things that cannot be verified at all. The largest stack is the third one. Black Marshal Sevran is consulting the map that shows where the coalition presently stands, and he is not pointing at anything. He is waiting for the party to arrive at the conclusion he already reached. The window that Silk-Without-Moon left through is still open. It is letting in cold air. Someone should probably close it.
+> The Chronoplast chamber is not quite cold. The ice that ate the eastern corridor has retreated far enough that the records room is usable, and Iriane has spread what she organized into three stacks by category: things that can be verified by external record, things that can be verified only by the Shard, and things that cannot be verified at all. The unedited Resonance Pillar timing strip sits on the first stack, and everyone in the room knows why that matters. Black Marshal Sevran is consulting the map that shows where the coalition presently stands, and he is not pointing at anything. He is waiting for the party to arrive at the conclusion he already reached. The window that Silk-Without-Moon left through is still open. It is letting in cold air. Someone should probably close it.
 
 ---
 
@@ -131,7 +131,7 @@ At the end of this scene, the Arc III state tracker should be finalized:
 | `chronoplast_access` | `full` — party operates on their chosen account; `partial` — party is still revising; `denied` (if Vignette 01 outcome) — party has only partial Chronoplast intelligence |
 | `chronal_shard_fate` | `recovered`, `destroyed`, `lost` — where the fragment is; modifies Heart assembly possibility in Arc IV |
 | `wheel_exposure` | `broken` — Wheel enters Arc IV as combatant, not philosophy; `named` — Wheel is publicly accused but not dismantled; `concealed` — Wheel appears in Arc IV with all prior infrastructure intact |
-| `party_operative_truth` | Freeform — Arc IV opens with the GM having this string and using it to anchor every faction's opening posture to the party |
+| `party_operative_truth` | Freeform — Arc IV opens with the GM having this string and using it to anchor every faction's opening posture to the party. If the truth is committed and not ceded to one faction, the Kain contract begins `Open`; otherwise it starts `At Risk` or `Closed` |
 | `betrayal_resolved` | `absorbed`/`severed`/`weaponized`/`unresolved` — determines Witness's Arc IV availability and behavior |
 
 ---

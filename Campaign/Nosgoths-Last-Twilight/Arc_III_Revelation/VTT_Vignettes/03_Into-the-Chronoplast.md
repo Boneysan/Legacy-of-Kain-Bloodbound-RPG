@@ -72,9 +72,9 @@ The Chronoplast does not lie. It shows two or more things that are all true, sim
 
 **NPC Response (Iriane):**
 
-> *"Moebius's modification is in the third mirror-stack. He changed the sequencing of a specific campaign event to make one faction appear to have acted earlier than they did. The practical effect is — the faction you believed acted first may have been responding, not initiating."* She pauses. *"I need you to decide whether that changes anything about an obligation you formed based on that sequence."*
+> *"Moebius's modification is in the third mirror-stack. He cut the Resonance Pillar record so the Hylden surge appears to precede the first Sarafan containment volley."* She points to one of the reflected sequences. *"In the unedited account, the strike under Scout-Confessor Maelin Rook's authority hits the Accord working ring while the site is still in a live stabilization window. The surge is the answer, not the opening."* She pauses. *"I need you to decide whether that changes anything about an obligation you formed from the simpler version."*
 
-**Outcome:** The party now has confirmed proof of Moebian prophecy manipulation. One prior campaign assumption — likely about who struck first in a key Arc I or II conflict — is structurally false. `wheel_exposure` advances because the Wheel was benefiting from the manipulated sequence. Curator Thess retreats deeper into the archive; they are running.
+**Outcome:** The party now have confirmed proof that the northern breach record was reversed on purpose. The account that made Hylden pressure or party breach logic look like first blood is structurally false; the first escalation was the Sarafan containment volley into the Accord ring. `wheel_exposure` advances because the Wheel was benefiting from a sequence that made every alternative to surrender look like inevitable slaughter. Curator Thess retreats deeper into the archive; they are running.
 
 **Tags:** `chronoplast_access: full`, `wheel_exposure: broken` *(the manipulation is provably Moebius-adjacent, which exposes Wheel doctrinal dependence on fabricated inevitability)*
 
@@ -128,10 +128,21 @@ The Chronoplast does not lie. It shows two or more things that are all true, sim
 
 ---
 
+## Transition to Vignette 04
+
+- **Hot handoff:** If the party break after Thess the moment the manipulation is named, cut directly to Encounters/Arc_III_Revelation/06_Curator-Thess-Pursuit.md. Start the next scene with someone still holding a door, the proof still in motion, and no emotional reset.
+- **Warm handoff:** If the party stabilize the chamber first, let Thess, the Witness, or Iriane choose one room and one record bundle to stand on. Vignette 04 should begin as a forced explanation rather than a second search.
+- **Cold handoff:** If Thess is absent, removed, or escapes while the proof is recovered, begin Vignette 04 with the document case, query output, or spectral transcript already on the table and the conversation focused on what can still be corroborated.
+- Keep one physical proof object continuous across the handoff. The next scene should argue over the same thing this scene exposed.
+
+---
+
 ## GM Notes
 
 - Iriane's "the one you felt less certain about is the accurate one" is the scene's central wound. It should be delivered quietly, not dramatically.
 - Silk-Without-Moon is present and wants something, but does not force the issue here. They are evaluating, not acting. Their goal is one of the futures the machine showed — specifically, the one where a boundary collapses and they consider that liberation. Let them be visible and not immediately threatening.
-- Curator Thess's retreat into the deeper archive signals that they know the party is about to find the manipulation. If the party follows Thess immediately instead of engaging with a choice, this vignette pivots into a chase for Vignette 04.
+- Curator Thess's retreat into the deeper archive signals that they know the party is about to find the manipulation. If the party follows Thess immediately instead of engaging with a choice, this vignette pivots into Encounters/Arc_III_Revelation/06_Curator-Thess-Pursuit.md for Vignette 04.
+- The manipulated event should stay concrete. Use the edited Resonance Pillar sequence throughout Arc III: Sarafan containment fire first, Hylden surge second, public memory reversed.
+- Do not let the Chronoplast room and the betrayal room feel like separate episodes. The chase only matters because it decides who controls the proof when the explanation begins.
 - The personal vision in Choice C should be the most honest thing the Shard does. It should be uncomfortable not because it shows evil, but because it shows something the PC would do and might not be proud of when the moment of power arrives.
 - **Curator Thess is optional.** If the party lacks the narrative context for an archivist figure, or the table has too many tracking NPCs already, Thess can be removed entirely. Redistribute the curation reveal — "the curation shows" — to Iriane's dialogue in Choice D: she notices the interference herself and names it, sourcing the manipulation to parties unknown rather than to a specific NPC in the room. The chase thread that activates when the party follows Thess in V04 then becomes a document or glyph trail instead of a person.

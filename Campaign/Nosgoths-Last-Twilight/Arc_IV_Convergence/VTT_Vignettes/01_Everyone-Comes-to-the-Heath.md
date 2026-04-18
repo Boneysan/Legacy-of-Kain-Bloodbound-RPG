@@ -17,6 +17,12 @@ The campaign has been moving toward this convergence since the first road split.
 - **Est. Duration:** 6–8 min
 - **Tags This Scene Can Change:** `coalition_shape`, `wheel_final_state`
 
+## Prior-Arc Tag Reading
+
+- Let `iron_echo_status` decide which precedent Garric Sol reaches for first. `used` or `contested` lets him argue the party already normalized unstable relic adjudication; `sealed` lets him argue they understand containment and should submit to Sarafan custody; `lost` lets him frame them as negligent custodians of dangerous proof.
+- Let `fortress_claim` decide whether clan presence at the Heath is unified or split. `party_backed` means one claimant's people arrive aligned while the rival camp arrives cold. `neutral_brokered`, `contested`, or `unsettled` should produce visibly divided clan posture and quieter side-channel lobbying.
+- Know the current Last Witness bearer before the scene opens. If their identity is exposed or guessable, hostile factions should start with recruitment, discrediting, or seizure pressure against the witness rather than treating the party line as the only valuable target.
+
 ---
 
 ## Cast
@@ -149,7 +155,7 @@ The campaign has been moving toward this convergence since the first road split.
 
 - Reth's faction position statement ("The Procession does not negotiate. It waits for the structures to finish failing.") is not a refusal to engage. It is a claim that the Procession is already winning regardless of what the party chooses. The GM's job is to make this feel accurate and chilling without making it feel like a scripted villain line.
 - The Glass Voice's statement about willing cooperation is sincere — Hylden strategy at this stage *does* depend on cooperation rather than force, for structural reasons. That is what makes it unsettling.
-- If Kain is present (because `party_operative_truth` was committed in Arc III), he does not deliver a position statement. He simply looks at the party when it is their turn to speak, which is its own kind of pressure.
+- If Kain is present, it is because Arc III ended with a committed operative truth that did not become any single faction's property. In strict mode, read that through the `party_operative_truth` and coalition tags. He does not deliver a position statement. He simply looks at the party when it is their turn to speak, which is its own kind of pressure.
 - Garric Sol, if not counterbalanced by Bale, is the most dangerous faction rep in this scene — not because he's the strongest, but because he sounds the most reasonable. "Lawful exercise of authority to be established" is a description of a Sarafan future that sounds peaceful. The party should feel the dissonance between the language and what they've seen.
 - The Heath itself should feel exhausted and real. Not a grand stage. A cold open field where people are having the conversation that was always coming because there is nowhere else left to have it.
-- The Last Witness is already present on the Heath when the party arrives. Merel has noted them but has not introduced them and will not do so unprompted. If a party member asks who they are, Merel says only: "A civilian. They have standing." The GM should know exactly who this person is before the session begins — a specific individual whose life the party touched in Arcs I–III, present without agenda. Their presence is not an event in this vignette. It is background weight. The event comes in V02.
+- The Last Witness is already present on the Heath when the party arrives. Merel has noted them but has not introduced them and will not do so unprompted. If a party member asks who they are, Merel says only: "A civilian. They have standing." The GM should know exactly who currently bears this inherited role before the session begins — the ordinary survivor whose life the party touched most directly and who can still speak what the fragments cost without faction varnish. Their presence is not an event in this vignette. It is background weight. The event comes in V02.

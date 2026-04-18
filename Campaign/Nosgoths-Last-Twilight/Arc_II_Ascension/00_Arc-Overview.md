@@ -2,7 +2,7 @@
 
 ## Arc Purpose
 
-Arc II widens the campaign from cult horror into open political struggle. The party confront claims of legitimacy at Dumah's Fortress, then carry that outcome north into the Hylden crisis around the Rift Ember. The key structural rule for this arc is that the fortress problem should not feel solved simply because the party has moved on; its debts, rivalries, and strategic consequences must remain alive while the northern crisis worsens.
+Arc II widens the campaign from cult horror into open political struggle. The party confront claims of legitimacy at Dumah's Fortress, then carry that outcome north into the Hylden crisis around the Rift Ember. The key structural rule for this arc is that the fortress problem should not feel solved simply because the party has moved on; its debts, rivalries, and strategic consequences must remain alive while the northern crisis worsens. The arc should also force the party to admit that the Hylden grievance contains one verifiable truth the Pillar order buried, making the north morally harder than a frontier war.
 
 ## Level Band
 
@@ -33,7 +33,7 @@ Arc II widens the campaign from cult horror into open political struggle. The pa
 2. Duel, infiltration, or siege sequence that determines access to the Iron Echo.
 3. Repercussions from the fortress claim spill into transport, shelter, and troop movement.
 4. Northern expedition where glyph-static, cold, possession, and early Fracture rhetoric replace straightforward warfare.
-5. First major breach event involving the Rift Ember and the question of whether fragment logic can reinforce or replace a failing seal.
+5. First major breach event involving the Rift Ember, documentary proof of an ancient Pillar injustice, and the question of whether fragment logic can reinforce or replace a failing seal.
 6. Decision to seal, redirect, exploit, or lose the breach at a strategic cost, followed by one impossible contradiction that points toward the Chronoplast.
 
 ## Questions To Force
@@ -57,3 +57,5 @@ Arc II widens the campaign from cult horror into open political struggle. The pa
 - What faction learned the most from the Rift Ember.
 - Which Sarafan bloc now sees the party as useful and which sees them as unforgivable.
 - Whether the Ash-Glass Procession gained a convert, survivor, or proof text from the breach.
+- What verifiable Hylden claim the party can no longer dismiss as propaganda.
+- Which ordinary survivor now carries the Last Witness role into Arc III.

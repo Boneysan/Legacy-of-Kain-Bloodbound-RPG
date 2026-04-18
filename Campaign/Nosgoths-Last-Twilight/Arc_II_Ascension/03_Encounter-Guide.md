@@ -2,18 +2,26 @@
 
 Use this document for session-by-session encounter planning across fortress politics, the northern transition, and the Rift Ember front.
 
+Use the notes below as the GM-facing summary of both the current encounter files and the variant/trigger logic tracked in the encounter improvement plan.
+
+Companion docs:
+
+- [../Encounters/00_Encounter-Index.md](../Encounters/00_Encounter-Index.md)
+- [../03_Vignette-Encounter-Improvement-Plan.md](../03_Vignette-Encounter-Improvement-Plan.md)
+
 ## Session 1: The Empty Throne Gate
 
 - Primary location: The ruined approach to Dumah's Fortress.
 - Primary encounter: Use Encounters/Arc_II_Ascension/01_Empty-Throne-Gate.md.
 - Recommended lineup: 2 Outcast Raiders, 1 Spellbound Golem, and 1 flex elite rival tied to the claimant who reaches the party first.
 - Core objective: Make the gate itself test whether the party are taking possession, seeking legitimacy, or refusing the claim publicly.
+- Flex-slot guidance: If the visible claim favors Turel, fill the flex slot from Drath's side. If it favors Drath, use Turel's. If the claim is brokered or unsettled, use Corin Vey's proxy or another local opportunist who profits from ambiguity.
 
 ## Interstitial Branch: Fortress Gate Purge
 
 - Primary location: Gate tunnel and inner threshold of Dumah's Fortress.
 - Primary encounter: Use Encounters/Arc_II_Ascension/02_Fortress-Gate-Purge.md.
-- Use when: Sarafan hardliners convert the arrival or loyalty test into a public custody crisis because the party backed a claimant, exposed a scandal, or carried Arc I corruption suspicion into the gate scene.
+- Use when: Sarafan hardliners convert the arrival or loyalty test into a public custody crisis because the party backed a claimant openly, exposed the loyalty task publicly, or let institutional cover collapse around the gate.
 - Recommended lineup: 1 Sarafan Inquisitor, 4 Sarafan Footsoldiers, and 1 Sarafan Outrider.
 - Core objective: Hold the claimant, witness, or command sigil long enough to keep the Sarafan from defining the whole dispute as purge-worthy.
 - Deployment note: Run this as the escalation branch for Session 1 fallout, or as the violent version of Session 2's loyalty test when fortress politics stop being containable.
@@ -36,6 +44,7 @@ Use this document for session-by-session encounter planning across fortress poli
 - Safer baseline: 2 Skeletal Knights and 2 Risen Thralls under dormant command pressure while the real conflict centers on who is recognized by the Echo.
 - Core objective: Force the party to decide whether legitimacy is granted, exposed, refused, or weaponized once the fragment starts answering.
 - Terrain notes: Oathstones, awakened wards, visible spectral banners, and a ruling dais that reacts to blood, challenge, or lineage.
+- Approach framing: Claimant's representative should read as judgment and backlash. The party's own name should make the chamber a contested escort and recruitment problem. Refusal should replace coronation logic with departure or travel pressure. Exposing an oathbreaker should collapse one person's standing and make the chamber answer with a cracked ruling rather than a clean recognition.
 
 ## Session 4: Frontier Contact Fight
 
@@ -52,6 +61,7 @@ Use this document for session-by-session encounter planning across fortress poli
 - Primary encounter: Use Encounters/Arc_II_Ascension/04_Rift-Line-Emergency.md.
 - Recommended lineup: 1 Hylden Rift-Priest and 2 Hylden Shock Troopers, with an optional Hylden War-Stalker for the heavier version.
 - Core objective: Make node control, stabilization work, and moral compromise matter as much as direct damage.
+- Hylden toggle: If `hylden_engagement` reached negotiated terms, the redirect option is live and should be framed as the proven-but-dangerous remedy the Glass Voice was correct about. If negotiation failed, remove redirect and raise stabilization difficulty by 1. If the party accused the Hylden instead of bargaining, use more precise counterplay against the negotiator or glyph specialist.
 
 ## Session 6: Breach on the Northern Ice
 
@@ -60,3 +70,5 @@ Use this document for session-by-session encounter planning across fortress poli
 - Recommended lineup: 2 Hylden Shock Troopers as the baseline proof of military force; add 1 Hylden Rift-Priest if the breach resolution itself is the scene's center.
 - Core objective: Resolve the breach in a way that leaves behind a strategic scar and a contradiction only the Chronoplast can answer.
 - Terrain notes: Unstable pylons, collapsing ice, spectral aftershock, and witnesses caught in incompatible versions of the same battle.
+- Objective framing: Choice A should be seal-and-hold, Choice B controlled-passage under fire, Choice C denial-and-survival after destroying the instrument, and Choice D catastrophe management under uncontrolled collapse. If the breach was negotiated, the contradiction carried into Arc III should also include the Hylden truth the party now cannot dismiss.
+- Aftermath cue: If the party used the Rift Ember to hold or redirect the breach, let Balance Reckoning show up here as a landscape scar or lost grace, not only as more bodies on the field.

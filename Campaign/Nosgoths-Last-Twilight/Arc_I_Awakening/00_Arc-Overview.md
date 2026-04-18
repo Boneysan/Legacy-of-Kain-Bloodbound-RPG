@@ -2,7 +2,7 @@
 
 ## Arc Purpose
 
-Arc I establishes the campaign's tone, teaches the party that every faction lies by omission, and brings the Sanguine Knot into play at Avernus Cathedral and the Blood-Well. It should also plant the campaign's later arguments in small form: truth versus mercy, custody versus purge, and whether revelation without judgment is just another cruelty.
+Arc I establishes the campaign's tone, teaches the party that every faction lies by omission, and brings the Sanguine Knot into play at Avernus Cathedral and the Blood-Well. It should also plant the campaign's later arguments in small form: truth versus mercy, custody versus purge, whether revelation without judgment is just another cruelty, and whether Balance answers by withdrawing grace rather than by speaking louder.
 
 ## Level Band
 
@@ -39,8 +39,8 @@ Arc I establishes the campaign's tone, teaches the party that every faction lies
 1. Road encounter, false refuge, and first signs of cult infiltration.
 2. Investigation inside or around Avernus, identifying useful allies and compromised NPCs.
 3. First descent toward the Blood-Well with pressure from both zealots and scavengers.
-4. Contact with the Sanguine Knot and the campaign's first real Corruption choice.
-5. Public fallout: who now knows the party touched the Heart, and who wants them contained.
+4. Contact with the Sanguine Knot, a first Reaver-shaped wound in the chamber, and the campaign's first real Corruption choice.
+5. Public fallout: who now knows the party touched the Heart, what grace Balance withdraws, and who becomes the first witness the campaign cannot shake.
 
 ## Questions To Force
 
@@ -62,3 +62,5 @@ Arc I establishes the campaign's tone, teaches the party that every faction lies
 - Whether the Sanguine Knot was hidden, studied, carried, or handed over.
 - Whether the Sarafan now see the party as evidence to be contained or corruption to be purged.
 - Whether the first fragment use already taught the party that truth can unmake as easily as it reveals.
+- Whether Balance Reckoning already changed what shrines, rites, and safe roads will give the party for free.
+- Who becomes the first bearer of the Last Witness role before Arc II begins.

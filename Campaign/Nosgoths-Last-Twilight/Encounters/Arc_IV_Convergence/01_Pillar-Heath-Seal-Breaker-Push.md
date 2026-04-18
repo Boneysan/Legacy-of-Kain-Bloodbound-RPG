@@ -27,6 +27,13 @@
 
 - Hold the operator zone for 4 rounds, destroy both pylons, or kill the Rift-Priest before the Dimension Lord can convert battlefield pressure into a permanent breach gain.
 
+## Heart Purpose Guidance
+
+- If the endgame answer is `spent-for-balance`, make the exposed operator a Pillar-aligned custodian, Hall guide, or rite anchor whose completion matters more than body count. The battlefield goal is to hold the operator zone long enough to finish the rite.
+- If the endgame answer is `gate-opened-negotiated`, shift the objective toward controlled passage rather than closure. The party are protecting a managed opening, stated terms, or access geometry from panic, sabotage, or opportunistic seizure.
+- If the endgame answer is `foreclosed`, make denial primary. The party should win by destroying pylons, breaking the priest's control geometry, or rendering the breach unusable before any faction can claim it.
+- Hylden opposition intensity should scale inversely with how cooperative the gate resolution is. A negotiated opening wants sharper political pressure and fewer berserk surges; a foreclosed or forced ending wants the hardest direct assault.
+
 ## Running Notes
 
 - The Dimension Lord is the anchor and should force the party off the objective rather than simply chase kills.

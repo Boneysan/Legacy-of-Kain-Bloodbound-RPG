@@ -30,6 +30,7 @@ Arc I, Arc II, Arc III, and Arc IV also include detailed vignette consequence ma
 5. Update the faction tracker after every major session outcome.
 6. Update the relevant relic file the first time the party interacts with that fragment.
 7. Move unresolved consequences forward into the next arc before starting prep.
+8. Before starting the next arc, record the current Last Witness bearer, the Kain contract state, and any visible Balance Reckoning fallout.
 
 ## Current Fragment Order
 
@@ -48,3 +49,11 @@ Arc I, Arc II, Arc III, and Arc IV also include detailed vignette consequence ma
 - Wheel loyalists attempting to bury or redirect the Heart's meaning.
 - Crimson Fracture cells turning breach events and despair into recruitment.
 - Balance pressure accumulating whenever fragment use solves a crisis while leaving deeper distortion behind.
+
+## Continuity Trackers
+
+- **Reaver-wound:** Seed it at Arc I Session 4, Arc II Session 3, Arc III Session 3-5, and Arc IV Session 2-4. Keep it unnamed, unhelpful, and unresolved.
+- **Last Witness:** Update the current bearer at the end of each arc. The role belongs to the latest ordinary survivor who can still speak a fragment's cost plainly.
+- **Kain contract:** Mark it `Open` if the party commit to one operative truth in Arc III and keep any single faction from owning that answer. Mark it `At Risk` if the truth is committed but a bloc is close to monopoly. Mark it `Closed` if the party hedge, refuse commitment, or hand the answer to one side.
+- **Balance Reckoning:** Use this as withdrawal of grace rather than Corruption by another name. Closed shrines, withheld rites, and routes that suddenly demand named cost are the right signals.
+- **First Light:** After Arc IV resolves, read the matching aftermath scene in Arc IV Session Prep before any wider epilogue summary.

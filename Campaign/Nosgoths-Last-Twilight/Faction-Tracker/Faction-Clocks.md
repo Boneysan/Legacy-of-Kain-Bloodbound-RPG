@@ -58,16 +58,19 @@ Use these clocks to escalate consequences visibly. Advance a clock when the part
 - 3: A prior compromise returns as proof that order was preserved through corruption, coercion, or false judgment.
 - 4: The campaign's endgame judgment hardens; the Hall of Equilibrium or its living representatives will no longer treat the party as untested claimants.
 
+In Arc I especially, render this as withdrawal of grace rather than visible punishment: closed shrines, withheld rites, and routes that suddenly demand named cost.
+
 ## Arc-End Update Cheat Sheet
 
 Use this after each arc-ending session before you close prep for the night. Advance only what the fiction clearly earned; if two clocks could move, prefer the one the table will feel first next session.
 
 ### After Arc I: Awakening
 
-- If the Sanguine Knot was touched publicly, advance Sarafan Purge by 1 and Balance Reckoning by 1.
+- If the Sanguine Knot was touched publicly, or if the party used it to expose or coerce when mercy was still possible, advance Sarafan Purge by 1 and Balance Reckoning by 1.
 - If the chamber or refuge network was profaned, advance Hash'ak'gik Corruption by 1.
 - If the party exposed cult infiltration without panicking the region, advance Sarafan Schism by 1 instead of Purge if legalists now want custody and proof.
 - If the fragment was buried, hidden, or handled discreetly, leave Purge unchanged but worsen Cult of the Wheel posture in the standing table.
+- When Balance Reckoning advances in Arc I, show it immediately through withdrawal of grace: Nerys refuses an easy rite, a shrine begins weeping blood, or the safe road now demands confession, time, or surrendered leverage.
 
 ### After Arc II: Ascension
 

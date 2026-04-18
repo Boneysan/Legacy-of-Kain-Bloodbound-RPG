@@ -17,6 +17,14 @@ The fortress does not grant entry. It interrogates arrivals. Before the party ca
 - **Est. Duration:** 4–6 min
 - **Tags This Scene Can Change:** `fortress_claim`, `ash_glass_reach`
 
+## Prior-Arc Tag Reading
+
+- If `reliquary_status` is `examined`, `compromised`, or `stolen`, play both gate delegations as recognizing that someone in the party has already touched active relic logic. They are less interested in hospitality as courtesy and more interested in custody, leverage, or containment.
+- If `sarafan_attention` is `2`, put a Sarafan-adjacent observer in the forecourt before the party pick a gate. Choice D is harder because institutional neutrality now reads like a thing the Order will test, not automatically respect.
+- If `public_story` is `panic`, let the party's road reputation arrive first. Ledger-Master Vey should approach earlier and price the panic before either claimant fully owns the narrative.
+- If `serit_trust` is `earned` and Serit is visibly with the party, Drath recognizes Accord standing immediately and shifts his pitch toward archives, legitimacy, and continuity rather than shelter alone.
+- If the campaign is tracking Balance Reckoning cues or equivalent Arc I fallout, make hospitality feel thinner than it should. Chapels are shut, minor rites are refused, and protective customs read as worn-out obligations rather than living grace.
+
 ---
 
 ## Cast

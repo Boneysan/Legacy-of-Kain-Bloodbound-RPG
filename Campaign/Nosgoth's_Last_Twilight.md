@@ -80,6 +80,16 @@ Source note for the GM:
 
 - If you need roleplay support for Janos Audron or Ariel, use the World Primer legendary figure entries rather than the NPC Compendium.
 
+## Cross-Arc Continuity Threads
+
+Use these deliberately across all four arcs so the campaign reads like sequel consequence rather than relic-tour escalation.
+
+- The Reaver-shaped wound is an absence that keeps leaving evidence behind: a silent operator at Avernus, a forbidden answer in the Iron Echo, a wrong-handed future in the Chronoplast, and a witness-shape at the Hall. Do not name it, resolve it, or turn it into aid.
+- The Hylden grievance must become verifiable rather than merely persuasive. By Arc II, the party should face evidence the Accord cannot refute that at least one present Pillar corruption is recoil from an injustice the Ancients knowingly built into the prison-binding.
+- Track Balance Reckoning separately from Corruption. Corruption stains soul and appetite. Balance Reckoning is what the world withdraws after fragment use solves a crisis by teaching the land that coercion works.
+- The Last Witness is an inherited role, not a preauthored cameo. At the end of each arc, name the current ordinary survivor who can still speak what the fragment cost without faction varnish.
+- Kain's presence in Arc IV is a narrative contract, not a secret reward. He may appear only if the party commit to one operative truth the Heart can use and prevent any single faction from owning that answer outright.
+
 ## Lores and Philosophical Pressure
 
 - The Wheel of Fate should shape funerary rites, public resignation, and the quiet horror of people who still believe inevitability is mercy.
@@ -91,7 +101,7 @@ Source note for the GM:
 
 - Sarafan Order: The Heart is proof that forbidden relics keep Nosgoth damned. Officially the Sarafan want it destroyed, but the order is split between Confessor-Militant Sevraine, who still believes law must precede judgment, and Commander Holst Vey, a Hollow hardliner who would weaponize the fragments long enough to purge the clans and anyone touched by them.
 - Vampire Clans: The clans do not want the same thing. Turelim war-captain Varketh Dume wants a fortress relic that can restore dominion by force, Zephonim whisper-broker Selesh of the Veil wants intelligence leverage, Rahabim current-reader Naeva Thorne wants to know what old waters remember, and the Razielim dead-speaker Ithren treats the Heart as a possible answer to their progenitor's unresolved legacy.
-- Hylden Remnants: The Rift Ember is the most obvious route toward weakening the dimensional binding. The Remnants will bargain, manipulate, and possess to get it, usually through the patient voice of Architect-Savant Merakesh, whose civility makes his treachery more dangerous.
+- Hylden Remnants: The Rift Ember is the most obvious route toward weakening the dimensional binding. The Remnants will bargain, manipulate, and possess to get it, usually through the patient voice of Architect-Savant Merakesh, whose civility makes his treachery more dangerous. By Arc II, the party should be confronted with evidence the Accord cannot refute that at least one present Pillar corruption is backpressure from an injustice the Ancients knowingly codified into the prison-binding. The Hylden are not redeemed by that truth, but they are no longer dismissible.
 - Pale Accord: The Accord view the fragments as field evidence for how Pillar corruption behaves under pressure. Some Chapters want restoration; others want controlled exploitation. Their most visible authority should be Provost Cala Merrow, a field scholar whose measured tone can conceal either restraint or sanctioned trespass.
 - Crimson Fracture: They believe the Heart can wound the barrier between Material and Spectral permanently, making the Great Merge more than ideology. Their recurring operational face is the Ash-Glass Procession, a roaming breach-cult of scarred converts and feral escorts field-led by Ash-Glass Reth and spiritually backed by Elder Seripha. Their cells should appear before Arc III as whispers, deserters, and examples of people who now prefer fracture to order.
 - Cult of the Wheel: The Elder God cannot allow any force that might break the Wheel or route souls away from its hunger. The cult's ideal outcome is burial, secrecy, and compliance, preached softly by Grave-Reader Pell, a funeral keeper whose gentleness makes surrender sound merciful.
@@ -151,6 +161,7 @@ Important beats:
 - The Cult of the Wheel tries to convert despair into obedience rather than simply attacking.
 - The Crimson Fracture present the most seductive version of false liberation in the campaign.
 - The party learn that restoring the Heart does not end choice; it concentrates it.
+- The party should leave with one operative truth committed clearly enough that Arc IV can judge them by it rather than by ambiguity alone.
 
 ### Arc IV: Convergence
 
@@ -162,6 +173,8 @@ Possible final outcomes:
 - Use the Heart to wound the Wheel directly, damaging the Elder God's hold at catastrophic regional cost.
 - Reforge the Heart into a factional instrument, creating a dark age ruled by whichever coalition wins the field.
 - Break the Heart permanently, denying everyone its use while scattering corruption and prophecy into the land anew.
+
+Whichever ending lands, follow it immediately with one grounded "First Light" scene from the point of view of a surviving non-party witness. The campaign should be remembered through relief, panic, burden, or uncanny freedom, not only through strategic summary.
 
 ## Spectral Realm Framework
 
@@ -183,6 +196,7 @@ The Heart-fragments should sit at the center of the campaign's corruption pressu
 - Fragments can reveal, unlock, or tempt corrupted perk choices earlier in the story, but they never grant bonus perks. Corrupted perks still replace normal Universal Perk slots.
 - Purification should remain possible through Warden rites, atonement, or rare sanctified work, but never easy while a fragment is nearby. Near the Heart, absolution should always feel slower than surrender.
 - If the party keeps a fragment active for too long, the region around them should begin expressing its associated Pillar corruption: false memories, spectral bleed, blood-madness, temporal loops, or balance collapse. Let the land itself begin to answer for what the party has chosen to carry.
+- When a fragment resolves an immediate crisis by normalizing coercion, revelation, or imposed order, advance Balance Reckoning even if Corruption does not. The party's souls are not the only thing the Heart can damage.
 
 ## Faction Standing and Rewards
 

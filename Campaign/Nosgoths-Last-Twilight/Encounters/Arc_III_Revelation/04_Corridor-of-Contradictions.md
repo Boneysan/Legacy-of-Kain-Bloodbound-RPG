@@ -23,9 +23,17 @@
 
 - Keep the key witness, betrayer, or contradiction alive and legible long enough for the party to force one version of the truth to stand.
 
+## Betrayal-State Guidance
+
+- If `betrayal_resolved` is `unresolved`, put the tempted ally, hidden witness, or unconfessed keeper of the corrected northern breach record at the center of the scene. The objective is to force naming before chronology or panic erases the chance.
+- If `betrayal_resolved` is `absorbed`, keep the ally present and the wound already named. The real pressure is protecting the ally and the corrected record against outside forces that want the admission erased.
+- If `betrayal_resolved` is `severed`, document custody replaces a person as the main objective. Use the timing strip, record case, or query bundle as the thing that must stay legible and in the party's hands.
+- If `betrayal_resolved` is `weaponized`, sharpen the encounter into open retaliation rather than a quiet confession. Enemies should be trying to destroy, seize, or discredit the corrected record before it hardens into public fact.
+
 ## Running Notes
 
 - The Wraith should embody unstable memory, while the Walker embodies opportunistic rupture.
 - Make the witness or betrayer the real center of the encounter; if they die or vanish, the tactical win should feel incomplete.
+- If this follows Encounters/Arc_III_Revelation/06_Curator-Thess-Pursuit.md, carry the same record case, query bundle, or wounded witness into the room. The confrontation should still be about what the chase preserved.
 - If combat is avoided, run the same scene as a collapsing rite of false remembrance that still costs the party a bond or alliance.
 - Reward corroboration, positioning, and emotional choices over raw DPR.

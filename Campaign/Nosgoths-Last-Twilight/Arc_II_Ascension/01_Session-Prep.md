@@ -129,6 +129,7 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Ascension.
 	- If combat is avoided, the scene should still end with a binding ruling or public humiliation.
 - Spectral intrusion:
 	- The fortress dead visibly respond to command legitimacy.
+	- For a single heartbeat, a silent blue-mantled figure stands behind the wrong claimant and the chamber answers a command no archive should know.
 	- A broken oath becomes visible as chain, wound, or banner tear in the Spectral.
 	- Someone the party trusted may look false under the Echo's judgment.
 - End-of-session fallout:
@@ -140,6 +141,7 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Ascension.
 - Prep notes:
 	- Decide how much order the Echo actually creates versus reveals.
 	- Let the fragment answer values as much as bloodline.
+	- If a Razielim, dead-speaker, or spectral witness is in the cast, let them react first to the impossible command.
 	- Keep the northward hook visible before the session ends.
 
 ## Session 4
@@ -191,12 +193,14 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Ascension.
 - Primary scenes:
 	- The party reach the breach site and discover that the crisis is part military front, part engineering problem, part metaphysical wound.
 	- Hylden logic presents itself through devices, possessed intermediaries, or a negotiator who speaks with unbearable clarity.
+	- Merakesh or the Glass Voice presents matched Hylden, Accord, and Ancient records proving that one present Pillar corruption is recoil from a binding the Ancients knew was unjust.
 	- The party learn what the Rift Ember can do: open, power, stabilize, or sabotage a breach.
 	- They must decide whether to use enemy tools, destroy them, or attempt a third path with incomplete knowledge.
 	- The session ends with a breach event beginning or already underway.
 - Faction moves:
 	- Hylden Remnants: seek activation, leverage, or a living vessel.
 	- Pale Accord: want controlled study and emergency containment.
+	- Sister Nerys Vale or another Balance witness should be able to verify the records as genuine without endorsing the Hylden method.
 	- Sarafan forces: let one bloc prefer destruction at any cost while another argues that containment and evidence must precede cleansing.
 	- Any clan allies: may want the power redirected for territorial advantage.
 	- The Ash-Glass Procession: seek proof that the breach should be widened, not healed, because fracture is the first honest condition the world has shown them.
@@ -208,7 +212,8 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Ascension.
 	- Make explicit that the fragment can temporarily reinforce a failing seal, replace one under emergency conditions, or widen it into a true opening depending on who drives it.
 - Mandatory NPCs:
 	- A Hylden voice, projection, or possessed negotiator
-	- A Pale Accord operator or Glyphwright
+	- A Pale Accord operator or Glyphwright able to test the evidence publicly
+	- Sister Nerys Vale or another Balance witness who can confirm the record without blessing the remedy
 	- One commander or zealot who wants the simplest possible answer
 	- One Ash-Glass Procession voice who interprets the same evidence as liberation, whether Reth personally or a convert speaking in their rhetoric
 - Encounter slot:
@@ -221,9 +226,10 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Ascension.
 - End-of-session fallout:
 	- The breach outcome becomes immediate, not hypothetical.
 	- Hylden Breach Clock likely advances again.
+	- The party should now be carrying one Hylden claim they know is true and still may not be able to accept.
 	- The party now understand why the north cannot be solved through brute force alone.
 - Prep notes:
-	- Decide what the Hylden argument gets right.
+	- Decide exactly what the Hylden argument gets right. The cleanest version is that the corruption of the States Pillar is backpressure from an unjust binding the Ancients knowingly imposed.
 	- Put at least one useful but morally corrosive option on the table.
 	- Make the site readable to Glyphwrights and terrifying to everyone else.
 
@@ -248,6 +254,7 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Ascension.
 	- The Rift Ember is now sealed, moved, exploited, or left in a dangerous partial state.
 	- If used directly by the party, it should leave ongoing narrative strain.
 	- Its aftermath should alter travel, wards, and trust going forward.
+	- If the party used the Rift Ember to hold or redirect the breach, advance Balance Reckoning visibly and let the landscape remember the bargain.
 	- State clearly which happened: the breach was reinforced temporarily, redirected, worsened, or converted into a fragile substitute seal.
 - Mandatory NPCs:
 	- Surviving Hylden representative or aftermath trace
@@ -267,6 +274,7 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Ascension.
 	- The party enter Arc III with at least one new enemy, one new ideological problem, and one reason to seek answers instead of territory.
 	- Update the tracker for clan standings, Hylden escalation, and any surviving Sarafan or Accord obligations.
 	- The Chronoplast hook is no longer abstract. The party now possess or pursue evidence that ordinary history cannot contain.
+	- Name whether the Last Witness role stays with its current bearer or passes to whoever survived carrying the impossible record out of the north.
 - Prep notes:
 	- Make the breach outcome matter on the map and in conversation.
 	- Tie the next arc hook to consequence, not just mystery.
@@ -300,5 +308,6 @@ Use this file as a rolling prep sheet for Sessions 1-6 of Ascension.
 - Which clan owes the party and which wants them dead:
 - Current state of the Iron Echo:
 - Current state of the Rift Ember:
+- Current Last Witness bearer:
 - Hylden breach severity:
 - Northern travel conditions and supply strain:
