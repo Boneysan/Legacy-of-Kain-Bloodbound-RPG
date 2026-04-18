@@ -43,6 +43,15 @@ The fortress does not grant entry. It interrogates arrivals. Before the party ca
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel like buying speed with visible alignment.
+- Choice B should feel like honoring continuity and inheriting its weakness.
+- Choice C should feel principled, slow, and expensive.
+- Choice D should feel clever but temporary: the party avoid choosing only long enough to make everyone study them harder.
+
+---
+
 ## Player Choices
 
 ### A — Enter Through the Eastern Gate (Align With Turel)

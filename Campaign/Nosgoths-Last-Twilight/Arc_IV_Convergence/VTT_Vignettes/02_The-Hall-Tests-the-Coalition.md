@@ -43,6 +43,15 @@ The Hall of Equilibrium does not make decisions. It asks whether the people clai
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel like stepping into authorship and liability at the same time.
+- Choice B should feel principled until someone asks who pays if the principle fails.
+- Choice C should feel humble and dangerous: incomplete honesty is still honesty, but it buys only provisional trust.
+- Choice D should feel like choosing to ground the coalition in lived consequence rather than procedural elegance.
+
+---
+
 ## Player Choices
 
 ### A — State the Account Clearly and Name the Responsible Party

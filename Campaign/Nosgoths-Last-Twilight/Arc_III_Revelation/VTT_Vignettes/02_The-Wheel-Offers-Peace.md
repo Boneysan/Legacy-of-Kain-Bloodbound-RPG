@@ -41,6 +41,15 @@ The Cult of the Wheel's argument is not stupid. It is emotionally true in ways t
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel like refusing relief, not just refusing doctrine.
+- Choice B should feel like pulling the mask off a pastoral philosophy and finding an intelligence operation underneath.
+- Choice C should feel intimate and risky: the party decide whether to confront doubt with care or control.
+- Choice D should feel deserved, humane, and dangerous for exactly those reasons.
+
+---
+
 ## Player Choices
 
 ### A — Reject the Premise

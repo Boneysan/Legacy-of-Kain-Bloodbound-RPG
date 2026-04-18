@@ -41,6 +41,15 @@ The Iron Echo does not award authority. It locates it — or the absence of it. 
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel like speaking power in someone else's name and then living with what they do with the answer.
+- Choice B should feel audacious: the party stop being brokers and become contenders.
+- Choice C should feel mature and unstable: refusing the chamber is often the wisest move and almost never the most comfortable one.
+- Choice D should feel like using truth as a weapon in a room built to remember who lied.
+
+---
+
 ## Player Choices
 
 ### A — Approach the Fragment as a Claimant's Representative

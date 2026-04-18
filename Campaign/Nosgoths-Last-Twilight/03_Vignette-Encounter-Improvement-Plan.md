@@ -26,7 +26,7 @@ Captures every gap between what the Detailed Consequence Matrices promise and wh
 
 ### M-1 — Breach on the Northern Ice needs 4 objective variants
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_II_Ascension/03_Breach-on-the-Northern-Ice.md`
 Matrix source: Arc II V05 — The Breach Answer (Choices A–D)
@@ -51,7 +51,7 @@ Required changes:
 
 ### M-2 — Chronoplast Claim Assault needs choice-driven variants
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_III_Revelation/01_Chronoplast-Claim-Assault.md`
 Matrix source: Arc III V03 — What the Machine Shows (Choices A–D)
@@ -79,7 +79,7 @@ Required changes:
 
 ### S-1 — Sanguine Extraction Standoff needs custody-framing variants
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_I_Awakening/06_Sanguine-Extraction-Standoff.md`
 Matrix source: Arc I V05 — Who Carries the Knot (Choices A–D)
@@ -103,7 +103,7 @@ Required changes:
 
 ### S-2 — The Healer's Smile needs vignette entry conditions
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_I_Awakening/02_The-Healers-Smile.md`
 Matrix source: Arc I V02 — The False Refuge (Choices A–D)
@@ -127,7 +127,7 @@ Required changes:
 
 ### S-3 — Cathedral Road Ambush needs Serit participation notes
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_I_Awakening/01_Cathedral-Road-Ambush.md`
 Matrix source: Arc I V01 — The Caravan Argument (Choices A–D)
@@ -150,7 +150,7 @@ Required changes:
 
 ### S-4 — Iron Echo Chamber Crisis needs approach-framing variants
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_II_Ascension/06_Iron-Echo-Chamber-Crisis.md`
 Matrix source: Arc II V03 — What Command Sounds Like (Choices A–D)
@@ -174,7 +174,7 @@ Required changes:
 
 ### S-5 — Rift-Line Emergency needs Hylden engagement toggle
 
-Status: Not started
+Status: Implemented
 
 File: `Encounters/Arc_II_Ascension/04_Rift-Line-Emergency.md`
 Matrix source: Arc II V04 — What the Glass Voice Offers (Choices A–D)

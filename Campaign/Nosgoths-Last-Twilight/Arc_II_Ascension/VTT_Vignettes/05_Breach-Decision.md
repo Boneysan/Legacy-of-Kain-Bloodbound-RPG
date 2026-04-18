@@ -41,6 +41,15 @@ The breach does not care what the party wants. It cares what the party does. Thi
 
 ---
 
+## Decision Pressure
+
+- Choice A is the cleanest emergency answer and the clearest refusal of Hylden logic, but it spends the tool and leaves the wider argument alive.
+- Choice B is the most technically sophisticated answer and the most politically radioactive one. It solves the scene by changing the world.
+- Choice C is refusal as strategy: deny everyone the strongest instrument and accept that survival is not the same as resolution.
+- Choice D is triage by abandonment: preserve the Ember for later and knowingly let the north become the price.
+
+---
+
 ## Player Choices
 
 ### A — Seal the Breach
@@ -55,7 +64,7 @@ The breach does not care what the party wants. It cares what the party does. Thi
 
 > *"And it will fail again in ten years or a hundred. The answer they call permanence."*
 
-**Outcome:** The breach is sealed for the current campaign timeline. The Rift Ember is spent — its fragment energy is locked into the seal geometry and is no longer portable or usable as a weapon. Anyone who channeled the closure takes 2 Corruption. The Ash-Glass Procession loses their primary proof-point for the moment, but Reth has already been watching and their sermon writes itself. The Hylden have gained nothing, but has lost nothing they banked on.
+**Outcome:** The breach is sealed for the current campaign timeline. The Rift Ember is spent — its fragment energy is locked into the seal geometry and is no longer portable or usable as a weapon. Anyone who channeled the closure takes 2 Corruption. The Ash-Glass Procession loses their primary proof-point for the moment, but Reth has already been watching and their sermon writes itself. The Hylden lose the opening, but the party have chosen preservation over transformation and must live with that argument later.
 
 **Tags:** `hylden_engagement: contained`, `iron_echo_status: sealed`
 
@@ -73,7 +82,7 @@ The breach does not care what the party wants. It cares what the party does. Thi
 
 > Silence. Then, quietly: *"They opened a door."*
 
-**Outcome:** The breach is redirected into a controlled passage — the Hylden scenario. This is stable but politically catastrophic: the Sarafan commander has now seen that the party negotiated with Hylden logic and will report it as collaboration regardless of the technical truth. The Accord operator's notes name the party as architects of the passage. `hylden_engagement` advances to its most complex state. Nosgoth now has a door where there was a would-be wall, and someone must guard it.
+**Outcome:** The breach is redirected into a controlled passage — the Hylden scenario. This is stable but politically catastrophic: the Sarafan commander has now seen that the party negotiated with Hylden logic and will report it as collaboration regardless of the technical truth. The Accord operator's notes name the party as architects of the passage. `hylden_engagement` advances to its most complex state. Nosgoth now has a door where there was a would-be wall, and the party own authorship of that fact.
 
 **Tags:** `hylden_engagement: negotiated`, `ash_glass_reach: proof_text`
 
@@ -91,7 +100,7 @@ The breach does not care what the party wants. It cares what the party does. Thi
 
 > *"The world still breaks. They just refused to watch it happen."*
 
-**Outcome:** The breach is not resolved but is no longer immediately exploitable. This is the most politically neutral option — no faction gets what they came for. The party exits Arc II with no active fragment from the north, but also with the breach still in the state tracker as deferred rather than settled. The Sarafan commander has no usable accusation. Hylden engagement is denied without being destroyed.
+**Outcome:** The breach is not resolved but is no longer immediately exploitable. This is the most politically neutral option — no faction gets what they came for. The party exits Arc II with no active fragment from the north, but also with the breach still in the state tracker as deferred rather than settled. The Sarafan commander has no usable accusation. Hylden engagement is denied without being destroyed, and the party must own the fact that they chose delay over solution.
 
 **Tags:** `hylden_engagement: none`, `iron_echo_status: lost` *(fragment destroyed)*
 
@@ -109,7 +118,7 @@ The breach does not care what the party wants. It cares what the party does. Thi
 
 > *"You had a means of containment and you chose not to use it."* This is not a question.
 
-**Outcome:** The breach partially opens. The Hylden gain a foothold immediately. The Rift Ember is intact but the north is permanently changed. This is the highest-risk outcome: Hylden Breach Clock hits maximum, the Sarafan pursue the party with a formal incompetence-or-collaboration charge, and the Ash-Glass Procession gains the most powerful proof-text in their history. Arc III opens with the breach as an active geopolitical crisis, not a resolved one.
+**Outcome:** The breach partially opens. The Hylden gain a foothold immediately. The Rift Ember is intact but the north is permanently changed. This is the highest-risk outcome: Hylden Breach Clock hits maximum, the Sarafan pursue the party with a formal incompetence-or-collaboration charge, and the Ash-Glass Procession gains the most powerful proof-text in their history. Arc III opens with the breach as an active geopolitical crisis, not a resolved one. This is the branch where the party save future leverage by sacrificing the present.
 
 **Tags:** `hylden_engagement: escalated`, `ash_glass_reach: convert` *(at least one NPC joins the Procession in the breach's aftermath)*, `iron_echo_status: contested`
 

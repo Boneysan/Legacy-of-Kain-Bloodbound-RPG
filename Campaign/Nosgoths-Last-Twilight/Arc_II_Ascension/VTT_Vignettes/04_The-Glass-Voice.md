@@ -41,6 +41,15 @@ The Hylden do not threaten first. They explain. The Glass Voice arrives through 
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel morally clean and technically blinder.
+- Choice B should feel like controlled contamination: the party learn something useful by allowing Hylden logic into the room.
+- Choice C should feel like the most practical question and the most dangerous answer.
+- Choice D should feel like winning the frame without escaping the bargain.
+
+---
+
 ## Player Choices
 
 ### A — Refuse Any Negotiation

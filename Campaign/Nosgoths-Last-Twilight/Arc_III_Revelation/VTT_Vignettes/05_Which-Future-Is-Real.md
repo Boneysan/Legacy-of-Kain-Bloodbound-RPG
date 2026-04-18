@@ -41,6 +41,15 @@ The Chronoplast showed two futures. The party has been walking through Arc III c
 
 ---
 
+## Decision Pressure
+
+- Choice A is the burdened continuity answer: preserve structure, accept sacrifice, and foreclose ownership.
+- Choice B is the dangerous honesty answer: say publicly that the old order is already broken and build terms for what comes next.
+- Choice C is intellectually defensible but politically costly: keep ambiguity and lose backing.
+- Choice D is not a fourth outcome. It is a way to force the party to name what kind of people they are before they choose.
+
+---
+
 ## Player Choices
 
 ### A — Commit to Future A (The Pillar Holds; the Heart Is Used as a Battery)
@@ -53,7 +62,7 @@ The Chronoplast showed two futures. The party has been walking through Arc III c
 
 > If Iriane is present: *"It's the honest choice for people who aren't certain they're right. You can revise a sacrifice. You can't revise a seizure."*
 
-**Outcome:** Arc IV opens with the party operating as balance agents. Their coalition-building is oriented toward restoration, not control. Factions that want to own the outcome will oppose them. Kain's entry in Arc IV is as an ally with a price, not an obstacle.
+**Outcome:** Arc IV opens with the party operating as balance agents. Their coalition-building is oriented toward restoration, not control. Factions that want to own the outcome will oppose them. Kain's entry in Arc IV is as an ally with a price, not an obstacle. This branch tells the table that continuity matters more than authorship.
 
 **Tags:** `party_operative_truth: balance-through-sacrifice`, `chronoplast_access: full`
 
@@ -69,7 +78,7 @@ The Chronoplast showed two futures. The party has been walking through Arc III c
 
 > Silk-Without-Moon, from near the window: *"I have spent a decade trying to get someone with standing to say that in public. I am — obscurely — moved."*
 
-**Outcome:** Arc IV opens with the party as architects of a managed transition. Their coalition is smaller but more coherent. Anti-Hylden factions become active antagonists. The Glass Voice takes a stronger role in Arc IV negotiations. The ending available to this path includes the darkest win condition and the most coherent partial success.
+**Outcome:** Arc IV opens with the party as architects of a managed transition. Their coalition is smaller but more coherent. Anti-Hylden factions become active antagonists. The Glass Voice takes a stronger role in Arc IV negotiations. The ending available to this path includes the darkest win condition and the most coherent partial success. This branch tells the table that truth may require publicly embracing the most hated answer.
 
 **Tags:** `party_operative_truth: hylden-reintegration`, `chronoplast_access: full`
 
@@ -85,7 +94,7 @@ The Chronoplast showed two futures. The party has been walking through Arc III c
 
 > Silk-Without-Moon, already leaving: *"I'll be there too. We both know which future I'm building."*
 
-**Outcome:** The party enters Arc IV without confirmed Kain-side backing. They are more agile politically but more exposed strategically. Their coalition choices in Arc IV become higher-stakes because they lack guaranteed support. The `party_operative_truth` tag records `undecided`, which activates a harder version of the coalition hall confrontation.
+**Outcome:** The party enters Arc IV without confirmed Kain-side backing. They are more agile politically but more exposed strategically. Their coalition choices in Arc IV become higher-stakes because they lack guaranteed support. The `party_operative_truth` tag records `undecided`, which activates a harder version of the coalition hall confrontation. This branch should feel like keeping moral flexibility by accepting structural weakness.
 
 **Tags:** `party_operative_truth: undecided`, `chronoplast_access: partial`
 

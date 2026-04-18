@@ -43,6 +43,15 @@ The fragment has been secured — or it nearly has been. Before Session 5 closes
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel like sovereignty with immediate weight: power, exposure, and bearer strain all stay inside the party.
+- Choice B should feel like competent institutional handling with a real future cost: the party lose direct custody but gain an ally, a lab, and a new vulnerability.
+- Choice C should feel smart, temporary, and slightly dishonest: it avoids immediate capture at the price of building the next problem in secret.
+- Choice D should feel principled and dangerous: the party gain clarity by sacrificing deniability.
+
+---
+
 ## Player Choices
 
 ### A — The Party Keeps the Sanguine Knot
@@ -99,7 +108,7 @@ The fragment has been secured — or it nearly has been. Before Session 5 closes
 
 > Let everyone speak. Make it a decision made in the open rather than decided by the party alone.
 
-**Outcome:** Serit presents the Accord position. Mera Ash presents the Guild position. If any cult-linked NPC is present, they observe rather than participate but their silence is a kind of vote. The exercise exposes irreconcilable interests faster than any interrogation has. By the end of the round, the party has more information but less tolerance for pretending the factions care about the same outcome. The fragment's custody decision defaults to whoever in the room makes the sharpest case, which is almost always Serit.
+**Outcome:** Serit presents the Accord position. Mera Ash presents the Guild position. If any cult-linked NPC is present, they observe rather than participate but their silence is a kind of vote. The exercise exposes irreconcilable interests faster than any interrogation has. By the end of the round, the party has more information but less tolerance for pretending the factions care about the same outcome. The fragment's custody decision defaults to whoever in the room makes the sharpest case, which is almost always Serit, but the real cost is that everyone now knows what the argument is about.
 
 This choice only works if Serit has `serit_trust: earned` or `guarded`; if it is `low`, she refuses to participate in a public negotiation and the vote collapses.
 

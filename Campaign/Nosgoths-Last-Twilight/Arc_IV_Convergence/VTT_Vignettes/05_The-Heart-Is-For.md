@@ -48,6 +48,15 @@ This is the last vignette. The Heart of Nosgoth is assembled, the Fulcrum has re
 
 ---
 
+## Decision Pressure
+
+- Outcome A should feel like principled expenditure: the party spend the Heart to preserve a damaged world they do not get to own.
+- Outcome B should feel like authored risk: the party use the Heart to force a new settlement that may outgrow or betray them.
+- Outcome C should feel like real restraint, not passive failure: they deny misuse at the cost of leaving the deepest questions unresolved.
+- Outcome D is not a different ending. It is a way of forcing the final declaration to answer to someone who has to live in the world after the legends are done speaking.
+
+---
+
 ## Player Choices — The Declaration
 
 The party must give a declaration. The GM uses their `party_operative_truth` tag, the `heart_purpose` tag from the Fulcrum, and the coalition's overall `coalition_shape` to calibrate which of the following outcomes is available and what it costs.
@@ -68,7 +77,7 @@ The party must give a declaration. The GM uses their `party_operative_truth` tag
 
 > Merel: *"The record will reflect that the Heart was used to restore partial structural balance in Nosgoth, at the cost of the fragment that was assembled here, and that no faction holds it, and that all coalitions present understood the terms."* She writes. *"The record is closed."*
 
-**Campaign End:** Structural continuity. The Pillars hold; the balance is not restored to what it was but it is no longer in free collapse. The party does not win the future outright — they preserve the conditions in which it can be argued over. The Hylden question remains open. The Wheel survives as a philosophy, reduced. Reth's Procession disperses slowly without active hostility. What the party built is a world that will need tending, not a world that is finished. That is the honest version of this win.
+**Campaign End:** Structural continuity. The Pillars hold; the balance is not restored to what it was but it is no longer in free collapse. The party does not win the future outright — they preserve the conditions in which it can be argued over. The Hylden question remains open. The Wheel survives as a philosophy, reduced. Reth's Procession disperses slowly without active hostility. What the party built is a world that will need tending, not a world that is finished. This is the ending for a party willing to spend power rather than inherit it.
 
 **Tags:** `heart_purpose: spent-for-balance`, `hylden_gate_resolution: deferred`, `wheel_final_state: reduced-surviving`
 
@@ -88,7 +97,7 @@ The party must give a declaration. The GM uses their `party_operative_truth` tag
 
 > Merel: *"The record will reflect that the Heart was used to activate a conditional Gate opening on recorded terms, with stated Hylden commitment and documented opposition from the Wheel."* She writes. *"The record is closed."*
 
-**Campaign End:** The most ambitious outcome and the most fragile. Hylden return to Nosgoth under negotiated conditions. The party has either made a catastrophic historical error or a necessary structural correction — and the campaign ends before that becomes fully clear, which is honest. The world that follows is more dangerous, more alive, and more attended by people who know what was decided and why.
+**Campaign End:** The most ambitious outcome and the most fragile. Hylden return to Nosgoth under negotiated conditions. The party has either made a catastrophic historical error or a necessary structural correction — and the campaign ends before that becomes fully clear, which is honest. The world that follows is more dangerous, more alive, and more attended by people who know what was decided and why. This is the ending for a party willing to be hated for making a livable future.
 
 **Tags:** `heart_purpose: gate-opened-negotiated`, `hylden_gate_resolution: open-on-terms`, `wheel_final_state: opposing-surviving`
 
@@ -110,7 +119,7 @@ The party must give a declaration. The GM uses their `party_operative_truth` tag
 
 > Reth, from the back, quietly: *"I've been in rooms where people chose not to decide, and they always thought they were choosing something. They were. Just not what they thought."*
 
-**Campaign End:** The most Pyrrhic outcome. The party has not failed, but they have not resolved. The Pillars continue their slow decline. The Hylden question remains unaddressed. The factions disperse without a concluded coalition. But the Heart is not weaponized by the wrong party, and that is real. The world the party leaves behind is the same world they entered — slightly more documented, slightly more aware of what the question is, no closer to answering it.
+**Campaign End:** The most Pyrrhic outcome. The party has not failed, but they have not resolved. The Pillars continue their slow decline. The Hylden question remains unaddressed. The factions disperse without a concluded coalition. But the Heart is not weaponized by the wrong party, and that is real. The world the party leaves behind is the same world they entered — slightly more documented, slightly more aware of what the question is, no closer to answering it. This is the ending for a party that values denial of abuse over authorship of the future.
 
 **Tags:** `heart_purpose: foreclosed`, `hylden_gate_resolution: sealed`, `wheel_final_state: default-surviving`
 

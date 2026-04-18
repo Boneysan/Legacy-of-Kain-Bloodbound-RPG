@@ -41,6 +41,15 @@ Both claimants need something from the party, and the fortress is watching. Befo
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel like accepting patronage in exchange for access.
+- Choice B should feel like trying to stay useful to everyone without belonging to anyone.
+- Choice C should feel clean in principle and immediately costly in practice.
+- Choice D should feel righteous and dangerous: the party gain independence by embarrassing power in public.
+
+---
+
 ## Player Choices
 
 ### A — Accept and Complete the Task As Requested

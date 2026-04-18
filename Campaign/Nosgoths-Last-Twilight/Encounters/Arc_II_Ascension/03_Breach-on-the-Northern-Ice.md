@@ -22,8 +22,40 @@
 
 - Shut the breach, save the possessed, or retreat with proof of Hylden escalation.
 
+## State-Conditional Objectives
+
+### Choice A — Seal-Hold Finish
+
+- Objective: stabilize the pylons and close the breach before the Shock Troopers can break the line.
+- Terrain change: every successful stabilization action quiets one section of glyph-static and makes coordination easier.
+- Success condition: 3 stabilization successes before 2 pylon failures.
+- Failure condition: the breach remains open long enough to force retreat or possession spread.
+
+### Choice B — Door-Building Crisis
+
+- Objective: convert one pylon into a controlled passage node, then hold the perimeter while the boundary locks into its new geometry.
+- Terrain change: once the passage node is established, the battlefield becomes narrower but more politically alarming; enemies try to force uncontrolled widening.
+- Success condition: 1 successful redirect action plus 2 hold rounds after the redirect completes.
+- Failure condition: the redirect becomes an uncontrolled permanent tear or collapses back into open breach violence.
+
+### Choice C — Denial-And-Survival Scene
+
+- Objective: destroy the Ember, collapse immediate leverage, and withdraw with survivors before the front implodes.
+- Terrain change: destroying the Ember triggers backlash, worsens footing, and turns the encounter into retreat-under-fire rather than site control.
+- Success condition: the party destroy the instrument and get at least half the group plus one proof-bearing witness out.
+- Failure condition: the Ember is lost intact, or the withdrawal becomes a rout with no usable account of what happened.
+
+### Choice D — Catastrophe Management
+
+- Objective: limit casualties and prevent the worst chain failures after the party choose not to intervene with the Ember.
+- Terrain change: breach pressure escalates each round; collapsing ice, Soul Override attempts, and civilian or allied exposure should intensify instead of plateau.
+- Success condition: the party preserve a retreat corridor and prevent total annihilation.
+- Failure condition: the zone becomes an unrecoverable Hylden beachhead on this scene's timeline.
+
 ## Running Notes
 
 - Run the Shock Troopers as a telepathic pair rather than two separate bruisers.
 - Use the terrain to isolate PCs and threaten Soul Override on downed bodies.
 - If the party solve the node problem intelligently, let that matter more than killing both Troopers.
+- If `hylden_engagement: negotiated`, the redirect objective is real and legible. If it is `none`, do not quietly leave the same option on the table.
+- For catastrophe mode, add reinforcement pressure or environmental collapse at the end of each round rather than inflating enemy HP.

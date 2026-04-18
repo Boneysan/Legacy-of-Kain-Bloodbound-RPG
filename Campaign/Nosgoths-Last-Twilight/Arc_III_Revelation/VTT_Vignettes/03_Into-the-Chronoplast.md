@@ -41,6 +41,15 @@ The Chronoplast does not lie. It shows two or more things that are all true, sim
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel rigorous and communal: the party agree to bear the same wound together.
+- Choice B should feel suspicious in the best way: before asking what the future is, ask who touched the machine.
+- Choice C should feel reckless, intimate, and honest.
+- Choice D should feel epistemically mature and operationally weaker.
+
+---
+
 ## Player Choices
 
 ### A — View Both Futures and Make the Choice Together

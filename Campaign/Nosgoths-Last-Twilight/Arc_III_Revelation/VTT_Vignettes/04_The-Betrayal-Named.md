@@ -40,6 +40,16 @@ The betrayal in Arc III does not arrive as a villain reveal. It arrives as an ex
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel like moral restraint: listen first, judge after.
+- Choice B should feel like keeping a damaged tool because the work ahead is worse without it.
+- Choice C should feel like truth without reconciliation.
+- Choice D should feel like turning pain into evidence and evidence into war.
+- Choice E should feel merciful and dangerous, because the honest answer may implicate the party too.
+
+---
+
 ## Player Choices
 
 ### A — Hear the Full Account Before Judging

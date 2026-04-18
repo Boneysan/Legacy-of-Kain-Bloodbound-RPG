@@ -45,6 +45,15 @@ The campaign has been moving toward this convergence since the first road split.
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel strong and fragile: unity is power only if it survives contact.
+- Choice B should feel honest and strategically poor.
+- Choice C should feel adult: the party admit the fracture and choose function anyway.
+- Choice D should feel like accepting that coalition structure matters as much as coalition ideology.
+
+---
+
 ## Player Choices
 
 ### A — We Decided Together. One Account.

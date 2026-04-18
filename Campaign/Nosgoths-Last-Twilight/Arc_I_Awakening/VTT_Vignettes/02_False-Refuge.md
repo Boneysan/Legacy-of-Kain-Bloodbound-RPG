@@ -45,6 +45,15 @@ Hospitality in Nosgoth is never free. When Brother Halden opens the waystation d
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel like giving in to need. The refuge is exactly what exhausted people would choose if they wanted to survive the night.
+- Choice B should feel like controlled paranoia: accept mercy, but not on anyone else's terms.
+- Choice C should feel morally justified and socially dangerous: if the party are right, they save lives; if they are wrong or premature, they create the panic the cult wants.
+- Choice D should feel tactically smart and relationally costly: splitting gains truth and loses cohesion.
+
+---
+
 ## Player Choices
 
 ### A — Accept Sanctuary Fully

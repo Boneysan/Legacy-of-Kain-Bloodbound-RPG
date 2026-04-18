@@ -40,6 +40,15 @@ By the time Ash-Glass Reth arrives with this question, the Procession is not sma
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel like defending structure in front of the people structure failed.
+- Choice B should feel morally right only if the mechanism is real.
+- Choice C should feel like taking Reth seriously enough to let them change the argument.
+- Choice D should feel like naming the blood cost without pretending the party are free of one.
+
+---
+
 ## Player Choices
 
 ### A — We're Offering Them a Future That Has a Structure

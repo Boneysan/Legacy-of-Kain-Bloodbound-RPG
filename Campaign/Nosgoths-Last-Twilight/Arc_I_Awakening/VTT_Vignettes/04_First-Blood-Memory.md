@@ -44,6 +44,15 @@ The relic does not announce itself. It identifies. One character feels something
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel private and defensive: survival through secrecy.
+- Choice B should feel like asking to be cataloged by the only expert available.
+- Choice C should feel like surrendering to recognition rather than resisting it.
+- Choice D should feel like deciding that trust inside the party matters more than control over the secret.
+
+---
+
 ## Player Choices
 
 ### A — Resist It and Say Nothing

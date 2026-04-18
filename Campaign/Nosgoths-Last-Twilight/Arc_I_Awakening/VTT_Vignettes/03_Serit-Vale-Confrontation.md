@@ -40,6 +40,15 @@ After the ambush, the party has standing to ask for the truth. Serit Vale has be
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel like forcing a boundary: the party are done being managed and are willing to pay for clarity.
+- Choice B should feel like professionalism answering professionalism: give Serit room and see whether she earns it.
+- Choice C should feel like leverage with a hidden bill attached: if the party make this adversarial, Serit will stop treating them like partners.
+- Choice D should feel like crossing a threshold that cannot be uncrossed: once the party prove blood-sensitivity, they stop being couriers and become part of the file.
+
+---
+
 ## Player Choices
 
 ### A — Demand Full Disclosure Now

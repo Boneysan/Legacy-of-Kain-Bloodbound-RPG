@@ -42,6 +42,15 @@ The Black Fulcrum is not a faction. It is an assessment. When the balance-releva
 
 ---
 
+## Decision Pressure
+
+- This scene should feel like the point where rhetoric stops working.
+- Confident answers help only if they are specific enough to survive cross-pressure.
+- Honest uncertainty is safer here than polished evasion.
+- Refusal is a choice to proceed without recognition, not a dodge that avoids the cost.
+
+---
+
 ## The Examination (Player Choices)
 
 This scene does not use discrete A/B/C/D selections. The party’s *choices* are how they respond to Merel’s three questions: with confidence, with honesty, with evasion, or with refusal. The response type tables below are the choice framework. Each question is a discrete engagement beat; the Fulcrum finding at the end reflects the aggregate.

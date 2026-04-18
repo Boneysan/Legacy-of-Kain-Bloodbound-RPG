@@ -40,6 +40,15 @@ The contradiction from Arc II does not wait for a convenient moment. This scene 
 
 ---
 
+## Decision Pressure
+
+- Choice A should feel like choosing analysis over fear.
+- Choice B should feel like following evidence into the place it least wants to be followed.
+- Choice C should feel disciplined and isolating.
+- Choice D should feel like admitting the calmest person in the room is probably the most dangerous one.
+
+---
+
 ## Player Choices
 
 ### A — Focus on the Arc II Contradiction Immediately
