@@ -62,7 +62,7 @@ Echo Serpents are the spectral remnants of great serpents that died in places of
 **Spectral Bite** (Action)
 - **Dice Pool:** Fury 3 + 0 = 3d6
 - **Damage:** 5 Spectral damage (ignores Physical Armor)
-- **Special:** Target must make DR 2 Will save or suffer Soul Drained (max SE reduced by 2 until short rest)
+- **Special:** Target must make DR 2 Will save or suffer **Soul Drain** (max SE also reduced by 2 until short rest)
 
 **Coiling Grasp** (Action, requires hit with Spectral Bite)
 - **Effect:** Target becomes **Grappled** and **Restrained** by spectral coils. The target takes 3 automatic Spectral damage at the start of each turn while held.
@@ -120,7 +120,7 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 
 **Spectral Claws** (Action)
 - **Dice Pool:** Shadow 4 + 0 = 4d6
-- **Damage:** 6 Spectral damage + 3 Soul Drained effect
+- **Damage:** 6 Spectral damage + **Soul Drain** ×3 (target loses 3 SE)
 - **Special:** **Multiattack:** The Mirror Wraith makes two Spectral Claw attacks as a single Attack action.
 
 **Life Echo** (Action, Recharge 5-6)
@@ -907,7 +907,7 @@ The Echo of Kain is not Kain himself, but a pressure-mark left on reality by his
 
 **Phase II — The Damned Sovereign:** When the Echo is reduced to 50% HP or below, it immediately uses Blood Omen Surge as a free action if it has not already used it this phase, and its attacks inflict **Bleeding** for the rest of the encounter. If it is reduced from above 50% HP to 0 HP by a single attack, Phase II triggers first and the Echo remains at 1 HP through Inevitable.
 
-**Spectral Tyrant:** Resistant to Physical, Fire, Cold, and Shadow damage. Immune to poison, fear, charm, stun, petrification, and Bleeding.
+**Spectral Tyrant:** Resistant to Physical, Fire, Cold, and Shadow damage. Immune to poison, fear, charm, Stunned, petrification, and Bleeding.
 
 **Unceasing Pressure:** Creatures that start their turn within 10 feet of the Echo take 1 Spectral damage unless they succeed on a DR 3 Will save.
 

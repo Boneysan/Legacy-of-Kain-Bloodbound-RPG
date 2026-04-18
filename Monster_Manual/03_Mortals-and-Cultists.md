@@ -130,7 +130,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 **Corrupted Smite** (Soul 4 + Lore 3 = 7d6)
 - Range: 20 feet
 - Damage: 4 Spectral damage on success
-- Effect: Target must pass a DR 2 Will save or be Shaken (Disadvantage on next attack roll).
+- Effect: Target must pass a DR 2 Will save or be **Shocked** (Disadvantage on next action).
 
 **Dark Blessing** (Soul 4 + Lore 3 = 7d6, Recharge 5-6)
 - Range: 30 feet (ally or self)
@@ -368,7 +368,7 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 **Rusty Axe** (Fury 3 + Weapon Mastery 2 = 5d6)
 - Range: Weapon Mastery
 - Damage: 4 Physical damage on success
-- Effect: On Critical Hit (3+ successes), the target begins Bleeding (1 Physical damage at the start of each turn until they spend an action and pass a DR 1 Focus + Craft check to stop it, or receive magical healing).
+- Effect: On Critical Hit (3+ successes), the target begins **Bleeding**.
 
 **Shortbow Ambush** (Focus 2 + Tactics 3 = 5d6)
 - Range: 30 feet
@@ -886,7 +886,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 **Rending Claws** (Fury 5 + Unarmed Combat 3 = 8d6)
 - Range: Weapon Mastery
 - Damage: 8 Physical (Slashing) + Bleeding
-- Effect: On Critical Hit (3+ successes), inflicts 2 Bleeding stacks (4 damage at the start of each turn). The Turning's newly formed claws are ragged and tear flesh in jagged strips.
+- Effect: On Critical Hit (3+ successes), inflicts **Bleeding** (4 damage). The Turning's newly formed claws are ragged and tear flesh in jagged strips.
 
 **Desperate Bite** (Fury 5 + Unarmed Combat 3 = 8d6, requires target is Grappled or Prone)
 - Range: Weapon Mastery
@@ -896,7 +896,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 **Blood Cry** (Blood 4 + 0 = 4d6, 20-foot radius, Recharge 5-6)
 - Range: Self-centered, 20-foot radius
 - Damage: None
-- Effect: All enemies in the radius must make a DR 3 Will save or be **Frightened** for 1 round. Creatures that fail by 3+ are also **Shaken** (−1 die on all rolls) for 2 rounds. The cry is a harrowing blend of human screaming and vampiric shrieking.
+- Effect: All enemies in the radius must make a DR 3 Will save or be **Frightened** for 1 round. Creatures that fail by 3+ are also **Shaken** for 2 rounds. The cry is a harrowing blend of human screaming and vampiric shrieking.
 
 ### Abilities
 **Unstable Form**: At the start of each of the Turning's turns, roll 1d6:

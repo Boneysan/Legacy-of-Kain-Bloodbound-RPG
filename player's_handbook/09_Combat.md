@@ -244,7 +244,7 @@ Exceptional skill or catastrophic missteps shape Nosgoth’s battles.
 
 - **Critical Hit**: In combat, a Critical Hit is achieved by **exceeding the target's DV by 2 or more successes**. This represents a perfectly placed strike or dominating advantage, granting one of the following benefits:
   - **Bonus Damage**: Deal extra damage (e.g., +2, or the weapon's base damage again).
-  - **Potent Effect**: Apply a powerful status effect associated with the damage type (e.g., *Stun* the target for one round).
+  - **Potent Effect**: Apply a powerful status effect associated with the damage type (e.g., **Stunned** for one round).
   - **Bypass Armor**: The attack ignores all of the target's physical armor.
   - **GM's Discretion**: The GM may introduce a unique narrative outcome, such as dismembering a limb or destroying a held item.
 

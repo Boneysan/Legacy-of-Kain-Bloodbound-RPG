@@ -209,7 +209,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **Action:** 1 Action
 - **Range:** 20ft
 - **Dice Pool:** Shadow 6 + 4 = 10d6
-- **Damage:** 12 Physical (Slashing) Damage and 5 Cold Damage. The target begins **Bleeding**, taking 3 damage at the start of their turn until they receive healing or spend an action to staunch the wound.
+- **Damage:** 12 Physical (Slashing) Damage and 5 Cold Damage. The target begins **Bleeding** (3 damage).
 
 **2. Sanguine Vortex (Aura / Active Ability)**
 - **Action:** 1 Action to activate or deactivate

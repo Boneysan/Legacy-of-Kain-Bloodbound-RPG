@@ -674,7 +674,7 @@ Drones are often the first encounter players have with Hylden technology. Their 
 **Obsidian Shard** (Focus 3 + Weapon Mastery 2 = 5d6)
 - Range: 30 feet
 - Damage: 3 Physical damage
-- Effect: The Drone fires a shard of obsidian. On Critical Hit (3+ successes), the target is **Bleeding** (1 Physical damage at the start of each turn).
+- Effect: The Drone fires a shard of obsidian. On Critical Hit (3+ successes), the target is **Bleeding**.
 
 **Divebomb** (Fury 2 + Weapon Mastery 1 = 3d6, once per turn if the Drone flew at least 10 feet)
 - Range: Weapon Mastery (charge attack)

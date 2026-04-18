@@ -259,7 +259,7 @@ Many creatures inflict status effects tied to damage types (see **Core Mechanics
 - **Bleeding:** Ongoing damage from Piercing/Slashing
 - **Burning:** Fire damage over time
 - **Stunned:** Lost actions from Bludgeoning/Force
-- **Soul Drained:** Reduced max SE from Spectral damage
+- **Soul Drain:** Target loses 1 SE (Spectral damage); powerful Spectral creatures may add riders that also reduce max SE
 - **Corrupted:** Vulnerability and corruption gain
 
 ### Action Economy

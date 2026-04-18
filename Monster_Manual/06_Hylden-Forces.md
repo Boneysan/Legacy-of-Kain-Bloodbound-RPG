@@ -276,7 +276,7 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 
 **Unnatural Resilience**: The Abomination ignores the first instance of being reduced to 0 HP each encounter (it just keeps moving, horror movie style). It collapses on the second instance.
 
-**Terror Presence**: Creatures seeing the Abomination for the first time must pass a DR 2 Will save or be **Weakened** (−1 die on next attack roll) due to its horrific appearance.
+**Terror Presence**: Creatures seeing the Abomination for the first time must pass a DR 2 Will save or be **Shaken** for 1 round due to its horrific appearance.
 
 **Behavior Tags:** brute
 
@@ -344,7 +344,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 **Corruption Wave** (Soul 3 + Corruption 3 = 6d6, Recharge 6, costs 2 SE)
 - Range: 20-foot radius centered on the Host
 - Damage: 4 Entropic damage to all creatures in the radius
-- Effect: Targets must pass a DR 3 Will save or be **Weakened** (−1 die on all rolls for 2 rounds, as Hylden whispers fill their minds).
+- Effect: Targets must pass a DR 3 Will save or be **Shaken** for 2 rounds as Hylden whispers fill their minds.
 
 ### Abilities
 **Partial Ethereal Mastery**: The Host is between mortal and Hylden. They're immune to Corruption effects (already saturated) but vulnerable to Radiant damage (+2 damage).
@@ -1336,7 +1336,7 @@ When their handler is killed, the psychic tether snaps, and the War-Stalker ente
 - **Dice Pool:** Fury 4 + Athletics 2 = 6d6 (GM may use Athletics 3 as the skill)
 - **Range:** Weapon Mastery
 - **Damage:** 7 physical (Slashing)
-- **Effect:** On a critical hit (3+ successes), target is Bleeding (2 physical damage at the start of each turn until treated)
+- **Effect:** On a critical hit (3+ successes), target is **Bleeding** (2 damage).
 
 **Hylden Bile Spit** (Action, costs 4 SE)
 - **Dice Pool:** Focus 2 + Weapon Mastery 2 = 4d6

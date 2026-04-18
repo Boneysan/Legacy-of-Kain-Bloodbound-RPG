@@ -154,7 +154,7 @@ Drakes are solitary hunters, but mated pairs will defend their nests to the deat
 **Bite** (Fury 4 + Weapon Mastery 3 = 7d6)
 - Range: Weapon Mastery
 - Damage: 8 Physical damage on success
-- Effect: On Critical Hit (3+ successes), the target is **Bleeding** (2 Physical damage at the start of each turn until healed or bandaged with DR 2 Focus + Craft check).
+- Effect: On Critical Hit (3+ successes), the target is **Bleeding** (2 damage).
 
 **Flame Breath** (Soul 2 + Weapon Mastery 4 = 6d6, Recharge 5-6)
 - Range: 30-foot cone
@@ -597,7 +597,7 @@ Their most unsettling trait is their ability to seemingly vanish mid-combat, onl
 **Phase Claws** (Fury 4 + Observation 4 = 8d6)
 - Range: Weapon Mastery
 - Damage: 6 Physical + 3 Spectral damage (claws phase through armor)
-- Effect: This attack ignores DR from armor. On Critical Hit (3+ successes), the target is **Bleeding** (2 Physical damage at the start of each turn) and **Shaken** (Disadvantage on next attack).
+- Effect: This attack ignores DR from armor. On Critical Hit (3+ successes), the target is **Bleeding** (2 Physical damage at the start of each turn) and **Shocked** (Disadvantage on next action).
 
 **Pounce from Nowhere** (Fury 4 + Stealth 5 = 9d6, Recharge 5-6)
 - Range: 30 feet (teleport attack)

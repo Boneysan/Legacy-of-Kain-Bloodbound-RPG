@@ -1213,7 +1213,7 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 - **Summon Zealot (2 actions, 1/encounter):** One Fracture Zealot (TV 5) tears through a dimensional breach and arrives within 30 feet.
 
 ### Lair Action
-**Dimensional Seam:** On initiative count 20, the boundary between realms tears open at a random 15-foot radius zone within the encounter area. Creatures in the zone are Deafened (-1 die on Focus checks) until they leave the area or the Void-Touched is defeated.
+**Dimensional Seam:** On initiative count 20, the boundary between realms tears open at a random 15-foot radius zone within the encounter area. Creatures in the zone are **Deafened** until they leave the area or the Void-Touched is defeated.
 
 **Behavior Tags:** boss, controller, phase_shifter
 
