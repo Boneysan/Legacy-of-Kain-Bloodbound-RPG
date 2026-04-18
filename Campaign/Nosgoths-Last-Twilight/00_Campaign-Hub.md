@@ -5,6 +5,8 @@ This folder breaks the campaign into usable GM support files.
 ## Structure
 
 - 01_Design-Review-Notes.md: Lore and arc-structure improvement notes for future campaign revisions.
+- 05_Skill-Check-Recommendations.md: Suggested places to formalize scene-facing skill checks and DRs across all four arcs.
+- 06_GM-Story-Overview.md: One-document campaign narrative spine for the GM, including arc-level choices and consequences.
 - 02_Vignette-Control-Index.md: One-page links to each arc's vignette flow matrix and any detailed choice-consequence matrix.
 - Arc_I_Awakening: Early campaign pressure, Avernus, the Blood-Well, and first faction commitments.
 - Arc_II_Ascension: Fortress politics, clan legitimacy, and the northern Hylden breach.

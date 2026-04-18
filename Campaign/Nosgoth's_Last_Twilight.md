@@ -25,6 +25,7 @@ Use this section to keep the campaign's shape in view while the details begin to
 - Legendary figures to anchor: use the NPC Compendium for Kain, Vorador, and Moebius; use World Primer legendary figure entries for Janos Audron and Ariel.
 - Strong party composition: include at least one character with Spectral access or affinity, one with blood or glyph expertise, and one whose loyalty to a major faction can be tested in public.
 - Prophetic threads to track: The Abyssal Heart, The Return of the Hylden Core, The Scion of Balance, The Reflected Path, and The Silent Moons.
+- Arc-to-arc trackers: before starting a new arc, update the Last Witness, Balance Reckoning, Kain Contract, and which faction now treats the party's answer as proof of its worldview.
 - Supporting files: use the Nosgoths-Last-Twilight folder for arc prep, relic dossiers, and faction trackers.
 
 ## The Abyssal Heart
@@ -74,7 +75,10 @@ Keep the layers of Avernus distinct. The place is powerful precisely because eac
 - Janos Audron: His legacy saturates Avernus, the Blood-Well, and any fragment tied to blood-memory, grace, or ancestral theft.
 - Ariel: Use her as a spectral conscience at Pillar sites, especially when the party confuse necessity with righteousness.
 - Moebius: Even dead, his architecture, archives, and manipulated truths define the Chronoplast arc.
-- A wandering Warden or Balance-minded adjudicator should appear before Arc IV so the Hall of Equilibrium feels like the end of an argument already in motion, not a new argument introduced at the finish.
+- Vicar Oren Bale: The Wheel's Arc III counselor, useful when you want surrender to sound pastoral, merciful, and emotionally intelligent rather than overtly sinister.
+- Black Marshal Sevran: Kain's intermediary in Arc III and Arc IV whenever Kain should remain pressure rather than presence.
+- Warden Asha Merel: The Balance-minded examiner who gives the Hall of Equilibrium a human voice and turns coalition accountability into a real scene rather than abstract judgment.
+- Sepulcher-Mother Elain: The Wheel's senior endgame voice. Name her once during Arc III so her arrival at the Heath does not feel invented at the finish.
 
 Source note for the GM:
 
@@ -90,6 +94,14 @@ Use these deliberately across all four arcs so the campaign reads like sequel co
 - The Last Witness is an inherited role, not a preauthored cameo. At the end of each arc, name the current ordinary survivor who can still speak what the fragment cost without faction varnish.
 - Kain's presence in Arc IV is a narrative contract, not a secret reward. He may appear only if the party commit to one operative truth the Heart can use and prevent any single faction from owning that answer outright.
 
+## Continuity Tracker Guidance
+
+- Last Witness: Update at the end of each arc. The bearer should be an ordinary survivor who can still speak the fragment's cost plainly.
+- Balance Reckoning: Advance it whenever fragment use preserves order through domination, humiliation, or metaphysical violence. Show it as withdrawn grace, not as a second Corruption meter.
+- Kain Contract: Update it at the end of Arc III as `Open`, `At Risk`, or `Closed`. `Open` if the party commit to one operative truth and do not let any single faction own it. `At Risk` if the truth is committed but one bloc is close to monopoly. `Closed` if the party hedge, refuse commitment, or hand the answer to one side.
+- Reaver-Wound: Seed it in each arc as evidence, absence, and wrongness. Never let it become straightforward aid.
+- Faction Story Pressure: After any major public fallout, decide which faction now calls the party's solution proof of its worldview and which faction treats it as unforgivable trespass.
+
 ## Lores and Philosophical Pressure
 
 - The Wheel of Fate should shape funerary rites, public resignation, and the quiet horror of people who still believe inevitability is mercy.
@@ -104,7 +116,7 @@ Use these deliberately across all four arcs so the campaign reads like sequel co
 - Hylden Remnants: The Rift Ember is the most obvious route toward weakening the dimensional binding. The Remnants will bargain, manipulate, and possess to get it, usually through the patient voice of Architect-Savant Merakesh, whose civility makes his treachery more dangerous. By Arc II, the party should be confronted with evidence the Accord cannot refute that at least one present Pillar corruption is backpressure from an injustice the Ancients knowingly codified into the prison-binding. The Hylden are not redeemed by that truth, but they are no longer dismissible.
 - Pale Accord: The Accord view the fragments as field evidence for how Pillar corruption behaves under pressure. Some Chapters want restoration; others want controlled exploitation. Their most visible authority should be Provost Cala Merrow, a field scholar whose measured tone can conceal either restraint or sanctioned trespass.
 - Crimson Fracture: They believe the Heart can wound the barrier between Material and Spectral permanently, making the Great Merge more than ideology. Their recurring operational face is the Ash-Glass Procession, a roaming breach-cult of scarred converts and feral escorts field-led by Ash-Glass Reth and spiritually backed by Elder Seripha. Their cells should appear before Arc III as whispers, deserters, and examples of people who now prefer fracture to order.
-- Cult of the Wheel: The Elder God cannot allow any force that might break the Wheel or route souls away from its hunger. The cult's ideal outcome is burial, secrecy, and compliance, preached softly by Grave-Reader Pell, a funeral keeper whose gentleness makes surrender sound merciful.
+- Cult of the Wheel: The Elder God cannot allow any force that might break the Wheel or route souls away from its hunger. The cult's ideal outcome is burial, secrecy, and compliance. Let that logic appear first through local keepers and funerary gentleness, then take articulate form in Arc III through Vicar Oren Bale. If the party break the Wheel's softer face or weaponize the corrected northern breach record publicly, let Sepulcher-Mother Elain replace Bale as the Wheel's final voice at the Heath.
 - Outlands Guilds: The Guilds want routes, maps, salvage rights, and deniable leverage. They will transport anyone, hide anything, and sell fragment intelligence to multiple buyers, often through Marrow-Jack Seln, a smiling caravan prince who treats catastrophe as a market correction.
 - Cult of Hash'ak'gik: The demon does not merely want the Heart possessed. It wants the Heart profaned, so that any final choice is made through panic, sacrifice, and spiritual contamination. Mother Vhalis should stand as that profanation's human mask: healer, confessor, and usher toward damnation.
 
@@ -124,8 +136,8 @@ Use these deliberately across all four arcs so the campaign reads like sequel co
 |:---|:---|:---|:---|:---|:---|
 | Awakening | 3-5 | Road to Avernus, Avernus Cathedral, Blood-Well | Survive the opening convergence, identify the Sanguine Knot, choose first faction contacts, learn the Heart prophecy | Hash'ak'gik cult cells, outland scavengers, local Sarafan patrols | Secure the first fragment, expose or survive a Vessel, establish a lasting alliance or enmity |
 | Ascension | 6-10 | Dumah's Fortress, eastern wastes, Hylden Gate approaches | Claim or deny the Iron Echo, then pursue the Rift Ember before the Hylden or Pale Accord can lock it down | Clan warbands, Sarafan inquisitors, Hylden Shock Troopers | Resolve the fortress succession crisis, survive a breach event, determine whether the northern seal is strengthened or weakened |
-| Revelation | 11-15 | The Chronoplast, the Citadel's political shadow, deep Spectral crossings | Recover the Chronal Shard, uncover the Heart's true function, confront Moebian manipulation and Wheel interference | Cult of the Wheel, Crimson Fracture operatives, time-scarred guardians | Learn what the Heart can actually do, survive a paradox encounter, decide whether Kain is being aided, resisted, or tested |
-| Convergence | 16-20 | Pillar Heath, Hall of Equilibrium, final Heart site | Assemble the Black Fulcrum, decide the Heart's final use, determine how the Hylden Gate and Wheel are addressed | Every surviving faction, with one chosen final coalition | Take the final fragment, survive the endgame convergence, impose the party's answer on Nosgoth |
+| Revelation | 11-15 | The Chronoplast, the Citadel's political shadow, deep Spectral crossings | Recover the Chronal Shard, adjudicate the corrected northern breach record, uncover the Heart's true function, and confront Moebian manipulation and Wheel interference | Cult of the Wheel, Crimson Fracture operatives, time-scarred guardians | Survive a paradox encounter, resolve or weaponize the corrected northern breach record, commit to one operative truth or enter Arc IV without one |
+| Convergence | 16-20 | Pillar Heath, Hall of Equilibrium, final Heart site | Assemble the Black Fulcrum, decide what the complete Heart is for, and determine how the Hylden Gate and Wheel are addressed in the same final equation | Every surviving faction, with one chosen final coalition | Choose the final coalition by action, decide the Wheel and breach relationship in practice, impose the party's answer on Nosgoth |
 
 ### Arc I: Awakening
 
@@ -153,26 +165,33 @@ Important beats:
 
 ### Arc III: Revelation
 
-Arc III is where the campaign stops being about possession and becomes about interpretation. The Chronoplast should not offer clean answers. It should show incompatible truths, futures that cannot coexist, and the possibility that the Heart is as much a test of judgment as a power source. The party should arrive because Arc II produced a contradiction no commander, priest, or scholar could settle any other way.
+Arc III is where the campaign stops being about possession and becomes about interpretation. The party should arrive because Arc II produced an impossible contradiction: the public northern record says Hylden pressure or party breach logic drew first blood at the Resonance Pillar, while the corrected record shows a Sarafan containment volley under Scout-Confessor Maelin Rook's authority hit the Accord working ring first. The Chronoplast should not offer clean answers. It should show incompatible truths, futures that cannot coexist, and the possibility that the Heart is as much a test of judgment as a power source. By arc end, the party should have either committed to one operative truth the Heart can use or accepted the structural weakness that comes from refusing to do so.
 
 Important beats:
 
-- The party enter the Chronoplast knowing one betrayal and leave suspecting three.
+- The party enter a zone where time and memory no longer agree.
+- They arrive carrying the corrected northern breach record, and it must be tested against the Chronoplast rather than merely asserted.
 - The Cult of the Wheel tries to convert despair into obedience rather than simply attacking.
+- The Chronal Shard reveals at least two mutually exclusive futures, one of them Reaver-shaped and wrong in a way the Wheel notices.
 - The Crimson Fracture present the most seductive version of false liberation in the campaign.
+- A betrayal resolves around the reversed Resonance Pillar first-blood sequence, clarifying one arc while complicating the endgame.
 - The party learn that restoring the Heart does not end choice; it concentrates it.
-- The party should leave with one operative truth committed clearly enough that Arc IV can judge them by it rather than by ambiguity alone.
+- The party should leave with one operative truth committed clearly enough that Arc IV can judge them by it, or with the visible weakness that comes from refusing that commitment.
 
 ### Arc IV: Convergence
 
-Arc IV should feel mythic, political, and unsparing. Every surviving promise, oath, and wound should return at the Pillar Heath. The final choice is not whether the party are powerful enough to act. It is whether they can live with the shape of the world after they do.
+Arc IV should feel mythic, political, and unsparing. Every surviving promise, oath, and wound should return at the Pillar Heath. The party gather with whatever coalition they have managed to build, and the Hall of Equilibrium should test whether that coalition is real enough to be accountable before the Black Fulcrum lets anyone declare what the Heart is for. The final choice is not whether the party are powerful enough to act. It is whether they can live with the shape of the world after they do and defend that answer in front of both the dead and the living.
+
+The endgame should be anchored by four presences: the current Last Witness bearer as ground-level consequence, Warden Asha Merel as the Hall's examining voice, Sepulcher-Mother Elain as the Wheel's senior answer to the party's choice, and Black Marshal Sevran whenever Kain remains offstage. Those figures keep the finale from collapsing into armies and abstractions.
 
 Possible final outcomes:
 
 - Seal the Heart and strengthen the road toward Pillar restoration, buying Nosgoth time but leaving old powers alive.
-- Use the Heart to wound the Wheel directly, damaging the Elder God's hold at catastrophic regional cost.
+- Use the Heart to wound the Wheel directly, damaging the Elder God's hold at catastrophic regional cost and risking wider breach instability.
+- Stabilize the Hylden breach network first, preserving the world materially while leaving the Wheel stronger and the deeper tyranny less broken.
 - Reforge the Heart into a factional instrument, creating a dark age ruled by whichever coalition wins the field.
-- Break the Heart permanently, denying everyone its use while scattering corruption and prophecy into the land anew.
+- Accept a catastrophic merge or fracture, rejecting the old system entirely at predatory world-scale cost.
+- Attempt a burdened compromise, preserving multiple goods imperfectly while leaving the next age dependent on stewardship, vigilance, and visible sacrifice.
 
 Whichever ending lands, follow it immediately with one grounded "First Light" scene from the point of view of a surviving non-party witness. The campaign should be remembered through relief, panic, burden, or uncanny freedom, not only through strategic summary.
 
@@ -234,6 +253,9 @@ Kain is not a missing king and not a passive lore monument. He is a pressure poi
 - Let him speak in terms of consequence, not instruction.
 - He should test the party's judgment more often than he rewards their obedience.
 - If he intervenes in person, the moment should change the entire campaign's direction.
+- Most campaigns should not earn Kain's physical presence in Arc IV. That is an intended design outcome, not a failure state.
+- In Arc IV, bring him in person only if the party committed to one operative truth in Arc III and kept any single faction from owning that answer. If not, let his absence carry meaning rather than treating it as a missing reward.
+- If Kain stays absent, use Black Marshal Sevran or deliberate silence as the Kain-side pressure instead of improvising a lesser duplicate of Kain.
 
-The best use of Kain in this campaign is not as a constant patron, but as the one figure who seems to understand the scale of the game before the players do. Whether he becomes ally, adversary, or grim witness should depend on what the party decide the Heart is for.
+The best use of Kain in this campaign is not as a constant patron, but as the one figure who seems to understand the scale of the game before the players do. Whether he becomes ally, adversary, grim witness, or deliberate absence should depend on what the party decide the Heart is for and whether they made that answer usable.
 
