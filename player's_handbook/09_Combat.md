@@ -57,14 +57,14 @@ Surviving Nosgoth’s battlefields requires cunning defense and resilience.
 While skill checks are made against a static DR, attacks in combat are resolved by comparing your successes against your opponent's **Defense Value (DV)**. A character's DV is a dynamic score that reflects their innate evasiveness, armor, and training, making them a much harder target than a simple locked door.
 
 - **Defense Value (DV)**: A passive score (1 + higher of Shadow or Will, plus modifiers) that attackers must meet or exceed to hit. DV from attributes, armor, and perks is **capped at 6**; only temporary cover and active defense reactions can push it higher.
-- **Armor**: Reduces incoming physical damage (Bludgeoning, Piercing, Slashing) by a flat amount (e.g., 1–3, depending on gear). For example, Leather Armor reduces damage by 1, while Sarafan Plate reduces by 3. Some damage types (e.g., Spectral, Void) ignore armor entirely.
+- **Armor**: Reduces incoming physical damage (Bludgeoning, Piercing, Slashing) by a flat amount (e.g., 1-3, depending on gear). For example, Leather Armor reduces damage by 1, while Sarafan Plate reduces by 3. Some damage types (e.g., Spectral, Force, or specific Entropic effects) ignore armor entirely.
 - **Active Defense**: Characters can use their Reaction (see Section 9.8) to actively defend with skills like Shadow + Evasion (Dodge) or Fury + Weapon Mastery (Parry).
 
 ## 9.5 Damage and Health
 
 Damage reflects the toll of Nosgoth’s brutal conflicts, from claw slashes to soul-rending glyphs.
 
-- **Damage Calculation**: Based on the weapon or ability (e.g., Reaver Blade: 3 Slashing damage, Fire Glyph: 4 Fire damage). Subtract the target’s armor from physical damage types; other types may bypass armor or have unique effects (see Section 9.6).
+- **Damage Calculation**: Based on the weapon or ability (e.g., Reaver Blade: 3 Slashing damage, Fire Glyph: 4 Fire damage). Resolve damage using the order below so Armor, Resistance, Immunity, and special riders apply consistently.
 - **Health Points (HP)**: Tracks physical endurance. At 0 HP, a character falls **Unconscious** and begins making **Death Saves** (see below).
 - **Bloodied Threshold**: A creature is **Bloodied** when its current HP is at or below 50% of its maximum HP. If an effect ends "when the target is Bloodied," this is the threshold it uses.
 - **Wounds and Sanity Loss**: Some attacks (e.g., cursed weapons, Spectral or Entropic damage) inflict Wounds (lasting injuries) or Corruption (spiritual taint), detailed in Chapter 8.
@@ -79,6 +79,7 @@ Unless a specific ability says otherwise, resolve damage in this order:
 3. Apply flat Armor reduction if that damage type still interacts with Armor.
 4. Apply **Resistance** or any vulnerability-like doubling effect.
 5. Apply **Immunity** if present; Immunity reduces the damage to 0 and prevents the associated rider unless the source explicitly bypasses Immunity.
+6. Apply any surviving non-damage rider that is written to occur even on 0 damage or on a successful save.
 
 If an effect says it **bypasses Resistance**, it ignores only Step 4. It does not defeat Immunity unless it says so explicitly.
 
@@ -202,14 +203,14 @@ Reactions are swift, instinctive responses that turn defense into opportunity, u
   - **Spectral Shift**: Phase between Material and Spectral realms (requires specific trait or spell).
 - **Reaction Rolls**: Roll Attribute + Skill. Successes reduce damage or effects:
   - 1 Success: Reduce damage by 1.
-  - 2 Successes: Reduce damage by 2 or negate a status effect.
-  - 3+ Successes: Halve damage or fully evade (GM discretion).
+  - 2 Successes: Reduce damage by 2 or negate one status rider attached to the triggering effect.
+  - 3+ Successes: Halve the triggering damage after all other mitigation or fully evade, depending on the reaction used and GM discretion.
 - **Rules Notes**:
   - You must be conscious and able to act.
   - A failed reaction expends your reaction for the round.
   - Each character has 1 Reaction per round. Only a feature that explicitly states it grants an extra Reaction changes that.
 
-**Example**: A Turelim warrior is hit by a Fire Glyph (4 Fire damage, ignores armor). They use a Dodge reaction (Shadow 3 + Evasion 2), rolling 5 dice and getting 2 successes, reducing damage by 2 (to 2 damage total).
+**Example**: A Turelim warrior is hit by a Fire Glyph (4 Fire damage, Armor is halved). They use a Dodge reaction (Shadow 3 + Evasion 2), rolling 5 dice and getting 2 successes, reducing damage by 2.
 
 ## 9.9 Advantage and Disadvantage
 
@@ -250,7 +251,7 @@ Exceptional skill or catastrophic missteps shape Nosgoth’s battles.
 
 - **Critical Failure**: A Critical Failure occurs when a player **pushes a roll** by using a Corruption Die and the subsequent roll results in **0 successes** while the **Corruption Die shows a 1**. This triggers a dire consequence, such as a weapon breaking, a spell backfiring spectacularly, or a new, immediate threat appearing on the scene, as determined by the GM.
 
-**Example**: A Melchiahim claws at a foe (DV 3) with Entropic damage, rolling 5 successes (critical hit). The GM allows +2 damage and Weakened (–2 damage on target's next attack).
+**Example**: A Melchiahim claws at a foe (DV 3) with Entropic damage, rolling 5 successes (critical hit). The GM allows +2 damage and Decay.
 
 ## 9.12 Environmental Combat
 
@@ -269,7 +270,7 @@ Nosgoth’s battlefields are as deadly as its warriors, with shifting realms and
 - **Initiative**: Kain rolls Shadow 3 + Tactics 2 (5 dice: 2 successes). The knight rolls 3 successes, acting first.
 - **Knight’s Turn**: Rolls Fury 3 + Weapon Mastery 4 (7 dice) for a Piercing attack (spear, 3 damage, ignores 1 Armor). Results: 6, 5, 4, 4, 3, 2, 1 — 2 successes. Misses Kain’s DV 4.
 - **Kain's Turn**: Attacks with the Soul Reaver blade (3 Spectral damage, ignores Armor). Rolls Fury 4 + Weapon Mastery 3 = 7 dice, but the cursed altar imposes Disadvantage: after rolling, pick up **half of all successes (round up)** and re-roll them — only those re-rolled dice still showing 5–6 count; the rest become failures. Initial results: 6, 6, 5, 5, 4, 3, 2 — four potential successes. Half (round up) = 2 dice to re-roll. Re-rolling those two: 4, 2 → 0 new successes. Final: 2 successes (the two un-rerolled). Hits DV 3? No — 2 < 3, the attack misses. The altar's curse has done its work.
-- **Knight’s Reaction**: Parries (Fury + Weapon Mastery, 2 successes), reducing incoming damage by 2 (net 1 Spectral damage, knight HP 9). Soul Drain still takes effect.
+- **Knight’s Reaction**: If Kain had hit, the knight could have attempted a Parry reaction to reduce the incoming damage.
 - **Next Round**: The knight fights on with depleted soul energy and reduced options.
 
 **Narrative**: Kain’s Soul Reaver blade tears at the Sarafan’s essence, the altar’s curse forcing resolve over raw power. The knight’s swift parry blunts the blow, but the spectral drain robs them of energy, fraying their defenses for the rounds ahead.
@@ -279,10 +280,10 @@ Nosgoth’s battlefields are as deadly as its warriors, with shifting realms and
 Many class abilities, perk costs, and recovery mechanics reference a **Short Rest** or **Long Rest**. These are defined as follows:
 
 **Short Rest**
-A period of approximately **10–20 minutes** during which characters may catch their breath, bind wounds, and recover minor resources. Characters must be free from active combat and immediate threat. Permitted activities include tending injuries, brief discussion, and light movement. A Short Rest restores any resource or ability marked "1/short rest."
+A period of approximately **10-20 minutes** during which characters may catch their breath, bind wounds, and recover minor resources. Characters must be free from active combat and immediate threat. Permitted activities include tending injuries, brief discussion, and light movement. A Short Rest restores any resource or ability marked "1/short rest."
 
 **Long Rest**
-A period of approximately **6–8 hours** of genuine recuperation — sleep, meditation, or deep trance (for vampires and wraiths). Characters must be in a safe or relatively safe location. A Long Rest restores any resource or ability marked "1/long rest," and fully restores HP (unless otherwise modified by class features or conditions). HP recovered during a Long Rest equals full maximum HP unless a rule specifies otherwise. Characters may take only one Long Rest per 24-hour period.
+A period of approximately **6-8 hours** of genuine recuperation - sleep, meditation, or deep trance (for vampires and wraiths). Characters must be in a safe or relatively safe location. A Long Rest restores any resource or ability marked "1/long rest," fully restores HP unless a rule says otherwise, and may allow corruption recovery or purification as described in Chapter 8. Characters may take only one Long Rest per 24-hour period.
 
 ---
 
@@ -293,6 +294,5 @@ A period of approximately **6–8 hours** of genuine recuperation — sleep, med
 - **Environmental Depth**: Use Nosgoth’s terrain (e.g., blood fountains, Spectral rifts, Void-tainted zones) to reward clever tactics and reflect damage type hazards.
 - **Corruption Risks**: Emphasize the cost of pushing rolls, tying failures to Nosgoth's dark themes (e.g., a critical failure with Entropic damage summons a spectral wraith).
 
-Combat in Nosgoth is a crucible of power and peril, shaped by the interplay of physical, magical, and esoteric damage types. Whether you fight as a vampire lord, a Sarafan zealot, or a realm-shifting wraith, every strike—and every wound—shapes your fate and the cursed world around you.
-```
+Combat in Nosgoth is a crucible of power and peril, shaped by the interplay of physical, magical, and esoteric damage types. Whether you fight as a vampire lord, a Sarafan zealot, or a realm-shifting wraith, every strike and every wound shapes your fate and the cursed world around you.
 

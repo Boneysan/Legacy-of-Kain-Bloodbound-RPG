@@ -80,7 +80,7 @@ When two characters directly compete, both roll their relevant Attribute + Skill
 After a **failed** roll, you may add **1, 2, or 3 Corruption Dice** (d6) to your result. Each 5–6 adds a success; each 1 increases your Corruption Level by 1. Dice showing 2–4 have no additional effect. You cannot push a roll more than once. *(Ch. 0, Ch. 6 §6.3, Ch. 8 §8.2)*
 
 **Corruption Dice**
-Distinct d6s rolled when Pushing a roll or activating certain Corrupted Perk abilities. A result of **5–6** = +1 success; a result of **1** = +1 Corruption Level; **2–4** = no effect. *(Ch. 8 §8.3)*
+Distinct d6s rolled when Pushing a roll or activating certain Corrupted Perk abilities. When used to **Push** a roll, a result of **5-6** = +1 success, **1** = +1 Corruption Level, and **2-4** = no effect. When rolled as a perk activation cost, a **1** always adds +1 Corruption; other faces have no default effect unless that perk says otherwise. *(Ch. 8 §8.3)*
 
 ---
 
@@ -321,7 +321,7 @@ Legendary or unique equipment tied to Nosgoth's deepest lore. Requires epic stor
 ## 12.6 Corruption
 
 **Corruption Level**
-A score from **0 to 15** tracking dark influence from the Abyss, the Hylden, or forbidden magic. Represents the staining of a character's soul. At **15**, the character is lost to madness and becomes a GM-controlled NPC. *(Ch. 8 §8.1)*
+A score from **0 to 15** tracking dark influence from the Abyss, the Hylden, or forbidden magic. Represents the staining of a character's soul. At **15**, the character is lost and becomes a GM-controlled NPC monster. If your Corruption drops below a Corrupted Perk's threshold, that perk becomes **Dormant** until you return to the required threshold. *(Ch. 8 §8.1, §8.4)*
 
 **Corruption Thresholds**
 
@@ -340,8 +340,8 @@ A score from **0 to 15** tracking dark influence from the Abyss, the Hylden, or 
 - **Pushing rolls:** Rolling a 1 on any Corruption Die = +1 Corruption (automatic, no save)
 - **Forbidden rituals and spells:** Some spells carry an inherent Corruption cost
 - **Corrupt artifacts:** Wielding certain items increases Corruption over time
-- **Entropic damage:** Specific enemy abilities may inflict Corruption on hit
-- **Corrupted Perks:** Some perks require gaining Corruption to activate
+- **Entropic effects:** Specific enemy abilities may inflict Corruption on hit
+- **Corrupted Perks:** Many perk activations now use Corruption Dice, while major forms and apex rites may still add flat Corruption plus dice
 
 *(Ch. 8 §8.1–8.3)*
 
@@ -350,8 +350,9 @@ A score from **0 to 15** tracking dark influence from the Abyss, the Hylden, or 
 2. **Act of Atonement** — Meaningful sacrifice or heroism (GM discretion); reduces Corruption by 1–3
 3. **Purifier NPC** — Ancient Vampire elder or Warden of Balance; requires a service, debt, or sacrifice; reduces Corruption by 2–4
 4. **Contemplation** — Weeks of downtime; DR 2–3 Will + Concentration check; reduces Corruption by 1
+5. **Long Rest Recovery Valve** — At the end of each long rest, make one DR 2 `Will + Concentration` or `Will + Insight` recovery check for each point of Corruption gained since your previous long rest. Each success removes 1 of those recent points; the first failure ends the attempt for that rest.
 
-*(Ch. 8 §8.5)*
+*(Ch. 8 §8.6)*
 
 ---
 
@@ -442,7 +443,7 @@ Three categories of character customization:
 Universal Perk tiers require one perk from the previous tier. Corrupted Perks have no tier prerequisites beyond Corruption score. 31 total Corrupted Perks: 9 Tier 1, 10 Tier 2, 12 Tier 3. *(Ch. 4)*
 
 **Human Racial Bonus**
-Humans gain 1 extra Universal Perk at levels 4, 8, 12, 16, and 20. *(Ch. 2, Ch. 4)*
+Humans gain 1 extra Universal Perk at levels 10 and 20. *(Ch. 2, Ch. 4)*
 
 **Multiclassing**
 At Level 5+, players may request a Tier 1 perk from another class's perk tree if narratively justified (GM discretion). *(Ch. 4)*
@@ -471,7 +472,7 @@ A numeric value assigned to creatures for encounter balancing. GMs compare total
 ## 12.11 Rest and Recovery
 
 **Short Rest (Moment's Respite)**
-**Duration:** Approximately 1 hour of relative calm in a minimally secure environment. Interrupted by combat, demanding spells, or extensive travel.
+**Duration:** Approximately 10-20 minutes of relative calm in a minimally secure environment. Interrupted by combat, demanding spells, or extensive travel.
 
 **Benefits:**
 - Regain some HP, class abilities, and resources (specifics vary by class)
@@ -493,7 +494,7 @@ A numeric value assigned to creatures for encounter balancing. GMs compare total
 - Regain all HP
 - Fully restore resource pools (SE, BP — vampires require recent feeding for full BP recovery)
 - Refresh all abilities designated as "per long rest"
-- Make progress on reducing Corruption via purification rituals or narrative acts
+- May reduce recent Corruption through the long-rest recovery valve or make progress through purification rituals and narrative acts
 - Perform longer activities: complex Rituals, Crafting, deciphering Forbidden Knowledge
 
 **Lineage Flavor:**

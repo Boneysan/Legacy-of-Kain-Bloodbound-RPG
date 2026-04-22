@@ -56,14 +56,14 @@ Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra U
 | Perk Name | Effect | Cost / Trigger |
 | :--- | :--- | :--- |
 | **Momentum Kill** | Gain **+10 ft movement** immediately after killing an enemy. | Passive (On Kill) |
-| **Phase Slip** | Ignore difficult terrain in the Spectral Realm. Additionally, you can move through one solid object (up to 5 ft thick) once per scene. | Passive |
+| **Phase Slip** | Ignore difficult terrain in the Spectral Realm. Additionally, once per scene, you may move through one solid object or barrier up to 5 ft thick during your movement; you must end in an unoccupied space. | Passive |
 | **Forbidden Tap** | Add **+2 dice** to any roll. | **Gain 1 Corruption** |
 | **Void Walker** | Immune to corrupted terrain hazards (blighted ground, acid, etc). | Passive |
 | **Time Echo** | Reroll one Initiative roll. | 1/Long Rest |
-| **Soul Ward** | Absorb one source of damage completely (negates one attack). | 1/Long Rest |
-| **Spell Siphon** | Steal one activated ability you have witnessed the target use this scene (Target makes **DR 2 Will** save; on success each time you use it, the ability is lost). Lasts until rest. | **1 Corruption** |
+| **Soul Ward** | When you would take damage from an attack or spell, reduce that damage to 0. Soul Ward does not negate additional riders unless they require damage to be dealt. | Reaction, 1/Long Rest |
+| **Spell Siphon** | Choose one creature you can see within 30 ft that used a non-capstone activated ability this scene. It must succeed on a **DR 2 Will** save or you copy that ability until your next long rest. You may use the copied ability once, paying its normal costs. If the target succeeds on the save, the copied ability is lost. | **1 Corruption**, 1/Long Rest |
 | **Spectral Fortitude**| **+2 DV** while in the Spectral Realm. | Passive |
-| **Blood Alchemy** | Convert HP to Soul Energy (3 HP = 1 SE, max Level/2 SE per turn). | Free Action, 1/turn |
+| **Blood Alchemy** | Convert HP to Soul Energy (3 HP = 1 SE, max Level/2 SE per turn). | No Action, 1/turn |
 | **Shadow Link** | Teleport to a shadow within **10 ft**. | **1 SE** (Bonus Action), once per scene |
 | **Clan Diplomat** | Gain **Advantage** on Social checks when interacting with leaders or high-ranking members of any established Nosgoth faction (Vampire Clans, Sarafan, etc.). | Passive |
 | **Zealot's Tongue** | Use **Will** or **Fury** instead of Social attributes for Persuasion/Intimidation if the target shares your primary goal or lineage. | Passive |
@@ -82,7 +82,7 @@ Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra U
 | **Timelocked** | Immune to time-slow, haste, and paralyze effects. | Passive |
 | **Soul Burn** | Deal **+1 damage** per 2 missing Soul Energy (Max +5). | Passive |
 | **Master of Glyphs** | Inscribe permanent glyphs (wards/traps) on objects/locations. | **1 SE** + Materials |
-| **Legacy of Power** | Gain a unique lineage ability (e.g., a vampire's particular bloodline curse). | 1/Campaign |
+| **Legacy of Power** | Gain one non-paragon lineage feature from another lineage, subject to GM approval. You do not gain that lineage's passive bonuses, vulnerabilities, or paragon features. | 1/Campaign |
 
 ### Tier 4 Universal Perks (Levels 16-20)
 *Prerequisite: One Tier 3 Universal Perk.*
@@ -94,11 +94,11 @@ Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra U
 | **Spectral Anchor** | Perceive Spectral Realm constantly. Resistance to Spectral damage. Cannot be moved. | Passive (-1 die Material) |
 | **Legacy Transfusion**| Permanently gain one Tier 2 or 3 perk from *another* class. | Narrative Quest |
 | **Veilpiercer** | Perceive all illusions/glamers. Nullify one magic disguise per scene. | Passive |
-| **Temporal Residue** | When damaged, leave an echo for 1 round. While active, whenever you are targeted by an attack, roll any die — on an even result, the attack hits the echo instead and deals no damage to you. | **1 SE** / Combat |
+| **Temporal Residue** | When you take damage, you may create a temporal echo for 1 round. While the echo persists, the first time an attack targets you before the start of your next turn, roll 1d6; on an even result, the attack hits the echo instead and deals no damage to you. | **1 SE**, 1/combat |
 | **Flesh of Myth** | **+1 Max HP** per character level (applied retroactively when taken). Immune to poison, disease, aging, dismemberment. | Passive |
 | **Spectral Fire** | Burn HP (3:1) to regain SE, BP, or Glyph Charges. | Bonus Action |
 | **Cradle of Ruin** | On 0 HP: 20ft pulse (**12 Entropic damage**, bypasses Armor). Allies within 20ft gain +2 DV until the start of your next turn. Rise at 1 HP next turn. | **1 Corruption** |
-| **Reality Fracture** | Perform an impossible narrative act. Examples: halt time mid-scene (DR 5 Will + Concentration), teleport across a region (DR 4 Soul + Rituals), erase one event from a scene before its consequences resolve (DR 5 Soul). GM adjudicates outcome and may set a higher DR. | **2 Corruption** / Session |
+| **Reality Fracture** | Attempt one reality-warping act once per session, such as halting time mid-scene, teleporting across a region, or erasing one unresolved event from the current scene. The GM sets a DR of 4-6 using the most relevant Attribute + Skill pair. On a failure, the effect fizzles and you still gain the Corruption cost. Reality Fracture cannot rewrite completed scenes, undo a character's death after the scene ends, or bypass campaign-defining consequences without GM approval. | **2 Corruption** / Session |
 
 ---
 
@@ -148,7 +148,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Bonebite Grin
 **Trigger:** As needed — enemies must be able to see you.
-**Effect:** Enemies make a **DR 2 Will** save or become *Shaken* for 1 round (-1 die to all rolls).
+**Effect:** Enemies of your choice within 10 ft who can see you make a **DR 2 Will** save or suffer -1 die to all rolls until the end of their next turn.
 **Drawback:** -1 die to Social rolls with pure NPCs.
 > *Your grotesque smile sows fear, but mortals recoil from your corruption.*
 
@@ -156,7 +156,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Tainted Vitality
 **Trigger:** Once per scene — when reduced to 0 HP.
-**Effect:** Spend **1 Corruption** to stay at **1 HP** instead.
+**Effect:** Spend **1 Corruption** when damage would reduce you to 0 HP to drop to **1 HP** instead.
 **Drawback:** Blackened veins and ashen skin become visible. -1 die to Persuasion with pure NPCs.
 > *Corruption refuses to let you fall — but your humanity is slipping.*
 
@@ -189,7 +189,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Corrupted Surge
 **Trigger:** Once per short rest — Bonus Action.
-**Cost:** Gain **1 Corruption**.
+**Cost:** Roll **1 Corruption Die**.
 **Effect:** Your next attack deals **+2 damage**.
 **Drawback:** -1 die to saves vs. Radiant/holy effects until your next short rest.
 > *Corruption fuels a devastating strike, but Nosgoth's balance rejects you.*
@@ -208,8 +208,8 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Corruption Echo
 **Trigger:** Once per session.
-**Cost:** Gain **1 Corruption**.
-**Effect:** Repeat the last spell or magical ability used (by anyone in the scene).
+**Cost:** Gain **1 Corruption** and roll **1 Corruption Die**.
+**Effect:** Repeat the last non-capstone spell or magical ability used by another creature in the scene. You must pay its normal costs, choose valid targets, and resolve it using your own dice pools where relevant.
 **Drawback:** -1 die vs. Radiant/holy effects until your next long rest.
 > *Tainted echoes let you relive magical moments, bending reality at a cost.*
 
@@ -217,7 +217,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Host to the Void
 **Trigger:** Passive.
-**Effect:** Immune to mind control and possession.
+**Effect:** Immune to mind control and possession effects that allow a save or inflict the Charmed, Dominated, or Possessed state.
 **Drawback:** Gain **+1 Corruption** each long rest (maximum +3 total Corruption gained this way over the campaign; once this cap is reached the drawback ceases). -1 die to Social rolls with pure NPCs.
 > *The void shields your will but erodes your essence, marking you as an outcast.*
 
@@ -233,7 +233,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Veil of the Damned
 **Trigger:** Once per short rest — Action.
-**Cost:** 1 SE + Gain **1 Corruption**.
+**Cost:** 1 SE + Roll **2 Corruption Dice**.
 **Effect:** Summon a 10 ft radius spectral mist (1 minute). You gain Advantage on Stealth rolls; enemies have Disadvantage on Observation checks. You can see normally through it.
 **Drawback:** -1 die vs. Radiant/holy effects until your next short rest.
 > *Lost souls shroud you in shadow, but their cries draw the Elder God's gaze.*
@@ -250,8 +250,8 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Hylden's Grasp
 **Trigger:** Once per scene — Action.
-**Cost:** 2 SE + Gain **1 Corruption**.
-**Effect:** Conjure a glyph at a point within 30 ft (5 ft radius). Enemies must make a **DR 2 Blood/Evasion** save or be *Rooted* for 1 round and take **2 Corruption damage**.
+**Cost:** 2 SE + Roll **2 Corruption Dice**.
+**Effect:** Conjure a glyph at a point within 30 ft (5 ft radius). Enemies must make a **DR 2 Blood/Evasion** save or be *Rooted* for 1 round and take **2 Entropic damage**.
 **Drawback:** Hylden visions and whispers haunt your sleep.
 > *Ancient entropic energy flows through you — but their realm wants something in return.*
 
@@ -267,8 +267,8 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Abyssal Echo
 **Trigger:** Once per scene — when you fail a save vs. a magical effect.
-**Cost:** Gain **1 Corruption**.
-**Effect:** Reroll the save with +1 die. On success, the caster takes **2 Void damage** (bypasses Armor and Resistance).
+**Cost:** Roll **2 Corruption Dice**.
+**Effect:** Reroll the save with +1 die. On success, the caster takes **2 Entropic (Void) damage** (bypasses Armor and Resistance, but not Immunity).
 **Drawback:** -1 die to Insight until your next short rest.
 > *The Abyss deflects magic back at its source — but its whispers distort your reality.*
 
@@ -276,7 +276,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Corrupted Ferocity
 **Trigger:** Once per short rest — Bonus Action.
-**Cost:** Gain **1 Corruption**.
+**Cost:** Roll **2 Corruption Dice**.
 **Effect:** Enter a frenzy for 1 minute. Melee attacks deal **+3 damage**, but each attack also deals **1 physical damage** to yourself (bypasses Armor).
 **Drawback:** Exhaustion after the frenzy ends: -1 die to Blood and Evasion until your next short rest.
 > *Corrupted rage sprouts bone-like protrusions, and your unhinged laughter alarms allies.*
@@ -295,7 +295,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Voidtongue
 **Trigger:** Once per session.
-**Cost:** Gain **2 Corruption**.
+**Cost:** Gain **1 Corruption** and roll **1 Corruption Die**.
 **Effect:** Speak to or issue a command to one forbidden entity (Hylden, demon, elder wraith — GM discretion).
 > *Your voice carries the Abyss's weight, bending dark entities to your will.*
 
@@ -319,7 +319,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Eye of the Abyss
 **Trigger:** Once per session.
-**Cost:** Gain **1 Corruption**.
+**Cost:** Gain **1 Corruption** and roll **1 Corruption Die**.
 **Effect:** Ask a question about a person, place, or event. Receive a disturbing but truthful vision (GM-provided).
 **Drawback:** -1 die to Insight until your next long rest.
 > *The Abyss reveals truths — but every vision it shows you scars your mind.*
@@ -336,7 +336,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Soulrend Dominion
 **Trigger:** Once per long rest — Action.
-**Cost:** 3 SE + Gain **2 Corruption**.
+**Cost:** 3 SE + Gain **1 Corruption** and roll **2 Corruption Dice**.
 **Effect:** Unleash a 15 ft wave of Spectral energy. Enemies make a **DR 3 Will** save: fail = **6 Spectral damage** + *Frightened* for 1 minute (repeating save each turn); success = **3 damage**. You regain **1 SE** per enemy affected.
 **Drawback:** -2 dice vs. Radiant/holy until next long rest. May attract spectral entities (GM discretion).
 > *You tear at souls, wreathed in spectral fire — but risk becoming the Elder God's conduit.*
@@ -345,7 +345,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Bloodforged Apotheosis
 **Trigger:** Once per short rest — Action.
-**Cost:** 2 BP + Gain **1 Corruption**.
+**Cost:** 2 BP + Gain **1 Corruption** and roll **2 Corruption Dice**.
 **Effect:** Transform for 1 minute. Melee attacks deal **+4 Blood damage** (bypasses Armor). Gain **+5 Temp HP** at the start of each of your turns.
 **Drawback:** Leaves a permanent physical warp (crimson veins, elongated joints, etc.). -2 dice to Persuasion with pure NPCs. Take **4 self-damage** (bypasses Armor) when the transformation ends.
 > *Your blood reshapes you into a monstrous weapon — terrifying mortals and drawing hunters.*
@@ -354,8 +354,8 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Hylden's Rift
 **Trigger:** Once per long rest — Action.
-**Cost:** 4 SE + Gain **2 Corruption**.
-**Effect:** Create a 10 ft radius zone at a point within 60 ft. All creatures in the zone take **4 Void damage** (bypasses Armor and Resistance) and must make a **DR 3 Blood** save or move at half speed for 1 round.
+**Cost:** 4 SE + Gain **1 Corruption** and roll **2 Corruption Dice**.
+**Effect:** Create a 10 ft radius zone at a point within 60 ft. All creatures in the zone take **4 Entropic (Void) damage** (bypasses Armor and Resistance, but not Immunity) and must make a **DR 3 Blood** save or move at half speed for 1 round.
 **Drawback:** -5 Max HP until next long rest. May draw Hylden attention (GM discretion).
 > *You channel Hylden entropy into reality — but their realm's visions and attention haunt you.*
 
@@ -363,7 +363,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Abyssal Pact
 **Trigger:** Once per scene — Bonus Action.
-**Cost:** 5 HP + Gain **1 Corruption**.
+**Cost:** 5 HP + Gain **1 Corruption** and roll **2 Corruption Dice**.
 **Effect:** Sacrifice HP to gain **+2 dice** to all rolls for 1 minute. Regain **3 HP and 1 SE** for each enemy you kill during this time.
 **Drawback:** -1 die to Insight and Concentration until your next short rest.
 > *You offer vitality to the Abyss — gaining power as the whispers grow louder.*
@@ -372,7 +372,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Wraith's Lament
 **Trigger:** Once per short rest — Action.
-**Cost:** 2 SE + Gain **1 Corruption**.
+**Cost:** 2 SE + Gain **1 Corruption** and roll **2 Corruption Dice**.
 **Effect:** Emit a wail in a 30 ft radius. Enemies make a **DR 3 Will** save: fail = **5 Spectral damage** (bypasses Armor) + no Reactions for 1 round; success = **2 damage**.
 **Drawback:** Gain **1 Corruption** at the end of each full minute spent in the Spectral Realm until your next long rest.
 > *Your wail carries the sorrow of lost souls — but it binds you to their torment.*
@@ -381,8 +381,8 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Corrupted Ascension
 **Trigger:** Once per long rest — Action.
-**Cost:** 3 BP or 3 SE + Gain **2 Corruption**.
-**Effect:** Gain a fly speed equal to your movement speed, **+3 Corruption damage** on all attacks (bypasses Armor), and immunity to difficult terrain for 1 minute.
+**Cost:** 3 BP or 3 SE + Gain **1 Corruption** and roll **2 Corruption Dice**.
+**Effect:** Gain a fly speed equal to your movement speed, **+3 Entropic damage** on all attacks (bypasses Armor), and immunity to difficult terrain for 1 minute.
 **Drawback:** Leaves a permanent mutation (shadow wings, hollow eyes, etc.). -2 dice to Social rolls with non-corrupted NPCs. Exhaustion after the effect ends (-2 dice to Blood/Evasion until next long rest).
 > *You rise on corrupted currents — a blasphemy against Nosgoth's balance, drawing Sarafan ire.*
 
