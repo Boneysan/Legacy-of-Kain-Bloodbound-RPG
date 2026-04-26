@@ -1327,3 +1327,214 @@ Define the DR determination:
 ## Future Passes
 
 Additional mechanics review passes will be added here as issues are identified.
+
+---
+
+## Recommendations — Prioritized Action Plan
+
+All 59 issues organized by action type and recommended execution order.
+
+---
+
+### Tier 1 — Quick Text Fixes
+*Clear correct answer, single targeted edit, no design debate. All 22 can be completed in one focused session.*
+
+| # | Action | File |
+|---|---|---|
+| **1** | Update §11.1 return threshold to `50% HP`, cross-reference §11.5.2 | Ch. 11 |
+| **4** | Update 5 spell references from `§11.1` → correct `§11.5.x` subsections | Ch. 5 |
+| **5** | Add BP suspension callout paragraph to §5.7 (factual cross-reference) | Ch. 5 |
+| **6** | Replace `"Ethereal"` with `"Incorporeal"` in Lantern Rite | Ch. 5 |
+| **8** | Add `*(crosses realms)*` tag to Soul Storm base spell | Ch. 5 |
+| **10** | Add one-sentence anti-ping-pong clause to Soulweave | Ch. 5 |
+| **13** | Rewrite `"(1/min limit)"` in Hemostatic Pulse to explicit target restriction | Ch. 5 |
+| **14** | Remove or differentiate Blood Mark's redundant touch clause | Ch. 5 |
+| **15** | Change Glyph of Displacement save from `Will` → `Evasion` | Ch. 5 |
+| **23** | Standardize all `"+2 bonus"` to `"+2 dice"` across 5 spells | Ch. 5 |
+| **27** | Clarify Soulforge Resurrection `"5 SE/BP"` as `OR`, class-based | Ch. 5 |
+| **30** | Rewrite Cacophonic Flare condition list with explicit sequencing | Ch. 5 |
+| **32** | Add `"1 Exhaustion stack"` to Sanguine Eclipse | Ch. 5 |
+| **33** | Rewrite Vital Hook `"Bonus pull"` into a proper tether mechanic | Ch. 5 |
+| **34** | Add DR floor note to §5.10 preamble (`"listed DR is a floor, not a cap"`) | Ch. 5 |
+| **40** | Add note to Hemodominate: Blood Puppet has no effect while Hemodominate is active | Ch. 5 |
+| **41** | Add clarification to Soul Lock: temp HP is not "regaining HP" and still applies | Ch. 5 |
+| **42** | Rewrite Reaver Unleashed `"60-ft cone/30-ft burst"` as explicit choice | Ch. 5 |
+| **47** | Increase Pulse Spike base damage from `1` to `3` Spectral | Ch. 5 |
+| **49** | Standardize BP regen text — `"rituals"` vs `"relics"` between §5.3 and §5.7 | Ch. 5 |
+| **50** | Add end-of-turn repeat save to Hemodominate; add Concentration requirement | Ch. 5 |
+| **54** | Change Dirge of Ruin save from `DR 2` → `DR 4` | Ch. 5 |
+| **56** | Replace per-word Memory Script cost with flat `1 SE / 100 words` | Ch. 5 |
+| **58** | Add design note to Shadowmancer that it has no glyph access (or add 2–3 glyph tags) | Ch. 5 / Ch. 3 |
+
+---
+
+### Tier 2 — Design Decisions Required
+*A call needs to be made before the text can be written. Options are listed for each.*
+
+#### Spectral Realm
+
+**Issue 2** — Native Spectral Exception scope
+Confirm the exception covers MM monsters only, not PC lineages. Recommended fix text is ready — just needs sign-off.
+
+**Issue 3** — Revenant Soul Bleed rate
+Set to `1 HP per 3 rounds` (matching Wraith) or a different rate. Affects Ch. 11 §11.5.1 and Ch. 2 §2.6.
+
+**Issue 7** — Astral Shackle forced banishment: apply or waive §11.5.5 shock damage?
+- **Option A (recommended):** Controlled banishment — no shock. Master-tier precision should not also randomly hurt the target for 1d6.
+- **Option B:** Shock still applies — the dimensional violence is part of the punishment.
+
+#### Internal Consistency
+
+**Issue 9** — Glyph of Chains, Glyph of Ruin, Viscera Torrent: add repeat saves
+Recommended fix text is ready for all three. **Effectively Tier 1 once confirmed.**
+
+**Issue 11** — Ceremony of Sorrow: add DR check or keep automatic?
+- **Option A (recommended):** DR 2 Soul + Ritualism check.
+- **Option B:** Keep automatic but reduce to narrative only — no mechanical Corruption removal.
+
+**Issue 12** — Spirit Echo: add detection check or keep automatic?
+- **Option A (recommended):** DR 1 Soul + Observation.
+- **Option B:** Keep automatic but limit output (number only, no emotion).
+
+**Issue 16** — Glyph of Anchoring: confirm it blocks Soul Portal crossings from Spectral side
+Clarifying note is ready. Needs sign-off that the interaction is intentional.
+
+**Issue 18** — Define "Limited Actions" condition used in Glyph of Time Sever and Chrono Collapse
+Recommended definition: *one Action or one Bonus Action (not both), no Reactions.* Applies to both spells once decided.
+
+**Issue 19** — Replace "risky roll" in Omen Tether
+Recommended replacement: *"next attack roll, spell attack, or skill check."* Needs sign-off.
+
+**Issue 21** — Soul Flicker "no offensive actions": caster restriction or attacker restriction?
+- **Option A (recommended):** Caster restriction — you become evasive but cannot attack. Creates a meaningful tradeoff.
+- **Option B:** Attacker restriction — unusual and probably not the intent.
+
+#### Description Quality
+
+**Issue 17** — 17 unrunnable spells *(see Tier 3 for full plan)*
+Prioritize by table-readiness need:
+- **High (combat-relevant):** Vital Dominion, Reaver Unleashed, Sanctify Ground, Fatebind Curse, Dark Reflection, Warding Circle
+- **Medium (ritual/narrative):** Bloodrite Brand, Beckon of the Deep, Curse of the Nine Moons, Ritual of Eclipse, Throne of Veins
+- **Lower (utility/flavor):** Echo Word, Chrono-Ward Ritual, Glyph of Echoes, Glyph of Entropy, Eternal Sigil
+
+**Issue 20** — Eyes Beyond: what does "see invisible" cover?
+- **Option A (recommended):** Invisible creatures and objects. Not Incorporeal, not fully Spectral entities. One sentence.
+- **Option B:** Invisible creatures only.
+
+**Issue 22** — Binding of the Starborn: replace "celestial entity" with Nosgoth-appropriate lore
+Replace with **Bound Guardian** (pre-Vampire protective spirit). Flavor rewrite, no mechanical change. Recommended text is in the issue.
+
+**Issue 24** — Corruption Crown: define "dread aura"
+- **Option A (recommended):** 10-ft radius, creatures must save DR 2 Will or have Disadvantage on attacks against you.
+- **Option B:** Frightened on a failed save — but this overlaps with the Charmed rider already on the spell.
+
+#### Undefined Terms and Resource Costs
+
+**Issue 25** — Counterspell: define cost, access, and availability
+- **Option A (recommended):** Universal (any caster), 1 SE cost, 60-ft range.
+- **Option B:** Class-restricted — only designated classes can Counterspell.
+This affects every caster in the game. The recommended text is in the issue.
+
+**Issue 26** — Rotmind Rift Corruption cap
+- **Option A (recommended):** Cap at 3 Corruption Levels total per casting. Still brutal, not campaign-ending.
+- **Option B:** Cap at 5. Higher risk, still finite.
+
+**Issue 28** — The God's Rebuttal: define "divine" trigger
+Recommended: Radiant damage OR Warden of Balance spells OR explicitly holy effects. One sentence addition.
+
+**Issue 29** — Mind Spike: define "paranoia"
+Recommended definition provided in issue. Needs sign-off before adding to the spell.
+
+#### Interactions and Balance
+
+**Issue 35** — Sangromancer non-functional in Spectral Realm
+- **Option A (recommended for immediate fix):** Add a sidebar to Ch. 3 and §5.7 explicitly acknowledging SG is a Material-only caster.
+- **Option B:** Add one SE-cost Adept spell as a Spectral emergency fallback.
+
+**Issue 36** — Eyes Beyond vs. magical Darkness: does it pierce it?
+- **Option A (recommended):** Yes — Eyes Beyond pierces magical darkness. States the SM/HW combo as a known valid tactic.
+- **Option B:** No — add explicit language that it does not apply to magical darkness.
+
+**Issue 37** — Realmshift overlay vs. Glyph of Anchoring
+Recommended ruling: an overlay is not a creature shifting, so Anchoring does not trigger. Fix text is ready.
+
+**Issue 38** — Nightmare Seed 10-minute Frightened
+- **Option A (recommended):** Add end-of-turn repeat save. Brings it in line with Adept Dread Chain.
+- **Option B:** Reduce duration to 1 minute flat.
+
+**Issue 39** — Usage limits only on Sangromancer spells
+Audit Master-tier spells across all classes. Candidates for "once per long rest": Mind Rupture (madness until cured), Blood Oblivion (permanent memory erasure), potentially Wound Reversal.
+
+#### Glyph Triggers, AoE, Resources
+
+**Issue 43** — 9 glyphs with no trigger conditions
+Review each glyph and assign a trigger from the standard set. Recommended triggers are listed per-glyph in the issue. **Effectively Tier 1 once confirmed.**
+
+**Issue 44** — AoE friendly fire convention
+Establish universal rule: *unqualified "creatures" = everyone, including allies.* Then sweep 9 AoE spells and add `"creatures of your choice"` where unintentional. Biggest single edit pass on the list — but mechanically straightforward once decided.
+
+**Issue 45** — Resource regeneration terms undefined
+Write feeding economy into §5.7: how much BP per creature, soul shard crafting, channeling mechanics. Recommended framework is in the issue. Touches Ch. 5 and Ch. 7.
+
+**Issue 46** — Permanent max HP reduction has no recovery mechanism
+Recommended recovery: Soulforge Resurrection restores all lost max HP; long rest at a healing location restores 1. One paragraph in §5.7 or Ch. 8.
+
+**Issue 48** — Aura scaling asymmetry: intentional or not?
+- **Option A:** Acknowledge intentional asymmetry — add a design note to §5.4.
+- **Option B (recommended if auras feel weak at high play):** Add partial aura scaling: `+1 damage at levels 10 and 20 only`.
+
+#### Pass 8 Issues
+
+**Issue 51** — Soul Fracture: SE cost increase amount
+Decide the increment (+1 SE recommended), then add repeat save. **Effectively Tier 1 once the number is chosen.**
+
+**Issue 52** — Wound Reversal: save target and max HP overflow
+Recommended: both targets save; HP caps at max; excess lost. Fix text is in the issue.
+
+**Issue 53** — No general dispel mechanic
+- **Option A (recommended):** Add **Unravel** spell (Adept, GW/WB/HW) that removes one ongoing non-glyph effect.
+- **Option B:** Add Dispel as a §5.6 universal mechanic like Counterspell.
+- **Option C:** Intentional absence — state it explicitly as a system design pillar.
+
+**Issue 57** — Crimson Godseed attribute boost: permanent or timed?
+- **Option A (recommended):** 24-hour duration — powerful but not campaign-warping.
+- **Option B:** Permanent, capped at one use per character — high cost justifies it but needs a hard cap.
+
+**Issue 59** — Last Rite of Balance "DR 4–5": define what determines which
+Recommended: Corruption Level of the area (1–5 → DR 4; 6+ → DR 5). One sentence.
+
+---
+
+### Tier 3 — Expansion Work
+*Requires writing substantial new content. Multi-session tasks.*
+
+**Issue 17 (main body)** — 17 unrunnable spells need full effect definitions
+This is the largest single task in the document. Recommend a dedicated **Spell Expansion Session** starting with the six high-priority combat-relevant spells (Vital Dominion, Reaver Unleashed, Sanctify Ground, Fatebind Curse, Dark Reflection, Warding Circle), then proceeding through the medium and lower tiers.
+
+**Issue 31** — Add Staggered condition entry to Ch. 12 Glossary
+One new condition block in a different file from the rest of the fixes.
+
+**Issue 45 (partial)** — Full resource regeneration rules
+Write the feeding economy (BP per creature size or TV), soul shard item entries, and channeling mechanics. Touches Ch. 5, Ch. 7, and potentially Ch. 9.
+
+**Issue 55** — Write Sanguine Swarm stat block
+HP, speed, area, action timing, Frightened DR and save type. ~5–8 lines in the spell entry.
+
+**Issue 22** — Rewrite Binding of the Starborn for Nosgoth cosmology
+Replace "celestial entity" with a Bound Guardian framework. Full flavor + mechanics rewrite, ~8–10 lines.
+
+---
+
+### Recommended Execution Order
+
+| Session | Focus | Issues |
+|---|---|---|
+| **Session A** | Spectral Realm fixes | 1, 2, 3, 5, 7, 16 |
+| **Session B** | Quick text fixes across Ch. 5 | 4, 6, 8, 10, 13, 14, 15, 23, 27, 30, 32, 33, 34, 40, 41, 42, 47, 49, 50, 54, 56, 58 |
+| **Session C** | Control duration and save violations | 9, 11, 12, 18, 19, 21, 38, 51, 52 |
+| **Session D** | Undefined terms and resource rules | 25, 26, 28, 29, 31, 45, 46, 48, 59 |
+| **Session E** | Interactions and balance decisions | 20, 24, 35, 36, 37, 39, 44, 53, 57 |
+| **Session F** | Glyph trigger pass | 43 |
+| **Session G+** | Spell expansion (unrunnable spells) | 17, 22, 55 |
+
+**Session B alone closes 22 issues — the fastest single-session win available.**
