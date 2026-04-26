@@ -29,15 +29,15 @@ Feralslave Ghouls are the remains of mortals who died in agony, their souls too 
 ### Attacks
 **Clawing Grasp** (Action)
 - **Dice Pool:** Fury 2 + 0 = 2d6
-- **Damage:** 3 physical (Slashing)
-- **Special:** On hit, target must make DR 1 Blood save or be Grappled
+- **Damage:** 3 Physical (Slashing)
+- **Special:** On hit, the target makes a DR 1 Blood save. On failure, the target is **Grappled**.
 
 **Feral Bite** (Action, requires Grapple)
 - **Dice Pool:** Fury 2 + 0 = 2d6
-- **Damage:** 4 physical (Piercing) + Bleeding
+- **Damage:** 4 Physical (Piercing) + Bleeding
 
 ### Abilities
-**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
 **Feral Pack:** Gains Advantage on attack rolls when within 10 feet of another Feralslave Ghoul.
 
@@ -80,18 +80,18 @@ Not all vampires retain their nobility and cunning. Those who give in completely
 ### Attacks
 **Savage Claws** (Action)
 - **Dice Pool:** Fury 4 + 0 = 4d6
-- **Damage:** 6 physical (Slashing) + Bleeding
+- **Damage:** 6 Physical (Slashing) + Bleeding
 - **Special:** **Multiattack:** The Hunger-Warped Vampire makes two Claw attacks as a single Attack action.
 
 **Blood Drain** (Action, requires Grapple)
 - **Dice Pool:** Fury 4 + 0 = 4d6
-- **Damage:** 8 Blood damage (bypasses physical DR)
+- **Damage:** 8 Physical damage (Blood Drain; ignores Physical Armor)
 - **Special:** Vampire regains HP equal to damage dealt
 
 **Pounce** (Action, requires at least 20 feet movement)
 - **Dice Pool:** Fury 4 + Athletics 3 = 7d6
-- **Damage:** 7 physical (Bludgeoning)
-- **Special:** Target must make DR 3 Blood save or be knocked Prone and Grappled
+- **Damage:** 7 Physical (Bludgeoning)
+- **Special:** Target makes a DR 3 Blood save. On failure, the target is knocked **Prone** and **Grappled**.
 
 ### Abilities
 **Vampiric Regeneration:** Regains 5 HP at start of its turn unless it took Radiant or Fire damage last round.
@@ -102,7 +102,7 @@ Not all vampires retain their nobility and cunning. Those who give in completely
 
 **Sunlight Weakness:** Takes 10 Fire damage at start of turn if in direct sunlight. DV reduced by 2 in sunlight.
 
-**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
 ### Reactions
 **Predator's Evasion** (Reaction, when hit by attack)
@@ -144,30 +144,30 @@ Revenants are the restless dead bound to unfinished purpose. Unlike mindless und
 - **Initiative:** 3
 - **Movement:** 30 feet (6 squares)
 - **Attributes:** Fury 3, Soul 3, Shadow 2, Will 3, Focus 2, Blood 0
-- **Skills:** Weapon Mastery 2, Intimidation 3, Concentration (Will): 2
+- **Skills:** Weapon Mastery 2, Intimidation 3, Concentration: 2
 
 ### Attacks
 **Cursed Blade** (Action)
 - **Dice Pool:** Fury 3 + Weapon Mastery 2 = 5d6
-- **Damage:** 5 physical (Slashing) + 2 Spectral damage
+- **Damage:** 5 Physical (Slashing) + 2 Spectral damage
 - **Special:** Blade counts as magical for overcoming resistances
 
 **Spectral Grasp** (Action)
 - **Dice Pool:** Shadow 2 + 0 = 2d6
 - **Damage:** 4 Spectral damage (ignores Physical Armor)
 - **Range:** 15 feet (3 squares)
-- **Special:** Target must make DR 2 Will save or be Frightened until end of next turn
+- **Special:** Target makes a DR 2 Will save. On failure, the target is **Frightened** until end of next turn.
 
 ### Abilities
-**Undying Purpose:** When reduced to 0 HP, make DR 3 Will save. On success, remain at 1 HP and gain temporary 10 HP. Can only use once per long rest.
+**Undying Purpose:** When reduced to 0 HP, make a DR 3 Will save. On success, remain at 1 HP and gain temporary 10 HP. Can only use once per long rest.
 
 **Spectral Sight:** Can see into Spectral Realm, detecting hidden wraiths and phase-shifted creatures.
 
 **Purpose-Bound:** Cannot voluntarily move more than 100 feet from the object, location, or person they're bound to protect/hunt/avenge.
 
-**Undead Wilderness:** Immune to Soul Drain, poison, disease, charm. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease, **Charmed**. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
-**Deathless Concentration:** Advantage on saves against being stunned or paralyzed.
+**Deathless Concentration:** Advantage on saves against being **Stunned** or **Paralyzed**.
 
 ### Reactions
 **Vengeful Riposte** (Reaction, when hit by melee attack)
@@ -210,23 +210,23 @@ Created through necromantic rituals involving immolation, Bone-Pyre Skeletons ar
 ### Attacks
 **Burning Blade** (Action)
 - **Dice Pool:** Fury 2 + 0 = 2d6
-- **Damage:** 3 physical (Slashing) + 2 Fire
+- **Damage:** 3 Physical (Slashing) + 2 Fire
 - **Special:** Weapon is wreathed in ghostly flame
 
 **Ember Burst** (Action, Recharge 5-6)
 - **Dice Pool:** Soul 1 + 0 = 1d6
 - **Damage:** 4 Fire damage
 - **Range:** 10 feet cone (2 squares)
-- **Special:** All creatures in cone must make DR 2 Evasion save, half damage on success
+- **Special:** All creatures in cone make a DR 2 Evasion save. On failure, a creature takes full damage. On success, it takes half damage.
 
 ### Abilities
-**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
 **Flaming Aura:** Creatures that start their turn within 5 feet (1 square) take 1 Fire damage.
 
-**Brittle Bones:** Vulnerability to Bludgeoning damage (takes double).
+**Brittle Bones:** Bludgeoning vulnerability doubles Bludgeoning damage at the Resistance step.
 
-**Death Burst:** When destroyed, explodes in 5-foot radius. All creatures in area take 3 Fire damage (DR 1 Evasion save for half).
+**Death Burst:** When destroyed, explodes in 5-foot radius. Creatures in the area make a DR 1 Evasion save. On failure, a creature takes 3 Fire damage. On success, it takes half damage.
 
 **Behavior Tags:** soldier, brute
 
@@ -261,7 +261,7 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 ### Attacks
 **Ancient Greatsword** (Action)
 - **Dice Pool:** Fury 4 + Weapon Mastery 3 = 7d6
-- **Damage:** 8 physical (Slashing) + 3 Entropic
+- **Damage:** 8 Physical (Slashing) + 3 Entropic
 - **Special:** Two-handed, reach 10 feet
 
 **Life Drain Touch** (Action)
@@ -274,11 +274,11 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 - **Effect:** All mindless undead within range act on Wight's initiative and gain +1 die on attack rolls until start of Wight's next turn
 
 ### Abilities
-**Undead Wilderness:** Immune to Soul Drain, poison, disease, charm, exhaustion. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease, **Charmed**, **Exhaustion**. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
 **Shadow Step:** As Bonus Action, teleport up to 30 feet to area of dim light or darkness.
 
-**Aura of Dread:** Living creatures that start their turn within 15 feet (3 squares) must make DR 3 Will save or be Frightened until start of their next turn. Creatures that succeed are immune for 24 hours.
+**Aura of Dread:** Living creatures that start their turn within 15 feet (3 squares) make a DR 3 Will save. On failure, a creature is **Frightened** until start of its next turn. Creatures that succeed are immune for 24 hours.
 
 **Sunlight Sensitivity:** Disadvantage on attack rolls and Observation checks in direct sunlight.
 
@@ -326,26 +326,26 @@ When lesser vampires are destroyed, their remaining essence sometimes animates n
 ### Attacks
 **Thousand Bites (Swarm Attack)** (Action)
 - **Damage:** 6 Physical damage (reduced to 3 while the swarm is Bloodied)
-- **Special:** Automatically hits all creatures within 5ft of the swarm. No attack roll is required — the sheer volume of biting is unavoidable.
+- **Special:** Automatically hits all creatures within 5 feet of the swarm. No attack roll is required — the sheer volume of biting is unavoidable.
 
 **Blood Drain Swarm** (Action, requires creature in swarm's space)
 - **Dice Pool:** Blood 3 + 0 = 3d6
-- **Damage:** 7 Blood damage (ignores Physical Armor)
+- **Damage:** 7 Physical damage (Blood Drain; ignores Physical Armor)
 - **Special:** Swarm regains HP equal to half damage dealt
 
 **Engulf** (Action, requires movement)
-- **Effect:** Swarm moves through a creature's space. Creature must make DR 3 Evasion save or become Engulfed (Restrained and takes automatic Thousand Bites damage at start of each turn)
+- **Effect:** Swarm moves through a creature's space. The creature makes a DR 3 Evasion save. On failure, it becomes **Engulfed** (**Restrained** and takes automatic Thousand Bites damage at the start of each of its turns). An Engulfed creature can use an Action to attempt a DR 3 Fury save; on success, it escapes, ending the Engulfed condition. On success (initial save), the swarm passes through without latching.
 
 ### Abilities
 **Swarm Wilderness:**
 - Occupies 10-foot cube but can squeeze through any opening
 - Resistant to physical damage from weapons (takes half damage from Slashing, Piercing, Bludgeoning)
-- Vulnerable to area effects (takes double damage from AoE attacks)
-- Cannot be grappled, prone, or restrained
+- Area-effect vulnerability doubles damage from area attacks at the Resistance step
+- Cannot be **Grappled**, **Prone**, or **Restrained**
 
 **Vampiric Regeneration:** Regains 3 HP at start of its turn unless took Fire or Radiant damage last round.
 
-**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
 **Keen Senses:** Advantage on Observation checks related to smell or sound.
 
@@ -375,15 +375,15 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 - **Armor:** 0 (cloth robes)
 - **Initiative:** 3
 - **Movement:** 30 feet (6 squares)
-- Attributes: Fury 2, Soul 4, Shadow 2, Will 2, Focus 3, Blood 3
-- Skills: Ritualism 4, Forbidden Knowledge 3, Persuasion 2
+- **Attributes:** Fury 2, Soul 4, Shadow 2, Will 2, Focus 3, Blood 3
+- **Skills:** Ritualism 4, Forbidden Knowledge 3, Persuasion 2
 
 ### Attacks
 **Blood Bolt** (Action)
 - **Dice Pool:** Soul 2 + Ritualism 4 = 6d6
-- **Damage:** 5 Blood damage
+- **Damage:** 5 Physical damage from blood magic
 - **Range:** 60 feet (12 squares)
-- **Special:** Target must make DR 2 Will save or suffer Bleeding
+- **Special:** Target makes a DR 2 Will save. On failure, the target suffers **Bleeding**.
 
 **Vampiric Touch** (Action, melee)
 - **Dice Pool:** Soul 4 + Ritualism 4 = 8d6
@@ -393,16 +393,16 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 **Blood Curse** (Action, Recharge 5-6)
 - **Dice Pool:** Soul 4 + Forbidden Knowledge 3 = 7d6
 - **Range:** 30 feet (6 squares)
-- **Effect:** Target must make DR 3 Will save or suffer Cursed: -2 dice penalty on all attack rolls and saves for 1 minute. Can repeat save at end of each turn.
+- **Effect:** Target makes a DR 3 Will save. On failure, the target is **Cursed**, suffering a -2 dice penalty on all attack rolls and saves for 1 minute. The target can repeat the save at the end of each turn, ending the effect on a success.
 
 ### Abilities
-**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
 **Ritualism:** Can spend 2 HP to add +1 die to any spell attack or increase spell damage by 2.
 
 **Ritualism Caster:** Given 10 minutes and proper materials, can cast rituals from memory (GM discretion on effects).
 
-**Vampiric Weakness:** Takes double damage from Radiant. Disadvantage in direct sunlight.
+**Vampiric Weakness:** Radiant vulnerability doubles Radiant damage at the Resistance step. Disadvantage in direct sunlight.
 
 ### Reactions
 **Blood Shield** (Reaction, when hit by attack)
@@ -449,12 +449,12 @@ Vampires destroyed by fire sometimes leave behind vengeful spirits—Bloodflame 
 - **Dice Pool:** Soul 4 + Intimidation 3 = 7d6
 - **Range:** 20-foot cone (4 squares)
 - **Damage:** 6 Fire damage
-- **Special:** All creatures in cone must make DR 2 Will save or be Frightened for 1 round
+- **Special:** All creatures in cone make a DR 2 Will save. On failure, a creature is **Frightened** for 1 round.
 
 ### Abilities
 **Incorporeal:** Cannot be harmed by nonmagical physical attacks. Physical attacks pass through harmlessly. Magical weapons and spells affect normally.
 
-**Undead Wilderness:** Immune to Soul Drain, poison, disease, grappled, restrained, prone. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease, and physical **Grappled**, **Restrained**, and **Prone** effects. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
 **Phase Movement:** Can move through creatures and objects, but takes 5 Force damage if it ends turn inside solid object.
 
@@ -540,7 +540,7 @@ Boss-tier undead often need extra action economy to maintain threat against mult
 - **Attack:** Make one weapon or spell attack (1 action)
 - **Command Undead:** All lesser undead within 60 feet act immediately (2 actions)
 - **Life Drain:** Use Life Drain ability at half damage (2 actions)
-- **Frightening Presence:** All enemies within 30 feet make DR 3 Will save or be Frightened until end of next turn (2 actions)
+- **Frightening Presence:** All enemies within 30 feet make a DR 3 Will save. On failure, an enemy is **Frightened** until end of next turn (2 actions)
 
 Use 2 actions for most solo Boss undead and reserve 3 actions for Legendary undead, lair-bound rulers, or campaign capstones. Bosses take Legendary Actions at the end of other creatures' turns.
 
@@ -573,24 +573,24 @@ Most Overlords were once members of the great vampire clans, and some still carr
 
 **Sovereign Claws** (Action)
 - **Dice Pool:** Fury 5 + Weapon Mastery 3 = 8d6
-- **Damage:** 8 physical (Slashing) + Bleeding
+- **Damage:** 8 Physical (Slashing) + **Bleeding**
 - **Special:** **Multiattack:** The Overlord makes two Sovereign Claw attacks as a single Attack action
 
 **Blood Dominion** (Action, costs 3 SE)
 - **Dice Pool:** Soul 4 + Intimidation 5 = 9d6
 - **Range:** 60 feet (12 squares)
 - **Damage:** None
-- **Special:** Target must make DR 4 Will save or be **Dominated** for 1 round. While Dominated this way, the target must obey the Overlord's verbal commands and cannot willingly attack the Overlord. On Critical Hit (3+ successes), duration extends to 2 rounds. Vampiric and undead targets automatically fail.
+- **Special:** Target makes a DR 4 Will save. On failure, the target is **Dominated** for 1 round. While Dominated this way, the target must obey the Overlord's verbal commands and cannot willingly attack the Overlord. On Critical Hit (3+ successes), duration extends to 2 rounds. Vampiric and undead targets automatically fail.
 
 **Crimson Torrent** (Action, Recharge 5-6)
 - **Dice Pool:** Blood 6 + 0 = 6d6
 - **Range:** 30-foot cone (6 squares)
-- **Damage:** 10 Blood damage to all creatures in cone
-- **Special:** DR 3 Blood save to halve damage. Allied undead and vampires in the area regain 5 HP instead of taking damage.
+- **Damage:** 10 Physical damage from blood magic to all creatures in cone
+- **Special:** Creatures in the cone make a DR 3 Blood save. On failure, a creature takes full damage. On success, it takes half damage. Allied undead and vampires in the area regain 5 HP instead of taking damage.
 
 **Blood Drain** (Action, requires Grapple)
 - **Dice Pool:** Fury 5 + Athletics 4 = 9d6
-- **Damage:** 12 Blood damage (ignores Physical Armor)
+- **Damage:** 12 Physical damage (Blood Drain; ignores Physical Armor)
 - **Special:** The Overlord regains HP equal to damage dealt. Target's max HP is reduced by half the damage until they complete a long rest.
 
 ### Abilities
@@ -601,15 +601,15 @@ Most Overlords were once members of the great vampire clans, and some still carr
 
 **Command Undead:** As a Bonus Action, all non-Boss undead allies within 60 feet may immediately move up to half their speed and make one attack.
 
-**Mist Form:** When reduced to 0 HP for the first time, the Overlord does not die. Instead, it dissolves into mist (Incorporeal, immune to all damage, 60 feet Fly speed) for 1 round. At the start of its next turn, it reforms with 20 HP at any location within 60 feet. Blocking this requires Radiant damage, anti-undead wards, or sunlight in the area where it attempts to reform.
+**Mist Form:** When reduced to 0 HP for the first time, the Overlord does not die. Instead, it dissolves into mist for 1 round. While in mist form it is **Incorporeal**, has a 60-foot Fly speed, cannot attack, cannot use Legendary Actions, and is immune to damage and effects except Radiant damage, anti-undead wards, or direct sunlight. At the start of its next turn, it reforms with 20 HP at any location within 60 feet. If Radiant damage, an anti-undead ward, or direct sunlight affects the space where it attempts to reform, Mist Form ends and the Overlord is destroyed instead.
 
 **Sunlight Vulnerability:** Takes 15 Fire damage at start of turn in direct sunlight. DV reduced by 3 in sunlight.
 
-**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
 **Legendary Resistance (3/day):** When the Overlord fails a save, it can choose to succeed instead.
 
-### Legendary Actions (2/round)
+### Legendary Actions (2 per round)
 - **Move:** Fly or walk up to full speed without provoking opportunity attacks (1 action)
 - **Sovereign Claws:** Make one Sovereign Claw attack (1 action)
 - **Blood Dominion:** Use Blood Dominion on one target (2 actions)
@@ -666,24 +666,24 @@ Grave-Knights are often bound to a specific location (a battlefield, a fortress,
 
 **Cursed Greatsword** (Action)
 - **Dice Pool:** Fury 4 + Weapon Mastery 3 = 7d6
-- **Damage:** 9 physical (Slashing) + 2 Cold damage
-- **Special:** On Critical Hit (3+ successes), target is **Weakened** (Disadvantage on attack rolls) for 1 round as necrotic frost seeps into the wound
+- **Damage:** 9 Physical (Slashing) + 2 Cold damage
+- **Special:** On Critical Hit (3+ successes), the target is **Shaken** for 1 round as necrotic frost seeps into the wound.
 
 **Gravetide Strike** (Action, Recharge 5-6)
 - **Dice Pool:** Fury 4 + Athletics 3 = 7d6
-- **Range:** Weapon Mastery
-- **Damage:** 12 physical (Slashing) + 4 Cold damage
-- **Special:** Target must make DR 3 Blood save or be knocked **Prone** and become **Staggered** until the end of their next turn.
+- **Range:** Melee (5 feet)
+- **Damage:** 12 Physical (Slashing) + 4 Cold damage
+- **Special:** Target makes a DR 3 Blood save. On failure, the target is knocked **Prone** and becomes **Staggered** until the end of their next turn.
 
-**Death's Command** (Action, 1/encounter)
+**Death's Command** (Action, once per encounter)
 - **Dice Pool:** Will 4 + Tactics 3 = 7d6
 - **Range:** 60 feet (12 squares)
 - **Damage:** None
-- **Special:** All undead allies within 60 feet immediately make one free weapon attack against the nearest enemy. Additionally, all undead allies within range gain +1 DV until end of the Commander's next turn.
+- **Special:** Each undead ally within 60 feet may immediately make one weapon attack as part of this command, without spending its own Action or Reaction. Additionally, all undead allies within range gain +1 DV until end of the Commander's next turn.
 
 ### Abilities
 
-**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
 **Commander's Presence:** All undead allies within 30 feet gain +1 die on attack rolls (the Commander's tactical aura organizes their assault).
 
@@ -749,7 +749,7 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 - **Dice Pool:** Soul 6 + Glyphcasting 4 = 10d6 vs DV
 - **Range:** 40 feet
 - **Damage:** 8 Piercing + 4 Entropic
-- **Special:** On Critical Hit, target is Impaled (Restrained; DR 4 Blood save to escape as action).
+- **Special:** On Critical Hit, target is Impaled (**Restrained**; DR 4 Blood save to escape as action).
 
 **Raise Dead** (Action, costs 8 SE)
 - **Effect:** Summon 2 Feralslave Ghouls (TV 2 each) or 1 Nosgothian Revenant (TV 4) within 30 feet. Maximum of 6 summoned undead at once. Summoned undead act on the Archon's initiative.
@@ -758,10 +758,10 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 - **Dice Pool:** Soul 6 + Ritualism 5 = 11d6
 - **Range:** 25 foot radius centered on Archon
 - **Damage:** 14 Entropic
-- **Special:** Living creatures in the area make a DR 4 Will save for half damage. Undead allies in the area are healed for 8 HP instead.
+- **Special:** Living creatures in the area make a DR 4 Will save. On failure, a creature takes full damage. On success, it takes half damage. Undead allies in the area are healed for 8 HP instead.
 
 ### Abilities
-**Undead Wilderness:** Immune to Soul Drain, poison, disease, fear, charm, sleep. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease, **Frightened**, **Charmed**, **Sleep**. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
 **Phylactery Bond:** The Archon's soul is bound to a hidden phylactery. When reduced to 0 HP, the Archon is destroyed but reforms at its phylactery in 1d6 days. The phylactery has HP: 30, DV: 4, Armor: 6, and is typically hidden in a location 1–5 miles away. Destroying the phylactery first is the only way to permanently kill the Archon.
 
@@ -769,13 +769,13 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 
 **Legendary Resistance (2/day):** If the Archon fails a save, it can choose to succeed instead.
 
-### Legendary Actions (3/round)
+### Legendary Actions (3 per round)
 - **Soul Scourge (1 action):** Make one Soul Scourge attack at half damage (5 Spectral).
 - **Command Undead (1 action):** One undead ally within 60 feet can immediately move up to its speed or make one attack.
 - **Dark Rebuke (2 actions):** When an enemy within 30 feet casts a spell, the Archon can counter it. Roll Soul 6 + Glyphcasting 4 = 10d6 vs DR 4. On success, the spell is negated and the Archon regains 5 SE.
 
 ### Lair Action
-- **Bone Tide:** On initiative count 20, skeletal hands erupt from the ground in a 20-foot radius area. Creatures in the area must pass a DR 4 Blood save or be Restrained until the end of their next turn.
+- **Bone Tide:** On initiative count 20, skeletal hands erupt from the ground in a 20-foot radius area. Creatures in the area make a DR 4 Blood save. On failure, a creature is **Restrained** until the end of its next turn.
 
 **Behavior Tags:** boss, summoner, controller
 
@@ -825,14 +825,14 @@ Unlike Feralslave Ghouls, which are animated by lingering soul-fragments, Risen 
 
 **Lurching Strike** (Action)
 - **Dice Pool:** Fury 2 = 2d6
-- **Damage:** 3 physical (Bludgeoning)
+- **Damage:** 3 Physical (Bludgeoning)
 - **Special:** If the Thrall rolls 2 successes, the target is **Staggered** until the end of their next turn.
 
 ### Abilities
 
-**Mindless Advance:** Immune to Frightened, Charmed, and Confused. Cannot be demoralized. Ignores difficult terrain caused by writhing undead or corpse-piles.
+**Mindless Advance:** Immune to **Frightened**, **Charmed**, and **Confused**. Cannot be demoralized. Ignores difficult terrain caused by writhing undead or corpse-piles.
 
-**Undead Wilderness:** Immune to Soul Drain, poison, and disease. Takes double damage from Radiant sources.
+**Undead Wilderness:** Immune to Soul Drain, poison, and disease. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
 **Slow:** Cannot use Reactions. Movement is always 20 feet regardless of modifiers.
 
@@ -849,7 +849,7 @@ Risen Thralls swarm and absorb damage. Their sole value is being in the way. GMs
 
 ### Scaling Options
 - **Armored Thrall (Standard, TV 4):** HP: 14, DV: 3, Armor: 2. Gains Shield Block (Reaction: reduce melee damage by 3).
-- **Charged Thrall (Elite, TV 6):** HP: 25, DV: 3, Armor: 1. Explodes on death: 10-foot radius, 4 Entropic damage, DR 2 Blood save to halve.
+- **Charged Thrall (Elite, TV 6):** HP: 25, DV: 3, Armor: 1. Explodes on death in a 10-foot radius. Creatures in the area make a DR 2 Blood save. On failure, a creature takes 4 Entropic damage. On success, it takes half damage.
 
 ---
 
@@ -883,23 +883,23 @@ Fledglings have not yet mastered the full array of vampiric powers, but they are
 
 **Claw Swipe** (Action)
 - **Dice Pool:** Fury 3 + Weapon Mastery 1 = 4d6
-- **Damage:** 4 physical (Slashing)
+- **Damage:** 4 Physical (Slashing)
 - **Special:** Can be used as a second action if the Frenzied Bite missed
 
 ### Abilities
 
-**Blood Frenzy (Reaction):** The first time the Fledgling becomes Bloodied, it immediately makes one free Frenzied Bite attack against the nearest creature. This cannot trigger again until it is at full HP.
+**Blood Frenzy (Reaction):** The first time the Fledgling becomes Bloodied, it immediately makes one Frenzied Bite attack against the nearest creature as part of this Reaction. This cannot trigger again until it is at full HP.
 
 **Vampiric Resilience:** Immune to Soul Drain, poison, disease. Regains 2 HP at the start of each turn if it fed within the last minute (has ≥1 BP drained from a living target this combat).
 
 **Sunlight Sensitivity:** In direct sunlight, the Fledgling has −2 dice on all attack rolls and saves and loses Vampiric Resilience regeneration.
 
-**Uncontrolled Hunger:** If the Fledgling witnesses a creature at 0 HP, it must make a DR 2 Will save or spend its next action feeding on that creature instead of engaging other targets.
+**Uncontrolled Hunger:** If the Fledgling witnesses a creature at 0 HP, it makes a DR 2 Will save. On failure, it spends its next action feeding on that creature instead of engaging other targets.
 
 **Behavior Tags:** ambusher, skirmisher
 
 ### Tactics
-Fledglings rush the closest target, prioritizing wounded PCs to chain their Blood Frenzy proc. They are reckless — an elder vampire directing them might position them to absorb flanking attacks. When a Fledgling enters its second Frenzy, other enemies should press their advantage; the distraction is free action economy.
+Fledglings rush the closest target, prioritizing wounded PCs to chain their Blood Frenzy proc. They are reckless — an elder vampire directing them might position them to absorb flanking attacks. When a Fledgling enters its second Frenzy, other enemies should press their advantage while the party is distracted.
 
 ### Loot
 - Blood-soaked clothing (still warm; unsettling)
@@ -939,15 +939,15 @@ Archers are more tactically valuable than their TV suggests; their positioning a
 - **Dice Pool:** Focus 2 + Weapon Mastery 1 = 3d6
 - **Damage:** 3 Piercing
 - **Range:** 60 feet (12 squares)
-- **Special:** Skeletal Archers can fire into melee without disadvantage (they lack the judgment to care)
+- **Special:** Skeletal Archers can fire into melee without Disadvantage (they lack the judgment to care)
 
 ### Abilities
 
-**Undead Wilderness:** Immune to Soul Drain, poison, disease. Takes double damage from Radiant sources.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
-**Dead Eyes:** Immune to Blinded, Frightened, and all emotion-based effects; unaffected by Darkness (no vision to impair).
+**Dead Eyes:** Immune to **Blinded**, **Frightened**, and all emotion-based effects; unaffected by Darkness (no vision to impair).
 
-**Brittle Frame:** When a Skeletal Archer takes 5 or more damage from a single hit, it must make a DR 2 Blood save (use GM discretion since it has no Blood) or fall to 0 HP (shatters outright). Treat as auto-fail.
+**Brittle Frame:** When a Skeletal Archer takes 5 or more damage from a single hit, it makes a DR 2 Blood save (use GM discretion since it has no Blood). On failure, it falls to 0 HP and shatters outright. Treat as auto-fail.
 
 **Behavior Tags:** soldier, ambusher
 
@@ -959,8 +959,8 @@ Place Skeletal Archers in elevated positions, windows, or behind barricades. The
 - Bone material (raw material) — **Trade Value**: 1 supply
 
 ### Scaling Options
-- **Veteran Skeletal Archer (Standard, TV 4):** HP: 10, DV: 3, Focus 3, Weapon Mastery 2. Add Pinning Shot: on hit, DR 2 Blood save or target's movement is halved until end of next turn.
-- **Cursed Archer (Elite, TV 6):** HP: 18, DV: 3. Arrows deal 2 extra Entropic damage and inflict Bleeding. Add Death's Aim: once per encounter, makes two arrow attacks with one action.
+- **Veteran Skeletal Archer (Standard, TV 4):** HP: 10, DV: 3, Focus 3, Weapon Mastery 2. Add Pinning Shot: on hit, the target makes a DR 2 Blood save. On failure, the target's movement is halved until end of next turn.
+- **Cursed Archer (Elite, TV 6):** HP: 18, DV: 3. Arrows deal 2 extra Entropic damage and inflict **Bleeding**. Add Death's Aim: once per encounter, makes two arrow attacks with one action.
 
 ---
 
@@ -989,18 +989,18 @@ Vampire lords prize them as palace guards and tomb sentinels. They don't sleep, 
 
 **Longsword** (Action)
 - **Dice Pool:** Fury 2 + Weapon Mastery 2 = 4d6
-- **Damage:** 5 physical (Slashing)
+- **Damage:** 5 Physical (Slashing)
 
 **Shield Bash** (Bonus Action, requires Shield)
 - **Dice Pool:** Fury 2 = 2d6
 - **Damage:** 3 Bludgeoning
-- **Special:** On hit, target must make DR 2 Blood save or be **Staggered** until the end of their next turn.
+- **Special:** On hit, target makes a DR 2 Blood save. On failure, the target is **Staggered** until the end of their next turn.
 
 ### Abilities
 
 **Shield Block (Reaction):** When hit by a melee attack, the Skeletal Knight reduces damage by 3.
 
-**Undead Sentinel:** Immune to Soul Drain, poison, disease. Not affected by Frightened, Charmed, or morale-based effects.
+**Undead Sentinel:** Immune to Soul Drain, poison, disease. Not affected by **Frightened**, **Charmed**, or morale-based effects.
 
 **Martial Echo:** The Skeletal Knight fights with faint remnants of its former training. It will Hold a position, provide cover to adjacent undead, and use Shield Bash before Longsword when outnumbered.
 
@@ -1015,8 +1015,8 @@ Skeletal Knights are the doorstep guardians of Nosgoth's dungeons. They hold cor
 - Bone material — **Trade Value**: 1 supply
 
 ### Scaling Options
-- **Knight-Commander (Elite, TV 5):** HP: 22, DV: 4, Armor: 3, Fury 3, Will 2, Weapon Mastery 3. Add **Rally the Dead (Action, 1/encounter):** All undead allies within 30 feet gain +1 die on attacks until end of the Knight-Commander's next turn.
-- **Deathguard Champion (Boss, TV 9):** HP: 48, DV: 5, Armor: 4, Fury 4, Will 3. Add Legendary Resistance (1/day). Longsword deals 7 damage + Bleeding. Add Athletics (2 actions): move up to 20 feet in a line; all creatures in path make DR 3 Blood save or take 5 damage and are knocked Prone.
+- **Knight-Commander (Elite, TV 5):** HP: 22, DV: 4, Armor: 3, Fury 3, Will 2, Weapon Mastery 3. Add **Rally the Dead (Action, once per encounter):** All undead allies within 30 feet gain +1 die on attacks until end of the Knight-Commander's next turn.
+- **Deathguard Champion (Boss, TV 9):** HP: 48, DV: 5, Armor: 4, Fury 4, Will 3. Add Legendary Resistance (1/day). Longsword deals 7 damage + Bleeding. Add Athletics (2 actions): move up to 20 feet in a line; all creatures in path make a DR 3 Blood save. On failure, a creature takes 5 damage and is knocked **Prone**.
 
 ---
 
@@ -1060,13 +1060,13 @@ Most Zealots barely understand the Fracture's true goals. They know they are par
 
 **Frenzied Claw** (Action)
 - **Dice Pool:** Fury 3 + Weapon Mastery 3 = 6d6 vs DV
-- **Range:** Weapon Mastery
+- **Range:** Melee (5 feet)
 - **Damage:** 6 Physical (Slashing)
-- **Special:** On Critical Hit, target Bleeds (1 Physical damage at the start of each turn until treated or a DR 1 Blood check is passed as an action).
+- **Special:** On Critical Hit, target suffers **Bleeding** (1 Physical damage at the start of each turn until treated or a DR 1 Blood check is passed as an action).
 
-**Berserker Rush** (Action, 1/encounter)
+**Berserker Rush** (Action, once per encounter)
 - **Dice Pool:** Fury 3 + Weapon Mastery 3 = 6d6 vs DV
-- **Range:** Weapon Mastery (move up to full speed before attacking)
+- **Range:** Melee (5 feet; move up to full speed before attacking)
 - **Damage:** 8 Physical (Impact)
 - **Special:** On hit, target is knocked back 10 feet.
 
@@ -1091,7 +1091,7 @@ Zealots charge the nearest target without hesitation, prioritizing isolated or u
 
 ### Scaling Options
 - **Fracture Recruit (Standard, TV 3):** HP: 12, remove Realm-Touched. BP: 6. Pure frenzy, no spectral aspect.
-- **Fracture Fanatic (Elite, TV 7):** HP: 32, DV: 4, Blood 3. Add *Bloodlust*: on killing a target, immediately make one free attack against the nearest enemy.
+- **Fracture Fanatic (Elite, TV 7):** HP: 32, DV: 4, Blood 3. Add *Bloodlust*: once per turn, when the Fanatic kills a target, it may immediately make one weapon attack against the nearest enemy without spending an additional Action.
 
 ---
 
@@ -1121,9 +1121,9 @@ The process is not without cost. Every Dimension-Walker bears the mark of their 
 
 **Voidblade** (Action)
 - **Dice Pool:** Fury 3 + Weapon Mastery 3 = 6d6 vs DV
-- **Range:** Weapon Mastery
+- **Range:** Melee (5 feet)
 - **Damage:** 8 Physical + 3 Spectral
-- **Special:** On Critical Hit, target must pass a DR 3 Will save or be Disoriented (Disadvantage on their next action roll).
+- **Special:** On Critical Hit, the target makes a DR 3 Will save. On failure, the target has Disadvantage on their next action roll.
 
 **Spectral Strike** (Action)
 - **Dice Pool:** Soul 3 + Ethereal Mastery 3 = 6d6 vs Will
@@ -1152,7 +1152,7 @@ The Dimension-Walker opens combat behind the front line, using Realm Shift to ap
 
 ### Scaling Options
 - **Fracture Phase-Scout (Elite, TV 6):** HP: 30, remove Spectral Strike. Realm Shift recharges on 5-6 (roll 1d6 at start of each turn). Focus 1.
-- **Fracture Rift-Breaker (Boss, TV 13):** HP: 75, DV: 5. Realm Shift can carry one willing or unwilling creature within 5 feet. Add *Rift Bomb* (Action, costs 10 SE): 20-foot radius Spectral blast, 10 Spectral damage; DR 3 Will save for half.
+- **Fracture Rift-Breaker (Boss, TV 13):** HP: 75, DV: 5. Realm Shift can carry one willing or unwilling creature within 5 feet. Add *Rift Bomb* (Action, costs 10 SE): 20-foot radius Spectral blast. Creatures in the area make a DR 3 Will save. On failure, a creature takes 10 Spectral damage. On success, it takes half damage.
 
 ---
 
@@ -1182,17 +1182,17 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 
 **Void Rend** (Action)
 - **Dice Pool:** Fury 4 + Weapon Mastery 4 = 8d6 vs DV
-- **Range:** Weapon Mastery
+- **Range:** Melee (5 feet)
 - **Damage:** 12 Physical + 5 Spectral
-- **Special:** On Critical Hit, target is *Phased* (can pass through solid objects but takes 3 Spectral damage at the start of each of their turns; lasts until they pass a DR 3 Will save as an action).
+- **Special:** On Critical Hit, the target partially phases out of alignment. While partially phased, it can pass through solid objects but takes 3 Spectral damage at the start of each of its turns. The effect lasts until the target uses an Action and succeeds on a DR 3 Will save.
 
 **Reality Fracture** (Action, costs 8 SE)
 - **Dice Pool:** Soul 4 + Ethereal Mastery 4 = 8d6 vs Will (area)
 - **Range:** 25-foot radius burst centered on the Void-Touched
 - **Damage:** 10 Physical + 8 Spectral
-- **Special:** Creatures who fail their save are Disoriented (Disadvantage on the next 2 action rolls). Half damage on successful save.
+- **Special:** Creatures that fail their save take full damage and have Disadvantage on their next 2 action rolls. On success, they take half damage and avoid the Disadvantage rider.
 
-**Commanding Roar** (Bonus Action, 1/round)
+**Commanding Roar** (Bonus Action, once per round)
 - All Crimson Fracture allies within 60 feet gain Advantage on their next attack roll.
 
 ### Abilities
@@ -1201,16 +1201,16 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 
 **Dimensional Instability:** The Void-Touched partially exists in both realms simultaneously. Physical attacks against it have a 1-in-6 chance of passing through harmlessly (roll 1d6 on each hit; on a result of 1, the attack misses regardless of other rolls). Spectral, Soul, and Radiant attacks bypass this effect.
 
-**Merge Protocol** (Action, 1/encounter): Two Fracture Dimension-Walkers (TV 9 each) step through a dimensional breach and appear within 30 feet of the Void-Touched. These allies act on the Void-Touched's initiative count.
+**Merge Protocol** (Action, once per encounter): Two Fracture Dimension-Walkers (TV 9 each) step through a dimensional breach and appear within 30 feet of the Void-Touched. These allies act on the Void-Touched's initiative count.
 
 **Feral Council Authority:** All Crimson Fracture allies within 60 feet gain +1 die on attack rolls.
 
 **Legendary Resistance (1/day):** When the Void-Touched fails a save, it may choose to succeed instead.
 
-### Legendary Actions (2/round)
+### Legendary Actions (2 per round)
 - **Void Rend (1 action):** Make one Void Rend attack at half damage (6 Physical + 2 Spectral).
-- **Realm Pulse (1 action):** All creatures within 15 feet must pass a DR 3 Will save or be pushed 15 feet and become **Staggered** until the end of their next turn.
-- **Summon Zealot (2 actions, 1/encounter):** One Fracture Zealot (TV 5) tears through a dimensional breach and arrives within 30 feet.
+- **Realm Pulse (1 action):** All creatures within 15 feet make a DR 3 Will save. On failure, a creature is pushed 15 feet and becomes **Staggered** until the end of its next turn.
+- **Summon Zealot (2 actions, once per encounter):** One Fracture Zealot (TV 5) tears through a dimensional breach and arrives within 30 feet.
 
 ### Lair Action
 **Dimensional Seam:** On initiative count 20, the boundary between realms tears open at a random 15-foot radius zone within the encounter area. Creatures in the zone are **Deafened** until they leave the area or the Void-Touched is defeated.
@@ -1259,11 +1259,11 @@ Banshees are spirits of grief so concentrated that they linger as weapons. Some 
 - **Dice Pool:** Soul 4 + Intimidation 4 = 8d6
 - **Range:** 20-foot radius (4 squares), centered on self
 - **Damage:** 2 Spectral damage
-- **Special:** Living creatures in the area must make a DR 2 Will save or become **Frightened** for 2 rounds.
+- **Special:** Living creatures in the area make a DR 2 Will save. On failure, a creature becomes **Frightened** for 2 rounds.
 
 **Spectral Touch** (Action)
 - **Dice Pool:** Soul 4 + 0 = 4d6
-- **Range:** Weapon Mastery
+- **Range:** Melee (5 feet)
 - **Damage:** 2 Spectral damage
 - **Special:** Ignores Physical Armor.
 
@@ -1272,9 +1272,9 @@ Banshees are spirits of grief so concentrated that they linger as weapons. Some 
 
 **Funeral Cold:** Resistant to Fire and Cold damage. The Banshee's form is a death-chill rather than living flame.
 
-**Undead Wilderness:** Immune to Soul Drain, poison, disease, and Bleeding. Takes double damage from Radiant.
+**Undead Wilderness:** Immune to Soul Drain, poison, disease, and Bleeding. Radiant vulnerability doubles Radiant damage at the Resistance step.
 
-**Sorrow Made Audible:** Creatures that are already Frightened by the Banshee take +1 Spectral damage from its Spectral Touch.
+**Sorrow Made Audible:** Creatures that are already **Frightened** by the Banshee take +1 Spectral damage from its Spectral Touch.
 
 **Behavior Tags:** controller, phase_shifter, artillery
 
@@ -1288,7 +1288,7 @@ The Banshee opens with Death Shriek from behind cover or through a wall, then gl
 
 ### Scaling Options
 - **Restless Banshee (Standard, TV 3):** HP: 10, DV: 3, Death Shriek only Frightens on a failed save and loses Sorrow Made Audible.
-- **Cathedral Banshee (Boss, TV 8):** HP: 28, DV: 4, Soul 5, Will 5. Death Shriek damage becomes 4 Spectral and it gains **Echoing Choir** (once per encounter): all creatures currently Frightened take 3 automatic Spectral damage.
+- **Cathedral Banshee (Boss, TV 8):** HP: 28, DV: 4, Soul 5, Will 5. Death Shriek damage becomes 4 Spectral and it gains **Echoing Choir** (once per encounter): all creatures currently **Frightened** take 3 automatic Spectral damage.
 
 ---
 
@@ -1304,7 +1304,7 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 >
 > *Modify any vampire stat block:* +1 Spectral, +1 Shadow.
 >
-> **Spectral Glide** (Bonus Action, once per scene): Until the start of its next turn, the Razielim may move up to 40 feet horizontally through the air, gaining the benefits of elevation and not provoking opportunity attacks. Attacks against it have -1 die while gliding.
+> **Spectral Glide** (Bonus Action, once per encounter): Until the start of its next turn, the Razielim may move up to 40 feet horizontally through the air, gaining the benefits of elevation and not provoking opportunity attacks. Attacks against it have -1 die while gliding.
 >
 > *Weakness:* Razielim take +2 damage from Entropic effects — the structural instability of their spectral wings makes them vulnerable to dissolution damage.
 
@@ -1314,7 +1314,7 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 >
 > *Modify any vampire stat block:* +1 Fury, +1 Will. +1 Armor (telekinetic reinforcement).
 >
-> **Telekinetic Bulwark** (Reaction, once per scene): When an ally within 30 feet is hit by an attack, the Turelim interposes with telekinetic force — reduce the damage by the Turelim's Fury, to a maximum of 3.
+> **Telekinetic Bulwark** (Reaction, once per encounter): When an ally within 30 feet is hit by an attack, the Turelim interposes with telekinetic force — reduce the damage by the Turelim's Fury, to a maximum of 3.
 >
 > *Weakness:* Turelim cannot benefit from Stealth checks — their presence announces itself through subconscious telekinetic tremors that cause minor vibrations in nearby surfaces.
 
@@ -1322,9 +1322,9 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 
 > **Dumahim Vampire** — *Stoic titans; entombed for centuries, patient beyond mortal comprehension*
 >
-> *Modify any vampire stat block:* +2 Blood, +1 Armor. Movement reduced by 5 feet (minimum 25 ft).
+> *Modify any vampire stat block:* +2 Blood, +1 Armor. Movement reduced by 5 feet (minimum 25 feet).
 >
-> **Earthshaker Strike** (Action, once per scene): The Dumahim drives its weapon or fist into the ground with seismic force. All creatures within 10 feet must pass a DR 3 Blood save or be knocked **Prone** and become **Staggered** until the end of their next turn.
+> **Earthshaker Strike** (Action, once per encounter): The Dumahim drives its weapon or fist into the ground with seismic force. All creatures within 10 feet make a DR 3 Blood save. On failure, a creature is knocked **Prone** and becomes **Staggered** until the end of its next turn.
 >
 > *Weakness:* Dumahim have Disadvantage on initiative rolls — centuries of dormancy have slowed their reflexes slightly compared to other vampires.
 
@@ -1334,7 +1334,7 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 >
 > *Modify any vampire stat block:* +1 Shadow, +1 Focus.
 >
-> **Ceiling Drop** (Action, 1/encounter): If the Zephonim is clinging to a surface above its target, it drops onto them from height. The target must pass a DR 3 Blood save or take +6 Physical damage and be knocked Prone. This counts as an Stealth — the Zephonim's location is not revealed until impact.
+> **Ceiling Drop** (Action, once per encounter): If the Zephonim is clinging to a surface above its target, it drops onto them from height. The target makes a DR 3 Blood save. On failure, the target takes +6 Physical damage and is knocked **Prone**. This counts as an Stealth — the Zephonim's location is not revealed until impact.
 >
 > *Weakness:* In open, unobstructed terrain, the Zephonim suffers -1 DV — their instincts are calibrated for vertical, enclosed spaces and they lose their positional advantage in the open.
 
@@ -1344,7 +1344,7 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 >
 > *Modify any vampire stat block:* +1 Fury, +1 Blood.
 >
-> **The Mending** (Bonus Action, once per scene): If a corpse or large flesh component is within 5 feet, the Melchiahim grafts it onto themselves, restoring 1d6+2 HP and gaining +1 Armor until their next rest.
+> **The Mending** (Bonus Action, once per encounter): If a corpse or large flesh component is within 5 feet, the Melchiahim grafts it onto themselves, restoring 1d6+2 HP and gaining +1 Armor until their next rest.
 >
 > **Decay Aura** (Passive): Living creatures that start their turn within 5 feet of the Melchiahim take 2 Entropic damage from the necrotizing field generated by the Mending-process.
 >
@@ -1354,9 +1354,9 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 
 > **Rahabim Vampire** — *Aquatic predators; translucent-skinned, scaled, and deeply territorial*
 >
-> *Modify any vampire stat block:* +1 Blood, +1 Focus. Gain swim speed 40 ft and Amphibious (breathe underwater indefinitely).
+> *Modify any vampire stat block:* +1 Blood, +1 Focus. Gain swim speed 40 feet and Amphibious (breathe underwater indefinitely).
 >
-> **Amphibious Lunge** (Action, when in water or wet terrain): The Rahabim moves at double speed through water and immediately makes an attack. If the target is not aquatic, they must pass a DR 2 Blood save or be **Grappled**. If applicable, the Rahabim also pulls the target underwater.
+> **Amphibious Lunge** (Action, when in water or wet terrain): The Rahabim moves at double speed through water and immediately makes an attack. If the target is not aquatic, they make a DR 2 Blood save. On failure, the target is **Grappled**. If applicable, the Rahabim also pulls the target underwater.
 >
 > **Hydraulic Pressure** (Active, costs 3 SE, while submerged): All creatures within 15 feet of the Rahabim in water take 4 Force damage as it manipulates local water pressure.
 >
@@ -1367,4 +1367,3 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 *"Six clans. Six philosophies of what it means to be eternal. And every one of them wrong in the same fundamental way."*
 
 *— Raziel*
-

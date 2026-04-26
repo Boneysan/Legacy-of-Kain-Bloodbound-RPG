@@ -62,7 +62,7 @@ Echo Serpents are the spectral remnants of great serpents that died in places of
 **Spectral Bite** (Action)
 - **Dice Pool:** Fury 3 + 0 = 3d6
 - **Damage:** 5 Spectral damage (ignores Physical Armor)
-- **Special:** Target must make DR 2 Will save or suffer **Soul Drain** (max SE also reduced by 2 until short rest)
+- **Special:** Target makes a DR 2 Will save. On failure, the target suffers **Soul Drain** (max SE also reduced by 2 until short rest).
 
 **Coiling Grasp** (Action, requires hit with Spectral Bite)
 - **Effect:** Target becomes **Grappled** and **Restrained** by spectral coils. The target takes 3 automatic Spectral damage at the start of each turn while held.
@@ -74,7 +74,7 @@ Echo Serpents are the spectral remnants of great serpents that died in places of
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons and spells affect normally.
 
-**Spectral Wilderness:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease.
+**Spectral Wilderness:** Cannot be **Grappled**, **Restrained**, or knocked **Prone** by physical means. Immune to poison, disease.
 
 **Phase Movement:** Can move through walls and objects but takes 5 Force damage if ends turn inside solid matter.
 
@@ -115,8 +115,8 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 **Identity Theft** (Action, requires line of sight to target)
 - **Dice Pool:** Soul 4 + Infiltration 4 = 8d6
 - **Range:** 30 feet (6 squares)
-- **Effect:** Target must make DR 3 Will save or become Frightened and Weakened. While in this state, perceives allies as enemies. Can repeat save at end of each turn. Lasts 1 minute.
-- **Special:** While target is Confused, Mirror Wraith takes their appearance perfectly
+- **Effect:** Target makes a DR 3 Will save. On failure, the target becomes **Frightened** and **Confused** for 1 minute. While **Confused** this way, the target perceives allies as enemies. The target can repeat the DR 3 Will save at the end of each of its turns, ending both conditions on a success. On success (initial save), no effect.
+- **Special:** While the target is **Confused** this way, the Mirror Wraith takes their appearance perfectly.
 
 **Spectral Claws** (Action)
 - **Dice Pool:** Shadow 4 + 0 = 4d6
@@ -132,7 +132,7 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons and spells affect normally.
 
-**Spectral Wilderness:** Cannot be grappled, restrained, prone. Immune to poison, disease, charm.
+**Spectral Wilderness:** Cannot be **Grappled**, **Restrained**, or **Prone**. Immune to poison, disease, **Charmed**.
 
 **Mirror Image:** At start of combat, creates 1d4 illusory duplicates that occupy same space. When hit, one duplicate disappears. Duplicates shatter when wraith takes Soul or Radiant damage.
 
@@ -148,7 +148,7 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 **Behavior Tags:** controller, phase_shifter, ambusher
 
 ### Tactics
-Opens with Identity Theft on strongest party member to sow chaos. Creates Life Echo duplicates to overwhelm defenses. Uses Mirror Image and Phase Step to aEntropic damage. Targets spellcasters with Reflection Shield.
+Opens with Identity Theft on strongest party member to sow chaos. Creates Life Echo duplicates to overwhelm defenses. Uses Mirror Image and Phase Step to avoid damage. Targets spellcasters with Reflection Shield.
 
 ### Loot
 - Mirror shard containing trapped soul fragments (Trade Value: 50 supplies, can be used in binding rituals)
@@ -157,7 +157,7 @@ Opens with Identity Theft on strongest party member to sow chaos. Creates Life E
 
 ---
 
-## 2.4 Spectral-Eater Shade
+## 2.4 Soul-Eater Shade
 
 **Type:** Spectral Predator  
 **Threat Tier:** Standard (TV 4)
@@ -184,7 +184,7 @@ Soul-Eater Shades are manifestations of pure hunger from the Spectral Realm. The
 **Essence Drain** (Action, melee touch)
 - **Dice Pool:** Soul 4 + 0 = 4d6
 - **Damage:** 8 Spectral damage
-- **Special:** Target's maximum SE reduced by damage until long rest. If target reaches 0 max SE, falls unconscious and begins dying.
+- **Special:** Target's maximum SE reduced by damage until long rest. If target reaches 0 max SE, falls **Unconscious** and begins death saves.
 
 **Hunger Wave** (Action, Recharge 6)
 - **Range:** 15-foot cone (3 squares)
@@ -194,13 +194,13 @@ Soul-Eater Shades are manifestations of pure hunger from the Spectral Realm. The
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
 
-**Spectral Wilderness:** Immune to physical conditions, poison, disease.
+**Spectral Wilderness:** Immune to poison, disease, and physical **Grappled**, **Restrained**, and **Prone** effects.
 
 **Growing Hunger:** Each time Shade reduces a creature to 0 HP, it gains +5 max HP and +1 die on all attacks. Maximum 3 stacks (+15 HP, +3 dice). Additional kills beyond 3 stacks grant no further benefit. Resets on long rest.
 
 **Soul Vision:** Automatically detects all living creatures within 60 feet regardless of barriers.
 
-**Weakness to Light:** Takes double damage from Radiant attacks. If in area of bright light (sunlight, Radiant spell), has disadvantage on attacks.
+**Weakness to Light:** Radiant vulnerability doubles Radiant damage at the Resistance step. If in an area of bright light (sunlight, Radiant spell), it has Disadvantage on attacks.
 
 **Behavior Tags:** brute, skirmisher
 
@@ -239,7 +239,7 @@ Spectral wolves that hunt in packs across the Material and Spectral Realms. Thei
 
 **Disorienting Howl** (Action, usable once per encounter)
 - **Range:** 30 feet (6 squares)
-- **Effect:** All enemies in range must make DR 2 Will save or have disadvantage on attack rolls until end of next turn
+- **Effect:** All enemies in range make a DR 2 Will save. On failure, an enemy has Disadvantage on attack rolls until end of next turn.
 
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
@@ -283,27 +283,27 @@ Silent Mourners are souls bound to places of great tragedy—battlefields, execu
 **Grief Touch** (Action)
 - **Dice Pool:** Soul 4 + 0 = 4d6
 - **Damage:** 5 Spectral damage
-- **Special:** Target must make DR 2 Will save or become Saddened (disadvantage on attack rolls and saves for 1 minute, can repeat save each round)
+- **Special:** Target makes a DR 2 Will save. On failure, the target becomes **Shaken** for 1 minute. While Shaken this way, the target also suffers -1 die on saves. The target can repeat the save at the end of each turn, ending the effect on a success.
 
 **Wail of Despair** (Action, Recharge 5-6)
 - **Range:** 20-foot radius (4 squares), centered on self
-- **Effect:** All living creatures in area must make DR 3 Will save or take 6 Spectral damage and become Frightened for 1 minute. Success: half damage, not Frightened. Can repeat save at end of each turn.
+- **Effect:** All living creatures in area must make a DR 3 Will save. On failure, they take 6 Spectral damage and become **Frightened** for 1 minute. On success, they take half damage and are not **Frightened**. A **Frightened** target can repeat the save at the end of each turn, ending the condition on a success.
 
 **Spectral Bonds** (Action)
 - **Dice Pool:** Will 3 + 0 = 3d6
 - **Range:** 30 feet (6 squares)
-- **Effect:** Target must make DR 2 Will save or become Restrained by spectral chains. Takes 3 Spectral damage at start of each turn while Restrained. Can attempt DR 3 Blood or Will save to break free as Action.
+- **Effect:** Target makes a DR 2 Will save. On failure, the target becomes **Restrained** by spectral chains. While **Restrained** this way, the target takes 3 Spectral damage at the start of each turn. The target can use an Action to attempt a DR 3 Blood or Will save, ending the effect on a success.
 
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
 
 **Bound to Tragedy:** Cannot move more than 100 feet from site of its death/trauma.
 
-**Aura of Sorrow:** Living creatures that start their turn within 10 feet must make DR 2 Will save or suffer -1 die on all actions that turn.
+**Aura of Sorrow:** Living creatures that start their turn within 10 feet make a DR 2 Will save. On failure, a creature suffers -1 die on all actions that turn. On success, no effect.
 
 **Cannot Speak:** Immune to spells or effects that require hearing its voice. Cannot be reasoned with verbally.
 
-**Spectral Wilderness:** Immune to physical conditions, poison, disease.
+**Spectral Wilderness:** Immune to poison, disease, and physical **Grappled**, **Restrained**, and **Prone** effects.
 
 **Behavior Tags:** controller, phase_shifter
 
@@ -338,14 +338,14 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 ### Attacks
 **Phase Claws** (Action)
 - **Dice Pool:** Fury 4 + 0 = 4d6
-- **Damage:** 7 physical (Slashing) + 4 Spectral damage
+- **Damage:** 7 Physical (Slashing) + 4 Spectral damage
 - **Special:** Attacks count as both physical and magical, hitting regardless of target's defenses
 
 **Reality Rend** (Action)
 - **Dice Pool:** Shadow 5 + 0 = 5d6
-- **Range:** Weapon Mastery
+- **Range:** Melee (5 feet)
 - **Damage:** 10 Force damage
-- **Special:** Tears hole in reality. Target must make DR 3 Will save or be pulled partially into Spectral Realm (Slowed for 1 minute, disadvantage on all actions)
+- **Special:** Tears hole in reality. Target makes a DR 3 Will save. On failure, the target is pulled partially into Spectral Realm (**Slowed** for 1 minute, Disadvantage on all actions).
 
 **Blink Strike** (Action, Recharge 5-6)
 - **Effect:** Teleport up to 60 feet (12 squares), make Phase Claws attack, teleport back to original position. Cannot be targeted by opportunity attacks.
@@ -353,10 +353,10 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 ### Abilities
 **Phase Shift:** At start of each of its turns, roll 1d6:
 - **1-2:** Fully Material (vulnerable to physical damage, immune to spectral attacks, has Armor: 2)
-- **3-4:** Partially phased (resistant to all damage, takes half from everything)
+- **3-4:** Partially phased (Resistance to all damage; halve damage at the Resistance step after Armor)
 - **5-6:** Fully Spectral (incorporeal, immune to physical damage, vulnerable to Radiant)
 
-**Dimensional Instability:** Area within 15 feet of Phase-Beast is unstable. Creatures entering or starting turn in area must make DR 2 Will save or be teleported 1d4 x 5 feet in a random direction. (Roll 1d8 to determine direction: 1=North, 2=NE, 3=East, 4=SE, 5=South, 6=SW, 7=West, 8=NW.)
+**Dimensional Instability:** Area within 15 feet of Phase-Beast is unstable. Creatures entering or starting their turn in the area make a DR 2 Will save. On failure, a creature is teleported 1d4 × 5 feet in a random direction (roll 1d8: 1=N, 2=NE, 3=E, 4=SE, 5=S, 6=SW, 7=W, 8=NW). On success, no effect.
 
 **See Between Realms:** Perceives both Material and Spectral simultaneously. Cannot be surprised.
 
@@ -406,12 +406,12 @@ Gravewind Entities are ancient spirits of wind and death, formed in places where
 
 **Gravewind Vortex** (Action, Recharge 5-6)
 - **Range:** 30-foot radius (6 squares), centered on self
-- **Effect:** All creatures in area must make DR 4 Blood save or be pulled 15 feet toward Entity and take 12 Spectral + 6 Cold damage. Success: half damage, not pulled. Creates difficult terrain in area for 1 minute.
+- **Effect:** All creatures in area must make a DR 4 Blood save. On failure, they take 12 Spectral + 6 Cold damage and are pulled 15 feet toward Entity. On success, they take half damage and are not pulled. Creates difficult terrain in area for 1 minute.
 
 **Spectral Storm** (Action, costs 2 Legendary Actions)
 - **Range:** 60-foot line (12 squares), 10 feet wide
 - **Damage:** 15 Spectral damage
-- **Special:** All creatures in line must make DR 4 Evasion save or take full damage and be knocked Prone. Success: half damage, not Prone.
+- **Special:** All creatures in line must make a DR 4 Evasion save. On failure, they take full damage and are knocked **Prone**. On success, it takes half damage and are not **Prone**.
 
 **Possess Corpse** (Action, requires nearby corpse)
 - **Effect:** Animate corpse as zombie under Entity's control. Zombie has 20 HP, DV: 2, and attacks for 5 physical damage. Can control up to 3 zombies simultaneously.
@@ -419,7 +419,7 @@ Gravewind Entities are ancient spirits of wind and death, formed in places where
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
 
-**Elemental Wilderness:** Immune to poison, disease, exhaustion, charm, fear, paralysis.
+**Elemental Wilderness:** Immune to poison, disease, **Exhaustion**, **Charmed**, **Frightened**, **Paralyzed**.
 
 **Storm Form:** Occupies 15-foot cube space. Creatures entering or starting turn in space take 5 Spectral + 3 Cold damage (no save).
 
@@ -432,8 +432,8 @@ Gravewind Entities are ancient spirits of wind and death, formed in places where
 ### Legendary Actions (3 per round)
 - **Move:** Fly up to speed without provoking opportunity attacks (1 action)
 - **Soul Scour:** Make one Soul Scour attack (1 action)
-- **Howling Wind:** All creatures within 20 feet must make DR 3 Will save or be Frightened until end of next turn (2 actions)
-- **Summon Shades:** Summon 1d4 Spectral-Eater Shades in unoccupied spaces within 30 feet. They act immediately. (3 actions, once per encounter)
+- **Howling Wind:** All creatures within 20 feet make a DR 3 Will save. On failure, a creature is **Frightened** until end of next turn (2 actions)
+- **Summon Shades:** Summon 1d4 Soul-Eater Shades in unoccupied spaces within 30 feet. They act immediately. (3 actions, once per encounter)
 
 ### Reactions
 **Wind Shield** (Reaction, when hit by ranged attack)
@@ -481,18 +481,18 @@ In the Legacy of Kain canon, the Sluagh haunt the spaces between meaningful afte
 - **Special:** On hit, the target loses 1 SE (Soul Energy). If the target has no SE remaining, the Sluagh instead deals +2 bonus damage as it feeds on residual soul-stuff.
 
 **Feeding Frenzy** (Bonus Action, only usable when target is Bloodied or has 0 SE)
-- **Effect:** The Sluagh latches onto the target. At the start of each of the target's turns, they take 3 Spectral damage and lose 1 SE. Escape requires a DR 2 Will save as an Action. Other Sluagh within 30 ft are drawn to the target, gaining +1 to their next attack roll against them.
+- **Effect:** The Sluagh latches onto the target. At the start of each of the target's turns, they take 3 Spectral damage and lose 1 SE. The target can use an Action to attempt a DR 2 Will save, ending the latch on a success. Other Sluagh within 30 feet are drawn to the target, gaining +1 to their next attack roll against them.
 
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons, Spectral damage, and Soul-based effects work normally.
 
-**Spectral Wilderness:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease, Frightened.
+**Spectral Wilderness:** Cannot be grappled, restrained, or knocked **Prone** by physical means. Immune to poison, disease, **Frightened**.
 
 **Carrion Sense:** Detects creatures with reduced SE, Bloodied creatures, or actively Fading creatures within 120 feet, regardless of walls or concealment. This is the Sluagh's primary hunting sense.
 
 **Cowardly Scavenger:** A Sluagh will not attack a target at full HP unless it is part of a swarm of 3+ Sluagh. If Bloodied while alone, it flees into the Spectral Realm.
 
-**Swarm Intelligence (Swarm only):** When 3+ Sluagh are within 30 ft of each other, they gain +1 DV and their Carrion Grasp deals +2 damage. At 5+, they gain an additional +1 to hit.
+**Swarm Intelligence (Swarm only):** When 3+ Sluagh are within 30 feet of each other, they gain +1 DV and their Carrion Grasp deals +2 damage. At 5+, they gain an additional +1 to hit.
 
 **Behavior Tags:** pack, ambusher, skirmisher
 
@@ -512,9 +512,9 @@ Sluagh lurk at the edges of combat, waiting for someone to weaken. They do not i
 - Carrion essence (harvestable with DR 2 Ritualism check) – Trade Value: 15 supplies; can be used to create Sluagh lures or repellents
 
 ### Scaling Options
-**Elder Sluagh** (Elite, TV 6): +15 HP, increase Soul to 3 and Shadow to 3. Carrion Grasp deals 6 Spectral damage and drains 2 SE. Add "Devour Echo" ability (Action, 1/encounter): consume a single memory, enchantment, or ward within 10 ft, permanently destroying it. This can strip a Wraith's anchor if they fail a DR 3 Will save.
+**Elder Sluagh** (Elite, TV 6): +15 HP, increase Soul to 3 and Shadow to 3. Carrion Grasp deals 6 Spectral damage and drains 2 SE. Add "Devour Echo" ability (Action, once per encounter): consume a single memory, enchantment, or ward within 10 feet, permanently destroying it. This can strip a Wraith's anchor if they fail a DR 3 Will save.
 
-**Sluagh Tide** (Boss encounter, TV 12): A swarm of 8+ Sluagh acting as a single entity. HP: 60, DV: 4, Armor: 0 (Incorporeal). Attacks all creatures in a 20 ft radius for 6 Spectral damage + 2 SE drain. The Tide is attracted by any use of Soul-based abilities within 200 ft and arrives 1d4 rounds later. It cannot be reasoned with, frightened, or Radiant-banished. It can only be outrun, outwaited (it disperses after 10 rounds without feeding), or destroyed through concentrated Spectral or magical damage.
+**Sluagh Tide** (Boss encounter, TV 12): A swarm of 8+ Sluagh acting as a single entity. HP: 60, DV: 4, Armor: 0 (Incorporeal). Attacks all creatures in a 20-foot radius for 6 Spectral damage + 2 SE drain. The Tide is attracted by any use of Soul-based abilities within 200 feet and arrives 1d4 rounds later. It cannot be reasoned with, frightened, or Radiant-banished. It can only be outrun, outwaited (it disperses after 10 rounds without feeding), or destroyed through concentrated Spectral or magical damage.
 
 ---
 
@@ -569,13 +569,13 @@ Sluagh lurk at the edges of combat, waiting for someone to weaken. They do not i
 
 **The Shattered Cathedral (Levels 7-10):**
 - 2-3 Mirror Wraiths mimicking party members
-- 4-6 Spectral-Eater Shades harvesting lingering souls
+- 4-6 Soul-Eater Shades harvesting lingering souls
 - 1 Phase-Beast guarding planar breach
 - Treasure: Binding ritual scroll, spectral resistance armor
 
 **The Grave Fields (Levels 12-15):**
 - 1 Gravewind Entity at center of storm
-- 8-10 Spectral-Eater Shades circling entity
+- 8-10 Soul-Eater Shades circling entity
 - 2 Mirror Wraiths as lieutenants
 - Environmental hazard: Spectral wind causes 3 Spectral damage at the start of each turn to exposed creatures
 - Treasure: Eye of the Storm artifact, ancient relics, massive cache of souls
@@ -623,15 +623,15 @@ In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he wa
 
 **Abyss Touch** (Action)
 - **Dice Pool:** Soul 5 + Unarmed Combat 2 = 7d6
-- **Range:** Weapon Mastery
+- **Range:** Melee (5 feet)
 - **Damage:** 8 Spectral damage
-- **Special:** Target must make DR 3 Will save or lose 2 SE. If the target has 0 SE, they take +4 bonus Spectral damage instead. The touch is ice-cold and leaves black frost on the wound.
+- **Special:** Target makes a DR 3 Will save. On failure, the target loses 2 SE. If the target has 0 SE, they take +4 bonus Spectral damage instead. The touch is ice-cold and leaves black frost on the wound.
 
 **Void Scream** (Action, Recharge 5-6)
 - **Dice Pool:** Soul 5 + Intimidation 4 = 9d6
 - **Range:** 30-foot radius (6 squares), centered on self
 - **Damage:** 10 Spectral damage
-- **Special:** DR 3 Will save to halve damage. Creatures that fail are also **Frightened** for 1 round and lose 1 SE. The scream sounds like a thousand voices crying out simultaneously and then going silent.
+- **Special:** Creatures in the area make a DR 3 Will save. On failure, a creature takes full damage, is **Frightened** for 1 round, and loses 1 SE. On success, it takes half damage. The scream sounds like a thousand voices crying out simultaneously and then going silent.
 
 **Soul Siphon** (Action, costs 3 SE)
 - **Dice Pool:** Soul 5 + Unarmed Combat 2 = 7d6
@@ -643,7 +643,7 @@ In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he wa
 
 **Incorporeal:** Immune to nonmagical physical attacks. Can move through solid objects and creatures; takes 5 Force damage if it ends its turn inside a solid object.
 
-**Spectral Wilderness:** Immune to physical conditions (grappled, restrained, prone by physical means), poison, disease.
+**Spectral Wilderness:** Immune to poison, disease, and physical **Grappled**, **Restrained**, and **Prone** effects.
 
 **Abyssal Resilience:** Resistant to Fire, Cold, and Lightning damage (half damage from each). The Abyss has burned away conventional weaknesses.
 
@@ -666,7 +666,7 @@ The Wraith of the Abyss is a patient predator. It uses Phase Shift to stalk the 
 
 **Key Weakness:** The Wraith is vulnerable to Radiant damage (full damage, ignores Incorporeal — pure holy light reaches even the Abyss). Magical weapons can hit it normally. Abilities that restore SE to allies counteract its drain strategy.
 
-**Encounter Design:** A single Wraith of the Abyss makes an excellent solo encounter for a mid-level party (TV 9). Pair with 2–3 Spectral-Eater Shades (TV 4 each) for a harrowing spectral ambush at TV 17–21. Place the encounter near a corrupted Pillar site or in the deep Spectral Realm for maximum thematic impact.
+**Encounter Design:** A single Wraith of the Abyss makes an excellent solo encounter for a mid-level party (TV 9). Pair with 2–3 Soul-Eater Shades (TV 4 each) for a harrowing spectral ambush at TV 17–21. Place the encounter near a corrupted Pillar site or in the deep Spectral Realm for maximum thematic impact.
 
 ### Loot
 - Abyssal essence (crystallized void energy, dark purple crystal) — **Trade Value:** 100 supplies, used in Spectral Realm rituals or anti-divination wards
@@ -675,7 +675,7 @@ The Wraith of the Abyss is a patient predator. It uses Phase Shift to stalk the 
 
 ### Scaling Options
 - **Lesser Abyssal Shade (Standard, TV 5):** HP: 22, DV: 4, Soul 3, no Phase Shift or Void Scream. Remove Abyssal Resilience.
-- **Abyssal Revenant (Boss, TV 13):** HP: 68, DV: 6, Soul 6, Unarmed Combat 3. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Abyss Touch (1), Void Scream (2). Add "Abyssal Gate" (1/encounter): opens a portal to the Abyss in a 15-foot radius — all creatures in the area must make DR 4 Will save or be pulled into the Spectral Realm until the end of their next turn.
+- **Abyssal Revenant (Boss, TV 13):** HP: 68, DV: 6, Soul 6, Unarmed Combat 3. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Abyss Touch (1), Void Scream (2). Add "Abyssal Gate" (once per encounter): opens a portal to the Abyss in a 15-foot radius. All creatures in the area make a DR 4 Will save. On failure, a creature is pulled into the Spectral Realm until the end of its next turn.
 
 ---
 
@@ -708,13 +708,13 @@ They possess no intelligence beyond a dim awareness of the living. They don't pl
 
 **Chill Touch** (Action)
 - **Dice Pool:** Soul 1 + Shadow 2 = 3d6 vs Will
-- **Range:** Weapon Mastery (passes through armor — incorporeal touch)
+- **Range:** Melee (5 feet — incorporeal touch, passes through armor)
 - **Damage:** 3 Spectral damage (cold, ignores Physical Armor)
 - **Special:** On hit, target cannot regain HP until the start of their next turn
 
 ### Abilities
 
-**Incorporeal:** Immune to nonmagical physical attacks and all physical conditions (Grappled, Prone, Restrained). Magical weapons and Soul-based attacks hit normally.
+**Incorporeal:** Immune to nonmagical physical attacks and all physical conditions (**Grappled**, **Prone**, **Restrained**). Magical weapons and Soul-based attacks hit normally.
 
 **Cold Presence (Passive Aura, 5 feet):** Creatures who begin their turn adjacent to the Shade take 1 Spectral damage automatically (no roll). This is not an attack — it represents the ambient chill of death.
 
@@ -732,7 +732,7 @@ Lingering Shades do not fight tactically. They drift toward the nearest warm cre
 - Occasional memory fragment (flicker of the soul's last thought; usually meaningless, occasionally a clue) — **Trade Value**: varies (plot hook)
 
 ### Scaling Options
-- **Whispering Shade (Minion, TV 3):** HP: 10, DV: 3, Soul 2. Add Whisper of Despair (1/encounter): target makes DR 2 Will save or loses their Reaction until end of next turn.
+- **Whispering Shade (Minion, TV 3):** HP: 10, DV: 3, Soul 2. Add Whisper of Despair (once per encounter): target makes a DR 2 Will save. On failure, the target loses its Reaction until end of next turn.
 - **Shade Cluster (Elite, TV 6):** Three Lingering Shades fused into one entity. HP: 22, DV: 4. Cold Presence radius 15 feet. Splits into 2 standard Lingering Shades when reduced to 0 HP.
 
 ---
@@ -778,13 +778,13 @@ They are dangerous combatants: range, a powerful drain ability, and enough spect
 - **Dice Pool:** Soul 4 + Glyphcasting 3 = 7d6
 - **Range:** 40-foot radius at a point within 60 feet
 - **Damage:** 10 Spectral damage to all targets in range
-- **Save:** DR 3 Will save to halve damage and avoid SE loss (save: 1 SE lost; fail: 3 SE lost)
+- **Save:** DR 3 Will save. On success, the target takes half damage and loses 1 SE. On failure, the target takes full damage and loses 3 SE.
 
 ### Abilities
 
 **Incorporeal:** Immune to nonmagical physical attacks. Can move through solid objects; takes 5 Force damage if ending turn inside solid matter.
 
-**Spectral Resilience:** Immune to Frightened, Charmed, poison, disease, and physical conditions.
+**Spectral Resilience:** Immune to **Frightened**, **Charmed**, poison, disease, and physical conditions.
 
 **Ectoplasmic Shield (Reaction, costs 3 SE):** When targeted by an attack, the Arcanist raises a spectral barrier. The triggering attack has −3 to its effective dice pool (attacker rolls 3 fewer dice). This can be used once per round.
 
@@ -804,7 +804,7 @@ The Arcanist maintains distance, opening with Soul Bolt spam and Arcane Drain ag
 
 ### Scaling Options
 - **Arcanist Apprentice (Standard, TV 4):** HP: 18, DV: 4, Soul 3, Glyphcasting 1, SE: 10. Loses Spectral Missile Barrage and Ectoplasmic Shield. Dangerous mainly due to Arcane Drain snowball.
-- **Grand Arcanist (Boss, TV 11):** HP: 55, DV: 6, Soul 6, Glyphcasting 4, SE: 36. Add Legendary Resistance (1/day) and 2 Legendary Actions: Soul Bolt (1), Arcane Drain (2). Gains Time Dilation (1/encounter): after resolving Spectral Missile Barrage, the Arcanist may immediately Move and use Soul Bolt or Arcane Drain. This does not refresh reactions, Recharge rolls, or Legendary Actions.
+- **Grand Arcanist (Boss, TV 11):** HP: 55, DV: 6, Soul 6, Glyphcasting 4, SE: 36. Add Legendary Resistance (1/day) and 2 Legendary Actions: Soul Bolt (1), Arcane Drain (2). Gains Time Dilation (once per encounter): after resolving Spectral Missile Barrage, the Arcanist may immediately Move and use Soul Bolt or Arcane Drain. This does not refresh reactions, Recharge rolls, or Legendary Actions.
 
 ---
 
@@ -829,7 +829,7 @@ Phase Wraiths are hunters that never fully commit to one realm. They flicker bet
 ### Attacks
 **Wraith Strike** (Action)
 - **Dice Pool:** Fury 3 + Unarmed Combat 3 = 6d6
-- **Range:** Weapon Mastery
+- **Range:** Melee (5 feet)
 - **Damage:** 3 Spectral damage
 - **Special:** If the Phase Wraith has not been in the target's line of sight since the end of its last turn, it gains +2 dice on the attack.
 
@@ -839,9 +839,9 @@ Phase Wraiths are hunters that never fully commit to one realm. They flicker bet
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons and spells affect normally.
 
-**Spectral Wilderness:** Cannot be grappled, restrained, or knocked prone by physical means. Immune to poison, disease, and Bleeding.
+**Spectral Wilderness:** Cannot be grappled, restrained, or knocked **Prone** by physical means. Immune to poison, disease, and Bleeding.
 
-**Dimensional Slip:** When struck by an attack, the Phase Wraith may use its reaction to halve the damage by phasing partially out of reality.
+**Dimensional Slip:** When struck by an attack, the Phase Wraith may use its reaction to phase partially out of reality. The triggering attack deals half damage.
 
 **Predatory Flicker:** If it begins its turn out of line of sight, the Phase Wraith ignores opportunity attacks that turn.
 
@@ -882,34 +882,39 @@ The Echo of Kain is not Kain himself, but a pressure-mark left on reality by his
 ### Attacks
 **Soul Reaver — Spectral Form** (Action)
 - **Dice Pool:** Fury 5 + Weapon Mastery 5 = 10d6
-- **Range:** Weapon Mastery
+- **Range:** Melee (5 feet)
 - **Damage:** 5 Spectral damage
 - **Special:** This damage cannot be reduced below 1 by Armor, resistance, or other mitigation. A creature slain by this blade cannot be restored except by extraordinary intervention.
 
-**Temporal Stasis** (Action, 2/encounter)
+**Temporal Stasis** (Action, twice per encounter)
 - **Dice Pool:** Soul 5 + Glyphcasting 4 = 9d6
 - **Range:** 60 feet (12 squares)
-- **Effect:** Target must make a DR 4 Will save or be removed from time for 2 rounds. While frozen, they cannot act, be targeted, or affect the battlefield. When they return, they are **Confused** until the end of their next turn.
+- **Effect:** Target makes a DR 4 Will save. On failure, the target is removed from time for 2 rounds. While frozen, they cannot act, be targeted, or affect the battlefield. When they return, they are **Confused** until the end of their next turn. On success, no effect.
 
 **Blood Omen Surge** (Action, once per phase)
 - **Range:** 30-foot radius (6 squares), centered on self
-- **Damage:** 3 Blood damage to all creatures of the Echo's choice in range
+- **Damage:** 3 Physical damage from blood magic to all creatures of the Echo's choice in range
 - **Special:** The Echo heals HP equal to the total damage dealt.
 
 **Pillars' Weight** (Action)
 - **Dice Pool:** Will 5 + Concentration 4 = 9d6
 - **Range:** 20-foot zone (4 squares) within 60 feet
 - **Damage:** 2 Spectral damage
-- **Special:** Creatures in the zone must make a DR 4 Will save or fall Prone. A creature that ends its turn in the zone takes the damage again.
+- **Special:** Creatures in the zone make a DR 4 Will save. On failure, a creature falls **Prone**. A creature that ends its turn in the zone takes the damage again.
 
 ### Abilities
 **Inevitable:** Once per encounter, the Echo of Kain cannot be reduced below 1 HP by a single hit. Instead, that hit leaves it at 1 HP. If it is reduced to 0 HP by multiple separate hits in the same round, it dies normally. At the start of each of its turns, it regains 2 HP. It is immune to instant-death effects.
 
-**Phase II — The Damned Sovereign:** When the Echo is reduced to 50% HP or below, it immediately uses Blood Omen Surge as a free action if it has not already used it this phase, and its attacks inflict **Bleeding** for the rest of the encounter. If it is reduced from above 50% HP to 0 HP by a single attack, Phase II triggers first and the Echo remains at 1 HP through Inevitable.
+**Phase II — The Damned Sovereign:** When the Echo is reduced to 50% HP or below, it immediately uses Blood Omen Surge without spending an Action if it has not already used it this phase, and its attacks inflict **Bleeding** for the rest of the encounter. If it is reduced from above 50% HP to 0 HP by a single attack, Phase II triggers first and the Echo remains at 1 HP through Inevitable.
 
-**Spectral Tyrant:** Resistant to Physical, Fire, Cold, and Shadow damage. Immune to poison, fear, charm, Stunned, petrification, and Bleeding.
+**Spectral Tyrant:** Resistant to Physical, Fire, Cold, and Entropic damage from shadow or void sources. Immune to poison, **Frightened**, **Charmed**, **Stunned**, **Petrified**, and **Bleeding**.
 
 **Unceasing Pressure:** Creatures that start their turn within 10 feet of the Echo take 1 Spectral damage unless they succeed on a DR 3 Will save.
+
+### Legendary Actions (3 per round)
+- **Move (1 action):** The Echo moves up to its speed without provoking opportunity attacks.
+- **Strike (1 action):** The Echo makes one Soul Reaver attack.
+- **Temporal Flick (2 actions):** One target within 30 feet makes a DR 3 Will save. On failure, it is pushed 10 feet and becomes **Staggered** until the end of its next turn.
 
 ### Tactics
 The Echo opens with Temporal Stasis on the party member most likely to break its tempo, then advances behind Pillars' Weight to fracture positioning. It uses Soul Reaver — Spectral Form to punish whoever overextends and saves Blood Omen Surge for its Phase II transition unless a clustered party offers too much healing value to ignore. It should feel beatable through coordination, but no longer stall a table by healing through low-damage attrition.
@@ -921,7 +926,7 @@ The Echo opens with Temporal Stasis on the party member most likely to break its
 
 ### Scaling Options
 - **Fading Echo (TV 11):** HP: 36, DV: 4, loses Unceasing Pressure. Inevitable still functions once per encounter.
-- **Ascendant Echo (TV 18):** HP: 70, DV: 6, Soul Reaver damage becomes 7, and Temporal Stasis becomes 3/encounter. Blood Omen Surge deals 4 Blood damage.
+- **Ascendant Echo (TV 18):** HP: 70, DV: 6, Soul Reaver damage becomes 7, and Temporal Stasis can be used three times per encounter. Blood Omen Surge deals 4 Physical damage from blood magic.
 
 ---
 

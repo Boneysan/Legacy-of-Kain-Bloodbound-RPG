@@ -277,7 +277,7 @@ A zone where vision is impaired. Creatures within an Obscured area gain Advantag
 
 When an ability creates an Obscured area without specifying degree, treat it as Heavily Obscured.
 
-*(Ch. 0)*
+*(Ch. 9 §9.13)*
 
 **Armor**
 Flat damage reduction applied **after** a hit lands. Listed as **Armor X** (e.g., Armor 2 = reduce incoming damage by 2). Armor does **not** increase DV unless explicitly stated. Different damage categories interact with Armor differently (see table above). *(Ch. 0, Ch. 7 §7.3, Ch. 9 §9.4)*
@@ -465,7 +465,7 @@ A creature's primary realm of existence: **Material**, **Spectral**, or **Hybrid
 Loci of amplified magical power. Reduce spell costs by 1 and may grant +1 die on spellcasting checks. Require an attunement ritual to access. *(Ch. 11 §11.3)*
 
 **Threat Value (TV)**
-A numeric value assigned to creatures for encounter balancing. GMs compare total enemy TV against party level and size to determine encounter difficulty. Reference: Minion (TV 0.25), Standard (TV 1), Elite (TV 2), Boss (TV 4), Legendary (TV 6+). *(Monster Manual §Introduction, GM Guide Ch. 2)*
+A numeric value assigned to creatures for encounter balancing. GMs compare total enemy TV against party level and size to determine encounter difficulty. The Monster Manual uses an **Absolute TV** scale where values are pre-calculated based on the creature's level band and role (e.g., Standard TV 1–4, Elite TV 5–11, Boss TV 12+). *(Monster Manual §0.0, GM Guide Ch. 2)*
 
 ---
 
@@ -485,7 +485,7 @@ A numeric value assigned to creatures for encounter balancing. GMs compare total
 - *Wraiths:* Withdraw into the Spectral Realm, drawing on ambient soul echoes
 - *Revenants:* Reassert will over decaying form, re-knit minor damage
 
-*(Ch. 0)*
+*(Ch. 9 §9.13)*
 
 **Long Rest (Abyssal Slumber)**
 **Duration:** 6–8 hours of largely uninterrupted downtime in a secure environment. An hour or more of combat or strenuous activity negates benefits.
@@ -508,7 +508,7 @@ A numeric value assigned to creatures for encounter balancing. GMs compare total
 - *Safety:* Resting is rarely safe in Nosgoth. Failed Stealth checks or encounters may interrupt rests
 - *Lineage Specifics:* Each lineage rests uniquely (Zephonim dissolve into insect swarms, Dumahim enter stone-like slumber)
 
-*(Ch. 0)*
+*(Ch. 9 §9.13)*
 
 ---
 

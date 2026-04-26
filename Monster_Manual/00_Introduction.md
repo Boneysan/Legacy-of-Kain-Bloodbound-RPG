@@ -61,7 +61,7 @@ For example, a creature with Fury 4 and Weapon Mastery 3 rolls **7d6** to attack
 - **Defense Value (DV)**: The number of successes an attacker must meet or exceed to land a hit. Base DV should stay at **6** or lower; temporary cover, reactions, and special effects may raise effective DV higher.
 - **Difficulty Rating (DR)**: The number of successes needed for saves, checks, and non-attack effects.
 - **Armor**: Flat mitigation applied after a hit lands. Use one Armor score unless a stat block explicitly says otherwise.
-- **TV (TV)**: A creature's overall power rating used for encounter balancing.
+- **Threat Value (TV)**: A creature's overall power rating used for encounter balancing.
 - **Soul Energy (SE)**: Resource pool for magical abilities. Spent to fuel spells and special abilities.
 - **Blood Points (BP)**: Resource pool for vampiric/blood-based abilities.
 
@@ -86,6 +86,21 @@ Some creatures call for a save or a defensive reaction instead of a normal attac
 - If an older entry references **Dodge**, read that as the target's DV or an Evasion-based reaction when the entry clearly says it uses a Reaction.
 - If an older entry references **Parry**, read it as a Weapon Mastery-based reaction.
 - If an older entry references **Agility**, convert it to an **Evasion** save/check.
+
+### Monster Ability and Resistance Baseline
+
+Use this baseline when running or revising any monster entry in this book.
+
+- **Ability structure:** If a monster ability omits a detail, default to the most restrictive reading: one Action, one visible target, within the listed attack range or 30 feet if no range is listed, instant duration for damage, and no repeat use limit unless the text says otherwise. When revising the entry, add the missing action type, target, range, duration, save, cost, and refresh directly to the ability.
+- **Passive traits and auras:** Passive traits are always on unless disabled by their own weakness. Auras affect creatures that start their turn in the aura or enter it for the first time on a turn, whichever happens first. A creature saves against the same aura at most once per round unless the aura says otherwise.
+- **Ongoing damage and control ticks:** Ongoing damage from monster abilities triggers at the start of the affected creature's turn unless the entry says otherwise. Control effects that deny actions, movement, reactions, or realm shifting must state whether the target repeats the save at the start or end of its turn.
+- **Resistance and vulnerability:** Resistance halves damage after Armor, matching Chapter 9's damage resolution order. Legacy phrases such as "takes double damage" mean vulnerability-like doubling at the Resistance step. Resistance never reduces damage below 1 unless the damage would already be 0 after Armor or Immunity.
+- **Immunity:** Immunity reduces the damage to 0 and blocks any rider tied to that damage unless the rider explicitly works on a successful save or on 0 damage. Effects that bypass Resistance do not bypass Immunity unless the stat block says they bypass Immunity.
+- **Broad damage immunity:** If a monster becomes "immune to all damage," treat that as a special encounter state, not a normal defense. The entry must define the state, duration, movement limits, and at least one counterplay hook such as Radiant damage, sunlight, a ward, a terrain objective, or a named vulnerability.
+- **Boss and legendary control:** Bosses and legendary creatures are not automatically immune to conditions. They use their printed immunities, Legendary Resistance, phase rules, lair rules, or explicit boss traits. If a control effect would remove the only meaningful enemy action for a full round, the GM may spend one available Legendary Resistance or scripted phase resource to downgrade it to a lesser effect such as Slowed, Suppressed, or loss of one action.
+- **Legendary Resistance:** When a creature uses Legendary Resistance, it changes a failed save into a success only for that triggering effect. It does not heal damage, undo riders from earlier turns, refresh reactions, or bypass Immunity rules.
+- **Summons and created creatures:** Summoned minions use their own stat blocks and defenses. If a boss aura or phase says it protects allies, it must state the range, duration, and whether it applies to summoned creatures.
+- **Realm and phase effects:** Material, Spectral, incorporeal, anti-phase, and forced realm-shift effects use the realm interaction rules in Chapter 11 and the spell rules in Chapter 5. If a monster entry conflicts with those chapters, use the more specific monster rule for that creature and flag the entry for revision.
 
 ---
 

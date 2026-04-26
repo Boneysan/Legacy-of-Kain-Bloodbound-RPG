@@ -36,11 +36,10 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 *   **Skill Point Gain**: +1 skill point per level.
 *   **Attribute Growth**: Increase one Core Attribute by +1 at Levels 4, 8, 12, 16, and 20 (Max 5).
 *   **Hit Point Progression**: Your Max HP equals your class's starting HP formula, plus its listed HP gain per level after Level 1, plus any class durability milestone bonuses. If the attribute named in your Starting HP line increases, your Max HP increases by 1 immediately.
-*   **Durability Milestones**: Gain bonus Max HP at Levels 5, 10, 15, and 20 based on class.
-	*   Blood Knight: +2 Max HP at each durability milestone.
-	*   Soul Reaver, Warden of Balance: +1 Max HP at each durability milestone.
-	*   Sangromancer, Dreadblade: +3 Max HP at each durability milestone.
-	*   Shadowmancer, Glyphwright, Hylden Warlock: +2 Max HP at each durability milestone.
+*   **Durability Milestones**: At Levels 5, 10, 15, and 20, all characters gain bonus Max HP based on their class durability role:
+	*   **High Durability** (Sangromancer, Dreadblade): **+3 Max HP** at each milestone.
+	*   **Standard Durability** (Blood Knight, Shadowmancer, Glyphwright, Hylden Warlock): **+2 Max HP** at each milestone.
+	*   **Skirmisher Durability** (Soul Reaver, Warden of Balance): **+1 Max HP** at each milestone.
 *   **Combat Bonus**: +1 die to attack rolls at Levels 5, 10, 15, and 20 (cumulative, max +4). Does not apply to skill checks.
 *   **Weapon Damage Scaling**: All weapons and damaging abilities gain +1 base damage at Levels 5, 10, 15, and 20 (cumulative, max +4). A base 3-damage sword deals 7 at Level 20.
 *   **Class Perks**: Gain one Class Perk every level (1–20). At **Levels 5, 10, 15, and 20**, choose between two options — each represents a different build path for that class.
@@ -70,26 +69,26 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 2 | **Brutal Counter** | When a creature within your melee reach misses you with a melee attack, deal 1 unpreventable damage to that attacker. | Reaction, 1/round |
 | 3 | **Iron Veins** | Immune to Bleeding status. | Passive |
 | 4 | **Bloodrush** | Move up to half your Speed immediately. This movement does not provoke opportunity attacks. | Bonus Action, 1 BP |
-| 5 | **Crushing Blow** | Melee attack stuns target (DR 3 Blood save). | Action |
+| 5 | **Crushing Blow** | Melee attack **Stuns** target (DR 3 Blood save) for 1 round. | Action |
 | 5 | *or* **Killing Momentum** | When you kill an enemy in combat, gain 1 stack of Killing Momentum (max 3). Each stack grants +1 die to attack rolls until the end of your next turn. Gaining a new stack resets all stacks' duration. | Passive |
-| 6 | **Juggernaut** | Move at least 10 ft in a straight line, then make one melee attack. On a hit, the target must succeed on a DR 3 Blood save or be knocked Prone. | Action |
+| 6 | **Juggernaut** | Move at least 10 feet in a straight line, then make one melee attack. On a hit, the target must succeed on a DR 3 Blood save or be knocked **Prone**. | Action |
 | 7 | **Deathbound** | When damage would reduce you to 0 HP, you instead drop to 1 HP. You must be conscious to use this feature. | Reaction, once per scene |
 | 8 | **Warpath** | Melee attacks ignore 1 point of Armor. | Passive |
 | 9 | **Crimson Avatar** | +1 Action and +1 die to Fury rolls for 1 min. | Bonus Action, 1/long rest |
-| 10 | **Bloodstorm** | Melee attack hits all enemies within 5 ft. | Action, 1/short rest |
+| 10 | **Bloodstorm** | Melee attack hits all enemies within 5 feet. | Action, 1/short rest |
 | 10 | *or* **Sanguine Fortress** | When you first drop to ≤25% HP in a combat, or when Deathbound triggers, gain +2 Armor and regenerate 3 HP at the start of each of your turns for 3 rounds. This perk can trigger once from low HP and once from Deathbound per scene. | Passive |
 | 11 | **Sanguine Bulwark** | Iron Hide grants +2 Armor; Bloodrush grants +5 Temp HP. | Passive |
-| 12 | **Overwhelming Momentum** | Juggernaut pushes 10 ft; Prone targets have Disadvantage to stand. | Passive |
+| 12 | **Overwhelming Momentum** | Juggernaut pushes 10 feet; **Prone** targets have Disadvantage to stand. | Passive |
 | 13 | **Font of Vitae** | +2 Max BP. Regain 1 BP on kill. | Passive |
 | 14 | **Relentless Predator** | Warpath ignores 2 Armor against Bloodied targets. Life Drain heals +1. | Passive |
-| 15 | **Crimson Terror** | While Crimson Avatar is active, enemies that start their turn within 10 ft of you or enter that area for the first time on a turn must succeed on a DR 3 Will save or be Frightened until the start of their next turn. | Passive |
+| 15 | **Crimson Terror** | While Crimson Avatar is active, enemies that start their turn within 10 feet of you or enter that area for the first time on a turn must succeed on a DR 3 Will save or be **Frightened** until the start of their next turn. | Passive |
 | 15 | *or* **Endless Hunger** | Life Drain triggers on every melee hit you make, not just the first hit each turn. When you kill an enemy, you also heal an additional 4 HP; this stacks with the Life Drain heal from that killing blow. **Total Life Drain healing is capped at your Blood attribute + Level in HP per turn.** | Passive |
-| 16 | **Unyielding Spirit** | Deathbound restores 10 HP. +1 die vs Stun/Paralysis. | Passive |
+| 16 | **Unyielding Spirit** | Deathbound restores 10 HP. +1 die vs **Stunned**/**Paralyzed**. | Passive |
 | 17 | **Lord of the Feast** | Life Drain heals up to 150% of damage dealt (rounded up). The per-turn cap remains in effect. | Passive |
-| 18 | **Essence Thief** | Steal 1 BP or SE on melee hit (Will vs Difficulty 3). | Passive, 1/turn |
+| 18 | **Essence Thief** | Steal 1 BP or SE on melee hit (Will vs DR 3). | Passive, 1/turn |
 | 19 | **Adamantite Form** | +1 Base Armor. Immune to Critical Hits. | Passive |
 | 20 | **Blood Tyrant** | Passive: Melee crits restore 3 HP. Active (1/long rest, 1 min): +3 Fury dice to all attacks, Life Drain heals 100% of damage dealt, and each kill immediately grants a Bonus Action. **During this transformation, your per-turn Life Drain healing cap is doubled.** | Passive + Action, 1/long rest |
-| 20 | *or* **Siege Incarnate** | You are immune to forced movement, knockback, and grapple. Your melee attacks ignore all Armor. Conscious allies within 15 ft of you gain +2 DV while they remain in the aura. | Passive |
+| 20 | *or* **Siege Incarnate** | Passive: You are immune to forced movement, knockback, and being **Grappled**. Conscious allies within 15 feet gain +1 DV while in the aura. Active (1/long rest, 1 min): Siege Stance — your melee attacks ignore all Armor, and you cannot be moved against your will by any effect short of Legendary force. | Passive + Action, 1/long rest |
 
 
 ### 3.3.2 Soul Reaver
@@ -117,29 +116,29 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 #### Class Perks
 | Level | Perk Name | Effect | Action/Cost |
 | :--- | :--- | :--- | :--- |
-| 1 | **Spectral Strike** | Your next melee attack before the end of your turn ignores Armor and shield bonuses to DV. | Bonus Action, 1 SE |
-| 2 | **Ethereal Step** | Until the end of your turn, you may move up to half your Speed through creatures and solid objects up to 5 ft thick. You must end in an unoccupied space. | Action, 1 SE |
+| 1 | **Spectral Strike** | Your next melee attack before the end of your turn deals +2 Spectral damage and ignores Armor. | Bonus Action, 1 SE |
+| 2 | **Ethereal Step** | Until the end of your turn, you may move up to half your Speed through creatures and solid objects up to 5 feet thick. You must end in an unoccupied space. | Action, 1 SE |
 | 3 | **Soul Siphon** | Regain 1 SE when killing an enemy. | Passive |
 | 4 | **Wraith Form** | For 1 minute, you gain Resistance to Physical damage and may move through creatures as difficult terrain. You must still end your movement in an unoccupied space. | Action, 2 SE |
-| 5 | **Banish** | One creature you can see within 30 ft must succeed on a DR 4 Soul save or be forced into the Spectral Realm until the end of your next turn. At the end of its turn, it may repeat the save, ending the effect on a success. | Action, 2 SE |
-| 5 | *or* **Reaver’s Resonance** | Spectral Strike chains to a second target within 10ft of the primary target, dealing half the damage dealt to the primary target (also ignores Armor). | Passive |
+| 5 | **Banish** | One creature you can see within 30 feet must succeed on a DR 4 Soul save or be forced into the Spectral Realm until the end of your next turn. At the end of its turn, it may repeat the save, ending the effect on a success. | Action, 2 SE |
+| 5 | *or* **Reaver’s Resonance** | Spectral Strike chains to a second target within 10 feet of the primary target, dealing half the damage dealt to the primary target (also ignores Armor). | Passive |
 | 6 | **Reaver’s Hunger** | Soul Blade deals +1 Damage. | Passive |
-| 7 | **Flicker** | Teleport up to 30 ft to an unoccupied space you can see. | Movement, 1 SE |
+| 7 | **Flicker** | Teleport up to 30 feet to an unoccupied space you can see. | Movement, 1 SE |
 | 8 | **Ghost Parry** | When you are targeted by an attack, gain +2 DV against that attack only. | Reaction, 1 SE |
-| 9 | **Spectral Nova** | Each enemy within 10 ft of you must succeed on a DR 3 Soul save or take 9 Spectral damage. On a success, a target takes half damage, rounded down. | Action, 3 SE |
+| 9 | **Spectral Nova** | Each enemy within 10 feet of you must succeed on a DR 3 Soul save or take 9 Spectral damage. On a success, a target takes half damage, rounded down. | Action, 3 SE |
 | 10 | **Spectral Fugue** | Ethereal Step is now full speed + invisible. | Passive |
 | 10 | *or* **Soul Rift** | Once per short rest, when you take the Attack Action and hit with Soul Blade, you may tear a Spectral wound into the target. The target takes 3 Spectral damage at the start of each of its turns for 3 rounds. You may apply at most 2 Soul Rift stacks to the same target at one time; each stack tracks its duration separately. | Triggered, 1/short rest |
 | 11 | **Soul Consumption** | Soul Siphon restores 3 SE or 3 HP. | Passive |
 | 12 | **Phase Mastery** | Shift Realms as a Bonus Action. No cost. | Passive |
-| 13 | **Spirit Rend** | Spectral Strike stuns target (Soul vs Diff 4). | Passive |
-| 14 | **Abyssal Anchor** | When a creature you can see within 30 ft attempts to shift realms or teleport, force it to make a DR 3 Soul save. On a failure, the triggering effect fails and the creature cannot shift realms or teleport again until the end of its next turn. | Reaction, 1 SE |
-| 15 | **Reaver’s Wrath** | +2 Dice to all Soul/Fury rolls for 1 min. | Action, 3 SE |
+| 13 | **Spirit Rend** | Spectral Strike **Stuns** target (DR 4 Soul save) for 1 round. | Passive |
+| 14 | **Abyssal Anchor** | When a creature you can see within 30 feet attempts to shift realms or teleport, force it to make a DR 3 Soul save. On a failure, the triggering effect fails and the creature cannot shift realms or teleport again until the end of its next turn. | Reaction, 1 SE |
+| 15 | **Reaver’s Wrath** | +2 Dice to all Soul/Fury rolls for 1 minute. | Action, 3 SE |
 | 15 | *or* **Phase Anchor** | When you Phase Shift, you may target one adjacent unwilling creature. They must make a DR 3 Soul save or be pulled into your realm, take 4 Spectral damage, and suffer -1 die to all rolls. At the end of each of their turns, they may repeat the save; on a success, they return to their original realm with 0 movement remaining. See Chapter 11 for normal realm-affinity interaction limits while they remain there. Boss and Legendary creatures are immune. | Bonus Action (when Phase Shifting) |
-| 16 | **Death’s Door** | Choose one creature you can see within 30 ft. You learn its exact current HP, Resistances, and Immunities. This knowledge remains clear to you until the end of the scene. | Bonus Action |
+| 16 | **Death’s Door** | Choose one creature you can see within 30 feet. You learn its exact current HP, Resistances, and Immunities. This knowledge remains clear to you until the end of the scene. | Bonus Action |
 | 17 | **Ethereal Assassin** | Attack from Spectral Realm without fully shifting. | Action, 2 SE |
-| 18 | **Soul Storm** | Signature Upgrade of the **Soul Storm** spell: Spectral Nova deals 15 Spectral Dmg + Fear. | Action, 4 SE |
+| 18 | **Soul Storm** | Signature Upgrade of the **Soul Storm** spell: Spectral Nova deals 15 Spectral Dmg + **Frightened** (DR 3 Will save) for 1 round. | Action, 4 SE |
 | 19 | **Wraith Lord** | Permanent Resistance to Physical damage. | Passive |
-| 20 | **Angel of Death** | Transformation (1 min): Gain fly speed 60 ft, your attacks ignore Resistance but not Immunity, and your melee attacks deal +3 bonus Spectral damage. Enemies that can see you when the transformation begins or start their turn within 30 ft of you must succeed on a DR 3 Soul save or be Frightened until the transformation ends. | Action, 5 SE, 1/long rest |
+| 20 | **Angel of Death** | Transformation (1 min): Gain fly speed 60 feet, your attacks ignore Resistance but not Immunity, and your melee attacks deal +3 bonus Spectral damage. Enemies that can see you when the transformation begins or start their turn within 30 feet of you must succeed on a DR 3 Soul save or be **Frightened** until the transformation ends. | Action, 5 SE, 1/long rest |
 | 20 | *or* **Phantom Sovereign** | Ethereal Step, Spectral Strike, Ghost Parry, and Flicker no longer cost SE. | Passive |
 
 ### 3.3.3 Shadowmancer
@@ -211,8 +210,8 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 - **Class Features vs. Spells:** **Blood Puppet**, **Crimson Bind**, and **Hemodominate** are this class's Signature Upgrades of the generic spells of the same name. If you learn both versions, references to the class feature always use the class-feature text.
 
 #### Core Abilities
-*   **Hemorrhage** (Action, 1 BP): Deal 2 damage at the start of each of the target's turns (Resist: Blood vs Diff 2).
-*   **Blood Puppet** (Action, 2 BP): Control actions of a bleeding target (Resist: Will vs Diff 2). This is the Sangromancer Signature Upgrade of the **Blood Puppet** spell.
+*   **Hemorrhage** (Action, 1 BP): One target within 30 feet deals 2 damage at the start of each of its turns (Resist: Blood vs DR 2).
+*   **Blood Puppet** (Action, 2 BP): One target within 30 feet; control actions of a **Bleeding** target (Resist: Will vs DR 2). This is the Sangromancer Signature Upgrade of the **Blood Puppet** spell.
 *   **Resurgent Vitae** (Passive): While below 25% HP, regain 1 HP at the start of each turn.
 
 #### Class Perks
@@ -268,30 +267,30 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 #### Class Perks
 | Level | Perk Name | Effect | Action/Cost |
 | :--- | :--- | :--- | :--- |
-| 1 | **Glyph Channel** | +5ft range/radius for glyph spells. | Passive |
+| 1 | **Glyph Channel** | +5 feet range/radius for glyph spells. | Passive |
 | 2 | **Arcane Focus** | Regain 1 SE when a glyph is triggered (maximum 3 SE per short rest from this source). | Passive |
-| 3 | **Glyph Recall** | Move a placed glyph up to 30ft. | Bonus Action, 1 SE |
+| 3 | **Glyph Recall** | Move a placed glyph up to 30 feet. | Bonus Action, 1 SE |
 | 4 | **Shock Sigil** | Glyphs deal +1 Electrical damage. | Passive |
-| 5 | **Chrono Weave** | Delay a glyph's trigger (up to 1 min). | Passive |
-| 5 | *or* **Shock Cascade** | When a glyph triggers, the nearest enemy within 10ft not already targeted by that glyph takes 2 Electrical damage (no save; Armor halved). Can chain once per trigger. | Passive |
-| 6 | **Chrono Sigil** | Target loses their next Action (Will Save). | Action, 2 SE |
+| 5 | **Chrono Weave** | Delay a glyph's trigger (up to 1 minute). | Passive |
+| 5 | *or* **Shock Cascade** | When a glyph triggers, the nearest enemy within 10 feet not already targeted by that glyph takes 2 Electrical damage (no save; Armor halved). Can chain once per trigger. | Passive |
+| 6 | **Chrono Sigil** | Target within 30 feet loses their next Action (DR 3 Will save). | Action, 2 SE |
 | 7 | **Glyph Sentinel** | Glyphs trigger even on hidden/invisible creatures. | Passive |
-| 8 | **Seal of Fire** | 10ft glyph dealing 5 Fire Dmg (DR 2 Evasion save). | Action, 2 SE |
+| 8 | **Seal of Fire** | 10-foot radius glyph placed within 30 feet dealing 5 Fire damage (DR 2 Evasion save). | Action, 2 SE |
 | 9 | **Nexus Weaving** | Combine two glyph effects into one sigil. | Passive |
-| 10 | **Archglyph** | Create a permanent ward/guardian. | Ritual, 5 SE |
+| 10 | **Archglyph** | Create a permanent ward/guardian at a point you touch. | Ritual, 5 SE |
 | 10 | *or* **Glyph Surge** | Simultaneously trigger all active glyphs. Damage-dealing glyphs deal +2 additional damage, while non-damage glyphs resolve normally. Arcane Focus does not trigger from glyphs activated by Glyph Surge. | Bonus Action, 1/short rest |
-| 11 | **Resonant Frequencies** | Glyphs deal +2 Damage and apply debuff. | Passive |
-| 12 | **Interwoven Wards** | Triggering one glyph can trigger another nearby. | Passive |
+| 11 | **Resonant Frequencies** | Glyphs deal +2 damage and apply a random minor debuff. | Passive |
+| 12 | **Interwoven Wards** | Triggering one glyph can trigger another within 10 feet. | Passive |
 | 13 | **Master Carver** | Gain Advantage when analyzing or disarming glyphs. | Passive |
 | 14 | **Axiomatic Reinforcement** | Seal of Binding affects any creature type. | Passive |
-| 15 | **Temporal Anchor** | Chrono Weave creates a save point (return to pos). | Reaction, 3 SE |
-| 15 | *or* **Resonant Overload** | Overcharge one active glyph. Damage glyphs deal triple base damage before bonuses and affect double the normal radius; non-damage glyphs instead affect double radius and increase their save Difficulty by 1. The glyph is then destroyed. | Bonus Action, 1/long rest |
-| 16 | **Imbued Matrix** | Imbue an item with a glyph effect (3 charges). | Ritual |
+| 15 | **Temporal Anchor** | Chrono Weave creates a save point (return to position after 1 round). | Reaction, 3 SE |
+| 15 | *or* **Resonant Overload** | Overcharge one active glyph within 30 feet. Damage glyphs deal triple base damage before bonuses and affect double the normal radius; non-damage glyphs instead affect double radius and increase their save Difficulty by 1. The glyph is then destroyed. | Bonus Action, 1/long rest |
+| 16 | **Imbued Matrix** | Imbue an item you touch with a glyph effect (3 charges). | Ritual |
 | 17 | **Nexus Harmonization** | Nexus Weaving costs less SE to combine. | Passive |
 | 18 | **Archglyph Synthesis** | Maintain two Archglyphs simultaneously. | Passive |
-| 19 | **Glyph of Unseen Paths** | Teleport circle (1 mile range). | Ritual, 1/long rest |
-| 20 | **Prime Weaver** | Enhance all glyphs (Max Dmg, Harder Saves). | Action, 1/long rest |
-| 20 | *or* **Living Matrix** | Inscribe 3 glyphs onto your body. Body-glyphs cannot be detected or disarmed, trigger as a Reaction at your choice, and refresh after a short rest. | Passive |
+| 19 | **Glyph of Unseen Paths** | Teleport circle with 1 mile range. | Ritual, 1/long rest |
+| 20 | **Prime Weaver** | For 10 minutes, you reach absolute glyph mastery: all of your active glyphs treat their damage dice as if they rolled their highest face (maximum base damage), and the save DR of all your active glyphs increases by **+1**. New glyphs you place during this duration also benefit. | Action, 1/long rest |
+| 20 | *or* **Living Matrix** | Inscribe up to 3 glyphs onto your body. Body-glyphs cannot be detected or disarmed, trigger as a Reaction at your choice, and refresh after a short rest. | Passive |
 
 ### 3.3.6 Dreadblade
 
@@ -300,40 +299,40 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Lore**: Assassins moving like wind through shadow, Dreadblades descend from Sarafan enforcers or cursed Zephonim survivors. Blending martial precision with spectral poisons, they deliver single-strike kills.
 **Role**: Assassin / Burst Damage
 **Core Attributes**: Shadow, Fury
-**Starting HP**: 9 + Shadow (+3 per level; +3 Max HP at Levels 5, 10, 15, and 20)
+**Starting HP**: 9 + Shadow (+3 per level)
 **Key Skills**: Stealth, Weapon Mastery, Thievery, Evasion, Observation
 
 #### Core Abilities
-*   **Blink Strike** (Action, 1 SE): Teleport 30ft and make a melee attack with Advantage.
+*   **Blink Strike** (Action, 1 SE): Teleport up to 30 feet and make a melee attack with Advantage.
 *   **Venom Edge** (Bonus Action): Coat one weapon you are holding. The next creature you hit with it before the end of your turn suffers Disadvantage on its next roll.
-*   **Auto-Crit From Stealth** (Passive): When you attack from Stealth and hit, that attack is a critical hit.
+*   **Auto-Crit From Stealth** (Passive): When you attack from Stealth and hit, that attack is a **Critical Hit**.
 
 #### Class Perks
 | Level | Perk Name | Effect | Action/Cost |
 | :--- | :--- | :--- | :--- |
 | 1 | **Cutthroat’s Reflex** | +2 Dice to Initiative rolls. | Passive |
 | 2 | **Blade Feint** | -1 DV to target’s next defense. | Attack Modifier |
-| 3 | **Smoke Veil** | 10ft smoke cloud, heavily obscured. | Bonus Action |
+| 3 | **Smoke Veil** | 10-foot radius smoke cloud centered on a point within 15 feet, heavily obscured. | Bonus Action |
 | 4 | **Shiv Surge** | +2 Damage on attacks from Stealth. | Passive |
-| 5 | **Lethal Flow** | Move 15ft freely after a kill. | Reaction |
-| 5 | *or* **Serrated Strike** | Attacks from Stealth cause Bleeding for 2 damage at the start of each of the target's turns for 2 rounds (bypasses Armor). Each application has its own duration; max 3 on one target. | Passive |
-| 6 | **Phantom Rush** | +10ft Speed, and your next attack after a kill has Advantage. | Passive |
+| 5 | **Lethal Flow** | Move 15 feet freely after a kill. | Reaction |
+| 5 | *or* **Serrated Strike** | Attacks from Stealth cause **Bleeding** for 2 damage at the start of each of the target's turns for 2 rounds (bypasses Armor). Each application has its own duration; max 3 on one target. | Passive |
+| 6 | **Phantom Rush** | +10 feet Speed, and your next attack after a kill has Advantage. | Passive |
 | 7 | **Shadow Ambush** | If combat begins while you are in Stealth, you may make one attack against a target in range as part of rolling initiative. | Passive |
 | 8 | **Blur Step** | Dodge one melee attack automatically. | Reaction, once per scene |
 | 9 | **Death's Whisper** | One non-boss creature within your melee reach that is below 10 HP must succeed on a DR 3 Blood save or die. | Action |
-| 10 | **Perfect Kill** | Your critical hits deal x3 damage instead of the normal critical bonus. Once per short rest, spend a Bonus Action to mark a target you can see within 30 ft; the next time you hit that target before the end of the scene, that hit becomes a critical hit. Critical hits granted by Auto-Crit From Stealth still deal x2 damage instead of x3. | Passive + Bonus Action, 1/short rest |
-| 10 | *or* **Ghost Protocol** | Once per scene, when you re-enter Stealth mid-combat, your next attack ignores the target's Armor and forces them to make a DR 3 Will save or become Frightened for 1 round. This effect resets after a kill. | Passive |
-| 11 | **Lingering Gloom** | Smoke Veil lasts longer and poisons enemies. | Passive |
-| 12 | **Spectral Sepsis** | Venom Edge prevents healing. | Passive |
+| 10 | **Perfect Kill** | Your **Critical Hits** deal x3 damage instead of the normal critical bonus. Once per short rest, spend a Bonus Action to mark a target you can see within 30 feet; the next time you hit that target before the end of the scene, that hit becomes a **Critical Hit**. **Critical Hits** granted by Auto-Crit From Stealth still deal x2 damage instead of x3. | Passive + Bonus Action, 1/short rest |
+| 10 | *or* **Ghost Protocol** | Once per scene, when you re-enter Stealth mid-combat, your next attack ignores the target's Armor and forces them to make a DR 3 Will save or become **Frightened** for 1 round. This effect resets after a kill. | Passive |
+| 11 | **Lingering Gloom** | Smoke Veil lasts twice as long and poisons enemies (**Poisoned** condition). | Passive |
+| 12 | **Spectral Sepsis** | Venom Edge prevents healing until treated. | Passive |
 | 13 | **Flashing Phantom** | Blink Strike costs 0 SE if it kills the target. | Passive |
-| 14 | **Vitals Seeker** | Critical Hit threshold reduced by 1 (exceed DV by 1+ successes instead of 2+). | Passive |
-| 15 | **Unending Barrage** | Lethal Flow triggers on Crit as well as Kill. | Passive |
-| 15 | *or* **Bleeding Storm** | Bleeding effects you apply deal damage at the start and end of the bleeding target's turn. Enemies affected by 3 active Bleeding applications from you are Slowed (half movement, Disadvantage on Evasion checks). | Passive |
+| 14 | **Vitals Seeker** | When you have Advantage on the attack roll OR have a marked target from Perfect Kill, your **Critical Hit** threshold is reduced by 1 (exceed DV by 1+ successes instead of 2+). | Passive |
+| 15 | **Unending Barrage** | Lethal Flow triggers on **Critical Hit** as well as Kill. | Passive |
+| 15 | *or* **Bleeding Storm** | **Bleeding** effects you apply deal damage at the start and end of the bleeding target's turn. Enemies affected by 3 active **Bleeding** applications from you are **Slowed** (half movement, Disadvantage on Evasion checks). | Passive |
 | 16 | **Untouchable** | Blur Step can be used twice per scene. | Passive |
 | 17 | **Grim Executioner** | Death's Whisper threshold increases to 25% HP. | Passive |
-| 18 | **One with the Void** | Invisible while in Dim Light. | Passive |
+| 18 | **One with the Void** | **Invisible** while in Dim Light. | Passive |
 | 19 | **Phantom Assassin** | Shadow Ambush grants two attacks. | Passive |
-| 20 | **Wraith Walker** | You permanently gain +15 ft movement speed and may take one additional Action on each of your turns. When activated, for 1 minute, the first attack you hit with on each of your turns is a critical hit. | Action, 1/long rest |
+| 20 | **Wraith Walker** | You permanently gain +15 feet movement speed and may take one additional Action on each of your turns. When activated, for 1 minute, the first attack you hit with on each of your turns is a **Critical Hit**. | Action, 1/long rest |
 | 20 | *or* **Death's Arithmetic** | Each kill reduces your SE costs by 1 (cumulative, min 0, resets after combat). After 3 kills in one combat, your attacks ignore Armor and Resistance, but not Immunity, until the end of the scene. | Passive |
 
 ### 3.3.7 Warden of Balance
@@ -343,48 +342,41 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Lore**: Sworn to protect the shattered Balance Pillars, Wardens are priests, enforcers, and oracles. A Warden of Balance emerges when a person — of any lineage — swears themselves to the concept of the Pillars rather than to any earthly faction, driven by cosmic duty rather than blood or creed.
 **Role**: Judge / Fate Caster / Support
 **Core Attributes**: Will, Soul
-**Starting HP**: 11 + Will (+4 per level; +1 Max HP at Levels 5, 10, 15, and 20)
-**Key Skills**: Rituals, Glyphcasting, Insight, Persuasion, Religion
-
-#### Spell Access
-- **Casting Model:** Prepared spells.
-- **Spell Access:** You prepare Ritual, Glyph, and support spells tied to time, judgment, protective balance, anti-corruption rites, and Pillar resonance.
-- **Starting Spells:** Prepare 2 spells from your class spell list at Level 1.
-- **Gain Rate:** Increase the number of prepared spells by 1 at Levels 4, 8, 12, 16, and 20. You may change your prepared spells after a long rest spent in prayer, meditation, or Pillar observance.
-- **Class Features vs. Spells:** **Time Stasis**, **Guardian's Edict**, and **Judgment Wheel** are class features rather than learned spells. They do not consume prepared spell access unless a future feature explicitly says otherwise.
+**Starting HP**: 11 + Will (+4 per level)
+**Key Skills**: Ritualism, Glyphcasting, Insight, Persuasion, Religion
 
 #### Core Abilities
-*   **Time Stasis** (Action, 3 SE): Choose one creature you can see within 30 ft or one unattended object you can touch. A creature must succeed on a DR 3 Will save or be unable to move, take actions, or take reactions until the end of its next turn. An object is frozen in place for 1 minute. The SE cost reduces to 2 at Level 12 when Stabilizing Presence is gained.
-*   **Guardian's Edict** (Bonus Action): Allies of your choice within 15 ft gain +1 DV and Temporary HP equal to your Will until the start of your next turn.
+*   **Time Stasis** (Action, 3 SE): Choose one creature you can see within 30 feet or one unattended object you can touch. A creature must succeed on a DR 3 Will save or be unable to move, take actions, or take reactions until the end of its next turn. An object is frozen in place for 1 minute. The SE cost reduces to 2 at Level 12 when Stabilizing Presence is gained.
+*   **Guardian's Edict** (Bonus Action): Allies of your choice within 15 feet gain +1 DV and Temporary HP equal to your Will until the start of your next turn.
 *   **Timeless Bulwark** (Passive): Gain Advantage against time-altering effects.
 
 #### Class Perks
 | Level | Perk Name | Effect | Action/Cost |
 | :--- | :--- | :--- | :--- |
-| 1 | **Edict of Order** | 5ft aura, +1 DV for allies. | Bonus Action |
+| 1 | **Edict of Order** | 5-foot aura around caster, +1 DV for allies. | Bonus Action |
 | 2 | **Foresight** | Reroll Initiative or avoid one ambush. | Reaction |
-| 3 | **Balance Strike** | Deal Dmg equal to Soul; Dispel magic. | Action, 1 SE |
-| 4 | **Fate Align** | Allow an ally to reroll a failed die. | Reaction |
-| 5 | **Cycle Command** | When an ally you can see within 30 ft would be reduced to 0 HP, they instead drop to 1 HP. This cannot prevent death from an effect that explicitly bypasses death saves or revival. | Reaction, once per scene |
-| 5 | *or* **Judgment's Edge** | When an enemy within 30ft damages an ally, you may place Fate's Condemnation on them until the end of the scene or until you hit them, whichever comes first. Fate's Condemnation empowers your next attack against that target: it deals bonus damage equal to your Will and imposes Disadvantage on their next save. | Reaction, once per scene |
+| 3 | **Balance Strike** | One target within melee reach: Deal damage equal to Soul; Dispel magic. | Action, 1 SE |
+| 4 | **Fate Align** | Allow an ally within 30 feet to reroll a failed die. | Reaction |
+| 5 | **Cycle Command** | When an ally you can see within 30 feet would be reduced to 0 HP, they instead drop to 1 HP. This cannot prevent death from an effect that explicitly bypasses death saves or revival. | Reaction, once per scene |
+| 5 | *or* **Judgment's Edge** | When an enemy within 30 feet damages an ally, you may place Fate's Condemnation on them until the end of the scene or until you hit them, whichever comes first. Fate's Condemnation empowers your next attack against that target: it deals bonus damage equal to your Will and imposes Disadvantage on their next save. | Reaction, once per scene |
 | 6 | **Echo of Fate** | Reroll your own failed roll. | Reaction, once per scene |
-| 7 | **Zone of Judgment** | 15ft zone, enemies suffer -1 DV. | Action, 2 SE |
-| 8 | **Mark of Equilibrium** | Reduce damage taken by target by 2 until the start of your next turn. | Bonus Action |
-| 9 | **Judgment Wheel** | 30ft zone. Random buffs/debuffs (1 min). | Action, 3 SE |
+| 7 | **Zone of Judgment** | 15-foot radius zone centered on a point within 30 feet; enemies in the zone suffer -1 DV. | Action, 2 SE |
+| 8 | **Mark of Equilibrium** | Reduce damage taken by one target within 30 feet by 2 until the start of your next turn. | Bonus Action |
+| 9 | **Judgment Wheel** | 30-foot radius zone centered on a point within 60 feet. Random buffs/debuffs for 1 minute. | Action, 3 SE |
 | 10 | **Eternal Balance** | Immediately after you finish your turn, take one additional full turn. | No Action, 1/long rest |
-| 10 | *or* **Scales of Retribution** | Mark a target with Judgment. Until the marked target is Bloodied or the scene ends, half the damage they deal is reflected back to them as Spectral damage (rounded up). | Bonus Action, 2 SE, once per scene |
+| 10 | *or* **Scales of Retribution** | Mark a target within 30 feet with Judgment. Until the marked target is Bloodied or the scene ends, half the damage they deal is reflected back to them as Spectral damage (rounded up). | Bonus Action, 2 SE, once per scene |
 | 11 | **Pillar’s Resilience** | Edict of Order grants Resistance to Magic. | Passive |
 | 12 | **Stabilizing Presence** | Time Stasis lasts 2 rounds and its SE cost is reduced to 2. | Passive |
 | 13 | **Fated Intercession** | Fate Align restores 3 HP to ally. | Passive |
 | 14 | **True Sight** | See through illusions and invisibility. | Action |
-| 15 | **Perfected Equilibrium** | Balance Strike deals double dmg to High Corruption. | Passive |
-| 15 | *or* **Cycle's Enforcer** | Balance Strike hits all targets in a 10ft line originating from you and 5ft wide. Its Dispel Magic effect applies to each target hit. Bloodied targets are also knocked Prone. | Passive |
+| 15 | **Perfected Equilibrium** | Balance Strike deals double damage to creatures with High Corruption (Marked or higher). | Passive |
+| 15 | *or* **Cycle's Enforcer** | Balance Strike hits all targets in a 10-foot line originating from you and 5 feet wide. Its Dispel Magic effect applies to each target hit. Bloodied targets are also knocked **Prone**. | Passive |
 | 16 | **Cycle Redemptor** | Cycle Command restores 20 HP. | Passive |
-| 17 | **Unyielding Adjudication** | Zone of Judgment prevents teleportation. | Passive |
-| 18 | **Anchored in Time** | Immune to Slow/Stasis/Time effects. | Passive |
-| 19 | **Destiny Architect** | Judgment Wheel results can be chosen. | Passive |
+| 17 | **Unyielding Adjudication** | Zone of Judgment prevents teleportation into or out of the area. | Passive |
+| 18 | **Anchored in Time** | Immune to **Slowed**, **Stunned**, or Time-based Stasis effects. | Passive |
+| 19 | **Destiny Architect** | Judgment Wheel results can be chosen by the Warden. | Passive |
 | 20 | **Nexus of Aeons** | Once per session, rewind all actions from the current round — damage, effects, and positioning reset to that round's start; all players act with foreknowledge of what transpired. Passively, you cannot be surprised and gain +1 die to all Initiative rolls. | Action, 1/session |
-| 20 | *or* **Arbiter of Finality** | Once per long rest, declare Final Judgment on a target. If they kill an ally, they immediately take damage equal to that ally's max HP (bypasses Armor). If this drops them to 0 HP, they cannot be revived. | Bonus Action, 1/long rest |
+| 20 | *or* **Arbiter of Finality** | Once per long rest, declare Final Judgment on a target within 30 feet. If they kill an ally, they immediately take damage equal to that ally's max HP (bypasses Armor). If this drops them to 0 HP, they cannot be revived. | Bonus Action, 1/long rest |
 
 ### 3.3.8 Hylden Warlock
 
@@ -404,38 +396,38 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 - **Class Features vs. Spells:** **Madness Surge** and **Mind Rupture** are this class's Signature Upgrades of the generic spells of the same name. If you learn both versions, references to the class feature always use the class-feature text.
 
 #### Core Abilities
-*   **Void Shard** (Action, 1 SE): Deal 3 Entropic Dmg or dispel an effect.
-*   **Entropic Curse** (Action, 1 SE): Target suffers Disadvantage on attacks and saves (Concentration).
-*   **Entropic Surge** (Passive): +1 Die to spellcasting if Corruption is > 7.
+*   **Void Shard** (Action, 1 SE): One target within 30 feet: Deal 3 Entropic damage or dispel one magical effect.
+*   **Entropic Curse** (Action, 1 SE): One target within 30 feet suffers Disadvantage on attacks and saves (Concentration up to 1 minute).
+*   **Entropic Surge** (Passive): +1 Die to spellcasting while your Corruption Level is 7 or higher.
 *   **Exile's Resilience** (Passive): During a Short Rest, regain Soul Energy equal to your Will attribute.
 
 #### Class Perks
 | Level | Perk Name | Effect | Action/Cost |
 | :--- | :--- | :--- | :--- |
-| 1 | **Dark Insight** | Reroll a failed Corruption Save. | Reaction |
-| 2 | **Hex Spark** | Dealing spell dmg deals 1 Splash dmg to nearby. | Passive |
-| 3 | **Madness Surge** | Target is Confused (Will Save). This is the Hylden Warlock Signature Upgrade of the **Madness Surge** spell. | Action, 1 SE |
-| 4 | **Willbreaker** | Gain Advantage on Will checks against Frightened enemies. | Passive |
+| 1 | **Dark Insight** | Reroll a failed Corruption save. | Reaction |
+| 2 | **Hex Spark** | Dealing spell damage deals 1 Splash damage to one creature within 5 feet of the primary target. | Passive |
+| 3 | **Madness Surge** | Target within 30 feet is **Confused** (DR 3 Will save). This is the Hylden Warlock Signature Upgrade of the **Madness Surge** spell. | Action, 1 SE |
+| 4 | **Willbreaker** | Gain Advantage on Will checks against **Frightened** enemies. | Passive |
 | 5 | **Forbidden Truth** | When you cast a spell that costs SE, you may pay for it by gaining 1 Corruption instead of spending its SE cost. | No Action, once per scene |
 | 5 | *or* **Entropic Overload** | Your next spell or Void Shard this turn deals +3 Void damage and bypasses Armor and Resistance, but not Immunity. | No Action, 1/short rest |
-| 6 | **Decay Field** | 10ft Zone, enemies suffer -1 Die on everything. | Action, 2 SE |
-| 7 | **Glyph of Disquiet** | 15ft Aura, enemies are uneasy (-1 Social). | Action, 2 SE |
+| 6 | **Decay Field** | 10-foot radius zone within 30 feet; enemies in the zone suffer -1 die on all rolls. | Action, 2 SE |
+| 7 | **Glyph of Disquiet** | 15-foot radius aura centered on caster; enemies are uneasy (-1 die on Social checks). | Action, 2 SE |
 | 8 | **Ritual of Pain** | Sacrifice 3 HP to deal +3 damage on your next successful attack this turn. | No Action, 1/turn |
-| 9 | **Nether Binding** | Target cannot heal or gain resources. | Action, 3 SE |
-| 10 | **Mind Rupture** | Stun target with visions (Will Save). This is the Hylden Warlock Signature Upgrade of the **Mind Rupture** spell. | Action, 3 SE |
-| 10 | *or* **Void Cascade** | When you deal Void damage, 25% of that damage splashes to one enemy within 5ft of the primary target (rounded up, min 1, no save, bypasses Armor). This is in addition to Hex Spark. | Passive |
-| 11 | **Echoes of Exile** | Debuffs cannot be dispelled easily. | Passive |
-| 12 | **Soul Flensing** | Void Shard strips Resistances. | Passive |
-| 13 | **Premonitions** | Force an enemy to reroll a successful attack. | Reaction |
-| 14 | **Aura of Despair** | Glyph of Disquiet causes Fear. | Passive |
-| 15 | **Voidborn Ascendancy** | Corruption fuels your power. Gain +1 die to all spell attacks for every 3 Corruption you carry (max +4 dice). When you use Forbidden Truth, choose: gain Corruption as normal, or instead deal 3 Void damage (no save, bypasses Armor) to all enemies within 10ft. | Passive |
+| 9 | **Nether Binding** | Target within 30 feet cannot heal or gain resources (DR 3 Soul save). | Action, 3 SE |
+| 10 | **Mind Rupture** | **Stunned** target within 30 feet with visions (DR 3 Will save). This is the Hylden Warlock Signature Upgrade of the **Mind Rupture** spell. | Action, 3 SE |
+| 10 | *or* **Void Cascade** | When you deal Void damage, 25% of that damage splashes to one enemy within 5 feet of the primary target (rounded up, minimum 1, no save, bypasses Armor). This is in addition to Hex Spark. | Passive |
+| 11 | **Echoes of Exile** | Your debuffs cannot be dispelled easily (requires DR +1 success to dispel). | Passive |
+| 12 | **Soul Flensing** | Void Shard strips one Resistance from the target on a hit (Warlock's choice). | Passive |
+| 13 | **Premonitions** | Force an enemy within 30 feet to reroll a successful attack. | Reaction |
+| 14 | **Aura of Despair** | Glyph of Disquiet causes **Frightened** (DR 3 Will save). | Passive |
+| 15 | **Voidborn Ascendancy** | Corruption fuels your power. Gain +1 die to all spell attacks for every 3 Corruption Level you carry (max +4 dice). When you use Forbidden Truth, choose: gain Corruption as normal, or instead deal 3 Void damage (no save, bypasses Armor) to all enemies within 10 feet. | Passive |
 | 15 | *or* **Hylden's Mantle** | Resistance to Elemental, Force, Spectral, Radiant, and Entropic damage. Once per scene, after a magical effect targets you or includes your space, you may negate it before it resolves. | Passive + Reaction, once per scene |
-| 16 | **Entropic Unmaking** | Destroy a non-magical object instantly. | Action |
-| 17 | **Feast on Suffering** | Regain SE when nearby enemies take Dmg. | Passive |
-| 18 | **Shattered Prophecy** | Forbidden Truth generates half the normal Corruption (round down, min 0). | Passive |
-| 19 | **Soul Annihilation** | Nether Binding deals Dmg equal to target's Corruption. | Passive |
-| 20 | **Oracle of Endings** | Cast any spell for free, Max Dmg. | Action, 1/long rest |
-| 20 | *or* **Final Unraveling** | Mark one creature you can see within 30 ft. For 3 rounds, it takes damage equal to its Corruption score at the start of each of its turns, bypassing Armor and Resistance but not Immunity. If it survives, it gains 2 Corruption when the effect ends. | Bonus Action, 1/long rest |
+| 16 | **Entropic Unmaking** | Destroy a non-magical object you touch instantly (size limit: 5-foot cube). | Action |
+| 17 | **Feast on Suffering** | Regain 1 SE when an enemy within 30 feet takes damage (max 3 SE per turn). | Passive |
+| 18 | **Shattered Prophecy** | Forbidden Truth generates half the normal Corruption (round down, minimum 0; applies if future rituals/perks increase the cost). | Passive |
+| 19 | **Soul Annihilation** | Nether Binding deals damage equal to target's Corruption Level at start of each of their turns. | Passive |
+| 20 | **Oracle of Endings** | Cast any spell for free; deal maximum damage (no roll required for damage). | Action, 1/long rest |
+| 20 | *or* **Final Unraveling** | Mark one creature you can see within 30 feet. For 3 rounds, it takes damage equal to its Corruption Level at the start of each of its turns, bypassing Armor and Resistance but not Immunity. If it survives, it gains 2 Corruption when the effect ends. | Bonus Action, 1/long rest |
 
 
 

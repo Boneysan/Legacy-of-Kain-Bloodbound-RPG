@@ -251,6 +251,8 @@ Exceptional skill or catastrophic missteps shape Nosgoth’s battles.
 
 - **Critical Failure**: A Critical Failure occurs when a player **pushes a roll** by using a Corruption Die and the subsequent roll results in **0 successes** while the **Corruption Die shows a 1**. This triggers a dire consequence, such as a weapon breaking, a spell backfiring spectacularly, or a new, immediate threat appearing on the scene, as determined by the GM.
 
+> *GM Note — Crit Scaling by DV:* The 2+ success crit threshold means high-level characters will crit frequently against low-DV enemies (mook tier, DV 2–3) and rarely against high-DV enemies (Boss/Legendary, DV 5–6). This is intentional — capstone characters should feel devastating against weaker foes while elite enemies remain a real threat. When designing encounters, calibrate enemy DV to the experience you want at the table: a swarm of DV 3 mooks is a victory lap; a DV 6 Boss is a real fight.
+
 **Example**: A Melchiahim claws at a foe (DV 3) with Entropic damage, rolling 5 successes (critical hit). The GM allows +2 damage and Decay.
 
 ## 9.12 Environmental Combat
