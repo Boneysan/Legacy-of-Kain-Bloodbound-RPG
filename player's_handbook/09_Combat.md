@@ -161,6 +161,7 @@ Unless a source explicitly says otherwise, recurring effects resolve at the star
 - **Definition**: Attacks that target the living soul or spiritual essence directly.
 - **Effects**: Ignores all Physical Armor. Resisted by Will or Soul attributes.
   - Often drains resources (Soul Energy) or damages creatures in the Spectral Realm.
+- **Soul Reaver Blade**: A unique damage-dealing keyword. A **Soul Reaver Blade** (whether the artifact itself or a class-simulated version) always deals **Spectral** damage, ignores all Physical Armor, and bypasses Resistance to Spectral damage. On a Critical Hit, it consumes 1 SE from the target (if they have it) and transfers it to the wielder.
 
 ### 9.7.5 Radiant Damage
 - **Includes**: Holy light, "Spectral Fire" (purifying aspect), divine energy.

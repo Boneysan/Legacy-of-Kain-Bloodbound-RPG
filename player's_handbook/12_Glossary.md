@@ -105,10 +105,13 @@ Universal vitality resource. Varies by class (base 8–12 + a Core Attribute, pl
 
 **Soul Energy (SE)**
 Resource for spells and supernatural abilities. Maximum = **3 + Will + (Level ÷ 2, rounded up)**. Regained on rest or via special abilities. Used by Soul-based casters. *(Ch. 0, Ch. 1 §1.5, Ch. 5 §5.7)*
-
 **Blood Points (BP)**
 Resource for vampiric abilities and blood magic. Maximum = **4 + Shadow + (Level ÷ 2, rounded up)**. Gained by feeding or being near dying creatures. Used by Vampires, Blood Knights, Sangromancers. *(Ch. 0, Ch. 1 §1.5, Ch. 5 §5.7)*
 
+**Soul Reaver Blade**
+A unique damage-dealing keyword. A **Soul Reaver Blade** (whether the artifact itself or a class-simulated version) always deals **Spectral** damage, ignores all Physical Armor, and bypasses Resistance to Spectral damage. On a Critical Hit, it consumes 1 SE from the target (if they have it) and transfers it to the wielder. *(Ch. 3, Ch. 9 §9.4)*
+
+---
 **Temporary HP**
 Buffer HP granted by abilities or perks. Lost before regular HP. Does not stack from separate sources — use the highest value. *(Various class/perk abilities)*
 
@@ -170,6 +173,9 @@ Vampires at 0 HP may enter Frenzy instead of making Death Saves: act for **1d3 r
 
 **Permanent Death**
 At GM discretion, certain attacks (Soul Reaver consumption, immolation by Spectral Fire) cause instant death, bypassing Death Saves entirely. *(Ch. 0, Ch. 9 §9.5.1)*
+
+**Partial Shift**
+A creature is **Partially Shifted** when it occupies both the Material and Spectral Realms simultaneously. While Partially Shifted: the creature is visible and targetable by creatures in both realms; all incoming damage applies regardless of type; abilities tagged *Spectral only* or *Material only* cannot be used; Soul Bleed applies at 1 HP per turn with no exceptions. A Partially Shifted creature may spend a **Bonus Action and 1 SE** to stabilize into one realm of its choice, ending this state. If it cannot, the state ends at the start of its next turn; it snaps into the realm it can best sustain (Spectral if below 50% HP, Material if above). *(Ch. 11 §11.5.5)*
 
 ---
 
@@ -466,6 +472,15 @@ Loci of amplified magical power. Reduce spell costs by 1 and may grant +1 die on
 
 **Threat Value (TV)**
 A numeric value assigned to creatures for encounter balancing. GMs compare total enemy TV against party level and size to determine encounter difficulty. The Monster Manual uses an **Absolute TV** scale where values are pre-calculated based on the creature's level band and role (e.g., Standard TV 1–4, Elite TV 5–11, Boss TV 12+). *(Monster Manual §0.0, GM Guide Ch. 2)*
+
+**Soul Sight** *(Character Trait)*
+While in the Spectral Realm, the character perceives their surroundings in complete darkness as if in dim light. Soul Sight is automatic for all characters with **Spectral Affinity** or **Hybrid Affinity**. Material characters who are forcibly shifted into the Spectral Realm must spend a **Bonus Action** to attune their senses before gaining this benefit — no check required, it simply takes a moment. Soul Sight does not grant the ability to see invisible or hidden creatures; it only removes the blindness of Spectral darkness. *(Ch. 11 §11.5.4)*
+
+**Spectral Sight** *(Creature Trait)*
+The creature can perceive living creatures, Spectral entities, and hidden features in both the Material and Spectral Realms simultaneously, ignoring walls and solid obstacles within the listed range. Spectral Sight is a passive, always-on trait. It does not grant invisibility detection or bypass magical concealment unless the creature's stat block states otherwise. Distinct from **Soul Sight** — Soul Sight allows vision in Spectral darkness; Spectral Sight allows cross-realm perception at range. *(Monster Manual Ch. 1, Ch. 2)*
+
+**Spectral Wilderness** *(Creature Trait)*
+The creature cannot be **Grappled**, **Restrained**, or knocked **Prone** by physical means. It is immune to poison and disease. Abilities that inflict these conditions via magical or Spectral means (e.g., spectral chains, glyph-binding) still function normally unless the creature's stat block says otherwise. Spectral Wilderness reflects a Spectral creature's lack of true physical form — physical bindings and toxins have nothing to anchor to. *(Monster Manual Ch. 2)*
 
 ---
 

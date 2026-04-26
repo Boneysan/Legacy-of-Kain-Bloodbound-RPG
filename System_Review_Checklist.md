@@ -55,6 +55,12 @@ Completed major passes:
 ### 6. Monster Manual
 - **Normalization**: All 9 chapters overhauled to the standardized bulleted stat block format.
 - **Balance**: Final Boss pass (Round 5) completed for legendary entities.
+- **Affinity Audit**: 
+    - Added `Affinity` field to MM schema (default: Material).
+    - Designated Spectral/Hybrid affinity for ~20 creatures across Ch. 1, 2, 7, and 9.
+    - Standardized Phase-Beast and Void-Touched to use `Partial Shift` condition.
+    - Added phase ability framework for different affinities to MM Introduction.
+    - Defined cosmic entity immunities for Elder God manifestations.
 
 ### 7. Post-Review Polish (April 2026)
 - **Blood Knight Capstone**: Balanced Siege Incarnate with a timed active window for armor-ignore to match Blood Tyrant.
@@ -62,6 +68,14 @@ Completed major passes:
 - **Dreadblade Crit Logic**: Tied Vitals Seeker (L14) to Advantage/Perfect Kill to prevent passive crit-stacking.
 - **Wraith Balance**: Documented the +1 Will bonus as an intentional counterweight to physical fragility.
 - **Crit Scaling Guidance**: Added GM sidebar to Ch. 9 clarifying high-level crit frequency vs. low-DV foes.
+- **Spectral Realm Mechanics**: 
+    - Standardized "Full Action" to "Action" for realm crossing.
+    - Added "Soul Sight" to Wraith lineage and defined "Partial Shift" in Glossary.
+    - Explicitly designated Lineage Affinities (Hybrid: Unbound; Spectral: Revenant, low-level Wraiths).
+    - Granted Soul Reavers Hybrid Affinity and updated `Banish` with a skill check requirement.
+    - Tagged `crosses realms` on all relevant teleport/phase abilities (Shadow Step, Flicker, etc.).
+    - Applied `Material only` restrictions to all Blood-based class features.
+    - Formally defined the `Soul Reaver Blade` keyword in Ch. 9 and Ch. 12.
 
 ---
 **Sign-off: System Review Complete.**

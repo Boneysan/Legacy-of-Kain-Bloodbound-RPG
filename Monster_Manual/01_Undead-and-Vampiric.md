@@ -424,6 +424,7 @@ Begins fights from behind sturdier undead or from the edge of a prepared ritual 
 ## 1.8 Bloodflame Specter
 
 **Type:** Undead (Spectral, Fire-Touched)  
+**Affinity:** Spectral
 **Threat Tier:** Standard (Level 4) - TV 4
 **Recommended Levels:** 2-6
 
@@ -1098,6 +1099,7 @@ Zealots charge the nearest target without hesitation, prioritizing isolated or u
 ## 1.19 Fracture Dimension-Walker
 
 **Type:** Undead (Vampire, Elite)
+**Affinity:** Hybrid
 **Threat Tier:** Elite (TV 9)
 **Recommended Levels:** 7-11
 
@@ -1159,6 +1161,7 @@ The Dimension-Walker opens combat behind the front line, using Realm Shift to ap
 ## 1.20 Fracture Void-Touched
 
 **Type:** Undead (Vampire, Boss)
+**Affinity:** Hybrid
 **Threat Tier:** Boss (TV 12)
 **Recommended Levels:** 10-14
 
@@ -1184,7 +1187,7 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 - **Dice Pool:** Fury 4 + Weapon Mastery 4 = 8d6 vs DV
 - **Range:** Melee (5 feet)
 - **Damage:** 12 Physical + 5 Spectral
-- **Special:** On Critical Hit, the target partially phases out of alignment. While partially phased, it can pass through solid objects but takes 3 Spectral damage at the start of each of its turns. The effect lasts until the target uses an Action and succeeds on a DR 3 Will save.
+- **Special:** On Critical Hit, the target gains the **Partial Shift** condition (Ch. 11 §11.5.5) with the following modifications: instead of standard Soul Bleed, the target takes **3 Spectral damage** at the start of each of its turns while Partially Shifted. The condition ends when the target uses an **Action** and succeeds on a **DR 3 Will** save, or via the standard stabilization (Bonus Action + 1 SE), whichever comes first.
 
 **Reality Fracture** (Action, costs 8 SE)
 - **Dice Pool:** Soul 4 + Ethereal Mastery 4 = 8d6 vs Will (area)
@@ -1239,6 +1242,7 @@ The Void-Touched opens with Merge Protocol to establish numerical advantage — 
 ## 1.21 Banshee
 
 **Type:** Undead (Spectral, Wailing Spirit)  
+**Affinity:** Spectral
 **Threat Tier:** Elite (TV 4)
 **Recommended Levels:** 3-6
 
@@ -1268,7 +1272,7 @@ Banshees are spirits of grief so concentrated that they linger as weapons. Some 
 - **Special:** Ignores Physical Armor.
 
 ### Abilities
-**Incorporeal:** Nonmagical physical attacks deal half damage to the Banshee. It may pass through walls, doors, and creatures. If it ends its turn inside solid matter, it takes 5 Force damage.
+**Incorporeal:** Nonmagical physical attacks deal half damage to the Banshee. It may pass through walls, doors, and creatures. If it ends its turn inside solid matter, it takes 5 Force damage. *(The Banshee's long years anchored to the Material Realm have partially bound it to physical reality — its Incorporeal protection is weaker than a pure Spectral entity's.)*
 
 **Funeral Cold:** Resistant to Fire and Cold damage. The Banshee's form is a death-chill rather than living flame.
 

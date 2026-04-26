@@ -43,6 +43,7 @@ Most spectral entities share:
 ## 2.2 Echo Serpent
 
 **Type:** Spectral Beast  
+**Affinity:** Spectral
 **Threat Tier:** Standard (TV 5)
 **Recommended Levels:** 4-6
 
@@ -96,6 +97,7 @@ Uses Phase Strike to approach through walls. Attacks isolated targets with Spect
 ## 2.3 Mirror Wraith
 
 **Type:** Spectral Undead (Intelligent)  
+**Affinity:** Spectral
 **Threat Tier:** Elite (TV 7)
 **Recommended Levels:** 5-9
 
@@ -160,6 +162,7 @@ Opens with Identity Theft on strongest party member to sow chaos. Creates Life E
 ## 2.4 Soul-Eater Shade
 
 **Type:** Spectral Predator  
+**Affinity:** Spectral
 **Threat Tier:** Standard (TV 4)
 **Recommended Levels:** 2-6
 
@@ -216,6 +219,7 @@ Relentlessly pursues highest SE/Soul value target. Uses Soul Rend repeatedly, re
 ## 2.5 Shimmering Howler
 
 **Type:** Spectral Beast (Pack Hunter)  
+**Affinity:** Spectral
 **Threat Tier:** Minion (TV 2)
 **Recommended Levels:** 1-3
 
@@ -264,6 +268,7 @@ Always travel in packs of 4-6. One Howler uses Disorienting Howl while others su
 ## 2.6 Silent Mourner
 
 **Type:** Spectral Spirit (Bound Soul)  
+**Affinity:** Spectral
 **Threat Tier:** Standard (TV 4)
 **Recommended Levels:** 2-6
 
@@ -320,6 +325,7 @@ Remains near its bound location. Uses Aura of Sorrow to wear down enemies passiv
 ## 2.7 Phase-Beast
 
 **Type:** Spectral Aberration  
+**Affinity:** Hybrid
 **Threat Tier:** Elite (TV 8)
 **Recommended Levels:** 6-10
 
@@ -345,7 +351,7 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 - **Dice Pool:** Shadow 5 + 0 = 5d6
 - **Range:** Melee (5 feet)
 - **Damage:** 10 Force damage
-- **Special:** Tears hole in reality. Target makes a DR 3 Will save. On failure, the target is pulled partially into Spectral Realm (**Slowed** for 1 minute, Disadvantage on all actions).
+- **Special:** Tears hole in reality. Target makes a DR 3 Will save. On failure, the target gains the **Partial Shift** condition (Ch. 11 §11.5.5) and is **Slowed** for 1 minute. While Partially Shifted this way, the target has Disadvantage on all action rolls in addition to the standard Partial Shift rules.
 
 **Blink Strike** (Action, Recharge 5-6)
 - **Effect:** Teleport up to 60 feet (12 squares), make Phase Claws attack, teleport back to original position. Cannot be targeted by opportunity attacks.
@@ -353,7 +359,7 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 ### Abilities
 **Phase Shift:** At start of each of its turns, roll 1d6:
 - **1-2:** Fully Material (vulnerable to physical damage, immune to spectral attacks, has Armor: 2)
-- **3-4:** Partially phased (Resistance to all damage; halve damage at the Resistance step after Armor)
+- **3-4:** Partially phased (Resistance to all damage; halve damage at the Resistance step after Armor). *(This is a native dimensional distortion, not the Partial Shift condition — the Phase-Beast's Resistance replaces the vulnerability that standard Partial Shift imposes.)*
 - **5-6:** Fully Spectral (incorporeal, immune to physical damage, vulnerable to Radiant)
 
 **Dimensional Instability:** Area within 15 feet of Phase-Beast is unstable. Creatures entering or starting their turn in the area make a DR 2 Will save. On failure, a creature is teleported 1d4 × 5 feet in a random direction (roll 1d8: 1=N, 2=NE, 3=E, 4=SE, 5=S, 6=SW, 7=W, 8=NW). On success, no effect.
@@ -382,6 +388,7 @@ Uses unpredictable Phase Shift to confound enemies. Employs Blink Strike to atta
 ## 2.8 Gravewind Entity
 
 **Type:** Spectral Elemental  
+**Affinity:** Spectral
 **Threat Tier:** Boss (TV 13)
 **Recommended Levels:** 11-15
 
@@ -455,6 +462,7 @@ Opens with Soul Scour to test multiple targets or Gravewind Vortex if the party 
 ## 2.9 Sluagh (Spectral Carrion-Feeder)
 
 **Type:** Spectral Swarm
+**Affinity:** Spectral
 **Threat Tier:** Standard (single, TV 3) / Elite (swarm of 3–5, TV 8)
 **Recommended Levels:** 1-4 (single), 5-9 (swarm)
 
@@ -599,6 +607,7 @@ A Gravewind Entity terrorizes the countryside, growing stronger with each soul i
 ## 2.12 Wraith of the Abyss
 
 **Type:** Spectral Aberration (Abyssal)  
+**Affinity:** Spectral
 **Threat Tier:** Elite (Strong) (TV 9)
 **Recommended Levels:** 7-11
 
@@ -686,6 +695,7 @@ The Wraith of the Abyss is a patient predator. It uses Phase Shift to stalk the 
 ## 2.13 Lingering Shade
 
 **Type:** Spectral (Remnant, Mindless)
+**Affinity:** Spectral
 **Threat Tier:** Minion (TV 2)
 **Recommended Levels:** 1-3
 
@@ -740,6 +750,7 @@ Lingering Shades do not fight tactically. They drift toward the nearest warm cre
 ## 2.14 Spectral Arcanist
 
 **Type:** Spectral (Intelligent, Spellcaster)
+**Affinity:** Spectral
 **Threat Tier:** Elite (TV 7)
 **Recommended Levels:** 5-9
 
@@ -811,6 +822,7 @@ The Arcanist maintains distance, opening with Soul Bolt spam and Arcane Drain ag
 ## 2.15 Phase Wraith
 
 **Type:** Spectral Predator  
+**Affinity:** Spectral
 **Threat Tier:** Elite (TV 4)
 **Recommended Levels:** 3-6
 
@@ -863,6 +875,7 @@ The Phase Wraith refuses fair engagements. It teleports behind isolated targets,
 ## 2.16 Echo of Kain
 
 **Type:** Spectral Sovereign Echo  
+**Affinity:** Spectral
 **Threat Tier:** Boss (TV 15)
 **Recommended Levels:** 12-16
 

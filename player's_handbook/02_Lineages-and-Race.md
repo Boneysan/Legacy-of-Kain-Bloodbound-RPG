@@ -71,9 +71,10 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 - **Stealth**: Advantage on Stealth checks in the Spectral Realm.
 - **Movement Effects**: Pass through thin barriers while phased.
 - **Bonuses**: +1 Possession, +1 Observation, +1 Will. *(The Will bonus reflects the Wraith's innate spiritual resonance and is intentional — Wraiths begin more resistant to mental and spiritual effects in exchange for their physical fragility, low base movement, and Soul Energy dependency.)*
-- **Unique Trait**: *Wraith Phasing* (Bonus Action, a number of times per long rest equal to your Will: shift into a phased state until the end of your next turn. While phased, you are translucent, your Speed becomes 35 feet, you may move through terrain and barriers up to 1 foot thick (see [Chapter 11: Realms, Section 11.1](./11_Realms-Terrain-Arcane-Power.md#111-realm-affinity)), your weapon and unarmed attacks deal Spectral damage instead of their normal type, you gain Resistance to non-magical Physical damage, and you are immune to non-magical **Grappled** and **Restrained** conditions. You must end your movement in an unoccupied space.)
+- **Soul Sight** (Passive): While in the Spectral Realm, you perceive your surroundings in complete darkness as if in dim light. See [Chapter 11, Section 11.5.4](./11_Realms-Terrain-Arcane-Power.md#1154-environmental-mirroring).
+- **Unique Trait**: *Wraith Phasing* (Bonus Action, a number of times per long rest equal to your Will: shift into a phased state until the end of your next turn. While phased, you are translucent, your Speed becomes 35 feet, you may move through terrain and barriers up to 1 foot thick *(Spectral only)* (see [Chapter 11, Section 11.1](./11_Realms-Terrain-Arcane-Power.md#111-realm-affinity)), your weapon and unarmed attacks deal Spectral damage instead of their normal type *(crosses realms)*, you gain Resistance to non-magical Physical damage, and you are immune to non-magical **Grappled** and **Restrained** conditions. You must end your movement in an unoccupied space.)
 - **Lineage Paragon (Level 10)**: Spectral Resonance. Gain +1 Soul or Will attribute (max 6). Your Wraith Phasing now lasts until the end of the scene or until you dismiss it as a Bonus Action.
-- **Lineage Paragon (Level 20)**: Wraith Lord. You can exist in both the Material and Spectral realms simultaneously, perceiving and interacting with both without phasing. Your Spectral Resonance bonus increases to +2.
+- **Lineage Paragon (Level 20)**: Wraith Lord. You gain **Hybrid Affinity** (see [Chapter 11, Section 11.5.2](./11_Realms-Terrain-Arcane-Power.md#1152-voluntary-shift-hybrid-affinity)). You can exist in both the Material and Spectral realms simultaneously, perceiving and interacting with both without phasing. Your Spectral Resonance bonus increases to +2.
 - **Anchor:** At character creation, designate one Anchor - an object, location, or living NPC tied to your purpose. If destroyed without replacement within 7 days, make a **DR 2 Will check** at the start of each session; failure = **+1 Corruption**. Replacing an Anchor requires 1 hour of ritual and a meaningful new connection. *(Full rules: Lineage Lore - Wraiths.)*
 - **Narrative Hook**: Forgotten by death, hunted by time.
 
@@ -114,6 +115,7 @@ Seers touched by divinity or prophecy.
 
 ## 2.6 Revenants
 **Lore**: Half-wraith, half-corpse beings risen by will, rejected by death, or revived by necromancy. Driven by unfinished business, they rot but persist.
+- **Lineage Affinity**: Spectral Affinity.
 - **Movement**: 25 feet (5 squares); treat graves and crypts as normal ground.
 - **Stealth**: +1 die in fog, smoke, or decay.
 - **Movement Effects**: Collapse into ash once per rest to move through bars or cracks large enough for smoke to pass through. You must end in an unoccupied space.
@@ -126,6 +128,7 @@ Seers touched by divinity or prophecy.
 
 ## 2.7 Unbound
 **Lore**: Anomalies outside fate's pattern, possibly temporal echoes or Elder God shards. They resist prophecy and exhibit unnatural luck.
+- **Lineage Affinity**: Hybrid Affinity.
 - **Movement**: 30 feet (6 squares); treat difficult terrain as normal for 1 round per rest.
 - **Stealth**: +1 die when moving unpredictably.
 - **Movement Effects**: Teleport 20 feet as a Bonus Action once per session.

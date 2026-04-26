@@ -996,6 +996,7 @@ The Umbral Vortex opens with Consuming Dark to neutralize lights and **Frightene
 ## 7.13 SE-Feeder
 
 **Type:** Elemental-Parasite (Arcane)
+**Affinity:** Spectral
 **Threat Tier:** High (TV 9)
 
 ### Lore

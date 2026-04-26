@@ -20,6 +20,7 @@ Guidance:
 *A shard of will echoing from a soul that defied fate; a wind-carved silhouette wielding hunger and purpose.*
 
 **Type:** Medium Undead (Vampire, Spectral)
+**Affinity:** Spectral
 **Threat Tier:** Deadly (TV 18)
 
 ### Statistics
@@ -187,6 +188,7 @@ Guidance:
 *A sorrow-turned-judgment that haunts sanctums and oathbreakers; a voice of balance with edges of storm.*
 
 **Type:** Medium Spectral (Pillar Guardian)
+**Affinity:** Spectral
 **Threat Tier:** Deadly (TV 16)
 
 ### Statistics
@@ -451,6 +453,7 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 *A fragment of the Elder God's vast and terrible will — a single limb of the thing that turns the Wheel of Fate, extended into the material world to enforce its cosmic mandate.*
 
 **Type:** Gargantuan Aberration (Elder God Tendril)
+**Affinity:** Hybrid *(Note: The Tendril of the Wheel exists across realm boundaries simultaneously. Soul Bleed does not apply — it is not a visitor to either realm. Standard realm interaction rules do not apply — Soul Bleed, forced shifts, and Soul Portal rules cannot affect it.)*
 **Threat Tier:** Apex (TV 22)
 
 ### Statistics
@@ -729,6 +732,7 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 *A librarian of the erased; binds true names to silence and sets wards none remember.*
 
 **Type:** Medium Spectral (Ancient, Arcane)
+**Affinity:** Spectral
 **Threat Tier:** Deadly (TV 16)
 
 ### Statistics
@@ -806,6 +810,7 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 ## 9.10 Echo of Moebius
 
 **Type:** Legendary Entity (Temporal Fragment, Guardian of Time)
+**Affinity:** Hybrid *(Note: The Echo of Moebius exists in a temporal state rather than a realm state. It is subject to Spectral Realm entry and exit rules when relevant but does not suffer Soul Bleed — it has no soul to dissolve.)*
 **Threat Tier:** Deadly (TV 16)
 
 ### Lore
@@ -1131,6 +1136,7 @@ The Overlord opens with Dimensional Anchor on the party's most effective counter
 *The Elder God does not arrive — it seeps. What seems like a hero, a savior, an oracle, is sometimes nothing more than a tendril wearing flesh.*
 
 **Type:** Medium Aberration (Elder God Vessel)
+**Affinity:** Hybrid
 **Threat Tier:** Major (TV 14)
 
 ### Statistics
@@ -1223,6 +1229,7 @@ The Overlord opens with Dimensional Anchor on the party's most effective counter
 *The Wheel does not die. It cannot be killed. It can only be diminished, delayed — and it has waited long enough.*
 
 **Type:** Gargantuan Aberration (Elder God, Partial Manifestation)
+**Affinity:** Hybrid *(Note: The Elder God Manifestation exists across all realms simultaneously. Standard realm interaction rules do not apply — Soul Bleed, forced shifts, and Soul Portal rules cannot affect it.)*
 **Threat Tier:** Apex (TV 20)
 
 ### Statistics

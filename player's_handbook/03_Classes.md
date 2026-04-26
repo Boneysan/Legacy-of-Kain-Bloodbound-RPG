@@ -59,7 +59,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 
 #### Core Abilities
 *   **Blood Frenzy** (Passive): Gain +1 Fury to your dice pool for the next action when you take damage.
-*   **Life Drain** (Passive): When you deal melee damage, heal HP equal to half the damage dealt (round up). This healing triggers once per turn.
+*   **Life Drain** (Passive): When you deal melee damage, heal HP equal to half the damage dealt (round up). This healing triggers once per turn. *(Material only)*
 *   **Low Health Surge** (Passive): +1 Success to physical actions while Bloodied.
 
 #### Class Perks
@@ -68,7 +68,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 1 | **Iron Hide** | +1 Armor while Bloodied. | Passive |
 | 2 | **Brutal Counter** | When a creature within your melee reach misses you with a melee attack, deal 1 unpreventable damage to that attacker. | Reaction, 1/round |
 | 3 | **Iron Veins** | Immune to Bleeding status. | Passive |
-| 4 | **Bloodrush** | Move up to half your Speed immediately. This movement does not provoke opportunity attacks. | Bonus Action, 1 BP |
+| 4 | **Bloodrush** | Move up to half your Speed immediately. This movement does not provoke opportunity attacks. *(Material only)* | Bonus Action, 1 BP |
 | 5 | **Crushing Blow** | Melee attack **Stuns** target (DR 3 Blood save) for 1 round. | Action |
 | 5 | *or* **Killing Momentum** | When you kill an enemy in combat, gain 1 stack of Killing Momentum (max 3). Each stack grants +1 die to attack rolls until the end of your next turn. Gaining a new stack resets all stacks' duration. | Passive |
 | 6 | **Juggernaut** | Move at least 10 feet in a straight line, then make one melee attack. On a hit, the target must succeed on a DR 3 Blood save or be knocked **Prone**. | Action |
@@ -94,9 +94,9 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 ### 3.3.2 Soul Reaver
 
 **"The material world is a cage. We are the key."**
-
 **Lore**: Bound to the Spectral Realm, Soul Reavers are warriors who have touched the abyss and returned changed. They are phasing skirmishers, capable of striking from the spirit world and weaving soul energy into devastating attacks. Often misunderstood as ghosts, they walk the line between life and death.
 **Role**: Phase Warrior / Hybrid Caster
+**Hybrid Affinity**: As a Soul Reaver, you possess **Hybrid Affinity**, allowing you to voluntarily shift between realms and interact with both more easily than Material or Spectral-only creatures. See [Chapter 11, Section 11.5.2](./11_Realms-Terrain-Arcane-Power.md#1152-voluntary-shift-hybrid-affinity).
 **Core Attributes**: Soul, Fury
 **Starting HP**: 10 + Soul (+4 per level; +1 Max HP at Levels 5, 10, 15, and 20)
 **Key Skills**: Weapon Mastery, Athletics, Insight, Ethereal Mastery, Stealth
@@ -117,15 +117,15 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | Level | Perk Name | Effect | Action/Cost |
 | :--- | :--- | :--- | :--- |
 | 1 | **Spectral Strike** | Your next melee attack before the end of your turn deals +2 Spectral damage and ignores Armor. | Bonus Action, 1 SE |
-| 2 | **Ethereal Step** | Until the end of your turn, you may move up to half your Speed through creatures and solid objects up to 5 feet thick. You must end in an unoccupied space. | Action, 1 SE |
-| 3 | **Soul Siphon** | Regain 1 SE when killing an enemy. | Passive |
-| 4 | **Wraith Form** | For 1 minute, you gain Resistance to Physical damage and may move through creatures as difficult terrain. You must still end your movement in an unoccupied space. | Action, 2 SE |
-| 5 | **Banish** | One creature you can see within 30 feet must succeed on a DR 4 Soul save or be forced into the Spectral Realm until the end of your next turn. At the end of its turn, it may repeat the save, ending the effect on a success. | Action, 2 SE |
+| 2 | **Ethereal Step** | Until the end of your turn, you may move up to half your Speed through creatures and solid objects up to 5 feet thick. You must end in an unoccupied space. *(Spectral only)* | Action, 1 SE |
+| 3 | **Soul Siphon** | Regain 1 SE when killing an enemy. *(Spectral only)* | Passive |
+| 4 | **Wraith Form** | For 1 minute, you gain Resistance to Physical damage and may move through creatures as difficult terrain. You must still end your movement in an unoccupied space. *(Spectral only)* | Action, 2 SE |
+| 5 | **Banish** | One creature you can see within 30 feet. Make a **DR 4 Soul + Ethereal Mastery** check to target; if successful, the target must succeed on a **DR 4 Soul save** or be forced into the Spectral Realm until the end of your next turn. At the end of its turn, it may repeat the save, ending the effect on a success. | Action, 2 SE |
 | 5 | *or* **Reaver’s Resonance** | Spectral Strike chains to a second target within 10 feet of the primary target, dealing half the damage dealt to the primary target (also ignores Armor). | Passive |
 | 6 | **Reaver’s Hunger** | Soul Blade deals +1 Damage. | Passive |
-| 7 | **Flicker** | Teleport up to 30 feet to an unoccupied space you can see. | Movement, 1 SE |
+| 7 | **Flicker** | Teleport up to 30 feet to an unoccupied space you can see. *(crosses realms)* | Movement, 1 SE |
 | 8 | **Ghost Parry** | When you are targeted by an attack, gain +2 DV against that attack only. | Reaction, 1 SE |
-| 9 | **Spectral Nova** | Each enemy within 10 feet of you must succeed on a DR 3 Soul save or take 9 Spectral damage. On a success, a target takes half damage, rounded down. | Action, 3 SE |
+| 9 | **Spectral Nova** | Each enemy within 10 feet of you must succeed on a DR 3 Soul save or take 9 Spectral damage. On a success, a target takes half damage, rounded down. *(crosses realms)* | Action, 3 SE |
 | 10 | **Spectral Fugue** | Ethereal Step is now full speed + invisible. | Passive |
 | 10 | *or* **Soul Rift** | Once per short rest, when you take the Attack Action and hit with Soul Blade, you may tear a Spectral wound into the target. The target takes 3 Spectral damage at the start of each of its turns for 3 rounds. You may apply at most 2 Soul Rift stacks to the same target at one time; each stack tracks its duration separately. | Triggered, 1/short rest |
 | 11 | **Soul Consumption** | Soul Siphon restores 3 SE or 3 HP. | Passive |
@@ -135,8 +135,8 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 15 | **Reaver’s Wrath** | +2 Dice to all Soul/Fury rolls for 1 minute. | Action, 3 SE |
 | 15 | *or* **Phase Anchor** | When you Phase Shift, you may target one adjacent unwilling creature. They must make a DR 3 Soul save or be pulled into your realm, take 4 Spectral damage, and suffer -1 die to all rolls. At the end of each of their turns, they may repeat the save; on a success, they return to their original realm with 0 movement remaining. See Chapter 11 for normal realm-affinity interaction limits while they remain there. Boss and Legendary creatures are immune. | Bonus Action (when Phase Shifting) |
 | 16 | **Death’s Door** | Choose one creature you can see within 30 feet. You learn its exact current HP, Resistances, and Immunities. This knowledge remains clear to you until the end of the scene. | Bonus Action |
-| 17 | **Ethereal Assassin** | Attack from Spectral Realm without fully shifting. | Action, 2 SE |
-| 18 | **Soul Storm** | Signature Upgrade of the **Soul Storm** spell: Spectral Nova deals 15 Spectral Dmg + **Frightened** (DR 3 Will save) for 1 round. | Action, 4 SE |
+| 17 | **Ethereal Assassin** | Attack from Spectral Realm without fully shifting. *(Spectral only)* | Action, 2 SE |
+| 18 | **Soul Storm** | Signature Upgrade of the **Soul Storm** spell: Spectral Nova deals 15 Spectral Dmg + **Frightened** (DR 3 Will save) for 1 round. *(crosses realms)* | Action, 4 SE |
 | 19 | **Wraith Lord** | Permanent Resistance to Physical damage. | Passive |
 | 20 | **Angel of Death** | Transformation (1 min): Gain fly speed 60 feet, your attacks ignore Resistance but not Immunity, and your melee attacks deal +3 bonus Spectral damage. Enemies that can see you when the transformation begins or start their turn within 30 feet of you must succeed on a DR 3 Soul save or be **Frightened** until the transformation ends. | Action, 5 SE, 1/long rest |
 | 20 | *or* **Phantom Sovereign** | Ethereal Step, Spectral Strike, Ghost Parry, and Flicker no longer cost SE. | Passive |
@@ -167,7 +167,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 #### Class Perks
 | Level | Perk Name | Effect | Action/Cost |
 | :--- | :--- | :--- | :--- |
-| 1 | **Shadow Step** | Teleport up to 15 ft from one dim-light or darkness space to another dim-light or darkness space you can see. | Movement, 1 SE |
+| 1 | **Shadow Step** | Teleport up to 15 ft from one dim-light or darkness space to another dim-light or darkness space you can see. *(crosses realms)* | Movement, 1 SE |
 | 2 | **Umbral Sight** | See perfectly in magical/non-magical darkness. | Passive |
 | 3 | **Fear Toxin** | Apply Poison causing Fear (Will vs Diff 3). | Action, 1 BP |
 | 4 | **Silhouette** | Create a clone; enemies attacking it miss you. | Reaction, 1 SE |
@@ -204,7 +204,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 
 #### Spell Access
 - **Casting Model:** Known spells.
-- **Spell Access:** You may learn Blood spells freely from your class list and Ritual spells tied to blood rites, fleshcraft, corpse-work, and vitae transfer.
+- **Spell Access:** You may learn Blood spells freely from your class list and Ritual spells tied to blood rites, fleshcraft, corpse-work, and vitae transfer. **Note: All spells with the Blood tag or using the Blood attribute require a physical presence (Material only) unless you have a perk that says otherwise.**
 - **Starting Spells:** Start with 3 spells from your class spell list.
 - **Gain Rate:** Learn 1 additional spell at every even-numbered level.
 - **Class Features vs. Spells:** **Blood Puppet**, **Crimson Bind**, and **Hemodominate** are this class's Signature Upgrades of the generic spells of the same name. If you learn both versions, references to the class feature always use the class-feature text.
@@ -225,7 +225,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 5 | *or* **Vital Surge** | Whenever Hemorrhage ticks damage on a target, you regain 2 HP. You can benefit from this healing only once per round. | Passive |
 | 6 | **Blood Pact** | Choose one willing ally within 30 ft. Transfer up to your Soul attribute in HP from yourself to the ally, from the ally to yourself, or split that amount between both directions. This transfer cannot raise a target above its Max HP. | Action, 1 BP |
 | 7 | **Wound Echo** | Bleeding effects last +1 round longer. | Passive |
-| 8 | **Bloodburst** | Blood erupts in a 5-ft-radius burst centered on a point you can see within 30 ft. Creatures in the area must succeed on a DR 2 Evasion save or take 4 Blood damage; on a success, they take half damage, rounded down. | Action, 2 BP |
+| 8 | **Bloodburst** | Blood erupts in a 5-ft-radius burst centered on a point you can see within 30 ft. Creatures in the area must succeed on a DR 2 Evasion save or take 4 Blood damage; on a success, they take half damage, rounded down. *(Material only)* | Action, 2 BP |
 | 9 | **Sanguine Transfiguration** | Gain +15 ft speed for 1 minute; heal HP equal to your Soul attribute. | Bonus Action |
 | 10 | **Hemodominate** | One creature you can see within 30 ft must succeed on a DR 3 Will save or be controlled by you for up to 1 minute. It repeats the save at the end of each of its turns, ending the effect on a success. This is the Sangromancer Signature Upgrade of the **Hemodominate** spell. | Action, 3 BP, Concentration |
 | 10 | *or* **Blood Cascade** | When a bleeding target takes damage from an attack or ability, they also take 2 Blood damage (bypasses Armor). Allies within 30ft may also trigger this effect, but it can trigger only once per damage event. | Passive |

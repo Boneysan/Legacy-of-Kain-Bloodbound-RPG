@@ -101,6 +101,7 @@ Use this baseline when running or revising any monster entry in this book.
 - **Legendary Resistance:** When a creature uses Legendary Resistance, it changes a failed save into a success only for that triggering effect. It does not heal damage, undo riders from earlier turns, refresh reactions, or bypass Immunity rules.
 - **Summons and created creatures:** Summoned minions use their own stat blocks and defenses. If a boss aura or phase says it protects allies, it must state the range, duration, and whether it applies to summoned creatures.
 - **Realm and phase effects:** Material, Spectral, incorporeal, anti-phase, and forced realm-shift effects use the realm interaction rules in Chapter 11 and the spell rules in Chapter 5. If a monster entry conflicts with those chapters, use the more specific monster rule for that creature and flag the entry for revision.
+- **Phase abilities by affinity:** Phase Movement, Phase Step, Phase Strike, Phase Runner, Realm Shift, and all similar abilities that allow movement through solid objects are innate traits tied to a creature's Affinity. Creatures with **Spectral Affinity** use these abilities in both realms by nature — moving through matter is what they are, regardless of which side of the veil they inhabit. Creatures with **Material Affinity** that possess phase abilities through mutation, technology, or glyph-craft (constructs, mutants, Hylden-engineered forces) can only use those abilities in the Material Realm; they are lost if the creature is fully shifted to the Spectral Realm. **Hybrid Affinity** creatures use phase abilities in both realms. Brief in-and-out transits (such as the Dimension-Walker's Realm Shift) do not trigger Soul Bleed — the ability's listed SE cost covers the entire crossing and return; Soul Bleed only applies to extended stays.
 
 ---
 
@@ -112,6 +113,7 @@ Each creature entry includes:
 
 **Name & Classification**
 - **Type:** Undead, Aberration, Beast, etc.
+- **Affinity:** Spectral, Hybrid, or Material (omit if Material — Material is the default)
 - **Threat Tier:** Minion, Standard, Elite, Boss, or Legendary, with the printed encounter-budget TV shown in parentheses
 
 **Lore & Behavior**
