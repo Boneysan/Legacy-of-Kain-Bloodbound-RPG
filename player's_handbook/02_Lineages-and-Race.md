@@ -122,6 +122,7 @@ Seers touched by divinity or prophecy.
 - **Bonuses**: +1 Concentration, +1 Ritualism.
 - **Unique Trait**: *Unyielding Purpose* (Passive: once per arc, when you would be reduced to 0 HP, you instead drop to 1 HP. Active: Bonus Action, once per scene, choose one - ignore difficult terrain until the end of your turn; gain Advantage against forced movement until the start of your next turn; or gain +2 damage and Advantage on one roll directly tied to your unfinished business before the end of your turn.)
 - **Undead Biology**: Revenants do not need to breathe and are immune to **Drowning** or **Suffocation** from lack of air. They are not affected by running water unlike true Vampires.
+- **Soul Bleed:** While in the Spectral Realm, Revenants suffer Soul Bleed at 1 HP per 3 rounds. See [Chapter 11, Section 11.5.1](./11_Realms-Terrain-Arcane-Power.md#1151-the-soul-economy).
 - **Lineage Paragon (Level 10)**: Deathless Will. Gain +1 Will or Shadow attribute (max 6). Your Unyielding Purpose active effect can now be used twice per scene.
 - **Lineage Paragon (Level 20)**: Eternal Avenger. You gain Resistance to Entropic and Spectral damage. Your Deathless Will bonus increases to +2.
 - **Narrative Hook**: Defying the grave, serving a second purpose.

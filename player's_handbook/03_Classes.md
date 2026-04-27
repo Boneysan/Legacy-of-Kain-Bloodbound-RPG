@@ -153,7 +153,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 
 #### Spell Access
 - **Casting Model:** Known spells.
-- **Spell Access:** You may learn Forbidden and Ritual spells tied to darkness, fear, concealment, shadow travel, and shadow-entity manipulation.
+- **Spell Access:** You may learn Forbidden and Ritual spells tied to darkness, fear, concealment, shadow travel, and shadow-entity manipulation. Shadowmancers do not typically inscribe — their power is ephemeral. They gain access only to specific Glyph spells that manipulate silence or displacement.
 - **Starting Spells:** Start with 2 spells from your class spell list.
 - **Gain Rate:** Learn 1 additional spell at Levels 3, 6, 9, 12, 15, and 18.
 - **Class Features vs. Spells:** Your Core Abilities and most Class Perks are class features. **Darkness** is a granted class spell and does not count against your spells known. **Fear Toxin**, **Shadow Step**, and **Terror Aura** remain class features rather than learned spells.
@@ -201,6 +201,9 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Core Attributes**: Blood, Soul
 **Starting HP**: 9 + Blood (+3 per level; +3 Max HP at Levels 5, 10, 15, and 20)
 **Key Skills**: Rituals, Forbidden Knowledge, Concentration, Intimidation, Craft (Alchemy)
+
+> **Sidebar: Blood and the Spectral Realm**
+> Sangromancers are wholly Material-realm casters. Their spells require living blood and cannot function in the Spectral Realm. A Sangromancer who crosses the veil retains their BP pool but cannot access it until they return to the Material Realm.
 
 #### Spell Access
 - **Casting Model:** Known spells.

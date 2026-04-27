@@ -12,7 +12,7 @@ Issues identified during review of Section 11.5 after it was written and committ
 
 ### Issue 1 — Direct Conflict: Return Threshold (11.1 vs 11.5)
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/11_Realms-Terrain-Arcane-Power.md` — Section 11.1 (Shifting Realms)
 
@@ -30,7 +30,7 @@ Update Section 11.1 Material Return bullet to read:
 
 ### Issue 2 — Contradiction: Native Spectral Exception Scope (11.5.1)
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/11_Realms-Terrain-Arcane-Power.md` — Section 11.5.1 (Native Spectral Exception paragraph)
 
@@ -51,7 +51,7 @@ Update the Native Spectral Exception to scope it to MM/NPC creatures explicitly:
 
 ### Issue 3 — Gap: Revenant Soul Bleed Rate Undefined
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/11_Realms-Terrain-Arcane-Power.md` — Section 11.5.1 (Soul Bleed); `player's_handbook/02_Lineages-and-Race.md` — Section 2.6 (Revenants)
 
@@ -77,7 +77,7 @@ Issues identified during initial pass of Chapter 5 against the new §11.5 Spectr
 
 ### Issue 4 — Reference Drift: Five Spells Point to §11.1 Instead of §11.5
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Spell Compendium (§5.10)
 
@@ -100,7 +100,7 @@ Update each spell's §11.1 link to the correct §11.5 subsection as listed above
 
 ### Issue 5 — BP Suspension Gap: §5.7 Has No Awareness of the Spectral BP Rule
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Section 5.7 (Resource Pools); `player's_handbook/11_Realms-Terrain-Arcane-Power.md` — Section 11.5.6 (What You Cannot Do)
 
@@ -119,7 +119,7 @@ Add a note to §5.7 under the BP entry:
 
 ### Issue 6 — Undefined Terminology: "Ethereal" in Lantern Rite
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 159 (Lantern Rite, Initiate Ritual Spells)
 
@@ -139,7 +139,7 @@ Update Lantern Rite to read: *"30-foot light reveals **Invisible** or **Incorpor
 
 ### Issue 7 — Astral Shackle: Forced Shift Cost Not Addressed
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 325 (Astral Shackle, Master Forbidden Spells)
 
@@ -159,7 +159,7 @@ Add a clause to the Astral Shackle banishment rider explicitly resolving the int
 
 ### Issue 8 — Soul Storm: Cross-Realm Tag Inconsistency Between Ch. 3 and Ch. 5
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 330 (Soul Storm, Master Forbidden Spells); `player's_handbook/03_Classes.md` — Soul Reaver class (Soul Storm class feature)
 
@@ -185,7 +185,7 @@ Issues identified during second pass of Chapter 5 — checking Combat Control Du
 
 ### Issue 9 — Combat Control Duration Violations: Three Spells Lock for 1 Minute With No Escape
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md`
 
@@ -210,7 +210,7 @@ Add an end-of-turn repeat save to each spell. Suggested additions:
 
 ### Issue 10 — Soulweave Damage Loop: No Anti-Ping-Pong Clause
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 215 (Soulweave, Adept Ritual Spells)
 
@@ -226,7 +226,7 @@ Add a clause: *"This secondary Spectral damage does not itself trigger additiona
 
 ### Issue 11 — Ceremony of Sorrow: Corruption Removal Has No Check
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 205 (Ceremony of Sorrow, Adept Ritual Spells)
 
@@ -243,7 +243,7 @@ Add a DR check requirement. Suggested:
 
 ### Issue 12 — Spirit Echo: Automatic Spiritual Sensing With No Check
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 163 (Spirit Echo, Initiate Ritual Spells)
 
@@ -260,7 +260,7 @@ Add a check:
 
 ### Issue 13 — Hemostatic Pulse: "(1/min limit)" Is Undefined
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 149 (Hemostatic Pulse, Initiate Blood Spells)
 
@@ -281,7 +281,7 @@ Rewrite the restriction with explicit language:
 
 ### Issue 14 — Blood Mark: Touch Clause Is Redundant and Confusing
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 144 (Blood Mark, Initiate Blood Spells)
 
@@ -298,7 +298,7 @@ Either remove the redundant touch clause, or clarify what the touch version prov
 
 ### Issue 15 — Glyph of Displacement: Wrong Save Type
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 184 (Glyph of Displacement, Adept Glyph Spells)
 
@@ -315,7 +315,7 @@ Change the save type:
 
 ### Issue 16 — Glyph of Anchoring: Blocks Soul Portals in Both Realms — Not Addressed
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 132 (Glyph of Anchoring, Initiate Glyph Spells); `player's_handbook/11_Realms-Terrain-Arcane-Power.md` — §11.5.3
 
@@ -342,7 +342,7 @@ Issues identified during third pass of Chapter 5 — checking spell descriptions
 
 ### Issue 17 — Unrunnable Spells: Effects Are Placeholder Notes, Not Definitions
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Multiple spells across all tiers
 
@@ -378,7 +378,7 @@ Each of these spells requires a full effect description before the compendium is
 
 ### Issue 18 — "Limited Actions" Is Undefined Across Two Master Spells
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Lines 292 and 313
 
@@ -397,7 +397,7 @@ Define the effect explicitly. Suggested standard:
 
 ### Issue 19 — "Risky Roll" in Omen Tether Is Not a Defined Game Term
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 225 (Omen Tether, Adept Forbidden)
 
@@ -414,7 +414,7 @@ Replace "risky roll" with a specific trigger:
 
 ### Issue 20 — Eyes Beyond: "See Invisible" Does Not Explicitly Say "Invisible Creatures"
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 222 (Eyes Beyond, Adept Forbidden)
 
@@ -430,7 +430,7 @@ Eyes Beyond reads: *"1 min; self; see in darkness/invisible +1 Observation for 1
 
 ### Issue 21 — Soul Flicker: "(No Offensive Actions)" Is Ambiguous
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 162 (Soul Flicker, Initiate Ritual)
 
@@ -446,7 +446,7 @@ The "(no offensive actions)" restriction is buried as a parenthetical and reads 
 
 ### Issue 22 — Binding of the Starborn: "Celestial Entity" Is Setting-Inconsistent
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 312 (Binding of the Starborn, Master Ritual)
 
@@ -463,7 +463,7 @@ Reframe the spell around Nosgoth's actual cosmology:
 
 ### Issue 23 — "+2 Bonus" Ambiguity Across Multiple Spells
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Multiple spells
 
@@ -487,7 +487,7 @@ Standardize all instances to **"+2 dice"** unless a specific spell intends to gr
 
 ### Issue 24 — Corruption Crown: "Dread Aura" Is Undefined
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 327 (Corruption Crown, Master Forbidden)
 
@@ -512,7 +512,7 @@ Issues identified during fourth pass of Chapter 5 — checking resource cost con
 
 ### Issue 25 — Counterspell Is Defined as a Reaction But Does Not Appear in the Compendium
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Section 5.6 (Reactions to Spells)
 
@@ -534,7 +534,7 @@ Add a formal Counterspell entry to §5.6 with explicit access conditions, cost, 
 
 ### Issue 26 — Rotmind Rift: Corruption Escalation Rate Is Potentially Game-Breaking
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 279 (Rotmind Rift, Expert Forbidden)
 
@@ -553,7 +553,7 @@ Add a total Corruption cap to the spell:
 
 ### Issue 27 — Soulforge Resurrection: "5 SE/BP" Cost Is Ambiguous
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 321 (Soulforge Resurrection, Master Ritual)
 
@@ -574,7 +574,7 @@ Given the access tags [SG, WB, HW] — Sangromancer (BP caster), Warden of Balan
 
 ### Issue 28 — The God's Rebuttal: "Reaction on Divine" Trigger Is Undefined
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 331 (The God's Rebuttal, Master Forbidden)
 
@@ -599,7 +599,7 @@ Define "divine" in context:
 
 ### Issue 29 — Mind Spike: "Paranoia" Is Not a Defined Condition
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 280 (Mind Spike, Expert Forbidden)
 
@@ -618,7 +618,7 @@ Define the effect explicitly:
 
 ### Issue 30 — Cacophonic Flare: Slash Notation Makes Conditions Unreadable
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 272 (Cacophonic Flare, Expert Forbidden)
 
@@ -640,7 +640,7 @@ Rewrite with explicit condition listing:
 
 ### Issue 31 — Staggered Is Referenced But Has No Standalone Condition Entry
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/12_Glossary.md` — §12.4 Damage and Status Effects; `player's_handbook/09_Combat.md` (likely)
 
@@ -657,7 +657,7 @@ Add a Staggered entry to the condition table in §12.4:
 
 ### Issue 32 — Sanguine Eclipse: Exhaustion Stacks Not Specified
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 305 (Sanguine Eclipse, Master Blood)
 
@@ -674,7 +674,7 @@ Specify the stack count:
 
 ### Issue 33 — Vital Hook: "Bonus Pull" Is Ambiguous Phrasing
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 202 (Vital Hook, Adept Blood)
 
@@ -704,7 +704,7 @@ Issues identified during fifth pass — checking spell interactions, class cover
 
 ### Issue 34 — Fixed DR vs. Scaling DR: Listed DRs Can Conflict With the §5.2 Formula
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Section 5.2 and throughout §5.10
 
@@ -727,7 +727,7 @@ Add a design note to §5.10 preamble:
 
 ### Issue 35 — Sangromancer Has Zero SE Spells: Completely Non-Functional While Spectral
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — §5.10 (all Sangromancer entries); `player's_handbook/11_Realms-Terrain-Arcane-Power.md` — §11.5.6
 
@@ -747,7 +747,7 @@ Two options:
 
 ### Issue 36 — Darkness + Eyes Beyond: Interaction Unresolved
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Lines 220 (Darkness) and 222 (Eyes Beyond)
 
@@ -768,7 +768,7 @@ Clarify Eyes Beyond's text to explicitly resolve the interaction:
 
 ### Issue 37 — Realmshift + Glyph of Anchoring: Interaction Not Addressed
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Lines 132 (Glyph of Anchoring) and 319 (Realmshift)
 
@@ -787,7 +787,7 @@ Clarify the interaction in one of the two spells:
 
 ### Issue 38 — Nightmare Seed: Initiate-Tier Spell With Disproportionate Duration
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 174 (Nightmare Seed, Initiate Forbidden)
 
@@ -808,7 +808,7 @@ Either reduce the duration to 1 minute (matching Adept-tier Frightened effects) 
 
 ### Issue 39 — "Once Per Long Rest" Restriction Exists Only on Sangromancer Spells
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Lines 254 (Heartburst) and 304 (Hemodominate)
 
@@ -829,7 +829,7 @@ Audit Master-tier spells across all classes and apply "once per long rest" to an
 
 ### Issue 40 — Blood Puppet + Hemodominate: No Ruling on Simultaneous Active Control
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Lines 195 (Blood Puppet) and 304 (Hemodominate)
 
@@ -846,7 +846,7 @@ Add a note to Hemodominate:
 
 ### Issue 41 — Soul Lock vs. Temporary HP: Interaction Unresolved
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Lines 150 (Minor Bloodshield) and 228 (Soul Lock)
 
@@ -865,7 +865,7 @@ Add a clarification to Soul Lock:
 
 ### Issue 42 — Reaver Unleashed: "60-ft Cone/30-ft Burst" Area Is Ambiguous
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 329 (Reaver Unleashed, Master Forbidden)
 
@@ -895,7 +895,7 @@ Issues identified during sixth pass — checking glyph trigger consistency, AoE 
 
 ### Issue 43 — Multiple Glyphs Have No Trigger Condition
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Lines 238, 240, 242, 291, 292, 295 and others
 
@@ -930,7 +930,7 @@ Define a trigger condition for each affected glyph, following the established pa
 
 ### Issue 44 — AoE Spells Inconsistently Specify Whether Allies Are Affected
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Multiple AoE spells throughout §5.10
 
@@ -968,7 +968,7 @@ Then review each unspecified spell and add "creatures of your choice" where clea
 
 ### Issue 45 — Resource Regeneration Terms Are Undefined
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Section 5.7 (Resource Pools); Section 5.3
 
@@ -994,7 +994,7 @@ Expand §5.7 with basic regeneration definitions or cross-references:
 
 ### Issue 46 — Permanent Max HP Reduction Has No Recovery Mechanism
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Lines 301 (Blood Resurrection) and 302 (Crimson Godseed)
 
@@ -1017,7 +1017,7 @@ Define max HP recovery explicitly. Suggested approach:
 
 ### Issue 47 — Pulse Spike: Negligible Damage Floor Makes It a Near-Useless Resource Spend
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 151 (Pulse Spike, Initiate Blood)
 
@@ -1036,7 +1036,7 @@ Increase the base damage or strengthen the rider to make it a meaningful choice:
 
 ### Issue 48 — AoE Scaling Asymmetry Creates Growing Power Gap Between Burst and Aura Builds
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Section 5.4 (Spell Damage Scaling)
 
@@ -1062,7 +1062,7 @@ Either acknowledge this as intentional design (add a note to §5.4: *"This asymm
 
 ### Issue 49 — "Feeding or Rituals" vs. "Feeding or Relics": Inconsistent BP Regeneration Text
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Lines 67 and 107
 
@@ -1090,7 +1090,7 @@ Issues identified during seventh pass — checking for §5.4 violations missed i
 
 ### Issue 50 — Hemodominate: Full 1-Minute Control With No Concentration and No Repeat Save
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 304 (Hemodominate, Master Blood)
 
@@ -1114,7 +1114,7 @@ Add a repeat save clause:
 
 ### Issue 51 — Soul Fracture: 1-Minute Spellcasting Denial Has No Repeat Save; "Increased SE Costs" Is Undefined
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 282 (Soul Fracture, Expert Forbidden)
 
@@ -1135,7 +1135,7 @@ Define the SE cost increase and add a repeat save:
 
 ### Issue 52 — Wound Reversal: Save Target, Save Subject, and Max HP Overflow Are All Undefined
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 309 (Wound Reversal, Master Blood)
 
@@ -1158,7 +1158,7 @@ Rewrite with explicit targeting and HP rules:
 
 ### Issue 53 — No General Dispel Mechanic: Ongoing Non-Glyph Effects Cannot Be Removed
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — §5.6 (Reactions) and §5.10 generally
 
@@ -1185,7 +1185,7 @@ Add a **Dispel Magic** entry to §5.6, or add a dedicated Adept+ spell to the Wa
 
 ### Issue 54 — Dirge of Ruin: DR 2 Save on a Master Spell Is Four Tiers Below the §5.2 Formula
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 315 (Dirge of Ruin, Master Ritual)
 
@@ -1206,7 +1206,7 @@ Update the save DR to match the tier:
 
 ### Issue 55 — Sanguine Swarm: Summoned Swarm Has No Stat Block
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 306 (Sanguine Swarm, Master Blood)
 
@@ -1231,7 +1231,7 @@ Add to the Issue 17 expansion pass list. Minimal working definition example:
 
 ### Issue 56 — Memory Script: Per-Word SE Cost Creates Undefined Pricing Edge Cases
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 160 (Memory Script, Initiate Ritual)
 
@@ -1255,7 +1255,7 @@ Standardize to a flat cost with a defined word limit:
 
 ### Issue 57 — Crimson Godseed: Attribute Boost Duration Is Unstated
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 302 (Crimson Godseed, Master Blood)
 
@@ -1278,7 +1278,7 @@ Note: if the intent is truly permanent, this needs to be acknowledged as a delib
 
 ### Issue 58 — Shadowmancer Has Zero Glyph Spell Access
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — §5.10 (all Glyph tiers)
 
@@ -1303,7 +1303,7 @@ Or, if intended to have some access, add [SM] to: Glyph of Silence, Glyph of Dis
 
 ### Issue 59 — Last Rite of Balance: "DR 4–5" Provides No Rule to Determine Which Applies
 
-**Status:** Open
+**Status:** Completed
 
 **Location:** `player's_handbook/05_Spellcasting-and-Magic.md` — Line 318 (Last Rite of Balance, Master Ritual)
 

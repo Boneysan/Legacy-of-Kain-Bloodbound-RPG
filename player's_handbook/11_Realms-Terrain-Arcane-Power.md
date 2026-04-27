@@ -38,7 +38,7 @@ In Nosgoth, the ability to cross the veil is a powerful and dangerous gift.
 
 - **Bonus Action Shift:** Characters with the **Hybrid** affinity or specific perks (like *Wraith Phasing*) can use a **Bonus Action** to shift their manifestation between realms. 
 - **HP 0 Shift (Spectral entities only):** When a character with the **Spectral** or **Hybrid** affinity is reduced to 0 HP in the Material Realm, they do not fall **Unconscious**. Instead, they immediately shift into the Spectral Realm with 1 HP. While in this state, they cannot return to the Material Realm until they find a **Soul Portal**, **Arcane Nexus**, or use a powerful ritual.
-- **Material Return:** Returning to the Material Realm typically requires a **Soul Portal** or a specific Energy Focus. A character must be at full HP (or SE) to attempt the return, which takes one full round of concentration.
+- **Material Return:** Returning to the Material Realm requires a **Soul Portal** or a specific Energy Focus. A character must be at or above **50% of their maximum HP** (the Return Threshold) to attempt the crossing. See [Section 11.5.2](./11_Realms-Terrain-Arcane-Power.md#1152-crossing-the-veil) for full crossing mechanics.
 
 ---
 
@@ -175,9 +175,11 @@ At the **start of each of your turns** while fully manifested in the Spectral Re
 
 **Wraith Exception:** Wraith lineage characters have a natural anchor between realms. Their Soul Bleed rate is **1 HP per 3 rounds** instead of every turn. They belong to the Spectral Realm more than any other lineage — they simply cannot stay there indefinitely.
 
+**Revenant Exception:** Revenants are partially anchored to the Spectral Realm by their undead nature. Their Soul Bleed rate is **1 HP per 3 rounds**, the same as the Wraith lineage. They belong to the threshold between worlds — they cannot survive the Spectral Realm indefinitely, but they dissolve more slowly than the fully living.
+
 **Hybrid Exception:** Characters with Hybrid Affinity who shift voluntarily (via class ability or perk) do not suffer Soul Bleed for the **first 3 rounds** after crossing. After that, standard Soul Bleed applies.
 
-**Native Spectral Exception:** Creatures with **Spectral Affinity** as part of their stat block do not suffer Soul Bleed while in the Spectral Realm. The Spectral Realm is their natural state of existence — they do not dissolve there. Soul Bleed applies only to visitors: Material and Hybrid characters who have crossed the veil. If a native Spectral creature is somehow forced into the Material Realm and then returns to the Spectral Realm, it does not suffer Soul Bleed on that return.
+**Native Spectral Exception:** Creatures with **Affinity: Spectral** printed in their Monster Manual stat block do not suffer Soul Bleed while in the Spectral Realm. The Spectral Realm is their natural state of existence — they do not dissolve there. Soul Bleed applies only to visitors: Material and Hybrid characters who have crossed the veil, and PC lineages (including Wraiths and Revenants) whose Spectral Affinity reflects a nature caught between worlds rather than true native habitation. If a native Spectral creature is somehow forced into the Material Realm and then returns to the Spectral Realm, it does not suffer Soul Bleed on that return.
 
 #### Soul Consumption
 When you reduce a creature to 0 HP while in the Spectral Realm, you may immediately consume its soul as a **Free Action**, restoring HP equal to **half the creature's TV, rounded up (minimum 1)**. You must be within 5 feet of the creature at the moment of death. You cannot consume the soul of a creature that died in a previous round.
@@ -364,7 +366,7 @@ The following defines precisely what is and is not possible while fully manifest
 
 | Mechanic | Rule Summary |
 | :--- | :--- |
-| **Soul Bleed** | 1 HP per turn (Wraiths: 1 HP per 3 rounds; Hybrids: immune first 3 rounds) |
+| **Soul Bleed** | 1 HP per turn (Wraiths/Revenants: 1 HP per 3 rounds; Hybrids: immune first 3 rounds) |
 | **Soul Consumption** | Free Action on kill; Bonus Action for free souls; restores HP = half TV rounded up |
 | **Return Threshold** | Must be at ≥50% HP to cross back to Material Realm |
 | **Soul Portal Crossing** | Action + 1 SE + DR 2 Will + Soul check; must be at Return Threshold |
