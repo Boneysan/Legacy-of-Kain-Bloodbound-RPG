@@ -1,4 +1,4 @@
-﻿# Chapter 4: Perks System
+# Chapter 4: Perks System
 
 In the cursed land of Nosgoth, power is a double-edged blade. The Perks System allows characters to transcend their class and lineage, forging unique identities through abilities that blend mechanical advantage with narrative weight. 
 
@@ -9,7 +9,7 @@ In the cursed land of Nosgoth, power is a double-edged blade. The Perks System a
 
 ## 4.1 Perk Progression
 
-Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra Universal Perk at Levels 10 and 20 via their racial trait.
+Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra Universal Perk at Levels 6, 12, and 18 via their racial trait.
 
 | Level | Perk Gained | Tier Access |
 | :---: | :--- | :--- |
@@ -19,14 +19,12 @@ Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra U
 | **6** | Universal Perk | Tier 1-2 |
 | **8** | Universal Perk | Tier 1-2 |
 | **10** | Universal Perk | Tier 1-2 |
-| **10** | *Human Bonus Perk* | Tier 1-2 |
 | **11** | Universal Perk | Tier 1-3 |
 | **13** | Universal Perk | Tier 1-3 |
 | **15** | Universal Perk | Tier 1-3 |
 | **16** | Universal Perk | Tier 1-4 |
 | **18** | Universal Perk | Tier 1-4 |
 | **20** | Universal Perk | Tier 1-4 |
-| **20** | *Human Bonus Perk* | Tier 1-4 |
 
 **Multiclassing**: At Level 5+, players may request a Tier 1 perk from another class's perk tree if narratively justified (GM Discretion).
 
@@ -96,7 +94,7 @@ Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra U
 | **Veilpiercer** | You automatically perceive all illusions and glamers. Once per scene, you may nullify one magical disguise you can see. | Passive |
 | **Temporal Residue** | When you take damage, you may create a temporal echo for 1 round. While the echo persists, the first time an attack targets you before the start of your next turn, roll 1d6; on an even result (4-6), the attack hits the echo instead and deals no damage to you. | **1 SE**, 1/combat |
 | **Flesh of Myth** | **+1 Max HP** per character level (applied retroactively). Immune to poison, disease, aging, and non-magical dismemberment. | Passive |
-| **Spectral Fire** | Sacrifice 3 HP to regain 1 SE, 1 BP, or 1 Glyph Charge. | Bonus Action |
+| **Spectral Fire** | Sacrifice 3 HP to regain 1 SE or 1 BP. | Bonus Action |
 | **Cradle of Ruin** | When reduced to 0 HP: Release a 20-foot pulse dealing **12 Entropic damage** (bypasses Armor). Allies within 20 feet gain +1 DV until the start of your next turn. You rise at 1 HP at the start of your next turn. | **1 Corruption Level** |
 | **Reality Fracture** | Attempt one reality-warping act once per session, such as halting time mid-scene, teleporting across a region, or erasing one unresolved event from the current scene. The GM sets a DR of 4–6 using the most relevant Attribute + Skill pair (typically Soul + **Ritualism**). On a failure, the effect fizzles and you still gain the Corruption cost. Reality Fracture cannot rewrite completed scenes, undo a character's death after the scene ends, or bypass campaign-defining consequences without GM approval. | **2 Corruption Levels** / Session |
 
@@ -287,7 +285,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 
 #### Living Curse
 **Trigger:** Passive.
-**Effect:** +1 DR vs. death magic and entropic effects.
+**Effect:** +1 die on all saves against death magic and entropic effects.
 **Drawback:** -2 dice to **Social** rolls with pure NPCs.
 > *You embody a living curse — entropic forces bend around you, but the pure shun you.*
 
@@ -398,5 +396,6 @@ Corruption is not permanent, but removing it is costly and dangerous.
 | **Act of Atonement** | A meaningful act of sacrifice or heroism (GM adjudicated). Guards a village, destroys a Hylden relic. | **1–3** |
 | **Purifier NPC** | Seek an ancient Vampire elder or Warden of Balance. Requires a service, debt, or sacrifice in return. | **2–4** |
 | **Contemplation** | Weeks of downtime. **DR 2-3** Will + **Concentration** check. | **1** |
+| **Ritual Spell Removal** | Specialized rituals (like *Ceremony of Sorrow*, Ch. 5 §5.10) can remove Corruption. These follow the DR and success rules listed in the spell's description. | **1** |
 
 > Purification is a story, not a transaction. GMs should treat it as a campaign arc, not a shopping trip.

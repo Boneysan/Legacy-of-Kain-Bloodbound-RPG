@@ -25,11 +25,14 @@ A specialized talent or technique learned as a character levels up. Perks are ca
 Training in a specific field (e.g., Athletics, Ritualism, Stealth) that adds dice to an attribute check. Skill ranks range from 0 to 5. *(Ch. 6)*
 
 **TV (Threat Value)**
-A numerical rating of a creature's power, used by the GM for encounter balance and by players for certain soul-related mechanics. *(MM §0.0)*
+A numerical rating of a creature's power (1–10+), used by the GM for encounter balance and by players for certain soul-related or feeding mechanics. *(MM §0.0)*
 
 ---
 
 ## 12.2 Conflict & Dice System
+
+**Arc**
+A major story segment representing approximately 5 levels of character progression (e.g., Levels 1–5). Many powerful abilities refresh "once per arc." *(Ch. 9 §9.14)*
 
 **Combat Bonus**
 A temporary pool of dice earned through successful attacks or tactical maneuvers, used to enhance damage or trigger stunts. *(Ch. 10 §10.2)*
@@ -48,6 +51,9 @@ A roll where two characters compete directly (e.g., Attacker's successes vs. Def
 
 **Scene**
 A distinct narrative unit of time (e.g., a single battle, a social negotiation). Many abilities are limited to "once per scene." *(Ch. 5 §5.8)*
+
+**Session**
+One period of real-world play. "Once per session" abilities refresh at the start of each new gathering. *(Ch. 9 §9.14)*
 
 **Stunt**
 A tactical effect (like a shove, disarm, or bonus damage) triggered by spending extra successes on a successful check or attack. *(Ch. 9 §9.4)*
@@ -82,7 +88,7 @@ The act of devouring a defeated creature's life-force in the Spectral Realm to r
 ## 12.4 Damage & Status Effects
 
 **Armor**
-Flat mitigation that reduces incoming Physical damage before HP is lost. Some damage types (Spectral, Force) bypass Armor. *(Ch. 9 §9.3)*
+Flat mitigation that reduces incoming Physical damage before HP is lost. Certain damage types (Spectral, Force, and some Entropic effects) bypass Armor entirely; others (Elemental) halve its effectiveness. *(Ch. 9 §9.3)*
 
 **Resistance**
 A property that halves incoming damage of a specific type (e.g., Resistance to Fire). Applied after Armor. *(Ch. 9 §9.3)*
@@ -107,19 +113,22 @@ Applied on Critical Hits or Extra Successes unless an effect says otherwise. Dur
 
 | Status Effect | Duration | Description |
 | :--- | :--- | :--- |
-| **Staggered** | 1 round unless source specifies otherwise | The target cannot take Reactions. Actions, Bonus Actions, and movement are unaffected. |
 | **Bleeding** | 1d3 rounds | Takes damage at the start of each turn. Standard damage is 1. |
-| **Prone** | Until half movement spent to stand | Melee attacks have Advantage; ranged attacks have Disadvantage. |
 | **Burning** | 1d3 rounds | Takes 1 fire damage at the start of each turn. |
+| **Decay** | Until next rest | Cannot regain HP through non-magical means. |
+| **Prone** | Until half movement spent to stand | Melee attacks have Advantage; ranged attacks have Disadvantage. |
 | **Slowed** | 1d3 rounds | Movement speed halved; cannot Dash. |
 | **Shocked** | 1 round | Disadvantage on next action. |
-| **Decay** | Until next rest | Cannot regain HP through non-magical means. |
+| **Staggered** | 1 round unless source specifies otherwise | The target cannot take Reactions. Actions, Bonus Actions, and movement are unaffected. |
 | **Corrupted** | Permanent | Target gains +1 Corruption Level. |
 
 **Common Combat Conditions**
 
-**Staggered**
-The target cannot take Reactions. Actions, Bonus Actions, and movement are unaffected. Duration is 1 round unless the source specifies otherwise. Less severe than Stunned (which also removes Actions and Bonus Actions).
+**Bloodied**
+A creature is **Bloodied** when its current HP is at or below 50% of its maximum HP. *(Ch. 9 §9.5)*
+
+**Equipment Flaw**
+A temporary or permanent impairment to gear. Weapon flaws reduce base damage; Armor flaws reduce mitigation value. *(Ch. 7 §7.7)*
 
 | Condition | Duration | Description |
 | :--- | :--- | :--- |
@@ -158,6 +167,19 @@ The lightless mirror of the Material world. A realm of decay where fire does not
 
 **Turn**
 The smallest unit of combat time (approx. 6 seconds). During a turn, every combatant takes a turn (1 Action + 1 Movement + 1 Reaction + free interactions). *(Ch. 9 §9.1)*
+
+---
+
+## 12.6 Creature Traits & Tags
+
+**Boss**
+A high-tier enemy with multiple actions, increased HP, and immunity to certain "instant kill" or high-control effects. *(GM Guide §X)*
+
+**Incorporeal**
+A trait for Spectral creatures partially manifested in the Material Realm. They gain Resistance to Physical damage and can move through solid objects. *(Ch. 11 §11.5.3)*
+
+**Legendary**
+The most powerful entities in Nosgoth (e.g., Kain, Raziel, The Elder God). They possess unique actions and cannot be permanently defeated except through specific story triggers. *(GM Guide §X)*
 
 ---
 

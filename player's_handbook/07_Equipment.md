@@ -1,20 +1,22 @@
-﻿# Chapter 7: Equipment of Nosgoth
+# Chapter 7: Equipment of Nosgoth
 At a glance:
 - 7.1 Weapons of Nosgoth
 	- 7.1.1 Class-Specific Weapons (Standard Tier)
 	- 7.1.2 Weapon Tier Progression (Enhanced & Masterwork)
 	- 7.1.3 Multi-Class / Universal Weapons
 	- 7.1.4 Rare Weapons (GM Discretion)
-	- 7.1.5 Relic Weapons (Legendary or Unique)
+	- 7.1.5 Relic Weapons (Unique Lore Items)
 - 7.2 Damage Types Reference
 - 7.3 Armor of Nosgoth
 	- 7.3.1 Class-Specific Armor
 	- 7.3.2 Universal Armor
 	- 7.3.3 Rare Armor (GM Discretion)
-	- 7.3.4 Relic Armor (Legendary or Unique)
+	- 7.3.4 Relic Armor (Unique Lore Items)
 - 7.4 Lineage and Cultural Gear
+	- 7.4.4 Consumable Relics (SE and BP)
 - 7.5 Acquisition and Crafting
 - 7.6 Tactical Considerations
+- 7.7 Equipment Integrity (Flaws and Repairs)
 
 **Terminology Reminder:** Defense Value (DV) = number of successes needed to hit a target in combat. Armor = flat damage reduction applied after a hit lands. These are separate mechanics. All armor in this chapter uses **flat damage reduction** (Armor X) unless explicitly noted. See Chapter 0: Core Mechanics for full definitions.
 
@@ -27,6 +29,7 @@ At a glance:
 Weapons in Bloodbound deal fixed base damage on a successful hit, modified by weapon damage scaling and extra successes. Each weapon lists its **damage subtype** (which determines status effects on extra successes per Chapter 9), **handedness**, and **range category**.
 
 **Range Categories:** Melee (adjacent, 1 tile) | Reach (2 tiles) | Close (3–4 tiles) | Ranged (5–8 tiles) | Long Range (9–12+ tiles)
+
 ### 7.1.1 Class-Specific Weapons (Standard Tier, Levels 1–7)
 
 Each class has signature weapons reflecting their combat role and thematic identity. These are available at character creation or through early-game acquisition.
@@ -223,7 +226,7 @@ Spectral | One-handed | Ranged (8 tiles)
 
 **Twin Knives**
 Piercing | One-handed (pair) | Melee
-3 Physical (Piercing) damage per knife. May strike twice as one action against the same target using a single attack roll. Weapon Damage Scaling applies once to the total, not per knife (e.g., at level 5: 3+3+1 = 7 total). For Dreadblade, Shadowmancer, Blood Knight.
+3 Physical (Piercing) damage per knife. May strike twice as one action against the same target using a single attack roll. Weapon Damage Scaling and Extra Success bonuses apply once to the total damage dealt by the pair, not per individual knife (e.g., at level 5: 3+3+1 = 7 total). For Dreadblade, Shadowmancer, Blood Knight.
 
 ### 7.1.4 Rare Weapons (GM Discretion)
 
@@ -265,7 +268,7 @@ Entropic | Two-handed | Long Range (12 tiles)
 Spectral | One-handed | Melee
 5 Spectral damage. Ignores Physical Armor. Wielder gains +1 Corruption per hit. Requires attunement and a GM story trigger to acquire. For Soul Reaver, Hylden Warlock — GM story reward only.
 
-### 7.1.5 Relic Weapons (Legendary or Unique)
+### 7.1.5 Relic Weapons (Unique Lore Items)
 
 Relic weapons are tied to Nosgoth's deepest lore and require epic story progression. GMs determine acquisition through trials, sacrifices, or ancient rituals.
 
@@ -427,9 +430,9 @@ These powerful armor sets require special circumstances or GM approval. Typicall
 
 **Crimson-Lacquered Plate** — Armor 3. When hit by an attack that causes Bleeding, the Bleeding is negated and the wielder regains 1 BP instead.
 
-### 7.3.4 Relic Armor (Legendary or Unique)
+### 7.3.4 Relic Armor (Unique Lore Items)
 
-Relic armor is tied to Nosgoth's deepest lore and requires epic story progression. GMs determine acquisition.
+Relic armor is tied to Nosgoth's deepest lore and require epic story progression. GMs determine acquisition.
 
 **Mantle of the Pillars** — Armor 4. Allies within 3 tiles gain +1 die to all saves. Once per long rest, the wielder may end one ongoing magical effect on themselves or an ally as a free action. For those who restored a Pillar of Nosgoth.
 
@@ -500,11 +503,13 @@ Nomad cultural gear. Knot-cords, water cloth, salvage hooks, and a memory-thread
 **Omen String**
 Oracle-Blooded cultural gear. A line of bone, glass, or old coin charms tuned to tremors in fate. +1 die to your first Insight or Observation check when entering a new site, meeting a stranger, or examining an omen. Once per scene, ask the GM one of these: What here is about to change? What choice brings the least immediate harm? What danger have we not noticed? The answer must be brief, cryptic, and true.
 
-### 7.4.3 GM Use
+### 7.4.4 Consumable Relics
 
-Treat lineage gear as cultural signatures rather than standard market inventory. A Rahabim's wraps, a Razielim harness, or a Sarafan purity kit should communicate origin, obligation, and survival practice as much as mechanics.
+Nosgoth’s ruins yield rare, single-use items that restore vital energies. These artifacts are precious and usually require an **Action** to use.
 
-If this section expands later, expand sideways rather than upward: alternate kits, faction variants, barter notes, and relic versions tied to story rewards are safer than stronger combat math.
+- **Soul Shard**: A crystalline fragment of solidified spirit energy. Using a Soul Shard restores **1d2 Soul Energy (SE)**.
+- **Vial of Ancient Vitae**: A preserved sample of untainted blood from the pre-corruption era. Using a Vial restores **1d3+1 Blood Points (BP)**.
+- **Alchemical Balm**: A salve that accelerates natural healing. Using a balm allows you to regain **1d6 HP** immediately, or automatically stabilizes a dying creature.
 
 ---
 
@@ -516,18 +521,23 @@ If this section expands later, expand sideways rather than upward: alternate kit
 | :--- | :--- | :--- |
 | **Standard** (Class/Universal) | Levels 1+ | Character creation, merchants, faction vendors. Subject to GM approval for some class-specific items. |
 | **Lineage / Cultural Gear** | Levels 1+ | Character creation with GM approval, faction trust, barter, salvage, inheritance, or narrative reward. |
-| **Enhanced** (Tier 2 Weapons) | Levels 8+ | Crafting (DR 3 Focus + Craft check), rare material components, faction commissions. |
-| **Masterwork** (Tier 3 Weapons) | Levels 15+ | Crafting (DR 4 Focus + Craft check), legendary material + legendary location (e.g., vampire bloodforge, ancient glyph forge). |
+| **Enhanced** (Legendary Materials) | Levels 8+ | Crafting (DR 3 Focus + Craft check), rare material components, faction commissions. |
+| **Masterwork** (Legendary Materials) | Levels 15+ | Crafting (DR 4 Focus + Craft check), legendary material + legendary location (e.g., vampire bloodforge, ancient glyph forge). |
 | **Rare** (Weapons/Armor) | GM Discretion | Quests, faction loyalty rewards, rare material hunts, defeating powerful foes. |
-| **Relic** (Weapons/Armor) | Major Story Events | Restoring a Pillar, completing epic questlines, being chosen by cosmic forces. GM determines paths. |
+| **Relic** (Unique Lore Items) | Major Story Events | Restoring a Pillar, completing epic questlines, being chosen by cosmic forces. GM determines paths. |
 
 ### Crafting Rules
 
 1. **Determine the Item:** Choose a weapon or armor from the available tier.
 2. **Gather Materials:** The GM specifies required components (e.g., blood essence for Sangromancer gear, Pillar dust for Warden weapons, spectral ore for Soul Reaver equipment).
 3. **Find a Forge/Workshop:** Some items require specific locations — a bloodforge for blood-infused weapons, a glyph forge for Glyphwright items, or the Spectral Realm for spectral gear.
-4. **Roll to Craft:** Focus + Craft vs. the DR listed for the tier. Success creates the item. Failure wastes one component (GM discretion). Critical success adds a minor bonus trait.
-5. **Upgrades:** Existing Standard weapons can be upgraded to Enhanced or Masterwork by repeating the crafting process with the weapon as a base, paying only the material cost for the new tier.
+4. **Roll to Craft:** Focus + Craft vs. the DR listed for the tier. Success creates the item. Failure wastes one component (GM discretion).
+5. **Critical Success (3+ successes beyond target):** A critical crafting success adds one **Bonus Trait** to the item, such as:
+	- **Reliable**: +1 die to a specific skill check (e.g., Weapon Mastery or Glyphcasting) while used.
+	- **Keen**: Ignores 1 additional point of physical Armor.
+	- **Balanced**: Gain Advantage on Initiative while this item is wielded.
+	- **Bound**: The item cannot be disarmed or stolen by mundane means.
+6. **Upgrades:** Existing Standard weapons can be upgraded to Enhanced or Masterwork by repeating the crafting process with the weapon as a base, paying only the material cost for the new tier.
 
 ---
 
@@ -535,26 +545,32 @@ If this section expands later, expand sideways rather than upward: alternate kit
 
 Weapons and armor in Bloodbound are designed for strategic depth. Class weapon + armor pairings create synergies that reward planning:
 
-- **Blood Knight:** Pair *Bloodfang Dagger* with *Fleshwoven Mail* — apply Bleeding, then heal while standing in the resulting carnage. Upgrade to the *Moonlit Fang* (Rare) for devastating nighttime ambushes.
-- **Soul Reaver:** Use *Spectral Talons* with *Soulrift Weave* — phase into the Spectral Realm for the 6-damage bonus, teleport to flank, and ignore all armor. Upgrade to *Soulbrand Blade* (Rare) for anti-healing pressure.
-- **Shadowmancer:** Combine *Shadow Fang* with *Penumbra Wraps* — the Stealth bonuses stack, enabling reliable ambushes. Upgrade with *Nightfall Cloak* armor for bonus stealth-attack damage.
-- **Sangromancer:** Use *Pulse Needle* to exploit Bleeding from safety, then shift to *Veinbinder Rod* or *Bloodwoven Whip* when enemies close. *Sanguine Mantle* and *Avernus Pulse-Scepter* support a healer-controller style that keeps allies standing while pressure builds.
-- **Glyphwright:** Pair *Surveyor's Prism* with *Sigil-Etched Robes* or *Warding Mantle* — reposition allies, then punish movement with glyphs. *Lattice Boltcaster* and *Architect's Compass* reward planned battlefield geometry instead of direct damage races.
-- **Dreadblade:** *Assassin's Fang* with *Nightfall Cloak* — stealth attacks deal +2 (weapon) +1 (armor) = +3 bonus damage. *Deathweave Shroud* enables chain kills with Advantage.
-- **Warden of Balance:** *Blessed Mace* with *Sarafan Plate* — Stagger undead on hit while the Plate imposes Will save penalties on nearby undead. *Holy Valor Guard* adds Entropic resistance for anti-corruption missions.
-- **Hylden Warlock:** *Prophet's Thorn* and *Whispering Prism* let you pressure casters from range before committing to melee. *Soulwrack Robes*, *Ritual Vestments*, and *Shard of the Unwheel* create a control build focused on failed saves, disrupted concentration, and denied advantages.
-
-### Lineage Gear in Play
-
-- **Lineage gear** should reinforce identity, not replace class loadouts. A *Tidekeeper Wraps* user still needs class weapons and armor; the wraps simply let Rahabim or their allies function in dry territory.
-- **Cultural kits** reward preparation and story ties. A *Purity March Kit*, *Thread-Singer Trail Kit*, or *Anchor Reliquary* can shape how a party approaches travel, sanctified ground, or planar hazards before combat begins.
-- **Narrative access matters.** These items work best when they come from faction trust, inheritance, salvage, or ritual exchange rather than ordinary shopping.
+- **Blood Knight:** Pair *Bloodfang Dagger* with *Fleshwoven Mail* — apply Bleeding, then heal while standing in the carnage.
+- **Soul Reaver:** Use *Spectral Talons* with *Soulrift Weave* — phase into the Spectral Realm for the 6-damage bonus, teleport to flank, and ignore all armor.
+- **Shadowmancer:** Combine *Shadow Fang* with *Penumbra Wraps* — the Stealth bonuses stack, enabling reliable ambushes.
+- **Sangromancer:** Use *Pulse Needle* to exploit Bleeding from safety, then shift to *Veinbinder Rod* or *Bloodwoven Whip* when enemies close.
+- **Glyphwright:** Pair *Surveyor's Prism* with *Sigil-Etched Robes* — reposition allies, then punish movement with glyphs.
+- **Dreadblade:** *Assassin's Fang* with *Nightfall Cloak* — stealth attacks deal +2 (weapon) +1 (armor) = +3 bonus damage.
+- **Warden of Balance:** *Blessed Mace* with *Sarafan Plate* — Stagger undead on hit while the Plate imposes Will save penalties on nearby undead.
+- **Hylden Warlock:** *Prophet's Thorn* and *Whispering Prism* let you pressure casters from range before committing to melee.
 
 ### General Tips
 
 - **Weapon Damage Scaling** (+1 at levels 5/10/15/20) applies automatically to ALL weapons. Plan your upgrade path around Enhanced (level 8+) and Masterwork (level 15+) tiers for maximum damage growth.
 - **Armor flat reduction** remains consistently valuable. An Armor 3 item saves 3 HP per hit at every level.
-- **Extra Successes** in combat can bypass armor (max equal to weapon base damage), inflict status effects, or deal bonus damage (+1 per extra success, max +3). High dice pools make extra successes the primary damage amplifier at high levels.
-- **DV Cap of 6** means stacking DV from multiple sources has diminishing returns at high Shadow/Will. Prioritize Armor value and class traits over DV bonuses.
+- **Extra Successes** in combat can bypass armor (max equal to weapon base damage), inflict status effects, or deal bonus damage (+1 per extra success, max +3).
+- **DV Cap of 6** means stacking DV from source has diminishing returns at high Shadow/Will. Prioritize Armor value and class traits over DV bonuses.
+
+---
+
+## 7.7 Equipment Integrity
+
+Nosgoth’s environments and certain effects (like the **Glyph of Entropy**) can damage equipment, imposing an **Equipment Flaw**.
+
+- **Equipment Flaw**: A weapon or armor is impaired until repaired.
+	- **Weapon Flaw**: −1 to the weapon’s base damage.
+	- **Armor Flaw**: −1 to the armor’s flat damage reduction (Armor X).
+- **Repairs**: Fixing an Equipment Flaw requires 10 minutes and a successful **DR 2 Focus + Craft** check, or use of the *Emergency Repair* Active Utility from the Craft skill (Chapter 6).
+- **Cumulative Flaws**: An item can suffer multiple flaws. If a weapon's base damage or an armor's reduction is reduced to 0 by flaws, the item is **Broken** and unusable until fully repaired.
 
 Players should consult their GM for availability, as some items (especially Rare and Relic tier) may alter campaign balance or tie into Nosgoth's lore. Whether forging a blade in a vampire's bloodforge or claiming a relic from a forgotten Pillar, the equipment you wield shapes your legend in Nosgoth.

@@ -87,7 +87,7 @@ When a spell lists a save (e.g., *DR 2 Blood save*), the target rolls **Attribut
 Corruption Dice (CD) in spellcasting represent a caster drawing on unstable, soul-rending power. Unlike corrupted perks, spells only use CD when a spell explicitly says so or when a caster chooses to push a Forbidden spell.
 
 - **Spell-Specific Costs:** If a spell says to gain Corruption or roll Corruption Dice, resolve that exactly as written in the spell and apply the result after the spell finishes resolving.
-- **Pushing a Forbidden Spell:** Once per spell cast, after rolling a Forbidden spell attack or caster check and before the outcome is finalized, you may push the spell by rolling `1 Corruption Die`. Reroll any number of non-successes from your original roll and keep the new results.
+- **Pushing a Forbidden Spell:** Once per spell cast, after rolling a Forbidden spell attack or caster check and before the outcome is finalized, you may choose to **Push** the spell by adding `1`, `2`, or `3` Corruption Dice to your pool. Each `5-6` rolled adds `+1 success` to the total, while each `1` adds `+1 Corruption Level` to your character.
 - **Risk:** Each `1` rolled on Corruption Dice increases your Corruption by 1. Apply this using the current Corruption rules in Chapter 8.
 - **Limits:** You cannot push a spell that has already been pushed, and pushing a spell never changes its range, duration, area, or target restrictions unless the spell says otherwise.
 - **Design Rule:** If a Forbidden spell already has a listed Corruption cost, that listed cost is the primary balancing lever. Optional pushing exists to let casters gamble for reliability, not to replace the spell's normal risk.
