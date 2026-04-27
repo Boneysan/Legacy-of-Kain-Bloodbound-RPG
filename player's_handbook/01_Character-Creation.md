@@ -44,7 +44,7 @@ Human:
 
 Description: Frail but defiant, humans are adaptable mortals fighting for survival.
 Bonuses: Choose any two skills to receive a +1 bonus.
-Unique Trait: Gain 1 extra Universal Perk at Levels 6, 12, and 18.
+Unique Trait: Gain 1 extra Universal Perk at Level 1. Gain an additional Universal Perk at Levels 6, 12, and 18.
 Movement: Ignore one terrain penalty per session; +1 to Stealth in crowds.
 Narrative Hook: The last flickers of resistance and redemption.
 
@@ -52,8 +52,8 @@ Narrative Hook: The last flickers of resistance and redemption.
 Wraith:
 
 Description: Souls untethered from flesh, wraiths walk the boundary of life and death, manipulating the Spectral Realm.
-Bonuses: +1 to Possession, +1 to Observation, and +1 to Will.
-Unique Trait: Wraith Phasing allows translucency, movement through thin barriers, Spectral damage ignoring physical armor, and resistance to non-magical physical damage.
+Bonuses: +1 to Possession, +1 to Observation.
+Unique Trait: Wraith Phasing allows translucency, movement through thin barriers, Spectral damage ignoring physical armor, resistance to non-magical physical damage, and +1 Will for DV while phased.
 Movement: Ignore terrain penalties; advantage on Stealth checks in the Spectral Realm.
 Narrative Hook: Forgotten by death, hunted by time.
 
@@ -62,7 +62,7 @@ Hylden-Blooded:
 
 Description: Exiled beings of entropy and dark invention, bearing ancient wrath.
 Bonuses: +1 to Glyphcasting and +1 to Forbidden Knowledge skills.
-Unique Trait: Cast one spell per long rest without cost, but take Corruption.
+Unique Trait: Cast one spell per long rest without cost, but take Corruption. If you have no spells, you may instead push a skill check without rolling Corruption Dice — the check automatically counts as having 1 extra success.
 Movement: Full speed across corrupted or glyph-infused terrain; surge 10 ft once per scene when taking a Corruption Die.
 Narrative Hook: Bearers of ancient wrath, seeking dominion or revenge.
 

@@ -70,9 +70,9 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 - **Terrain Bonus**: Ignore Spectral Realm terrain penalties.
 - **Stealth**: Advantage on Stealth checks in the Spectral Realm.
 - **Movement Effects**: Pass through thin barriers while phased.
-- **Bonuses**: +1 Possession, +1 Observation, +1 Will. *(The Will bonus reflects the Wraith's innate spiritual resonance and is intentional — Wraiths begin more resistant to mental and spiritual effects in exchange for their physical fragility, low base movement, and Soul Energy dependency.)*
+- **Bonuses**: +1 Possession, +1 Observation.
 - **Soul Sight** (Passive): While in the Spectral Realm, you perceive your surroundings in complete darkness as if in dim light. See [Chapter 11, Section 11.5.4](./11_Realms-Terrain-Arcane-Power.md#1154-environmental-mirroring).
-- **Unique Trait**: *Wraith Phasing* (Bonus Action, a number of times per long rest equal to your Will: shift into a phased state until the end of your next turn. While phased, you are translucent, your Speed becomes 35 feet, you may move through terrain and barriers up to 1 foot thick *(Spectral only)* (see [Chapter 11, Section 11.1](./11_Realms-Terrain-Arcane-Power.md#111-realm-affinity)), your weapon and unarmed attacks deal Spectral damage instead of their normal type *(crosses realms)*, you gain Resistance to non-magical Physical damage, and you are immune to non-magical **Grappled** and **Restrained** conditions. You must end your movement in an unoccupied space.)
+- **Unique Trait**: *Wraith Phasing* (Bonus Action, a number of times per long rest equal to your Will: shift into a phased state until the end of your next turn. While phased, you are translucent, your Speed becomes 35 feet, you may move through terrain and barriers up to 1 foot thick *(Spectral only)* (see [Chapter 11, Section 11.1](./11_Realms-Terrain-Arcane-Power.md#111-realm-affinity)), your weapon and unarmed attacks deal Spectral damage instead of their normal type *(crosses realms)*, you gain Resistance to non-magical Physical damage, you are immune to non-magical **Grappled** and **Restrained** conditions, and you add +1 to your Will for the purpose of DV calculations. You must end your movement in an unoccupied space.)
 - **Lineage Paragon (Level 10)**: Spectral Resonance. Gain +1 Soul or Will attribute (max 6). Your Wraith Phasing now lasts until the end of the scene or until you dismiss it as a Bonus Action.
 - **Lineage Paragon (Level 20)**: Wraith Lord. You gain **Hybrid Affinity** (see [Chapter 11, Section 11.5.2](./11_Realms-Terrain-Arcane-Power.md#1152-voluntary-shift-hybrid-affinity)). You can exist in both the Material and Spectral realms simultaneously, perceiving and interacting with both without phasing. Your Spectral Resonance attribute bonus increases to +2 (to a total maximum of 6 in that attribute).
 - **Anchor:** At character creation, designate one Anchor - an object, location, or living NPC tied to your purpose. Your Anchor must be on the same realm as you to count as active. If you are in the Spectral Realm and your Anchor is an object in the Material Realm, you suffer the penalties of a missing Anchor until you return or the Anchor is brought across the veil. If destroyed without replacement within 7 days, make a **DR 2 Will check** at the start of each session; failure = **+1 Corruption**. Replacing an Anchor requires 1 hour of ritual and a meaningful new connection.
@@ -84,7 +84,7 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 - **Stealth**: No bonus, but Glyphcasting can alter terrain visibility.
 - **Movement Effects**: Once per scene, you may take a **Free Action** during your movement to add 10 feet to that movement by rolling 1 Corruption Die. On a 1, gain 1 Corruption Level as normal.
 - **Bonuses**: +1 Glyphcasting, +1 Forbidden Knowledge.
-- **Unique Trait**: Once per long rest, when you cast a spell, you may cast it without spending its BP or SE cost. After the spell resolves, gain 1 Corruption Level.
+- **Unique Trait**: Once per long rest, when you cast a spell, you may cast it without spending its BP or SE cost. After the spell resolves, gain 1 Corruption Level. *If you have no spells, you may instead use this trait to push a skill check without rolling Corruption Dice — the check automatically counts as having 1 extra success.*
 - **Lineage Paragon (Level 10)**: Eldritch Adaptation. Gain +1 Soul or Focus attribute (max 6). When you use your Unique Trait, you may choose to take 1d6 damage instead of gaining Corruption.
 - **Lineage Paragon (Level 20)**: Void Architect. You gain immunity to Entropic damage. Your Eldritch Adaptation attribute bonus increases to +2 (to a total maximum of 6 in that attribute).
 - **Narrative Hook**: Bearers of ancient wrath, seeking dominion or revenge.
@@ -95,7 +95,7 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 - **Stealth**: +1 die in crowds or chaotic environments.
 - **Movement Effects**: You may move through gaps, bars, windows, and other openings large enough for your head and one shoulder to fit. Moving through such a space costs 5 extra feet of movement.
 - **Bonuses**: +1 to any two skills.
-- **Unique Trait**: Gain 1 extra Universal Perk at Levels 6, 12, and 18.
+- **Unique Trait**: Gain 1 extra Universal Perk at Level 1 (in addition to your normal starting perks). Gain an additional Universal Perk at Levels 6, 12, and 18. *(Humans begin with greater immediate versatility, compensating for the absence of supernatural traits.)*
 - **Narrative Hook**: Last flickers of resistance and redemption.
 
 ### 2.5.1 Sarafan
@@ -122,7 +122,7 @@ Seers touched by divinity or prophecy.
 - **Bonuses**: +1 Concentration, +1 Ritualism.
 - **Unique Trait**: *Unyielding Purpose* (Passive: once per arc (see Chapter 9, §9.14), when you would be reduced to 0 HP, you instead drop to 1 HP. Active: Bonus Action, once per scene, choose one - ignore difficult terrain until the end of your turn; gain Advantage against forced movement until the start of your next turn; or gain +2 damage and Advantage on one roll directly tied to your unfinished business before the end of your turn.)
 - **Undead Biology**: Revenants do not need to breathe and are immune to **Drowning** or **Suffocation** from lack of air. They are not affected by running water unlike true Vampires.
-- **Soul Bleed:** While in the Spectral Realm, Revenants suffer Soul Bleed at 1 HP per 3 rounds. See [Chapter 11, Section 11.5.1](./11_Realms-Terrain-Arcane-Power.md#1151-the-soul-economy).
+- **Soul Bleed:** While in the Spectral Realm, Revenants suffer Soul Bleed at 1 HP per 3 rounds. See [Chapter 11, Section 11.5.1](./11_Realms-Terrain-Arcane-Power.md#1151-the-soul-economy). *(This is intentional design — Revenants are rejected by death but not native to the Spectral Realm. Unlike Wraiths, they cannot sustain extended presence beyond the veil without cost.)*
 - **Lineage Paragon (Level 10)**: Deathless Will. Gain +1 Will or Shadow attribute (max 6). Your Unyielding Purpose active effect can now be used twice per scene.
 - **Lineage Paragon (Level 20)**: Eternal Avenger. You gain Resistance to Entropic and Spectral damage. Your Deathless Will attribute bonus increases to +2 (to a total maximum of 6 in that attribute).
 - **Narrative Hook**: Defying the grave, serving a second purpose.
