@@ -239,8 +239,8 @@ This is not a rewrite of the campaign's existing structure. It is a module-readi
 ## Terminology Cleanup
 
 - Replace legacy or ambiguous skill language in authored scene text.
-- [Arc_I_Awakening/VTT_Vignettes/01_Caravan-Argument.md](Arc_I_Awakening/VTT_Vignettes/01_Caravan-Argument.md) currently uses `Perception or Insight`; replace `Perception` with `Observation` and keep `Insight` only if the intent is emotional reading rather than noticing the satchel.
-- [Arc_I_Awakening/VTT_Vignettes/02_False-Refuge.md](Arc_I_Awakening/VTT_Vignettes/02_False-Refuge.md) currently uses `Awareness`; replace it with `Observation`.
+- ~~[Arc_I_Awakening/VTT_Vignettes/01_Caravan-Argument.md](Arc_I_Awakening/VTT_Vignettes/01_Caravan-Argument.md) currently uses `Perception or Insight`~~ — **Fixed.** GM Notes now use `Observation (DR 2)` for noticing the satchel warmth and Serit's grip, and `Insight (DR 2)` for the emotional reading.
+- ~~[Arc_I_Awakening/VTT_Vignettes/02_False-Refuge.md](Arc_I_Awakening/VTT_Vignettes/02_False-Refuge.md) currently uses `Awareness`~~ — **Fixed.** GM Notes now use `Observation (DR 2)` with an explicit success payoff on Halden's rehearsed timing.
 - Expand deliberate use of Blood Sense, Forbidden Knowledge, Concentration, and Ritualism across relic, cult, and metaphysical scenes. These are some of the campaign's best-fit skills and are still underused compared with how often the fiction implies them.
 
 ## Recommended Order Of Implementation

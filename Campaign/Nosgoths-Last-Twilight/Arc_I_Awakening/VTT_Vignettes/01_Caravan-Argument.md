@@ -118,4 +118,4 @@ The road to Avernus demands a choice before the first blood falls. Whether to pr
 - This scene should run fast. It's a setup vignette, not a lore dump. The goal is one hard impression per NPC and a clear party position entering the waystation.
 - Brother Halden is present but quiet. Do not spotlight him yet. Let him fix the wheel, stay warm, and seem reliably useful.
 - Serit's offer of the "less comfortable answer" in Choice D should feel like a gift she regrets immediately. Keep her composed after she says it — she doesn't panic, she recalibrates.
-- If someone rolls Perception or Insight during the scene: the satchel is warm. It has been warm since the second waymarker. That is all they can confirm right now.
+- If someone rolls **Observation** (DR 2) during the scene: the satchel is warm. It has been warm since the second waymarker. That is all they can confirm right now. On a success, the observing PC also notices Serit's grip tighten fractionally whenever the road turns downhill — not fear, recalibration. **Insight** (DR 2) instead reveals the emotional weight: she is not protecting a cargo, she is protecting a timeline.
