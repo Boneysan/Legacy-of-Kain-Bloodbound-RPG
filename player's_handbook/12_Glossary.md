@@ -128,6 +128,16 @@ Applied on Critical Hits or Extra Successes unless an effect says otherwise. Dur
 | **Staggered** | 1 round unless source specifies otherwise | The target cannot take Reactions. Actions, Bonus Actions, and movement are unaffected. |
 | **Corrupted** | Permanent | Target gains +1 Corruption Level. |
 
+**Condition Rules**
+
+Three rules govern how conditions interact when multiple sources apply:
+
+1. **Same condition from multiple sources:** A condition applied a second time while already active refreshes its remaining duration to the new duration. The effect does not stack — a target that is Bleeding twice is still only Bleeding once. Exception: **Corrupted** always applies its full effect each time it is triggered, since each application is a discrete permanent gain.
+2. **Disadvantage does not stack:** A target suffering Disadvantage from two or more sources is still under only one Disadvantage. Additional Disadvantage sources beyond the first have no additional effect. (See §9.9 for Advantage/Disadvantage rules.)
+3. **Condition cap:** A target can have at most **5 distinct conditions** simultaneously (not counting Bloodied, which is a state rather than a condition). If a 6th distinct condition would be applied, it has no effect unless it is **Paralyzed**, **Stunned**, or **Dominated** — those three override and replace the least severe current condition (GM's judgment). This cap does not apply to Boss or Legendary creatures.
+
+---
+
 **Common Combat Conditions**
 
 **Bloodied**

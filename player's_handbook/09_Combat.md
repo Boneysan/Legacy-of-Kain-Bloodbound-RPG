@@ -234,6 +234,10 @@ If you have both Advantage and Disadvantage from different sources, they cancel 
 
 **Example**: Raziel attacks from a shadowfield (Advantage) but is Blinded by Radiant damage (Disadvantage). The effects cancel, and he rolls normally.
 
+**Stacking**
+
+Multiple sources of Advantage do not stack — having two sources of Advantage is the same as having one. The same applies to Disadvantage: two or more sources of Disadvantage still result in only one Disadvantage. Only Advantage and Disadvantage cancel each other, never amplify.
+
 ## 9.10 Special Actions
 
 Nosgoth’s warriors wield powers beyond mortal limits, from soul-rending magic to realm-shifting maneuvers.

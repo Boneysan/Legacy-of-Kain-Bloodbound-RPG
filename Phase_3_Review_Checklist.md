@@ -15,7 +15,7 @@ Work through items in priority order. Each item has a status field, a checklist 
 | P3-3 | Save DR calibration | **Complete** | High | Full audit done. DR range is 1–4 across all class abilities and monster stat blocks; DR 5 absent. Single broken ability fixed: Shadowmancer **Death from Below** (Level 17) had a fixed TV ≤ 4 cap, making it useless at level-appropriate play (Level 17 party fights TV 15+ enemies). Changed to "Cannot target Elite, Boss, or Legendary creatures." DR probability table + calibration guide added to GM Guide §2.12. |
 | P3-4 | Action economy comparison | **Complete** | Medium | Full BA/Reaction audit done. Three fixes: (1) Sangromancer Vital Leech L2 Action→Bonus Action (0 BAs until L9 otherwise). (2) Warden Echo of Fate L6 Reaction→No Action (5 Reactions competing for 1 slot by L6; highest overload in system). (3) Hylden Warlock Madness Surge L3 Action→Bonus Action (0 BAs for entire class progression except L20 choice). |
 | P3-5 | Corruption rate audit | **Complete** | Medium | Exposure modeled per class. Baseline Push pressure: ~0.33–0.67/session (well under 1.5 threshold). Only Hylden Warlock approaches threshold via Forbidden Truth (~0.5–1 net/session after Long Rest recovery — by design). Two bugs fixed: (1) Advanced Corruption Host "Spread Corruption" had no save — added DR 2 Blood save. (2) Two additional "Entropic point" instances in 06_Hylden-Forces.md corrected to "Corruption Level". Long Rest valve verified adequate for all classes. No involuntary path to Lost exists for non-Hylden-Warlock classes. |
-| P3-6 | Condition stacking rules | **Not started** | Medium | No explicit cap on simultaneous conditions exists in the rules |
+| P3-6 | Condition stacking rules | **Complete** | Medium | Three rules written. (1) Same condition refreshes duration, does not stack effect (exception: Corrupted always applies). (2) Disadvantage does not stack from multiple sources. (3) Cap of 5 distinct simultaneous conditions; Paralyzed/Stunned/Dominated override on the 6th (replace least severe). Cap does not apply to Boss/Legendary. |
 | P3-7 | Lineage/class synergy outliers | **Not started** | Medium | Strong combos and dead-zone combos not mapped |
 | P3-8 | Multi-target ability pricing | **Not started** | Low | AoE vs. single-target cost efficiency never compared |
 | P3-9 | Play experience / fun pass | **Not started** | Low | Carry-forward from P2-8; qualitative read-through simulation |
@@ -214,31 +214,38 @@ Run the standard Ability Audit Template across all 20 Active Utilities — it ta
 
 ## P3-6. Condition Stacking Rules
 
-**Status:** `Not started`
+**Status:** `Complete`
 
-**Primary files:**
-- `player's_handbook/12_Glossary.md` (condition definitions)
-- `player's_handbook/09_Combat.md` (combat resolution)
-- `player's_handbook/03_Classes.md` (conditions applied by class abilities)
+**Files modified:**
+- `player's_handbook/12_Glossary.md` — Added "Condition Rules" block before Common Combat Conditions table: same-condition refresh rule, Disadvantage non-stacking, 5-condition cap
+- `player's_handbook/09_Combat.md` — Added "Stacking" subsection to §9.9: Advantage and Disadvantage do not stack from multiple sources of the same type
 
-**Why this matters:** The Glossary defines conditions such as Prone, Frightened, Stunned, Blinded, Bleeding, Restrained, Paralyzed, Charmed, and several more. There is no explicit rule stating whether multiple instances of the same condition stack, and no cap on how many distinct conditions can apply to one target simultaneously. At Level 15, a Shadowmancer + Sangromancer party can layer Frightened, Bleeding, Restrained, Prone, and Disadvantage on a single target in one round. Against monsters without Legendary Resistance, this reduces high-tier combat to a condition-application checklist.
+**Findings:**
 
-**What needs to happen:**
-- [ ] Audit every condition defined in the Glossary: does it stack with itself if applied twice? (e.g., two sources of Bleeding — does the target bleed twice?)
-- [ ] Define whether the same condition applied by two different sources refreshes duration or does nothing
-- [ ] Define a maximum number of distinct conditions that can apply to one target simultaneously, or explicitly state there is no cap
-- [ ] Identify the highest-condition-density scenario achievable by a party of 4 in one round at Level 15 — list every condition and its source
-- [ ] Determine whether the existing Legendary Resistance framework (from MM Introduction) provides sufficient counterplay to multi-condition lockdown at that tier
-- [ ] Check whether `Disadvantage` is treated as a condition (can it stack from two sources?) or a modifier state
-- [ ] Verify that conditions with similar effects (`Prone` + `Restrained` both limit movement) do not create ambiguity when both apply
+*Conditions in the system (18 total):*
+- Status effects (8): Bleeding, Burning, Decay, Prone, Slowed, Shocked, Staggered, Corrupted
+- Combat conditions (10): Grappled, Pinned, Frightened, Charmed, Dominated, Paralyzed, Stunned, Incapacitated, Confused, Suppressed
 
-**Questions to answer:**
-- Should the same condition from two different sources stack, refresh, or be ignored?
-- Is a hard condition cap (e.g., maximum 3 distinct conditions per target) needed, or is Legendary Resistance sufficient counterplay?
-- Does `Prone` + `Frightened` + `Restrained` simultaneously create an "I can't do anything" state that removes player agency? Is that appropriate only for enemies, or should PCs be protected?
+*Worst-case stacking scenario at Level 15 (4-person party, 1 round):*
+- Frightened (Shadowmancer L15 Terror Aura / Shadow Court command)
+- Bleeding (Sangromancer Hemorrhage)
+- Confused (Hylden Warlock Madness Surge)
+- Disadvantage on attacks (Dreadblade Venom Edge)
+- Prone or Stunned (Blood Knight Crushing Blow / Juggernaut)
 
-**Recommendation:**
-Add a single paragraph to Glossary §12.2 under "Conditions" or to Chapter 9 §9.5 covering three rules: (1) a condition applied twice refreshes its duration but does not stack its effect; (2) Disadvantage does not stack — two sources of Disadvantage is still one Disadvantage; (3) a target can have at most [4–5] distinct conditions simultaneously, with each new condition above the cap replacing the weakest current condition or being ignored. These three sentences close the gap without overhauling individual conditions.
+Without a cap, a non-Boss Standard creature in Round 1 faces 4–5 conditions simultaneously with no counterplay. Legendary Resistance (2–3 uses/encounter) cannot cover this volume.
+
+*Disadvantage stacking check:* §9.9 defined Advantage + Disadvantage cancellation but said nothing about two Disadvantage sources. Several abilities (Venom Edge, Frightened, Confused, Shocked, Blinded) all independently impose Disadvantage. Without an explicit rule, a strict reading allows Disadvantage×5 to be mechanically distinct from Disadvantage×1.
+
+**Rules written:**
+
+1. **Same condition → refresh:** Applying the same condition a second time refreshes duration only; the mechanical effect does not stack. *Corrupted is the explicit exception* — each application is a discrete, permanent Corruption Level gain and always resolves fully.
+
+2. **Disadvantage non-stacking:** Multiple sources of Disadvantage (or Advantage) from different abilities are still only one Disadvantage (or Advantage). Added to both §12.4 Condition Rules block and §9.9 Stacking subsection.
+
+3. **5-condition cap:** A target can hold at most 5 distinct conditions simultaneously. A 6th condition has no effect unless it is Paralyzed, Stunned, or Dominated — these override by replacing the least severe current condition (GM judgment). Cap explicitly does not apply to Boss or Legendary creatures, preserving full condition pressure as a tool against high-tier enemies.
+
+*Rationale for 5 (not 3 or 4):* Standard creatures have 3–4 abilities, so a 4-person party realistically reaches 4 conditions in one round. Allowing 5 leaves room for one more layered effect (e.g., a lingering Hemorrhage bleed) without capping out normal play. A hard cap of 3 would break too many designed synergies.
 
 ---
 
