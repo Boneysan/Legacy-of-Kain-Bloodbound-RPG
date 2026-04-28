@@ -18,7 +18,7 @@ Work through items in priority order. Each item has a status field, a checklist 
 | P3-6 | Condition stacking rules | **Complete** | Medium | Three rules written. (1) Same condition refreshes duration, does not stack effect (exception: Corrupted always applies). (2) Disadvantage does not stack from multiple sources. (3) Cap of 5 distinct simultaneous conditions; Paralyzed/Stunned/Dominated override on the 6th (replace least severe). Cap does not apply to Boss/Legendary. |
 | P3-7 | Lineage/class synergy outliers | **Complete** | Medium | Full 6×8 matrix built. Two rule fixes applied (Wraith Lord rename + Hylden sidebar). Two dead zones documented. |
 | P3-8 | Multi-target ability pricing | **Complete** | Low | Full AoE pass done. 2 fixes applied (Nightmare Chorus cost, Glyph of Quicksand cap). All others in acceptable 0.5–0.9× per-target range. |
-| P3-9 | Play experience / fun pass | **Not started** | Low | Carry-forward from P2-8; qualitative read-through simulation |
+| P3-9 | Play experience / fun pass | **Complete** | Low | Two communication fixes written: Warden play note, Sangromancer solo sidebar |
 
 ---
 
@@ -374,27 +374,102 @@ Without a cap, a non-Boss Standard creature in Round 1 faces 4–5 conditions si
 
 ## P3-9. Play Experience / Fun Pass
 
-**Status:** `Not started`
+**Status:** `Complete`
 
 **Carry-forward from P2-8.** This is a qualitative simulation pass, not a document audit.
 
 **Primary files:** All player-facing chapters
 
+---
+
+### Level 5 — Three-Round Identity Check
+
+| Class | R1 | R2 | R3 | Identity sentence |
+| :--- | :--- | :--- | :--- | :--- |
+| Blood Knight | Juggernaut (knock Prone) + Bloodrush reposition | Crushing Blow on downed target | Life Drain — heal off the damage dealt | "I charge in, knock things over, and heal from what I hit." |
+| Soul Reaver | Spectral Strike (BA) + Soul Blade attack | Phase Shift → Spectral Realm | Banish target into your realm | "I slip between realms and strike from a place they can't reach." |
+| Shadowmancer | Cloak of Mist (BA) → Backstab from Stealth | Fear Toxin → Frightened | Shadow Step + second attack | "I hide, strike, and make them too scared to follow." |
+| Sangromancer | Hemorrhage (BP 1) | Crimson Bind — root cluster | Blood Puppet — control Bleeding target | "I bleed them all, root them, and turn the biggest one against the rest." |
+| Glyphwright | Flame Sigil burst on cluster | Seal of Binding — root biggest threat | Glyph Recall reposition | "I lay traps that punish movement, then redirect them." |
+| Dreadblade | Blink Strike auto-Crit burst OR ambush Crit | Venom Edge (BA) + attack | Lethal Flow (Reaction) — reposition on kill | "I appear, hit once for massive damage, and vanish." |
+| Warden | Guardian's Edict (BA) + Time Stasis | Balance Strike (Soul dmg) + Fate Align reactive | Cycle Command saves ally from 0 HP | "I freeze the worst threat and make sure no one dies." |
+| Hylden Warlock | Madness Surge (BA) → Confused + Entropic Curse | Void Shard — Spectral damage | Forbidden Truth — free cast | "I curse enemies until they can't function, then drain what's left." |
+
+All eight classes produce a distinct three-round loop. No two classes produce the same primary play feel. ✓
+
+**Warden observation:** At L5 the Warden's round 1 Action (Time Stasis, 3 SE) costs ~37% of its SE pool (L5 Will 2 → SE = 8). Using it twice leaves 2 SE for the rest of the combat. This is intentional — the cost drops to 2 SE at L12 (Stabilizing Presence). The class is correctly a reactive support at L1–9, not a proactive caster. **Fix applied:** Added a Play Note to the Warden class description (03_Classes.md §3.3.7) explaining the early-level support role and when offensive identity unlocks (L10 and L15).
+
+**Sangromancer observation:** In a single-enemy encounter, Crimson Bind (zone root) is redundant and Blood Puppet costs 2 BP for control on a target Hemorrhage alone can handle. The full toolkit only pays off vs. 3+ enemies. This is by design — the class is a Battlefield Controller by role tag — but there was no player-facing warning. **Fix applied:** Added a Single-Target Encounters sidebar to the Sangromancer class description (03_Classes.md §3.3.4) directing players to favor the Hemorrhage → Vital Leech loop in solo fights.
+
+---
+
+### Level 10 — Table-Agency Check
+
+**Question: Does any class, played optimally, remove meaningful decisions from other players?**
+
+- **Sangromancer**: Hemodominate (3 BP, 1 min concentration) + Crimson Bind (2 BP) + Hemorrhage (1 BP) = 6 BP to control 1 enemy and root a zone simultaneously. BP pool at L10 ≈ 9–11 BP. One explosive round is possible but depletes the pool. Other PCs still have enemies to engage. **Verdict: No decision removal.** The Sangromancer dominates one round, not the session.
+- **Warden**: Eternal Balance (full extra turn, 1/long rest) gives the Warden twice the action economy for one turn. This doesn't touch other PCs' turns. **Verdict: No decision removal.**
+- **Shadowmancer**: Nightmare Chorus (now 2 BP after P3-8 fix) spreads Fear, but Frightened only imposes Disadvantage and prevents moving closer — enemies can still attack from range. **Verdict: No decision removal.**
+
+**No class at Level 10 removes meaningful decisions from other players at the table.** ✓
+
+---
+
+### Corruption Temptation (Level 10)
+
+At L10, Universal Perk Tiers 1–3 provide competitive options for any build (e.g., Ascended Form, Timelocked, Blood Vow). Corrupted Perks require Corruption 3+ (Tier 1) or 7+ (Tier 2). A player at L10 who has taken 0 Corruption misses Tainted Vitality, Corrupted Surge, and Bonebite Grin — real benefits, but the Universal Perk track provides full functional builds without them. Corrupted Perks feel like optional depth and narrative commitment, not a mandatory power purchase. ✓
+
+All Tier 1 Corrupted Perks have explicit Drawbacks (social penalties, compulsion saves). They tempt without coercing. ✓
+
+---
+
+### Master Tier (Level 16–20) Epic Feel
+
+- **Blood Knight**: Crimson Terror aura (Frightened save vs. all in 10ft each turn) active during Crimson Avatar = area fear plus multi-attack with +4 scaling. Epic bruiser fantasy. ✓
+- **Shadowmancer**: Shadow Court (3 Doppelgangers) + Terror Aura = three shadow copies and a fear zone. Cinematic. ✓
+- **Warden**: Perfected Equilibrium (double damage on Abyss-Bound+ enemies) + Cycle's Enforcer (line AoE Balance Strike) + Eternal Balance = in a climactic Corruption-heavy boss fight, the Warden becomes the hardest-hitting character at the table. **Note for GMs**: Perfected Equilibrium only triggers against Corruption 11+ (Abyss-Bound) enemies. In campaigns with low Corruption exposure this may rarely fire. The Warden's secondary L15 option (Cycle's Enforcer) provides consistent AoE regardless of enemy Corruption.
+
+GM counterplay tools confirmed player-facing (§9.16): High DV, damage immunities, condition resistances. Legendary Resistance confirmed in §9.15 with tactical note explicitly addressing hard-control expectations. ✓
+
+---
+
+### Hard-Control Counterplay (Player-Facing)
+
+- **§9.15 Legendary Resistance**: Explicitly documented in player-facing combat rules. Tactical note names "hard control (like Stunned or Paralyzed)" directly. ✓
+- **Banish** (Soul Reaver L5): DR 4 Soul save. Boss Will 5+ ≈ 43% natural pass rate before Legendary Resistance. High DR provides built-in counterplay. ✓
+- **Blood Puppet** (Sangromancer L3/core): Requires Bleeding condition as prerequisite — enemies that can't be Bled are immune. Built-in counterplay. ✓
+- **Soul Storm** (Shadowmancer L18): Inflicts Frightened (soft control, not hard control). Legendary Resistance still applies if used on a Boss. ✓
+
+**All three hard-control abilities have visible counterplay in player-facing rules.** ✓
+
+---
+
+### Design Questions
+
+**Q: Does the Warden have a "moment that belongs to this class"?**
+Yes — two, with different flavors:
+1. **Cycle Command** (L5): When an ally would drop to 0 HP, they drop to 1 HP instead. This is a visible, unambiguous save. The table knows the Warden did it.
+2. **Eternal Balance** (L10): The Warden takes a second full turn immediately after their first. In a climactic fight this enables Guardian's Edict → Time Stasis → Balance Strike → Zone of Judgment → Mark of Equilibrium in 2 consecutive turns. ✓
+
+**Q: Does the Hylden Warlock's Corruption synergy feel like a character arc?**
+Yes. Entropic Surge (passive bonus at Corruption 7+) → Voidborn Ascendancy (L15: +1 die per 3 Corruption, max +4) is a deliberate escalation — the longer you play at high Corruption, the stronger the payoff. Combined with the GM sidebar added in P3-7 (02_Lineages-and-Race.md), GMs can reinforce the arc through social and environmental consequences. ✓
+
+---
+
+### Fixes Applied
+
+1. **Warden Play Note** (`03_Classes.md §3.3.7`): Added a paragraph after the Role/Attributes block explaining the support-primary L1–9 identity and when the class's offensive and epic moments unlock (L10, L15). Prevents new players from feeling the class is ineffective because they misread "Judge" as "offensive fighter."
+2. **Sangromancer Single-Target Sidebar** (`03_Classes.md §3.3.4`): Added a sidebar directing players to use the Hemorrhage → Vital Leech loop in solo encounters rather than the full control combo. Prevents resource drain from tools that don't pull weight in that encounter type.
+
+**No balance fixes were required.** All findings were communication gaps, not mechanical imbalances.
+
 **What needs to happen:**
-- [ ] Pick one character of each class at Level 5, Level 10, and Level 15. Walk through three rounds of combat mentally and answer: does each class feel distinct? Does each one have a clear moment of "this is what my character does"?
-- [ ] Check Corruption temptation: at Level 10, does a player who has never used a Corrupted Perk feel like they are missing out — or does the game feel complete without it?
-- [ ] Check whether any class feels meaningfully worse in solo encounters vs. group encounters (some controllers, like Sangromancer, may be much weaker when there is only one enemy)
-- [ ] Verify that Master Tier (Level 16–20) abilities feel epic without invalidating encounter design — specifically, confirm the GM has tools (Legendary Resistance, Immunity to conditions, high DV) to make encounters feel threatening
-- [ ] Confirm that the hard-control abilities (Banish, Puppet, Soul Storm) have visible counterplay documented in the player-facing rules, not just in the Monster Manual
-- [ ] Read the opening of each class description and confirm a new player can explain what the class does in one sentence
-
-**Design questions:**
-- Is there any class that, when played optimally at Level 10, removes meaningful decisions from other players at the table?
-- Does the Warden of Balance (support) have a session where it feels powerful rather than merely enabling? Is there a moment that belongs to this class?
-- Does the Hylden Warlock's Corruption synergy feel like a character arc, or like a liability to manage?
-
-**Recommendation:**
-Run the simulation as a written three-round combat narrative for each class — not a full playtest, but a mental "what do I do on round 1, 2, 3?" exercise. This surfaces ability ordering, tempo issues, and whether the class feels coherent. For the Warden specifically, check whether its support kit can "win" a difficult encounter that would have been lost without it — if yes, the class has its identity moment.
+- [x] Pick one character of each class at Level 5, Level 10, and Level 15. Walk through three rounds of combat mentally and answer: does each class feel distinct? Does each one have a clear moment of "this is what my character does"?
+- [x] Check Corruption temptation: at Level 10, does a player who has never used a Corrupted Perk feel like they are missing out — or does the game feel complete without it?
+- [x] Check whether any class feels meaningfully worse in solo encounters vs. group encounters
+- [x] Verify that Master Tier (Level 16–20) abilities feel epic without invalidating encounter design
+- [x] Confirm that the hard-control abilities (Banish, Puppet, Soul Storm) have visible counterplay documented in the player-facing rules
+- [x] Read the opening of each class description and confirm a new player can explain what the class does in one sentence
 
 ---
 

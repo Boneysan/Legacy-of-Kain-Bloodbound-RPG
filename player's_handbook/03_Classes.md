@@ -207,6 +207,9 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 > **Sidebar: Blood and the Spectral Realm**
 > Sangromancers are wholly Material-realm casters. Their spells require living blood and cannot function in the Spectral Realm. A Sangromancer who crosses the veil retains their BP pool but cannot access it until they return to the Material Realm.
 
+> **Sidebar: Single-Target Encounters**
+> The Sangromancer's control toolkit (Hemorrhage, Crimson Bind, Blood Puppet) is designed for multi-enemy encounters. Against a single tough enemy, favor Hemorrhage → Vital Leech (deal and heal) over full control lockdown — with one target, Crimson Bind's zone is redundant and Blood Puppet costs 2 BP for control that Hemorrhage alone can set up. Solo encounters are where the Sangromancer's damage-and-drain loop earns its keep.
+
 #### Spell Access
 - **Casting Model:** Known spells.
 - **Spell Access:** You may learn Blood spells freely from your class list and Ritual spells tied to blood rites, fleshcraft, corpse-work, and vitae transfer. **Note: All spells with the Blood tag or using the Blood attribute require a physical presence (Material only) unless you have a perk that says otherwise.**
@@ -349,6 +352,8 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Core Attributes**: Will, Soul
 **Starting HP**: 11 + Will (+4 per level; +1 Max HP at Levels 5, 10, 15, and 20)
 **Key Skills**: Ritualism, Glyphcasting, Insight, Persuasion, Religion
+
+> **Play Note:** At Levels 1–9, the Warden plays as a reactive support class — you protect allies with Guardian's Edict, freeze individual threats with Time Stasis, and respond with Fate Align and Cycle Command. The class's proactive identity emerges at Level 10 (Eternal Balance: take a full extra turn) and Level 15 (Perfected Equilibrium: double damage against high-Corruption enemies). In Nosgoth campaigns where Corruption-tainted enemies are common, the Warden becomes the hardest-hitting character in exactly the encounters that matter most narratively.
 
 #### Core Abilities
 *   **Time Stasis** (Action, 3 SE): Choose one creature you can see within 30 feet or one unattended object you can touch. A creature must succeed on a DR 3 Will save or be unable to move, take actions, or take reactions until the end of its next turn. An object is frozen in place for 1 minute. The SE cost reduces to 2 at Level 12 when Stabilizing Presence is gained.
