@@ -1064,7 +1064,7 @@ However, three categories of construct can interact with Corruption:
 
 2. **Pillar-Linked Constructs:** Constructs tied to the Pillars of Nosgoth (e.g., Pillar Sentinels, Glyph-Powered Knights in corrupted areas) can be warped by Pillar corruption. A corrupted Pillar-linked construct gains +2 to Fury and -2 to Focus, and its attacks deal an additional 2 Entropic damage. Its programming becomes erratic — roll a d6 at the start of each round; on a 1, it attacks the nearest creature regardless of allegiance.
 
-3. **Prolonged Exposure:** A construct stationed in a high-Corruption area (Corruption Rating 3+) for decades or centuries may develop a semblance of malevolent awareness. This is not true corruption but rather the ambient dark energy seeping into its magical framework. Such constructs gain the Corrupted Core trait: when destroyed, they release a Corruption pulse (10-foot radius, all creatures must pass Will DR 3 or gain 1 Entropic).
+3. **Prolonged Exposure:** A construct stationed in a high-Corruption area (Corruption Rating 3+) for decades or centuries may develop a semblance of malevolent awareness. This is not true corruption but rather the ambient dark energy seeping into its magical framework. Such constructs gain the Corrupted Core trait: when destroyed, they release a Corruption pulse (10-foot radius, all creatures must pass Will DR 3 or gain **1 Corruption Level**).
 
 ### Design Note
 Corruption-tainted constructs make excellent mid-campaign twists — the party's allied construct begins behaving strangely, or a dungeon's "safe" guardians have been slowly corrupted over centuries. Use sparingly for maximum impact.

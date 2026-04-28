@@ -620,7 +620,7 @@ Blightmaw Alphas are solitary territorial hunters. They tolerate no other large 
 
 **Territorial Rage**: While Bloodied, the Blightmaw gains +5 feet of movement speed and Advantage on **Grappled**-related attacks. It will not retreat from its territory under any circumstances.
 
-**Corruption-Touched**: The Blightmaw radiates faint Corruption. Creatures that start their turn **Grappled** by it make a DR 1 Blood save. On failure, a creature gains 1 Entropic point (the toxins seep through contact). On success, no effect.
+**Corruption-Touched**: The Blightmaw radiates faint Corruption. Creatures that start their turn **Grappled** by it make a DR 1 Blood save. On failure, a creature gains **1 Corruption Level** (the toxins seep through contact). On success, no effect.
 
 ### Reactions
 **Tail Lash** (Reaction, when a creature moves within 10 feet behind the Blightmaw)
@@ -826,7 +826,7 @@ The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the a
 - **Dice Pool:** Soul 3 + 4 = 7d6 vs Will (costs 10 SE, Recharge 5-6)
 - **Range:** 50-foot cone
 - **Damage:** 16 Entropic
-- **Special:** On a successful defense, creatures take half damage. Creatures that take full damage make a DR 3 Will save. On failure, a creature gains 1 Entropic point. On success, no effect. The affected area becomes Corruption-tainted difficult terrain for 3 rounds.
+- **Special:** On a successful defense, creatures take half damage. Creatures that take full damage make a DR 3 Will save. On failure, a creature gains **1 Corruption Level**. On success, no effect. The affected area becomes Corruption-tainted difficult terrain for 3 rounds.
 
 **Tail Sweep** (Bonus Action)
 - **Dice Pool:** Fury 6 + Athletics 5 = 11d6 vs DV (once per round)
@@ -1082,7 +1082,7 @@ They are no longer strictly animals; the Corruption has given them a rudimentary
 ### Abilities
 **Flyby:** The Corrupted Raptor does not provoke opportunity attacks when it moves away from a creature after attacking.
 
-**Corruption Aura (Passive, 5 feet):** Any creature that ends its turn adjacent to the Raptor makes a DR 1 Blood save. On failure, the creature gains 1 Entropic point (represents ambient Corruption emanation). On success, no effect.
+**Corruption Aura (Passive, 5 feet):** Any creature that ends its turn adjacent to the Raptor makes a DR 1 Blood save. On failure, the creature gains **1 Corruption Level** (represents ambient Corruption emanation). On success, no effect.
 
 **Light Sensitivity:** In bright light (torch or better), the Raptor has Disadvantage on attacks and will retreat toward darkness if damaged.
 

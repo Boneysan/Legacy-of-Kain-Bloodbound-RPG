@@ -443,7 +443,7 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 
 ### Abilities
 
-**Corruption Aura (Passive, 10 feet):** Creatures who begin their turn within 10 feet make a DR 3 Blood save. On failure, the creature gains **1 Entropic point**. On success, no effect. This aura cannot be disabled by silencing magic.
+**Corruption Aura (Passive, 10 feet):** Creatures who begin their turn within 10 feet make a DR 3 Blood save. On failure, the creature gains **1 Corruption Level**. On success, no effect. This aura cannot be disabled by silencing magic.
 
 **Pillar Link (Special):** If there is any Pillar fragment, Pillar site, or functional Pillar stone within 100 feet, the Sentinel regenerates 8 HP at the start of each turn and Decay Touch deals +3 Entropic damage.
 

@@ -338,7 +338,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 - Hylden whisper recording (if studied, reveals Hylden communication patterns) - **Trade Value**: 25 supplies (lore)
 
 ### Scaling Options
-**Advanced Corruption Host** (Elite, TV 8): +15 HP, increase Soul and Forbidden Knowledge to 4. Corrupted Flesh increases **DV:** by +2 per hit (max +6). Add "Spread Corruption" ability (all enemies within 10 feet gain 1 Entropic at the start of the Host's turn).
+**Advanced Corruption Host** (Elite, TV 8): +15 HP, increase Soul and Forbidden Knowledge to 4. Corrupted Flesh increases **DV:** by +2 per hit (max +6). Add "Spread Corruption" ability (all enemies within 10 feet gain **1 Corruption Level** at the start of the Host's turn).
 
 ---
 
