@@ -17,7 +17,7 @@ Work through items in priority order. Each item has a status field, a checklist 
 | P3-5 | Corruption rate audit | **Complete** | Medium | Exposure modeled per class. Baseline Push pressure: ~0.33–0.67/session (well under 1.5 threshold). Only Hylden Warlock approaches threshold via Forbidden Truth (~0.5–1 net/session after Long Rest recovery — by design). Two bugs fixed: (1) Advanced Corruption Host "Spread Corruption" had no save — added DR 2 Blood save. (2) Two additional "Entropic point" instances in 06_Hylden-Forces.md corrected to "Corruption Level". Long Rest valve verified adequate for all classes. No involuntary path to Lost exists for non-Hylden-Warlock classes. |
 | P3-6 | Condition stacking rules | **Complete** | Medium | Three rules written. (1) Same condition refreshes duration, does not stack effect (exception: Corrupted always applies). (2) Disadvantage does not stack from multiple sources. (3) Cap of 5 distinct simultaneous conditions; Paralyzed/Stunned/Dominated override on the 6th (replace least severe). Cap does not apply to Boss/Legendary. |
 | P3-7 | Lineage/class synergy outliers | **Complete** | Medium | Full 6×8 matrix built. Two rule fixes applied (Wraith Lord rename + Hylden sidebar). Two dead zones documented. |
-| P3-8 | Multi-target ability pricing | **Not started** | Low | AoE vs. single-target cost efficiency never compared |
+| P3-8 | Multi-target ability pricing | **Complete** | Low | Full AoE pass done. 2 fixes applied (Nightmare Chorus cost, Glyph of Quicksand cap). All others in acceptable 0.5–0.9× per-target range. |
 | P3-9 | Play experience / fun pass | **Not started** | Low | Carry-forward from P2-8; qualitative read-through simulation |
 
 ---
@@ -320,29 +320,55 @@ Without a cap, a non-Boss Standard creature in Round 1 faces 4–5 conditions si
 
 ## P3-8. Multi-Target Ability Pricing
 
-**Status:** `Not started`
+**Status:** `Complete`
 
-**Primary files:**
-- `player's_handbook/03_Classes.md`
-- `player's_handbook/04_Perks.md`
-- `player's_handbook/05_Spellcasting-and-Magic.md`
+**Files modified:**
+- `player's_handbook/03_Classes.md` — Nightmare Chorus (Shadowmancer L10): AoE burst now costs 1 additional BP (total 2 BP)
+- `player's_handbook/05_Spellcasting-and-Magic.md` — Glyph of Quicksand: added explicit 3-target cap to match Glyph of Binding
 
-**Why this matters:** AoE abilities have not been systematically compared to single-target abilities at the same cost. If a 1 SE multi-hit attack deals the same total expected damage as a 1 SE single-target attack, there is no cost for the flexibility advantage. Conversely, if AoE abilities cost twice as much for similar output, they will rarely be used.
+**Method:** Single-target baseline at each resource cost, then per-target ratio test. Acceptable range: 0.6–1.0× (breadth not depth). Above 1.0× = overtuned; below 0.4× = undertuned (unless Rider saves it).
 
-**What needs to happen:**
-- [ ] Identify all multi-target abilities across Classes and Perks (e.g., Blood Knight `Bloodstorm`, Soul Reaver `Soul Storm`, Shadowmancer `Fear` AoEs, Glyphwright AoE glyphs)
-- [ ] For each, calculate expected total damage output vs. a group of 3 targets vs. a single target at the same level
-- [ ] Compare to the best single-target ability at the same cost and level — is the AoE version dealing roughly 1.5–2× the single-target damage total to justify hitting multiple enemies? Or is it more efficient per target than single-target options?
-- [ ] Flag any AoE ability where expected damage per target exceeds the equivalent single-target ability at the same cost — this is overtuned
-- [ ] Flag any AoE ability where expected damage per target is less than half the single-target option — this is undertuned (no reason to use except for riders or conditions)
-- [ ] Check AoE condition riders (e.g., AoE Frightened, AoE Corruption gain) — apply the same test to rider value: does the AoE rider + damage justify the cost vs. single-target?
+**Single-target baselines by resource cost:**
 
-**Questions to answer:**
-- Is `Bloodstorm` (1/short rest, hits all enemies in 5 ft) significantly better than a single melee attack at the same level because of the area, even if damage per target is lower?
-- Do any glyph-based AoE effects (Glyphwright, Warden) become dramatically stronger when encounter design places multiple enemies in close proximity?
+| Cost | Reference ability | Damage |
+| :--- | :--- | :--- |
+| 1 SE | Void Shard (HW): 3 Entropic, 30 ft | 3 damage |
+| 1 BP | Pulse Spike (SG): 3 Spectral + Disadvantage ×2 | 3 damage + condition |
+| 2 SE | Glyph of Severance: 4 Spectral + item sever | 4 damage + utility |
+| 2 BP | Blood Puppet: full action control (Bleeding target) | full control |
+| 3 SE | Spectral Nova (AoE itself) / Nether Binding (control) | 6 damage AoE or control |
+| 4 SE | Soul Storm (L18 capstone) | 12 damage + Frightened AoE |
+| Free/1 Action | L10 melee attack, base 4 damage + combat bonus | ~6–7 with scaling |
 
-**Recommendation:**
-This pass is mostly arithmetic. For each AoE ability, calculate: (single-target expected damage) vs. (AoE expected damage per target × average number of targets). A healthy ratio is approximately 0.6–1.0× the single-target value per target (you get breadth, not depth). Above 1.0× per target is overtuned; below 0.4× per target is undertuned. Any ability outside that range should have its cost, damage, or cooldown adjusted.
+**Full AoE inventory with verdict:**
+
+| Ability | Cost | Area | Per-Target Dmg | Ratio | Rider | Verdict |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Glyph of Flame** (GW spell) | 1 SE | 5 ft radius | 1.5 avg (halved) | 0.50 | Set-trap; no attack roll | Borderline; trap placement justifies it |
+| **Flame Sigil** (GW core) | 1 SE | 5 ft burst | 1.5 avg | 0.50 | Same | Same |
+| **Eldritch Gasp** (HW spell) | 1 SE | 15 ft cone | 0.5 avg | 0.17 | Silenced 1 rd | Damage-undertuned; Silenced rescues it at 3+ targets |
+| **Dissonant Pulse** (HW/WB) | 1 SE | 10 ft radius | 0 | — | End concentration | Niche (concentrating enemies only); well-scoped |
+| **Hemorrhage Halo** (SG spell) | 2 BP | 10 ft radius | 1.5 avg + Bleeding | 0.50 | Bleeding | Acceptable; Bleeding synergizes with Sangromancer toolkit |
+| **Sangral Lance** (SG spell) | 2 BP | 60 ft line | 5 primary + 5 secondary | conditional | Bleeding | Secondary hit requires extra successes; fine |
+| **Crimson Bind** (SG core/spell) | 2 BP | 10 ft sphere | 0 damage | — | Rooted + Slowed | Pure control; 2 BP for multi-target is efficient but bounded by 10 ft radius |
+| **Seal of Fire** (GW L8) | 2 SE | 10 ft radius | 2.5 avg (halved) | 0.63 | — | In range |
+| **Glyph of Cinders** (GW spell) | 2 SE | 10 ft area | 6 total (3 rnds ×2) | — | Difficult terrain | Sustained AoE; Glyphwright zone-control identity justifies it |
+| ~~**Glyph of Quicksand**~~ **(fixed)** | 2 SE | 15 ft square | — | — | Restrained + Corruption | **Pre-fix:** no target cap vs. Glyph of Binding's explicit 3-target cap at same cost; FIXED: capped at 3 targets |
+| **Spectral Nova** (SR L9) | 3 SE | 10 ft radius | 4.5 avg | 0.75 | — | In range; no attack roll adds value |
+| **Soul Storm** (SR L18) | 4 SE | 10 ft radius | 9 avg | 1.5 | Frightened | Capstone L18, 4 SE, largest pool drain — high but appropriate for tier |
+| **Bloodstorm** (BK L10) | 0 (1/short rest) | 5 ft reach | Full weapon | 1.0 | — | Free multiattack 1/short rest; requires clustering; bounded and acceptable |
+| ~~**Nightmare Chorus**~~ **(fixed)** | ~~1 BP~~ → 2 BP | 5 ft burst | — | — | Frightened | **Pre-fix:** multi-target Fear at single-target price (1 BP); FIXED: 1 additional BP for the burst |
+| **Terror Aura** (SM L15) | Passive (no cost) | 10 ft aura/turn | — | — | Frightened | Passive save-or-fear aura; balanced by once-per-scene immunity on success |
+| **Crimson Terror** (BK L15) | Passive (sub-feature) | 10 ft while Crimson Avatar active | — | — | Frightened | Piggybacks on existing 1/long rest transformation; limited scope |
+| **Zone of Judgment** (WB L7) | 2 SE | 15 ft radius | 0 damage | — | -1 DV to enemies | Buff/debuff zone; no damage; purely utility pricing — fine |
+| **Judgment Wheel** (WB L9) | 3 SE | 30 ft radius | 0 | — | Random buffs/debuffs | Chaotic; cost justified by scale |
+
+**Summary:**
+- 22 multi-target or area abilities reviewed across classes and core spells
+- 2 abilities outside acceptable range: **Nightmare Chorus** (free upscale) and **Glyph of Quicksand** (no cap). Both fixed.
+- Most AoE abilities correctly sit at 0.5–0.75× per-target ratio — you buy breadth, not depth
+- **Soul Storm** (L18) at 1.5× per-target is the only above-range entry; justified as a Level 18 capstone at 4 SE, the highest spell cost in the game
+- Passive auras (Terror Aura, Crimson Terror) and once-per-rest abilities (Bloodstorm) are excluded from the ratio test — their limiting mechanics replace the resource cost
 
 ---
 

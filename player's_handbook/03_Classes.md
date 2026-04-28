@@ -180,7 +180,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 8 | **Nightmare Fuel** | Fear Toxin deals 3 Spectral damage at the start of each turn. | Passive |
 | 9 | **Shadow Form** | Become intangible, gaining Resistance to all damage except Radiant and Elemental (Fire). Requires Concentration; if Concentration breaks, the form ends immediately. | Action, 3 SE, Concentration up to 1 min |
 | 10 | **Master of Shadows** | Shadow Step range increases to 60ft. | Passive |
-| 10 | *or* **Nightmare Chorus** | Fear Toxin now affects all enemies within 5ft of the primary target; each makes a separate Will save. Will save Difficulty for your Fear effects increases by 1, including Terror Aura. | Passive |
+| 10 | *or* **Nightmare Chorus** | When you use Fear Toxin, you may spend 1 additional BP (total 2 BP) to have it affect all enemies within 5 feet of the primary target; each additional target makes a separate Will save. Will save Difficulty for your Fear effects increases by 1, including Terror Aura. | Passive |
 | 11 | **Living Darkness** | Darkness spell deals 2 Entropic damage at the start of each turn to enemies. | Passive |
 | 12 | **Doppelganger** | Create a combat-capable shadow clone of yourself (HP = Level + Soul, DV 2, deals 2 Entropic damage + Weapon Damage Scaling). Commanding the doppelganger requires a **Bonus Action** on your turn. | Action, 4 SE |
 | 13 | **Void Blade** | Melee attacks deal +1d8 Entropic damage. | Passive |

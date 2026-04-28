@@ -188,7 +188,7 @@ When a class feature and a spell share a name, treat the Chapter 5 spell as the 
 - **Glyph of Displacement** [GW, SM, HW]: Cost: 2 SE. Touch; triggers on touch; DR 2 **Evasion** or teleport 15 feet random.
 - **Glyph of Echoes** [GW]: Cost: 2 SE. Touch; inscribe a mirroring glyph adjacent to an existing Initiate or Adept glyph you can see. 1 round after the original glyph triggers, the Glyph of Echoes triggers with the same effect, but its damage, area, and duration are all halved. If the original glyph had no variable values, it simply repeats once.
 - **Glyph of Entropy** [GW, SM, HW]: Cost: 2 SE. Touch; triggers on entry or spellcast; the target must succeed on a DR 2 Will save or its active magic is disrupted. If it was casting a spell, the spell fails. Additionally, one piece of mundane equipment the target is using gains an **Equipment Flaw** for 1 minute: a weapon deals -1 damage, or armor provides -1 Armor mitigation.
-- **Glyph of Quicksand** [GW, HW]: Cost: 2 SE. Touch earth; triggers on entry; DR 2 Blood or **Restrained** in 15-foot square area + 1 Corruption if sunk.
+- **Glyph of Quicksand** [GW, HW]: Cost: 2 SE. Touch earth; triggers on entry; up to 3 creatures of your choice that enter the area must make a DR 2 Blood save or be **Restrained** (15-foot square area). A Restrained creature that cannot escape also gains 1 Corruption Level at the end of its turn.
 - **Glyph of Severance** [GW, SR, HW]: Cost: 2 SE. Touch; triggers on touch; 4 Spectral damage + DR 2 Blood or sever non-magical item.
 - **Glyph of Silence** [GW, SM, WB]: Cost: 2 SE. Touch; triggers on sound/entry; 10-foot silence (**Silenced**) 1 minute.
 - **Shatter Sigil** [GW, HW]: Cost: 2 SE. 30 feet; Soul + Glyphcasting vs. DR to dispel glyph safely.
