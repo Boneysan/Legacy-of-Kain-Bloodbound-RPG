@@ -298,7 +298,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 - **Dice Pool:** Soul 3 + Forbidden Knowledge 3 = 6d6
 - **Range:** Melee (5 feet)
 - **Damage:** 4 Spectral + 2 Entropic
-- **Special:** On Critical Hit (3+ successes), the target gains 1 Entropic point (Hylden essence spreads).
+- **Special:** On Critical Hit (3+ successes), the target gains **1 Corruption Level** (Hylden essence spreads).
 
 **Tendril Lash** (Action)
 - **Dice Pool:** Fury 3 + Forbidden Knowledge 3 = 6d6
@@ -338,7 +338,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 - Hylden whisper recording (if studied, reveals Hylden communication patterns) - **Trade Value**: 25 supplies (lore)
 
 ### Scaling Options
-**Advanced Corruption Host** (Elite, TV 8): +15 HP, increase Soul and Forbidden Knowledge to 4. Corrupted Flesh increases **DV:** by +2 per hit (max +6). Add "Spread Corruption" ability (all enemies within 10 feet gain **1 Corruption Level** at the start of the Host's turn).
+**Advanced Corruption Host** (Elite, TV 8): +15 HP, increase Soul and Forbidden Knowledge to 4. Corrupted Flesh increases **DV:** by +2 per hit (max +6). Add "Spread Corruption" ability (at the start of the Host's turn, all enemies within 10 feet make a DR 2 Blood save; on failure, they gain **1 Corruption Level**. On success, no effect).
 
 ---
 

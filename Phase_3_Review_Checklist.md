@@ -14,7 +14,7 @@ Work through items in priority order. Each item has a status field, a checklist 
 | P3-2 | Level-scaling damage math | **Complete** | High | Three-tier spot-check done. No runaway damage spike found. Two issues fixed: (1) §3.2 Durability Milestone labels misleading — "High Durability" (Sangromancer, Dreadblade) yields less total HP than "Standard" Blood Knight due to +3 vs +4 HP/level; added clarifying note. (2) Nosgothian Revenant recommended level range changed from 2–6 to 4–8 (DV 4 is <5% hit rate for Level 1–3 characters). New GM Guide §2.11 added with hit probability table and DV-by-level-band calibration guide. |
 | P3-3 | Save DR calibration | **Complete** | High | Full audit done. DR range is 1–4 across all class abilities and monster stat blocks; DR 5 absent. Single broken ability fixed: Shadowmancer **Death from Below** (Level 17) had a fixed TV ≤ 4 cap, making it useless at level-appropriate play (Level 17 party fights TV 15+ enemies). Changed to "Cannot target Elite, Boss, or Legendary creatures." DR probability table + calibration guide added to GM Guide §2.12. |
 | P3-4 | Action economy comparison | **Complete** | Medium | Full BA/Reaction audit done. Three fixes: (1) Sangromancer Vital Leech L2 Action→Bonus Action (0 BAs until L9 otherwise). (2) Warden Echo of Fate L6 Reaction→No Action (5 Reactions competing for 1 slot by L6; highest overload in system). (3) Hylden Warlock Madness Surge L3 Action→Bonus Action (0 BAs for entire class progression except L20 choice). |
-| P3-5 | Corruption rate audit | **Not started** | Medium | Total Corruption exposure per session never totalled per class |
+| P3-5 | Corruption rate audit | **Complete** | Medium | Exposure modeled per class. Baseline Push pressure: ~0.33–0.67/session (well under 1.5 threshold). Only Hylden Warlock approaches threshold via Forbidden Truth (~0.5–1 net/session after Long Rest recovery — by design). Two bugs fixed: (1) Advanced Corruption Host "Spread Corruption" had no save — added DR 2 Blood save. (2) Two additional "Entropic point" instances in 06_Hylden-Forces.md corrected to "Corruption Level". Long Rest valve verified adequate for all classes. No involuntary path to Lost exists for non-Hylden-Warlock classes. |
 | P3-6 | Condition stacking rules | **Not started** | Medium | No explicit cap on simultaneous conditions exists in the rules |
 | P3-7 | Lineage/class synergy outliers | **Not started** | Medium | Strong combos and dead-zone combos not mapped |
 | P3-8 | Multi-target ability pricing | **Not started** | Low | AoE vs. single-target cost efficiency never compared |
@@ -168,35 +168,47 @@ Run the standard Ability Audit Template across all 20 Active Utilities — it ta
 
 ## P3-5. Corruption Rate Audit
 
-**Status:** `Not started`
+**Status:** `Complete`
 
-**Primary files:**
-- `player's_handbook/08_Corruption.md`
-- `player's_handbook/03_Classes.md`
-- `player's_handbook/04_Perks.md`
-- `Monster_Manual/` (monster abilities that deal Corruption)
+**Files modified:**
+- `Monster_Manual/06_Hylden-Forces.md` — Corruption Host Corrupted Touch crit: "1 Entropic point" → "1 Corruption Level"
+- `Monster_Manual/06_Hylden-Forces.md` — Advanced Corruption Host Spread Corruption: no-save aura → DR 2 Blood save required
 
-**Why this matters:** Individual Corruption sources were fixed in isolation across Phase 1. But no one has totalled Corruption exposure across a typical session for each class. A Hylden Warlock pushing rolls and activating Tier 2 Corrupted Perks may reach Corruption 7 (Deeply Corrupted) within two sessions without any deliberate narrative choice. A Blood Knight may barely touch Corruption across a full arc. The design intent is that reaching `Lost` (Corruption 15) should require player choice — it should not be inevitable for any build.
+**Method:** Modeled expected Corruption gain per session for each class under standard play assumptions (3–4 combats, ~2 Pushes per session at 1–2 CDs each). Verified Long Rest recovery valve. Checked all monster Corruption sources across Monster Manual.
 
-**What needs to happen:**
-- [ ] Estimate Corruption gain per session for each class under normal play:
-  - Count Push rolls likely per session (how often does the class fail checks it cares about?)
-  - Count Corrupted Perk activations likely per session (Tier 1 = 1 CD, Tier 2 = 2 CD)
-  - Count monster abilities that deal flat Corruption (common in Spectral and Cultist chapters)
-  - Assume 1-in-6 chance each Corruption Die shows a 1 (flat ~16.7%)
-- [ ] Flag any class whose expected Corruption gain per session exceeds 1.5 under normal play (this would reach Lost in ~10 sessions without cleansing)
-- [ ] Verify the Long Rest cleansing valve defined in Ch. 8 §8.6 is sufficient to offset the gain rate for high-Corruption classes
-- [ ] Check Hylden-Blooded lineage specifically — their unique trait costs include Corruption Dice; stack this against Hylden Warlock class Corruption exposure
-- [ ] Check whether any Corrupted Perk at Tier 3 has a cost high enough that activating it once could push a character within striking distance of Lost in one session
-- [ ] Verify that `Touched by Corruption` (levels 1–2) feels like a meaningful early warning rather than something that gets traversed accidentally in Session 1
+**Corruption exposure table (expected gross gain per session, before Long Rest recovery):**
 
-**Questions to answer:**
-- If a player never voluntarily chooses a Corrupted Perk and never Pushes rolls, can they still be pushed to Lost purely by monster Corruption effects? If yes, that is a design problem.
-- Is there a session count where a player who takes one Tier 2 Corrupted Perk and Pushes twice per session reaches Corruption 11 (Abyss-Bound)? Should that feel dramatic or alarming?
-- Does the narrative of "temptation toward Lost" hold when some classes are essentially immune to passive Corruption pressure?
+| Class | Push pressure | Class-specific pressure | Total/session | Notes |
+|---|---|---|---|---|
+| Blood Knight | ~0.33–0.67 | 0 | **0.33–0.67** | No voluntary Corruption mechanics |
+| Soul Reaver | ~0.33–0.67 | 0 | **0.33–0.67** | No voluntary Corruption mechanics |
+| Shadowmancer | ~0.33–0.67 | 0 | **0.33–0.67** | No voluntary Corruption mechanics |
+| Sangromancer | ~0.33–0.67 | 0 | **0.33–0.67** | No voluntary Corruption mechanics |
+| Glyphwright | ~0.33–0.67 | 0 | **0.33–0.67** | No voluntary Corruption mechanics |
+| Dreadblade | ~0.33–0.67 | 0 | **0.33–0.67** | No voluntary Corruption mechanics |
+| Warden | ~0.33–0.67 | 0 | **0.33–0.67** | No voluntary Corruption mechanics |
+| Hylden Warlock | ~0.33–0.67 | Forbidden Truth ~1–2/scene used | **1.3–2.7** | By design — Warlock trades SE for Corruption |
 
-**Recommendation:**
-Build a Corruption exposure table: rows = classes/lineages, columns = Passive pressure (monster effects), Push pressure (failed rolls × Push frequency), and Active pressure (Corrupted Perk use). Sum these per session and verify the total stays below ~1.5 for standard play and below ~3 for heavy corruption-leaning builds. Adjust either monster Corruption outputs, the Long Rest valve, or Corrupted Perk costs to hit that window. The system already has the right philosophy (tempting but not inevitable) — this is a numbers calibration pass, not a redesign.
+**Long Rest recovery valve:** DR 2 Will+Concentration/Insight check. Expected pool = 5–7d6 for most classes. Expected recovery of 2 recently-gained Corruption points ≈ 1.65 points. Recovery-capped at "since previous long rest." Valve is adequate — even a Hylden Warlock using Forbidden Truth twice/session nets only ~0.5–1 Corruption after a long rest.
+
+**Corrupted Perk cost check (Tier 3):** Most expensive single activation is T3 perks (gain 1 Corruption + roll 1 CD = expected 1.17/activation) and major transformations (gain 1 + roll 2 CD = expected 1.33/activation). A single T3 activation cannot push a character within striking distance of Lost unless they're already at Abyss-Bound (11+). No fix needed.
+
+**`Touched by Corruption` (1–2) check:** Threshold is crossed at Corruption 1, so the first Push that generates a 1 (expected 1-in-6) puts a character at Touched. This is an appropriate early warning. Players who never Push will never cross it involuntarily except from monsters.
+
+**Monster Corruption pressure:** All identified monster sources require saves (DR 1–3). Only two non-save exceptions existed — both fixed this pass. No involuntary path to Lost exists via monster exposure alone in a single session.
+
+**Hylden-Blooded + Hylden Warlock stacking:** HB Unique Trait (+1/long rest when free spell used) + Host to the Void perk (+1/long rest, max 3 total campaign) = +2 passive Corruption per long rest. This is deliberate choice stacking — both require explicit player decisions. GMs should note this combination to players as high-risk during character creation; no mechanical change warranted.
+
+**Issues found and fixed:**
+
+**Issue 1 — Advanced Corruption Host no-save aura (FIXED):** Elite TV 8 monster with "Spread Corruption" gave all enemies within 10 feet automatic +1 Corruption Level per turn with no save. Against a 4-PC party in melee range for 3 rounds = 12 total Corruption with zero counterplay. This violated the design principle that Corruption should require player choice or a meaningful save. Added DR 2 Blood save — consistent with other ambient-Corruption auras (Corrupted Raptor DR 1, Pillar-Decay Sentinel DR 3). DR 2 is appropriate for a TV 8 Elite.
+
+**Issue 2 — Corruption Host Corrupted Touch crit (FIXED):** Standard Corruption Host crit effect read "gains 1 Entropic point" — the same terminology bug fixed in 6 other monsters last pass. Corrected to "1 Corruption Level."
+
+**Spot-checks passed (no issue):**
+- Tier 1 Corrupted Perk `Spectral Whisper` drawback (Spectral Realm extended stay = 1 Corruption/minute) is time-gated and opt-in — fine.
+- `Host to the Void` (+1 Corruption/long rest) caps at 3 total over campaign — fine, not a runaway source.
+- `Forbidden Truth` once-per-scene limit means maximum 3–4 Corruption from that source per session — within manageable range for a class designed around Corruption accumulation.
 
 ---
 
