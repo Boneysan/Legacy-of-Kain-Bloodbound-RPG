@@ -13,6 +13,10 @@ Creating balanced, engaging encounters is an art. This chapter provides tools an
 - 2.8 Non-Combat Encounters
 - 2.9 Adjusting on the Fly
 - 2.10 Sample Encounters
+- 2.11 Attack Pool vs. DV Calibration
+- 2.12 Save DR Calibration
+- 2.13 Encounters and Balance Pressure
+- 2.14 Quick Reference: Encounter Checklist
 - 2.11 Quick Reference: Encounter Checklist
 
 Note on terminology: DV is for attacks, DR is for checks and saves, and Armor is flat mitigation. See Player's Handbook Chapters 5 (Spellcasting and Magic), 8 (Corruption), and 9 (Combat) for Force, Spectral, and Entropic details.
@@ -568,7 +572,53 @@ A typical melee character's attack pool = **Primary Attribute + Weapon Mastery +
 
 ---
 
-## 2.12 Encounters and Balance Pressure
+## 2.12 Save DR Calibration
+
+When assigning **DR values** to save-or-suffer abilities on monsters or custom creatures, match the DR to the save pool your players are likely to roll at that tier. The wrong DR in either direction makes the ability feel irrelevant (too easy) or punishing (near-impossible).
+
+### Pass Probability: Player Pool vs. DR
+
+*Assumes p(success per die) = 1/3 (roll of 5 or 6 on a d6). Does not account for Push.*
+
+| Dice Pool | DR 1 | DR 2 | DR 3 | DR 4 | DR 5 |
+|-----------|------|------|------|------|------|
+| 2d6 | 56% | 11% | 0% | 0% | 0% |
+| 3d6 | 70% | 26% | 4% | 0% | 0% |
+| 4d6 | 80% | 41% | 11% | 1% | 0% |
+| 5d6 | 87% | 54% | 21% | 5% | 1% |
+| 6d6 | 91% | 65% | 32% | 10% | 2% |
+| 7d6 | 94% | 74% | 43% | 17% | 5% |
+| 8d6 | 96% | 81% | 53% | 26% | 9% |
+| 9d6 | 97% | 86% | 62% | 35% | 15% |
+| 10d6 | 98% | 90% | 70% | 44% | 22% |
+
+> **Pushing shifts DR 3 saves significantly.** A player rolling 2 short of DR 3 who Pushes 3 Corruption Dice has roughly a 70% chance of converting that failure to a success. DR 3 is rarely a hard wall — it is a temptation.
+
+### Typical Player Save Pools by Level
+
+| Level Band | Save Pool (Attribute + Skill) | Notes |
+|------------|-------------------------------|-------|
+| 1–4 | 3–5d6 | Attribute 2–3 + Skill 1–2 |
+| 5–9 | 5–7d6 | Attribute 3 + Skill 2–4 |
+| 10–14 | 7–9d6 | Attribute 3–4 + Skill 3–5 |
+| 15–20 | 8–11d6 | Attribute 4–5 + Skill 4–5 |
+
+> **Note:** Players often save with their *weakest* attribute. A Blood Knight with Focus 1 has only 2–3d6 for Focus-based saves. Target this attribute with a DR 2 effect and it is almost certainly a failure. This creates interesting vulnerability — but GMs should vary which attributes they target.
+
+### Recommended DR Ranges for Monster Abilities
+
+| Effect Severity | Recommended DR | Notes |
+|----------------|---------------|-------|
+| Minor (Bleeding, Prone, Slowed) | 2 | Should fail ~35–65% of the time at relevant level |
+| Standard (Frightened, Stunned 1 round, Grappled) | 3 | Should fail ~30–57% of the time at relevant level |
+| Severe (Dominated, Paralyzed, Instant-kill finisher) | 4 | Should fail ~56–75% of the time at relevant level |
+| Legendary (Reserved for Boss/Legendary abilities only) | 5 | Near-impossible for Standard-tier players without Pushing |
+
+> **Golden rule:** If the ability fires every round (a passive aura or a triggered save), use DR 2–3. If the ability fires once per encounter or requires specific setup, DR 3–4 is appropriate. DR 5 should never appear on a repeating effect.
+
+---
+
+## 2.13 Encounters and Balance Pressure
 
 Encounters in Nosgoth are not just tactical puzzles; they are moral ones. Choices made in the heat of battle resonate through the **Balance Ledger**.
 
@@ -580,7 +630,7 @@ Encounters in Nosgoth are not just tactical puzzles; they are moral ones. Choice
 
 ---
 
-## 2.13 Quick Reference: Encounter Checklist
+## 2.14 Quick Reference: Encounter Checklist
 
 - [ ] Encounter has clear victory/defeat conditions
 - [ ] Enemy count appropriate for party size

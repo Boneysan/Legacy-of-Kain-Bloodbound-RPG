@@ -12,7 +12,7 @@ Work through items in priority order. Each item has a status field, a checklist 
 |---|---|---|---|---|
 | P3-1 | Skills chapter audit | **Complete** | High | Fixed 14 issues: DR table example (attacks use DV not DR), Riposte ambiguous wording, condition bolding (Restrained/Prone/Frightened), Parley undefined delay mechanic, Terrify missing range, Blood Sense missing action type/duration, Field Medic missing range, Jammed undefined condition, Iron Mind wrong condition name (Fear→Frightened), once-per-scene→once-per-encounter (Phase Control, Tactical Archive, Field Medic, Lore), Push rule missing 2–4 outcome and declaration timing, Stunts alignment with Ch.9, Active Mastery gap for already-BA utilities, Skill Cap mid-level progression table added. |
 | P3-2 | Level-scaling damage math | **Complete** | High | Three-tier spot-check done. No runaway damage spike found. Two issues fixed: (1) §3.2 Durability Milestone labels misleading — "High Durability" (Sangromancer, Dreadblade) yields less total HP than "Standard" Blood Knight due to +3 vs +4 HP/level; added clarifying note. (2) Nosgothian Revenant recommended level range changed from 2–6 to 4–8 (DV 4 is <5% hit rate for Level 1–3 characters). New GM Guide §2.11 added with hit probability table and DV-by-level-band calibration guide. |
-| P3-3 | Save DR calibration | **Not started** | High | Player DRs and monster DRs have never been cross-checked |
+| P3-3 | Save DR calibration | **Complete** | High | Full audit done. DR range is 1–4 across all class abilities and monster stat blocks; DR 5 absent. Single broken ability fixed: Shadowmancer **Death from Below** (Level 17) had a fixed TV ≤ 4 cap, making it useless at level-appropriate play (Level 17 party fights TV 15+ enemies). Changed to "Cannot target Elite, Boss, or Legendary creatures." DR probability table + calibration guide added to GM Guide §2.12. |
 | P3-4 | Action economy comparison | **Not started** | Medium | Per-class Bonus Action load never compared across all six classes |
 | P3-5 | Corruption rate audit | **Not started** | Medium | Total Corruption exposure per session never totalled per class |
 | P3-6 | Condition stacking rules | **Not started** | Medium | No explicit cap on simultaneous conditions exists in the rules |
@@ -85,11 +85,38 @@ Run the standard Ability Audit Template across all 20 Active Utilities — it ta
 
 ## P3-3. Save DR Calibration
 
-**Status:** `Not started`
+**Status:** `Complete`
+
+**Files modified:**
+- `player's_handbook/03_Classes.md` — Shadowmancer **Death from Below** (Level 17): TV cap changed from "TV ≤ 4" to "not Elite, Boss, or Legendary"
+- `GM_Guide/02_Encounter-Design.md` — Added §2.12 "Save DR Calibration" with player pass-probability table and recommended DR ranges by effect severity
+
+**Findings:**
+
+**DR range across the system: DR 1–4.** DR 5 is absent. The full DR map across all 8 classes and all Monster Manual Ch. 1 entries shows:
+- DR 1: Used only for trivial on-hit grapples and Bone-Pyre Skeleton's death burst
+- DR 2: Core reliable effects — Sangromancer Hemorrhage/Blood Puppet, Glyphwright Flame Sigil, Seal of Fire, standard monster Frightened/Bleeding triggers
+- DR 3: Universal mid-tier DR — the default for Status effects (Stun, Prone, Frightened, Dominate) from Level 3 through Level 20
+- DR 4: High-stakes/signature effects — Soul Reaver Banish (Level 5), Spirit Rend stun (Level 13), Shadowmancer Apotheosis (Level 20), Vampire Overlord Dominate (Boss)
+
+**Structural assessment: the system is consistent.** DR never scales with level, but the d6 pool grows slowly enough that:
+- DR 2 saves: 41–65% pass rate at the tier where they appear (mid-level enemies vs. early player abilities). Correctly calibrated for cheap, repeatable effects.
+- DR 3 saves: 4–32% pass rate against Standard enemies at the level abilities appear. Appropriately reliable against Standard monsters; gets slightly easier against Legendary-tier bosses (~43–53% pass at Will 7, 7–8d6), but remains meaningful because Legendary Resistance provides counterplay.
+- DR 4 saves: 1–17% pass rate even for Elite enemies. Correctly reserved for signature, high-cost, or once-per-encounter effects.
+
+**Issue found — Death from Below (FIXED):** Shadowmancer Level 17, 5 SE, instant-kill on fail. Old text: "Cannot target creatures with a Threat Value of 4 or higher." At Level 17, all level-appropriate enemies (Standard and above) have TV 15–19. The TV ≤ 4 cap meant this 5 SE Level 17 ability could only target the equivalent of Level 1 fodder — a dead ability in any meaningful encounter. Fixed to "Cannot target Elite, Boss, or Legendary creatures" — consistent with the Boss/Legendary immunity pattern used elsewhere in the class chapter (Phase Anchor, Phase Anchor Level 15 variant explicitly names this exception). This lets Death from Below function as intended — a costly, dramatic instant-removal of Standard-tier enemies — without allowing it to delete Boss fights.
+
+**Spot-checks passed:**
+- **DR 3 at Level 3 Madness Surge (Hylden Warlock):** Standard enemy Will 2 = 2d6 → 0% pass. Reliable, but costs 1 SE and inflicts Confused (1 round), not permanent. Acceptable.
+- **DR 2 on Sangromancer Hemorrhage/Blood Puppet (Level 1):** Enemies with Blood 0–1 = 0–1d6 → 0% pass. These are the Sangromancer's core early abilities; they should be reliable at low tier. At Level 10+, typical Boss Blood 3–4 = 3–4d6 → 11–26% pass vs DR 2. Correctly gets harder as enemies scale up.
+- **Passive Fear Auras (Terror Aura L15, Crimson Terror L15, Aura of Despair L14) all use DR 3:** Against Legendary entities with Will 7–8 = 7–8d6, DR 3 pass rate is 43–53%. GMs should expect passive fear auras to fail about half the time against Legendary enemies — this creates appropriate stakes without making auras useless.
+- **Death's Whisper (Dreadblade Level 9, DR 3 Blood, kills target below 10 HP):** Requires HP threshold AND melee reach AND a hit. The DR 3 save is nearly cosmetic — Standard enemies with Blood 2 = 2d6 → 0% pass. The real gatekeeping is the 10 HP threshold and positioning. Fine.
 
 ---
 
-## P3-5. Corruption Rate Audit
+## P3-4. Action Economy Comparison
+
+**Status:** `Not started`
 
 **Status:** `Not started`
 

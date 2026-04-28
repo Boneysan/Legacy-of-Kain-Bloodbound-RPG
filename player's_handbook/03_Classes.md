@@ -188,7 +188,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 15 | **Terror Aura** | Enemies that start their turn within 10 ft of you or enter that area for the first time on a turn must succeed on a DR 3 Will save or be Frightened until the start of their next turn. A creature that succeeds is immune to this aura until the end of the scene. | Passive |
 | 15 | *or* **Shadow Court** | Maintain up to 3 Doppelgangers simultaneously. One Bonus Action allows you to command all active Doppelgangers. Each additional or replacement Doppelganger costs 2 SE to summon. | Passive |
 | 16 | **Eclipse** | Create an area of magical darkness (300-foot radius) for up to 1 hour. Requires Concentration; if Concentration breaks, the darkness ends immediately. | Ritual, 10 SE, Concentration |
-| 17 | **Death from Below** | Pull target into Spectral Realm (DR 3 Soul save; killed on failure). Cannot target creatures with a Threat Value of 4 or higher, or any creature designated as a Boss or Legendary entity by the GM. | Action, 5 SE |
+| 17 | **Death from Below** | Pull target into Spectral Realm (DR 3 Soul save; killed on failure). Cannot target Elite, Boss, or Legendary creatures. | Action, 5 SE |
 | 18 | **Umbral Lord** | Regain 1 SE whenever you deal Entropic damage. | Passive |
 | 19 | **Eternal Night** | You operate as if in darkness even in sunlight. | Passive |
 | 20 | **Apotheosis of Shadow** | Transcend physical form — become an avatar of living darkness. Gain immunity to Physical damage, Blindsight 60 ft, and all shadow-based abilities cost 0 SE for 1 minute. Enemies that can see you must succeed on a DR 4 Will save or be Frightened. | Action, 1/long rest |
