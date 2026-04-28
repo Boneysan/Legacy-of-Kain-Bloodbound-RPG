@@ -32,3 +32,11 @@
 - If the party accepted the Wheel's hospitality fully in Vignette 02, Bale and the rite should target specific emotional vulnerabilities, favored losses, or preferred forms of relief rather than generic grief pressure.
 - If the scene should stay lighter, run it as a rescue from ritual quieting and only bring the Shades in when the rite is disrupted.
 - Let any civilian panic, confession, or witness collapse matter as much as tactical success.
+
+## Outcome
+
+**Success:** The rite is interrupted and at least one civilian or mourner recognizes the coercion for what it is. The Silent Mourner is neutralized or withdrawn. `wheel_exposure` holds or advances to `named`; the party carry a credible witness account of Wheel coercion into Session 3.
+
+**Partial (cost):** The rite is disrupted but the Mourner's narrative still reaches some attendees. Civilian panic complicates the political read; `wheel_exposure` advances but the room's emotional residue remains usable by the Wheel in later scenes. Session 3 opens with the Cult's ideological grip only partially broken.
+
+**Failure — fail-forward:** The rite completes under the party's attempted interruption. `wheel_exposure` advances to `named`. One resistant mourner survives and can be found again in Session 4 as a secondary witness. The Wheel's grip on this community is now demonstrated rather than assumed, and subsequent ideological pushback against the party carries more evidential weight.

@@ -7,6 +7,11 @@ Nosgoth is a land of layered casualties. It is not a world waiting for a savior,
 
 This is the account of the "Bearers"—those souls pulled from the caravan roads to Avernus to decide what answer Nosgoth imposes upon itself.
 
+## Chronicle Authority Note
+This chronicle is a narrative record template, not a procedural source of truth.
+
+For live branching play, Arc state trackers and detailed vignette consequence matrices are authoritative when outcomes differ from this text. After each campaign, revise this chronicle to match what the table actually chose.
+
 ---
 
 ## Part I: Awakening (The Sanguine Knot)

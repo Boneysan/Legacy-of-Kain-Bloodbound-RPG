@@ -43,10 +43,10 @@ The Chronoplast showed two futures. The party has been walking through Arc III c
 
 ## Decision Pressure
 
-- Choice A is the burdened continuity answer: preserve structure, accept sacrifice, and foreclose ownership.
-- Choice B is the dangerous honesty answer: say publicly that the old order is already broken and build terms for what comes next.
-- Choice C is intellectually defensible but politically costly: keep ambiguity and lose backing.
-- Choice D is not a fourth outcome. It is a way to force the party to name what kind of people they are before they choose.
+- Choice A is the burden carried forward: preserve what can be preserved, accept the sacrifice it demands, and refuse to become its owner.
+- Choice B is honesty declared in public: say plainly that the old order broke first, and build something on what the break has exposed rather than on what it buried.
+- Choice C holds both possibilities and pays for neither: it is honest as far as it goes, and it leaves the party walking into Convergence with no ground under their feet.
+- Choice D is not an escape. It is an invitation to name what the party actually are before the choice is made for them.
 
 ---
 
@@ -108,9 +108,9 @@ The Chronoplast showed two futures. The party has been walking through Arc III c
 
 > She looks up from her stacks. A long pause. *"The future you should act as though is real is the one you are still trying to reach. Not the one you fear, not the one you're making your peace with. The one that would require you to be better than you currently know how to be."* She sets down the document she was holding. *"I'm aware that's not operational guidance. It's the only honest answer I have left."*
 
-**After this, the party still must choose from A, B, or C.** But if they choose A or B immediately after Iriane's answer — if the answer moves them — the tag value gains a suffix: `party_operative_truth: balance-through-sacrifice (chosen under testimony)` or `party_operative_truth: hylden-reintegration (chosen under testimony)`. This has a small mechanical carry. In Arc IV Coalition Hall, Iriane will speak for them without being asked.
+**After this, the party still must choose from A, B, or C.** But if they choose A or B immediately after Iriane's answer — if the answer moves them — keep the same canonical value and annotate `party_operative_truth_note: chosen-under-testimony`. This has a small mechanical carry. In Arc IV Coalition Hall, Iriane will speak for them without being asked.
 
-**Tags:** `party_operative_truth: balance-through-sacrifice (chosen under testimony)` — if Choice A follows; `party_operative_truth: hylden-reintegration (chosen under testimony)` — if Choice B follows; `party_operative_truth: undecided` — if Choice C follows
+**Tags:** `party_operative_truth: balance-through-sacrifice` + `party_operative_truth_note: chosen-under-testimony` — if Choice A follows; `party_operative_truth: hylden-reintegration` + `party_operative_truth_note: chosen-under-testimony` — if Choice B follows; `party_operative_truth: undecided` — if Choice C follows
 
 ---
 
@@ -131,7 +131,7 @@ At the end of this scene, the Arc III state tracker should be finalized:
 | `chronoplast_access` | `full` — party operates on their chosen account; `partial` — party is still revising; `denied` (if Vignette 01 outcome) — party has only partial Chronoplast intelligence |
 | `chronal_shard_fate` | `recovered`, `destroyed`, `lost` — where the fragment is; modifies Heart assembly possibility in Arc IV |
 | `wheel_exposure` | `broken` — Wheel enters Arc IV as combatant, not philosophy; `named` — Wheel is publicly accused but not dismantled; `concealed` — Wheel appears in Arc IV with all prior infrastructure intact |
-| `party_operative_truth` | Freeform — Arc IV opens with the GM having this string and using it to anchor every faction's opening posture to the party. If the truth is committed and not ceded to one faction, the Kain contract begins `Open`; otherwise it starts `At Risk` or `Closed` |
+| `party_operative_truth` | Canonical enum — `balance-through-sacrifice`, `hylden-reintegration`, `undecided`, or `unresolved`; drives Arc IV opening pressure and Kain contract timing |
 | `betrayal_resolved` | `absorbed`/`severed`/`weaponized`/`unresolved` — determines Witness's Arc IV availability and behavior |
 
 ---

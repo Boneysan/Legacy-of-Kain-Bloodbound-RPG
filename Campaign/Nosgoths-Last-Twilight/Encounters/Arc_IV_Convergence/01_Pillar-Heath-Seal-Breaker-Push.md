@@ -42,3 +42,23 @@
 - Escalated mode: if you enable live reinforcements from the Dimension Lord or Rift-Priest, treat the front as a finale spike for level 18-20 parties or a heavily reinforced coalition and reduce pressure somewhere else in the overall endgame sequence.
 - The Troopers and Grunts create time pressure; the optional War-Stalker makes the front more military, while the optional Wraith makes it feel more metaphysically ruptured.
 - Tune visible instability or reinforcement pressure to match the endgame answer already chosen in the adjudication matrix.
+
+## Objective Track
+
+Track progress during play. Score 1 point per objective met.
+
+- [ ] **Obj 1:** Hold the operator zone for 4 rounds without losing the rite anchor, operator, or zone control.
+- [ ] **Obj 2:** Destroy both rift pylons.
+- [ ] **Obj 3:** Kill or route the Rift-Priest before breach geometry locks.
+
+**3/3 — Full success.** See **Outcome** block below.  
+**2/3 — Partial.** See **Outcome** block below.  
+**1/3 or 0/3 — Fail-forward.** See **Outcome** block below.
+
+## Outcome
+
+**Success (3/3):** The chosen ending executes fully. `heart_purpose` locks to the declared value; Hylden breach gains are contained or sealed. The Dimension Lord withdraws or is eliminated; the Pillar Heath front is no longer actively contested.
+
+**Partial (2/3):** The ending executes but at coalition cost. One pylon remains cycling or the operator zone was briefly lost. `heart_purpose` locks with a rider condition — note in `heart_purpose_note` what was compromised (e.g., "rite executed with one pylon still cycling," "operator wounded before completion").
+
+**Failure — fail-forward (1/3 or 0/3):** The Dimension Lord converts battlefield pressure into a breach gain; the party fall back. The chosen ending is still possible through `05_Last-Pursuit-or-Mercy-Scene.md` or a second push, but `heart_purpose` execution is delayed and under active opposition. Start Session 5 with the declared answer contested.

@@ -37,3 +37,11 @@
 - If this follows Encounters/Arc_III_Revelation/06_Curator-Thess-Pursuit.md, carry the same record case, query bundle, or wounded witness into the room. The confrontation should still be about what the chase preserved.
 - If combat is avoided, run the same scene as a collapsing rite of false remembrance that still costs the party a bond or alliance.
 - Reward corroboration, positioning, and emotional choices over raw DPR.
+
+## Outcome
+
+**Success:** The key witness survives and names the truth cleanly. The corrected record is secured and legible. `betrayal_resolved` advances to `absorbed` or `weaponized` as appropriate to the party's chosen approach; Session 5 opens with full evidentiary standing.
+
+**Partial (cost):** The truth is partially named but evidence is fragmented or contested. `betrayal_resolved` moves to `absorbed` with complications — the record may be secured without a live corroborating voice, or the witness's account is usable but publicly vulnerable and easily spun.
+
+**Failure — fail-forward:** Terrain or enemy pressure forces the party's hand before the naming completes. The corrected record survives in partial form but the witness is compromised. `betrayal_resolved` defaults to `severed`; Session 5 opens with only documentary proof and no live corroborating voice.

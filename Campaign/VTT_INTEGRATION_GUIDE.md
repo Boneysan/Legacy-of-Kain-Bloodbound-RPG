@@ -94,12 +94,42 @@ Every conversation (Vignette) follows a strict A/B/C/D branching logic that upda
 ## 4. Global State Tracking
 The campaign maintains continuity through named "State Tags." Your VTT should track these as global variables.
 
-### Key Variables
-- `serit_trust`: (low | guarded | earned) — Controls NPC ally behavior.
-- `sarafan_attention`: (integer) — Controls pursuit intensity.
-- `reliquary_status`: (sealed | examined | compromised | stolen) — Controls relic behavior.
-- `public_story`: (panic | secrecy | controlled_lie | open_truth) — Controls world-state reactivity.
-- `balance_reckoning`: (integer) — Tracks the "withdrawal of grace" from the world.
+### Arc I Variables
+- `serit_trust`: (`low` | `guarded` | `earned`) - controls early ally behavior.
+- `sarafan_attention`: (integer) - controls pursuit intensity and enforcement pressure.
+- `reliquary_status`: (`sealed` | `examined` | `compromised` | `stolen`) - controls first-fragment handling pressure.
+- `public_story`: (`panic` | `secrecy` | `controlled_lie` | `open_truth`) - controls rumor and faction framing.
+- `balance_reckoning`: (integer) - tracks withdrawal-of-grace pressure.
+
+### Arc II Variables
+- `fortress_claim`: (`recognized-claimant` | `neutral-brokered` | `contested`) - political legitimacy outcome from fortress struggle.
+- `iron_echo_status`: (`secured` | `contested` | `lost`) - command artifact control and pressure source.
+- `hylden_engagement`: (`suppressed` | `managed-contact` | `active-breach`) - Hylden conflict posture entering Arc III.
+- `sarafan_bloc`: (`legalist` | `split` | `purge-forward`) - Sarafan operating line and escalation tendency.
+- `ash_glass_reach`: (`contained` | `widening` | `entrenched`) - Fracture/Procession influence footprint.
+
+### Arc III Variables
+- `chronoplast_access`: (`denied` | `partial` | `full`) - level of trustworthy chronoplastic intelligence.
+- `chronal_shard_fate`: (`recovered` | `destroyed` | `lost` | `divided`) - shard custody and narrative leverage state.
+- `wheel_exposure`: (`concealed` | `named` | `broken`) - Wheel public and operational status.
+- `party_operative_truth`: (`balance-through-sacrifice` | `hylden-reintegration` | `undecided` | `unresolved`) - Arc IV opening posture and Kain-contract timing input.
+- `party_operative_truth_note` (optional string): provenance annotation such as `chosen-under-testimony`.
+- `betrayal_resolved`: (`unresolved` | `absorbed` | `severed` | `weaponized`) - betrayal continuity and coalition trust architecture.
+
+### Arc IV Variables
+- `coalition_shape`: process values during V01-V03 and assessment values after V04 (see Arc IV tracker table).
+- `black_fulcrum_status`: (`active` | `active-collective` | `partial` | `witness-anchored` | `dormant` | `cleared` | `conditional` | `unfounded`) - examination/recognition status and final-session backing.
+- `heart_purpose`: (`understood` interim in V04, then final `spent-for-balance` | `gate-opened-negotiated` | `foreclosed` | `withdrawn` in V05).
+- `heart_purpose_note` (optional string): final declaration phrasing or moral-frame annotation.
+- `hylden_gate_resolution`: (`sealed` | `displaced` | `open` | `negotiated` | `deferred` | `open-on-terms` | `reth-adjacent`).
+- `wheel_final_state`: (`active` | `broken` | `absorbed` | `transcended` | `reduced-surviving` | `opposing-surviving` | `default-surviving` | `contested`).
+
+## 5. Schema Authority Rules
+
+- Trackers and detailed vignette consequence matrices are procedural authority.
+- Story overviews and chronicles are narrative summaries and may lag behind active branch state.
+- Use canonical enum values exactly as written; place context in paired note fields rather than inventing new enum variants.
+- Intermediate values (for example `heart_purpose: understood`) must be overwritten by final declaration values when the vignette specifies finalization.
 
 ---
 

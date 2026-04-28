@@ -28,6 +28,9 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Revelation.
 	- A path to the Chronoplast emerges only after the party accept that information here must be weighed, not trusted.
 	- Someone or something in the opening site should confirm that the corrected northern breach record is real, but not in the form the party assumed.
 	- End the session when the party understand they are already inside manipulated history rather than merely approaching it.
+- Optional skill checks:
+	- Observation or Lore at DR 2: Establish what is impossible, what is planted, and what the party can still trust enough to act on. Success gives grounding for Session 2; failure means the party proceed on false footing and lose early leverage with the Accord chronologer.
+	- Insight at DR 2: Identify which NPC account contains deliberate omission rather than honest confusion. Success names the right object of suspicion before Session 3; failure builds false trust that costs a relationship in Session 4.
 - Faction moves:
 	- Cult of the Wheel: Begin with subtle control, not open attack. They want the party uncertain, tired, and receptive to inevitability.
 	- Pale Accord: Competing scholars or agents want chronal evidence secured before it can be contaminated further.
@@ -93,6 +96,10 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Revelation.
 	- The party gain proof that the Wheel's agenda is active, persuasive, and embedded in relief structures rather than only in hidden cult cells.
 	- Wheel Compliance Clock should likely advance to 1 or 2 depending on how much influence the cult retains.
 	- The party leave with a sharper ideological split about whether certainty is always a trap.
+- Optional skill checks:
+	- Insight at DR 2: Distinguish the Wheel's genuine emotional appeal from its manipulative framing. Success lets the party read which attendees can still be reached; failure leaves the tempted ally's position harder to track until Session 4.
+	- Concentration at DR 3: Resist the rite's grief-pressure cleanly enough to stay decisive in the room. Failure means the Wheel's offer remains live and costs at least one more scene before it closes.
+	- Persuasion at DR 3: Counter Bale's ideological logic in a way that holds for resistant mourners. Failure means the room exits the scene with the Wheel's narrative still dominant.
 - Prep notes:
 	- Let the cult's argument contain real emotional truth.
 	- Avoid cartoon villainy. The danger is that surrender sounds reasonable.
@@ -138,6 +145,9 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Revelation.
 	- The party obtain, partially contact, or lose immediate control of the Chronal Shard.
 	- At least one player-facing truth becomes suspect.
 	- Everyone leaves with a different account of what the machine showed.
+- Optional skill checks:
+	- Lore or Forbidden Knowledge at DR 2: Parse whether a contradiction the machine presents is manufactured bait or genuine historical rupture. Success gives the party a framework for what kind of proof object matters; failure means they enter direct contact without the ability to distinguish signal from manipulation.
+	- Observation at DR 3: Identify the Fracture's strategic positioning in the chamber before they have committed to their action. Success lets the party act first; failure means the Fracture act from a cleaner starting position when the Void-Touched enters.
 	- Decide which handoff state Session 4 inherits: hot pursuit, warm containment, or cold document recovery.
 	- If Thess ran, open Session 4 with Encounters/Arc_III_Revelation/06_Curator-Thess-Pursuit.md and carry one surviving proof object directly into the confrontation scene.
 - Prep notes:
@@ -183,6 +193,10 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Revelation.
 	- A PC may hear themselves deny a choice they have not made yet.
 - End-of-session fallout:
 	- The party know more clearly who manipulated what, but certainty about the future remains impossible.
+- Optional skill checks:
+	- Insight at DR 2: Read whether the betrayer or manipulated ally is protecting someone else rather than simply lying. Success opens the confessional window cleanly; failure means the party confront the wrong emotional weight first and the naming becomes an accusation rather than an admission.
+	- Observation or Tactics at DR 3: Hold coalition coherence while exposing the corrected northern breach record publicly. Success means the truth is heard as proof; failure means it emerges through panic and is easier for the Fracture or Wheel to spin.
+	- Intimidation or Persuasion at DR 3: Keep the key witness functional and prevent recantation under faction pressure. Success means the witness holds; failure means their account is usable but publicly vulnerable entering Arc IV.
 	- Endgame alliances begin hardening.
 	- At least one bond inside the party or with a major NPC is permanently altered.
 - Prep notes:

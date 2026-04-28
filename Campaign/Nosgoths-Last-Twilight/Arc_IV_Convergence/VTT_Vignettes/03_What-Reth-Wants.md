@@ -1,6 +1,6 @@
 # 03 — What Reth Wants
 
-By the time Ash-Glass Reth arrives with this question, the Procession is not small anymore. Every structure that failed in Arcs I and II recruited for it. The question Reth is asking is not whether the party will join — they know the answer to that — but whether the party will admit what they are trying to prevent, and whether what they're trying to prevent is actually distinguishable from what Reth is already doing in the parts of Nosgoth the party hasn't reached.
+By the time Ash-Glass Reth arrives with this question, the Procession is no longer small. Every structure that failed in Arcs I and II drew people toward it. The question Reth is asking is not whether the party will join — that answer was settled long before this meeting — but whether the party can name what they are trying to prevent, and whether what they are trying to prevent is truly a different thing from what Reth has already built in the parts of Nosgoth they have not seen.
 
 ## Control Links
 
@@ -30,7 +30,7 @@ By the time Ash-Glass Reth arrives with this question, the Procession is not sma
 
 ## Opening Narration
 
-> Reth chose the meeting point: the edge of the Heath where the Ash-Glass Procession's attendants set up three days ago and have not moved. The camp has the quality of somewhere people arrived in flight and stayed until it became structure. There are people here who were not making a political choice when the Procession found them — they were making the only available choice, which is what Reth will tell the party, and Reth is not wrong about that part. The Procession's three attendants maintain a comfortable distance without being instructed to. Reth has the manner of someone who has not been uncertain about anything for long enough that they have forgotten what certainty felt like from the outside.
+> Reth chose the meeting point: the edge of the Heath where the Ash-Glass Procession's attendants arrived three days ago and have not moved since. The camp carries the quality of a place people reached in flight and stayed in until flight became habit and habit became a kind of home. The people here were not, most of them, making a considered political choice when the Procession found them — they were making the only available choice, which is what Reth will tell the party, and Reth is not wrong about that part. The three attendants hold their distance without being told to. Reth has the bearing of someone who has not been uncertain about anything for long enough that they have forgotten what uncertainty felt like from the outside of it.
 
 ---
 
@@ -42,10 +42,10 @@ By the time Ash-Glass Reth arrives with this question, the Procession is not sma
 
 ## Decision Pressure
 
-- Choice A should feel like defending structure in front of the people structure failed.
-- Choice B should feel morally right only if the mechanism is real.
-- Choice C should feel like taking Reth seriously enough to let them change the argument.
-- Choice D should feel like naming the blood cost without pretending the party are free of one.
+- Choice A should feel like defending a structure in front of the people it has already failed.
+- Choice B should carry weight only if the mechanism is real; a promise offered without architecture is not a seat.
+- Choice C should feel like taking Reth seriously enough to let the argument move rather than merely blocking it.
+- Choice D should feel like putting the blood cost plainly on the table — without pretending the party have clean hands to offer alongside it.
 
 ---
 

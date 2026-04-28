@@ -36,3 +36,11 @@
 - The Shades punish exhaustion, hesitation, and split routes rather than front-line tanks.
 - Add the second Wraith only if Session 1 needs to carry a fuller combat budget.
 - If you want a sadder tone, replace the Wraith with a Silent Mourner and make the encounter about burden rather than predation.
+
+## Outcome
+
+**Success:** The party retreat in good order with the contradiction-bearing witness intact and at least one legible evidence trail preserved for Session 2. The Shades and Wraith are neutralized or evaded; the correct sequence-path is found before the hostile loop closes.
+
+**Partial (cost):** Retreat succeeds but the witness is temporarily separated, wounded, or one looping route is cut off. The party enter Session 2 without full custodial clarity; note which piece of evidence is degraded or contested so Session 2 can open with that pressure already visible.
+
+**Failure — fail-forward:** The party scatter under loop pressure; the witness is temporarily loop-locked or separated. Session 2 opens from a compromised position with less sequential confidence. The Mirror Wraith holds route control until countered at the Chronoplast — use that as a concrete Session 2 pressure opener rather than resetting the scene.

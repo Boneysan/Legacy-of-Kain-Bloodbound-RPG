@@ -29,3 +29,11 @@
 - The Abyss package is best when the ending tore open the wrong kind of space and needs one final metaphysical consequence.
 - Keep the scene narrow and personal even if the characters are still powerful enough for a larger fight.
 - If combat is unnecessary, run this as a mercy killing, escape corridor, or final witness-protection scene and keep the same stakes.
+
+## Outcome
+
+**Success:** The scene closes on the party's chosen terms — pursuit ends in capture or death, mercy is granted and accepted, or sacrifice is made and witnessed. The campaign's final state settles with no threads that undermine the endgame's emotional closure.
+
+**Partial (cost):** The closing is reached but at personal cost — one PC is exposed or marked, an escort falls protecting the outcome, or the antagonist escapes the scene but not the consequences of the endgame. The ending still holds; the cost is carried forward into the epilogue, not into another encounter.
+
+**Failure — fail-forward:** The antagonist escapes or the sacrifice fails to complete. The campaign's ending still settles — the new state of Nosgoth does not reverse — but one unresolved thread passes explicitly into the epilogue. Ask the players to name what was left undone and narrate how the world carries that absence forward.

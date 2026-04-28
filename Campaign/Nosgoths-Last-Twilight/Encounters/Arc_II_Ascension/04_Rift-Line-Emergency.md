@@ -60,3 +60,17 @@
 - Add the War-Stalker for the level 9-10 version or when you want the front to feel more like a field assault than a ritual defense.
 - If Ash-Glass Procession converts are nearby, treat visible failure as Fracture propaganda and log it in the tracker.
 - If the party earn the redirect option, make it mechanically and narratively concrete. It should never feel like the same encounter with different flavor text.
+
+## Objective Track
+
+Track progress during play. Score 1 point per objective met.
+
+- [ ] **Obj 1:** Eliminate the Rift-Priest before the start of Round 3, OR complete 3 successful stabilization actions at the breach node.
+- [ ] **Obj 2:** Node outcome matches the party's declared intent — seal, redirect, or deny — without being overridden by Trooper pressure or uncontrolled collapse.
+- [ ] **Obj 3:** Party exits with at least one operative capable of carrying the scene's evidence or breach record forward.
+
+**3/3 — Full success:** Node crisis resolved cleanly on party terms; breach record is unambiguous and carries full evidential weight into Arc III.
+
+**2/3 — Partial:** Crisis resolved but one objective compromised — note which condition was missed and how that degrades the breach record or `hylden_engagement` state for downstream scenes.
+
+**1/3 or 0/3 — Fail-forward:** Primary control failed; breach outcome is contested or hostile. Record survives in degraded form. Use the failure state to raise the political cost of the corrected northern breach record — the party now have evidence, but the evidence itself is easier to dispute.

@@ -54,3 +54,23 @@
 - Do not end on a corpse unless you want Arc III to become strictly documentary. The richer result is live capture, partial escape, or evidence seized at a cost.
 - If the party catch Thess quickly, the real reward is live explanation and clean custody of the records. Move straight into Vignette 04 or Encounters/Arc_III_Revelation/04_Corridor-of-Contradictions.md once the chase resolves.
 - If you need a heavier combat, add the Mirror Wraith as the archive's unstable memory made hostile, but only if the scene still preserves movement.
+
+## Objective Track
+
+Track progress during play. Score 1 point per objective met.
+
+- [ ] **Obj 1:** Catch Curator Thess alive.
+- [ ] **Obj 2:** Secure the record case intact — not burned, misfiled, or split beyond recovery.
+- [ ] **Obj 3:** Preserve at least one confirming detail beyond the record case (archive route, secondary copy, or testimony fragment).
+
+**3/3 — Full success.** See **Outcome** block below.  
+**2/3 — Partial.** See **Outcome** block below.  
+**1/3 or 0/3 — Fail-forward.** See **Outcome** block below.
+
+## Outcome
+
+**Success (3/3):** Thess is caught alive with the record case; the party control both witness and proof. Session 4 opens with full custodial advantage. `betrayal_resolved` can reach any value, including `weaponized` if the party use live testimony aggressively.
+
+**Partial (2/3):** Proof secured without Thess, or Thess caught but records only partially intact. One confirming detail is degraded, reframed, or separated from its most authoritative interpreter. `betrayal_resolved` can reach `absorbed` or `severed` but not easily `weaponized`.
+
+**Failure — fail-forward (1/3 or 0/3):** Thess escapes; the record case is partially burned or scattered. At least one fragment survives in party hands — carry it physically into Session 4 as the proof object. `betrayal_resolved` can only reach `severed` (documentary) or `absorbed` (incomplete); live testimony is off the table.

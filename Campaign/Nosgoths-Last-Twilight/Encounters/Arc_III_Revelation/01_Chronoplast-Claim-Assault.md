@@ -59,3 +59,23 @@
 - Escalated mode: enable Merge Protocol and other live reinforcements only for level 13-15 parties or when the party has unusually strong allied support. In that mode, treat the encounter as a materially heavier fight than the listed baseline.
 - For higher-level parties, either add the extra Walker or an active dimensional seam dealing 1 Spectral damage at the start of each turn to non-phased creatures on exposed catwalks, but avoid stacking every escalation at once unless you want a near-deadly set-piece.
 - If `wheel_exposure: broken`, the Fracture are fighting over public proof and narrative advantage, not only loot. Make their dialogue and retreat choices reflect that.
+
+## Objective Track
+
+Track progress during play. Score 1 point per objective met.
+
+- [ ] **Obj 1:** Secure one usable witness, contradiction, or archive key and keep it in party hands at scene end.
+- [ ] **Obj 2:** Prevent the Fracture from exiting with clean narrative proof ("the future is already broken" does not become public fact).
+- [ ] **Obj 3:** Exit the encounter with the party in good order — no PC stranded in a contested zone when the scene ends.
+
+**3/3 — Full success.** See **Outcome** block below.  
+**2/3 — Partial.** See **Outcome** block below.  
+**1/3 or 0/3 — Fail-forward.** See **Outcome** block below.
+
+## Outcome
+
+**Success (3/3):** The party secure a usable contradiction, archive key, or witness while the Fracture withdraw empty-handed. `chronal_shard_fate` resolves to the party's chosen state. `party_operative_truth` is ready to lock if not already fixed; the Kain contract evaluation window opens.
+
+**Partial (2/3):** The Fracture retreat but carry minor spectacle material, or the party's objective is secured with one carrier compromised or wounded. Advance to `05_Chronoplast-Exit-Fight.md` under moderate pressure; `party_operative_truth` holds but its public credibility is in question.
+
+**Failure — fail-forward (1/3 or 0/3):** The Fracture escape with a workable proof-spectacle. The party hold the room but lose narrative control. Hand off to `05_Chronoplast-Exit-Fight.md` immediately under pursuit pressure. `wheel_exposure` advances one step; `party_operative_truth` remains `undecided` unless previously locked, and the Kain contract window narrows.

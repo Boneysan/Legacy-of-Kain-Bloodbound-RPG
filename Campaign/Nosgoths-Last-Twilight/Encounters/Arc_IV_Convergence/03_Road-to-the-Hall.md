@@ -41,3 +41,11 @@
 - The metaphysical version should feel like punishment and exposure; the physical version should feel like hostile testing of the line.
 - Reinforce only if the road itself is meant to be a full confrontation.
 - Log which prior choices the Hall exposes here, because those should matter again in the Black Fulcrum chamber.
+
+## Outcome
+
+**Success:** The party reach the Hall of Equilibrium with the required ally, guide, or rite-component intact. Coalition cohesion holds. `black_fulcrum_status` can advance to its next state and Session 3 opens under the Hall's full recognition.
+
+**Partial (cost):** The party reach the Hall but the escort is wounded or a coalition element is compromised in transit. `black_fulcrum_status` becomes `conditional` entering Session 3; the Hall's recognition is guarded rather than full, and prior omissions will be tested more visibly in the chamber.
+
+**Failure — fail-forward:** The party reach the Hall but the escort is incapacitated or separated. `black_fulcrum_status` becomes `unfounded` entering Session 3. The Hall responds without institutional confirmation; every answer the party gives becomes harder to defend and the opposition has more room to contest legitimacy.

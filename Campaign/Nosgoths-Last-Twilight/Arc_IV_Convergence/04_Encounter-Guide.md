@@ -17,6 +17,7 @@ Companion docs:
 - Primary encounter: Use Encounters/Arc_IV_Convergence/02_Endgame-Parley-Break.md.
 - Recommended lineup: Choose the faction that is trying to make negotiation impossible first.
 - Scene weight: Secondary pressure scene by default.
+- Reaction Budget: 1 per PC per round.
 - Sarafan break package: 1 Sarafan Inquisitor, 2 Sarafan Footsoldiers, and 1 Sarafan Outrider striking at a witness, relic courier, or suspect PC.
 - Fracture break package: 2 Fracture Zealots and 1 Fracture Dimension-Walker trying to turn the parley into proof that coexistence is a lie.
 - Core objective: Make the opening alliance map cost blood, trust, or political capital immediately.
@@ -29,6 +30,7 @@ Companion docs:
 - Primary encounter: Use Encounters/Arc_IV_Convergence/03_Road-to-the-Hall.md.
 - Recommended lineup: 1 Silent Mourner and 2 Soul-Eater Shades if the route should feel like metaphysical punishment, or 1 Hylden War-Stalker and 2 Hylden-Possessed Grunts if it should feel like an enemy bloc testing the line physically.
 - Scene weight: Secondary route-pressure scene, not a standalone endgame battle.
+- Reaction Budget: 1 per PC per round.
 - Core objective: Protect the person, rite, or coalition element needed to reach the Hall rather than simply clearing the path.
 - Terrain notes: Oath-responsive ground, disappearing routes, mirrored dilemmas, and exposure to prior campaign choices.
 - Package selection: `coalition_shape: recognized` with active Hall standing should favor the physical package testing the line rather than legitimacy. `conditionally-recognized` should favor the metaphysical package, where the path itself judges prior choices. If the coalition is `witness-anchored`, make the current Last Witness a protectable route objective rather than background scenery.
@@ -41,6 +43,7 @@ Companion docs:
 - Primary encounter: Use Encounters/Arc_IV_Convergence/04_Black-Fulcrum-Chamber-Crisis.md.
 - Recommended lineup: Build around the bloc most threatened by the party's likely choice.
 - Scene weight: Chamber-pressure scene by default; reinforce only if the campaign's main clash happens before Session 4.
+- Reaction Budget: 1 per PC per round.
 - Wheel pressure package: 1 Silent Mourner and 2 Soul-Eater Shades complicating action through despair and attrition.
 - Hylden pressure package: 1 Hylden Rift-Priest and 2 Hylden Shock Troopers trying to force immediate activation or collapse.
 - Fracture pressure package: 1 Fracture Void-Touched and 2 Fracture Zealots trying to turn indecision into rupture.
@@ -55,6 +58,7 @@ Companion docs:
 - Primary encounter: Use Encounters/Arc_IV_Convergence/01_Pillar-Heath-Seal-Breaker-Push.md.
 - Recommended lineup: 1 Hylden Dimension Lord, 1 Hylden Rift-Priest, 2 Hylden Shock Troopers, and 4 Hylden-Possessed Grunts, with an optional Hylden War-Stalker or Wraith of the Abyss for the heavier version.
 - Core objective: Keep the chosen ending executable under battlefield pressure.
+- Reaction Budget: 1 per PC per round. Hylden Dimension Lord Dimensional Tether and Rift-Priest channeling both create Reaction pressure simultaneously — each PC’s single Reaction is a meaningful resource here.
 - Heart-purpose guidance: `spent-for-balance` should center on holding the operator zone to complete a Pillar-aligned rite. `gate-opened-negotiated` should shift the objective toward managing a controlled passage rather than simply sealing it. `foreclosed` should make denial and pylon destruction the primary objective. Hylden opposition intensity should scale inversely with how cooperative the gate resolution is.
 
 ## Session 5: Last Pursuit Or Mercy Scene
@@ -63,6 +67,7 @@ Companion docs:
 - Primary encounter: Use Encounters/Arc_IV_Convergence/05_Last-Pursuit-or-Mercy-Scene.md.
 - Recommended lineup: Keep it narrow and personal.
 - Scene weight: Consequence scene, not a replacement for the campaign's main finale.
+- Reaction Budget: 1 per PC per round.
 - Hunt package: 1 surviving major antagonist with 1-2 escorts appropriate to their bloc.
 - Abyss package: 1 Wraith of the Abyss appearing because the ending tore open the wrong kind of space at the last moment.
 - Core objective: Close on sacrifice, pursuit, execution, or escape rather than another full battle.

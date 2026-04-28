@@ -73,11 +73,18 @@ Tracks whether the Cult of the Wheel's true agenda has been made public or polit
 ### `party_operative_truth`
 The single most important Arc III tag: which mutually exclusive future did the party treat as *real* — the one they acted on?
 
-> This tag does not use preset values. Write a brief sentence describing what the party believes is true about the Heart's purpose, which future they will act on, and whether the corrected northern breach record is being treated as public truth, contained evidence, or a weaponized accusation. This becomes the frame for every Arc IV decision.
+| Value | Meaning |
+|-------|---------|
+| `balance-through-sacrifice` | The party commits to continuity through costly stabilization and refuses ownership as the campaign's primary answer |
+| `hylden-reintegration` | The party commits to negotiated Hylden return on explicit terms as the campaign's primary answer |
+| `undecided` | The party carries competing accounts into Arc IV and accepts structural weakness in coalition formation |
+| `unresolved` | No commitment was made before Arc III closed; treat as `undecided` for routing, but with delayed support timing |
 
-**Party's operative truth entering Arc IV:**
+**Current value:** ___
 
-___
+**Optional note (`party_operative_truth_note`):** Use for provenance or context such as `chosen-under-testimony`, record strategy, or intended disclosure scope.
+
+**Notes:** ___
 
 ---
 
@@ -128,6 +135,7 @@ Tracks how Arc III's internal betrayal resolved around the corrected northern br
 - `chronal_shard_fate` entering Arc IV: ___
 - `wheel_exposure` entering Arc IV: ___
 - `party_operative_truth` entering Arc IV: ___
+- `party_operative_truth_note` entering Arc IV (optional): ___
 - `betrayal_resolved` entering Arc IV: ___
 - Hylden engagement level entering Arc IV (from Arc II): ___
 - Surviving coalition partners: ___

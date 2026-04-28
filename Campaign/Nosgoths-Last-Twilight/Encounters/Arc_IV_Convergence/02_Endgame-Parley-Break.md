@@ -41,3 +41,11 @@
 - The target should be a witness, relic courier, or symbolically important ally, not the sturdiest PC by default.
 - Reinforce only if Session 1 must carry a full combat load.
 - Even if the party win fast, let the political cost land before the scene ends.
+
+## Outcome
+
+**Success:** The parley survives; no irreversible faction war breaks out. The party's preferred coalition lines hold and `coalition_shape` advances toward its cleaner value. Session 2 opens with the alliance map largely intact.
+
+**Partial (cost):** The parley survives but at political cost — one coalition member defects, a witness or relic courier is killed, or `coalition_shape` downgrades one step. Political capital spent here cannot be recovered before the Hall; Session 2 opens with one fewer reliable ally.
+
+**Failure — fail-forward:** The parley breaks into open faction conflict. `coalition_shape` becomes `internally-fractured-but-functioning`. Session 2 begins with one bloc now actively hostile and one fewer trusted envoy available for the road to the Hall of Equilibrium.

@@ -35,3 +35,11 @@
 - Add the Mirror Wraith only if the exit itself is carrying the session's main combat weight.
 - Let exhaustion, falling routes, and collapsing futures do as much work as the roster.
 - End on a committed direction toward Arc IV, not on a fully resolved ideological victory.
+
+## Outcome
+
+**Success:** The party exit cleanly with their chosen leverage, witness, or version of the truth intact. Arc IV opens with `party_operative_truth` locked and available for Kain contract evaluation. The opposing bloc is unable to define the arc's final meaning.
+
+**Partial (cost):** The party exit but one piece of leverage is compromised, lost, or now known to the enemy bloc. `party_operative_truth` locks but its public legitimacy is weakened — Arc IV begins with one faction holding a counter-narrative they can actively exploit.
+
+**Failure — fail-forward:** Messy exit; chosen leverage is damaged or publicly disputed. Arc IV opens with `party_operative_truth` contested rather than confirmed. The coalition starts Convergence under reputational pressure the Fracture or Wheel can use. The Kain contract window is narrow; the party must act with less institutional backing.

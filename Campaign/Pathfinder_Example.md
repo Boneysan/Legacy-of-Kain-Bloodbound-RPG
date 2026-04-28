@@ -1,3 +1,7 @@
+﻿> **ARCHIVED — Non-canonical reference material.** This file is a Pathfinder adventure excerpt retained for historical context only. It is not part of the Legacy of Kain: Bloodbound campaign and should be excluded from all active prep searches and indexing. See `Nosgoths-Last-Twilight/` for current campaign materials.
+
+---
+
 Printed in China
 PZO!"#$
 Pathfinder Module

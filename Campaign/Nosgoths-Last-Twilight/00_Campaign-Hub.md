@@ -5,6 +5,7 @@ This folder breaks the campaign into usable GM support files.
 ## Structure
 
 - 01_Design-Review-Notes.md: Lore and arc-structure improvement notes for future campaign revisions.
+- 08_Improvement-Implementation-Checklist.md: Master checklist for implementing and tracking campaign improvements.
 - 05_Skill-Check-Recommendations.md: Suggested places to formalize scene-facing skill checks and DRs across all four arcs.
 - 06_GM-Story-Overview.md: One-document campaign narrative spine for the GM, including arc-level choices and consequences.
 - 02_Vignette-Control-Index.md: One-page links to each arc's vignette flow matrix and any detailed choice-consequence matrix.
@@ -33,6 +34,11 @@ Arc I, Arc II, Arc III, and Arc IV also include detailed vignette consequence ma
 6. Update the relevant relic file the first time the party interacts with that fragment.
 7. Move unresolved consequences forward into the next arc before starting prep.
 8. Before starting the next arc, record the current Last Witness bearer, the Kain contract state, and any visible Balance Reckoning fallout.
+   **Last Witness Arc-Close Handoff.** At the close of each arc, confirm three things about the current Last Witness before entering the next:
+   - **Who they are:** Name and role. Not a category — a specific person who has spoken a fragment's cost in plain terms at least once.
+   - **What they witnessed:** The specific cost they can testify to. Not a faction position or a political outcome — a witnessed harm, a personal account that cannot be abstracted without losing its truth.
+   - **What they fear forward:** What the Witness is now afraid will happen next. This is the thread the GM carries into the new arc as the human pressure behind all the structural consequences. If the Witness cannot name a forward fear, they are not yet carrying the role — they are only adjacent to it.
+   Record this as a three-line entry in the Continuity Trackers section below before closing arc prep.
 
 ## Current Fragment Order
 

@@ -38,6 +38,9 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 	- The Black Fulcrum is not yet directly accessible, but the assembled fragments begin reacting to one another.
 	- Every prior fragment decision should echo here through dreams, omen, resonance, or faction leverage.
 	- The party should feel that the campaign itself is being weighed.
+- Optional skill checks:
+	- Observation or Insight at DR 2: Identify which bloc is genuinely bluffing versus strategically withholding during the opening Heath parley. Success lets the party commit to an alliance with actual terms; failure means they accept conditions they don’t understand until Session 2.
+	- Tactics at DR 3: Read which faction is already negotiating past the party toward a post-party outcome. Success names the threat before Session 2; failure means the GM must improvise hidden coalition math that should have been visible here.
 	- Make explicit before Session 3 that the endgame is not only who rules Nosgoth, but whether the Heart is spent against the Wheel, spent stabilizing breach logic, or forced into a ruinous compromise between the two.
 - Mandatory NPCs:
 	- Kain, if the contract is open, or a clear Kain-aligned proxy if it is not
@@ -58,6 +61,9 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 	- At least one faction is now locked out of persuasion and moves to force.
 	- Mark Kain contract as still Open, now At Risk, or Closed based on whether the coalition is already collapsing into one faction's ownership.
 	- The final road to the Hall of Equilibrium is identified or contested.
+- Optional skill checks:
+	- Insight at DR 2: Catch which envoy is bluffing their commitment to the coalition before the alliance map hardens. Success gives the party advance warning before Session 2; failure means one apparent ally acts as a hostile when the road becomes a test.
+	- Observation at DR 2: Identify the Sarafan or Fracture operative positioned to strike during the parley. Success lets the party act before the Parley Break encounter becomes an ambush; failure means the break hits from a cleaner position.
 - Prep notes:
 	- List every surviving faction before play and decide what each wants in one sentence.
 	- Make every alliance cost something tangible.
@@ -102,10 +108,32 @@ Use this file as a rolling prep sheet for Sessions 1-5 of Convergence.
 	- The final coalition is now visible to everyone.
 	- One ally may be lost, exposed, or morally compromised on the road.
 	- The Black Fulcrum is now in reach, and no side can pretend ignorance anymore.
+- Optional skill checks:
+	- Concentration at DR 3: Keep the coalition coherent under the Hall’s direct judgment — which includes prior omissions, incomplete accountability, and unclosed questions from Arcs I-III. Failure means allied wavering and route difficulty become less predictable in Session 3.
+	- Insight or Persuasion at DR 3: Hold a wavering ally to their stated commitment when the Hall’s judgment targets their prior compromise. Success preserves the coalition shape entering the chamber; failure downgrades `coalition_shape` one step.
+	- Observation at DR 4: Read the Hall’s legitimacy test as it is happening and respond to what it is actually asking rather than what the party assumed it would ask. Success lets the party shape the chamber’s recognition; failure means the Hall tests without guidance and the party defend a position they did not intend to stake.
 - Prep notes:
 	- Treat the Hall as a judge, not a dungeon.
 	- Force at least one coalition-breaking conversation.
 	- Make movement through the Heath feel like a test of worldview.
+
+## Between Session 2 and Session 3 — Optional Decompression Beat
+
+Before the Hall declares its final test, there is one moment the campaign almost never allows: a window where nothing is yet decided and the consequences of everything are already visible.
+
+Use this beat if the party need to inhabit what they have committed to before the Fulcrum demands they prove it. Keep it short — one scene, one-on-one or in small pairs, no faction envoys, no judgment structure. The Hall can wait an hour.
+
+**Suggested forms:**
+- A PC who has been carrying the Last Witness role says, plainly, what they have seen — not as strategy, but as testimony to someone who will survive to remember it.
+- Two PCs who have disagreed about the operative truth throughout Arcs III and IV speak plainly about what they are each afraid of losing.
+- A party member revisits a choice from Arc I or II that now feels irreversible — not to relitigate it, but to grieve it with enough room to still walk into the Hall afterward.
+- Someone names the specific dead they are doing this for, in front of at least one other person who can hold the account.
+
+**GM guidance:** The decompression beat is not a chance to change the coalition or the operative truth. Those are locked. This is a chance for the table to understand that the people entering the Hall have already paid something, and that the cost is not abstract. Run this as a quiet scene, lit differently from the road. Let it be uncomfortably honest. Silence is acceptable. Resolution is not required. Commitment already was.
+
+**Tag note:** No mechanical tags are generated here. If Iriane Quell is still present and `party_operative_truth_note: chosen-under-testimony` is active, she may speak during this beat rather than waiting for the Hall. It costs nothing and pays the table forward.
+
+---
 
 ## Session 3
 

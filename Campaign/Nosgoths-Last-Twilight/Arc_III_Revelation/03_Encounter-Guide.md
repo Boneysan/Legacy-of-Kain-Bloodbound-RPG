@@ -17,6 +17,7 @@ Companion docs:
 - Primary encounter: Use Encounters/Arc_III_Revelation/02_Time-Loop-Skirmish.md.
 - Recommended lineup: 1 Mirror Wraith and 2 Soul-Eater Shades.
 - Scene weight: Secondary pressure scene by default, not the arc's main battle budget.
+- Reaction Budget: 1 per PC per round. Mirror Wraith phase-shifts can force simultaneous Reaction decisions — note which PCs have spent before the Wraith repositions.
 - Core objective: Force the party to retreat, regroup, or protect a witness while sequence itself stops behaving correctly.
 - Terrain notes: Repeating corridors, duplicate tracks, and one route that only exists in the wrong order.
 - Tone guidance: Choice A should foreground investigation. Choice B should foreground duplicate movement and route unreliability. Choice C should stay lighter on answers and heavier on withheld certainty.
@@ -29,6 +30,7 @@ Companion docs:
 - Primary encounter: Use Encounters/Arc_III_Revelation/03_Burial-Rite-Interruption.md.
 - Recommended lineup: 1 Silent Mourner bound into the rite and 2 Soul-Eater Shades feeding on the settlement's surrender logic from the edges of the scene.
 - Scene weight: Social confrontation and pressure scene first, combat second.
+- Reaction Budget: 1 per PC per round.
 - Core objective: Expose whether the calm is chosen, coerced, or metaphysically enforced without reducing the Wheel's appeal to cartoon evil.
 - Terrain notes: Ritual circles, confession alcoves, controlled candlelight, and civilians whose panic will change the politics of the room.
 - Wheel-awareness note: If `wheel_exposure` is `named` or `broken`, frame the rite as a deliberate ideological staging ground rather than a surprise pastoral trap. If the cult already has personal relief data on the party, let Bale and the rite target specific emotional vulnerabilities rather than generic grief.
@@ -40,6 +42,7 @@ Companion docs:
 - Primary location: Mirrored galleries and contradiction archives inside the Chronoplast.
 - Primary encounter: Use Encounters/Arc_III_Revelation/01_Chronoplast-Claim-Assault.md.
 - Recommended lineup: 1 Fracture Void-Touched, 2 Fracture Dimension-Walkers, and 2 Fracture Zealots.
+- Reaction Budget: 1 per PC per round. Dimension-Walkers can force multi-front pressure that creates Reaction competition between offensive and defensive options.
 - Core objective: Protect meaning, witness, and the corrected northern breach record from becoming Fracture propaganda.
 - Approach framing: Viewing both futures should make the Shard a live scramble objective. Seeing manipulation first should usually hand off to Encounters/Arc_III_Revelation/06_Curator-Thess-Pursuit.md; keep 01_Chronoplast-Claim-Assault.md only if the fight stays chamber-centered. Touching the Shard first should make the touched PC a protection objective. Refusing the machine's authority should reframe the scene around scattered notes and records rather than one artifact.
 - Continuity note: Under the sequel pass, one of the machine's displayed futures should be the wrong-handed Reaver-shaped outcome the party may later commit to or reject.
@@ -50,6 +53,7 @@ Companion docs:
 - Primary encounter: Use Encounters/Arc_III_Revelation/04_Corridor-of-Contradictions.md.
 - Recommended lineup: 1 Mirror Wraith, 1 Fracture Dimension-Walker, and one manipulated witness or betrayer whose position matters more than their damage output.
 - Scene weight: Story confrontation first; use terrain instability and witness pressure to do as much work as the stat blocks.
+- Reaction Budget: 1 per PC per round.
 - Core objective: Protect the witness carrying the corrected northern breach record or expose the lie around it while terrain states, memory states, and faction agendas conflict openly.
 - Terrain notes: Duplicate doors, phased cover, and history scars that change which path, ally, or enemy is currently real.
 - Pursuit handoff: If Thess, the Witness, or the last missing record is still moving when Vignette 04 begins, start with Encounters/Arc_III_Revelation/06_Curator-Thess-Pursuit.md and let 04_Corridor-of-Contradictions.md resolve the testimony, custody, or accusation afterward.
@@ -62,6 +66,7 @@ Companion docs:
 - Primary encounter: Use Encounters/Arc_III_Revelation/05_Chronoplast-Exit-Fight.md.
 - Recommended lineup: Choose the bloc that best represents who is trying to define the arc's ending.
 - Scene weight: Secondary pressure scene by default unless you deliberately make the escape itself the session's main fight.
+- Reaction Budget: 1 per PC per round.
 - Fracture package: 2 Fracture Zealots and 1 Fracture Dimension-Walker trying to seize the spectacle of collapse.
 - Wheel package: 2 Soul-Eater Shades and 1 Silent Mourner or Wheel-bound spectral echo enforcing surrender through fear and exhaustion.
 - Core objective: End Arc III on commitment and leverage, not simple victory over a final health pool.

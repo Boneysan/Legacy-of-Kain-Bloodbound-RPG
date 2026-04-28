@@ -41,3 +41,23 @@
 - Baseline mode: keep the chosen package fixed and use the chamber itself as the real escalation engine.
 - Reinforced mode: add the extra Shock Trooper or fold this directly into the Pillar Heath set-piece only if Session 3 is carrying the arc's main battle.
 - Make every voiced answer change the room slightly so the choice feels mechanically present before it is final.
+
+## Objective Track
+
+Track progress during play. Score 1 point per objective met.
+
+- [ ] **Obj 1:** Hold chamber control through hostile pressure — the enemy does not hold the room when the party's answer is declared.
+- [ ] **Obj 2:** Declare the `heart_purpose` answer under hostile pressure before the threatened bloc forces collapse, surrender, or rupture.
+- [ ] **Obj 3:** Keep the current Last Witness legible, unharmed, and in the party's custody at scene end.
+
+**3/3 — Full success.** See **Outcome** block below.  
+**2/3 — Partial.** See **Outcome** block below.  
+**1/3 or 0/3 — Fail-forward.** See **Outcome** block below.
+
+## Outcome
+
+**Success (3/3):** The answer is committed cleanly with witnesses intact. `heart_purpose` locks to the declared value. Session 4 begins with the declared answer already confirmed and the coalition at highest available coherence.
+
+**Partial (2/3):** The answer is committed but the opposition forced a concession. `heart_purpose` locks with a rider condition — note in `heart_purpose_note` what was compromised (e.g., "declared under Rift-Priest channeling," "Last Witness threatened before answer"). Session 4 begins with the answer in place but its legitimacy under active challenge.
+
+**Failure — fail-forward (1/3 or 0/3):** Chamber control temporarily lost; the party declare under pressure with witnesses compromised. `heart_purpose` still locks but `black_fulcrum_status` becomes `unfounded`. Session 4 begins with the declared answer openly contested and coalition cohesion under visible strain.

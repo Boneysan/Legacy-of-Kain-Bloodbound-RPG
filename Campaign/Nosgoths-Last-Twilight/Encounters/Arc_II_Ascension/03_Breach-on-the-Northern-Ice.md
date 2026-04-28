@@ -59,3 +59,17 @@
 - If the party solve the node problem intelligently, let that matter more than killing both Troopers.
 - If `hylden_engagement: negotiated`, the redirect objective is real and legible. If it is `none`, do not quietly leave the same option on the table.
 - For catastrophe mode, add reinforcement pressure or environmental collapse at the end of each round rather than inflating enemy HP.
+
+## Objective Track
+
+Track progress during play. Score 1 point per objective met. Objective 1 is always the Choice-specific success condition active for this session; consult **State-Conditional Objectives** above.
+
+- [ ] **Obj 1:** Choice-specific success condition met (seal stabilized, redirect anchored, Ember destroyed, or retreat corridor held — per active Choice variant).
+- [ ] **Obj 2:** At least one proof-bearing account, witness, or breach record exits the scene in the party's hands.
+- [ ] **Obj 3:** At least half the group exits in functional condition with a usable account of what actually happened.
+
+**3/3 — Full success:** Party completes their chosen objective cleanly and carries evidence into Arc III with strong witness backing.
+
+**2/3 — Partial:** Chosen objective is met but proof or witness quality is degraded. Arc III opens with weaker evidentiary standing on the northern breach record.
+
+**1/3 or 0/3 — Fail-forward:** Party retreat without completing the primary objective. The breach record survives in contested or incomplete form; `hylden_engagement` value should reflect the party's available response options in subsequent scenes.

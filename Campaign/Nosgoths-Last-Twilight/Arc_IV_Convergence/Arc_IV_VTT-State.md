@@ -1,4 +1,4 @@
-# Arc IV — VTT Story-State Tracker
+﻿# Arc IV — VTT Story-State Tracker
 
 The final tracker. Arc IV has no Carry Forward — it has outcomes. Use this file to record the state of the world as the party moves through Convergence. At the close of each session, update the tags. At the end of the campaign, this document describes Nosgoth's post-campaign state.
 
@@ -19,21 +19,21 @@ The final tracker. Arc IV has no Carry Forward — it has outcomes. Use this fil
 
 ## Arc IV Story-State Tags
 
-<a id="coalition_shape"></a>
-### `coalition_shape`
-Tracks the party's coalition status through the Heath proceedings and into the final confrontation. Vignettes 01–03 write *process values* as the coalition forms; the *assessment value* summarises the coalition’s overall shape at the close of Vignette 04.
+<a id="coalition_process"></a>
+### `coalition_process`
+Tracks the step-by-step state of coalition formation as it develops across Vignettes 01–03. This field is written and updated during play; it does not produce the final coalition description. Once Vignette 04 closes, record the overall shape in `coalition_shape` below and leave `coalition_process` as the play record.
 
-**Process values (written during Vignettes 01–03):**
+**Process values written during Vignettes 01–03:**
 
 | Value | Source | Meaning |
-|-------|--------|--------|
+|-------|--------|---------|
 | `unified-pending` | V01-A | Party enters as the swing coalition, Sevran-backed; positioned to anchor the proceedings |
 | `contested-opening` | V01-B | No prior positioning; party builds from faction offers without a guaranteed anchor |
 | `internally-fractured-but-functioning` | V01-C | Internal divergence acknowledged; external unity declared; coalition security decision required |
 | `merel-advised` | V01-D | Pre-session private faction approach unlocked by Merel’s counsel; party must choose which faction to approach |
 | `unanchored` | V01-default | No anchor; all factions pitch simultaneously; increased difficulty through Vignettes 02–03 |
 | `recognized` | V02-A,B | Hall recognition confirmed with named accountability on record |
-| `conditionally-recognized` | V02-C | Partial recognition; account must be completed at the Fulcrum examination (Vignette 04) |
+| `conditionally-recognized` | V02-C | Partial recognition; account must be completed at the start of Vignette 04 before the examination proceeds |
 | `witness-anchored-recognition` | V02-D | Last Witness bound into the formal coalition record; present at Vignette 04 |
 | `unrecognized` | V02-default | Hall did not recognise the coalition; all factions negotiate knowing the party lacks Hall backing |
 | `procession-neutral` | V03-B | Procession does not interfere with final proceedings |
@@ -41,7 +41,17 @@ Tracks the party's coalition status through the Heath proceedings and into the f
 | `structure-challenged` | V03-A | Accountability gap in coalition’s own structure; queried directly at the Vignette 04 Fulcrum examination |
 | `grief-named` | V03-D | Party’s unresolved grief named as a strategic liability; available as a formal statement in Vignette 05 |
 
-**Assessment values (written at close of Vignette 04, after coalition shape is finalised):**
+**Current value:** ___
+
+**Notes:** ___
+
+---
+
+<a id="coalition_shape"></a>
+### `coalition_shape`
+Written at the close of Vignette 04, after coalition formation is complete. This is the single descriptive assessment of the coalition’s overall character entering the endgame. Replaces any process values above for downstream routing in Vignette 05.
+
+**Assessment values written at close of Vignette 04:**
 
 | Value | Meaning |
 |-------|---------|
@@ -55,10 +65,9 @@ Tracks the party's coalition status through the Heath proceedings and into the f
 **Notes:** ___
 
 ---
-
 <a id="black_fulcrum_status"></a>
 ### `black_fulcrum_status`
-Tracks the coalition’s examination record status at the Hall of Coalition — which determines how the Fulcrum examination proceeds and what Kain-side backing is available for the final session. *Physical custody of the Black Fulcrum artifact, if relevant to your campaign, should be noted in GM Notes rather than this tag.*
+Tracks the coalition’s examination record status at the Hall of Equilibrium — which determines how the Fulcrum examination proceeds and what Kain-side backing is available for the final session. *Physical custody of the Black Fulcrum artifact, if relevant to your campaign, should be noted in GM Notes rather than this tag.*
 
 **Hall record values (written during Vignette 02, carried into Vignette 04):**
 
@@ -129,11 +138,19 @@ Tracks the Cult of the Wheel’s condition at campaign close.
 ### `heart_purpose`
 The single most important Arc IV tag: what did the party decide the complete Heart of Darkness is *for*?
 
-> This tag does not use preset values. Write a brief sentence describing the party's final decision about the Heart's purpose and what Nosgoth's post-campaign equilibrium looks like as a result. This is the campaign's final line.
+| Value | Meaning |
+|-------|---------|
+| `understood` | *Intermediate value.* Set during Vignette 04 when the party demonstrates understanding of the Heart's cost. Must be overwritten by final declaration in Vignette 05 |
+| `spent-for-balance` | Heart is spent to stabilize Pillar structure; no faction ownership of the assembled Heart |
+| `gate-opened-negotiated` | Heart is used to open the Gate under recorded terms and explicit conditional commitments |
+| `foreclosed` | Heart is secured and not activated; access remains blocked pending future consensus |
+| `withdrawn` | No final declaration lands; proceeding closes without a concluded Heart purpose |
 
-**The party's answer:**
+**Current value:** ___
 
-___
+**Optional note (`heart_purpose_note`):** One sentence for table phrasing or declared moral frame.
+
+**Notes:** ___
 
 ---
 

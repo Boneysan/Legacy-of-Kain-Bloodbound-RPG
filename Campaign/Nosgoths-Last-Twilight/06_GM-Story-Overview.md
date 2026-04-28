@@ -4,6 +4,12 @@ Use this document when you need the campaign's story in one place.
 
 This is the GM's narrative spine: what is actually happening, what the party are choosing, and what those choices change. It does not replace the arc prep files, but it should let you keep the campaign coherent even when the table takes an unexpected route.
 
+## Branching Authority Note
+
+This document is narrative guidance. For active adjudication, Arc state trackers and detailed vignette consequence matrices are the procedural source of truth.
+
+If this overview conflicts with recorded table outcomes, follow tracker and matrix state first, then update this overview during post-session maintenance.
+
 ## The Story In One View
 
 Nosgoth is not waiting to be saved. It is already being reorganized around the possibility that the Abyssal Heart can change the metaphysical order of the world.
