@@ -916,7 +916,7 @@ The Echo of Kain is not Kain himself, but a pressure-mark left on reality by his
 - **Special:** Creatures in the zone make a DR 4 Will save. On failure, a creature falls **Prone**. A creature that ends its turn in the zone takes the damage again.
 
 ### Abilities
-**Inevitable:** Once per encounter, the Echo of Kain cannot be reduced below 1 HP by a single hit. Instead, that hit leaves it at 1 HP. If it is reduced to 0 HP by multiple separate hits in the same round, it dies normally. At the start of each of its turns, it regains 2 HP. It is immune to instant-death effects.
+**Inevitable:** Once per encounter, the Echo of Kain cannot be reduced below 1 HP by a single hit. Instead, that hit leaves it at 1 HP. If it is reduced to 0 HP by multiple separate hits in the same round, it dies normally. At the start of each turn, it regains 2 HP. It is immune to instant-death effects.
 
 **Phase II — The Damned Sovereign:** When the Echo is reduced to 50% HP or below, it immediately uses Blood Omen Surge without spending an Action if it has not already used it this phase, and its attacks inflict **Bleeding** for the rest of the encounter. If it is reduced from above 50% HP to 0 HP by a single attack, Phase II triggers first and the Echo remains at 1 HP through Inevitable.
 

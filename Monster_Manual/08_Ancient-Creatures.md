@@ -383,7 +383,7 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 **Behavior Tags:** boss, ambusher, brute
 
 ### Tactics
-The Blood Stalker opens from Stealth, using Ancient Lunge to **Pinned** the most armored PC (to disable them) before switching attention to the softest target for maximum Blood Drain efficiency. Primal Howl triggers when 3+ PCs are clustered. It maintains Blood Frenzy chains by targeting vulnerable targets. If reduced below 90 HP, it begins targeting healers.
+The Blood Stalker opens from Stealth, using Ancient Lunge to **Pin** the most armored PC (to disable them) before switching attention to the softest target for maximum Blood Drain efficiency. Primal Howl triggers when 3+ PCs are clustered. It maintains Blood Frenzy chains by targeting vulnerable targets. If reduced below 90 HP, it begins targeting healers.
 
 ### Loot
 - Ancient vampire fang (jet-black, unusually long) — **Trade Value**: 60 supplies (alchemical; Vampiric ability component)

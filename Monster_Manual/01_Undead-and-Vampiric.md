@@ -335,7 +335,7 @@ When lesser vampires are destroyed, their remaining essence sometimes animates n
 - **Special:** Swarm regains HP equal to half damage dealt
 
 **Engulf** (Action, requires movement)
-- **Effect:** Swarm moves through a creature's space. The creature makes a DR 3 Evasion save. On failure, it becomes **Engulfed** (**Restrained** and takes automatic Thousand Bites damage at the start of each of its turns). An Engulfed creature can use an Action to attempt a DR 3 Fury save; on success, it escapes, ending the Engulfed condition. On success (initial save), the swarm passes through without latching.
+- **Effect:** Swarm moves through a creature's space. The creature makes a DR 3 Evasion save. On failure, it becomes **Engulfed** (**Restrained** and takes automatic Thousand Bites damage at the start of each turn). An Engulfed creature can use an Action to attempt a DR 3 Fury save; on success, it escapes, ending the Engulfed condition. On success (initial save), the swarm passes through without latching.
 
 ### Abilities
 **Swarm Wilderness:**
@@ -1188,7 +1188,7 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 - **Dice Pool:** Fury 4 + Weapon Mastery 4 = 8d6 vs DV
 - **Range:** Melee (5 feet)
 - **Damage:** 12 Physical + 5 Spectral
-- **Special:** On Critical Hit, the target gains the **Partial Shift** condition (Ch. 11 §11.5.5) with the following modifications: instead of standard Soul Bleed, the target takes **3 Spectral damage** at the start of each of its turns while Partially Shifted. The condition ends when the target uses an **Action** and succeeds on a **DR 3 Will** save, or via the standard stabilization (Bonus Action + 1 SE), whichever comes first.
+- **Special:** On Critical Hit, the target gains the **Partial Shift** condition (Ch. 11 §11.5.5) with the following modifications: instead of standard Soul Bleed, the target takes **3 Spectral damage** at the start of each turn while Partially Shifted. The condition ends when the target uses an **Action** and succeeds on a **DR 3 Will** save, or via the standard stabilization (Bonus Action + 1 SE), whichever comes first.
 
 **Reality Fracture** (Action, costs 8 SE)
 - **Dice Pool:** Soul 4 + Ethereal Mastery 4 = 8d6 vs Will (area)

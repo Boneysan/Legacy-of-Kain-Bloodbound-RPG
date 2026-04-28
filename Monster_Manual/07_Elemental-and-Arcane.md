@@ -384,7 +384,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 ### Abilities
 
 **Crystalline Reformation** (Passive)
-- **Special:** At the start of each of its turns, the Warden regenerates 5 HP if it is standing on ice or stone. If the Warden is reduced to 0 HP, it shatters violently. All creatures within 10 feet make a DR 3 Evasion save. On failure, they take 8 Cold damage. On success, they take half damage.
+- **Special:** At the start of each turn, the Warden regenerates 5 HP if it is standing on ice or stone. If the Warden is reduced to 0 HP, it shatters violently. All creatures within 10 feet make a DR 3 Evasion save. On failure, they take 8 Cold damage. On success, they take half damage.
 
 ---
 
@@ -716,7 +716,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 - **Cost:** 8 SE per turn
 - **Range:** 20 feet
 - **Save:** DR 4 Will save
-- **Special:** The Binder attempts to bind a creature's soul. On failure, the target is immobilized for 1 minute: it cannot move, take Actions, or take Reactions, but its DV is not reduced. The target can attempt a DR 4 Will save at the start of each of its turns, ending the effect on a success. The Binder can maintain Soul Bind on only one target at a time. On success (initial save), no effect.
+- **Special:** The Binder attempts to bind a creature's soul. On failure, the target is immobilized for 1 minute: it cannot move, take Actions, or take Reactions, but its DV is not reduced. The target can attempt a DR 4 Will save at the start of each turn, ending the effect on a success. The Binder can maintain Soul Bind on only one target at a time. On success (initial save), no effect.
 
 ### Abilities
 

@@ -332,7 +332,7 @@ Unlike normal dogs, Bloodgullets are viciously intelligent. They can track prey 
 
 **Pack Hunter**: The Hound gains +1 die on attack rolls for each allied Hound within 10 feet (max +3 dice).
 
-**Vampiric Resilience**: The Hound regains 3 HP at the start of each of its turns if it dealt damage with Blood Fang Bite on its previous turn. Regeneration stops for 1 round if the Hound takes Fire damage or Radiant damage.
+**Vampiric Resilience**: The Hound regains 3 HP at the start of each turn if it dealt damage with Blood Fang Bite on its previous turn. Regeneration stops for 1 round if the Hound takes Fire damage or Radiant damage.
 
 **Night Vision**: The Hound can see perfectly in darkness.
 
@@ -398,7 +398,7 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 - **Special:** All affected creatures make a DR 3 Fury save. On failure, a creature is knocked **Prone**. On success, no effect. The ground becomes difficult terrain (costs double movement) for 2 rounds.
 
 ### Abilities
-**Regeneration**: The Troll regains 5 HP at the start of each of its turns, unless it took Fire or Acid damage since its last turn (those damage types prevent regeneration for 1 round).
+**Regeneration**: The Troll regains 5 HP at the start of each turn, unless it took Fire or Acid damage since its last turn (those damage types prevent regeneration for 1 round).
 
 **Size: Large**: The Troll occupies a 10-foot-by-10-foot space. It has 10-foot reach on melee attacks. Creatures can move through its space but treat it as difficult terrain.
 
@@ -460,7 +460,7 @@ Despite their fearsome appearance, Bramblehide Bears are still animals. They can
 - **Dice Pool:** Fury 5 + Unarmed Combat 4 = 9d6
 - **Range:** Melee (5 feet)
 - **Damage:** 9 Physical
-- **Special:** On Critical Hit (3+ successes), the target is **Grappled** (held in the Bear's jaws). While **Grappled**, the target takes 4 automatic Physical damage at the start of each of their turns (crushing bite). Escape requires a contested roll: target's Fury + Athletics vs the Bear's Fury + Unarmed Combat.
+- **Special:** On Critical Hit (3+ successes), the target is **Grappled** (held in the Bear's jaws). While **Grappled**, the target takes 4 automatic Physical damage at the start of each turn (crushing bite). Escape requires a contested roll: target's Fury + Athletics vs the Bear's Fury + Unarmed Combat.
 
 **Bramble Charge** (Action)
 - **Dice Pool:** Fury 5 + Athletics 3 = 8d6 (Recharge 5-6)
@@ -482,7 +482,7 @@ Despite their fearsome appearance, Bramblehide Bears are still animals. They can
 ### Tactics
 - **Stealth from Forest**: Bears use Forest Camouflage to Hide, then ambush with Bramble Charge.
 - **Multi-Attack Pressure**: They make two Claw Swipe attacks per turn, focusing on one target to overwhelm them.
-- **Crushing Bite for Control**: They use Crushing Bite to **Grappled** priority targets (casters, ranged attackers), dealing automatic damage while holding them.
+- **Crushing Bite for Control**: They use Crushing Bite to **Grapple** priority targets (casters, ranged attackers), dealing automatic damage while holding them.
 - **Berserker Rage for Finish**: When wounded, Bears become relentless, fighting until death.
 
 ### Loot
@@ -597,7 +597,7 @@ Blightmaw Alphas are solitary territorial hunters. They tolerate no other large 
 - **Dice Pool:** Fury 5 + Unarmed Combat 3 = 8d6
 - **Range:** Melee (5 feet)
 - **Damage:** 9 Physical (Piercing)
-- **Special:** On hit, the target is **Grappled** (caught in the Blightmaw's jaws). While **Grappled**, the target takes 4 automatic Physical damage at the start of each of their turns. Escape requires a contested Fury + Athletics check against the Blightmaw's 8d6.
+- **Special:** On hit, the target is **Grappled** (caught in the Blightmaw's jaws). While **Grappled**, the target takes 4 automatic Physical damage at the start of each turn. Escape requires a contested Fury + Athletics check against the Blightmaw's 8d6.
 
 **Toxic Spray** (Action)
 - **Dice Pool:** Blood 4 + 0 = 4d6 (Recharge 5-6)
@@ -820,7 +820,7 @@ The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the a
 - **Dice Pool:** Fury 6 + Unarmed Combat 5 = 11d6 vs DV
 - **Range:** Melee (10 feet)
 - **Damage:** 14 Physical (Piercing) + 4 Entropic
-- **Special:** On hit, the target makes a DR 4 Blood save. On failure, the target is **Grappled** (caught in the Wyrm's jaws). While **Grappled**, the target takes 8 automatic Piercing damage at the start of each of its turns. Escape requires a contested Fury + Athletics check against the Wyrm's 11d6. On success, no effect.
+- **Special:** On hit, the target makes a DR 4 Blood save. On failure, the target is **Grappled** (caught in the Wyrm's jaws). While **Grappled**, the target takes 8 automatic Piercing damage at the start of each turn. Escape requires a contested Fury + Athletics check against the Wyrm's 11d6. On success, no effect.
 
 **Corruption Breath** (Action)
 - **Dice Pool:** Soul 3 + 4 = 7d6 vs Will (costs 10 SE, Recharge 5-6)
@@ -845,7 +845,7 @@ The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the a
 
 **Aerial Predator** (Passive): While flying, the Wyrm has +2 DV against ranged attacks from below (effective DV: 8 in the air). Weapon Mastery attacks from grounded creatures have Disadvantage unless the attacker can reach its altitude.
 
-**Territorial Rage** (Passive): While fighting within its lair or territory, the Wyrm gains +2 dice on all attack rolls and regenerates 5 HP at the start of each of its turns.
+**Territorial Rage** (Passive): While fighting within its lair or territory, the Wyrm gains +2 dice on all attack rolls and regenerates 5 HP at the start of each turn.
 
 **Legendary Resistance (2/day):** If the Wyrm fails a save, it can choose to succeed instead.
 

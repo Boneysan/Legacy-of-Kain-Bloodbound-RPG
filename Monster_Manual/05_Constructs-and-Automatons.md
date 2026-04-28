@@ -162,7 +162,7 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 ### Abilities
 **Construct Wilderness**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means.
 
-**Regeneration (Ambient Magic)**: The Sentinel regains 10 HP at the start of each of its turns, unless it's in an area with no magical energy (rare). This regeneration can only be stopped by destroying its core (see below).
+**Regeneration (Ambient Magic)**: The Sentinel regains 10 HP at the start of each turn, unless it's in an area with no magical energy (rare). This regeneration can only be stopped by destroying its core (see below).
 
 **Massive Size**: The Sentinel occupies a 3x3 tile space. It has 15-foot reach on melee attacks. Creatures can move through its space but treat it as difficult terrain.
 
@@ -386,7 +386,7 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 - **Dice Pool:** 10d6 (Soul 5 + Glyphcasting 5)
 - **Range:** 30 feet
 - **Damage:** None
-- **Special:** Recharge 5-6, costs 3 SE. The Automaton targets one creature and attempts to trap them in a cage of glyphs. The target makes a DR 4 Shadow save. On failure, the target is **Restrained**. The target can attempt to break free with a DR 4 Fury + Athletics or Focus + Forbidden Knowledge roll at the start of each of their turns. The prison lasts up to 3 rounds. On success, no effect.
+- **Special:** Recharge 5-6, costs 3 SE. The Automaton targets one creature and attempts to trap them in a cage of glyphs. The target makes a DR 4 Shadow save. On failure, the target is **Restrained**. The target can attempt to break free with a DR 4 Fury + Athletics or Focus + Forbidden Knowledge roll at the start of each turn. The prison lasts up to 3 rounds. On success, no effect.
 
 ### Abilities
 **Construct Wilderness**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Forbidden Knowledge, DR 4, restores 15 HP).
@@ -450,13 +450,13 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 - **Dice Pool:** 12d6 (Fury 7 + Tactics 5)
 - **Range:** Melee (20 feet, large reach)
 - **Damage:** 15 Physical
-- **Special:** On Critical Hit (3+ successes), target is **Grappled** (held by the Tower's massive claw). While **Grappled**, the target takes 8 automatic damage at the start of each of their turns. Escape requires a DR 5 Fury + Athletics roll.
+- **Special:** On Critical Hit (3+ successes), target is **Grappled** (held by the Tower's massive claw). While **Grappled**, the target takes 8 automatic damage at the start of each turn. Escape requires a DR 4 Fury + Athletics roll.
 
 **Soul Cannon** (Action)
 - **Dice Pool:** 11d6 (Soul 6 + Ritualism 5)
 - **Range:** 80-foot line
 - **Damage:** 14 Spectral
-- **Special:** Costs 4 SE. Targets make a DR 5 Will save. On failure, a target loses 3 SE (or takes 3 additional Spectral damage if they have no SE). On success, no effect.
+- **Special:** Costs 4 SE. Targets make a DR 4 Will save. On failure, a target loses 3 SE (or takes 3 additional Spectral damage if they have no SE). On success, no effect.
 
 **Arcane Bombardment** (Action)
 - **Dice Pool:** 10d6 (Soul 6 + Craft 4)
@@ -475,7 +475,7 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 
 **Colossal Size**: The Soul-Tower occupies a 4x4 tile space. It has 20-foot reach on melee attacks. Creatures can move through its space but treat it as difficult terrain.
 
-**Soul-Powered Regeneration**: The Tower regains 15 HP at the start of each of its turns (fueled by trapped souls). This regeneration can only be stopped by destroying one of its three **Soul Cores** (see below).
+**Soul-Powered Regeneration**: The Tower regains 15 HP at the start of each turn (fueled by trapped souls). This regeneration can only be stopped by destroying one of its three **Soul Cores** (see below).
 
 **Soul Cores** (3 cores, each has DV: 7, 40 HP): The Tower has three soul cores embedded in its body (chest, back, and head). Each core is a separate target that must be attacked individually (requires a called shot with Disadvantage). When a core is destroyed:
 - The Tower loses 50 HP immediately (backlash).

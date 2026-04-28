@@ -247,7 +247,7 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 
 **Mind-Tethered**: The Abomination is controlled by a Hylden creature within 100 feet. If the controller is killed or the tether is severed (DR 4 Spectral + Ritualism check to sever psychically), the Abomination collapses instantly (death).
 
-**Regeneration (Fused Flesh)**: The Abomination regains 3 HP at the start of each of its turns (flesh knits together). This regeneration stops if it takes Fire or Elemental damage since its last turn.
+**Regeneration (Fused Flesh)**: The Abomination regains 3 HP at the start of each turn (flesh knits together). This regeneration stops if it takes Fire or Elemental damage since its last turn.
 
 **Unnatural Resilience**: The Abomination ignores the first instance of being reduced to 0 HP each encounter (it just keeps moving, horror movie style). It collapses on the second instance.
 
@@ -327,7 +327,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 
 ### Tactics
 - **Infiltrate First**: Corruption Hosts use Infiltrator's Guise to approach unsuspecting PCs or set up ambushes. They strike when targets are vulnerable (resting, distracted, separated).
-- **Tendril Lash for Control**: They **Grappled** priority targets (casters, ranged attackers), dealing Entropic damage over time.
+- **Tendril Lash for Control**: They **Grapple** priority targets (casters, ranged attackers), dealing Entropic damage over time.
 - **Corrupted Touch in Weapon Mastery**: They spread Corruption to as many enemies as possible, weakening them for future encounters.
 - **Corruption Wave When Surrounded**: If clustered enemies close in, they use Corruption Wave to create chaos.
 - **Final Transformation as Last Resort**: When dying, they transform into an Abomination, shocking players and continuing the fight.
@@ -530,18 +530,18 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 - **Dice Pool:** Soul 7 + Forbidden Knowledge 6 = 13d6
 - **Range:** All enemies within 60 feet
 - **Damage:** None
-- **Special:** Recharge 5-6, costs 6 SE. The Oracle speaks a prophecy. All affected enemies make a DR 5 Will save. On failure, a target is **Cursed** (Disadvantage on all rolls for 3 rounds, as they're haunted by visions of their doom). On success, no effect.
+- **Special:** Recharge 5-6, costs 6 SE. The Oracle speaks a prophecy. All affected enemies make a DR 4 Will save. On failure, a target is **Cursed** (Disadvantage on all rolls for 3 rounds, as they're haunted by visions of their doom). On success, no effect.
 
 **Dimensional Rupture** (2 Actions)
 - **Dice Pool:** Soul 7 + Glyphcasting 6 = 13d6
 - **Range:** 40-foot radius centered on a point within 80 feet
 - **Damage:** 10 Force + 4 Entropic
-- **Special:** Once per encounter, costs 8 SE. The Oracle rips reality open. All creatures in the radius gain 2 Entropic points and make a DR 5 Shadow save. On failure, a creature is teleported 2d6 x 5 feet in a random direction (lose positioning, potentially separated from allies). On success, no teleportation.
+- **Special:** Once per encounter, costs 8 SE. The Oracle rips reality open. All creatures in the radius gain 2 Entropic points and make a DR 4 Shadow save. On failure, a creature is teleported 2d6 x 5 feet in a random direction (lose positioning, potentially separated from allies). On success, no teleportation.
 
 ### Abilities
 **Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
 
-**Glyphcasting**: The Oracle constantly channels Hylden energy. At the start of each of their turns, they regain 3 SE (max SE: 20).
+**Glyphcasting**: The Oracle constantly channels Hylden energy. At the start of each turn, they regain 3 SE (max SE: 20).
 
 **Telepathic Coordination**: All Hylden allies within 30 feet of the Oracle gain +1 die on all rolls (the Oracle coordinates their actions telepathically). If the Oracle is killed, all Hylden allies lose this bonus and make a DR 4 Will save. On failure, a target is **Stunned** for 1 round (psychic backlash). On success, no effect.
 
@@ -559,7 +559,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 ### Tactics
 - **Telepathic Coordination Always Active**: The Oracle's presence makes all Hylden forces +1 die stronger within 30 feet. This is their most dangerous ability.
 - **Dimensional Rupture Opening**: They open combat with Dimensional Rupture, scattering the party and corrupting everyone.
-- **Forbidden Knowledge of Doom for Control**: They use this to **Cursed** the entire party, making every action harder.
+- **Forbidden Knowledge of Doom for Control**: They use this to **Curse** the entire party, making every action harder.
 - **Void Blast for Damage**: They use Void Blast to pressure exposed casters or isolated targets, but can no longer sustain a pure damage loop through Legendary Actions alone.
 - **Buff Allies with Legendary Actions**: They use spare actions to improve the strongest Hylden ally's next decisive roll rather than stacking constant damage every round.
 - **Forbidden Knowledge Sight for Defense**: They're extremely hard to hit due to the +2 **DV:** spike from Forbidden Knowledge Sight. Players must use status effects, area attacks, or creative tactics.
@@ -603,7 +603,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 - **Dice Pool:** Fury 4 + Intimidation 5 = 9d6
 - **Range:** 15 feet
 - **Damage:** 7 Physical
-- **Special:** On Critical Hit (3+ successes), the target is **Grappled** (held by barbed chains). While **Grappled**, the target takes 3 automatic Physical damage at the start of each turn and has Disadvantage on all rolls (pain). Escape requires a DR 4 Fury + Athletics roll as an Action.
+- **Special:** On Critical Hit (3+ successes), the target is **Grappled** (held by barbed chains). While **Grappled**, the target takes 3 automatic Physical damage at the start of each turn. Escape requires a DR 4 Fury + Athletics roll as an Action.
 
 **Mind Spike** (Action)
 - **Dice Pool:** Soul 5 + Intimidation 5 = 10d6
@@ -624,7 +624,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 
 **Harvest Suffering**: When a creature within 30 feet takes damage (from any source), the Warden regains 2 HP (they feed on pain). This can only trigger once per turn.
 
-**Break the Mind** (Passive): When the Warden reduces a creature to 0 HP, that creature makes a DR 5 Will save. On failure, the creature gains 2 Entropic points (trauma from the encounter). On success, no effect.
+**Break the Mind** (Passive): When the Warden reduces a creature to 0 HP, that creature makes a DR 4 Will save. On failure, the creature gains 2 Entropic points (trauma from the encounter). On success, no effect.
 
 **Spectral Prison**: If the Warden successfully uses Cage of Despair on a creature, that creature is marked. For the next 24 hours, they have nightmares of the encounter (Disadvantage on rest recovery rolls, regain half HP/SE/BP from rest instead of full).
 
@@ -747,7 +747,7 @@ Hylden-Possessed Grunts are the lowest tier of Hylden incursion forces — expen
 - **Dice Pool:** Fury 3 + 0 = 3d6
 - **Range:** Melee (5 feet)
 - **Damage:** 3 Physical + 1 Entropic
-- **Special:** The target makes a DR 1 Blood save. On failure, the target is **Grappled**. While **Grappled**, the target takes 1 Entropic damage at the start of each of their turns. Escape requires a DR 2 Fury + Athletics roll as an Action.
+- **Special:** The target makes a DR 1 Blood save. On failure, the target is **Grappled**. While **Grappled**, the target takes 1 Entropic damage at the start of each turn. Escape requires a DR 2 Fury + Athletics roll as an Action.
 
 ### Abilities
 **Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
