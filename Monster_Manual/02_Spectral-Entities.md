@@ -55,7 +55,7 @@ Echo Serpents are the spectral remnants of great serpents that died in places of
 - **DV:** 4 (1 + Shadow 3)
 - **Armor:** Special (Incorporeal)
 - **Initiative:** 5
-- **Movement:** 40 feet (8 squares), Climb 40 feet
+- **Movement:** 40 feet, Climb 40 feet
 - **Attributes:** Fury 3, Soul 3, Shadow 3, Will 2, Focus 3, Blood 0
 - **Skills:** Stealth 4, Observation 3
 
@@ -109,14 +109,14 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** Special (Incorporeal)
 - **Initiative:** 6
-- **Movement:** 40 feet (8 squares), Fly 40 feet (hover)
+- **Movement:** 40 feet, Fly 40 feet (hover)
 - **Attributes:** Fury 2, Soul 4, Shadow 4, Will 4, Focus 3, Blood 0
 - **Skills:** Infiltration 4, Intimidation 3, Stealth 4
 
 ### Attacks
 **Identity Theft** (Action, requires line of sight to target)
 - **Dice Pool:** Soul 4 + Infiltration 4 = 8d6
-- **Range:** 30 feet (6 squares)
+- **Range:** 30 feet
 - **Effect:** Target makes a DR 3 Will save. On failure, the target becomes **Frightened** and **Confused** for 1 minute. While **Confused** this way, the target perceives allies as enemies. The target can repeat the DR 3 Will save at the end of each of its turns, ending both conditions on a success. On success (initial save), no effect.
 - **Special:** While the target is **Confused** this way, the Mirror Wraith takes their appearance perfectly.
 
@@ -127,7 +127,7 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 
 **Life Echo** (Action, Recharge 5-6)
 - **Dice Pool:** Soul 4 + 0 = 4d6
-- **Range:** 40 feet (8 squares)
+- **Range:** 40 feet
 - **Damage:** 8 Spectral damage
 - **Special:** Creates spectral copy of target that attacks them next turn. Copy has stats identical to target but only 10 HP. Lasts 3 rounds or until destroyed.
 
@@ -174,7 +174,7 @@ Soul-Eater Shades are manifestations of pure hunger from the Spectral Realm. The
 - **DV:** 4 (1 + Shadow 3)
 - **Armor:** Special (Incorporeal)
 - **Initiative:** 5
-- **Movement:** 30 feet (6 squares), Fly 30 feet (hover)
+- **Movement:** 30 feet, Fly 30 feet (hover)
 - **Attributes:** Fury 3, Soul 4, Shadow 3, Will 3, Focus 2, Blood 0
 - **Skills:** None (acts on pure instinct)
 
@@ -190,7 +190,7 @@ Soul-Eater Shades are manifestations of pure hunger from the Spectral Realm. The
 - **Special:** Target's maximum SE reduced by damage until long rest. If target reaches 0 max SE, falls **Unconscious** and begins death saves.
 
 **Hunger Wave** (Action, Recharge 6)
-- **Range:** 15-foot cone (3 squares)
+- **Range:** 15-foot cone
 - **Damage:** 5 Spectral damage to all creatures in area
 - **Special:** No attack roll, automatic damage. Shade regains HP equal to half total damage dealt.
 
@@ -231,7 +231,7 @@ Spectral wolves that hunt in packs across the Material and Spectral Realms. Thei
 - **DV:** 3 (1 + Shadow 2)
 - **Armor:** Special (Incorporeal)
 - **Initiative:** 4
-- **Movement:** 50 feet (10 squares)
+- **Movement:** 50 feet
 - **Attributes:** Fury 3, Soul 2, Shadow 2, Will 1, Focus 2, Blood 0
 - **Skills:** Stealth 2, Observation 2
 
@@ -242,7 +242,7 @@ Spectral wolves that hunt in packs across the Material and Spectral Realms. Thei
 - **Special:** If ally is adjacent to target, gain +1 die (pack tactics)
 
 **Disorienting Howl** (Action, usable once per encounter)
-- **Range:** 30 feet (6 squares)
+- **Range:** 30 feet
 - **Effect:** All enemies in range make a DR 2 Will save. On failure, an enemy has Disadvantage on attack rolls until end of next turn.
 
 ### Abilities
@@ -280,7 +280,7 @@ Silent Mourners are souls bound to places of great tragedy—battlefields, execu
 - **DV:** 4 (1 + Will 3)
 - **Armor:** Special (Incorporeal)
 - **Initiative:** 5
-- **Movement:** 25 feet (5 squares), Fly 25 feet (hover)
+- **Movement:** 25 feet, Fly 25 feet (hover)
 - **Attributes:** Fury 1, Soul 4, Shadow 3, Will 3, Focus 4, Blood 0
 - **Skills:** Intimidation 3
 
@@ -291,12 +291,12 @@ Silent Mourners are souls bound to places of great tragedy—battlefields, execu
 - **Special:** Target makes a DR 2 Will save. On failure, the target becomes **Shaken** for 1 minute. While Shaken this way, the target also suffers -1 die on saves. The target can repeat the save at the end of each turn, ending the effect on a success.
 
 **Wail of Despair** (Action, Recharge 5-6)
-- **Range:** 20-foot radius (4 squares), centered on self
+- **Range:** 20-foot radius, centered on self
 - **Effect:** All living creatures in area must make a DR 3 Will save. On failure, they take 6 Spectral damage and become **Frightened** for 1 minute. On success, they take half damage and are not **Frightened**. A **Frightened** target can repeat the save at the end of each turn, ending the condition on a success.
 
 **Spectral Bonds** (Action)
 - **Dice Pool:** Will 3 + 0 = 3d6
-- **Range:** 30 feet (6 squares)
+- **Range:** 30 feet
 - **Effect:** Target makes a DR 2 Will save. On failure, the target becomes **Restrained** by spectral chains. While **Restrained** this way, the target takes 3 Spectral damage at the start of each turn. The target can use an Action to attempt a DR 3 Blood or Will save, ending the effect on a success.
 
 ### Abilities
@@ -337,7 +337,7 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** Special (Variable)
 - **Initiative:** 7
-- **Movement:** 45 feet (9 squares)
+- **Movement:** 45 feet
 - **Attributes:** Fury 4, Soul 3, Shadow 5, Will 3, Focus 4, Blood 2
 - **Skills:** Athletics 3, Stealth 5
 
@@ -354,7 +354,7 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 - **Special:** Tears hole in reality. Target makes a DR 3 Will save. On failure, the target gains the **Partial Shift** condition (Ch. 11 §11.5.5) and is **Slowed** for 1 minute. While Partially Shifted this way, the target has Disadvantage on all action rolls in addition to the standard Partial Shift rules.
 
 **Blink Strike** (Action, Recharge 5-6)
-- **Effect:** Teleport up to 60 feet (12 squares), make Phase Claws attack, teleport back to original position. Cannot be targeted by opportunity attacks.
+- **Effect:** Teleport up to 60 feet, make Phase Claws attack, teleport back to original position. Cannot be targeted by opportunity attacks.
 
 ### Abilities
 **Phase Shift:** At start of each of its turns, roll 1d6:
@@ -400,23 +400,23 @@ Gravewind Entities are ancient spirits of wind and death, formed in places where
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** Special (Incorporeal + Resistant)
 - **Initiative:** 7
-- **Movement:** Fly 60 feet (12 squares), hover
+- **Movement:** Fly 60 feet, hover
 - **Attributes:** Fury 3, Soul 5, Shadow 5, Will 4, Focus 3, Blood 0
 - **Skills:** Intimidation 5, Concentration 4
 
 ### Attacks
 **Soul Scour** (Action)
 - **Dice Pool:** Soul 5 + 0 = 5d6
-- **Range:** 60 feet (12 squares)
+- **Range:** 60 feet
 - **Damage:** 8 Spectral damage
 - **Special:** Can target up to 3 creatures within range
 
 **Gravewind Vortex** (Action, Recharge 5-6)
-- **Range:** 30-foot radius (6 squares), centered on self
+- **Range:** 30-foot radius, centered on self
 - **Effect:** All creatures in area must make a DR 4 Blood save. On failure, they take 12 Spectral + 6 Cold damage and are pulled 15 feet toward Entity. On success, they take half damage and are not pulled. Creates difficult terrain in area for 1 minute.
 
 **Spectral Storm** (Action, costs 2 Legendary Actions)
-- **Range:** 60-foot line (12 squares), 10 feet wide
+- **Range:** 60-foot line, 10 feet wide
 - **Damage:** 15 Spectral damage
 - **Special:** All creatures in line must make a DR 4 Evasion save. On failure, they take full damage and are knocked **Prone**. On success, it takes half damage and are not **Prone**.
 
@@ -478,7 +478,7 @@ In the Legacy of Kain canon, the Sluagh haunt the spaces between meaningful afte
 - **DV:** 3 (1 + Shadow 2)
 - **Armor:** 0 (Incorporeal—immune to nonmagical physical attacks)
 - **Initiative:** 3
-- **Movement:** 30 feet (6 squares), Fly 20 feet (hover)
+- **Movement:** 30 feet, Fly 20 feet (hover)
 - **Attributes:** Fury 2, Soul 2, Shadow 2, Will 1, Focus 2, Blood 0
 - **Skills:** Stealth 3, Observation 2, Unarmed Combat (Soul): 1
 
@@ -623,7 +623,7 @@ In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he wa
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** Special (Incorporeal — immune to nonmagical physical attacks; resistant to Fire, Cold, Lightning — half damage)
 - **Initiative:** 6
-- **Movement:** 35 feet (7 squares), Fly 40 feet (hover)
+- **Movement:** 35 feet, Fly 40 feet (hover)
 - **Attributes:** Fury 3, Soul 5, Shadow 4, Will 4, Focus 4, Blood 0
 - **Skills:** Stealth 4, Intimidation 4, Unarmed Combat (Soul) 2
 - **SE:** 12
@@ -638,13 +638,13 @@ In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he wa
 
 **Void Scream** (Action, Recharge 5-6)
 - **Dice Pool:** Soul 5 + Intimidation 4 = 9d6
-- **Range:** 30-foot radius (6 squares), centered on self
+- **Range:** 30-foot radius, centered on self
 - **Damage:** 10 Spectral damage
 - **Special:** Creatures in the area make a DR 3 Will save. On failure, a creature takes full damage, is **Frightened** for 1 round, and loses 1 SE. On success, it takes half damage. The scream sounds like a thousand voices crying out simultaneously and then going silent.
 
 **Soul Siphon** (Action, costs 3 SE)
 - **Dice Pool:** Soul 5 + Unarmed Combat 2 = 7d6
-- **Range:** 40 feet (8 squares)
+- **Range:** 40 feet
 - **Damage:** 6 Spectral damage
 - **Special:** The Wraith regains HP equal to damage dealt. If this kills the target, the Wraith gains 10 temporary HP.
 
@@ -709,7 +709,7 @@ They possess no intelligence beyond a dim awareness of the living. They don't pl
 - **DV:** 3 (1 + Shadow 2)
 - **Armor:** Special (Incorporeal — immune to nonmagical physical attacks)
 - **Initiative:** 3
-- **Movement:** 25 feet (5 squares), Fly 25 feet (hover)
+- **Movement:** 25 feet, Fly 25 feet (hover)
 - **Attributes:** Fury 0, Soul 1, Shadow 2, Will 0, Focus 1, Blood 0 (Immune to Blood-based effects)
 - **Skills:** None
 - **SE:** N/A | **BP:** N/A
@@ -766,7 +766,7 @@ They are dangerous combatants: range, a powerful drain ability, and enough spect
 - **DV:** 5 (1 + Soul 4)
 - **Armor:** Special (Incorporeal — immune to nonmagical physical attacks; resistant to Fire and Cold — half damage)
 - **Initiative:** 5
-- **Movement:** 30 feet (6 squares), Fly 30 feet (hover)
+- **Movement:** 30 feet, Fly 30 feet (hover)
 - **Attributes:** Fury 1, Soul 4, Shadow 3, Will 3, Focus 4, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Glyphcasting 3, Observation 2, Stealth 2
 - **SE:** 22
@@ -775,7 +775,7 @@ They are dangerous combatants: range, a powerful drain ability, and enough spect
 
 **Soul Bolt** (Action)
 - **Dice Pool:** Soul 4 + Glyphcasting 3 = 7d6
-- **Range:** 60 feet (12 squares)
+- **Range:** 60 feet
 - **Damage:** 8 Spectral damage
 - **Special:** Passes through physical cover (the bolt travels through the spectral layer of reality, not the material one)
 
@@ -834,7 +834,7 @@ Phase Wraiths are hunters that never fully commit to one realm. They flicker bet
 - **DV:** 3 (1 + Shadow 2)
 - **Armor:** Special (Incorporeal)
 - **Initiative:** 5
-- **Movement:** 45 feet (9 squares)
+- **Movement:** 45 feet
 - **Attributes:** Fury 3, Soul 2, Shadow 4, Will 2, Focus 4, Blood 0
 - **Skills:** Stealth 4, Athletics 2, Unarmed Combat (Soul): 3
 
@@ -887,7 +887,7 @@ The Echo of Kain is not Kain himself, but a pressure-mark left on reality by his
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 0
 - **Initiative:** 8
-- **Movement:** 40 feet (8 squares)
+- **Movement:** 40 feet
 - **Attributes:** Fury 5, Soul 5, Shadow 5, Will 5, Focus 4, Blood 5
 - **Skills:** Weapon Mastery 5, Athletics 4, Intimidation 5, Glyphcasting 4, Concentration (Will): 4
 - **SE:** 0 | **BP:** 0
@@ -901,17 +901,17 @@ The Echo of Kain is not Kain himself, but a pressure-mark left on reality by his
 
 **Temporal Stasis** (Action, twice per encounter)
 - **Dice Pool:** Soul 5 + Glyphcasting 4 = 9d6
-- **Range:** 60 feet (12 squares)
+- **Range:** 60 feet
 - **Effect:** Target makes a DR 4 Will save. On failure, the target is removed from time for 2 rounds. While frozen, they cannot act, be targeted, or affect the battlefield. When they return, they are **Confused** until the end of their next turn. On success, no effect.
 
 **Blood Omen Surge** (Action, once per phase)
-- **Range:** 30-foot radius (6 squares), centered on self
+- **Range:** 30-foot radius, centered on self
 - **Damage:** 3 Physical damage from blood magic to all creatures of the Echo's choice in range
 - **Special:** The Echo heals HP equal to the total damage dealt.
 
 **Pillars' Weight** (Action)
 - **Dice Pool:** Will 5 + Concentration 4 = 9d6
-- **Range:** 20-foot zone (4 squares) within 60 feet
+- **Range:** 20-foot zone within 60 feet
 - **Damage:** 2 Spectral damage
 - **Special:** Creatures in the zone make a DR 4 Will save. On failure, a creature falls **Prone**. A creature that ends its turn in the zone takes the damage again.
 

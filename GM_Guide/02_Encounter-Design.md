@@ -48,8 +48,10 @@ Published Monster Manual entries use their printed TV exactly as written. Chapte
 | **Deadly** | 175-200% of party TV |
 | **Legendary** | 250%+ of party TV |
 
+**Solo Boss Note:** A single creature's TV must be significantly higher than an individual PC's level to pose a threat. To make a **Solo Boss** a "Standard" challenge for 4 PCs, the creature's TV should be roughly **75% of the Party TV**.
+
 **Example:** A party of 4 Level 5 characters has party TV = 20.
-- Standard encounter = enemies totaling TV 15-20
+- Standard encounter = enemies totaling TV 15-20 (e.g., one TV 15 Solo Boss OR 3x TV 5 enemies + 1x TV 5 elite).
 - Challenging encounter = enemies totaling TV 25-30
 - Deadly encounter = enemies totaling TV 35-40
 
@@ -63,13 +65,13 @@ Threat Value (TV) is relative to the **Average Party Level (APL)**. A "standard"
 
 | Enemy Type | Relative TV | Typical Use |
 |-----------|--------------|-------------|
-| **Minion** | APL - 2 (min 0.25) | Disposable bodies, swarm pressure, weak support |
-| **Standard Enemy** | APL + 0 | Rank-and-file threat, roughly one meaningful combatant |
-| **Elite Enemy** | APL + 2 | Strong specialist, high pressure, 1-2 unique abilities |
-| **Boss** | APL + 4 | Encounter centerpiece, Legendary Actions (2), higher HP |
-| **Legendary** | APL + 6+ | Campaign threat, multi-phase, Legendary Actions (3), high Armor |
+| **Minion** | APL - 2 (min 0.25) | Disposable bodies, swarm pressure |
+| **Standard Enemy** | APL + 0 | Rank-and-file threat |
+| **Elite Enemy** | APL + 2 | Strong specialist, high pressure |
+| **Boss (Solo-Capable)** | (APL × 3) | Centerpiece; can face 4 PCs alone if tuned |
+| **Legendary (Solo)** | (APL × 4+) | Campaign threat; requires extreme coordination |
 
-When using a published Monster Manual entry, look at its **Printed TV** and compare it to your party's level to determine its effective tier for *your* group. A "Boss (Level 5) - TV 9" is a Boss for level 5s, but only a Standard enemy for level 9s.
+When using a published Monster Manual entry, look at its **Printed TV** and compare it to your party's level. A TV 15 creature is a "Solo Boss" for a Level 5 party (TV 20), but only a "Standard" enemy for a Level 15 party (TV 60).
 
 ### Quick Enemy Stat Creation (Homebrew Baselines)
 
@@ -99,8 +101,8 @@ Use these formulas when building a creature for a specific **Target Level**. The
 - Special: 1-2 unique abilities
 - Contested checks: pool = Level
 
-**Boss (Printed TV = Level + 4):**
-- HP: 20 + (5 × Level)
+**Boss (Solo-Capable, Printed TV = Level × 3):**
+- HP: 20 + (10 × Level)
 - DV: 4 + (Level ÷ 2), max 6 (excess becomes effective DV via Armor or reactions)
 - Armor: 3-4
 - Attack: (Level + 4) d6, 2 attacks per turn
@@ -493,7 +495,19 @@ The examples below illustrate how to build encounters for each difficulty band. 
 
 ---
 
-## 2.11 Quick Reference: Encounter Checklist
+## 2.12 Encounters and Balance Pressure
+
+Encounters in Nosgoth are not just tactical puzzles; they are moral ones. Choices made in the heat of battle resonate through the **Balance Ledger**.
+
+### Combat Actions Affecting Balance
+- **Catastrophic Force:** Using extreme violence, massive area-of-effect spells in populated areas, or causing significant collateral damage increases **Balance Pressure**.
+- **Fragment Use:** Activating a Fragment's power during an encounter often incurs a "Hidden Cost To Balance." GMs should track these uses in the ledger.
+- **Mercy vs. Extermination:** Sparing fleeing foes, choosing non-lethal resolutions, or protecting innocents can prevent the rise of Balance Pressure or even reduce it (at GM discretion).
+- **The Verdict:** Once Balance Pressure reaches critical levels (3-4), the "Hall's Verdict" begins to manifest in encounters, through omens, spectral interference, or the sudden arrival of Balance-aligned observers.
+
+---
+
+## 2.13 Quick Reference: Encounter Checklist
 
 - [ ] Encounter has clear victory/defeat conditions
 - [ ] Enemy count appropriate for party size
@@ -505,6 +519,7 @@ The examples below illustrate how to build encounters for each difficulty band. 
 - [ ] Consequence for failure clear and interesting
 - [ ] Reward for success proportional to risk
 - [ ] Encounter advances story or reveals information
+- [ ] **Choices in this encounter affect Balance Ledger or Faction Standing**
 
 ---
 

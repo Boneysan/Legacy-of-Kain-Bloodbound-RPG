@@ -24,7 +24,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 8 (Runed Stone Plating)
 - **Initiative:** 4
-- **Movement:** 40 feet (8 squares)
+- **Movement:** 40 feet
 - **SE:** 30
 - **BP:** 0
 - **Attributes:** Fury 7, Soul 3, Shadow 2, Will 5, Focus 3, Blood 0
@@ -91,7 +91,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 - **DV:** 6
 - **Armor:** 4 (Resonant Field)
 - **Initiative:** 8
-- **Movement:** 40 feet (8 squares), Fly 40 feet (hover)
+- **Movement:** 40 feet, Fly 40 feet (hover)
 - **SE:** 70
 - **BP:** 0
 - **Attributes:** Fury 2, Soul 6, Shadow 3, Will 6, Focus 5, Blood 0
@@ -150,7 +150,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 7 (Ossified Plates)
 - **Initiative:** 5
-- **Movement:** 60 feet (12 squares), Swim 60 feet, Burrow 30 feet (silt)
+- **Movement:** 60 feet, Swim 60 feet, Burrow 30 feet (silt)
 - **SE:** 20
 - **BP:** 0
 - **Attributes:** Fury 8, Soul 3, Shadow 4, Will 4, Focus 3, Blood 0
@@ -210,7 +210,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** 2 (Spectral)
 - **Initiative:** 9
-- **Movement:** 60 feet (12 squares), Fly 60 feet (hover, phasing)
+- **Movement:** 60 feet, Fly 60 feet (hover, phasing)
 - **SE:** 60
 - **BP:** 0
 - **Attributes:** Fury 4, Soul 6, Shadow 5, Will 4, Focus 4, Blood 0
@@ -272,7 +272,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 6 (Barkstone)
 - **Initiative:** 3
-- **Movement:** 40 feet (8 squares)
+- **Movement:** 40 feet
 - **SE:** 30
 - **BP:** 0
 - **Attributes:** Fury 8, Soul 3, Shadow 2, Will 5, Focus 3, Blood 0
@@ -339,7 +339,7 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 - **DV:** 6 (1 + Fury 5)
 - **Armor:** 2 (ancient vampiric hide)
 - **Initiative:** 7
-- **Movement:** 45 feet (9 squares)
+- **Movement:** 45 feet
 - **SE:** 40
 - **BP:** 18
 - **Attributes:** Fury 6, Soul 3, Shadow 5, Will 3, Focus 4, Blood 5
@@ -415,7 +415,7 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 3 (decayed Pillar stone)
 - **Initiative:** 3
-- **Movement:** 25 feet (5 squares)
+- **Movement:** 25 feet
 - **SE:** 60
 - **BP:** 0
 - **Attributes:** Fury 3, Soul 6, Shadow 2, Will 5, Focus 4, Blood 0
@@ -479,7 +479,7 @@ The Sentinel advances slowly, using Corruption Aura to force the party to spread
 - **DV:** 6 (1 + Soul 5)
 - **Armor:** 2 (enchanted stone frame)
 - **Initiative:** 4
-- **Movement:** 30 feet (6 squares), Fly 30 feet
+- **Movement:** 30 feet, Fly 30 feet
 - **SE:** 50
 - **BP:** 0
 - **Attributes:** Fury 1, Soul 5, Shadow 3, Will 5, Focus 5, Blood 0
@@ -491,7 +491,7 @@ The Sentinel advances slowly, using Corruption Aura to force the party to spread
 
 **Arcane Discharge** (Action)
 - **Dice Pool:** Soul 5 + Glyphcasting 4 = 9d6
-- **Range:** 50 feet (10 squares)
+- **Range:** 50 feet
 - **Damage:** 10 Spectral/Force
 - **Special:** Penetrates 2 points of armor (the discharge bypasses physical protection).
 

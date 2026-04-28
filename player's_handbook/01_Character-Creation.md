@@ -45,7 +45,7 @@ Human:
 Description: Frail but defiant, humans are adaptable mortals fighting for survival.
 Bonuses: Choose any two skills to receive a +1 bonus.
 Unique Trait: Gain 1 extra Universal Perk at Level 1. Gain an additional Universal Perk at Levels 6, 12, and 18.
-Movement: Ignore one terrain penalty per session; +1 to Stealth in crowds.
+Movement: Ignore one terrain penalty per long rest; +1 to Stealth in crowds.
 Narrative Hook: The last flickers of resistance and redemption.
 
 
@@ -80,8 +80,8 @@ Unbound:
 
 Description: Anomalies outside fate's pattern — possibly temporal echoes or Elder God shards. They resist prophecy and exhibit unnatural luck.
 Bonuses: +1 to any skill and +1 to Insight or Observation.
-Unique Trait: Untethered Soul — immune to one fate-altering magical effect per session; Probability Shift allows re-rolling 1–2 dice once per scene.
-Movement: Treat difficult terrain as normal for 1 round per rest; teleport 20 ft as Bonus Action once per session.
+Unique Trait: Untethered Soul — immune to one fate-altering magical effect per long rest; Probability Shift allows re-rolling 1–2 dice once per scene.
+Movement: Treat difficult terrain as normal for 1 round per rest; teleport 20 ft as Bonus Action once per long rest.
 Narrative Hook: Broken from destiny's tapestry, proof fate can be hacked.
 
 

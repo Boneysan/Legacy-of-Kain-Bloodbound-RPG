@@ -329,7 +329,7 @@ See also:
 
 **Campaign frames:**
 
-- **Balance in Ruins:** The party operates near one of the Pillars—perhaps the Pillar of Nature, where forests grow teeth, or the Pillar of Time, where yesterday and tomorrow swap places without warning. Two factions twist the region in opposite directions: a vampire lord cultivating blood-orchards, a Sarafan chapter burning the land to purify it. The PCs are caught between, asked to choose a side or carve a third path. Each session, the corruption spreads. Each choice reshapes the map. There is no neutrality—only consequences.
+- **Balance in Ruins:** The party operates near one of the Pillars—perhaps the Pillar of Nature, where forests grow teeth, or the Pillar of Time, where yesterday and tomorrow swap places without warning. Two factions twist the region in opposite directions: a vampire lord cultivating blood-orchards, a Sarafan chapter burning the land to purify it. The PCs are caught between, asked to choose a side or carve a third path. Each long rest, the corruption spreads. Each choice reshapes the map. There is no neutrality—only consequences.
 
 - **Blood and Glyph:** A centuries-old war between a vampire brood and a Sarafan chapterhouse has ground to stalemate. Neither side can win, so they recruit proxies, manipulate trade, and settle grudges through intermediaries. The party is hired, seduced, blackmailed, or honor-bound into service. Every favor is a chain. Every debt is a leash. The question is not *if* you will betray someone, but *who*, and *when*, and whether you can live with it after.
 

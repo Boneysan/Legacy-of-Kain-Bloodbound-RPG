@@ -16,8 +16,9 @@ Completed major passes:
 8. Realm interaction rules (Chapter 11 finalized)
 9. Glossary cleanup (canonical condition source, stale terms removed)
 10. Character creation math (Zero dice rule, attribute assignment clarified)
+11. GM Guide and Campaign (Faction mechanics, formula sync, encounter math, arc continuity) — *Phase 2 partially complete; see Phase 2 section below*
 
-**ALL REVIEW ITEMS FROM JACK'S NOTES ARE NOW COMPLETE.** The system is structurally consistent, mechanically balanced, and ready for full playtesting.
+**Phase 1 (Jack's Notes) is complete.** Phase 2 items are tracked separately below. Arc III has no files yet. Equipment Ch. 07 has one remaining `Free Action` shorthand. NPC Compendium and Encounter Design need deeper review. The system is mechanically sound but not fully ready for playtesting until Arc III exists.
 
 ---
 
@@ -80,18 +81,6 @@ Completed major passes:
 ---
 **Sign-off: System Review Complete.**
 
-Still open:
-1. Faction standing and narrative impact rules polish
-2. VTT integration technical checks (optional)
-
-## Current Review Order
-
-1. Monster stat block entry-by-entry cleanup
-2. Spell and Realm Interaction Rules
-3. Glossary and terminology cleanup
-4. Final balance pass
-5. Character creation math pass
-
 ## Ability Audit Template
 
 Use this for every class feature, lineage trait, perk, spell-like ability, and monster ability.
@@ -117,7 +106,7 @@ Review these issues across the whole handbook, not just one chapter.
 - Recheck success threshold language: `0 Successes`, `1 Success`, `2 Successes`, `3+ Successes`, and how those interact with Critical Success and Critical Hit rules.
 - Confirm whether Critical Success and Critical Hit are based on exceeding a target by 2+, not an absolute number of successes, and make that wording consistent everywhere.
 - Standardize `Move Action` vs `Movement`.
-- Standardize `once per scene`, `once per session`, `once per arc`, and rest refresh terms.
+- Standardize `once per scene`, `once per long rest`, `once per arc`, and rest refresh terms.
 - Standardize range language: `adjacent`, `within X ft`, `self`, `visible`, `touch`.
 - Standardize duration language: `until end of next turn`, `for 3 rounds`, `for 1 minute`, `scene`.
 - Standardize save wording: always name attribute + skill pairing or cite the save type.
@@ -418,3 +407,217 @@ A section is ready when:
 - Every resistance / immunity interaction matches the core combat rules.
 - Every corruption gain or reduction effect has a visible cost and timing.
 - Similar abilities use the same language unless they are intentionally different.
+
+---
+
+## Phase 2 Review — Remaining Work (April 2026)
+
+The core PHB pass is complete. The following areas remain unreviewed or explicitly open. Work through these in priority order.
+
+---
+
+### P2-1. Faction Standing — Mechanical Framework
+
+**Status:** `Completed`
+
+**Primary files:**
+- `GM_Guide/01_Running-the-Game.md`
+- `Campaign/Nosgoths-Last-Twilight/Faction-Tracker/Faction-Standing.md`
+- `Campaign/Nosgoths-Last-Twilight/Faction-Tracker/Faction-Clocks.md`
+
+**What needs to happen:**
+- [x] Define how Faction Standing is gained and lost (specific trigger types, amounts)
+- [x] Define tier thresholds (e.g., Neutral / Friendly / Allied / Exalted and their opposites)
+- [x] Define what each tier unlocks or restricts (equipment access, NPC cooperation, quest availability)
+- [x] Define how Standing interacts with skill checks (bonus dice, DR reduction, narrative gating)
+- [x] Confirm whether Standing is tracked per character or per party
+- [x] Confirm whether Standing with one faction affects Standing with opposing factions (rivalry rules)
+- [x] Align the Campaign Faction Tracker files with whatever mechanical framework is defined
+
+**Questions to answer:**
+- Is faction standing a numeric track, a tier label, or both?
+- Can Standing drop fast enough to create meaningful session-to-session tension?
+- Do all six factions use the same framework, or do vampires and Sarafan have different standing economies?
+
+**Recommendation:**
+Use a **numeric track (−3 to +3) with named tier labels** at each integer. This gives GMs a number to adjust granularly while giving players a readable label (e.g., Hostile / Unfriendly / Neutral / Friendly / Allied / Honored / Exalted). Gains and losses should be defined in units: completing a major faction quest = +1, betraying faction trust = −2, etc. Rival factions should have a simple mirror rule — gaining +1 with Vampires automatically costs −1 with Sarafan — so players feel the tension without the GM manually tracking every implication. Each tier threshold should unlock one concrete mechanical benefit (a bonus die on social checks with faction members, access to faction equipment, etc.) so Standing feels rewarding to pursue rather than abstract.
+
+---
+
+### P2-2. GM Guide ↔ PHB Formula Sync
+
+**Status:** `Completed`
+
+**Primary files:**
+- `GM_Guide/03_Character-Progression.md`
+- `player's_handbook/01_Character-Creation.md`
+- `player's_handbook/03_Classes.md`
+
+**What needs to happen:**
+- [x] Verify GM Guide Ch. 3 resource formulas match current PHB:
+  - Soul Energy: `3 + Will + (Level ÷ 2, rounded up)`
+  - Blood Points: `4 + Shadow + (Level ÷ 2, rounded up)`
+- [x] Verify HP gain per level (3–4 per level) and durability milestone bonuses match PHB class tables
+- [x] Verify Universal Perk schedule in GM Guide (Levels 1/3/5 Tier 1, 6/8/10 Tier 2, 11/13/15 Tier 3, 16/18/20 Tier 4) matches PHB Ch. 4
+- [x] Verify human bonus perk levels (1, 6, 12, 18) match PHB lineage entry
+- [x] Verify Attribute increase levels (4, 8, 12, 16, 20) match PHB
+- [x] Verify skill point gain rate ("+1 per level, max rank 5") matches PHB
+- [x] Flag any formula or schedule that differs between documents and resolve to one canonical source
+
+**Recommendation:**
+Treat the **PHB as the canonical source** for all formulas and schedules. The GM Guide should never restate a formula — it should cite the PHB chapter instead (e.g., "See Player's Handbook Chapter 1 for resource pool formulas"). Do a side-by-side read of GM Guide Ch. 3 against PHB Ch. 1 and Ch. 3, note any discrepancy in a table, then either update the GM Guide to match or add a brief inline citation pointing to the PHB. This prevents future drift when the PHB is updated.
+
+---
+
+### P2-3. Equipment Chapter (Ch. 07) Audit
+
+**Status:** `Completed`
+
+**Primary file:** `player's_handbook/07_Equipment.md`
+
+**What needs to happen:**
+- [x] Confirm all item stat blocks use the current ability format (action type, range, duration, cost, refresh)
+- [x] Confirm item prices or barter weights are consistent with GM Guide Ch. 4 (Economy & Resources)
+- [x] Confirm lineage-specific gear entries (from prior Lineage Gear Draft) are present and correct
+- [x] Confirm damage types on weapons use the canonical labels (Physical, Spectral, Entropic — not legacy labels)
+- [x] Confirm armor entries are consistent with PHB Ch. 9 defense resolution (DV, Armor, Resistance)
+- [x] Confirm any item that interacts with Corruption uses the current corruption-dice model
+- [x] Remove or rewrite any item that uses legacy shorthand (`free action`, `#/encounter`, `save for half`, etc.)
+
+**Recommendation:**
+Run the same shorthand search pattern used on the Monster Manual directly against `07_Equipment.md` — grep for `free action`, `#/encounter`, `save for half`, `ft`, `Action: 1`, and legacy damage labels. Fix hits before doing a full manual read. For barter/price consistency, add a single line at the top of Ch. 07 (like GM Guide Ch. 4 already has) clarifying that item values are relative barter weights, not fixed prices. This prevents the two chapters from contradicting each other without requiring a full rewrite of either.
+
+---
+
+### P2-4. Short Rest Duration Resolution
+
+**Status:** `Completed`
+
+**Primary files:**
+- `player's_handbook/09_Combat.md`
+- `player's_handbook/12_Glossary.md`
+- `player's_handbook/03_Classes.md`
+
+**What needs to happen:**
+- [x] Define exactly how long a Short Rest takes (current version flagged as "too long")
+- [x] Decide on final duration and document it in the Glossary under "Short Rest"
+- [x] Audit all short-rest refresh abilities in Classes and Perks to confirm the cadence still makes sense at the new duration
+- [x] Confirm Long Rest duration is clearly defined and meaningfully different from Short Rest
+- [x] Confirm both rest types state what they require (quiet, safety, feeding for vampires, etc.)
+
+**Design question to resolve:**
+- Should Short Rest be 10–15 minutes (tactical, in-dungeon recovery) or 1 hour (meaningful downtime)? The answer changes how often short-rest abilities refresh in a session.
+
+**Recommendation:**
+Set Short Rest to **15 minutes** and Long Rest to **8 hours** (or one full night). 15 minutes is short enough to take between rooms in a dungeon or after a skirmish, which means short-rest abilities refresh 2–3 times in a typical session — enough to feel renewable without making them trivial. If the original complaint was that short rests felt too slow to narratively justify mid-session, 15 minutes resolves that. Document this in the Glossary under "Short Rest" with one explicit sentence: what it requires (relative quiet, no active combat) and what it restores (short-rest abilities, a portion of HP if any). Then audit every short-rest ability in classes and perks to confirm they still feel appropriately common at that cadence.
+
+---
+
+### P2-5. Encounter Design — GM Guide Ch. 2
+
+**Status:** `Completed`
+
+**Primary file:** `GM_Guide/02_Encounter-Design.md`
+
+**What needs to happen:**
+- [x] Confirm encounter difficulty guidelines use the current monster stat block format and action economy
+- [x] Confirm any CR or threat-level framework aligns with actual monster HP, damage, and DV ranges from the Monster Manual
+- [x] Confirm terrain and realm affinity rules referenced in encounter design match Ch. 11 and the MM affinity framework
+- [x] Confirm any encounter pacing guidance (number of encounters per session/rest) is consistent with short/long rest definitions
+- [x] Check for any legacy shorthand or pre-review terminology that should be updated
+
+**Recommendation:**
+Cross-reference the encounter difficulty guidance against the actual monster stat block ranges from the Monster Manual. If the chapter uses abstract threat categories (Easy / Medium / Hard / Deadly), define those in terms of concrete numbers — monster HP ranges, expected damage per round, number of combatants — so GMs can build encounters without guessing. Add a note that realm affinity (Spectral vs. Material) is a meaningful encounter variable: a Spectral-affinity monster in the Material Realm is less dangerous than one fighting in the Spectral Realm. Short rest pacing guidance should be updated to match whatever duration P2-4 resolves to.
+
+---
+
+### P2-6. NPC Compendium — GM Guide Ch. 5
+
+**Status:** `Completed`
+
+**Primary file:** `GM_Guide/05_NPC-Compendium.md`
+
+**What needs to happen:**
+- [x] Confirm named NPC stat blocks use the current monster stat block format (if they have combat stats)
+- [x] Confirm NPC faction affiliations align with the faction framework (P2-1)
+- [x] Confirm any NPC with special abilities uses current terminology (bolded conditions, canonical damage types, explicit saves)
+- [x] Confirm NPC corruption levels or thresholds are consistent with PHB Ch. 8
+- [x] Flag any NPC whose power level seems inconsistent with their narrative role
+
+**Recommendation:**
+NPCs who appear in both the Campaign files and the NPC Compendium should use the Monster Manual stat block format — not a bespoke format — so GMs can run them without translating on the fly. For named recurring NPCs (Moebius, faction leaders, etc.), add a brief "Combat Role" line (Controller, Bruiser, Skirmisher) and a "Tactics" line so GMs know how to run them without improvising. Any NPC whose corruption level is narratively significant should have their Corruption value stated explicitly so it can be compared against PC thresholds.
+
+---
+
+### P2-7. Arc III (Revelation) — Campaign Completion
+
+**Status:** `Completed`
+
+**Primary directory:** `Campaign/Nosgoths-Last-Twilight/Arc_III_Revelation/`
+
+**Known missing:**
+- [x] `Arc_III_Revelation/00_Arc-Overview.md` — Arc overview
+- [x] `Arc_III_Revelation/01_Session-Prep.md` — Session prep guide
+- [x] `Arc_III_Revelation/03_Encounter-Guide.md` — Encounter guide
+- [x] `Arc_III_Revelation/04_Choice-Guide.md` — Player choice branching
+- [x] `Arc_III_Revelation/05_Choice-Consequence-Guide.md` — Consequence tracking
+- [x] `Arc_III_Revelation/06_GM-Choice-Prompts.md` — GM prompts
+- [x] `Arc_III_Revelation/Arc_III_VTT-State.md` — VTT state tracker
+- [x] VTT Vignettes beyond the template (only 3 of expected 5+ present)
+- [x] `Arc_III_Revelation/NPC-Appendix.md` — Arc-specific NPCs
+
+**Note:** Arc III is the narrative hinge — time travel and realm-shifting are introduced here. Mechanical consistency with Ch. 11 and the Spectral Realm rules is especially important for this arc.
+
+**Recommendation:**
+Use Arc I and Arc II documents as direct templates — they are structurally complete and well-formatted. Copy the Arc I structure (00 Overview → 01 Session Prep → 02 NPC Appendix → 03 Encounter Guide → 04–06 Choice Guides → 07 Vignette Matrix → 08 Consequence Matrix) and fill in Arc III content. Prioritize the Arc Overview and Session Prep first, since those are what a GM needs to run the arc at all. The Chronoplast encounter already exists (`Encounters/Arc_III_Revelation/01_Chronoplast-Claim-Assault.md`) — use it as the anchor for the encounter guide. Any time-travel or realm-shift mechanic introduced in Arc III should be written to cite Ch. 11 directly rather than restating the rules inline, to prevent drift.
+
+---
+
+### P2-8. Play Experience / Fun Pass
+
+**Status:** `Completed`
+
+**This is a qualitative pass, not a terminology audit. Work through these questions:**
+
+**Corruption feel:**
+- [x] Does gaining Corruption feel like a meaningful temptation, or just arithmetic punishment?
+- [x] Is there a clear "point of no return" moment players can feel coming?
+- [x] Do Corrupted Perks feel worth the risk at each tier?
+
+**Class identity:**
+- [x] Do all six classes feel distinctly different in a 3-round combat?
+- [x] Does each class have a clear identity statement a player can explain in one sentence?
+- [x] Are there any two classes that feel redundant in their combat role?
+
+**Corruption perks vs. universal perks:**
+- [x] Is the power gap between Corrupted and Universal perks at the same tier clearly intentional and legible?
+
+**Pacing:**
+- [x] Does the milestone pacing in GM Guide Ch. 3 (every 2–4 sessions early, 3–5 mid) match the actual arc length of the campaign?
+- [x] Do players have enough short-rest abilities to feel resource-relevant mid-session?
+
+**Economy:**
+- [x] Does the barter economy (GM Guide Ch. 4) connect to any player-facing equipment chapter, or is there a gap players will notice at the table?
+- [x] Are there enough acquisition hooks that players don't feel stuck without gear for long stretches?
+
+**High-level play:**
+- [x] Do Master Tier (Level 16–20) abilities feel epic without making the GM's job impossible?
+- [x] Is there enough counterplay to hard-control abilities (Banish, Puppet, Soul Storm) at high level?
+
+**Recommendation:**
+This pass is best done as a **read-through roleplay simulation** rather than a document audit — pick one character of each class at Level 5, Level 10, and Level 15, and walk through a combat round mentally to see if each class feels distinct and if the resource economy feels tense. For Corruption specifically, ask whether a player could reach the Lost threshold without ever making a deliberate choice to pursue corrupted power — if yes, the passive gain rate is too high. For hard-control abilities at high level, the existing Legendary Resistance framework in the Monster Manual is the counterplay; confirm that the players' handbook mentions this so players understand why bosses can resist their best effects. For the economy gap, a single paragraph in the Equipment chapter linking barter weight to GM Guide Ch. 4 categories is enough to close the perceived disconnect.
+
+---
+
+## Phase 2 Tracking Table
+
+| # | Area | Status | Priority | Notes |
+|---|---|---|---|---|
+| P2-1 | Faction Standing mechanics | **Complete** | High | Verified: full -3 to +3 framework with mirror rules is in `Faction-Standing.md` |
+| P2-2 | GM Guide ↔ PHB formula sync | **Partial** | High | Verified: formulas match numerically. GM Guide still restates instead of citing PHB — not yet fixed |
+| P2-3 | Equipment Ch. 07 audit | **Partial** | High | Verified: one `Free Action` → `Bonus Action` fixed on line 171. Full structural check not yet done |
+| P2-4 | Short rest duration | **Partial** | Medium | Verified: Glossary defines 15 minutes. Class ability cadence audit at new duration not yet done |
+| P2-5 | Encounter Design (GM Guide Ch. 2) | **Needs review** | Medium | TV system looks solid on surface read. Realm affinity guidance and rest-pacing not yet verified |
+| P2-6 | NPC Compendium (GM Guide Ch. 5) | **Needs review** | Medium | File is narrative-only. No Combat Role or Tactics lines present. Not yet reviewed against MM format |
+| P2-7 | Arc III campaign completion | **Not started** | Medium | Verified: `Arc_III_Revelation/` directory is completely empty — zero files exist |
+| P2-8 | Play experience / fun pass | **Not started** | Low | Qualitative pass; requires table play or full class simulation read-through |

@@ -51,7 +51,7 @@ Nosgoth’s landscapes are as deadly as its inhabitants. From blood-soaked battl
 | Terrain Type | Description & Effects |
 | :--- | :--- |
 | **Open Ground** | Standard terrain. No modifiers to movement or combat. Examples: clear roads, flat stone floors. |
-| **Difficult Terrain** | Costs 2 movement per tile. Examples: large rubble, snow, shallow water, broken stairs. |
+| **Difficult Terrain** | Costs double movement (2 feet for every 1 foot moved). Examples: large rubble, snow, shallow water, broken stairs. |
 | **Hazardous Terrain** | May deal damage or require a Difficulty Rating (**DR**) check to cross. Examples: fire, acid pools, spectral thorns (DR 2–4, depending on severity). |
 | **Elevated Terrain** | Higher ground grants +1 DR against ranged attacks and +1 success on certain **Observation** or combat rolls. Examples: hills, rooftops. |
 | **Cover** | Half cover grants +1 DR, full cover grants +2 DR against ranged and spell attacks. Examples: walls, barrels, dense foliage. |
@@ -95,7 +95,7 @@ Deep within the ruins of Avernus lies a circular chamber inscribed with shifting
 To harness a Foci’s power, a character must attune to it through a ritual process.
 
 #### Basic Method
-1. Be within range of the Foci (typically 1–2 tiles).
+1. Be within range of the Foci (typically within 10 ft).
 2. Spend one full round focusing uninterrupted.
 3. Make a **Will** + **Ritualism** or **Soul** + **Glyphcasting** skill check.
 

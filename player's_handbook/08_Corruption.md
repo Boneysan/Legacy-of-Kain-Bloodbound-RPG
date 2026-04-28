@@ -111,7 +111,7 @@ As Corruption deepens, it bleeds beyond mechanical bonuses into the character's 
 
 **Physical Manifestations:** Deeply Corrupted (Level 7+) characters may exhibit visible signs: pallid or discolored skin, unnatural eye color, faint emanations of void or spectral energy. These are cosmetic but plot-relevant.
 
-**Threshold Pressure:** At Abyss-Bound (Level 11+), the character must succeed on a `DR 2 Will` save at the start of each session or suffer `-1 die` on Concentration and Insight checks for that session, as the corruption erodes self-control.
+**Threshold Pressure:** At Abyss-Bound (Level 11+), the character must succeed on a `DR 2 Will` save at the start of each long rest or suffer `-1 die` on Concentration and Insight checks until their next long rest, as the corruption erodes self-control.
 
 **Total Loss:** At Corruption Level 15 (Lost), the character becomes an NPC monster under the GM's control. (See Chapter 5, §5.10).
 

@@ -15,7 +15,7 @@
 | **Realm Affinity** | Material / Spectral / Hybrid |
 | **Background / Origin** | |
 | **Narrative Hook** | |
-| **Movement Speed** | ___ ft (___ tiles). 1 tile = 5 ft |
+| **Movement Speed** | ___ ft. (typically 25–30 ft) |
 
 ---
 

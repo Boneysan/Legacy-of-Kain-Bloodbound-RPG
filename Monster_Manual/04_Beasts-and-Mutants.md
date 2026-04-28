@@ -896,7 +896,7 @@ In the years since the Pillars began to fail, Blightwater Eels have become incre
 - **HP:** 14
 - **DV:** 3
 - **Armor:** 1 (thick hide)
-- **Movement:** 20 feet (4 squares) land, 40 feet (8 squares) swim
+- **Movement:** 20 feet land, 40 feet swim
 - **SE:** N/A
 - **BP:** N/A
 - **Attributes:** Fury 3, Soul 0, Shadow 1, Will 1, Focus 2, Blood 2
@@ -952,7 +952,7 @@ A single rat is an annoyance. Two hundred are a hazard. Plague Rat Swarms don't 
 - **HP:** 10
 - **DV:** 2
 - **Armor:** 0
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **SE:** N/A
 - **BP:** N/A
 - **Attributes:** Fury 1, Soul 0, Shadow 1, Will 0, Focus 1, Blood 2
@@ -1003,7 +1003,7 @@ They have no intelligence beyond predatory instinct, but they are extremely effe
 - **HP:** 16
 - **DV:** 3
 - **Armor:** 2 (thick ringed hide)
-- **Movement:** 30 feet (6 squares) ground, 30 feet burrow
+- **Movement:** 30 feet ground, 30 feet burrow
 - **SE:** N/A
 - **BP:** N/A
 - **Attributes:** Fury 3, Soul 0, Shadow 1, Will 1, Focus 0, Blood 3
@@ -1060,7 +1060,7 @@ They are no longer strictly animals; the Corruption has given them a rudimentary
 - **HP:** 6
 - **DV:** 4 (nimble, airborne)
 - **Armor:** 0
-- **Movement:** 10 feet (2 squares) ground, 40 feet (8 squares) fly
+- **Movement:** 10 feet ground, 40 feet fly
 - **SE:** N/A
 - **BP:** N/A
 - **Attributes:** Fury 2, Soul 1, Shadow 2, Will 1, Focus 2, Blood 1
@@ -1119,7 +1119,7 @@ The creature is not intelligent; it operates entirely on chemical detection of w
 - **HP:** 4
 - **DV:** 3 (small and slippery)
 - **Armor:** 0
-- **Movement:** 15 feet (3 squares) ground, 20 feet swim
+- **Movement:** 15 feet ground, 20 feet swim
 - **SE:** N/A
 - **BP:** N/A
 - **Attributes:** Fury 1, Soul 1, Shadow 2, Will 0, Focus 1, Blood 2
@@ -1178,7 +1178,7 @@ The Rahabim have a nuanced relationship with Tide-Drakes. They cannot be tamed, 
 - **HP:** 50
 - **DV:** 5 (3 natural + 2 aquatic agility bonus while submerged)
 - **Armor:** 3 (thick bony plates along spine and flanks)
-- **Movement:** 25 feet (5 squares) land, 50 feet (10 squares) swim
+- **Movement:** 25 feet land, 50 feet swim
 - **SE:** N/A
 - **BP:** N/A
 - **Attributes:** Fury 4, Soul 0, Shadow 2, Will 2, Focus 3, Blood 3

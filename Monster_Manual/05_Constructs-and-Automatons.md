@@ -53,7 +53,7 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 - **Save DR:** 3 (Physical), 0 (Mental, immune)
 - **Armor:** 4 Physical, 2 Spectral/Entropic (blessed plate)
 - **Initiative:** 1
-- **Movement:** 25 feet (5 squares)
+- **Movement:** 25 feet
 - **SE:** N/A
 - **BP:** N/A
 - **Attributes:** Fury 4, Soul 0, Shadow 1, Will 0, Focus 3, Blood 0
@@ -128,7 +128,7 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 - **Save DR:** 4 (Physical), 3 (Magical), 0 (Mental, immune)
 - **Armor:** 5 Physical, 3 Elemental, 1 Magic (stone body)
 - **Initiative:** 1
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **SE:** 50
 - **BP:** N/A
 - **Attributes:** Fury 6, Soul 4, Shadow 1, Will 0, Focus 4, Blood 0
@@ -218,7 +218,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 - **Save DR:** 2 (Physical), 1 (Magical), 0 (Mental, immune)
 - **Armor:** 3 Physical, 1 Elemental (stone/clay body)
 - **Initiative:** 1
-- **Movement:** 20 feet (4 squares)
+- **Movement:** 20 feet
 - **SE:** N/A
 - **BP:** N/A
 - **Attributes:** Fury 3, Soul 2, Shadow 1, Will 0, Focus 2, Blood 0
@@ -289,7 +289,7 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 - **Save DR:** 2 (Physical), 3 (Soul), 1 (Mental)
 - **Armor:** 2 Physical, 1 Soul (iron frame + tough hide)
 - **Initiative:** 5
-- **Movement:** 45 feet (9 squares)
+- **Movement:** 45 feet
 - **SE:** N/A
 - **BP:** 1
 - **Attributes:** Fury 4, Soul 3, Shadow 4, Will 2, Focus 3, Blood 1
@@ -363,7 +363,7 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 - **Save DR:** 3 (all saves), 0 (Mental, immune)
 - **Armor:** 3 Physical, 4 Magic (arcane plating)
 - **Initiative:** 5
-- **Movement:** 35 feet (7 squares)
+- **Movement:** 35 feet
 - **SE:** 25
 - **BP:** N/A
 - **Attributes:** Fury 3, Soul 5, Shadow 4, Will 0, Focus 5, Blood 0
@@ -439,7 +439,7 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 - **Save DR:** 5 (Physical), 4 (Magical), 0 (Mental, immune)
 - **Armor:** 6 Physical, 4 Elemental, 2 Soul (bio-metal plating)
 - **Initiative:** 1
-- **Movement:** 20 feet (4 squares)
+- **Movement:** 20 feet
 - **SE:** 50
 - **BP:** N/A
 - **Attributes:** Fury 7, Soul 6, Shadow 1, Will 0, Focus 5, Blood 0
@@ -533,7 +533,7 @@ Scribes are valuable sources of information. They can answer questions about the
 - **Save DR:** 2 (Physical), 3 (Magical), 0 (Mental, immune)
 - **Armor:** 2 Physical, 3 Magic (bronze frame)
 - **Initiative:** 4
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **SE:** 12
 - **BP:** N/A
 - **Attributes:** Fury 2, Soul 3, Shadow 3, Will 0, Focus 4, Blood 0
@@ -607,7 +607,7 @@ Drones are often the first encounter players have with Hylden technology. Their 
 - **Save DR:** 1 (Physical), 0 (Mental, immune)
 - **Armor:** 0 (obsidian shell)
 - **Initiative:** 5
-- **Movement:** 20 feet (4 squares) / Fly 50 feet (10 squares)
+- **Movement:** 20 feet / Fly 50 feet
 - **SE:** N/A
 - **BP:** N/A
 - **Attributes:** Fury 2, Soul 1, Shadow 3, Will 0, Focus 3, Blood 0
@@ -671,7 +671,7 @@ Wardens stand ten feet tall, their bodies a seamless fusion of grey stone and si
 - **Save DR:** 3 (Physical), 2 (Mental, partial)
 - **Armor:** 4 Physical, 2 Magic (runic plating)
 - **Initiative:** 2
-- **Movement:** 25 feet (5 squares)
+- **Movement:** 25 feet
 - **SE:** 10
 - **BP:** N/A
 - **Attributes:** Fury 4, Soul 3, Shadow 2, Will 3, Focus 4, Blood 0
@@ -746,7 +746,7 @@ Most existing Restoration Engines are millennia old, and many have degraded — 
 - **Save DR:** 2 (Physical), 2 (Mental), 3 (Magical)
 - **Armor:** 2 (stone casing)
 - **Initiative:** 1
-- **Movement:** 25 feet (5 squares) / Fly 25 feet (5 squares)
+- **Movement:** 25 feet / Fly 25 feet
 - **SE:** 24
 - **BP:** N/A
 - **Attributes:** Fury 1, Soul 3, Shadow 1, Will 2, Focus 4, Blood 0
@@ -805,7 +805,7 @@ Glyph Spiders are palm-sized arachnoid constructs used throughout Nosgoth's anci
 - **Save DR:** 1 (Physical), 1 (Magical), 1 (Mental)
 - **Armor:** 0
 - **Initiative:** 3
-- **Movement:** 30 feet (6 squares) / Spider Climb
+- **Movement:** 30 feet / Spider Climb
 - **SE:** 6
 - **BP:** N/A
 - **Attributes:** Fury 1, Soul 1, Shadow 2, Will 1, Focus 2, Blood 0

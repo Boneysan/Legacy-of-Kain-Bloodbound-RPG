@@ -54,7 +54,7 @@ Dash through spaces, others cannot -- what does this mean?
 
 Revanents -- Revive once per arc at zero hit points? Dead? 1 HP. WHen hit zero - rewrite? Look at this?
 
-Per session ability? Is it good? Should it be re-writted to long rest?  Look at it?
+Per session abilities have been updated to long rest. Check balance and wording across all instances.
 
 Probability shift? -- Re-roll up to 2 dice? Or make a re-roll
 

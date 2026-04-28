@@ -44,7 +44,7 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 - **DV:** 2
 - **Armor:** 0 (robes)
 - **Initiative:** 3
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **Attributes:** Fury 2, Soul 1, Shadow 2, Will 3, Focus 1, Blood 2
 - **Skills:** Weapon Mastery 1, Lore 3, Concentration 2
 
@@ -97,7 +97,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 - **DV:** 3
 - **Armor:** 1 (blessed robes, Armor: 1 vs Physical)
 - **Initiative:** 3
-- **Movement:** 25 feet (5 squares)
+- **Movement:** 25 feet
 - **Attributes:** Fury 1, Soul 4, Shadow 2, Will 4, Focus 3, Blood 2
 - **Skills:** Weapon Mastery 1, Craft 2, Intimidation 2, Lore (Corrupted) 3
 
@@ -164,7 +164,7 @@ Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are ha
 - **DV:** 4 (precognition)
 - **Armor:** 0 (tattered robes)
 - **Initiative:** 4
-- **Movement:** 25 feet (5 squares)
+- **Movement:** 25 feet
 - **Attributes:** Fury 1, Soul 4, Shadow 3, Will 4, Focus 4, Blood 1
 - **Skills:** Insight 4, Forbidden Knowledge 3, Evasion 2, Persuasion (unsettling): 2
 
@@ -233,7 +233,7 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 - **DV:** 6
 - **Armor:** 3 (blessed plate armor, Armor: 3 vs Physical, Armor: 2 vs Spectral and Entropic)
 - **Initiative:** 2
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **Attributes:** Fury 4, Soul 3, Shadow 2, Will 4, Focus 3, Blood 3
 - **Skills:** Forbidden Knowledge 4, Weapon Mastery 4, Intimidation 3, Lore 2
 
@@ -303,7 +303,7 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 - **DV:** 4
 - **Armor:** 1 (leather and furs, Armor: 1 vs Physical)
 - **Initiative:** 5
-- **Movement:** 35 feet (7 squares)
+- **Movement:** 35 feet
 - **Attributes:** Fury 3, Soul 1, Shadow 3, Will 2, Focus 2, Blood 3
 - **Skills:** Tactics 3, Weapon Mastery 2, Wilderness 2, Intimidation 1
 
@@ -365,7 +365,7 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 - **DV:** 4
 - **Armor:** 0 (robes), but protected by **Runic Shielding** (see Abilities)
 - **Initiative:** 4
-- **Movement:** 25 feet (5 squares)
+- **Movement:** 25 feet
 - **Attributes:** Fury 2, Soul 5, Shadow 3, Will 4, Focus 4, Blood 2
 - **Skills:** Glyphcasting 4, Ritualism 3, Forbidden Knowledge 3, Intimidation 2
 
@@ -435,7 +435,7 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 - **DV:** 6 (agile and trained to evade)
 - **Armor:** 1 (dark leathers, Armor: 1 vs Physical)
 - **Initiative:** 7
-- **Movement:** 40 feet (8 squares)
+- **Movement:** 40 feet
 - **Attributes:** Fury 3, Soul 1, Shadow 5, Will 3, Focus 4, Blood 2
 - **Skills:** Stealth 3, Evasion 3, Craft 3
 
@@ -505,7 +505,7 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 - **DV:** 6
 - **Armor:** 3 (rune-inscribed plate, Armor: 3 vs Physical, Armor: 2 vs Magic)
 - **Initiative:** 4
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **Attributes:** Fury 4, Soul 2, Shadow 3, Will 4, Focus 4, Blood 3
 - **Skills:** Tactics 4, Weapon Mastery 3
 
@@ -572,7 +572,7 @@ The outer ring of Hash'ak'gik's worship—mortals seduced by visions of a god th
 - **DV:** 2
 - **Armor:** 1 (ritual scarification)
 - **Initiative:** 3
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **Attributes:** Fury 2, Soul 2, Shadow 2, Will 1, Focus 1, Blood 2
 - **Skills:** Weapon Mastery 1
 
@@ -620,7 +620,7 @@ A mortal hollowed out by Hash'ak'gik's will and rebuilt as a living conduit for 
 - **DV:** 4
 - **Armor:** 2 (demonic resilience)
 - **Initiative:** 4
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **Attributes:** Fury 3, Soul 4, Shadow 3, Will 4, Focus 3, Blood 3
 - **Skills:** Forbidden Knowledge 2
 
@@ -679,7 +679,7 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 - **DV:** 6
 - **Armor:** 4 (Sarafan blessed plate, Armor: 4 vs Physical, Armor: 2 vs Magic)
 - **Initiative:** 2
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **SE:** 18
 - **Attributes:** Fury 4, Soul 5, Shadow 2, Will 6, Focus 5, Blood 3
 - **Skills:** Intimidation 5, Weapon Mastery 4, Tactics 4, Observation 3
@@ -767,7 +767,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 - **DV:** 5
 - **Armor:** 2 (twisted, hardening flesh)
 - **Initiative:** 4
-- **Movement:** 35 feet (7 squares)
+- **Movement:** 35 feet
 - **SE:** 0
 - **BP:** 3
 - **Attributes:** Fury 5, Soul 2, Shadow 3, Will 2, Focus 2, Blood 4
@@ -999,7 +999,7 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 - **DV:** 6
 - **Armor:** 5 (Consecrated Sarafan Warplate — Armor: 5 vs Physical, 3 vs Magical)
 - **Initiative:** 4
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **SE:** 20
 - **Attributes:** Fury 5, Soul 3, Shadow 3, Will 5, Focus 4, Blood 4
 - **Skills:** Weapon Mastery 5, Tactics 5, Athletics 4, Intimidation 4, Observation 3
@@ -1093,7 +1093,7 @@ They function as the ground troops of any Sarafan encounter — expendable, coll
 - **DV:** 3 (1 + Will 1; +1 discipline)
 - **Armor:** 1 (light mail and breastplate)
 - **Initiative:** 1
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **Attributes:** Fury 2, Soul 0, Shadow 0, Will 1, Focus 2, Blood 2
 - **Skills:** Weapon Mastery 1
 
@@ -1153,14 +1153,14 @@ They are practical in a way many Sarafan are not. An Outrider doesn't care about
 - **DV:** 4 (1 + Focus 3)
 - **Armor:** 1 (reinforced leather)
 - **Initiative:** 3
-- **Movement:** 35 feet (7 squares)
+- **Movement:** 35 feet
 - **Attributes:** Fury 2, Soul 0, Shadow 2, Will 2, Focus 3, Blood 2
 - **Skills:** Weapon Mastery 2, Stealth 2, Observation 2
 
 ### Attacks
 **Crossbow** (Action)
 - **Dice Pool:** Focus 3 + Weapon Mastery 2 = 5d6
-- **Range:** 80 feet (16 squares)
+- **Range:** 80 feet
 - **Damage:** 5 Physical (Piercing) damage
 - **Special:** Ignore partial cover (the Outrider accounts for cover angles when shooting)
 
@@ -1214,7 +1214,7 @@ Commoners should appear in most urban and rural encounters as ambient inhabitant
 - **DV:** 2
 - **Armor:** 0
 - **Initiative:** 1
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **Attributes:** Fury 1, Soul 0, Shadow 0, Will 1, Focus 1, Blood 2
 - **Skills:** None (occupation skills at GM discretion: Merchant 2, Farming 2, etc.)
 
@@ -1261,7 +1261,7 @@ A Rune-Forger at work is a methodical, deliberate practitioner: they prepare the
 - **DV:** 4 (1 + Focus 3)
 - **Armor:** 1 (studded leather, reinforced with minor warding runes)
 - **Initiative:** 2
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **SE:** 20
 - **Attributes:** Fury 1, Soul 3, Shadow 1, Will 3, Focus 4, Blood 2
 - **Skills:** Forbidden Knowledge 3, Glyphcasting 4, Observation 2
@@ -1269,7 +1269,7 @@ A Rune-Forger at work is a methodical, deliberate practitioner: they prepare the
 ### Attacks
 **Rune Bolt** (Action)
 - **Dice Pool:** Focus 4 + Glyphcasting 4 = 8d6
-- **Range:** 50 feet (10 squares)
+- **Range:** 50 feet
 - **Damage:** 7 Spectral/Force damage
 - **Special:** Penetrates 1 point of Armor (the bolt is partially spectral)
 

@@ -146,7 +146,7 @@ Wraiths have no unified society—most are solitary by necessity and temperament
 At character creation, designate one **Anchor** — an object, location, or living person tied to your character's defining purpose or memory. Work with your GM to establish what it is and why it matters.
 
 - **If the Anchor is destroyed or lost:** The Wraith must find and bond to a new Anchor within **7 days** (roughly 1–2 sessions).
-- **Each session without an Anchor:** Make a **DR 2 Will check** at the start of the session. On failure, gain **+1 Corruption** as your coherence frays and the Fading begins.
+- **Each long rest without an Anchor:** Make a **DR 2 Will check** at the start of the long rest. On failure, gain **+1 Corruption** as your coherence frays and the Fading begins.
 - **Replacing an Anchor:** Requires a short ritual of 1 hour and a meaningful new connection — a place where something significant happened, an object with personal resonance, or a person whose fate the Wraith is genuinely invested in. GMs may require a narrative scene to validate the bond.
 - **In the Spectral Realm:** Your Anchor casts a faint spectral echo. Creatures who know the Anchor's location can follow the resonance to find you across planar boundaries.
 

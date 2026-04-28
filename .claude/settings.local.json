@@ -4,7 +4,12 @@
       "Bash(cat)",
       "Bash(grep -n 'silenced' player\\\\'s_handbook/05_Spellcasting-and-Magic.md)",
       "Bash(echo \"\")",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(dir /b /s \"H:\\\\GitHub\\\\Legacy-of-Kain-Bloodbound-RPG\")",
+      "Bash(findstr /i \"jack notes\")",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)"
     ]
   }
 }

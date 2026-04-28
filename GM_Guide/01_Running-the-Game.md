@@ -8,12 +8,13 @@ This chapter covers the practical aspects of running *Legacy of Kain: Bloodbound
 - [1.3 Critical Success vs. Critical Hit](#13-critical-success-vs-critical-hit)
 - [1.4 Handling Pushing Rolls](#14-handling-pushing-rolls)
 - [1.5 Managing Corruption](#15-managing-corruption)
-- [1.6 Pacing Your Sessions](#16-pacing-your-sessions)
-- [1.7 The Rule of Cool](#17-the-rule-of-cool)
-- [1.8 Improvisation Tips](#18-improvisation-tips)
-- [1.9 Common Rulings](#19-common-rulings)
-- [1.10 When Players Surprise You](#110-when-players-surprise-you)
-- [1.11 Quick Reference: GM Calls](#111-quick-reference-gm-calls)
+- [1.6 Managing Factions](#16-managing-factions)
+- [1.7 Pacing Your Sessions](#17-pacing-your-sessions)
+- [1.8 The Rule of Cool](#18-the-rule-of-cool)
+- [1.9 Improvisation Tips](#19-improvisation-tips)
+- [1.10 Common Rulings](#110-common-rulings)
+- [1.11 When Players Surprise You](#111-when-players-surprise-you)
+- [1.12 Quick Reference: GM Calls](#112-quick-reference-gm-calls)
 
 > Terminology note: In combat, target Defense Value (DV). For checks/saves and environmental challenges, compare successes to Difficulty Rating (DR). Armor is flat damage mitigation. A creature is Bloodied at 50% of its maximum HP or lower. Resistance halves damage after the relevant Armor interaction, and Immunity negates the damage or effect entirely unless a rule explicitly bypasses Immunity. Some effects bypass Armor or ignore Physical Armor as defined in the Player's Handbook.
 >
@@ -189,7 +190,33 @@ See Player's Handbook Chapter 8: Corruption for full details on purification met
 
 ---
 
-## 1.6 Pacing Your Sessions
+## 1.6 Managing Factions
+
+Nosgoth is defined by its warring factions. Tracking the party's standing with these groups is essential for a dynamic campaign.
+
+### Faction Standing Scale
+Standing is tracked from **-3 (War)** to **+3 (Exalted)**.
+
+| Score | Tier | Mechanical Impact |
+|:---:|:---|:---|
+| **+3** | **Exalted** | **Advantage** on social checks; access to Master-tier assets. |
+| **+2** | **Allied** | **+1 Die** on social checks; significant discounts (30%+). |
+| **+1** | **Friendly** | Minor discounts (10%); access to restricted Adept gear. |
+| **0** | **Neutral** | Standard business; no bonuses or penalties. |
+| **-1** | **Unfriendly** | **-1 Die** on social checks; increased prices (20%+). |
+| **-2** | **Hostile** | **Disadvantage** on social checks; NPCs may harass or detain. |
+| **-3** | **War** | Social checks impossible/extreme; faction hunts the party. |
+
+### Adjudicating Standing Changes
+- **Standard Gain (+1):** Completing a major quest, validating their ideology, or handing over a fragment.
+- **Standard Loss (-1 to -2):** Betrayal, exposing secrets, or killing a notable representative.
+- **The Mirror Rule:** Actions that please one faction often alienate their rivals (e.g., +1 with Vampires usually costs -1 with Sarafan).
+
+See the **Faction Standing Tracker** in the Campaign folder for current scores and specific faction assets.
+
+---
+
+## 1.7 Pacing Your Sessions
 
 ### The Three-Act Structure
 
@@ -243,7 +270,7 @@ Vary encounter types to maintain engagement:
 
 ---
 
-## 1.7 The Rule of Cool
+## 1.8 The Rule of Cool
 
 Sometimes the coolest narrative outcome is worth bending the rules:
 
@@ -269,7 +296,7 @@ Sometimes the coolest narrative outcome is worth bending the rules:
 
 ---
 
-## 1.8 Improvisation Tips
+## 1.9 Improvisation Tips
 
 You can't prepare for everything. Here's how to improvise confidently:
 
@@ -298,12 +325,13 @@ Players prefer thoughtful decisions over rushed mistakes.
 
 ---
 
-## 1.9 Common Rulings
+## 1.10 Common Rulings
 
 ### Surprise Rounds
 - Attackers make Shadow + Stealth vs. targets' Focus + Observation
-- Successful attackers get one free action before initiative
-- Then roll initiative normally
+- Successful attackers get one **Action** (typically a single attack or spell) before initiative is rolled.
+- Minor tasks (drawing a weapon, speaking) can be done as a Free Action during this surprise turn.
+- Then roll initiative normally.
 
 ### Falling Damage
 - 1d6 damage per 10 feet fallen (round up)
@@ -327,7 +355,7 @@ When caster takes damage while concentrating:
 
 ---
 
-## 1.10 When Players Surprise You
+## 1.11 When Players Surprise You
 
 ### Player Agency
 Embrace it when players:
@@ -355,7 +383,7 @@ If players completely upend your plans:
 
 ---
 
-## 1.11 Quick Reference: GM Calls
+## 1.12 Quick Reference: GM Calls
 
 | Situation | Ruling |
 |-----------|--------|

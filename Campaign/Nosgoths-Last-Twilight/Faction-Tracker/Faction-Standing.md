@@ -4,35 +4,54 @@ Update this after every major session or whenever the party changes control of a
 
 ## Status Key
 
-- Allied: Will spend real assets and take risks for the party.
-- Cooperative: Will bargain honestly enough to do business.
-- Wary: Still talking, already preparing a knife.
-- Hostile: Active obstruction, denunciation, or local violence.
-- War: Kill, capture, or ruin on sight where feasible.
+Faction Standing is tracked on a scale from **-3 (War)** to **+3 (Exalted)**. Each integer represents a distinct tier of relationship with unique mechanical and narrative implications.
 
-## Fast Standing Adjustment
+| Score | Tier | Narrative Attitude | Mechanical Impact |
+|:---:|:---|:---|:---|
+| **+3** | **Exalted** | You are legends of the faction. They will sacrifice assets and take extreme risks for you. | **Advantage** on all social checks with faction. Access to "Master" tier faction gear/secrets. |
+| **+2** | **Allied** | Reliable partners. They will provide shelter, information, and active field support. | **+1 Die** on social checks with faction. Significant discounts (30%+) on faction services. |
+| **+1** | **Friendly** | Cooperative and helpful. They see you as an asset and will bargain in good faith. | Minor discounts (10%). Access to restricted areas or "Adept" tier equipment. |
+| **0** | **Neutral** | Wary or indifferent. Standard business, but they are watching for a reason to distrust you. | Standard prices. No special access or bonuses. |
+| **-1** | **Unfriendly** | Suspicious and unhelpful. They will obstruct you legally or socially where possible. | **-1 Die** on social checks with faction. Increased prices (20%+). |
+| **-2** | **Hostile** | Active enemies. They will use local violence, sabotage, or denunciation to stop you. | **Disadvantage** on social checks with faction. NPCs may attempt to detain or harass you. |
+| **-3** | **War** | Nemesis. You are to be killed, captured, or ruined on sight by any means necessary. | Social checks are impossible or require extreme leverage. Faction strike teams may hunt you. |
 
-Use these shortcuts after each arc before rewriting the full table language.
+## Adjusting Standing
 
-- Move a faction one step toward Allied if the party protected its people, validated its worldview in public, or handed it fragment leverage without immediate humiliation.
-- Move a faction one step toward Hostile if the party exposed its lies, denied it a fragment, or made it look weak in front of rivals.
-- Move a faction straight to War only when the party killed a top representative, destroyed a defining asset, or publicly chose a mutually exclusive end-state.
-- If one wing of a split faction benefits and the other loses, leave the overall standing where it is and update the fault-line text instead.
-- If the party solved a crisis in a way common people would call survivable but elites would call intolerable, improve Outlands Guilds or Pale Accord first and worsen ideological factions second.
-- If the party solved a crisis through terror, coercion, or catastrophic force, worsen Balance Pressure even when allies approve.
+GMs should adjust standing based on the weight of player actions. Most changes happen in units of **1 point**.
+
+### Typical Gains (+1 Point)
+- Completing a major quest or objective for the faction.
+- Publicly validating the faction's worldview or ideology.
+- Protecting a significant faction asset or high-ranking NPC.
+- Handing over a Fragment or major lore artifact to their custody.
+
+### Typical Losses (-1 to -2 Points)
+- **-1 Point:** Minor betrayal, public embarrassment, or failing a major task.
+- **-1 Point:** Associating closely with a hated rival faction.
+- **-2 Points:** Exposing faction secrets, stealing assets, or killing a notable representative.
+- **-3 Points (Straight to War):** Mass slaughter of faction members or destroying a core ideological monument/sanctuary.
+
+### The Mirror Rule (Rivalries)
+Nosgoth is a world of zero-sum conflicts. Gaining influence with one side often alienates the other.
+- Gaining **+1** with **Vampire Clans** automatically costs **-1** with the **Sarafan Order** (and vice-versa).
+- Gaining **+1** with the **Hylden Remnants** automatically costs **-1** with **everyone else** (Hylden are universally feared).
+- Gaining **+1** with the **Cult of the Wheel** often costs **-1** with the **Pale Accord** (dogma vs. scholarship).
+
+---
 
 ## Standing Table
 
-| Faction | Current Status | Why | What They Want Next | Assets In Play | Immediate Threat To Party |
-|:---|:---|:---|:---|:---|:---|
-| Sarafan Order | Wary | The order is split between legalist confessors who want proof and containment, and Hollow hardliners who prefer public collapse, seizure, and extermination. | Force the party to submit evidence, surrender fragments, or create a pretext for sanctioned cleansing. | Knight-confessors, patrols, confiscation writs, anti-undead doctrine, and informants. | Investigation, denunciation, or purge pressure depending on which Sarafan bloc gains the upper hand. |
-| Vampire Clans | Wary | The clans need the party, distrust the party, and read every fragment through clan memory, sovereignty, and humiliation. | Secure leverage over Dumah's Fortress, deny rival clans a fragment advantage, and force the party to acknowledge a legitimate claimant. | Clan champions, oath networks, fortress contacts, thralls, blood-debts, and route control. | Retaliation for perceived favoritism, political coercion, or armed attempts to seize fragment access. |
-| Hylden Remnants | Hostile | The party stand between the Hylden and reliable access to the Rift Ember and any large-scale weakening of the dimensional binding. | Turn the party into instruments, extract fragment access, or widen a breach under controlled conditions. | Possession vectors, engineered hosts, breach devices, negotiator projections, and strike cadres. | Possession, engineered breaches, and attempts to recast necessity as reason. |
-| Pale Accord | Cooperative | The Accord see the party as volatile but useful field operators touching evidence no safe scholar can reach first. | Keep fragment access open, secure trustworthy records, and prevent total destruction of usable knowledge. | Couriers, chronologers, sealed archives, ritual mathematics, and salvage teams. | Manipulation through half-truths, delayed disclosure, or dangerous requests framed as preservation. |
-| Crimson Fracture | Wary | The Fracture are not yet openly dominant, but breach logic and chronal instability have given them recruits, slogans, and proof texts. Their most visible field front is the Ash-Glass Procession, a roaming convert column led by Ash-Glass Reth under Elder Seripha's blessing. | Convince the party that fracture is more honest than restoration and turn one crisis into irreversible merge pressure. | The Ash-Glass Procession, breach-scarred zealots, realm-bleed safehouses, and sabotage cells. | Ideological seduction, instability theater, and opportunistic merge attempts during fragment fallout. |
-| Cult of the Wheel | Hostile | The party are now close enough to the Heart to threaten inevitability, which makes them intolerable to any servant of surrender. | Bury the Heart's meaning, redirect grief into obedience, and turn the party's exhaustion into compliance. | Funerary infrastructure, counselors, compromised clergy, prophecy curation, and fear networks. | Moral paralysis, surrender rhetoric, and hidden control over vulnerable communities. |
-| Outlands Guilds | Cooperative | The Guilds value survivable trade, fragment intelligence, and deniable leverage more than doctrine. | Keep roads open, profit from transport and secrecy, and avoid being crushed by whichever faction wins openly. | Ashwalkers, smugglers, quartermasters, rumor markets, and safe-route maps. | Price hikes, selective betrayals, or selling the party's movements to multiple sides at once. |
-| Cult of Hash'ak'gik | Hostile | The cult wants the Heart profaned, not merely claimed, so every final choice is made under contamination, fear, and blood panic. | Reinfect sanctuaries, corrupt witnesses, and ensure no fragment use remains spiritually clean. | Hospices, compromised charity networks, hidden vessels, and blood rites. | Possession cascades, false sanctuary, and ritual panic near civilians or wounded allies. |
+| Faction | Score | Tier | Why | Assets In Play |
+|:---|:---:|:---|:---|:---|
+| Sarafan Order | **-1** | **Unfriendly** | The order is split; legalists want proof, but hardliners suspect the party of being corrupted by the fragments. | Knight-confessors, patrols, anti-undead doctrine. |
+| Vampire Clans | **-1** | **Unfriendly** | Distrustful of outsiders; they see the party as potential rivals for clan sovereignty and fragment control. | Clan champions, thralls, blood-debts, route control. |
+| Hylden Remnants | **-2** | **Hostile** | The party stands between them and the Rift Ember; they view the party as obstacles to be removed or possessed. | Possession vectors, breach devices, strike cadres. |
+| Pale Accord | **+1** | **Friendly** | They see the party as invaluable field researchers providing data no scholar can reach. | Couriers, archives, ritual math, salvage teams. |
+| Crimson Fracture | **-1** | **Unfriendly** | They view the party's attempts at restoration as a delusion that prevents the "truth" of the merge. | Ash-Glass Procession, breach-scarred zealots, sabotage cells. |
+| Cult of the Wheel | **-2** | **Hostile** | The party threatens the inevitability of the Wheel's cycle; they are seen as dangerous agitators. | Funerary infrastructure, compromised clergy, fear networks. |
+| Outlands Guilds | **+1** | **Friendly** | The party pays well and keeps the roads (relatively) open, which is good for business. | Ashwalkers, smugglers, quartermasters, route maps. |
+| Cult of Hash'ak'gik | **-2** | **Hostile** | The party seeks to claim the Heart, which the cult wants profaned and contaminated. | Hospices, hidden vessels, blood rites, panic agents. |
 
 ## Internal Fault Lines
 

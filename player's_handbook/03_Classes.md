@@ -378,7 +378,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 17 | **Unyielding Adjudication** | Zone of Judgment prevents teleportation into or out of the area. | Passive |
 | 18 | **Anchored in Time** | Immune to **Slowed**, **Stunned**, or Time-based Stasis effects. | Passive |
 | 19 | **Destiny Architect** | Judgment Wheel results can be chosen by the Warden. | Passive |
-| 20 | **Nexus of Aeons** | Once per session, rewind all actions from the current round — damage, effects, and positioning reset to that round's start; all players act with foreknowledge of what transpired. Passively, you cannot be surprised and gain +1 die to all Initiative rolls. | Action, 1/session |
+| 20 | **Nexus of Aeons** | Once per long rest, rewind all actions from the current round — damage, effects, and positioning reset to that round's start; all players act with foreknowledge of what transpired. Passively, you cannot be surprised and gain +1 die to all Initiative rolls. | Action, 1/long rest |
 | 20 | *or* **Arbiter of Finality** | Once per long rest, declare Final Judgment on a target within 30 feet. If they kill an ally, they immediately take damage equal to that ally's max HP, up to a maximum of 40 damage (bypasses Armor). If this drops them to 0 HP, they cannot be revived. | Bonus Action, 1/long rest |
 
 ### 3.3.8 Hylden Warlock

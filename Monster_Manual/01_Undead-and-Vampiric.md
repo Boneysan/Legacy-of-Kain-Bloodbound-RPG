@@ -22,7 +22,7 @@ Feralslave Ghouls are the remains of mortals who died in agony, their souls too 
 - **DV:** 2 (1 + Shadow 1)
 - **Armor:** 0
 - **Initiative:** 2
-- **Movement:** 25 feet (5 squares)
+- **Movement:** 25 feet
 - **Attributes:** Fury 2, Soul 0, Shadow 1, Will 1, Focus 0, Blood 0 (Immune to Blood-based effects)
 - **Skills:** None (act on instinct)
 
@@ -73,7 +73,7 @@ Not all vampires retain their nobility and cunning. Those who give in completely
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 2 (supernatural resilience)
 - **Initiative:** 6
-- **Movement:** 40 feet (8 squares), Climb 30 feet
+- **Movement:** 40 feet, Climb 30 feet
 - **Attributes:** Fury 4, Soul 2, Shadow 4, Will 2, Focus 3, Blood 4
 - **Skills:** Athletics 3, Observation 2, Stealth 3, Evasion (Shadow): 0
 
@@ -142,7 +142,7 @@ Revenants are the restless dead bound to unfinished purpose. Unlike mindless und
 - **DV:** 4 (1 + Will 3)
 - **Armor:** 1 (spectral resilience)
 - **Initiative:** 3
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **Attributes:** Fury 3, Soul 3, Shadow 2, Will 3, Focus 2, Blood 0
 - **Skills:** Weapon Mastery 2, Intimidation 3, Concentration: 2
 
@@ -155,7 +155,7 @@ Revenants are the restless dead bound to unfinished purpose. Unlike mindless und
 **Spectral Grasp** (Action)
 - **Dice Pool:** Shadow 2 + 0 = 2d6
 - **Damage:** 4 Spectral damage (ignores Physical Armor)
-- **Range:** 15 feet (3 squares)
+- **Range:** 15 feet
 - **Special:** Target makes a DR 2 Will save. On failure, the target is **Frightened** until end of next turn.
 
 ### Abilities
@@ -203,7 +203,7 @@ Created through necromantic rituals involving immolation, Bone-Pyre Skeletons ar
 - **DV:** 3 (1 + Shadow 2)
 - **Armor:** 1 (bone structure)
 - **Initiative:** 2
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **Attributes:** Fury 2, Soul 1, Shadow 2, Will 1, Focus 1, Blood 0
 - **Skills:** None
 
@@ -216,7 +216,7 @@ Created through necromantic rituals involving immolation, Bone-Pyre Skeletons ar
 **Ember Burst** (Action, Recharge 5-6)
 - **Dice Pool:** Soul 1 + 0 = 1d6
 - **Damage:** 4 Fire damage
-- **Range:** 10 feet cone (2 squares)
+- **Range:** 10 feet cone
 - **Special:** All creatures in cone make a DR 2 Evasion save. On failure, a creature takes full damage. On success, it takes half damage.
 
 ### Abilities
@@ -254,7 +254,7 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 3 (ancient plate armor + unnatural resilience)
 - **Initiative:** 5
-- **Movement:** 25 feet (5 squares)
+- **Movement:** 25 feet
 - **Attributes:** Fury 4, Soul 3, Shadow 4, Will 4, Focus 2, Blood 0
 - **Skills:** Weapon Mastery 3, Intimidation 4, Tactics 2
 
@@ -270,7 +270,7 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 - **Special:** Wight regains HP equal to damage dealt. Target's maximum HP reduced by damage until long rest.
 
 **Command Undead** (Bonus Action)
-- **Range:** 60 feet (12 squares)
+- **Range:** 60 feet
 - **Effect:** All mindless undead within range act on Wight's initiative and gain +1 die on attack rolls until start of Wight's next turn
 
 ### Abilities
@@ -278,7 +278,7 @@ Wights are ancient warriors or nobles who refused death's call, clinging to thei
 
 **Shadow Step:** As Bonus Action, teleport up to 30 feet to area of dim light or darkness.
 
-**Aura of Dread:** Living creatures that start their turn within 15 feet (3 squares) make a DR 3 Will save. On failure, a creature is **Frightened** until start of its next turn. Creatures that succeed are immune for 24 hours.
+**Aura of Dread:** Living creatures that start their turn within 15 feet make a DR 3 Will save. On failure, a creature is **Frightened** until start of its next turn. Creatures that succeed are immune for 24 hours.
 
 **Sunlight Sensitivity:** Disadvantage on attack rolls and Observation checks in direct sunlight.
 
@@ -319,7 +319,7 @@ When lesser vampires are destroyed, their remaining essence sometimes animates n
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 0 (but see Swarm Wilderness)
 - **Initiative:** 5
-- **Movement:** 30 feet (6 squares), Climb 30 feet, Fly 30 feet
+- **Movement:** 30 feet, Climb 30 feet, Fly 30 feet
 - **Attributes:** Fury 3, Soul 1, Shadow 4, Will 2, Focus 3, Blood 3
 - **Skills:** Stealth 4, Observation 3
 
@@ -374,7 +374,7 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 - **DV:** 3 (1 + Will 2)
 - **Armor:** 0 (cloth robes)
 - **Initiative:** 3
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **Attributes:** Fury 2, Soul 4, Shadow 2, Will 2, Focus 3, Blood 3
 - **Skills:** Ritualism 4, Forbidden Knowledge 3, Persuasion 2
 
@@ -382,7 +382,7 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 **Blood Bolt** (Action)
 - **Dice Pool:** Soul 2 + Ritualism 4 = 6d6
 - **Damage:** 5 Physical damage from blood magic
-- **Range:** 60 feet (12 squares)
+- **Range:** 60 feet
 - **Special:** Target makes a DR 2 Will save. On failure, the target suffers **Bleeding**.
 
 **Vampiric Touch** (Action, melee)
@@ -392,7 +392,7 @@ Former priests or cultists who willingly embraced vampirism to serve dark powers
 
 **Blood Curse** (Action, Recharge 5-6)
 - **Dice Pool:** Soul 4 + Forbidden Knowledge 3 = 7d6
-- **Range:** 30 feet (6 squares)
+- **Range:** 30 feet
 - **Effect:** Target makes a DR 3 Will save. On failure, the target is **Cursed**, suffering a -2 dice penalty on all attack rolls and saves for 1 minute. The target can repeat the save at the end of each turn, ending the effect on a success.
 
 ### Abilities
@@ -436,7 +436,7 @@ Vampires destroyed by fire sometimes leave behind vengeful spirits—Bloodflame 
 - **DV:** 4 (1 + Shadow 3)
 - **Armor:** Special (see Incorporeal)
 - **Initiative:** 5
-- **Movement:** 30 feet (6 squares), Fly 40 feet (hover)
+- **Movement:** 30 feet, Fly 40 feet (hover)
 - **Attributes:** Fury 2, Soul 4, Shadow 3, Will 3, Focus 2, Blood 2
 - **Skills:** Stealth 3, Intimidation 3
 
@@ -448,7 +448,7 @@ Vampires destroyed by fire sometimes leave behind vengeful spirits—Bloodflame 
 
 **Burning Wail** (Action, Recharge 5-6)
 - **Dice Pool:** Soul 4 + Intimidation 3 = 7d6
-- **Range:** 20-foot cone (4 squares)
+- **Range:** 20-foot cone
 - **Damage:** 6 Fire damage
 - **Special:** All creatures in cone make a DR 2 Will save. On failure, a creature is **Frightened** for 1 round.
 
@@ -565,7 +565,7 @@ Most Overlords were once members of the great vampire clans, and some still carr
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** 3 (supernatural resilience)
 - **Initiative:** 7
-- **Movement:** 35 feet (7 squares), Fly 40 feet
+- **Movement:** 35 feet, Fly 40 feet
 - **Attributes:** Fury 5, Soul 4, Shadow 5, Will 5, Focus 4, Blood 6
 - **Skills:** Athletics 4, Intimidation 5, Weapon Mastery 3, Stealth 3
 - **SE:** 15 | **BP:** 8
@@ -579,13 +579,13 @@ Most Overlords were once members of the great vampire clans, and some still carr
 
 **Blood Dominion** (Action, costs 3 SE)
 - **Dice Pool:** Soul 4 + Intimidation 5 = 9d6
-- **Range:** 60 feet (12 squares)
+- **Range:** 60 feet
 - **Damage:** None
 - **Special:** Target makes a DR 4 Will save. On failure, the target is **Dominated** for 1 round. While Dominated this way, the target must obey the Overlord's verbal commands and cannot willingly attack the Overlord. On Critical Hit (3+ successes), duration extends to 2 rounds. Vampiric and undead targets automatically fail.
 
 **Crimson Torrent** (Action, Recharge 5-6)
 - **Dice Pool:** Blood 6 + 0 = 6d6
-- **Range:** 30-foot cone (6 squares)
+- **Range:** 30-foot cone
 - **Damage:** 10 Physical damage from blood magic to all creatures in cone
 - **Special:** Creatures in the cone make a DR 3 Blood save. On failure, a creature takes full damage. On success, it takes half damage. Allied undead and vampires in the area regain 5 HP instead of taking damage.
 
@@ -658,7 +658,7 @@ Grave-Knights are often bound to a specific location (a battlefield, a fortress,
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 3 (ancient plate mail)
 - **Initiative:** 5
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **Attributes:** Fury 4, Soul 3, Shadow 4, Will 4, Focus 3, Blood 3
 - **Skills:** Weapon Mastery 3, Athletics 3, Intimidation 4, Tactics (Will) 3
 - **SE:** 0 | **BP:** 0
@@ -678,7 +678,7 @@ Grave-Knights are often bound to a specific location (a battlefield, a fortress,
 
 **Death's Command** (Action, once per encounter)
 - **Dice Pool:** Will 4 + Tactics 3 = 7d6
-- **Range:** 60 feet (12 squares)
+- **Range:** 60 feet
 - **Damage:** None
 - **Special:** Each undead ally within 60 feet may immediately make one weapon attack as part of this command, without spending its own Action or Reaction. Additionally, all undead allies within range gain +1 DV until end of the Commander's next turn.
 
@@ -733,7 +733,7 @@ They lair in ruined cathedrals, forgotten crypts, and the shattered remains of t
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 4 (Bone-Warded Plate — necrotic-infused skeletal armor)
 - **Initiative:** 5
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **Attributes:** Fury 3, Soul 6, Shadow 4, Will 5, Focus 5, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Ritualism 5, Glyphcasting 4, Intimidation 4, Forbidden Knowledge 5, Observation 3
 - **Soul Energy (SE):** 50
@@ -817,7 +817,7 @@ Unlike Feralslave Ghouls, which are animated by lingering soul-fragments, Risen 
 - **DV:** 2
 - **Armor:** 0
 - **Initiative:** 1
-- **Movement:** 20 feet (4 squares)
+- **Movement:** 20 feet
 - **Attributes:** Fury 2, Soul 0, Shadow 0, Will 0, Focus 0, Blood 0 (Immune to Blood-based effects)
 - **Skills:** None
 - **SE:** N/A | **BP:** N/A
@@ -870,7 +870,7 @@ Fledglings have not yet mastered the full array of vampiric powers, but they are
 - **DV:** 4 (1 + Shadow 2 + Blood 1)
 - **Armor:** 0
 - **Initiative:** 3
-- **Movement:** 35 feet (7 squares)
+- **Movement:** 35 feet
 - **Attributes:** Fury 3, Soul 1, Shadow 2, Will 2, Focus 2, Blood 3
 - **Skills:** Stealth 2, Intimidation 1
 - **SE:** 8 | **BP:** 4
@@ -929,7 +929,7 @@ Archers are more tactically valuable than their TV suggests; their positioning a
 - **DV:** 2
 - **Armor:** 0
 - **Initiative:** 2
-- **Movement:** 25 feet (5 squares)
+- **Movement:** 25 feet
 - **Attributes:** Fury 1, Soul 0, Shadow 1, Will 0, Focus 2, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Weapon Mastery 1
 - **SE:** N/A | **BP:** N/A
@@ -939,7 +939,7 @@ Archers are more tactically valuable than their TV suggests; their positioning a
 **Shortbow** (Action)
 - **Dice Pool:** Focus 2 + Weapon Mastery 1 = 3d6
 - **Damage:** 3 Piercing
-- **Range:** 60 feet (12 squares)
+- **Range:** 60 feet
 - **Special:** Skeletal Archers can fire into melee without Disadvantage (they lack the judgment to care)
 
 ### Abilities
@@ -981,7 +981,7 @@ Vampire lords prize them as palace guards and tomb sentinels. They don't sleep, 
 - **DV:** 3 (1 + Fury 2)
 - **Armor:** 2 (corroded plate)
 - **Initiative:** 1
-- **Movement:** 25 feet (5 squares)
+- **Movement:** 25 feet
 - **Attributes:** Fury 2, Soul 0, Shadow 1, Will 1, Focus 1, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Weapon Mastery 2
 - **SE:** N/A | **BP:** N/A
@@ -1051,7 +1051,7 @@ Most Zealots barely understand the Fracture's true goals. They know they are par
 - **DV:** 3 (1 + Blood 2)
 - **Armor:** 0
 - **Initiative:** 3
-- **Movement:** 35 feet (7 squares)
+- **Movement:** 35 feet
 - **Attributes:** Fury 3, Soul 1, Shadow 2, Will 2, Focus 1, Blood 2
 - **Skills:** Weapon Mastery (Fury): 3, Stealth (Shadow): 2, Athletics (Blood): 2
 - **Soul Energy (SE):** 10
@@ -1113,7 +1113,7 @@ The process is not without cost. Every Dimension-Walker bears the mark of their 
 - **DV:** 4 (1 + Blood 3)
 - **Armor:** 1
 - **Initiative:** 5
-- **Movement:** 35 feet (7 squares)
+- **Movement:** 35 feet
 - **Attributes:** Fury 3, Soul 3, Shadow 3, Will 3, Focus 2, Blood 3
 - **Skills:** Weapon Mastery (Fury): 3, Ethereal Mastery (Soul or Shadow): 3, Stealth (Shadow): 4, Athletics (Blood): 3
 - **Soul Energy (SE):** 20
@@ -1175,7 +1175,7 @@ They are not insane — most Void-Touched are as calculating and dangerous as an
 - **DV:** 5 (1 + Blood 4)
 - **Armor:** 2
 - **Initiative:** 4
-- **Movement:** 40 feet (8 squares)
+- **Movement:** 40 feet
 - **Attributes:** Fury 4, Soul 4, Shadow 3, Will 4, Focus 3, Blood 4
 - **Skills:** Weapon Mastery (Fury): 4, Ethereal Mastery (Soul or Shadow): 4, Tactics (Will): 4, Stealth (Shadow): 3, Athletics (Blood): 3
 - **Soul Energy (SE):** 30
@@ -1254,14 +1254,14 @@ Banshees are spirits of grief so concentrated that they linger as weapons. Some 
 - **DV:** 3 (1 + Shadow 2)
 - **Armor:** Special (Incorporeal)
 - **Initiative:** 4
-- **Movement:** 40 feet (8 squares), Fly 40 feet (hover)
+- **Movement:** 40 feet, Fly 40 feet (hover)
 - **Attributes:** Fury 1, Soul 4, Shadow 3, Will 4, Focus 2, Blood 0
 - **Skills:** Intimidation 4, Concentration (Will): 2
 
 ### Attacks
 **Death Shriek** (Action)
 - **Dice Pool:** Soul 4 + Intimidation 4 = 8d6
-- **Range:** 20-foot radius (4 squares), centered on self
+- **Range:** 20-foot radius, centered on self
 - **Damage:** 2 Spectral damage
 - **Special:** Living creatures in the area make a DR 2 Will save. On failure, a creature becomes **Frightened** for 2 rounds.
 

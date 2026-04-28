@@ -24,7 +24,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 4 (Hardened magical flame)
 - **Initiative:** 7
-- **Movement:** 50 feet (10 squares), Fly 50 feet (hover)
+- **Movement:** 50 feet, Fly 50 feet (hover)
 - **SE:** 30
 - **Attributes:** Fury 6, Soul 3, Shadow 4, Will 2, Focus 3, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Intimidation 4, Observation 3, Glyphcasting 4
@@ -105,7 +105,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **DV:** 6 (1 + Soul 5)
 - **Armor:** 2 (Ethereal form)
 - **Initiative:** 8
-- **Movement:** 75 feet (15 squares), Fly 75 feet (hover)
+- **Movement:** 75 feet, Fly 75 feet (hover)
 - **SE:** 40
 - **Attributes:** Fury 4, Soul 5, Shadow 3, Will 3, Focus 4, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Stealth 5, Observation 6, Evasion 3, Glyphcasting 3
@@ -185,7 +185,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **DV:** 6
 - **Armor:** 6 (Rapidly swirling debris and hardened ice)
 - **Initiative:** 6
-- **Movement:** 60 feet (12 squares), Fly 60 feet (hover)
+- **Movement:** 60 feet, Fly 60 feet (hover)
 - **SE:** 40
 - **BP:** 20
 - **Attributes:** Fury 5, Soul 4, Shadow 6, Will 2, Focus 3, Blood 5
@@ -270,7 +270,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 6 (Thick magical ice)
 - **Initiative:** 3
-- **Movement:** 30 feet (6 squares)
+- **Movement:** 30 feet
 - **SE:** 20
 - **Attributes:** Fury 5, Soul 2, Shadow 4, Will 5, Focus 2, Blood 1
 - **Skills:** Intimidation 3, Athletics 3, Wilderness 3
@@ -351,7 +351,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **DV:** 5 (1 + Shadow 2; construct relies on Armor over evasion)
 - **Armor:** 7 (Crystalline Ice)
 - **Initiative:** 2
-- **Movement:** 25 feet (5 squares)
+- **Movement:** 25 feet
 - **SE:** 25
 - **Attributes:** Fury 4, Soul 3, Shadow 2, Will 6, Focus 3, Blood 0
 - **Skills:** Intimidation 3, Athletics 3, Observation 3
@@ -433,7 +433,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **DV:** 6 (1 + Focus 5)
 - **Armor:** 3 (Arcane energy)
 - **Initiative:** 9
-- **Movement:** 100 feet (20 squares), Fly 100 feet (hover)
+- **Movement:** 100 feet, Fly 100 feet (hover)
 - **SE:** 50
 - **Attributes:** Fury 3, Soul 6, Shadow 2, Will 4, Focus 5, Blood 0
 - **Skills:** Glyphcasting 6, Evasion 5, Observation 3
@@ -520,7 +520,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **DV:** 6
 - **Armor:** 7 (Anti-Magic Shell)
 - **Initiative:** 8
-- **Movement:** 40 feet (8 squares), Fly 40 feet (hover)
+- **Movement:** 40 feet, Fly 40 feet (hover)
 - **SE:** 60
 - **Attributes:** Fury 5, Soul 7, Shadow 5, Will 6, Focus 6, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Glyphcasting 5, Observation 4, Intimidation 2
@@ -610,7 +610,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** 5 (Crackling electrical field)
 - **Initiative:** 7
-- **Movement:** 50 feet (10 squares), Fly 50 feet (hover)
+- **Movement:** 50 feet, Fly 50 feet (hover)
 - **SE:** 40
 - **Attributes:** Fury 6, Soul 3, Shadow 5, Will 2, Focus 4, Blood 0
 - **Skills:** Athletics 4, Observation 3, Intimidation 4
@@ -693,7 +693,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 - **DV:** 6
 - **Armor:** 5 (Misty form)
 - **Initiative:** 6
-- **Movement:** 75 feet (15 squares), Fly 75 feet (hover)
+- **Movement:** 75 feet, Fly 75 feet (hover)
 - **SE:** 45
 - **Attributes:** Fury 2, Soul 5, Shadow 6, Will 4, Focus 3, Blood 0
 - **Skills:** Infiltration 4, Glyphcasting 4, Stealth 2
@@ -780,7 +780,7 @@ They sustain themselves by feeding on ambient magical energy and fear. Environme
 - **DV:** 6 (1 + Soul 5)
 - **Armor:** 0 (fire form - physical attacks that use the Flame Form exception pass normally)
 - **Initiative:** 4
-- **Movement:** 40 feet (8 squares), Fly 40 feet (hover)
+- **Movement:** 40 feet, Fly 40 feet (hover)
 - **SE:** 28
 - **Fuel:** 5 (unique resource; see Fuel Depletion below)
 - **Attributes:** Fury 3, Soul 5, Shadow 3, Will 4, Focus 4, Blood 0 (Immune to Blood-based effects)
@@ -790,7 +790,7 @@ They sustain themselves by feeding on ambient magical energy and fear. Environme
 
 **Fire Dart** (Action)
 - **Dice Pool:** Soul 5 + Glyphcasting 3 = 8d6
-- **Range:** 60 feet (12 squares)
+- **Range:** 60 feet
 - **Damage:** 8 Fire damage
 - **Special:** Targets with **Burning** condition take +2 bonus damage from Fire Dart.
 
@@ -855,7 +855,7 @@ Pillar-Stone Golems are found near the ruins of ancient Pillar sites and in the 
 - **DV:** 6 (1 + Blood 4 + Will 1 = hard cap at 6)
 - **Armor:** 4 (Pillar-stone construction)
 - **Initiative:** 2
-- **Movement:** 25 feet (5 squares)
+- **Movement:** 25 feet
 - **SE:** 25
 - **Attributes:** Fury 5, Soul 3, Shadow 1, Will 4, Focus 3, Blood 4
 - **Skills:** Weapon Mastery 3, Intimidation 2, Glyphcasting 5
@@ -939,7 +939,7 @@ In practice, they are enormously dangerous. They pull creatures toward them, the
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** 0 (void form - certain damage types interact unusually; see Shadow Immunity)
 - **Initiative:** 7
-- **Movement:** 30 feet (6 squares), Fly 30 feet (hover)
+- **Movement:** 30 feet, Fly 30 feet (hover)
 - **SE:** 40
 - **Attributes:** Fury 2, Soul 4, Shadow 6, Will 5, Focus 4, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Stealth (Shadow) 4, Intimidation 2
@@ -1011,7 +1011,7 @@ What makes them exceptionally dangerous is the cascading snowball effect: each s
 - **DV:** 6 (1 + Soul 5)
 - **Armor:** 0 (arcane form; see Incorporeal)
 - **Initiative:** 5
-- **Movement:** 35 feet (7 squares), Fly 35 feet (hover)
+- **Movement:** 35 feet, Fly 35 feet (hover)
 - **SE:** 60 (grows during combat - see Soul Gluttony)
 - **Attributes:** Fury 2, Soul 5, Shadow 4, Will 4, Focus 4, Blood 0 (Immune to Blood-based effects)
 - **Skills:** Unarmed Combat (Soul) 4, Stealth (Shadow) 3, Observation (Focus) 2
@@ -1020,7 +1020,7 @@ What makes them exceptionally dangerous is the cascading snowball effect: each s
 
 **Unarmed Combat** (Action)
 - **Dice Pool:** Soul 5 + 4 = 9d6
-- **Range:** 60 feet (12 squares)
+- **Range:** 60 feet
 - **Damage:** None (no physical harm)
 - **Special:** On Hit: Target loses 8 SE. The SE-Feeder gains 4 SE. If the target has 0 SE, the Unarmed Combat deals 8 Spectral damage instead (it consumes the life-force when SE is depleted).
 

@@ -29,6 +29,15 @@ The campaign uses 15 primary skills mapped to a 3-tier Difficulty Rating (DR) sy
 - **DR 3 (Significant):** Hidden motives, complex lore, or precise timing.
 - **DR 4 (Legendary):** Breaking reality, defying the Wheel, or rewriting breaches.
 
+### Faction Standing Modifiers
+Your relationship with a faction (see GM Guide §1.6) modifies social and specific lore checks involving them:
+- **Exalted (+3):** **Advantage** on all related checks.
+- **Allied (+2):** **+1 Die** to the dice pool.
+- **Friendly (+1):** Minor narrative concessions (no mechanical bonus).
+- **Unfriendly (-1):** **-1 Die** from the dice pool.
+- **Hostile (-2):** **Disadvantage** on all related checks.
+- **War (-3):** Standard checks are impossible without extreme leverage.
+
 ---
 
 ## 2. Skill Usage Mapping

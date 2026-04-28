@@ -795,7 +795,7 @@ Complete rewrite of the player-facing character sheet. Old file `Chatacter Sheet
 - Structured spell tracking table (Name/Tier/Cost/Type/Concentration)
 - Concentration tracking field
 - Temporary HP field
-- Movement Speed in feet and tiles
+- Movement Speed in feet (typically 25–30 ft)
 - Progression tracker (Combat Bonus + Weapon Damage at 5/10/15/20, Attribute +1 at 4/8/12/16/20)
 - Equipment section with currency field
 - Character creation checklist

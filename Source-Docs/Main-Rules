@@ -41,7 +41,7 @@ Soul Reaver’s Prophecy – Raziel's destiny revealed, cycles unravel.
 Defiance – Final confrontation; Raziel merges with blade, Kain glimpses hope.
 
 🧙 NPC Compendium (Abbreviated)
-Kain – Vampire Lord; Ability: Chrono Reversal (1x/session negate time-based action)
+Kain – Vampire Lord; Ability: Chrono Reversal (1x/long rest negate time-based action)
 Raziel – Wraith Bladebearer; Ability: Phase Strike (ignore armor for 1 round)
 Moebius – Time Streamer; Ability: Reset Encounter (manipulate initiative/order)
 Elder God – Cosmic Entity; Ability: Tentacle of Fate (pull 1 PC into Spectral Realm)
@@ -156,7 +156,7 @@ Lineages (Races)
 In Nosgoth, racial identity is more than a matter of heritage—it defines your connection to the realms, your resistance to corruption, and your legacy in the war between fate and freedom. In this system, races are known as Lineages, representing both physical form and metaphysical origin. Each Lineage comes with unique traits, starting skill bonuses, and potential narrative hooks.
 
 🧛 Vampires
-Movement Speed: 30 ft (6 squares) Terrain Bonus: Move through rubble and broken architecture without penalty. Stealth: +1 to Stealth rolls when moving in darkness or moonlight. Movement Effects: Can scale vertical surfaces with minor difficulty (DR 1)  if near blood trails. Immortal and cursed, vampires dominate the Material Realm with supernatural strength and blood-fueled powers.
+Movement Speed: 30 feet Terrain Bonus: Move through rubble and broken architecture without penalty. Stealth: +1 to Stealth rolls when moving in darkness or moonlight. Movement Effects: Can scale vertical surfaces with minor difficulty (DR 1)  if near blood trails. Immortal and cursed, vampires dominate the Material Realm with supernatural strength and blood-fueled powers.
 
 Subtypes: Razielim, Turelim, Dumahim, Zephonim
 Bonuses: +1 Weapon Mastery, +1 Stealth
@@ -165,10 +165,10 @@ Narrative Hook: Bound by the wheel of fate and the blood of the ancients.
 ▶️ Razielim
 Winged vampires once favored by Kain.
 Bonus Skill: +1 Possession or Observation
-Feature: Razielim Glide: "As part of your move on your turn, you can unfurl your wings to glide. This allows you to move up to 30 feet (6 squares) horizontally through the air. This gliding movement has the following properties:
+Feature: Razielim Glide: "As part of your move on your turn, you can unfurl your wings to glide. This allows you to move up to 30 feet  horizontally through the air. This gliding movement has the following properties:
 You must end this movement on a solid surface you can stand on. If you do not, you fall any remaining distance.
 This specific gliding movement does not provoke attacks of opportunity from enemies.
-If you initiate this glide from an elevated position, you take no damage from the descent (for falls up to 60 feet / 12 squares). Additionally, for every 5 feet (1 square) of height you descend during the glide, you can extend the horizontal distance of the glide by an additional 5 feet (1 square), up to a maximum total horizontal glide distance of 60 feet / 12 squares (your base 30 feet / 6 squares + up to 30 feet / 6 squares from descent).
+If you initiate this glide from an elevated position, you take no damage from the descent (for falls up to 60 feet). Additionally, for every 5 feet of height you descend during the glide, you can extend the horizontal distance of the glide by an additional 5 feet, up to a maximum total horizontal glide distance of 60 feet (your base 30 feet + up to 30 feet from descent).
 You cannot gain altitude with this glide; it is for horizontal movement or controlled descent."
 Detect Planar Echoes (Razielim Lineage Feature)
 A Razielim can extend their senses to perceive residual impressions—planar echoes—left on the fabric of reality by significant events, powerful emotions, temporal disturbances, or the crossing of beings between realms.
@@ -221,7 +221,7 @@ Muscle-bound warlords of Nosgoth.
 Bonus Skill: +1 Tactics
 Feature: Turelim Protector (Turelim Lineage Feature)
 The Turelim are renowned for their unyielding defense and the protective loyalty they extend to those they consider under their charge. Their sheer physical presence and warrior's resolve allow them to shield their allies from harm.
-Trigger: An ally within 5 feet (1 square) of the Turelim is successfully hit by an attack.
+Trigger: An ally within 5 feet of the Turelim is successfully hit by an attack.
 Action Cost: 1 Reaction.
 Frequency: Once per scene.
 Effect:
@@ -232,7 +232,7 @@ Against the damage dealt by this specific intercepted attack, the Turelim gains 
 
 ▶️ Dumahim
 Imposing and silent—undead titans.
-Bonus Skill: +1 Presence
+Bonus Skill: +1 Intimidation
 Feature: Patient Earthshaker (Dumahim Lineage Feature)
 Embodying the immense, stoic strength and the unyielding patience of ages spent entombed, a Dumahim can channel their power into the very ground, unleashing a localized shockwave to disrupt their foes.
 Condition for Use: To activate this ability, the Dumahim must not have willingly moved from their current space since the end of their previous turn. (Shifting in place or being forcibly moved does not prevent its use, but taking a move action does).
@@ -241,10 +241,10 @@ Frequency: Once per scene.
 Effect:
 The Dumahim chooses to either Knock Prone OR Push Back enemies. This choice must be made before affected enemies attempt their check.
 The Dumahim then slams a fist, foot, or weapon powerfully into the ground or an adjacent large, solid surface (like a stone floor, heavy debris, or a thick wall).
-All enemies within a 10-foot (2 squares) radius of the Dumahim must make a Difficulty Rating (DR) 2 Fury check (to brace against the impact) or a DR 2 Evasion check (to leap clear of the worst of the tremor), whichever the target prefers.
+All enemies within a 10-foot radius of the Dumahim must make a Difficulty Rating (DR) 2 Fury check (to brace against the impact) or a DR 2 Evasion check (to leap clear of the worst of the tremor), whichever the target prefers.
 Any enemy who fails this check suffers the effect chosen by the Dumahim:
 If Knock Prone was chosen: The target is knocked prone in their current space.
-If Push Back was chosen: The target is pushed 5 feet (1 square) directly away from the Dumahim. If this movement would push them into a solid obstacle (like a wall or another creature), they stop at the obstacle.
+If Push Back was chosen: The target is pushed 5 feet directly away from the Dumahim. If this movement would push them into a solid obstacle (like a wall or another creature), they stop at the obstacle.
 
 
 ▶️ Zephonim
@@ -254,7 +254,7 @@ Feature: Cling: As a Bonus Action, you can begin clinging to an adjacent vertica
 "A Zephonim utilizing their Cling feature can strategically achieve superior positioning. If clinging places them in Elevated Terrain relative to their adversaries, they gain +1 success on relevant combat rolls (such as ranged attacks) or awareness checks. Conversely, enemies targeting an elevated Zephonim with ranged attacks require +1 additional success to hit them. Should their clinging position provide Cover (e.g., behind an outcropping or architectural feature), attackers targeting them with ranged or spell attacks likewise require +1 additional success for half cover, or +2 additional successes for full cover. While clinging to an exposed position offers no inherent combat advantage beyond potential surprise, leveraging this feature for attacks from Stealth may grant further situational bonuses as per GM discretion or specific perk interactions."
 
 👻 Wraiths
-Movement Speed: 25 ft (5 squares) (Spectral: 35 ft (7 squares) while phased) Terrain Bonus: Ignore terrain penalties in the Spectral Realm. Stealth: Gain advantage on Stealth checks while in the Spectral Realm. Movement Effects: May pass through thin barriers while phased. Souls untethered from flesh, walking the boundary of life and death.
+Movement Speed: 25 ft (Spectral: 35 ft while phased) Terrain Bonus: Ignore terrain penalties in the Spectral Realm. Stealth: Gain advantage on Stealth checks while in the Spectral Realm. Movement Effects: May pass through thin barriers while phased. Souls untethered from flesh, walking the boundary of life and death.
 Bonuses: +1 Possession, +1 Observation, +1 Will
 Unique Trait: Wraith Phasing
 "You can manipulate your connection to the Spectral Realm. You can use this ability a number of times equal to your Will attribute (minimum 1 use) per long rest.
@@ -282,13 +282,13 @@ Spells and magical effects that can target ethereal or spectral beings affect yo
 Narrative Hook: Forgotten by death, hunted by time.
 
 🧠 Hylden-Blooded
-Movement Speed: 30 ft (6 squares) Terrain Bonus: Move at full speed across corrupted or glyph-infused terrain. Stealth: No bonus, but may use Glyphcasting to alter terrain visibility. Movement Effects: May surge 10 ft once per scene when taking a Corruption Die. Exiled beings of entropy and dark invention.
+Movement Speed: 30 feet Terrain Bonus: Move at full speed across corrupted or glyph-infused terrain. Stealth: No bonus, but may use Glyphcasting to alter terrain visibility. Movement Effects: May surge 10 ft once per scene when taking a Corruption Die. Exiled beings of entropy and dark invention.
 Bonuses: +1 Glyphcasting, +1 Forbidden Knowledge
 Unique Trait: May cast one spell per long rest without cost—but take Corruption.
 Narrative Hook: Bearers of ancient wrath, seeking dominion or revenge.
 
 🧙 Humans
-Movement Speed: 30 ft (6 Squares) Terrain Bonus: May ignore one terrain penalty per session due to adaptability. Stealth: Gain +1 to Stealth when in crowds or chaotic environments. Movement Effects: May Dash through narrow spaces others cannot. Mortals who live, adapt, and fight for survival.
+Movement Speed: 30 ft Terrain Bonus: May ignore one terrain penalty per long rest due to adaptability. Stealth: Gain +1 to Stealth when in crowds or chaotic environments. Movement Effects: May Dash through narrow spaces others cannot. Mortals who live, adapt, and fight for survival.
 Bonuses: Choose any 2 skills to get +1 
 Unique Trait: Gain 1 extra perk every 4 levels.
 Narrative Hook: The last flickers of resistance and redemption.
@@ -319,7 +319,7 @@ Spotting a minor, temporary vulnerability (e.g., "that loose rock above them," "
 ▶️ Oracle-Blooded
 Touched by divinity or prophecy.
 Bonus Skill: +1 Insight or Forbidden Knowledge
-Feature: Fleeting Omen (Active Minor Ability): Additionally, once per scene, the Oracle-Blooded can use a Bonus Action to open their senses to the immediate future or hidden realities concerning a single target (a creature, object, or small area like a doorway or chest) they can see within 30 feet (6 squares).
+Feature: Fleeting Omen (Active Minor Ability): Additionally, once per scene, the Oracle-Blooded can use a Bonus Action to open their senses to the immediate future or hidden realities concerning a single target (a creature, object, or small area like a doorway or chest) they can see within 30 feet .
 
 
 Roll 1d6. The result gives a brief, symbolic, and often cryptic insight or feeling related to that target in the very near future (typically within the next few minutes or the current interaction):
@@ -334,7 +334,7 @@ The GM describes the omen briefly and subjectively to the Oracle-Blooded player,
 
 
 🧬 Revenants
-Movement Speed: 25 ft (5 squares) Terrain Bonus: Treat shallow graves, crypts, or ruined interiors as normal ground. Stealth: +1 Stealth in fog, smoke, or when obscured by decay. Movement Effects: May collapse into ash once per rest to move through bars or cracks. Souls returned to decayed bodies—half-wraith, half-corpse.
+Movement Speed: 25 ft Terrain Bonus: Treat shallow graves, crypts, or ruined interiors as normal ground. Stealth: +1 Stealth in fog, smoke, or when obscured by decay. Movement Effects: May collapse into ash once per rest to move through bars or cracks. Souls returned to decayed bodies—half-wraith, half-corpse.
 Bonuses: +1 Concentration, +1 Rituals
 Unique Trait: Unyielding Purpose
 A Revenant is a soul bound to a decaying form by sheer force of will, driven by a task left undone or a vow yet to be fulfilled. This singular focus grants them unnatural resilience and a relentless drive.
@@ -349,15 +349,15 @@ Vengeful Focus: If pursuing a direct aspect of your "unfinished business" (a spe
 Narrative Hook: Defying the grave, serving a second purpose.
 
 🌑 Unbound
-Movement Speed: 30 ft (6 squares) Terrain Bonus: May treat any difficult terrain as normal for 1 round per rest. Stealth: +1 Stealth while moving unpredictably or chaotically. Movement Effects: Once per session, teleport up to 20 ft as a bonus action. Wildcards—those untouched by lineage but shaped by chaos.
+Movement Speed: 30 feet Terrain Bonus: May treat any difficult terrain as normal for 1 round per rest. Stealth: +1 Stealth while moving unpredictably or chaotically. Movement Effects: Once per long rest, teleport up to 20 ft as a bonus action. Wildcards—those untouched by lineage but shaped by chaos.
 Bonuses: +1 any skill, +1 Insight or Observation
 Unique Trait: Untethered Soul (Refined name for the fate immunity)
-Effect: Once per game session, when you would be directly targeted or affected by a magical effect, prophecy, potent curse, or divinely influenced event that the GM determines is specifically attempting to control your actions, alter your destiny, or bind your will through fated means, you may choose to be entirely immune to that single instance of the effect. You instinctively 'glitch' or phase out of its intended metaphysical path, remaining unaffected. This cannot be used against direct physical damage that isn't intrinsically tied to such a fate-altering effect.
+Effect: Once per long rest, when you would be directly targeted or affected by a magical effect, prophecy, potent curse, or divinely influenced event that the GM determines is specifically attempting to control your actions, alter your destiny, or bind your will through fated means, you may choose to be entirely immune to that single instance of the effect. You instinctively 'glitch' or phase out of its intended metaphysical path, remaining unaffected. This cannot be used against direct physical damage that isn't intrinsically tied to such a fate-altering effect.
 Secondary Active Trait: Probability Shift (This is the "expanded" part for more frequent use)
 Lore: Unbound often display unnatural luck or timing, subtly warping the probabilities around them.
 Frequency: Once per scene.
 Action Cost: 1 Reaction.
-Trigger & Effect: When you or another creature you can see within 30 feet (6 squares) makes an attack roll, skill check, or saving throw, you can attempt to introduce a 'glitch' into the immediate flow of probability related to that roll.
+Trigger & Effect: When you or another creature you can see within 30 feet  makes an attack roll, skill check, or saving throw, you can attempt to introduce a 'glitch' into the immediate flow of probability related to that roll.
 You can choose to affect one or two of the d6s rolled as part of that creature's dice pool.
 That creature must re-roll the chosen die or dice.
 If you targeted yourself or an ally: They use the new result(s) for the re-rolled dice if they are higher; otherwise, they keep their original roll for those dice (effectively, they get to re-roll for a better outcome).
@@ -433,7 +433,7 @@ Weapon Mastery: Essential for melee combat effectiveness.
 Evasion: To supplement their tanking capabilities.
 Unarmed Combat: If focusing on natural vampire weaponry or brawling.
 Tactics: For battlefield control and positioning.
-Presence: To intimidate foes.
+Intimidation: To intimidate foes.
 Level Perks:
 Lvl 1: Iron Hide
 Effect (Passive): When your current Hit Points are at or below 50% of your maximum HP, your skin toughens like iron. You automatically gain +1 to your Armor value. This bonus is lost if your HP rises above 50%.
@@ -476,13 +476,13 @@ Effect: You become a whirlwind of devastating melee strikes. As an Action, make 
 Level 11: Sanguine Bulwark
 Effect: Your "Iron Hide" perk (+1 Armor when below 50% HP) now grants +2 Armor instead. Additionally, when you spend 1 Blood for "Bloodrush," you also gain Temporary HP equal to your current Blood attribute score (before spending the point for Bloodrush). These Temporary HP last for 1 minute.
 Level 12: Overwhelming Momentum
-Effect: Your "Juggernaut" charge (Lvl 6) can now push enemies an additional 5 feet (1 square) back. Furthermore, if an enemy is knocked prone by your Juggernaut or stunned by your "Crushing Blow" (Lvl 5), they are so disoriented that their next attack roll suffers disadvantage (or they roll -2 dice).
+Effect: Your "Juggernaut" charge (Lvl 6) can now push enemies an additional 5 feet back. Furthermore, if an enemy is knocked prone by your Juggernaut or stunned by your "Crushing Blow" (Lvl 5), they are so disoriented that their next attack roll suffers disadvantage (or they roll -2 dice).
 Level 13: Font of Vitae
-Effect: Your maximum Blood point pool increases by 2. Additionally, when a creature with blood is slain within 10 feet (2 squares) of you, you can use your Reaction to draw upon its fading life essence, regaining 1 Blood point.
+Effect: Your maximum Blood point pool increases by 2. Additionally, when a creature with blood is slain within 10 feet of you, you can use your Reaction to draw upon its fading life essence, regaining 1 Blood point.
 Level 14: Relentless Predator
 Effect: Your "Warpath" perk (Lvl 8: attacks ignore 1 Armor) is enhanced. You now ignore 1 point of enemy Armor on all melee attacks. If the target is below 50% HP, you ignore 2 points of their Armor instead. Your "Life Drain" is also more effective against weakened foes, healing an additional 1 HP whenever you damage an enemy that is below 50% of its maximum HP.
 Level 15: Crimson Terror
-Effect: When you activate "Crimson Avatar" (Lvl 9), your transformation is terrifying. For the duration, enemies who start their turn within 15 feet (3 squares) of you and can see you must succeed on a DR 2 Will save or become Frightened until the end of their next turn. An enemy who succeeds on this save is immune to this fear effect for the remainder of the current Crimson Avatar activation.
+Effect: When you activate "Crimson Avatar" (Lvl 9), your transformation is terrifying. For the duration, enemies who start their turn within 15 feet of you and can see you must succeed on a DR 2 Will save or become Frightened until the end of their next turn. An enemy who succeeds on this save is immune to this fear effect for the remainder of the current Crimson Avatar activation.
 Level 16: Unyielding Spirit
 Effect: Your "Deathbound" perk (Lvl 7: auto-heal to 1 HP once per scene) is improved. When it activates, you now return to 10% of your maximum HP (rounded up). Additionally, you gain a permanent +1 die bonus to saving throws against effects that would cause paralysis or stun.
 Level 17: Lord of the Feast
@@ -526,7 +526,7 @@ Drawing upon their unique connection to the Spectral Realm and the echoes of pot
 Action Cost: 1 Action
 Cost: 0 Soul Energy (SE)
 This makes it an at-will ranged attack, akin to a basic weapon attack for martial classes or a cantrip for casters.
-Range: 60 feet (12 squares)
+Range: 60 feet
 Target: One creature or object.
 Attack Roll: You make a ranged spell attack. Roll a dice pool equal to your Soul attribute + your Focus skill against the target's Defense Value (DV).
 Effect on a Hit:
@@ -539,12 +539,12 @@ Your unique existence, treading the line between the Material and Spectral Realm
 Trap Intuition:
 
 
-When you move within 10 feet (2 squares) of any hidden trap (whether mundane, magical, or spectral in nature), you automatically receive a chance to notice it. The GM will grant you an Observation skill check against the trap's detection DR, even if you haven't declared that you are actively searching.
+When you move within 10 feet of any hidden trap (whether mundane, magical, or spectral in nature), you automatically receive a chance to notice it. The GM will grant you an Observation skill check against the trap's detection DR, even if you haven't declared that you are actively searching.
 Furthermore, you gain a permanent +1 die bonus to any Observation checks you make specifically to locate, understand the workings of, or determine how to disarm traps.
 Spirit Kenning:
 
 
-You possess an innate and constant awareness of spiritual presences. You automatically sense the general presence (a feeling, shimmer, or whisper), approximate number (e.g., "a lone entity," "several faint traces," "a strong convergence"), and rough direction of any hidden, disguised, invisible, or ethereal spirits within 30 feet (6 squares) of you. This basic awareness does not require a skill check.
+You possess an innate and constant awareness of spiritual presences. You automatically sense the general presence (a feeling, shimmer, or whisper), approximate number (e.g., "a lone entity," "several faint traces," "a strong convergence"), and rough direction of any hidden, disguised, invisible, or ethereal spirits within 30 feet  of you. This basic awareness does not require a skill check.
 To discern more specific details about these spirits (such as their precise nature, exact current location if mobile, emotional state, specific intent, or weaknesses), you must typically make an appropriate skill check (e.g., Observation, Soul + Insight, Will + Forbidden Knowledge, or a relevant social skill if attempting communication). For such checks to learn more about spirits you have passively sensed, you gain a +1 die bonus.
 
 Suggested Skills for Point Allocation:
@@ -562,20 +562,20 @@ To disable such a spectral mechanism, you typically make an appropriate skill ch
 Lvl 3: Spirit Chain
 Action Cost: 1 Action.
 Cost: 1 Soul Energy.
-Range: 30 feet (6 squares).
+Range: 30 feet .
 Effect: You unleash a chain of spectral energy at one creature you can see. Make a spell attack roll (using Soul + your primary spellcasting skill like Glyphcasting or Rituals, versus the target's Defense Value).
-On a hit: The target suffers 2 Soul damage (this damage type bypasses physical Armor). The target must then succeed on a DR 2 Blood save or be pulled up to 15 feet (3 squares) directly towards you and become Stunned for 1 round (unable to take Actions or Move on their next turn, and no Reactions until their turn after that).
-If the Blood save succeeds, the target is pulled only 5 feet (1 square) and is not Stunned.
+On a hit: The target suffers 2 Soul damage (this damage type bypasses physical Armor). The target must then succeed on a DR 2 Blood save or be pulled up to 15 feet directly towards you and become Stunned for 1 round (unable to take Actions or Move on their next turn, and no Reactions until their turn after that).
+If the Blood save succeeds, the target is pulled only 5 feet and is not Stunned.
 Lvl 4: Soul Fortify
 Effect (Passive): Whenever you expend one or more Soul Energy points to activate one of your Soul Reaver class abilities or cast a spell, your spirit bolsters your physical form. You immediately gain Temporary Hit Points equal to the number of Soul Energy points spent. These Temporary HP last for 1 minute or until depleted. Gaining new Temporary HP from this perk replaces any existing Temporary HP granted by it.
 Lvl 5: Echo Sweep
-Effect (Enhancement to Soul Bolt): When your "Soul Bolt" core ability successfully hits its primary target, arcs of spectral energy lash out. Choose up to two additional creatures within 5 feet (1 square) of the original target. These secondary targets automatically suffer Soul damage equal to half the damage dealt to the primary target (rounded down, minimum 1 Soul damage). No additional attack roll is needed for these secondary targets.
+Effect (Enhancement to Soul Bolt): When your "Soul Bolt" core ability successfully hits its primary target, arcs of spectral energy lash out. Choose up to two additional creatures within 5 feet of the original target. These secondary targets automatically suffer Soul damage equal to half the damage dealt to the primary target (rounded down, minimum 1 Soul damage). No additional attack roll is needed for these secondary targets.
 Lvl 6: Dual Form
 Action Cost: 1 Action.
 Cost: 2 Soul Energy.
 Frequency: Once per short rest.
 Duration: 1 minute, or until destroyed, or dismissed (Bonus Action).
-Effect: You summon a spectral, semi-translucent duplicate of yourself in an unoccupied space you can see within 15 feet (3 squares).
+Effect: You summon a spectral, semi-translucent duplicate of yourself in an unoccupied space you can see within 15 feet.
 The Dual Form has Hit Points equal to (your Character Level + your Soul attribute). It uses your Defense Value but has 0 Armor.
 It acts on your initiative. On your turn, you can use your Bonus Action to mentally command it to move up to its speed (equal to yours) and take one of the following actions:
 Melee Strike: Make a melee attack using your Soul attribute + an appropriate combat skill, dealing 2 Soul damage on a hit.
@@ -585,11 +585,11 @@ The Dual Form cannot use your perks or more complex abilities unless improved by
 Lvl 7: Ethereal Blink
 Action Cost: Bonus Action.
 Frequency: Once per scene.
-Effect: You briefly shift fully into the Spectral Realm and re-emerge, instantly teleporting up to 10 feet (2 squares) to an unoccupied space you can see. This movement does not provoke attacks of opportunity.
+Effect: You briefly shift fully into the Spectral Realm and re-emerge, instantly teleporting up to 10 feet to an unoccupied space you can see. This movement does not provoke attacks of opportunity.
 Lvl 8: Soul Brand
 Action Cost: Bonus Action.
 Cost: 1 Soul Energy.
-Range: 30 feet (6 squares).
+Range: 30 feet .
 Duration: 1 minute, or until the target is defeated.
 Effect: You affix a glowing, spectral brand onto one creature you can see. For the duration, all your attacks (weapon or spell) against the branded target deal an additional +2 damage. This bonus damage is Soul-type if the original attack was Soul-type or magical; otherwise, it matches the attack's type. You can only have one Soul Brand active at a time; branding a new target immediately ends the previous brand.
 Lvl 9: Reaver Ascension
@@ -604,8 +604,8 @@ Your appearance becomes more menacing, with spectral energy visibly emanating fr
 Lvl 10: Riftstorm
 Action Cost: 1 Action.
 Cost: 3 Soul Energy.
-Range: Target a point you can see within 60 feet (12 squares).
-Area of Effect: 15-foot (3 squares) radius sphere.
+Range: Target a point you can see within 60 feet.
+Area of Effect: 15-foot radius sphere.
 Duration: Until the end of your next turn (1 full round).
 Frequency: Once per long rest.
 Effect: You tear a hole between the Material and Spectral Realms, creating a swirling vortex of temporal distortions and raw soul energy.
@@ -620,7 +620,7 @@ Effect: Your "Phase Walk" ability can now be used a number of times per rest equ
 Level 12: Soul Flayer
 Effect: When you achieve a Critical Hit with your "Soul Bolt" ability or a soul-infused weapon attack (e.g., during "Reaver Ascension"), the target takes an additional +2 Soul damage (this damage type bypasses physical armor). Furthermore, on any such Critical Hit, the target must also make a DR 2 Will save or be Stunned for 1 round as their spirit is momentarily overwhelmed.
 Level 13: Unbound Reaver
-Effect: The power of your "Reaver Ascension" (Lvl 9 perk) now lasts twice as long. (If its original duration was not specified in rounds/minutes, assume it now lasts for a significant combat or for 5 minutes). While Reaver Ascension is active, your melee weapon is wreathed in spectral energy, increasing its reach by 5 feet (1 square) as spectral tendrils lash out.
+Effect: The power of your "Reaver Ascension" (Lvl 9 perk) now lasts twice as long. (If its original duration was not specified in rounds/minutes, assume it now lasts for a significant combat or for 5 minutes). While Reaver Ascension is active, your melee weapon is wreathed in spectral energy, increasing its reach by 5 feet as spectral tendrils lash out.
 Level 14: Temporal Foresight
 Effect: Your connection to time's echoes grants you brief, life-saving premonitions. Once per short rest, when an enemy declares an attack against you but before they roll their attack dice, you can use your Reaction to impose a -2 dice penalty on their attack roll for that specific attack.
 Level 15: Echoing Duplicates
@@ -642,7 +642,7 @@ Effect: Your "Soul Brand" (Lvl 8 perk) now inflicts deeper spiritual wounds. The
 Level 20: Reaver Incarnate
 Effect: You embody the full, terrifying potential of the Soul Reaver. Once per long rest, as an Action, you can become a Reaver Incarnate for 1 minute:
 Your form shifts, becoming more spectral and menacing, wreathed in soulfire. You are considered to be under the effects of "Reaver Ascension" for the duration, and your soul-infused weapon attacks deal an additional +4 Soul damage.
-You can use your "Ethereal Blink" ability as a free action once during each of your turns (if you have the Ethereal Blink perk).
+You can use your "Ethereal Blink" ability as a Bonus Action once during each of your turns (if you have the Ethereal Blink perk).
 Your Soul Bolt attacks now always inflict the additional +2 Soul damage from your "Soul Flayer" (Lvl 12) perk on every hit (the DR 2 Will save to avoid being Stunned from Soul Flayer still only applies if the Soul Bolt was a Critical Hit, as per normal critical hit rules).
 You gain a spectral flight speed equal to your normal movement speed, allowing you true, untethered aerial movement.
 
@@ -689,7 +689,7 @@ Statistics & Traits:
 
 Hit Points: Equal to (Your Character Level x 2) + your Soul attribute.
 Defense Value (DV): 2 (its shadowy form is naturally elusive). It has 0 Armor.
-Speed: 30 feet (6 squares).
+Speed: 30 feet .
 Senses: Darkvision up to 60 feet.
 Skills: The familiar is inherently stealthy; it gains +2 dice on all Stealth checks it makes.
 Shadow Form: The familiar can move through other creatures' spaces as if they were difficult terrain. It can squeeze through tiny openings (at least 1 inch wide) without penalty. While in dim light or darkness, it is invisible; it becomes visible if it enters bright light or takes an action other than Hide or Move.
@@ -698,7 +698,7 @@ Control & Actions:
 
 
 Initiative: The familiar acts on your initiative count, taking its turn immediately after yours.
-Commands: On your turn, you can use a Bonus Action to mentally command your familiar if it is within 60 feet (12 squares) of you. You dictate its movement and which of its available actions it will take on its turn. If you do not issue a command, the familiar takes the Dodge action (if applicable in your system, meaning attacks against it have -1 or -2 dice) and attempts to stay in a shadowy area near you.
+Commands: On your turn, you can use a Bonus Action to mentally command your familiar if it is within 60 feet of you. You dictate its movement and which of its available actions it will take on its turn. If you do not issue a command, the familiar takes the Dodge action (if applicable in your system, meaning attacks against it have -1 or -2 dice) and attempts to stay in a shadowy area near you.
 Available Actions for the Familiar (it can take one of these when commanded):
 Move: Move up to its speed.
 Scout: The familiar uses its action to keenly observe its surroundings. (This facilitates the Sensory Link ability).
@@ -709,7 +709,7 @@ Interact: Perform a simple object interaction (e.g., nudge a small object, pull 
 Sensory Link:
 
 
-While your familiar is within 100 feet of you, you can use an Action on your turn to close your own eyes and ears and perceive through your familiar's senses instead. This lasts until the start of your next turn or until you end it as a free action. While using this link, you are considered deaf and blind with regard to your own body's senses.
+While your familiar is within 100 feet of you, you can use an Action on your turn to close your own eyes and ears and perceive through your familiar's senses instead. This lasts until the start of your next turn or until you end it (no action required). While using this link, you are considered deaf and blind with regard to your own body's senses.
 Attacks: The base Shadow Familiar cannot make attacks that deal direct damage. Its role is primarily utility, stealth, and minor debuffing. (Later perks like "Empowered Shadow Beast" can grant it offensive capabilities).
 
 Advantage in Darkness (Shadowmancer Passive Class Feature)
@@ -749,7 +749,7 @@ An enemy can use their Action to make an Insight or Observation check against a 
 Lvl 4: Blind Hex
 Action Cost: 1 Action.
 Cost: 1 Soul Energy.
-Range: 30 feet (6 squares).
+Range: 30 feet .
 Target: One creature you can see.
 Effect: You whisper a hex of clinging shadows. The target must succeed on a DR 2 Will save.
 On a failed save: The target is Blinded until the end of its next turn. While Blinded, it suffers a -3 dice penalty on attack rolls and Perception/Observation checks relying on sight, and attacks against it gain a +2 dice bonus.
@@ -758,12 +758,12 @@ Lvl 5: Dimstep
 Action Cost: Bonus Action.
 Cost: 1 Soul Energy.
 Frequency: Usable a number of times equal to your Soul attribute per short rest (minimum 1 use).
-Effect: If you are currently in an area of dim light or darkness, you can instantly teleport to another unoccupied space you can see that is also in dim light or darkness, up to a range of 30 feet (6 squares). This movement does not provoke attacks of opportunity.
+Effect: If you are currently in an area of dim light or darkness, you can instantly teleport to another unoccupied space you can see that is also in dim light or darkness, up to a range of 30 feet . This movement does not provoke attacks of opportunity.
 Lvl 6: Dusk Cascade
 Action Cost: 1 Action.
 Cost: 2 Soul Energy.
-Range: Target a point you can see within 60 feet (12 squares).
-Area of Effect: A 10-foot (2 squares) radius sphere of swirling magical darkness and disorienting shadows erupts from the target point.
+Range: Target a point you can see within 60 feet.
+Area of Effect: A 10-foot radius sphere of swirling magical darkness and disorienting shadows erupts from the target point.
 Duration: Until the start of your next turn.
 Effect: The area is filled with magical darkness (even blocking darkvision for creatures not attuned to such magic, like yourself). Any creature (other than you) that starts its turn within the area or enters it for the first time must make a DR 2 Will save.
 On a failed save: They are Blinded while within the area and for 1 round after the Dusk Cascade ends or they leave it.
@@ -775,7 +775,7 @@ Effect: You can attempt a Stealth check to become hidden even if you are current
 Lvl 8: Umbral Snare
 Action Cost: 1 Action.
 Cost: 2 Soul Energy.
-Range: 30 feet (6 squares).
+Range: 30 feet .
 Target: One creature you can see that is standing in an area of dim light or darkness, or is adjacent to a significant source of shadow.
 Duration: A number of rounds equal to your Soul attribute, or until the target breaks free or the shadow source is eliminated.
 Effect: Tendrils of living shadow erupt to grasp the target. The target must succeed on a DR 2 Evasion save (to dodge) or a DR 2 Blood save (to break through as they form) – target chooses.
@@ -805,9 +805,9 @@ Effect: Your "Phantom Veil" (Lvl 7: hide while observed) can now be used twice p
 Level 14: Grasping Shadows
 Effect: Your "Umbral Snare" (Lvl 8) becomes more potent. Targets ensnared by it now require an additional success (e.g., if it was DR 2 to break free, it's now effectively DR 3 or requires an extra success on an opposed check). Additionally, you can now target up to two creatures with a single use of Umbral Snare if they are within 10 feet of each other.
 Level 15: One with the Night
-Effect: Your connection to shadows deepens. Your "Dimstep" (Lvl 5) range is increased by 10 feet (2 squares). Furthermore, while you are in dim light or darkness, you gain +1 to your Defense Value (DV) as shadows cling to you, obscuring your form.
+Effect: Your connection to shadows deepens. Your "Dimstep" (Lvl 5) range is increased by 10 feet. Furthermore, while you are in dim light or darkness, you gain +1 to your Defense Value (DV) as shadows cling to you, obscuring your form.
 Level 16: Nightmare Weaver
-Effect: Once per scene, as an Action, you can target one creature you can see within 30 feet (6 squares) and flood its mind with phantasmal terrors. The target must make a DR 3 Will save. On a failure, it is Frightened for 1 minute and, on its next turn, it must use its action to attack the nearest creature to it (ally or foe), believing it to be a monstrous threat. If no other creature is within its reach or range, it cowers. The target can repeat the Will save at the end of each of its turns, ending the effect on a success.
+Effect: Once per scene, as an Action, you can target one creature you can see within 30 feet  and flood its mind with phantasmal terrors. The target must make a DR 3 Will save. On a failure, it is Frightened for 1 minute and, on its next turn, it must use its action to attack the nearest creature to it (ally or foe), believing it to be a monstrous threat. If no other creature is within its reach or range, it cowers. The target can repeat the Will save at the end of each of its turns, ending the effect on a success.
 Level 17: Shadow Simulacrum
 Effect: Your "Echoform" (Lvl 3) ability is significantly enhanced. You can now create two shadow doubles simultaneously. These doubles can move independently (though they share your actions if you command them to do something specific). Furthermore, once per scene, you can choose to swap places with one of your shadow doubles instantly as a Bonus Action (range 30 feet).
 Level 18: From the Dark Between Worlds
@@ -841,7 +841,7 @@ Action Cost: 1 Action
 Cost: 1 Blood Point (BP)
 
 
-Range: 30 feet (6 squares)
+Range: 30 feet 
 
 
 Target: One living creature you can see that possesses blood or similar vital fluids. (Constructs, most elementals, and certain types of undead may be immune at the GM's discretion).
@@ -874,7 +874,7 @@ Action Cost: 1 Action
 Cost: 2 Blood Points (BP)
 
 
-Range: 30 feet (6 squares)
+Range: 30 feet 
 
 
 Target: One living creature you can see that is currently suffering from a Bleeding status effect (e.g., from your Hemorrhage ability or another source). Constructs, most elementals, and certain types of undead (GM's discretion) are typically immune.
@@ -915,7 +915,7 @@ Suggested Skills for Point Allocation:
 Rituals: Central to blood sorcery.
 Forbidden Knowledge: For understanding dark alchemical arts and Hylden rituals.
 Concentration: For maintaining complex blood spells.
-Presence or Persuasion: For controlling or influencing through their powers.
+Persuasion: For controlling or influencing through their powers.
 Craft (Alchemy if detailed): For alchemical aspects.
 
 Level Perks:
@@ -926,15 +926,15 @@ Effect: Choose one spell you have cast since your last long rest that had a limi
 Lvl 2: Vital Leech
 Action Cost: 1 Action.
 Cost: 1 Blood Point.
-Range: 30 feet (6 squares).
+Range: 30 feet .
 Target: One living creature you can see.
 Effect: You extend a shimmering tendril of blood-infused energy or directly draw upon the target's life force. Make a spell attack roll (using Soul + your primary spellcasting skill like Rituals, versus the target's Defense Value).
 On a hit: The target suffers 3 Soul damage (this damage bypasses physical Armor). You then immediately regain Hit Points equal to the actual Soul damage dealt to the target (so, if they had a specific resistance that reduced the damage, you heal for the reduced amount).
 Lvl 3: Crimson Bind
 Action Cost: 1 Action.
 Cost: 2 Blood Points.
-Range: Target a point on the ground you can see within 60 feet (12 squares).
-Area of Effect: A 10-foot (2 squares) radius circle centered on the target point.
+Range: Target a point on the ground you can see within 60 feet.
+Area of Effect: A 10-foot radius circle centered on the target point.
 Duration: A number of rounds equal to your Soul attribute, or until a creature breaks free.
 Effect: Thick, grasping tendrils of animated blood erupt from the ground. Each creature within the area when the spell is cast, or that enters the area for the first time on a turn, must make a Difficulty Rating (DR) 2 Blood save (to power through) or a DR 2 Evasion save (to dodge the grasping tendrils) – target chooses.
 On a failed save: The creature is Rooted (cannot move from its current space; this includes any forced movement). It can still take other actions. A Rooted creature can use its Action on its turn to attempt another fury check against the original DR to break free.
@@ -951,15 +951,15 @@ Lvl 6: Blood Pact
 Action Cost: 1 Action to initiate the pact.
 Cost to Initiate: 1 Blood Point (from the Sangromancer).
 Target: One willing creature you touch.
-Duration: 10 minutes, or until either participant ends it (no action required), or if the participants move more than 60 feet (12 squares) apart.
+Duration: 10 minutes, or until either participant ends it (no action required), or if the participants move more than 60 feet apart.
 Effect: You create a mystical link of shared vitality. While the pact is active, either you or the bonded ally can use a Bonus Action on your respective turns to transfer Hit Points to the other. The giver chooses to lose a number of their current HP (up to a maximum equal to their own Will attribute). The receiver then gains that many Hit Points (this cannot raise them above their maximum HP). This transfer is direct and vital, bypassing normal limitations on magical healing unless specifically countered by powerful anti-life magic (GM discretion).
 Lvl 7: Wound Echo
 Effect (Passive): The wounds you inflict with your blood magic are particularly persistent. The duration of any Bleeding status effect that you personally inflict on a target through a Sangromancer class ability or spell is increased by 1 additional round.
 Lvl 8: Bloodburst
 Action Cost: 1 Action.
 Cost: 2 Blood Points.
-Range: Target one creature you can see within 60 feet (12 squares) that is currently suffering from a Bleeding status effect.
-Area of Effect: The target creature and all other creatures (friend or foe, unless modified by later perks) within a 5-foot (1 square) radius of that primary target.
+Range: Target one creature you can see within 60 feet that is currently suffering from a Bleeding status effect.
+Area of Effect: The target creature and all other creatures (friend or foe, unless modified by later perks) within a 5-foot radius of that primary target.
 Effect: You cause the spilled and circulating blood of the primary target (and any other bleeding creatures in the radius) to violently and explosively expand. The primary target and all other creatures in the radius suffer 4 Soul damage (this damage bypasses physical Armor). Each affected creature can make a DR 2 Evasion save. On a successful save, take -1 damage. On each additional successful save they can take -1 damage per success or not suffer other effects.
 Level 9: Sanguine Transfiguration
 Lore: The Sangromancer temporarily transcends the normal limits of their physical form by achieving a profound unison with the essence of blood itself, becoming a conduit of flowing, empowered vitae.
@@ -975,7 +975,7 @@ Leeching Essence: Once per turn, when you deal damage to at least one creature w
 Lvl 10: Hemodominate
 Action Cost: 1 Action.
 Cost: 3 Blood Points and 3 Soul Energy.
-Range: 30 feet (6 squares).
+Range: 30 feet .
 Target: One creature you can see that is currently suffering from a Bleeding status effect, is not mindless, and can understand a language (or is susceptible to telepathic commands).
 Duration: Concentration, up to 1 minute.
 Frequency: Once per long rest.
@@ -989,7 +989,7 @@ Effect: Your "Fleshcraft" (Lvl 4 perk) ability is enhanced. You can now expend a
 Level 13: Voracious Siphon
 Effect: Your "Vital Leech" (Lvl 2 perk) becomes significantly more potent. The amount of HP you heal from Vital Leech is increased by an amount equal to your Soul attribute. Furthermore, the target, if they fail a DR 2 Will save against the leeching effect, also loses 1 Blood Point (if they have them) or suffers a -1 die penalty on their next attack roll as their spiritual energy is sapped.
 Level 14: All-Seeing Blood Scent
-Effect: Your passive ability to "feel the pulse of every living thing" intensifies. You are constantly aware of the presence and general direction of any living creature with blood (or similar vital fluids) within 60 feet (12 squares), even through solid barriers, though you cannot pinpoint their exact location or numbers without focus. As an Action, you can focus this sense for one minute to learn the precise number of such creatures, their rough distance, and their current physical state (e.g., unharmed, lightly wounded, near death).
+Effect: Your passive ability to "feel the pulse of every living thing" intensifies. You are constantly aware of the presence and general direction of any living creature with blood (or similar vital fluids) within 60 feet, even through solid barriers, though you cannot pinpoint their exact location or numbers without focus. As an Action, you can focus this sense for one minute to learn the precise number of such creatures, their rough distance, and their current physical state (e.g., unharmed, lightly wounded, near death).
 Level 15: Master Puppeteer
 Effect: Your control over "Blood Puppet" (core ability) and "Hemodominate" (Lvl 10 perk) is refined. Targets under these effects now act with unnatural coordination if you desire, gaining +1 die on attack rolls you force them to make. Alternatively, once per controlled puppet per turn, you can force them into a reckless action, causing them to suffer an attack from another enemy as if that enemy had gained +1 success on their attack roll. The duration of your basic "Blood Puppet" ability is extended by an additional round.
 Level 16: Plague of Clots
@@ -999,7 +999,7 @@ Effect: Your mastery over your own vitae and that of others allows for rapid rec
 Level 18: Sanguine Eruption
 Effect: Your "Bloodburst" (Lvl 8 perk) AoE is now more devastating. The radius of the explosion increases by 5 feet (to a 10-foot radius around the bloodied foe, for example, if it was 5ft). All targets caught in the blast (including the original target if they survive) now also must succeed on a DR 2 Blood save or be knocked prone. You can now shield a number of allies equal to your Soul attribute within the blast radius from all effects of your Bloodburst.
 Level 19: Crimson Transfusion
-Effect: Your "Blood Pact" (Lvl 6 perk) can now be used more effectively and with greater range. The range at which you can form or maintain the Blood Pact increases to 30 feet (6 squares). When you transfer HP to an ally, you can choose to transfer an additional amount up to your Soul attribute at no extra cost to yourself (e.g., if you spend 5 HP, they can receive 5 + Soul HP). When an ally transfers HP to you, you receive an additional amount equal to your Soul attribute. This extra transfusion can only occur once per pact target per scene.
+Effect: Your "Blood Pact" (Lvl 6 perk) can now be used more effectively and with greater range. The range at which you can form or maintain the Blood Pact increases to 30 feet . When you transfer HP to an ally, you can choose to transfer an additional amount up to your Soul attribute at no extra cost to yourself (e.g., if you spend 5 HP, they can receive 5 + Soul HP). When an ally transfers HP to you, you receive an additional amount equal to your Soul attribute. This extra transfusion can only occur once per pact target per scene.
 Level 20: Avatar of Living Vitae
 Effect: You reach the pinnacle of sangromancy, able to command blood on an epic scale. Once per long rest, as an Action, you can embody the Avatar of Living Vitae for 1 minute:
 You are constantly aware of the precise location and current HP of all creatures with blood within 120 feet.
@@ -1029,11 +1029,11 @@ An inscribed glyph remains magically charged and ready to trigger for up to 10 m
 Detection: The dormant glyph is subtle. A creature actively searching the area must succeed on an Observation check against a Difficulty Rating (DR) equal to 1 + your Glyphcasting skill rank to notice it before it triggers. (Your own "Auto-detect hidden glyphs" passive helps you find other glyphs, not hide your own better).
 Trigger Condition:
 You can set one of two trigger conditions when you inscribe the glyph:
-Proximity: The glyph triggers when any creature (other than you or specific allies you mentally designated at the time of casting) moves into the glyph's exact space or into any space within 5 feet (1 square) of the glyph.
+Proximity: The glyph triggers when any creature (other than you or specific allies you mentally designated at the time of casting) moves into the glyph's exact space or into any space within 5 feet of the glyph.
 Touch: The glyph triggers when any creature (other than you or designated allies) physically touches the inscribed object or surface.
 Effect upon Trigger:
 When the glyph is triggered, it immediately erupts in a burst of magical fire.
-All creatures within a 5-foot (1 square) radius sphere, centered on the glyph's location, are caught in the fiery blast. (This includes the triggering creature if they are within this radius).
+All creatures within a 5-foot radius sphere, centered on the glyph's location, are caught in the fiery blast. (This includes the triggering creature if they are within this radius).
 Creatures within the area of effect suffer 3 Fire damage.
 Each affected creature can make a Difficulty Rating (DR) 2 Evasion save. On a successful save, take -1 damage. On each additional successful save they can take -1 damage per success or not suffer other effects.
 The glyph is expended once it triggers. Flammable objects in the area that are not worn or carried may ignite.
@@ -1047,7 +1047,7 @@ Action Cost: 1 Action
 Cost: 1 Soul Energy (SE)
 
 
-Range: 30 feet (6 squares)
+Range: 30 feet 
 
 
 Target: One creature you can see within range that you identify as a "Summoned Entity."
@@ -1073,10 +1073,10 @@ The visual manifestation of the Seal (e.g., glowing chains, a constricting symbo
 
 Glyph-Lore Intuition (Glyph Seeker Passive Class Ability)
 Your deep and constant immersion in the study of arcane symbols, wards, and magical geometry has permanently attuned your senses to their presence, allowing you to notice what others would invariably miss.
-Automatic Detection of Glyphic Presence:
+Automatic Detection of Glyphic Persuasion:
 
 
-You automatically become aware of the presence and specific location of any active, dormant, or even partially faded magical glyph, sigil, runic inscription, or similar symbolic magical construct (hereafter referred to as "glyphs") within 15 feet (3 squares) of you.
+You automatically become aware of the presence and specific location of any active, dormant, or even partially faded magical glyph, sigil, runic inscription, or similar symbolic magical construct (hereafter referred to as "glyphs") within 15 feet of you.
 This detection functions even if the glyph is hidden by mundane or magical means (unless shielded by exceptionally potent anti-detection magic, GM's discretion).
 You do not need to be actively searching to detect these glyphs; the GM will inform you when you come within range of such an inscription. This detection typically requires line of effect (e.g., you might sense a glyph on the other side of a normal wooden door you are adjacent to, but not through several feet of solid stone or lead).
 Rudimentary Identification:
@@ -1102,14 +1102,14 @@ Observation or Concentration: To detect and precisely manipulate glyphs.
 
 Level Perks:
 Lvl 1: Glyph Channel
-Effect (Passive): Your understanding of arcane geometry allows you to project your glyphs further. The maximum range at which you can place any of your glyph spells is increased by 5 feet (1 square). If a glyph spell you cast creates an area of effect (like a burst), its radius is also increased by 5 feet (1 square).
+Effect (Passive): Your understanding of arcane geometry allows you to project your glyphs further. The maximum range at which you can place any of your glyph spells is increased by 5 feet. If a glyph spell you cast creates an area of effect (like a burst), its radius is also increased by 5 feet.
 Lvl 2: Arcane Focus
 Effect (Passive): You are adept at reclaiming residual energies from your structured magic. Whenever you successfully cast a glyph spell that costs Soul Energy, you immediately regain 1 Soul Energy (SE) after the glyph is placed. This cannot cause you to exceed your maximum Soul Energy pool and can only trigger once per glyph cast.
 Lvl 3: Glyph Recall
 Action Cost: Bonus Action.
 Cost: 1 Soul Energy.
-Range: Affects one of your active, non-triggered glyphs within 60 feet (12 squares) that you can see or are aware of.
-Effect: You can telekinetically lift and reposition one of your existing, undetonated glyphs. You can move it to any valid new surface or location within 30 feet (6 squares) of its original position. The new location must be within your line of sight and also within what would have been the glyph's original maximum placement range from you. The glyph retains all its properties (charges, trigger conditions, etc.).
+Range: Affects one of your active, non-triggered glyphs within 60 feet that you can see or are aware of.
+Effect: You can telekinetically lift and reposition one of your existing, undetonated glyphs. You can move it to any valid new surface or location within 30 feet  of its original position. The new location must be within your line of sight and also within what would have been the glyph's original maximum placement range from you. The glyph retains all its properties (charges, trigger conditions, etc.).
 Lvl 4: Shock Sigil
 Effect (Passive): You learn to weave secondary energy patterns into your glyphs. Whenever one of your glyph spells is triggered and successfully affects one or more targets (either by dealing damage or imposing a condition), each affected target also suffers an additional +1 electrical damage as a minor jolt of arcane energy is discharged.
 Lvl 5: Chrono-Ward Ritual
@@ -1117,7 +1117,7 @@ Effect (Enhancement to Glyph Casting): When you cast any glyph spell, you can ch
 Lvl 6: Chrono Sigil
 Action Cost: 1 Action.
 Cost: 2 Soul Energy.
-Range: 30 feet (6 squares).
+Range: 30 feet .
 Target: One creature or unattended object you can see.
 Frequency: Once per short rest.
 Effect: You inscribe a potent, shimmering Chrono Sigil upon the target.
@@ -1128,8 +1128,8 @@ Effect (Passive): Your glyphs possess a rudimentary magical awareness. Any glyph
 Lvl 8: Seal of Fire
 Action Cost: 1 Action (to place the glyph).
 Cost: 2 Soul Energy.
-Placement Range: Can be inscribed on a surface you can see within 30 feet (6 squares).
-Area of Effect: When triggered (e.g., by proximity, a specific condition you set, or your remote command via Glyph Recall), it explodes in a 10-foot (2 squares) radius burst.
+Placement Range: Can be inscribed on a surface you can see within 30 feet .
+Area of Effect: When triggered (e.g., by proximity, a specific condition you set, or your remote command via Glyph Recall), it explodes in a 10-foot radius burst.
 Effect: All creatures caught in the fiery blast suffer 5 fire damage. Affected creatures can make a DR 2 Evasion save.  On a successful save, take -1 damage. On each additional successful save they can take -1 damage per success or not suffer other effects.The flames then dissipate.
 Lvl 9: Nexus Glyph
 Activation: An option chosen when you cast a glyph spell you know.
@@ -1196,7 +1196,7 @@ Requirements: You must have a melee weapon equipped.
 Effect: When you use Blink Strike, the following occurs:
 
 
-Teleport: You instantly teleport from your current position to an unoccupied space you can see within 30 feet (6 squares). This movement is a blur of shadow or speed and does not provoke attacks of opportunity.
+Teleport: You instantly teleport from your current position to an unoccupied space you can see within 30 feet . This movement is a blur of shadow or speed and does not provoke attacks of opportunity.
 Attack: Immediately after teleporting, if there is at least one enemy creature adjacent (within 5 feet/1 square) to your new location, you can make a single melee weapon attack against one such creature. This attack is part of the same Action used for Blink Strike.
 Disorienting Assault: Due to your sudden and disorienting reappearance, you gain a +1 die bonus on this specific melee attack roll.
 Damage & Other Effects: If the attack hits, it deals your normal weapon damage plus any other applicable bonuses from your abilities or perks (e.g., if your "Venom Edge" is active on your weapon, or if conditions for "Shiv Surge" or your "Auto-crit from stealth" passive are met).
@@ -1257,20 +1257,20 @@ Effect: If your declared Blade Feint melee attack successfully hits the target, 
 Lvl 3: Smoke Veil
 Action Cost: Bonus Action.
 Frequency: Once per short rest.
-Effect: You instantly create a 10-foot (2 squares) radius cloud of thick, obscuring smoke (or roiling magical shadow-mist) centered on yourself. This area is considered heavily obscured: creatures effectively suffer from the Blinded condition when trying to see anything through it or within it (e.g., -3 dice penalty to Perception checks and attacks requiring sight into, out of, or within the cloud; attacks against creatures in the cloud gain +2 dice if the attacker is outside and unaffected). The veil lasts for 1 minute or until dispersed by a strong wind or magical effect. You, being its creator, can see normally within your Smoke Veil.
+Effect: You instantly create a 10-foot radius cloud of thick, obscuring smoke (or roiling magical shadow-mist) centered on yourself. This area is considered heavily obscured: creatures effectively suffer from the Blinded condition when trying to see anything through it or within it (e.g., -3 dice penalty to Perception checks and attacks requiring sight into, out of, or within the cloud; attacks against creatures in the cloud gain +2 dice if the attacker is outside and unaffected). The veil lasts for 1 minute or until dispersed by a strong wind or magical effect. You, being its creator, can see normally within your Smoke Veil.
 Lvl 4: Shiv Surge
 Effect (Passive): When you make any successful attack (weapon or damaging spell) against a target that is unaware of your presence or from whom you are hidden at the moment of attack, that attack deals an additional +2 damage. This bonus damage is of the same type as the attack. (This stacks with "Dagger in the Dark" if both conditions apply to a melee weapon attack).
 Lvl 5: Lethal Flow
 Activation (Reactive): Immediately triggers when you personally reduce an enemy creature to 0 Hit Points with a melee attack.
-Effect: You can use your Reaction to immediately move up to 15 feet (3 squares). This movement does not provoke attacks of opportunity from any enemy.
+Effect: You can use your Reaction to immediately move up to 15 feet. This movement does not provoke attacks of opportunity from any enemy.
 Lvl 6: Phantom Rush
 Activation (Triggered Buff): When you personally reduce an enemy creature to 0 Hit Points.
 Effect: A surge of shadowy adrenaline courses through you. For the remainder of your current turn:
-Your base movement speed is increased by +10 feet (2 squares).
+Your base movement speed is increased by +10 feet.
 Your next single melee attack roll made this turn gains +1 die.
 Lvl 7: Shadow Ambush
 Activation (Triggered): Occurs when you make your first melee attack in an encounter from a hidden or stealthed position against an enemy who is unaware of your presence.
-Effect: When you make this initial melee attack that breaks your stealth, you may immediately make one additional melee weapon attack against the same target as a free action. This second attack also benefits from any bonuses you would normally receive for attacking from an unseen or hidden position (such as Shiv Surge or your "Auto-crit from stealth" passive).
+Effect: When you make this initial melee attack that breaks your stealth, you may immediately make one additional melee weapon attack against the same target as a Reaction. This second attack also benefits from any bonuses you would normally receive for attacking from an unseen or hidden position (such as Shiv Surge or your "Auto-crit from stealth" passive).
 Lvl 8: Blur Step
 Frequency: Once per scene.
 Activation (Reactive): When an enemy's melee attack roll against you achieves enough successes to hit your Defense Value (DV).
@@ -1296,13 +1296,13 @@ Effect: Your "Smoke Veil" (Lvl 3 perk) now fills an area twice as large (e.g., 2
 Level 12: Spectral Sepsis
 Effect: Your "Venom Edge" (core ability) can now be infused with more potent spectral energies. When you apply Venom Edge, you can choose for the poison to deal Soul damage instead of its normal type. If you do, the target must also make a DR 2 Will save or have their connection to positive/healing energies disrupted for 1 minute; any magical healing they receive during this time is halved.
 Level 13: Flashing Phantom
-Effect: Your "Blink Strike" (core ability) becomes more fluid and disorienting. After successfully hitting with the attack portion of Blink Strike, you may immediately make a free 5-foot (1 square) step that does not provoke attacks of opportunity. Additionally, the first time each scene you use Blink Strike, its Soul Energy or resource cost (if any) is waived.
+Effect: Your "Blink Strike" (core ability) becomes more fluid and disorienting. After successfully hitting with the attack portion of Blink Strike, you may immediately make a free 5-foot step that does not provoke attacks of opportunity. Additionally, the first time each scene you use Blink Strike, its Soul Energy or resource cost (if any) is waived.
 Level 14: Vitals Seeker
 Effect: The bonus damage from your "Shiv Surge" perk (Lvl 4, assumed +2 damage if unseen) is increased by an additional +2 damage (totaling +4 if unseen). Furthermore, when you trigger your "Auto-crit from stealth" passive, if the target is a living humanoid or beast, you strike a major artery or nerve cluster. The target begins bleeding for 2 damage per round for 2 rounds (this does not stack with other bleed effects from you unless specified).
 Level 15: Unending Barrage
-Effect: Your "Lethal Flow" (Lvl 5) and "Phantom Rush" (Lvl 6) perks are enhanced. If you defeat an enemy and trigger either of these perks, you also regain your Reaction for the round if you had already used it. Additionally, if you use the bonus movement from these perks to engage a new target, your "Blade Feint" (Lvl 2) effect can be applied to this new target as a free action if you hit them this turn.
+Effect: Your "Lethal Flow" (Lvl 5) and "Phantom Rush" (Lvl 6) perks are enhanced. If you defeat an enemy and trigger either of these perks, you also regain your Reaction for the round if you had already used it. Additionally, if you use the bonus movement from these perks to engage a new target, your "Blade Feint" (Lvl 2) effect can be applied to this new target as a Reaction if you hit them this turn.
 Level 16: Untouchable Shadow
-Effect: Your "Blur Step" (Lvl 8 perk: dodge one melee attack per scene) can now be used twice per scene. Furthermore, when you successfully use Blur Step to dodge an attack, you can immediately move up to 10 feet (2 squares) as part of the same Reaction, without provoking attacks of opportunity from the dodged attacker.
+Effect: Your "Blur Step" (Lvl 8 perk: dodge one melee attack per scene) can now be used twice per scene. Furthermore, when you successfully use Blur Step to dodge an attack, you can immediately move up to 10 feet as part of the same Reaction, without provoking attacks of opportunity from the dodged attacker.
 Level 17: Whispers of Certain Doom
 Effect: Your "Death’s Whisper" (Lvl 9 perk) execute threshold is improved: you can now use it when a target is at or below 25% of their maximum HP (or an equivalent higher flat HP threshold set by GM). Your "Assassinate" (Lvl 10 perk) attempt is also more terrifying: if the target survives your Assassinate attempt (e.g., they pass their save), they are still Frightened of you for 1 minute, suffering a -2 dice penalty on any action that would directly target or oppose you.
 Level 18: One with the Void
@@ -1341,7 +1341,7 @@ Cost: 2 Soul Energy (SE)
 Frequency: Once per short rest
 
 
-Range: 30 feet (6 squares)
+Range: 30 feet 
 
 
 Target: One creature or one unattended object you can see within range.
@@ -1371,7 +1371,7 @@ Action Cost: 1 Bonus Action
 Frequency: You can use this ability a number of times equal to your Will attribute (minimum 1 use). You regain all expended uses after completing a short rest.
 
 
-Range: 30 feet (6 squares)
+Range: 30 feet 
 
 
 Target: One ally you can see within range (this can include yourself).
@@ -1420,7 +1420,7 @@ Religion: If their power stems from divine insight or connection to the Pillars.
 Level Perks:
 Lvl 1: Edict of Order
 Activation: As a Bonus Action, you can activate or deactivate this Edict.
-Area of Effect: A 5-foot (1 square) radius aura around you.
+Area of Effect: A 5-foot radius aura around you.
 Duration: Until you use a Bonus Action to deactivate it, you are incapacitated, or you choose to end it (no action cost).
 Effect: While this Edict is active, your unwavering presence bolsters the defenses of those near you. You and all allies who are currently within the aura gain +1 to their Defense Value (DV).
 Lvl 2: Foresight
@@ -1430,18 +1430,18 @@ Effect: You receive a brief, intuitive flash of how the immediate future might u
 Lvl 3: Balance Strike
 Action Cost: 1 Action.
 Cost: 1 Soul Energy.
-Range: 30 feet (6 squares).
+Range: 30 feet .
 Target: One creature, object, or ongoing magical effect.
 Effect: You unleash a pulse of pure, ordering energy to unravel enchantments.
 Willing Target/Unattended Effect: If targeting a willing ally to remove a hostile effect, or targeting an unattended magical effect (like a magical ward or an illusion not actively maintained), the effect automatically ends if its power level or the original caster's relevant spellcasting ability (Attribute + Skill) is not significantly greater than your Soul + Will (GM discretion for truly epic or artifact-level magic).
 Unwilling Target/Resisted Effect: If attempting to dispel an effect on an unwilling creature (like a magical buff on an enemy) or an actively maintained/resisted magical effect, you must make a Soul + Will skill check. The Difficulty Rating (DR) is set by the GM, typically DR 2 for common magical effects, DR 3 for more potent ones, or it may be an opposed roll against the original caster's spellcasting ability if they are present and actively resisting. On a success, one targeted magical effect is dispelled.
 Lvl 4: Fate Align
 Frequency: Once per scene.
-Activation (Reactive): When an ally within 30 feet (6 squares) that you can see or hear fails an attack roll, skill check, or saving throw.
+Activation (Reactive): When an ally within 30 feet  that you can see or hear fails an attack roll, skill check, or saving throw.
 Effect: You can use your Reaction to subtly manipulate the strands of fate around your ally. The chosen ally may immediately reroll all the dice for that single failed roll. They must use the result of this second roll.
 Lvl 5: Command the Cycle
 Frequency: Once per long rest 
-Activation (Reactive): When an ally (including yourself) within 30 feet (6 squares) that you can see is reduced to 0 Hit Points and would normally be incapacitated or begin dying.
+Activation (Reactive): When an ally (including yourself) within 30 feet  that you can see is reduced to 0 Hit Points and would normally be incapacitated or begin dying.
 Effect: You expend your Reaction to forcefully intervene in the cycle of life and death. The target ally is instead reduced to 1 Hit Point, their spirit momentarily anchored by your will, averting incapacitation from that specific instance of damage. This cannot prevent death from effects that explicitly state "instant death" without HP reduction (GM discretion).
 Lvl 6: Echo of Fate
 Frequency: Once per scene.
@@ -1450,13 +1450,13 @@ Effect: You sense a flicker of an alternate outcome and can choose to immediatel
 Lvl 7: Zone of Judgment
 Action Cost: 1 Action.
 Cost: 2 Soul Energy.
-Range: Center a 15-foot (3 squares) radius sphere on a point you can see within 60 feet (12 squares).
+Range: Center a 15-foot radius sphere on a point you can see within 60 feet.
 Duration: Concentration, up to 1 minute.
 Effect: You imbue the designated area with an aura of inescapable cosmic judgment. All enemies who are within this zone or who enter it for the first time on their turn suffer a -1 penalty to their Defense Value (DV), making them easier for you and your allies to hit.
 Lvl 8: Mark of Equilibrium
 Action Cost: Bonus Action.
 Cost: 1 Soul Energy.
-Range: 30 feet (6 squares).
+Range: 30 feet .
 Target: One enemy creature you can see.
 Duration: A number of rounds equal to your Will attribute (minimum 1 round).
 Effect: You place a shimmering Mark of Equilibrium upon the target. For the duration, whenever the marked enemy deals damage to any of your allies (this does not apply to damage dealt to you, the Warden), that damage is reduced by 2 points. This reduction is applied after considering Armor.
@@ -1464,7 +1464,7 @@ Lvl 9: Judgment Wheel
 Action Cost: 1 Action.
 Cost: 3 Soul Energy.
 Frequency: Once per long rest.
-Area of Effect: A 30-foot (6 squares) radius zone centered on you, which moves with you.
+Area of Effect: A 30-foot  radius zone centered on you, which moves with you.
 Duration: 1 minute.
 Effect: You invoke your profound connection to cosmic law, temporarily rewriting a fundamental rule of engagement within the zone. When activating this ability, choose one "Law" from a list (or work with your GM to create a new, balanced one). This Law affects all creatures (friend and foe, including yourself unless stated otherwise) within the zone. Examples of Laws:
 Law of Attenuation: All magical healing within the zone is halved. All magical damage dealt is reduced by 2.
@@ -1477,7 +1477,7 @@ Activation: At the start of any round in a significant combat or pivotal scene c
 Effect: You perfectly align yourself with the flow of time and fate for this crucial moment. During this specific round, you take two complete turns instead of one. You resolve your first turn as normal (Action, Bonus Action, Move, using your Reaction if applicable). Then, after at least one other creature in the initiative order has taken its turn (or at the end of the round if you were last), you immediately take a second, identical full turn. Initiative proceeds as normal from that point or into the next round.
 Level 11: Pillar's Resilience
 Effect: Your "Edict of Order" (Lvl 1 perk) now also grants allies within its radius resistance to one minor detrimental condition chosen when you activate the Edict (e.g., ignore difficult terrain from a mundane source, or +1 saving die. This chosen resistance lasts as long as they remain in the Edict's radius. Your core "Guardian’s Edict" ability now also allows the buffed ally to ignore the next instance of forced movement against them this round.
-Level 12: Stabilizing Presence
+Level 12: Stabilizing Persuasion
 Effect: Your "Time Stasis" core ability becomes more controlled. You can now choose to affect only a creature's limbs, preventing them from taking actions requiring physical movement (like attacks or moving from their space) but still allowing them to speak or use purely mental actions. The DR for the saving throw against your Time Stasis is increased by +1 if the target has recently acted in a way that heavily skewed balance (e.g., killed an innocent, used potent forbidden magic – GM discretion).
 Level 13: Fated Intercession
 Effect: Your "Fate Align" (Lvl 4 perk) and "Echo of Fate" (Lvl 6 perk) are enhanced. When you allow an ally to re-roll with Fate Align, or when you re-roll with Echo of Fate, the re-rolled dice pool gains +1 bonus die. Furthermore, you gain one additional use of Fate Align per scene.
@@ -1521,7 +1521,7 @@ Cost: 1 Soul Energy (SE)
 
 
 This cost makes it a deliberate choice rather than a free cantrip, reflecting its specialized anti-magic nature.
-Range: 60 feet (12 squares)
+Range: 60 feet
 
 
 Target: One creature, object, or an active, visible magical effect (such as a magical ward, an illusion, or an ongoing spell effect with a tangible presence).
@@ -1553,7 +1553,7 @@ Action Cost: 1 Action
 Cost: 1 Soul Energy (SE)
 
 
-Range: 30 feet (6 squares)
+Range: 30 feet 
 
 
 Target: One creature you can see within range.
@@ -1593,7 +1593,7 @@ Suggested Skills for Point Allocation:
 Forbidden Knowledge: Core to their understanding of entropy and dark prophecy.
 Glyphcasting: Particularly for glyph decay and twisting rules.
 Rituals: For soul leeching and potent spellcraft.
-Deception or Presence: To manipulate or instill fear.
+Deception or Persuasion: To manipulate or instill fear.
 Concentration: To channel pain, memory, and resist madness.
 Insight: To understand and exploit the sanity of others.
 Level Perks:
@@ -1602,11 +1602,11 @@ Frequency: Once per short rest.
 Effect (Reactive): When you fail a saving throw against an effect that would cause you to suffer Sanity damage (or gain a new madness-related condition), you can choose to immediately reroll that failed Sanity saving throw. You must use the result of the second roll. This reflects your familiarity with and slight resistance to the initial corrupting whispers you channel.
 Lvl 2: Hex Spark
 Activation (Triggered): Automatically triggers when you successfully cast a spell that targets at least one enemy creature and costs you Soul Energy.
-Effect: Immediately after your spell's primary effect resolves on one of its targets (your choice if multiple), a small eruption of chaotic Hylden energy sparks outwards from that target. The chosen original target of your spell (if it's still an enemy and present) and all other creatures (friend or foe) within 5 feet (1 square) of it (but not the chosen original target again) suffer 1 Soul damage. This damage is minor but bypasses physical Armor.
+Effect: Immediately after your spell's primary effect resolves on one of its targets (your choice if multiple), a small eruption of chaotic Hylden energy sparks outwards from that target. The chosen original target of your spell (if it's still an enemy and present) and all other creatures (friend or foe) within 5 feet of it (but not the chosen original target again) suffer 1 Soul damage. This damage is minor but bypasses physical Armor.
 Lvl 3: Madness Surge
 Action Cost: 1 Action.
 Cost: 1 Soul Energy.
-Range: 30 feet (6 squares).
+Range: 30 feet .
 Target: One creature you can see.
 Effect: You channel a disorienting pulse of Hylden mental static at the target. The target must succeed on a Difficulty Rating (DR) 2 Will save.
 On a failed save: The target is Confused for 1 round. On its turn, a Confused creature cannot take Reactions and must roll a d6 to determine its behavior:
@@ -1623,15 +1623,15 @@ Effect: You can choose to cast a spell by paying its Soul Energy cost with your 
 Lvl 6: Decay Field
 Action Cost: 1 Action.
 Cost: 2 Soul Energy.
-Range: Target a point you can see within 60 feet (12 squares).
-Area of Effect: A 10-foot (2 squares) radius sphere of shimmering, visibly decaying entropic energy.
+Range: Target a point you can see within 60 feet.
+Area of Effect: A 10-foot radius sphere of shimmering, visibly decaying entropic energy.
 Duration: Concentration, up to 1 minute.
 Effect: The air within the field hums with unmaking energies. Any creature (other than you, the Hylden Warlock) that starts its turn within the Decay Field or enters it for the first time on a turn feels its vitality and resolve fray. Affected creatures suffer a -1 die penalty on all attack rolls they make and all saving throws they attempt while they remain in the field, and for 1 round after they leave it.
 Lvl 7: Glyph of Disquiet
 Action Cost: 1 Action (to inscribe the glyph).
 Cost: 2 Soul Energy.
 Placement: Inscribed on a surface you touch, or on a small object you carry (which then radiates the effect).
-Area of Effect: A 15-foot (3 squares) radius aura emanates from the inscribed glyph.
+Area of Effect: A 15-foot radius aura emanates from the inscribed glyph.
 Duration: 1 hour, or until the glyph is dispelled or the object/surface it's on is destroyed.
 Effect: The glyph pulses with subtle, unnerving Hylden frequencies. All enemies within the aura feel a pervasive sense of wrongness and doubt, causing them to suffer a -1 die penalty on all d6 rolls they make for attack rolls, skill checks, and saving throws.
 Lvl 8: Ritual of Pain
@@ -1640,7 +1640,7 @@ Effect: Before any attack rolls are made or targets attempt saving throws for th
 Lvl 9: Nether Binding
 Action Cost: 1 Action.
 Cost: 3 Soul Energy.
-Range: 30 feet (6 squares).
+Range: 30 feet .
 Target: One creature you can see.
 Frequency: Once per long rest.
 Effect: You attempt to fray and bind the target's spiritual essence, anchoring it with Hylden chains of despair. The target must succeed on a DR 3 Soul save.
@@ -1649,7 +1649,7 @@ On a successful save: The target only suffers a -1 die penalty on its next savin
 Lvl 10: Mind Rupture
 Action Cost: 1 Action.
 Cost: 3 Soul Energy, and you suffer 1d2 irreducible sanity damage
-Range: 30 feet (6 squares).
+Range: 30 feet .
 Target: One creature you can see that possesses a mind.
 Frequency: Once per long rest.
 Effect: You channel a focused blast of raw, incomprehensible Hylden madness directly into the target's psyche. The target must succeed on a DR 3 Will save.
@@ -1662,7 +1662,7 @@ Effect: Your connection to the Hylden's banished realm intensifies. When you cas
 Level 12: Soul Flensing
 Effect: Your connection to the Hylden's banished realm intensifies. When you cast a spell that inflicts a debuff (like "Entropic Curse" or from "Decay Field"), targets affected by the debuff also suffer a -1 die penalty to any attempt to magically remove or resist that specific debuff you inflicted. Additionally, the concentration disruption effect of your "Void Shard" is altered: when a target damaged by your Void Shard is concentrating on a spell, they must now make an immediate Difficulty Rating (DR) 1 check using their Focus attribute dice pool to maintain concentration on that spell. This DR 1 Focus check replaces the standard concentration check (the Will + Concentration skill check against a variable/DR 2) normally required by the Void Shard core ability..
 Level 13: Unspeakable Premonitions
-Effect: Once per scene, you can utter a chilling, brief prophecy that twists immediate fate. As a Reaction, when any creature (including yourself) within 30 feet (6 squares) makes an attack roll, skill check, or saving throw, you can force them to re-roll that entire dice pool. They must use the second result. You take 1 point of sanity damage when you use this ability.
+Effect: Once per scene, you can utter a chilling, brief prophecy that twists immediate fate. As a Reaction, when any creature (including yourself) within 30 feet  makes an attack roll, skill check, or saving throw, you can force them to re-roll that entire dice pool. They must use the second result. You take 1 point of sanity damage when you use this ability.
 Level 14: Aura of Despair
 Effect: Your "Glyph of Disquiet" (Lvl 7 perk) becomes more potent. Enemies within its radius now suffer a -1 die penalty on all skill checks and saving throws (not just rolls, as previously implied, clarifying its scope). Additionally, your "Madness Surge" (Lvl 3 perk) can now affect up to two targets if they are within 10 feet of each other, though the second target gets +1 die on their save.
 Level 15: Void-Forged Will
@@ -1732,7 +1732,7 @@ Human:
 Frail but defiant, humans are adaptable mortals fighting for survival.
 They can choose any two skills to receive a +1 bonus.
 Their unique trait grants them 1 extra perk every 4 levels.
-Humans may ignore one terrain penalty per session due to their adaptability and gain +1 to Stealth in crowds.
+Humans may ignore one terrain penalty per long rest due to their adaptability and gain +1 to Stealth in crowds.
 Their narrative hook often portrays them as the last flickers of resistance and redemption.
 Wraith:
 Souls untethered from flesh, wraiths walk the boundary of life and death, able to manipulate their connection to the Spectral Realm.
@@ -1765,7 +1765,7 @@ Fury:
 
 
 Description: Aggression and emotional force.
-Usage: This attribute likely governs a character's raw power, rage, aggressive combat prowess, and perhaps intimidation. It's a core stat for classes like Blood Knight, Soul Reaver, and Dreadblade. Skills like Weapon Mastery, Unarmed Combat, and Presence can be linked to Fury.
+Usage: This attribute likely governs a character's raw power, rage, aggressive combat prowess, and perhaps intimidation. It's a core stat for classes like Blood Knight, Soul Reaver, and Dreadblade. Skills like Weapon Mastery, Unarmed Combat, and Persuasion can be linked to Fury.
 Soul:
 
 
@@ -1836,7 +1836,7 @@ Shadowmancer
 Starting Weapon (Choose one, likely from "Vampire Class", "Forbidden Scholar / Cultist Class", or Universal lists):
 Nightblade Saber (Vampire Class) – Damage: 5 – +1 armor penetration; silent and swift
 Whisperknife (Forbidden Scholar / Cultist Class) – Damage: 3 – Can be summoned and dismissed freely; bypasses normal wards
-Throwing Dagger (Universal) – Damage: 3 – Thrown (Range 8 tiles); mark target for 1 turn
+Throwing Dagger (Universal) – Damage: 3 – Thrown (Range 40 feet); mark target for 1 turn
 Twin Knives (Universal) – Damage: 3 (each) – Can strike twice as one action if both hit same target
 Starting Armor (Choose one appropriate, likely from "Vampire Class", "Forbidden Scholar / Cultist Class", or Universal lists):
 Nightshade Cloak (Vampire Class) – Reduces Damage by 1, grants Stealth bonus. Shadow damage resistance
@@ -1846,7 +1846,7 @@ Sangromancer (Blood Mage Archetype)
 Starting Weapon (Choose one from "Blood Mage Class" list):
 Bloodstaff – Damage: 3 – Heals caster instead of damage (This is the example given in character creation )
 Veinbinder Rod – Damage: 4 – Targets take 1 damage per round unless healed
-Crimson Spear – Damage: 5 – Range 2 tiles; caster gains 1 HP on crit
+Crimson Spear – Damage: 5 – Range 10 feet; caster gains 1 HP on crit
 Starting Armor (Choose one appropriate from "Blood Mage Class" list):
 Veinsilk Robes – Reduces Damage by 1, caster heals 1 HP after casting a Blood spell (This is the example given in character creation )
 Sanguine Mantle – Reduces Damage by 2, add +1 to Blood spell damage once per round
@@ -1854,12 +1854,12 @@ Arterywraps – Reduces Damage by 1, cast 1 Tier 1 Blood spell as a reaction onc
 Glyph Seeker
 Starting Weapon (Choose one, likely Universal or a simple weapon if no direct list applies):
 Spiritshard Wand (Universal) – Damage: 3 (Spiritual) – Ranged spiritual weapon; pass through walls within spectral realm (Requires Soul > 2)
-Throwing Dagger (Universal) – Damage: 3 – Thrown (Range 8 tiles); mark target for 1 turn (If not focused on direct combat)
+Throwing Dagger (Universal) – Damage: 3 – Thrown (Range 40 feet); mark target for 1 turn (If not focused on direct combat)
 Starting Armor (Choose one appropriate, likely from "Forbidden Scholar / Cultist Class" or Universal lists):
 Ritual Vestments (Forbidden Scholar / Cultist Class) – Reduces Damage by 1, reduce corruption cost by 1 (min 1) for one spell per scene
 Inkbound Mantle (Forbidden Scholar / Cultist Class) – Reduces Damage by 1, gain +1 on Glyph rolls while worn
 Traveler’s Leathers (Universal) – +1 DV, no penalties to movement or Stealth
-Abyss-Ward Cloak (Universal) – +1 DV, resist 1 corruption point per session
+Abyss-Ward Cloak (Universal) – +1 DV, resist 1 corruption point per long rest
 Dreadblade
 Starting Weapon (Choose one, likely from "Vampire Class", "Forbidden Scholar / Cultist Class", or Universal lists):
 Bloodfang Dagger (Vampire Class) – Damage: 4 – +2 damage when targeting a bleeding foe
@@ -1874,12 +1874,12 @@ Woven Shadows (Forbidden Scholar / Cultist Class) – Reduces Damage by 2, +1 to
 Traveler’s Leathers (Universal) – +1 DV, no penalties to movement or Stealth
 Warden of Balance (Sarafan Crusader Archetype)
 Starting Weapon (Choose one from "Sarafan Crusader Class" list):
-Sarafan Pike – Damage: 5 – Reach 2 tiles; +2 damage vs. Undead
+Sarafan Pike – Damage: 5 – Reach 10 feet; +2 damage vs. Undead
 Blessed Mace – Damage: 6 – On hit, undead must succeed DR 2 or be stunned (This is the example given in character creation for a "Sarafan")
 Crusader Broadsword – Damage: 5 – +1 DV when wielded; balanced and blessed
 Starting Armor (Choose one appropriate from "Sarafan Crusader Class" list):
 Sarafan Plate – Reduces Damage by 3, disadvantage on Stealth. Undead gain disadvantage vs. fear saves (This is the example given for a "Sarafan")
-Radiant Tabard – Reduces Damage by 2, allies within 2 tiles gain +1 to Will saves
+Radiant Tabard – Reduces Damage by 2, allies within 10 feet gain +1 to Will saves
 Blessed Chain Vestments – Reduces Damage by 2, caster allies gain +1 to spell saves
 Hylden Warlock (Forbidden Scholar / Cultist Archetype)
 Starting Weapon (Choose one from "Forbidden Scholar / Cultist Class" list or Universal):
@@ -2001,7 +2001,7 @@ Characters exposed to corruption, forbidden magic, or the Hylden may unlock spec
 Prerequisites: Corruption Lvl 2  threshold, soulbinding, or pact-based story events.
 Examples:
 Living Curse – You gain +1 DR when resisting death magic.
-Voidtongue – Speak and command one forbidden entity per session.
+Voidtongue – Speak and command one forbidden entity per long rest.
 
 🔀 Multiclassing and Hybrid Perk Paths
 At level 5 or higher, a player may request to take a Tier 1 perk from another class tree if narratively justified.
@@ -2015,7 +2015,7 @@ Character backstory
 Critical story moments
 Regional or relic-based training
 Example:
-Blade of the Broken Circle – Once per session, deal +3 damage when facing a former ally.
+Blade of the Broken Circle – Once per long rest, deal +3 damage when facing a former ally.
 
 🧩 Summary
 Perks define how characters grow, specialize, and leave their mark on Nosgoth. Whether channeling blood magic, resisting corruption, or rewriting fate, every perk taken should feel like a step toward power—and consequence.
@@ -2153,7 +2153,7 @@ Requires one Tier 2 universal perk.
 Ascended Form – Transform once per act into a powerful avatar.
 Chrono Clarity – Cannot be surprised; always act first.
 Deathmark – Mark one target; deal +2 damage to them.
-Voice of Fate – Ask a question about the future once per session.
+Voice of Fate – Ask a question about the future once per long rest.
 Blood Vow – Regain full HP upon killing a marked target.
 Spectral Reign – Become invisible in Spectral Realm once per scene.
 Timelocked – You are unaffected by time-slowing effects.
@@ -2258,7 +2258,7 @@ At the start of your next turn, rise with 1 HP.
 
 
 ✧ Reality Fracture
-Effect: Once per session, you may describe an impossible act: walking through unbroken time, halting a death mid-scream, crossing space in a blink. This Reality Fracture must:
+Effect: Once per long rest, you may describe an impossible act: walking through unbroken time, halting a death mid-scream, crossing space in a blink. This Reality Fracture must:
 Be narratively powerful but not permanently game-breaking.
 
 
@@ -2276,7 +2276,7 @@ Be resolved creatively by the GM.
 
 🧪 Corrupted Perks (Unlocked via narrative triggers or corruption threshold)
 What is a Corruption Threshold?
-A corruption threshold is a measure of how far a character has fallen into dark magic, forbidden knowledge, or unnatural transformation. It can be represented by a corruption score, number of corruption dice, or key narrative events. As your corruption increases, more powerful perks become available—but so do the risks to your mind, body, and soul. Every game session you must get through a pool of corruption dice = 2x your corruption level. If you wish to push your roll, you will need to roll your corruption lvl /3 rounded up die per push. 
+A corruption threshold is a measure of how far a character has fallen into dark magic, forbidden knowledge, or unnatural transformation. It can be represented by a corruption score, number of corruption dice, or key narrative events. As your corruption increases, more powerful perks become available—but so do the risks to your mind, body, and soul. Every long rest you must get through a pool of corruption dice = 2x your corruption level. If you wish to push your roll, you will need to roll your corruption lvl /3 rounded up die per push. 
 Social Reactions: NPCs, particularly those aligned with order, faith, or purity (like Sarafan or devout humans), might react more negatively to characters with visible signs of corruption or a palpable aura of taint, leading to social penalties or mistrust. Conversely, certain dark entities or factions might show increased interest or offer unique opportunities.
 Environmental Interaction: Heavily corrupted characters might find themselves subtly influencing their immediate environment in minor, unsettling ways (e.g., lights dimming, shadows deepening, animals becoming agitated). Conversely, they might find themselves weakened or pained in areas of strong purity or sanctification.
 
@@ -2288,15 +2288,15 @@ Touched by corruption
 Roleplay cues begin; no perks yet
 3–6
 Marked by corruption
-Tier 1 Corrupted Perks become available. Must roll corruption lvl x2 Dice per game session
+Tier 1 Corrupted Perks become available. Must roll corruption lvl x2 Dice per long rest
 
 
 7–10
 Deeply corrupted
-Tier 2 Corrupted Perks unlocked.  Must roll corruption lvl x2 Dice per game session
+Tier 2 Corrupted Perks unlocked.  Must roll corruption lvl x2 Dice per long rest
 11–15
 Abyss-bound
-Tier 3 Corrupted Perks unlocked.  Must roll corruption lvl x2 Dice per game session
+Tier 3 Corrupted Perks unlocked.  Must roll corruption lvl x2 Dice per long rest
 
 
 
@@ -2397,7 +2397,7 @@ Drawback: Using this perk leaves you momentarily disoriented by visions of the A
 
 Narrative Flavor: You tap into the chaotic energies of the Abyss, moving with unnatural speed. Your movements occasionally seem jerky or disjointed, as if pulled by unseen strings. GMs can describe fleeting glimpses of the Hylden’s banished realm, deepening your character’s connection to corruption.
 Bloodstained Sight
-Effect (Active): As an Action, once per scene, you can focus on a bloodsoaked terrain or a bleeding creature within 30 feet (6 squares) to gain +1 die on Observation checks for 1 minute, revealing hidden enemies or spectral traces.
+Effect (Active): As an Action, once per scene, you can focus on a bloodsoaked terrain or a bleeding creature within 30 feet  to gain +1 die on Observation checks for 1 minute, revealing hidden enemies or spectral traces.
 
 
 Drawback: After using this ability, you become fixated on blood; you must succeed on a DR 2 Will save to avoid attacking or feeding on the nearest bleeding creature (ally or foe) on your next turn. Failure imposes a -1 die penalty on non-attack actions for that turn.
@@ -2405,7 +2405,7 @@ Drawback: After using this ability, you become fixated on blood; you must succee
 
 Narrative Flavor: Your senses sharpen, drawn to the pulse of life in blood, but it awakens a primal urge. Your pupils dilate unnaturally, and you may lick your lips involuntarily. This perk suits vampires or Sangromancers, emphasizing their bloodlust while offering utility.
 Spectral Whisper
-Effect (Passive): You gain +1 die on Stealth checks in the Spectral Realm or areas of obscuring terrain (e.g., mist, darkness). Additionally, you can faintly perceive spectral entities within 15 feet (3 squares) without a skill check, though details require an Observation roll.
+Effect (Passive): You gain +1 die on Stealth checks in the Spectral Realm or areas of obscuring terrain (e.g., mist, darkness). Additionally, you can faintly perceive spectral entities within 15 feet without a skill check, though details require an Observation roll.
 
 
 Drawback: The Spectral Realm’s influence frays your sanity; you gain 1 sanity damage whenever you enter or remain in the Spectral Realm for more than 1 minute per scene.
@@ -2422,23 +2422,23 @@ Drawback: After using this ability, your connection to Nosgoth’s balance weake
 Narrative Flavor: You channel the raw, chaotic energy of corruption into a devastating strike, your weapon or spell glowing with an eerie, sickly hue. Your body trembles afterward, and you feel a lingering coldness, as if the Pillars themselves reject you. This perk offers a high-risk, high-reward option for any class, especially those flirting with forbidden power.
 🧠 Tier 2 Corrupted Perks
 Aberrant Surge – When you spend Soul Energy, regain 1 HP or remove 1 stress.
-Corruption Echo – Once per session, repeat the effect of the last spell cast.
+Corruption Echo – Once per long rest, repeat the effect of the last spell cast.
 Host to the Void – Gain immunity to mind control but take 1 corruption per long rest.
 Blood Memory – Absorb one trait or ability from a corpse you’ve consumed within the last hour.
 Veil of the Damned
-Effect (Active): As an Action, once per short rest, you summon a 10-foot (2 squares) radius cloud of spectral mist centered on yourself, lasting 1 minute. The area is lightly obscured, granting +1 die to your Stealth checks and imposing a -1 die penalty on enemies’ Observation checks within or targeting the area. You can see normally within the mist. Costs 1 Soul Energy (SE) and 1 sanity damage.
+Effect (Active): As an Action, once per short rest, you summon a 10-foot radius cloud of spectral mist centered on yourself, lasting 1 minute. The area is lightly obscured, granting +1 die to your Stealth checks and imposing a -1 die penalty on enemies’ Observation checks within or targeting the area. You can see normally within the mist. Costs 1 Soul Energy (SE) and 1 sanity damage.
 Drawback: The mist clings to you unnaturally; until your next short rest, you suffer a -1 die penalty on saves against Radiant or holy effects, as the mist marks you as tainted.
 Narrative Flavor: You call forth a shroud of souls from the Spectral Realm, their whispers cloaking you in shadow. Your skin takes on a pallid, corpse-like hue, and allies may hear faint cries emanating from you. GMs can use this to hint at the Elder God’s awareness or attract spectral entities.
 Hunger’s Blade
 Effect (Passive): When you deal damage with a melee weapon attack to a living creature with blood, you regain 2 HP, up to once per turn. If the target is bleeding (e.g., from a Sangromancer’s Hemorrhage), the healing increases to 4 HP.
-Drawback: Your hunger intensifies; you must succeed on a DR 2 Will save each scene to avoid attacking or feeding on a bleeding ally within 10 feet (2 squares). Failure imposes a -1 die penalty on non-attack actions for 1 round.
+Drawback: Your hunger intensifies; you must succeed on a DR 2 Will save each scene to avoid attacking or feeding on a bleeding ally within 10 feet. Failure imposes a -1 die penalty on non-attack actions for 1 round.
 Narrative Flavor: Your weapon pulses with a sickly red glow, drinking deeply from your foes. Your fangs lengthen, and your eyes glint with predatory need, alarming even your allies. This perk suits vampires or Sangromancers, amplifying their bloodlust while offering sustain.
 Hylden’s Grasp
-Effect (Active): As an Action, once per scene, you conjure a glyph of Hylden energy at a point within 30 feet (6 squares). Enemies within a 5-foot (1 square) radius must make a DR 2 Blood or Evasion save (their choice). On a failure, they are Rooted for 1 round and take 2 Corruption damage. Costs 2 Soul Energy.
+Effect (Active): As an Action, once per scene, you conjure a glyph of Hylden energy at a point within 30 feet . Enemies within a 5-foot radius must make a DR 2 Blood or Evasion save (their choice). On a failure, they are Rooted for 1 round and take 2 Corruption damage. Costs 2 Soul Energy.
 Drawback: Using this ability adds 1 Corruption Point to your total, and you suffer 1 sanity damage as Hylden whispers invade your mind.
 Narrative Flavor: You channel the banished Hylden’s entropy, your hands glowing with sickly green sigils. Your voice occasionally carries an alien timbre, and you dream of a desolate, glyph-scarred wasteland. GMs may use this to foreshadow Hylden incursions or faction suspicion.
 Soul Leech
-Effect (Active): As a Bonus Action, once per short rest, you can target a creature within 15 feet (3 squares) that you’ve damaged this turn. They must make a DR 2 Will save or take 3 Soul damage (bypassing physical Armor), and you regain 1 Soul Energy (SE).
+Effect (Active): As a Bonus Action, once per short rest, you can target a creature within 15 feet that you’ve damaged this turn. They must make a DR 2 Will save or take 3 Soul damage (bypassing physical Armor), and you regain 1 Soul Energy (SE).
 Drawback: Your soul becomes tainted; until your next long rest, any healing you receive from non-corrupted sources (e.g., holy magic or Balance Wardens) is reduced by 2 HP.
 Narrative Flavor: You siphon a fragment of your foe’s essence, your eyes glowing with stolen light. Your shadow flickers unnaturally, as if alive, and you feel a gnawing emptiness within. This perk aligns with Soul Reavers or Hylden Warlocks, emphasizing soul manipulation.
 Abyssal Echo
@@ -2450,12 +2450,12 @@ Effect (Active): As a Bonus Action, once per short rest, you can enter a frenzie
 Drawback: After the frenzy ends, you’re exhausted, suffering a -1 die penalty on all Blood and Evasion checks until you complete a short rest.
 Narrative Flavor: You unleash a torrent of corrupted rage, your body sprouting jagged, bone-like protrusions. Your laughter grows unhinged, and allies may fear you’re losing control. This perk fits Blood Knights or Turelim, enhancing their combat prowess at a steep cost.
 🔥 Tier 3 Corrupted Perks
-Embodiment of Decay – Your presence wilts plants and rusts weapons; enemies in 1-tile radius suffer -1 to all attack rolls.
+Embodiment of Decay – Your presence wilts plants and rusts weapons; enemies in 5-foot radius suffer -1 to all attack rolls.
 Eternal Host – You cannot be permanently killed while your corruption is 6 or higher; rise again at 1 HP after 1 round.
-Eye of the Abyss – Once per session, ask a question and receive a disturbing but truthful vision.
+Eye of the Abyss – Once per long rest, ask a question and receive a disturbing but truthful vision.
 The Rot Within – When you are critically hit, the attacker takes 2 soul damage.
 Soulrend Dominion
-Effect (Active): As an Action, once per long rest, you unleash a wave of soul-devouring energy in a 15-foot (3 squares) radius centered on yourself. Enemies in the area must make a DR 3 Will save. On a failure, they take 6 Soul damage (bypassing physical Armor) and are Frightened for 1 minute (repeat save at end of each turn). On a success, they take 3 Soul damage. You regain 1 Soul Energy (SE) per affected enemy. Costs 3 SE and 2 sanity damage.
+Effect (Active): As an Action, once per long rest, you unleash a wave of soul-devouring energy in a 15-foot radius centered on yourself. Enemies in the area must make a DR 3 Will save. On a failure, they take 6 Soul damage (bypassing physical Armor) and are Frightened for 1 minute (repeat save at end of each turn). On a success, they take 3 Soul damage. You regain 1 Soul Energy (SE) per affected enemy. Costs 3 SE and 2 sanity damage.
 Drawback: Your soul frays; you gain 1 Corruption Point, and until your next long rest, you suffer a -2 die penalty on saves against Radiant or holy effects. Additionally, spectral entities are drawn to you, increasing the chance of hostile encounters (GM discretion).
 Narrative Flavor: You tear at the essence of your foes, your form wreathed in spectral fire. Your eyes burn with an unnatural void, and your voice echoes with a chorus of trapped souls. Allies may fear you’re becoming a conduit for the Elder God. GMs can use this to introduce spectral pursuers or visions of the Wheel of Fate.
 Bloodforged Apotheosis
@@ -2463,7 +2463,7 @@ Effect (Active): As an Action, once per short rest, you transform into a blood-w
 Drawback: Your body warps permanently (e.g., crimson veins pulse visibly, or bone spurs protrude); you suffer a -2 die penalty on Persuasion checks with uncorrupted NPCs (e.g., Sarafan, Nomads). After the effect ends, you take 4 physical damage (bypassing Armor) from overexertion.
 Narrative Flavor: Your blood boils, reshaping you into a living weapon. Your laughter is guttural, and your presence terrifies mortals. This perk suits vampires or Sangromancers, amplifying their bloodlust but marking them as monstrous. GMs may have factions hunt you as a threat.
 Hylden’s Rift
-Effect (Active): As an Action, once per long rest, you tear open a rift to the Hylden’s banished dimension at a point within 60 feet (12 squares), creating a 10-foot (2 squares) radius zone of chaotic energy for 1 minute. Enemies entering or starting their turn in the zone take 4 Void damage (bypassing all Armor and resistances) and must make a DR 3 Blood save or be slowed (half speed) for 1 round. Costs 4 SE and 3 sanity damage.
+Effect (Active): As an Action, once per long rest, you tear open a rift to the Hylden’s banished dimension at a point within 60 feet, creating a 10-foot radius zone of chaotic energy for 1 minute. Enemies entering or starting their turn in the zone take 4 Void damage (bypassing all Armor and resistances) and must make a DR 3 Blood save or be slowed (half speed) for 1 round. Costs 4 SE and 3 sanity damage.
 Drawback: The rift destabilizes you; you gain 2 Corruption Points, and your maximum HP is reduced by 5 until you complete a long rest. The rift may attract Hylden attention, potentially summoning a minor Hylden entity (GM discretion).
 Narrative Flavor: You channel the Hylden’s entropy, your hands glowing with otherworldly sigils. Your dreams are plagued by visions of a shattered realm, and your shadow writhes independently. This perk aligns with Hylden Warlocks, risking cosmic consequences for immense power.
 Abyssal Pact
@@ -2471,7 +2471,7 @@ Effect (Active): As a Bonus Action, once per scene, you can sacrifice 5 HP to ga
 Drawback: The pact binds you to the Abyss; you gain 1 Corruption Point each time you use this ability, and until your next short rest, you suffer a -1 die penalty on Insight and Concentration checks as abyssal whispers cloud your mind.
 Narrative Flavor: You offer your vitality to an unseen force, your wounds weeping black ichor. Your movements are unnaturally fluid, but your gaze grows distant, as if listening to a voice only you hear. This perk suits Blood Knights or Unbound, offering versatility at a steep cost. GMs can hint at an abyssal entity taking interest.
 Wraith’s Lament
-Effect (Active): As an Action, once per short rest, you emit a keening wail that affects all enemies within 30 feet (6 squares). Targets must make a DR 3 Will save. On a failure, they take 5 Soul damage (bypassing physical Armor) and cannot take Reactions until the end of their next turn. On a success, they take 2 Soul damage. Costs 2 SE and 2 sanity damage.
+Effect (Active): As an Action, once per short rest, you emit a keening wail that affects all enemies within 30 feet . Targets must make a DR 3 Will save. On a failure, they take 5 Soul damage (bypassing physical Armor) and cannot take Reactions until the end of their next turn. On a success, they take 2 Soul damage. Costs 2 SE and 2 sanity damage.
 Drawback: Your connection to the Spectral Realm deepens; you gain 1 Corruption Point, and you suffer 1 sanity damage whenever you enter or remain in the Spectral Realm for more than 1 minute per scene until your next long rest.
 Narrative Flavor: Your wail echoes with the sorrow of lost souls, your form flickering like a dying flame. Your touch grows cold, and mirrors show a gaunt, spectral version of you. This perk fits Wraiths or Shadowmancers, enhancing their spectral prowess but binding them to the Spectral Realm’s torment.
 Corrupted Ascension
@@ -3062,7 +3062,7 @@ Cost: 1 SE
 Range (Placement): Touch
 Duration: 10 minutes, or until triggered. Max active: Will attribute.
 Trigger: Creature (not designated ally) moves within 5 feet of the glyph or touches it.
-Effect: Releases a burst of chilling frost in a 5-foot radius sphere. Creatures in the area suffer 1 Frost damage and have their movement Speed reduced by 10 feet (2 squares) for 1 round.
+Effect: Releases a burst of chilling frost in a 5-foot radius sphere. Creatures in the area suffer 1 Frost damage and have their movement Speed reduced by 10 feet for 1 round.
 Save: DR 2 fury to negate the speed reduction (still takes damage).
 Glyph of Sparks
 
@@ -3578,7 +3578,7 @@ Cost: 2 SE
 Range (Placement): Touch (must be on a natural earth or loose debris surface)
 Duration: 10 minutes, or until triggered.
 Trigger: When a creature weighing more than 50 lbs moves onto the glyph's space.
-Effect: The 5-foot square space the glyph is on and all adjacent squares (a 3x3 square area, or 15x15ft) transform into treacherous, magically-induced quicksand for 1 minute. This area is difficult terrain. Any creature starting its turn in the quicksand or entering it must make a DR 2 Blood save or become Restrained as they sink. A Restrained creature can use its action to make another DR 2 fury check to free itself. Creatures who are Restrained at the end of their turn sink deeper, suffering 1 Soul Stress.
+Effect: The 5-foot space the glyph is on and the surrounding 15x15 foot area transform into treacherous, magically-induced quicksand for 1 minute. This area is difficult terrain. Any creature starting its turn in the quicksand or entering it must make a DR 2 Blood save or become Restrained as they sink. A Restrained creature can use its action to make another DR 2 fury check to free itself. Creatures who are Restrained at the end of their turn sink deeper, suffering 1 Soul Stress.
 Glyph of Displacement
 
 
@@ -3589,7 +3589,7 @@ Cost: 2 SE
 Range (Placement): Touch
 Duration: 10 minutes, or until triggered.
 Trigger: When a creature (not designated ally) touches or moves over the glyph.
-Effect: The triggering creature must make a DR 2 Will save. On a failed save, it is instantly teleported 15 feet (3 squares) in a random horizontal direction (roll a d8 for direction). If the destination is occupied or unsafe (e.g., off a cliff), the creature is shunted to the nearest safe unoccupied space and takes 1 Soul damage. The glyph is then expended.
+Effect: The triggering creature must make a DR 2 Will save. On a failed save, it is instantly teleported 15 feet in a random horizontal direction (roll a d8 for direction). If the destination is occupied or unsafe (e.g., off a cliff), the creature is shunted to the nearest safe unoccupied space and takes 1 Soul damage. The glyph is then expended.
 Glyph of Severance
 
 
@@ -3694,7 +3694,7 @@ Casting Time: 1 Action
 Cost: 2 BP
 Range: 30 feet
 Target: One living creature.
-Effect: You send out a grasping tendril of blood. Make a ranged spell attack roll (Soul + Rituals). On a hit, the target suffers 2 Soul damage and you form a blood link. As a Bonus Action on your subsequent turns while the link persists (up to 1 minute, requires concentration), you can attempt to pull the target. The target must make a DR 2 Blood save or be pulled 10 feet (2 squares) closer to you. The link breaks if they move out of 30 feet or you lose concentration.
+Effect: You send out a grasping tendril of blood. Make a ranged spell attack roll (Soul + Rituals). On a hit, the target suffers 2 Soul damage and you form a blood link. As a Bonus Action on your subsequent turns while the link persists (up to 1 minute, requires concentration), you can attempt to pull the target. The target must make a DR 2 Blood save or be pulled 10 feet closer to you. The link breaks if they move out of 30 feet or you lose concentration.
 Crimson Mantle
 
 
@@ -3860,7 +3860,7 @@ Type: Forbidden (Movement)
 Casting Time: 1 Bonus Action
 Cost: 2 SE
 Range: Self
-Effect: You tear a momentary rift in reality and step through it. Teleport up to 30 feet (6 squares) to an unoccupied space you can see. This movement does not provoke attacks of opportunity.
+Effect: You tear a momentary rift in reality and step through it. Teleport up to 30 feet  to an unoccupied space you can see. This movement does not provoke attacks of opportunity.
 Fleshwarp
 
 
@@ -3894,7 +3894,7 @@ Casting Time: 1 Minute
 Cost: 2 SE (and 1 sanity damage for Hylden Warlock)
 Range: Self
 Duration: Concentration, up to 10 minutes.
-Effect: You temporarily replace your eyes with swirling pools of void or shimmering Hylden lenses, allowing you to perceive realities beyond normal sight. For the duration, you gain the ability to see perfectly in all forms of darkness (magical and mundane) up to 60 feet, you can see invisible creatures and objects, and you gain +1 die on Observation checks to pierce illusions or notice minute details related to planar disturbances. However, the horrifying vistas glimpsed cause you to suffer a -1 die penalty on all social interaction checks (Persuasion, Deception, Presence) for the duration due to your unsettling appearance and distracted demeanor.
+Effect: You temporarily replace your eyes with swirling pools of void or shimmering Hylden lenses, allowing you to perceive realities beyond normal sight. For the duration, you gain the ability to see perfectly in all forms of darkness (magical and mundane) up to 60 feet, you can see invisible creatures and objects, and you gain +1 die on Observation checks to pierce illusions or notice minute details related to planar disturbances. However, the horrifying vistas glimpsed cause you to suffer a -1 die penalty on all social interaction checks (Persuasion, Deception, Intimidation) for the duration due to your unsettling appearance and distracted demeanor.
 Dread Chain
 
 
@@ -4067,7 +4067,7 @@ Casting Time: 1 Action
 Cost: 3 BP
 Range: Self
 Area: 20-foot radius sphere centered on you.
-Effect: You cause your own blood (or ambient spilled blood) to erupt outwards in a violent, razor-sharp vortex. All other creatures in the radius suffer 5 Physical (Slashing) damage and must make a DR 3 Blood save or be pushed 10 feet (2 squares) directly away from you and knocked Prone. A successful save halves the damage and negates the push/prone. You are unharmed by your own cyclone.
+Effect: You cause your own blood (or ambient spilled blood) to erupt outwards in a violent, razor-sharp vortex. All other creatures in the radius suffer 5 Physical (Slashing) damage and must make a DR 3 Blood save or be pushed 10 feet directly away from you and knocked Prone. A successful save halves the damage and negates the push/prone. You are unharmed by your own cyclone.
 Curse of Ash
 
 
@@ -4393,8 +4393,8 @@ Range: Touch (the item/link)
 Target: One creature whose item/link you possess.
 Duration: Until dispelled by Master tier magic or a specific counter-curse, or a significant event breaks the curse (GM discretion).
 Effect: You weave a powerful curse into the target's destiny. The target must make a DR 4 Will save (they make this save when the curse first attempts to affect them significantly, or the GM might roll it secretly). On a failure, the target is "fate-bound."
-Once per game session, the GM can choose to have the fate-bound target automatically fail one attack roll, skill check, or saving throw they make (no roll allowed, it just fails).
-Alternatively, once per game session, the GM can dictate that one attack roll made against the fate-bound target is an automatic critical hit. The GM should use this sparingly to represent moments where fate turns decisively against the target. The target might feel an unnatural sense of dread or misfortune. Removing this curse should be a significant undertaking.
+Once per long rest, the GM can choose to have the fate-bound target automatically fail one attack roll, skill check, or saving throw they make (no roll allowed, it just fails).
+Alternatively, once per long rest, the GM can dictate that one attack roll made against the fate-bound target is an automatic critical hit. The GM should use this sparingly to represent moments where fate turns decisively against the target. The target might feel an unnatural sense of dread or misfortune. Removing this curse should be a significant undertaking.
 A Note on Costs and Mechanics for Master Tier:
 Soul Energy (SE) or Blood Points (BP) costs will typically be 4 or 5+, reflecting their immense power. Some might have additional costs (e.g., rare components, significant HP/Sanity sacrifice, or longer casting times).
 Damage values will be static and significantly higher than Expert Tier.
@@ -4644,7 +4644,7 @@ Duration: Concentration, up to 1 minute.
 Effect: You exert an overwhelming pressure on the life force of those around you. When you activate this, and as a Bonus Action on subsequent turns, choose one effect to dominate the aura:
 Siphon Vigor: Enemies in the aura suffer -1 die to Might and Fury based checks and saves. You regain 1 BP at the start of your turn for each enemy in the aura (max 3 BP/round).
 Accelerate Decay: Enemies in the aura cannot regain HP. Any Bleeding effect on them deals +1 damage per round.
-Puppet Dance: Any creature in the aura currently under the effect of your Blood Puppet or Hemodominate is controlled by you as a free action (not requiring your Bonus Action to direct basic actions).
+Puppet Dance: Any creature in the aura currently under the effect of your Blood Puppet or Hemodominate is controlled by you without requiring an action (not requiring your Bonus Action to direct basic actions).
 
 Master Ritual Spells (Focus: Glyph Seekers, Sangromancers, Wardens of Balance) (All 10 of these are new designs as "Selected Spells" did not cover Master Rituals)
 Chrono Collapse
@@ -4892,7 +4892,7 @@ Cost: 4 SE (and gain 1 Corruption Die if system used, or 1 permanent point of Co
 Range: Self
 Duration: Concentration, up to 10 minutes.
 Effect: You weave threads of raw corruption and forbidden power into a visible (or invisible, your choice) crown of dark energy around your head. While this crown persists:
-You gain +2 dice on all Presence and Deception checks made against creatures susceptible to corruption or fear.
+You gain +2 dice on all Intimidation and Deception checks made against creatures susceptible to corruption or fear.
 Any creature you successfully deal Soul or Corruption damage to must make a DR 3 Will save or become Charmed by you for 1 minute (they regard you as a trusted leader/figure of awe, but will not perform obviously self-destructive acts for you). If already Charmed, a failed save might deepen their loyalty or make them Frightened of displeasing you.
 You emanate an aura of palpable dread and power. Creatures with a Will attribute lower than yours suffer a -1 die penalty on attack rolls against you. The act of creating and wearing this crown is visibly or spiritually corrupting and will likely have negative social and narrative repercussions with good or neutral entities.
 
@@ -4932,7 +4932,7 @@ Specter Cling – Gain a persistent haunting until next rest.
 Crimson Hunger – Roll a Will save or attack the nearest living target.
 1
 3
-Echoing Guilt – Flash of memory: -1 die on next Soul or Presence check.
+Echoing Guilt – Flash of memory: -1 die on next Soul or Persuasion check.
 1
 4
 Eldritch Attention – A spectral being notices you.
@@ -4962,7 +4962,7 @@ Soul Backlash – Take 1 Soul Stress.
 Abyssal Surge – Next spell deals +2 damage, but auto-gain 1 Corruption.
 3
 1
-Echoing Guilt – Flash of memory: -1 die on next Soul or Presence check.
+Echoing Guilt – Flash of memory: -1 die on next Soul or Persuasion check.
 3
 2
 Spectral Drain – Lose 1 random magical resource (GM’s discretion).
@@ -4989,7 +4989,7 @@ Decay Pulse – Nearby objects wither or break (GM determines effect).
 Planar Rift – You phase briefly; disadvantage on all checks for 1 round.
 4
 4
-Echoing Guilt – Flash of memory: -1 die on next Soul or Presence check.
+Echoing Guilt – Flash of memory: -1 die on next Soul or Persuasion check.
 4
 5
 Mind Warp – -1 die on all Will checks for 1 scene.
@@ -5007,7 +5007,7 @@ Unholy Mutation – Develop a temporary physical mark (-1 to social rolls).
 Flesh Distortion – -1 Armor for 1 hour as your form twists unnaturally.
 5
 4
-Echoing Guilt – Flash of memory: -1 die on next Soul or Presence check.
+Echoing Guilt – Flash of memory: -1 die on next Soul or Persuasion check.
 5
 5
 Eternal Hunger – You cannot regain Soul Energy until next rest.
@@ -5136,7 +5136,7 @@ This document provides a comprehensive overview of the combat system in the Lega
 Combat is divided into structured rounds, where each character takes a turn in an initiative order. Each round represents approximately 6–10 seconds of in-game time.
 On their turn, each combatant may take:
 1 Action (attack, spell, ability use, etc.)
-1 Movement (up to their Speed stat in tiles)
+1 Movement (up to their Speed stat in feet)
 1 Reaction (once per round, in response to a trigger)
 Free Interactions (draw weapon, speak, drop item, etc.)
 
@@ -5379,7 +5379,7 @@ This skill taps into the unspeakable truths—Hylden technology, fate codes, gly
 Stealth
 Stealth is the ability to move silently, remain unseen, and slip past both living and spectral sentries. It’s essential for assassins, scouts, and those seeking to avoid conflict. Stealth checks are used for infiltration, ambushes, escaping detection, or navigating dark terrain unnoticed. At high levels, this skill can be used to vanish in plain sight or traverse dangerous ground like a shadow. It synergizes well with Shadow or Will, depending on whether the stealth is physical or magical.
 Deception
-This skill covers lying, bluffing, impersonation, and creating false narratives. Deception is useful in both social interactions and espionage, allowing a character to disguise intentions or assume false identities. Skilled deceivers can forge documents, mimic voices, or sow doubt among enemies. This skill is often contested by Insight, making it vital for social intrigue or diplomacy under false pretenses. It pairs naturally with Presence or Will.
+This skill covers lying, bluffing, impersonation, and creating false narratives. Deception is useful in both social interactions and espionage, allowing a character to disguise intentions or assume false identities. Skilled deceivers can forge documents, mimic voices, or sow doubt among enemies. This skill is often contested by Insight, making it vital for social intrigue or diplomacy under false pretenses. It pairs naturally with Will.
 Thievery
 Thievery governs lockpicking, pickpocketing, disarming traps, and other sleight-of-hand techniques. It’s often used in dungeon crawling, urban stealth missions, or acquiring forbidden artifacts. High Thievery lets characters detect mechanical traps, crack enchanted locks, or even create makeshift tools on the fly. It requires finesse and patience, pairing well with Shadow or Focus. In Nosgoth’s ruined cities, Thievery is a vital survival tool.
 Observation
@@ -5387,9 +5387,9 @@ Observation is the skill of noticing hidden details, spotting enemies, or readin
 
 💬 Social & Mental
 Persuasion
-This is the ability to influence, bargain, or inspire others through words and charisma. It’s used to convince NPCs, negotiate terms, or dissuade conflict. Persuasion can be used with charm, reason, or passionate appeals, depending on the speaker’s approach. High Persuasion might sway a crowd, call off an attack, or turn a faction to your side. It’s based on Presence or Will.
+This is the ability to influence, bargain, or inspire others through words and charisma. It’s used to convince NPCs, negotiate terms, or dissuade conflict. Persuasion can be used with charm, reason, or passionate appeals, depending on the speaker’s approach. High Persuasion might sway a crowd, call off an attack, or turn a faction to your side. It’s based on Will.
 Presence
-Presence reflects force of personality—used to intimidate, command, or awe others. It’s vital for leaders, warriors, or any character who uses fear or respect as a tool. Presence can suppress rebellion, rally allies, or terrify enemies in a standoff. It’s often used in battle to assert dominance or outside combat to demand attention. This skill pairs well with Fury or Will.
+Intimidation reflects force of personality—used to intimidate, command, or awe others. It’s vital for leaders, warriors, or any character who uses fear or respect as a tool. Intimidation can suppress rebellion, rally allies, or terrify enemies in a standoff. It’s often used in battle to assert dominance or outside combat to demand attention. This skill pairs well with Fury or Will.
 Insight
 Insight is a character’s ability to read emotions, detect lies, and sense true intentions. It’s used to evaluate threats, see through deception, or understand social nuance. High Insight provides strategic social awareness, making it easier to negotiate or expose manipulation. It’s commonly paired with Will or Focus and is used by Oracles, judges, and mystics.
 Concentration
@@ -5431,13 +5431,13 @@ Will, Soul, or Focus
 Stealth
 Shadow or Will
 Deception
-Presence or Will
+Will
 Thievery
 Shadow or Focus
 Observation
 Focus or Soul
 Persuasion
-Presence or Will
+Will
 Presence
 Fury or Will
 Insight
@@ -5484,7 +5484,7 @@ Scion Blade – Damage: 6 – Bleed on crit; +1 damage if gained a blood point t
 Bloodfang Dagger – Damage: 4 – +2 damage when targeting a bleeding foe.
 Nightblade Saber – Damage: 5 – +1 armor penetration; silent and swift.
 Sarafan Crusader Class
-Sarafan Pike – Damage: 5 – Reach 2 tiles; +2 damage vs. Undead.
+Sarafan Pike – Damage: 5 – Reach 10 feet; +2 damage vs. Undead.
 Blessed Mace – Damage: 6 – On hit, undead must succeed DR 2 or be stunned.
 Crusader Broadsword – Damage: 5 – +1 DV when wielded; balanced and blessed.
 Wraith / Spirit-Bound Class
@@ -5494,7 +5494,7 @@ Phantom Claws – Damage: 3 – On hit, inflict -1 on enemy rolls for 1 round.
 Blood Mage Class
 Bloodstaff – Damage: 3 – Heals caster instead of damage.
 Veinbinder Rod – Damage: 4 – Targets take 1 damage per round unless healed.
-Crimson Spear – Damage: 5 – Range 2 tiles; caster gains 1 HP on crit.
+Crimson Spear – Damage: 5 – Range 10 feet; caster gains 1 HP on crit.
 Forbidden Scholar / Cultist Class
 Hexbrand – Damage: 5 – Target gains 1 Corruption; disrupts next spell.
 Ritual Blade – Damage: 4 – On crit, absorb 1 Soul Energy.
@@ -5511,7 +5511,7 @@ Traits: On crit, remove 1 reaction from target.
 Available To: Warriors, Vampires, Outcasts.
 Throwing Dagger
 Damage: 3
-Traits: Thrown (Range 8 tiles); mark target for 1 turn.
+Traits: Thrown (Range 40 feet); mark target for 1 turn.
 Available To: Rogues, Vampires, Scholars.
 Repeater Crossbow
 Damage: 4
@@ -5527,11 +5527,11 @@ Traits: Brutal and heavy; -1 to hit but ignores 2 armor.
 Available To: Vampires, Cultists, Outcasts.
 Steel Javelin
 Damage: 4
-Traits: Thrown or melee; can pin target (DR 2 vs. STR to move).
+Traits: Thrown or melee; can pin target (DR 2 vs. Blood+Athletics to move).
 Available To: Any martial or hybrid class.
 Huntsman's Bow
 Damage: 5
-Traits: Long range (12 tiles); +1 vs beasts or corrupted wildlife.
+Traits: Long range (110 feet); +1 vs beasts or corrupted wildlife.
 Available To: Rogues, Outcasts, Rangers.
 Spiritshard Wand
 Damage: 3 (Spiritual)
@@ -5549,7 +5549,7 @@ Traits: +2 damage when used under moonlight or in darkness; user gains +1 Evasio
 Available To: Vampires, Rogues, Spirit-bound.
 Requiem Pike
 Damage: 7
-Traits: On kill, emit shockwave (1 damage to enemies in 2-tile radius); cannot be parried.
+Traits: On kill, emit shockwave (1 damage to enemies in 10-foot radius); cannot be parried.
 Available To: Sarafan, Blood Mages.
 Soulbrand Blade
 Damage: 6 (Soulfire)
@@ -5561,7 +5561,7 @@ Traits: On crit, knock target prone and silence for 1 round. Wielder takes 1 Cor
 Available To: Outcasts, Cultists, GM artifact unlock.
 Bloodwoven Whip
 Damage: 5
-Traits: Can target enemies 3 tiles away; grapple effect on DR 2. If target is bleeding, they cannot move.
+Traits: Can target enemies 15 feet away; grapple effect on DR 2. If target is bleeding, they cannot move.
 Available To: Blood Mages, Forbidden Scholars.
 🗡️ Relic Weapons (Legendary or Unique)
 Soulreaver Prime
@@ -5603,7 +5603,7 @@ Graveskin Harness – Reduces Damage by 1, +1 to DR vs. fire and radiant effects
 Ebonwing Shroud – Reduces Damage by 2, fly for 1 turn once per scene.
 🛡 Sarafan Crusader
 Sarafan Plate – Reduces Damage by 3, disadvantage on Stealth. Undead gain disadvantage vs. fear saves.
-Radiant Tabard – Reduces Damage by 2, allies within 2 tiles gain +1 to Will saves.
+Radiant Tabard – Reduces Damage by 2, allies within 10 feet gain +1 to Will saves.
 Blessed Chain Vestments – Reduces Damage by 2, caster allies gain +1 to spell saves.
 Holy Valor Guard – Reduces Damage by 3, you gain +1 DR vs. corruption magic.
 Lightforged Aegis – Reduces Damage by 2, once per scene deflects 1 source of incoming damage.
@@ -5611,7 +5611,7 @@ Lightforged Aegis – Reduces Damage by 2, once per scene deflects 1 source of i
 Shroud of Echoes – Reduces Damage by 1, ignore terrain effects. Move freely in Spectral Realm.
 Gravewind Mantle – Reduces Damage by 2, attacks against you have -1 on first round of combat.
 Veilpiercer Shroud – Reduces Damage by 1, you see into Spectral and Material realms simultaneously.
-Soulrift Weave – Reduces Damage by 2, teleport 2 tiles once per scene.
+Soulrift Weave – Reduces Damage by 2, teleport 10 feet once per scene.
 Spiritthread Vestments – Reduces Damage by 1, regain 1 Soul Energy after casting in Spectral Realm.
 🩸 Blood Mage
 Veinsilk Robes – Reduces Damage by 1, caster heals 1 HP after casting a Blood spell.
@@ -5628,7 +5628,7 @@ Chantwoven Cloak – Reduces Damage by 1, once per scene cast a Tier 1 Forbidden
 🛡 Universal Armor
 Traveler’s Leathers – +1 DV, no penalties to movement or Stealth.
 Nosgothian Chainmail – +2 DV, standard medium armor.
-Abyss-Ward Cloak – +1 DV, resist 1 corruption point per session.
+Abyss-Ward Cloak – +1 DV, resist 1 corruption point per long rest.
 Wraithbone Shell – +2 DV, halve Spectral damage once per scene.
 Feral Hide Armor – +2 DV, +1 damage on melee crits.
 
@@ -5679,9 +5679,9 @@ Stealth ___
 Deception ___
 Thievery ___
 Observation ___
-Social & Mental: (Attribute: Presence / Will / Focus)
+Social & Mental: (Attribute: Will / Will / Focus)
 Persuasion ___
-Presence ___
+Persuasion ___
 Insight ___
 Concentration ___
 Lore & Practical: (Attribute: Focus / Soul / Will)
@@ -5700,7 +5700,7 @@ Unique Trait:
 Health Points (HP): ___ / ___
 Defense Value (DV): ___ (Base DV = 1 + Shadow or Will, + Armor/Perks)
 Armor: ___
-Speed (Tiles): ___
+Speed (ft): ___
 Base DV: ___
 DV Modifiers (Armor/Perks): ___
 Total DV: ___
@@ -5777,7 +5777,7 @@ Description & Effects
 Open Ground
 Standard terrain. No modifiers.
 Difficult Terrain
-Costs 2 movement per tile. Affects large rubble, snow, shallow water, broken stairs.
+Costs 10 feet of movement. Affects large rubble, snow, shallow water, broken stairs.
 Hazardous Terrain
 May deal damage or require a DR check to cross. Examples: fire, acid pools, spectral thorns.
 Elevated Terrain
@@ -5834,7 +5834,7 @@ Deep within the ruins of Avernus lies a circular chamber inscribed with shifting
 
 🔗 How to Attune to an Energy Foci
 📜 Basic Method
-Be within range of the Foci (typically within 1–2 tiles).
+Be within range of the Foci (typically within 1–10 feet).
 
 
 Spend one full round focusing uninterrupted.
@@ -5912,7 +5912,7 @@ Would you like to incorporate this attunement system directly into the Spellcast
 
 Rests
 Short Rest
-Duration: Approximately 1 hour.
+Duration: Approximately 15 minutes.
 Activity: This is a brief period of relative calm where characters can catch their breath, tend to immediate wounds, consume a quick ration (if mortal), or briefly focus their will. It requires a modicum of safety, as engaging in strenuous activity (fighting, casting demanding spells, extensive travel) would interrupt it.
 
 

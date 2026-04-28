@@ -28,7 +28,7 @@ Guidance:
 - **DV:** 6
 - **Armor:** 7 (Spectral Resilience)
 - **Initiative:** 11
-- **Movement:** 70 feet (14 squares), Fly 70 feet (hover, phasing)
+- **Movement:** 70 feet, Fly 70 feet (hover, phasing)
 - **SE:** 120
 - **Attributes:** Fury 6, Soul 8, Shadow 6, Will 7, Focus 6, Blood 0
 - **Skills:** Glyphcasting 4, Insight 4, Evasion 4, Intimidation 3
@@ -110,7 +110,7 @@ Guidance:
 - **DV:** 6
 - **Armor:** 7 (Temporal Plate)
 - **Initiative:** 12
-- **Movement:** 60 feet (12 squares)
+- **Movement:** 60 feet
 - **SE:** 80
 - **BP:** 20
 - **Attributes:** Fury 7, Soul 5, Shadow 6, Will 6, Focus 6, Blood 3
@@ -196,7 +196,7 @@ Guidance:
 - **DV:** 6
 - **Armor:** 4
 - **Initiative:** 10
-- **Movement:** 60 feet (12 squares), Fly 60 feet (hover)
+- **Movement:** 60 feet, Fly 60 feet (hover)
 - **SE:** 120
 - **Attributes:** Fury 4, Soul 9, Shadow 6, Will 8, Focus 6, Blood 0
 - **Skills:** Glyphcasting 4, Insight 3, Persuasion 4
@@ -284,7 +284,7 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 - **DV:** 6
 - **Armor:** 5
 - **Initiative:** 9
-- **Movement:** 50 feet (10 squares)
+- **Movement:** 50 feet
 - **SE:** 100
 - **BP:** 15
 - **Attributes:** Fury 2, Soul 8, Shadow 6, Will 7, Focus 7, Blood 3
@@ -365,7 +365,7 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** 7 (Abyssal Plate)
 - **Initiative:** 8
-- **Movement:** 50 feet (10 squares)
+- **Movement:** 50 feet
 - **SE:** 120
 - **BP:** 20
 - **Attributes:** Fury 8, Soul 7, Shadow 5, Will 7, Focus 6, Blood 4
@@ -461,7 +461,7 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 - **DV:** 6
 - **Armor:** 11 (Calcified God-Flesh)
 - **Initiative:** 6
-- **Movement:** 50 feet (10 squares), Burrow 100 feet
+- **Movement:** 50 feet, Burrow 100 feet
 - **SE:** 200
 - **Attributes:** Fury 9, Soul 10, Shadow 7, Will 9, Focus 8, Blood 0
 - **Skills:** Forbidden Knowledge 6, Insight 6, Athletics 5, Intimidation 7
@@ -581,7 +581,7 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 - **DV:** 6
 - **Armor:** 5
 - **Initiative:** 12
-- **Movement:** 70 feet (14 squares)
+- **Movement:** 70 feet
 - **SE:** 100
 - **Attributes:** Fury 4, Soul 7, Shadow 9, Will 7, Focus 7, Blood 0
 - **Skills:** Infiltration 4, Stealth 5, Insight 4, Observation 3
@@ -658,7 +658,7 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 - **DV:** 6
 - **Armor:** 6 (Sanctified Plate)
 - **Initiative:** 11
-- **Movement:** 60 feet (12 squares)
+- **Movement:** 60 feet
 - **SE:** 50
 - **Attributes:** Fury 8, Soul 4, Shadow 6, Will 6, Focus 7, Blood 0
 - **Skills:** Athletics 4, Evasion 6, Wilderness 3, Observation 4
@@ -740,7 +740,7 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 - **DV:** 6
 - **Armor:** 5
 - **Initiative:** 10
-- **Movement:** 50 feet (10 squares)
+- **Movement:** 50 feet
 - **SE:** 120
 - **Attributes:** Fury 2, Soul 9, Shadow 7, Will 8, Focus 8, Blood 0
 - **Skills:** Glyphcasting 4, Lore 6, Insight 3
@@ -825,7 +825,7 @@ They do not intend harm precisely. They are temporal coherence agents, attemptin
 - **DV:** 6 (1 + Focus 5)
 - **Armor:** 2 (temporal ward)
 - **Initiative:** 7
-- **Movement:** 40 feet (8 squares), Fly 40 feet
+- **Movement:** 40 feet, Fly 40 feet
 - **SE:** 80
 - **Attributes:** Fury 3, Soul 6, Shadow 4, Will 6, Focus 6, Blood 0
 - **Skills:** Glyphcasting 5, Observation 5, Persuasion 4
@@ -906,7 +906,7 @@ The Death Guardian is everything the role was meant to prevent: an undead being 
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 3 (deathplate)
 - **Initiative:** 7
-- **Movement:** 35 feet (7 squares), Fly 30 feet
+- **Movement:** 35 feet, Fly 30 feet
 - **SE:** 90
 - **Attributes:** Fury 5, Soul 6, Shadow 4, Will 6, Focus 4, Blood 0
 - **Skills:** Forbidden Knowledge 5, Weapon Mastery 4, Intimidation 5, Glyphcasting 3
@@ -988,7 +988,7 @@ Encountering Vorador is not something that happens by accident. It happens becau
 - **DV:** 6 (1 + Blood 5)
 - **Armor:** 2 (supernatural resilience)
 - **Initiative:** 8
-- **Movement:** 45 feet (9 squares), Fly 50 feet
+- **Movement:** 45 feet, Fly 50 feet
 - **SE:** 100
 - **BP:** 30
 - **Attributes:** Fury 6, Soul 5, Shadow 5, Will 5, Focus 5, Blood 6
@@ -1068,7 +1068,7 @@ Vorador does not rush. He opens with Zephonim's Curse on the PC with the highest
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 3 (Hylden warpplate)
 - **Initiative:** 9
-- **Movement:** 40 feet (8 squares), Fly 40 feet
+- **Movement:** 40 feet, Fly 40 feet
 - **SE:** 110
 - **Attributes:** Fury 5, Soul 6, Shadow 4, Will 6, Focus 5, Blood 3
 - **Skills:** Weapon Mastery 4, Glyphcasting 5, Forbidden Knowledge 4, Observation 5, Intimidation 5
@@ -1144,7 +1144,7 @@ The Overlord opens with Dimensional Anchor on the party's most effective counter
 - **DV:** 6
 - **Armor:** 4 (Spectral Shell)
 - **Initiative:** 9
-- **Movement:** 50 feet (10 squares), Fly 50 feet (hover)
+- **Movement:** 50 feet, Fly 50 feet (hover)
 - **SE:** 80
 - **Attributes:** Fury 3, Soul 8, Shadow 4, Will 6, Focus 5, Blood 2
 - **Skills:** Forbidden Knowledge 4, Intimidation 2, Insight 5

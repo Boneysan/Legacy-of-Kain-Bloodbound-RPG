@@ -74,7 +74,7 @@ Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra U
 | **Ascended Form** | Transform for 1 minute. Gain **+2 dice** to attack rolls, **+2 Armor**, and **+1 die** to all saves. GM defines the visual form of the transformation. | **2 SE** + **1 Corruption Level** |
 | **Chrono Clarity** | Cannot be **Surprised**. **+2 dice** to Initiative. | Passive |
 | **Deathmark** | Mark one target you can see within 30 feet: deal **+2 damage** to them for the scene. | Once per scene |
-| **Voice of Fate** | Ask a question about the future (GM provides cryptic vision). Requires a DR 3 Will + **Insight** check. | 1/Session (Fail: 1 Corruption Level) |
+| **Voice of Fate** | Ask a question about the future (GM provides cryptic vision). Requires a DR 3 Will + **Insight** check. | 1/Long Rest (Fail: 1 Corruption Level) |
 | **Blood Vow** | Regain **Full HP** upon killing a target marked with *Deathmark*. | 1/Long Rest |
 | **Spectral Reign** | Become **Invisible** in the Spectral Realm for 1 minute. | **1 SE**, once per scene |
 | **Timelocked** | Immune to **Slowed**, **Stunned**, and **Paralyzed** effects. | Passive |
@@ -96,7 +96,7 @@ Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra U
 | **Flesh of Myth** | **+1 Max HP** per character level (applied retroactively). Immune to poison, disease, aging, and non-magical dismemberment. | Passive |
 | **Spectral Fire** | Sacrifice 3 HP to regain 1 SE or 1 BP. | Bonus Action |
 | **Cradle of Ruin** | When reduced to 0 HP: Release a 20-foot pulse dealing **12 Entropic damage** (bypasses Armor). Allies within 20 feet gain +1 DV until the start of your next turn. You rise at 1 HP at the start of your next turn. | **1 Corruption Level** |
-| **Reality Fracture** | Attempt one reality-warping act once per session, such as halting time mid-scene, teleporting across a region, or erasing one unresolved event from the current scene. The GM sets a DR of 4–6 using the most relevant Attribute + Skill pair (typically Soul + **Ritualism**). On a failure, the effect fizzles and you still gain the Corruption cost. Reality Fracture cannot rewrite completed scenes, undo a character's death after the scene ends, or bypass campaign-defining consequences without GM approval. | **2 Corruption Levels** / Session |
+| **Reality Fracture** | Attempt one reality-warping act once per long rest, such as halting time mid-scene, teleporting across a region, or erasing one unresolved event from the current scene. The GM sets a DR of 4–6 using the most relevant Attribute + Skill pair (typically Soul + **Ritualism**). On a failure, the effect fizzles and you still gain the Corruption cost. Reality Fracture cannot rewrite completed scenes, undo a character's death after the scene ends, or bypass campaign-defining consequences without GM approval. | **2 Corruption Levels** / Long Rest |
 
 ---
 
@@ -205,7 +205,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 ---
 
 #### Corruption Echo
-**Trigger:** Once per session.
+**Trigger:** Once per long rest.
 **Cost:** Gain **1 Corruption Level** and roll **1 Corruption Die**.
 **Effect:** Repeat the last non-capstone spell or magical ability used by another creature in the scene. You must pay its normal costs, choose valid targets, and resolve it using your own dice pools where relevant.
 **Drawback:** -1 die vs. Radiant/holy effects until your next long rest.
@@ -292,7 +292,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 ---
 
 #### Voidtongue
-**Trigger:** Once per session.
+**Trigger:** Once per long rest.
 **Cost:** Gain **1 Corruption Level** and roll **1 Corruption Die**.
 **Effect:** Speak to or issue a command to one forbidden entity (Hylden, demon, elder wraith — GM discretion).
 > *Your voice carries the Abyss's weight, bending dark entities to your will.*
@@ -316,7 +316,7 @@ Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through na
 ---
 
 #### Eye of the Abyss
-**Trigger:** Once per session.
+**Trigger:** Once per long rest.
 **Cost:** Gain **1 Corruption Level** and roll **1 Corruption Die**.
 **Effect:** Ask a question about a person, place, or event. Receive a disturbing but truthful vision (GM-provided).
 **Drawback:** -1 die to **Insight** until your next long rest.

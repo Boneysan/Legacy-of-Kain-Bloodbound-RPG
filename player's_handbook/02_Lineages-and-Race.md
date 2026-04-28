@@ -19,7 +19,7 @@ For lineage-specific equipment, cultural kits, and signature survival tools, see
 
 ## 2.2 Vampires
 **Lore**: Immortal predators descended from Kain's lieutenants, vampires are cursed, sterile, and slowly decaying. Once enforcers of balance, their corruption followed Kain's refusal to sacrifice himself for the Pillars. Each brood reflects its progenitor's strengths and flaws, with territorial and bestial tendencies.
-- **Movement**: 30 feet (6 squares); move through rubble without penalty.
+- **Movement**: 30 feet; move through rubble without penalty.
 - **Stealth**: +1 die in darkness or moonlight.
 - **Movement Effects**: While within 10 feet of a visible blood trail, fresh corpse, or **Bleeding** creature, you may scale vertical surfaces with a DR 1 Athletics or Evasion check.
 - **Undead Biology**: Vampires do not need to breathe and are immune to **Drowning** or **Suffocation** from lack of air. However, they are vulnerable to immersion in running water; a vampire that starts its turn in such water takes 5 Radiant damage (bypassing Armor) and is **Slowed** until it leaves the water. (Rahabim are immune to this vulnerability; see below).
@@ -55,18 +55,18 @@ Flesh-weavers whose bodies decay constantly, surviving by grafting the flesh of 
 - **Bonus**: +1 Craft or Nature.
 - **Feature**: *The Mending* (Action, once per scene: graft harvested flesh from a fresh corpse or flesh component within 5 feet onto yourself to restore 1d6 HP. Each corpse or component can only be used for *The Mending* once; using this feature consumes the component. For 1 hour after using this feature, your horrific appearance grants you +1 die to **Intimidation** checks. If used in sight of non-Melchiahim NPCs, you suffer -1 die to Persuasion and social goodwill checks with them for the rest of the scene.)
 - **Feature**: *Decay Resilience* (Passive: +1 Armor against Entropic damage. Advantage on saves vs. disease and poison.)
-- **Vulnerability**: At the start of each new arc (or every 3 sessions), make a DR 1 Blood save. On failure, gain 1 Corruption representing bodily decay; this can only be removed by performing a successful Mending.
+- **Vulnerability**: At the start of each new arc (or every 3 long rests), make a DR 1 Blood save. On failure, gain 1 Corruption representing bodily decay; this can only be removed by performing a successful Mending.
 
 ### 2.2.6 Rahabim
 Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's flooded ruins and coastal cave systems, controlling territory no other clan can reach.
 - **Bonus**: +1 Nature or Observation.
-- **Feature**: *Amphibious* (Passive: you can breathe both air and water. Swim speed 40 feet (8 squares). While fully submerged or in heavy rain, you gain Advantage on physical checks and attacks. You are immune to the base Vampire vulnerability to running water.)
+- **Feature**: *Amphibious* (Passive: you can breathe both air and water. Swim speed 40 feet. While fully submerged or in heavy rain, you gain Advantage on physical checks and attacks. You are immune to the base Vampire vulnerability to running water.)
 - **Feature**: *Current-Reader* (Bonus Action, once per scene: while touching a body of water large enough to immerse both hands, read faint impressions from it. Make a DR 1-3 Observation or Nature check to learn the number and general nature of creatures that passed through that water within the last hour.)
 - **Vulnerability**: Prolonged exposure to dry air (more than 1 hour without immersion or specialized wrappings) imposes -1 die on all rolls using physical attributes (Blood, Fury, or Shadow). After 4 hours, take 1d4 damage per hour. Specialized alchemical moisturizers negate this for 8 hours.
 
 ## 2.3 Wraiths
 **Lore**: Souls severed by violent death or unfinished destiny, existing between Material and Spectral Realms. They draw power from memory and Soul energy, risking madness but retaining purpose.
-- **Movement**: 25 feet (5 squares); 35 feet (7 squares) while phased.
+- **Movement**: 25 feet; 35 feet while phased.
 - **Terrain Bonus**: Ignore Spectral Realm terrain penalties.
 - **Stealth**: Advantage on Stealth checks in the Spectral Realm.
 - **Movement Effects**: Pass through thin barriers while phased.
@@ -75,12 +75,12 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 - **Unique Trait**: *Wraith Phasing* (Bonus Action, a number of times per long rest equal to your Will: shift into a phased state until the end of your next turn. While phased, you are translucent, your Speed becomes 35 feet, you may move through terrain and barriers up to 1 foot thick *(Spectral only)* (see [Chapter 11, Section 11.1](./11_Realms-Terrain-Arcane-Power.md#111-realm-affinity)), your weapon and unarmed attacks deal Spectral damage instead of their normal type *(crosses realms)*, you gain Resistance to non-magical Physical damage, you are immune to non-magical **Grappled** and **Restrained** conditions, and you add +1 to your Will for the purpose of DV calculations. You must end your movement in an unoccupied space.)
 - **Lineage Paragon (Level 10)**: Spectral Resonance. Gain +1 Soul or Will attribute (max 6). Your Wraith Phasing now lasts until the end of the scene or until you dismiss it as a Bonus Action.
 - **Lineage Paragon (Level 20)**: Wraith Lord. You gain **Hybrid Affinity** (see [Chapter 11, Section 11.5.2](./11_Realms-Terrain-Arcane-Power.md#1152-voluntary-shift-hybrid-affinity)). You can exist in both the Material and Spectral realms simultaneously, perceiving and interacting with both without phasing. Your Spectral Resonance attribute bonus increases to +2 (to a total maximum of 6 in that attribute).
-- **Anchor:** At character creation, designate one Anchor - an object, location, or living NPC tied to your purpose. Your Anchor must be on the same realm as you to count as active. If you are in the Spectral Realm and your Anchor is an object in the Material Realm, you suffer the penalties of a missing Anchor until you return or the Anchor is brought across the veil. If destroyed without replacement within 7 days, make a **DR 2 Will check** at the start of each session; failure = **+1 Corruption**. Replacing an Anchor requires 1 hour of ritual and a meaningful new connection.
+- **Anchor:** At character creation, designate one Anchor - an object, location, or living NPC tied to your purpose. Your Anchor must be on the same realm as you to count as active. If you are in the Spectral Realm and your Anchor is an object in the Material Realm, you suffer the penalties of a missing Anchor until you return or the Anchor is brought across the veil. If destroyed without replacement within 7 days, make a **DR 2 Will check** at the start of each long rest; failure = **+1 Corruption**. Replacing an Anchor requires 1 hour of ritual and a meaningful new connection.
 - **Narrative Hook**: Forgotten by death, hunted by time.
 
 ## 2.4 Hylden-Blooded
 **Lore**: Humans corrupted by Hylden influence (artifacts, rituals, or whispers), marked by glyphs, biomechanical growths, and warped minds. They wield glyphcasting but risk Corruption, driven by alien directives or ambition.
-- **Movement**: 30 feet (6 squares); full speed on corrupted or glyph-infused terrain.
+- **Movement**: 30 feet; full speed on corrupted or glyph-infused terrain.
 - **Stealth**: No bonus, but Glyphcasting can alter terrain visibility.
 - **Movement Effects**: Once per scene, you may take a **Free Action** during your movement to add 10 feet to that movement by rolling 1 Corruption Die. On a 1, gain 1 Corruption Level as normal.
 - **Bonuses**: +1 Glyphcasting, +1 Forbidden Knowledge.
@@ -91,7 +91,7 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 
 ## 2.5 Humans
 **Lore**: Mortal survivors of vampire purges and Hylden incursions, diverse and adaptable. Driven by belief, memory, and legacy, they range from Nomads to Sarafan warriors and Oracle-Blooded seers.
-- **Movement**: 30 feet (6 squares); ignore one terrain penalty per session.
+- **Movement**: 30 feet; ignore one terrain penalty per long rest.
 - **Stealth**: +1 die in crowds or chaotic environments.
 - **Movement Effects**: You may move through gaps, bars, windows, and other openings large enough for your head and one shoulder to fit. Moving through such a space costs 5 extra feet of movement.
 - **Bonuses**: +1 to any two skills.
@@ -116,7 +116,7 @@ Seers touched by divinity or prophecy.
 ## 2.6 Revenants
 **Lore**: Half-wraith, half-corpse beings risen by will, rejected by death, or revived by necromancy. Driven by unfinished business, they rot but persist.
 - **Lineage Affinity**: Spectral Affinity.
-- **Movement**: 25 feet (5 squares); treat graves and crypts as normal ground.
+- **Movement**: 25 feet; treat graves and crypts as normal ground.
 - **Stealth**: +1 die in fog, smoke, or decay.
 - **Movement Effects**: Collapse into ash once per rest to move through bars or cracks large enough for smoke to pass through. You must end in an unoccupied space.
 - **Bonuses**: +1 Concentration, +1 Ritualism.
@@ -130,12 +130,12 @@ Seers touched by divinity or prophecy.
 ## 2.7 Unbound
 **Lore**: Anomalies outside fate's pattern, possibly temporal echoes or Elder God shards. They resist prophecy and exhibit unnatural luck.
 - **Lineage Affinity**: Hybrid Affinity.
-- **Movement**: 30 feet (6 squares); treat difficult terrain as normal for 1 round per rest.
+- **Movement**: 30 feet; treat difficult terrain as normal for 1 round per rest.
 - **Stealth**: +1 die when moving unpredictably.
-- **Movement Effects**: Teleport 20 feet as a Bonus Action once per session.
+- **Movement Effects**: Teleport 20 feet as a Bonus Action once per long rest.
 - **Bonuses**: +1 any skill, +1 Insight or Observation.
-- **Unique Trait**: *Untethered Soul* (You automatically ignore one fate-altering magical or prophetic effect per session.); *Probability Shift* (Reaction, once per scene: after you, an ally within 30 feet, or an enemy you can see within 30 feet rolls dice, force up to 2 of those dice to be rerolled. If used on yourself or an ally, keep the higher results; if used on an enemy, use the new results.)
-- **Lineage Paragon (Level 10)**: Paradox Walker. Gain +1 Focus or Soul attribute (max 6). Your Unique Trait can now be used twice per session.
+- **Unique Trait**: *Untethered Soul* (You automatically ignore one fate-altering magical or prophetic effect per long rest.); *Probability Shift* (Reaction, once per scene: after you, an ally within 30 feet, or an enemy you can see within 30 feet rolls dice, force up to 2 of those dice to be rerolled. If used on yourself or an ally, keep the higher results; if used on an enemy, use the new results.)
+- **Lineage Paragon (Level 10)**: Paradox Walker. Gain +1 Focus or Soul attribute (max 6). Your Unique Trait can now be used twice per long rest.
 - **Lineage Paragon (Level 20)**: Fate-Breaker. You are immune to all fate-altering or predictive magical effects. Your Paradox Walker attribute bonus increases to +2 (to a total maximum of 6 in that attribute).
 - **Narrative Hook**: Broken from destiny's tapestry, proof fate can be hacked.
 

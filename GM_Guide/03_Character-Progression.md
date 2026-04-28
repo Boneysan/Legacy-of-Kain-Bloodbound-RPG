@@ -228,7 +228,7 @@ Poor: "That's enough XP, you level up."
    - **Levels 6, 8, 10:** Tier 2 Universal Perk
    - **Levels 11, 13, 15:** Tier 3 Universal Perk
    - **Levels 16, 18, 20:** Tier 4 Universal Perk
-   - Humans gain additional Universal Perk at levels 6, 12, 18
+   - Humans gain additional Universal Perk at levels 1, 6, 12, 18
 
 4. **Attribute Increases:** At levels 4, 8, 12, 16, 20
    - Increase one attribute by 1 (max 5)
@@ -284,7 +284,7 @@ The Soul Reaver class supports a unique progression path: a character of any cla
 
 **Mechanical Transition (over 1–2 sessions):**
 1. **Session 1 (Transformation):** The character returns from death with their existing class abilities but gains the Soul Reaver's *Detect Planar Echoes* as a Bonus Action (DR 1–3). They experience involuntary phasing—once per scene, the GM may trigger an uncontrolled shift to the Spectral Realm lasting 1 round. The character retains their current HP and level.
-2. **Session 2 (Settling):** The character's original class abilities begin to fade. Replace one original class feature per session with a Soul Reaver feature of equivalent tier (consult the Soul Reaver perk tree in Player's Handbook Chapter 3). The character's resource pool shifts from its original type to SE (Soul Energy) over the course of the session.
+2. **Session 2 (Settling):** The character's original class abilities begin to fade. Replace one original class feature per long rest with a Soul Reaver feature of equivalent tier (consult the Soul Reaver perk tree in Player's Handbook Chapter 3). The character's resource pool shifts from its original type to SE (Soul Energy) over the course of that period.
 3. **Completion:** By the end of the second session, the character is fully a Soul Reaver at their current level, with appropriate perks selected from the Soul Reaver tree. Any perks that no longer apply are lost; the player selects replacements from the Soul Reaver tree.
 
 **GM Guidance:**
