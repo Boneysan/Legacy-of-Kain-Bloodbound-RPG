@@ -219,7 +219,7 @@ Guidance:
 - **Dice Pool:** None (DR 4 Will save)
 - **Range:** 30 feet
 - **Damage:** None
-- **Special:** Action, costs 10 SE. The target makes a DR 4 Will save. On failure, it is **Restrained** by spectral cords. At the end of each of its turns, the target may repeat the DR 4 Will save, ending the effect on a success.
+- **Special:** Action, costs 10 SE. The target makes a DR 4 Will save. On failure, it is **Restrained** by spectral cords. At the end of each turn, the target may repeat the DR 4 Will save, ending the effect on a success.
 
 ---
 
@@ -385,16 +385,16 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 - **Special:** Action. On hit, the target loses 1 SE (or BP).
 
 **Abyss Pulse** (AoE)
-- **Dice Pool:** None (DR 5 Will save)
+- **Dice Pool:** None (DR 4 Will save)
 - **Range:** 25-foot radius centered on self
 - **Damage:** 14 Entropic + 8 Force
-- **Special:** Action, costs 12 SE. Each creature in the area makes a DR 5 Will save. On failure, the creature takes full damage and is pushed 15 feet away from the Keeper. On success, it takes half damage and is not pushed.
+- **Special:** Action, costs 12 SE. Each creature in the area makes a DR 4 Will save. On failure, the creature takes full damage and is pushed 15 feet away from the Keeper. On success, it takes half damage and is not pushed.
 
 **Heartbind** (Control)
-- **Dice Pool:** None (DR 5 Will save)
+- **Dice Pool:** None (DR 4 Will save)
 - **Range:** 40 feet
 - **Damage:** 8 Entropic (ongoing)
-- **Special:** Action, costs 10 SE. The target makes a DR 5 Will save. On failure, it is tethered to the Abyssal Heart. While tethered, the target cannot move more than 40 feet from the Keeper and takes 8 Entropic damage at the start of each turn. At the end of each of its turns, the target may repeat the DR 5 Will save, ending the tether on a success.
+- **Special:** Action, costs 10 SE. The target makes a DR 4 Will save. On failure, it is tethered to the Abyssal Heart. While tethered, the target cannot move more than 40 feet from the Keeper and takes 8 Entropic damage at the start of each turn. At the end of each turn, the target may repeat the DR 4 Will save, ending the tether on a success.
 
 ---
 
@@ -478,13 +478,13 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 - **Dice Pool:** Fury 9 + Athletics 5 = 14d6
 - **Range:** 20-foot reach
 - **Damage:** 24 Bludgeoning + 8 Force
-- **Special:** Action. On hit, the target makes a DR 5 Fury save. On failure, the target is **Grappled**. While **Grappled** this way, the target takes 12 automatic Bludgeoning damage at the start of each turn. The Tendril can grapple up to 3 creatures simultaneously. The target can use an Action to attempt a contested Fury + Athletics check at Disadvantage against the Tendril's 14d6, ending the **Grapple** on a success.
+- **Special:** Action. On hit, the target makes a DR 4 Fury save. On failure, the target is **Grappled**. While **Grappled** this way, the target takes 12 automatic Bludgeoning damage at the start of each turn. The Tendril can grapple up to 3 creatures simultaneously. The target can use an Action to attempt a contested Fury + Athletics check at Disadvantage against the Tendril's 14d6, ending the **Grapple** on a success.
 
 **Wheel's Mandate** (AoE)
-- **Dice Pool:** None (DR 5 Will save)
+- **Dice Pool:** None (DR 4 Will save)
 - **Range:** 40-foot radius centered on Tendril
 - **Damage:** 18 Spectral + 10 Force
-- **Special:** Action, costs 20 SE. Each creature in the area makes a DR 5 Will save. On failure, the creature takes 18 Spectral + 10 Force damage. On success, it takes half damage. Creatures that fail by 2+ are additionally **Stunned** for 1 round (the weight of cosmic inevitability crushes their will).
+- **Special:** Action, costs 20 SE. Each creature in the area makes a DR 4 Will save. On failure, the creature takes 18 Spectral + 10 Force damage. On success, it takes half damage. Creatures that fail by 2+ are additionally **Stunned** for 1 round (the weight of cosmic inevitability crushes their will).
 
 **Devour Soul** (Special)
 - **Dice Pool:** None (Automatic)
@@ -493,10 +493,10 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 - **Special:** Action; requires target to be **Grappled**; automatic, no roll. Target's max HP is permanently reduced by 20 (until greater restoration or equivalent). If this reduces max HP to 0, the creature is consumed utterly, body and soul. Cannot be resurrected by any means short of divine intervention.
 
 **Fate Unravels** (Control)
-- **Dice Pool:** None (DR 5 Will save)
+- **Dice Pool:** None (DR 4 Will save)
 - **Range:** 60 feet
 - **Damage:** None
-- **Special:** Action, costs 15 SE. The target makes a DR 5 Will save. On failure, the target's next 3 actions are determined by the GM (the Wheel of Fate seizes control). The target remains aware but cannot resist. At the end of each of its turns, the target may repeat the DR 5 Will save, ending the effect on a success.
+- **Special:** Action, costs 15 SE. The target makes a DR 4 Will save. On failure, the target's next 3 actions are determined by the GM (the Wheel of Fate seizes control). The target remains aware but cannot resist. At the end of each turn, the target may repeat the DR 4 Will save, ending the effect on a success.
 
 ---
 
@@ -507,13 +507,13 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 
 **Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
 
-**Mythic Trait — Severing the Tether:** The Tendril is effectively immortal while connected to the Elder God's body deep underground. When reduced to 0 HP, it regenerates to 100 HP at start of its next turn. To prevent this, the party must **sever the Tether** — a pulsing conduit of flesh extending from the Tendril into the earth. The Tether has **HP:** 80, **DV:** 4, **Armor:** 6, and is immune to non-magical damage. It can only be attacked while the Tendril is Bloodied (the strain exposes it). Once the Tether is severed, the Tendril cannot regenerate and its **Armor** drops to 6. The Elder God screams — all creatures within 60 feet make a DR 5 Will save. On failure, a creature is **Stunned** for 1 round.
+**Mythic Trait — Severing the Tether:** The Tendril is effectively immortal while connected to the Elder God's body deep underground. When reduced to 0 HP, it regenerates to 100 HP at start of its next turn. To prevent this, the party must **sever the Tether** — a pulsing conduit of flesh extending from the Tendril into the earth. The Tether has **HP:** 80, **DV:** 4, **Armor:** 6, and is immune to non-magical damage. It can only be attacked while the Tendril is Bloodied (the strain exposes it). Once the Tether is severed, the Tendril cannot regenerate and its **Armor** drops to 6. The Elder God screams — all creatures within 60 feet make a DR 4 Will save. On failure, a creature is **Stunned** for 1 round.
 
 **Legendary Actions** (4 per round)
 - **Tendril Lash** (1 action): Attack one creature within 20 feet for 16 Bludgeoning (Fury 9 + 5 = 14d6).
 - **Consume the Fallen** (1 action): Absorb one corpse within 20 feet. Heal 20 HP. That creature cannot be resurrected.
 - **Wheel Turns** (2 actions): Force one creature within 40 feet to reroll a successful save or attack, taking the new result.
-- **Cosmic Tremor** (3 actions): All creatures within 30 feet make a DR 5 Fury save. On failure, a creature is knocked **Prone** and takes 10 Bludgeoning. The ground becomes difficult terrain until end of next round.
+- **Cosmic Tremor** (3 actions): All creatures within 30 feet make a DR 4 Fury save. On failure, a creature is knocked **Prone** and takes 10 Bludgeoning. The ground becomes difficult terrain until end of next round.
 - **World Shudder** (4 actions): The Tendril channels the Elder God's fury. All creatures within 60 feet take 15 Force damage (no save). All ongoing beneficial effects on those creatures end immediately (dispel).
 
 **Lair Action** (on initiative 20)
@@ -556,7 +556,7 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 ### Loot
 
 - **Fragment of the Wheel:** A calcified piece of the Elder God's body, vibrating with cosmic energy. Can be forged into an artifact weapon or armor by a master craftsman. The bearer can see the Spectral Realm at will, gains +3 to all saves, but permanently loses 1 max HP per day the Fragment is carried (the Wheel feeds). Cannot be destroyed by mortal means.
-- **Eye of the Elder God:** A massive, lidless eye torn from the chamber walls. Functions as superior scrying device — the user can observe any location in Nosgoth for up to 10 minutes per day. However, the Elder God can see through it in return. Using it more than once per week requires a DR 5 Will save; on failure, the user gains 2 Entropic points.
+- **Eye of the Elder God:** A massive, lidless eye torn from the chamber walls. Functions as superior scrying device — the user can observe any location in Nosgoth for up to 10 minutes per day. However, the Elder God can see through it in return. Using it more than once per week requires a DR 4 Will save; on failure, the user gains 2 Entropic points.
 - **Severed Tether:** The pulsing conduit itself. Can be used as a one-time resurrection component that bypasses the Wheel — the resurrected soul returns to life without passing through the death cycle. Alternatively, it can be burned to permanently seal one dimensional rift or Hylden portal.
 
 ---
@@ -755,7 +755,7 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 - **Dice Pool:** Soul 9 + Glyphcasting 4 = 13d6
 - **Range:** 60-foot range
 - **Damage:** 14 Entropic
-- **Special:** Action. On hit, the target loses access to one named feature for 1 round (GM adjudicates, e.g., a spell or ability). The GM should target the creature's most impactful active ability, excluding passive traits like flight or natural armor. The target may attempt a DR 5 Will save to resist.
+- **Special:** Action. On hit, the target loses access to one named feature for 1 round (GM adjudicates, e.g., a spell or ability). The GM should target the creature's most impactful active ability, excluding passive traits like flight or natural armor. The target may attempt a DR 4 Will save to resist.
 
 **Seal of Obscurity** (Debuff)
 - **Dice Pool:** None
@@ -795,7 +795,7 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 
 ### Loot
 
-- **The Book of Unnames:** Contains three remaining charges of Unword. Each use permanently removes one supernatural ability from a creature (DR 5 Will save). After all charges are spent, the book crumbles.
+- **The Book of Unnames:** Contains three remaining charges of Unword. Each use permanently removes one supernatural ability from a creature (DR 4 Will save). After all charges are spent, the book crumbles.
 - **Name-Warden’s Seal:** A sigil that, when worn, renders the wearer immune to divination and scrying. Their name cannot be used in rituals against them.
 - **Forgotten Name Fragment:** Discovering its meaning requires a quest. Completing the quest grants a permanent +1 to Focus and a unique ability tied to the Pillars.
 
@@ -1002,13 +1002,13 @@ Encountering Vorador is not something that happens by accident. It happens becau
 - **Dice Pool:** Fury 6 + Weapon Mastery 5 = 11d6
 - **Range:** Melee (5 feet)
 - **Damage:** 14 Piercing + 5 Blood Drain
-- **Special:** The target loses 5 BP; if it has 0 BP, it makes a DR 5 Blood save. On failure, it is **Dominated**. Vorador regains 6 HP per successful fang strike.
+- **Special:** The target loses 5 BP; if it has 0 BP, it makes a DR 4 Blood save. On failure, it is **Dominated**. Vorador regains 6 HP per successful fang strike.
 
 **Zephonim's Curse** (2 actions)
 - **Dice Pool:** Soul 5 + Ritualism 5 = 10d6
 - **Range:** 60 feet
 - **Damage:** None (3 Entropic)
-- **Special:** Costs 15 SE. On hit, target immediately gains 3 Entropic points and all vampiric entities within 60 feet treat the target as a blood-source. DR 5 Will save: target gains 1 Entropic point instead of 3.
+- **Special:** Costs 15 SE. On hit, target immediately gains 3 Entropic points and all vampiric entities within 60 feet treat the target as a blood-source. DR 4 Will save: target gains 1 Entropic point instead of 3.
 
 **Patriarch's Call** (2 actions)
 - **Dice Pool:** None
@@ -1045,7 +1045,7 @@ Encountering Vorador is not something that happens by accident. It happens becau
 ### Tactics
 Vorador does not rush. He opens with Zephonim's Curse on the PC with the highest Fury, then alternates Patriarch's Fang attacks on BP-bearing targets. Patriarch's Call triggers when the party commits a second wave of attacks. If reduced below 100 **HP**, Mist Form is used to reposition.
 
-**Dominated Condition:** The **Dominated** creature is **Dominated** for 1 minute. While **Dominated** this way, it treats Vorador as an ally and hostile PCs as enemies. DR 4 Will save at the end of each of its turns to break free.
+**Dominated Condition:** The **Dominated** creature is **Dominated** for 1 minute. While **Dominated** this way, it treats Vorador as an ally and hostile PCs as enemies. DR 4 Will save at the end of each turn to break free.
 
 ### Loot
 - Vorador's ring — **Trade Value**: 400 supplies or story item
@@ -1087,13 +1087,13 @@ Vorador does not rush. He opens with Zephonim's Curse on the PC with the highest
 - **Dice Pool:** Soul 6 + Forbidden Knowledge 4 = 10d6
 - **Range:** 40-foot radius
 - **Damage:** 12 Entropic
-- **Special:** Costs 15 SE, Recharge 5-6. DR 5 Will save. On failure, a creature immediately gains 3 Entropic and takes 12 Entropic damage. On Success: gains 1 Entropic and takes 6 Entropic damage. Hylden forces heal 8 HP.
+- **Special:** Costs 15 SE, Recharge 5-6. DR 4 Will save. On failure, a creature immediately gains 3 Entropic and takes 12 Entropic damage. On Success: gains 1 Entropic and takes 6 Entropic damage. Hylden forces heal 8 HP.
 
 **Dimensional Anchor** (2 actions)
-- **Dice Pool:** None (DR 5 Will save)
+- **Dice Pool:** None (DR 4 Will save)
 - **Range:** 60 feet, one target
 - **Damage:** None
-- **Special:** Costs 20 SE, once per encounter. The Overlord imprisons the target in a Hylden dimensional pocket. The target is removed from combat for 3d6 rounds. Save: DR 5 Will save to avoid entirely. On success, the target is merely **Stunned** for 1 round.
+- **Special:** Costs 20 SE, once per encounter. The Overlord imprisons the target in a Hylden dimensional pocket. The target is removed from combat for 3d6 rounds. Save: DR 4 Will save to avoid entirely. On success, the target is merely **Stunned** for 1 round.
 
 ---
 
@@ -1183,7 +1183,7 @@ The Overlord opens with Dimensional Anchor on the party's most effective counter
 - Whenever any creature within 60 feet spends SE, the Eye of the Wheel regains 3 HP.
 
 **False Purpose** (Lore Ability)
-- Creatures within 30 feet who attempt to discern its true nature must make a Forbidden Knowledge or Insight check (DR 5) to see through its disguise.
+- Creatures within 30 feet who attempt to discern its true nature must make a Forbidden Knowledge or Insight check (DR 4) to see through its disguise.
 
 **Legendary Resistance (2/day):** If the Eye fails a save, it may choose to succeed instead.
 
@@ -1256,17 +1256,17 @@ The Overlord opens with Dimensional Anchor on the party's most effective counter
 - **Special:** Action. Targets in the arc make a DR 3 Fury save. On failure, a target is knocked **Prone**.
 
 **The Wheel Turns** (AoE)
-- **Dice Pool:** None (DR 5 Will save)
+- **Dice Pool:** None (DR 4 Will save)
 - **Range:** 40-foot radius
 - **Damage:** 25 Entropic
-- **Special:** Action, costs 30 SE. All creatures in the area make a DR 5 Will save. On failure, a creature takes 25 Entropic damage and becomes **Frightened** for 2 rounds. Recharge 5-6.
+- **Special:** Action, costs 30 SE. All creatures in the area make a DR 4 Will save. On failure, a creature takes 25 Entropic damage and becomes **Frightened** for 2 rounds. Recharge 5-6.
 
 ---
 
 ### Abilities
 
 **Soul Devour** (Passive)
-- Once per round. Elder God forces one creature within 30 feet to make a DR 5 Soul save. On failure, the target loses all remaining SE (max 30). Elder God regains HP equal to half drained.
+- Once per round. Elder God forces one creature within 30 feet to make a DR 4 Soul save. On failure, the target loses all remaining SE (max 30). Elder God regains HP equal to half drained.
 
 **Ancient Sight** (Passive)
 - The Elder God cannot be surprised. Knows position of all living souls within 1 mile.
@@ -1283,7 +1283,7 @@ The Overlord opens with Dimensional Anchor on the party's most effective counter
 - **Disgorge:** One creature within 30 feet takes 12 Entropic damage (1 action).
 - **Pull of the Wheel:** One creature within 60 feet is pulled 20 feet toward the Elder God (1 action).
 - **Blight Touch:** When struck in melee, attacker takes 8 Spectral damage and DR 4 Blood save to avoid losing 5 HP (1 action).
-- **Consume the Dead:** Soul of creature that died this round is devoured. Allies within 30 feet make DR 5 Will save or become **Frightened** (1 action).
+- **Consume the Dead:** Soul of creature that died this round is devoured. Allies within 30 feet make DR 4 Will save or become **Frightened** (1 action).
 
 **Lair Action** (on initiative 20)
 - **Pillar of Consumption:** 15-foot radius zone of spiritual leeching. Creatures there lose 5 HP and 3 SE automatically.
