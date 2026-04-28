@@ -202,6 +202,22 @@ Add objects players can interact with:
 | Corrupted Aura | Gain Corruption | DR 2 Will or +1 Corruption |
 | Poison Gas | Ongoing damage | 2 Entropic (Poison) damage at the start of each turn |
 
+### Realm Affinity and Encounter Difficulty
+
+A creature's **Realm Affinity** (see Player's Handbook Chapter 11 and Monster Manual Introduction) affects how dangerous it is depending on where combat occurs.
+
+| Affinity | In Material Realm | In Spectral Realm |
+|----------|-------------------|-------------------|
+| **Material** | Full effectiveness | Abilities marked `Material only` do not function |
+| **Spectral** | Spectral attacks still land; Material-only defenses do not apply against them | Full effectiveness; may gain additional range or damage |
+| **Hybrid** | Full effectiveness | Full effectiveness; some abilities gain enhanced range or effect |
+
+**Practical guidance:**
+- A Spectral-affinity creature in the Material Realm is at a disadvantage — treat its effective TV as 1–2 lower when budgeting difficulty.
+- A Spectral-affinity creature in the Spectral Realm has home-realm advantage — treat its effective TV as 1–2 higher than printed.
+- If players force a Spectral enemy into the Material Realm mid-fight, reward that decision with a visible difficulty drop.
+- Material-only class features (Blood-based abilities, most physical attacks) cannot interact with creatures currently shifted into the Spectral Realm. See Player's Handbook Chapters 9 and 11 for full rules.
+
 ---
 
 ## 2.5 Enemy Abilities and Synergies
@@ -285,6 +301,14 @@ If combat drags:
 4. **Environmental Shift:** Collapsing floor, spreading fire
 5. **Offer Escape:** Make retreat a viable option
 6. **Narrate Conclusion:** "You defeat the remaining enemies"
+
+### Encounters Per Rest
+
+Use these as pacing defaults. Adjust based on resource drain — if PCs are still at full short-rest ability charges by the third encounter, increase pressure or reduce rest frequency.
+
+- **Short Rest (15 minutes):** Plan 2–3 meaningful encounters between short rests. A typical 4-hour active session supports 2 short rests.
+- **Long Rest (8 hours):** 1 long rest per session in dungeon or wilderness play. In political or narrative arcs, 1 long rest per 2–3 sessions is appropriate.
+- **Encounter budget per session:** Aim for 3–5 encounters total (mixing standard, elite, and social challenges), with 2 short rests spaced between them.
 
 ---
 

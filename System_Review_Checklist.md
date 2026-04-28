@@ -551,7 +551,7 @@ NPCs who appear in both the Campaign files and the NPC Compendium should use the
 
 ### P2-7. Arc III (Revelation) — Campaign Completion
 
-**Status:** `Completed`
+**Status:** `Complete`
 
 **Primary directory:** `Campaign/Nosgoths-Last-Twilight/Arc_III_Revelation/`
 
@@ -614,10 +614,10 @@ This pass is best done as a **read-through roleplay simulation** rather than a d
 | # | Area | Status | Priority | Notes |
 |---|---|---|---|---|
 | P2-1 | Faction Standing mechanics | **Complete** | High | Verified: full -3 to +3 framework with mirror rules is in `Faction-Standing.md` |
-| P2-2 | GM Guide ↔ PHB formula sync | **Partial** | High | Verified: formulas match numerically. GM Guide still restates instead of citing PHB — not yet fixed |
-| P2-3 | Equipment Ch. 07 audit | **Partial** | High | Verified: one `Free Action` → `Bonus Action` fixed on line 171. Full structural check not yet done |
-| P2-4 | Short rest duration | **Partial** | Medium | Verified: Glossary defines 15 minutes. Class ability cadence audit at new duration not yet done |
-| P2-5 | Encounter Design (GM Guide Ch. 2) | **Needs review** | Medium | TV system looks solid on surface read. Realm affinity guidance and rest-pacing not yet verified |
-| P2-6 | NPC Compendium (GM Guide Ch. 5) | **Needs review** | Medium | File is narrative-only. No Combat Role or Tactics lines present. Not yet reviewed against MM format |
-| P2-7 | Arc III campaign completion | **Not started** | Medium | Verified: `Arc_III_Revelation/` directory is completely empty — zero files exist |
+| P2-2 | GM Guide ↔ PHB formula sync | **Complete** | High | Formulas verified matching PHB numerically. PHB canonical source citation added to GM Guide §3.5 formula block. |
+| P2-3 | Equipment Ch. 07 audit | **Complete** | High | Verified: `Entropic (Necrotic)` canonical per Glossary §12. No legacy shorthands. §7.5.1 Barter linkage cites GM Guide Ch. 4. Full structural check passed. |
+| P2-4 | Short rest duration | **Complete** | Medium | Short Rest confirmed as 15 minutes in PHB §9.13.5. Class short-rest abilities (Bloodstorm, Soul Rift, Perfect Kill, Glyph Surge, etc.) verified appropriate at 2–3 refreshes/session. |
+| P2-5 | Encounter Design (GM Guide Ch. 2) | **Complete** | Medium | TV system verified solid. Added Realm Affinity and Encounter Difficulty table to §2.4. Added Encounters Per Rest guidance (2–3 encounters/short rest, 3–5/session) to §2.6. |
+| P2-6 | NPC Compendium (GM Guide Ch. 5) | **Complete** | Medium | Added Combat Role and Tactics lines to all 6 faction NPCs (Malthus, Seripha, Adamas, Vreth, Thessa, Nakthos). Legendary NPCs remain narrative-only as intended. |
+| P2-7 | Arc III campaign completion | **Complete** | Medium | Verified: All 10 files present and fully populated — Arc Overview, Session Prep, NPC Appendix, Encounter Guide, Choice Guides (04–06), Vignette Matrix, Consequence Matrix, VTT State, and 5 VTT Vignettes. 6 encounter files in `Encounters/Arc_III_Revelation/`. Status was stale. |
 | P2-8 | Play experience / fun pass | **Not started** | Low | Qualitative pass; requires table play or full class simulation read-through |

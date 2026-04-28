@@ -516,6 +516,9 @@ Malthus is a broad-shouldered man in his late forties, face mapped with scars fr
 - **Iron Resolve:** Advantage on Will + Concentration checks vs. fear, charm, and Corruption effects.
 - **Inquisitor's Eye:** Can detect vampiric taint within 15 ft (contested Soul vs. Shadow check).
 
+**Combat Role:** Elite Bruiser/Commander
+**Tactics:** Opens with Inspiring Command if accompanied by allies. Closes to melee immediately, prioritising vampire-lineage targets for Relic-Blade Strike. Uses Iron Resolve passively to shrug off charm and fear. Fights until incapacitated — never retreats unless commanded by a higher authority.
+
 **Campaign Use**
 - Primary antagonist for vampire-lineage parties
 - Reluctant ally if party shares a common enemy (Hylden, Hash'ak'gik cult)
@@ -564,6 +567,9 @@ Seripha appears no older than thirty but has walked Nosgoth for over four centur
 - **Crimson Lash:** Ranged attack (40 ft), DV 3 — a whip of coagulated blood deals 6 Physical (Slashing) damage and pulls the target 10 ft closer.
 - **Ancient Vitality:** Regenerates 2 HP at the start of each round unless she has taken fire or sunlight damage.
 - **Martyr's Fury:** When below half HP, gains +1 DV and Advantage on attack rolls until healed.
+
+**Combat Role:** Elite Skirmisher/Controller
+**Tactics:** Opens with Crimson Lash to reposition enemies and disrupt formation. Targets vampire PCs with Blood Sovereignty to peel them from their party. Relies on Ancient Vitality to outlast opponents; below half HP, becomes more aggressive thanks to Martyr’s Fury. Prefers to end fights through domination or escape rather than attrition.
 
 **Campaign Use**
 - Recruiter or antagonist for mixed-lineage parties
@@ -614,6 +620,9 @@ Adamas is a lean, ageless vampire with close-cropped grey hair and spectacles he
 - **Pact of Restraint:** Adamas has voluntarily suppressed his vampiric feeding instinct. He does not regenerate naturally but is immune to vampiric frenzy (the involuntary combat state triggered at 0 HP).
 - **Emergency Mist (1/day):** As a **Reaction** to taking damage, Adamas can dissolve into mist and flee if reduced below 10 HP.
 
+**Combat Role:** Standard Support/Escape Artist
+**Tactics:** Avoids direct combat whenever possible, attempting to defuse with Silver Tongue before blows land. If forced to fight, stays at range and targets escape routes. Uses Emergency Mist the moment he drops below 10 HP — survival is his only combat objective.
+
 **Campaign Use**
 - Quest-giver for diplomacy, escort, and intelligence missions
 - Moral anchor for parties tempted by extremism
@@ -662,9 +671,10 @@ Vreth maintains a mortal disguise — a gaunt merchant with amber eyes and a fai
 - **Rationalist's Shield:** Immune to fear, charm, and divine compulsion effects. Treats all Corruption-based abilities as one tier lower. 
 - **Contingency Shift (1/day):** If reduced to 0 HP, Vreth's body phases partially into the Demon Realm; he stabilises at 1 HP and teleports up to 60 ft. Usable only once before requiring a long rest in a Hylden sanctum.
 
+**Combat Role:** Elite Controller/Disruptor
+**Tactics:** Opens with Glyph Disruption against spellcasters or Glyphwrights. Prioritises caster and glyph-using targets to suppress the party’s most dangerous resources. Uses Dimensional Whisper to coordinate off-screen Hylden assets. If reduced to 0 HP, invokes Contingency Shift to escape and regroup — Vreth never fights to a true death if he can avoid it.
 **Campaign Use**
-- Primary intelligence antagonist — always three steps ahead
-- Potential uneasy ally against the Elder God or Hash'ak'gik cult
+- Primary intelligence antagonist — always three steps ahead- Potential uneasy ally against the Elder God or Hash'ak'gik cult
 - Gateway to Hylden lore, Rationalism philosophy, and Demon Realm hooks
 - Killing him triggers retaliation from the Bridging Conclave; capturing him yields invaluable intelligence
 
@@ -709,6 +719,9 @@ Thessa is a stocky Revenant woman in her fifties with burn scars across the righ
 - **Escape Route (1/encounter):** As a **Bonus Action**, Thessa and up to 3 allies can immediately disengage and move up to their speed to a safe position.
 - **Crossbow Expertise:** Thessa gains +1 die on attack rolls made with crossbows. She carries a modified hand crossbow that deals 4 Physical (Piercing) damage at Ranged distance; poison-tipped bolts are available at GM discretion.
 - **Street Wisdom:** Advantage on Insight, Observation, and Persuasion checks tied to urban rumors, criminal networks, or local leverage.
+
+**Combat Role:** Standard Skirmisher
+**Tactics:** Does not want to fight. If combat begins without her initiation, immediately uses Escape Route. If cornered, fires from maximum range using Crossbow Expertise while using cover and terrain. Never sacrifices herself for a client.
 
 **Campaign Use**
 - Primary quest-giver for heist, smuggling, and underworld missions
@@ -759,11 +772,21 @@ Nakthos was once a Sarafan cleric. Now he is something else. His robes are stain
 - **Veil of Incense:** The censer creates a 15 ft radius cloud of hallucinogenic smoke. Creatures inside have disadvantage on Focus checks and cannot distinguish illusions from reality.
 - **Martyr's Escape:** When reduced to 0 HP, Nakthos detonates in a burst of **Entropic (Corruption)** energy (15 ft radius, 4 damage, +1 Corruption on failed Soul save). His body dissolves, leaving only the censer — which still whispers.
 
+**Combat Role:** Elite Summoner/Kamikaze Controller
+**Tactics:** Opens with Whisper of the Unspoken when enemies are clustered. Uses Veil of Incense as zone control to punish close-range attackers. Triggers Sacrificial Rite by sending cult acolytes to their deaths to sustain himself. Does not retreat — welcomes death and uses Martyr's Escape to punish any enemies in melee range when he falls.
+
+**Campaign Use**
+- Horror villain or arc antagonist for cult, mind-control, and Corruption mechanics
+- Final boss for a Hash’ak’gik-themed side arc or introduction to the Unspoken
+- Corrupting force that tests Corruption-threshold PCs and Hylden-Blooded characters
+- Killing him doesn’t end the cult — his Martyr’s Escape and censer ensure his doctrine outlives his body
+
+**Signature Trait**
+> *“Peace is not the absence of suffering. Peace is the absence of resistance.”*
+
 ---
 
 ## 5.9 Quick Reference: NPC Summary
-
-### Legendary NPCs
 
 | Character | Primary Role | Power Level | Interaction Style | Campaign Use |
 |:----------|:-------------|:------------|:------------------|:-------------|

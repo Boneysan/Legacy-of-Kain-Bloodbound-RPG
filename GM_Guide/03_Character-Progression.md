@@ -236,7 +236,8 @@ Poor: "That's enough XP, you level up."
 5. **Resource Pools and Derived Stats:** Recalculate based on new level
    - Soul Energy: 3 + Will + (Level ÷ 2, rounded up)
    - Blood Points: 4 + Shadow + (Level ÷ 2, rounded up)
-  - Hit Points: Recalculate if your class HP attribute changed at this level
+   - Hit Points: Recalculate if your class HP attribute changed at this level
+   - *(Canonical source: Player's Handbook, Chapter 1, §1.5.1. If these formulas ever differ from the PHB, the PHB takes precedence.)*
 
 6. **Skill Points:** Gain +1 skill point at each level
    - Skill max rank = 5
