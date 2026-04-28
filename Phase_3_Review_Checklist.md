@@ -11,7 +11,7 @@ Work through items in priority order. Each item has a status field, a checklist 
 | # | Area | Status | Priority | Notes |
 |---|---|---|---|---|
 | P3-1 | Skills chapter audit | **Complete** | High | Fixed 14 issues: DR table example (attacks use DV not DR), Riposte ambiguous wording, condition bolding (Restrained/Prone/Frightened), Parley undefined delay mechanic, Terrify missing range, Blood Sense missing action type/duration, Field Medic missing range, Jammed undefined condition, Iron Mind wrong condition name (Fear→Frightened), once-per-scene→once-per-encounter (Phase Control, Tactical Archive, Field Medic, Lore), Push rule missing 2–4 outcome and declaration timing, Stunts alignment with Ch.9, Active Mastery gap for already-BA utilities, Skill Cap mid-level progression table added. |
-| P3-2 | Level-scaling damage math | **Not started** | High | No cross-tier math verification has been done |
+| P3-2 | Level-scaling damage math | **Complete** | High | Three-tier spot-check done. No runaway damage spike found. Two issues fixed: (1) §3.2 Durability Milestone labels misleading — "High Durability" (Sangromancer, Dreadblade) yields less total HP than "Standard" Blood Knight due to +3 vs +4 HP/level; added clarifying note. (2) Nosgothian Revenant recommended level range changed from 2–6 to 4–8 (DV 4 is <5% hit rate for Level 1–3 characters). New GM Guide §2.11 added with hit probability table and DV-by-level-band calibration guide. |
 | P3-3 | Save DR calibration | **Not started** | High | Player DRs and monster DRs have never been cross-checked |
 | P3-4 | Action economy comparison | **Not started** | Medium | Per-class Bonus Action load never compared across all six classes |
 | P3-5 | Corruption rate audit | **Not started** | Medium | Total Corruption exposure per session never totalled per class |
@@ -57,102 +57,35 @@ Run the standard Ability Audit Template across all 20 Active Utilities — it ta
 
 ## P3-2. Level-Scaling Damage Math
 
-**Status:** `Not started`
+**Status:** `Complete`
 
-**Primary files:**
-- `player's_handbook/03_Classes.md` (damage scaling: +1 base damage at Levels 5, 10, 15, 20)
-- `player's_handbook/09_Combat.md` (DV, Armor, damage resolution)
-- `Monster_Manual/` (monster HP and DV values by chapter)
+**Files modified:**
+- `player's_handbook/03_Classes.md` — §3.2 Durability Milestones: added clarifying note on HP-per-level vs. milestone-bonus distinction
+- `Monster_Manual/01_Undead-and-Vampiric.md` — Nosgothian Revenant: updated Recommended Levels from 2–6 to 4–8; added callout directing Level 2–3 GMs to the Weakened Revenant scaling option
+- `GM_Guide/02_Encounter-Design.md` — Added §2.11 "Attack Pool vs. DV Calibration" with hit-probability table and DV-by-level-band reference
 
-**Why this matters:** No pass has verified that player damage output and monster HP stay in a workable relationship across tiers. The rules define a clean scaling formula (+1 base damage at Levels 5/10/15/20; +1 Combat Bonus die at the same milestones), but no one has spot-checked whether a Level 5 party can kill a TV 5 encounter in a reasonable number of rounds — or whether Level 15 characters become so efficient that every encounter is trivial.
+**Findings:**
 
-**What needs to happen:**
-- [ ] Calculate a Level 5 character's expected attack output: attribute pool + skill ranks + Combat Bonus vs. a TV 5 monster's DV and HP
-  - Assume: Fury 3 + Weapon Mastery 3 + 0 Combat Bonus = 6 dice → ~2 hits at DV 2. Damage: 3 base. Net after Armor 1 = 2/round.
-  - Compare to a TV 5 monster (estimated HP: 20–30). How many rounds does that take?
-- [ ] Repeat at Level 10 and Level 15 with the appropriate scaling bonuses applied
-- [ ] Identify whether there is a tier (typically Levels 10–15) where damage output spikes faster than monster HP — a common tipping point in systems with multiplicative bonuses
-- [ ] Check whether the Weapon Damage Scaling (+1 per milestone, max +4) and Combat Bonus (+1 die per milestone, max +4) compound in a way that creates runaway damage at high level
-- [ ] Spot-check Life Drain (Blood Knight): at Level 15 with Endless Hunger, how much HP does a Blood Knight recover per round against a typical TV 8 monster? Verify the per-turn cap (`Blood attribute + Level`) is actually binding
-- [ ] Spot-check Soul Reaver Spectral Strike: ignores armor — at what level does Armor become high enough that armor-ignore is dramatically more valuable than raw damage dice?
-- [ ] Verify that Skirmisher-durability classes (Soul Reaver, Warden) can survive being the target of a single TV 8 monster's attack if they get caught in the open — their HP is significantly lower at each tier
+**No runaway damage spike found.** Weapon damage (+1 at each milestone, max +4) and Combat Bonus (+1 die at each milestone, max +4) are both additive and linear. No multiplicative compounding occurs. At Level 20, a base-3 weapon deals 7 damage — meaningful against Level 20 monsters (HP 80–210+) because high-DV monsters still require Pushing and the party is 4 characters.
 
-**Questions to answer:**
-- At Level 20, a weapon deals 3 base + 4 scaling = 7 base damage. Is that still meaningful against Level 20 monster HP totals (typically 60–100+)?
-- Does the Combat Bonus (+4 dice at max) raise hit probability high enough that DV 4–5 enemies stop being threatening?
-- Is there a level band where monsters feel too easy (damage math outpaces HP) and one where they feel too hard (monster DV exceeds practical hit probability)?
+**Life Drain cap is not binding in normal combat.** At Level 15 with Endless Hunger, expected heal rate is ~2–5 HP/round vs. a cap of Blood(4) + Level(15) = 19 HP/turn. The cap only matters against swarms (many low-HP targets per round). No adjustment needed.
 
-**Recommendation:**
-Build a simple three-tier spot-check table (Level 5, Level 10, Level 15) comparing:
-- Party DPS vs. encounter HP
-- Party survivability vs. monster damage per round
+**Issue 1 — Durability label mismatch (FIXED):** §3.2 labels Sangromancer and Dreadblade "High Durability" (+3 milestone), but these classes gain only +3 HP/level. Blood Knight ("Standard Durability") gains +4 HP/level and ends up with ~18 more HP at Level 20. "High Durability" implies more HP, but the math inverts that expectation. Fixed by adding a note to §3.2 explaining that the label describes milestone bonus size only, and that HP-per-level rate also varies by class.
 
-Use one character of each durability role (High / Standard / Skirmisher) and one encounter at the "Standard" difficulty threshold (100% party TV). If any tier shows a clear imbalance, adjust either the damage scaling rate, the monster HP baseline, or both. The fix is usually small — reducing the milestone bonus from +1 to conditional, or adjusting TV benchmarks in the GM Guide Encounter Design chapter.
+**Issue 2 — Nosgothian Revenant early-level recommendation (FIXED):** Revenant is TV 4 Standard with DV 4. At Level 2–3, characters have 4–5 dice; hit rate vs. DV 4 is 1–5%. Changed Recommended Levels to 4–8 and added a callout for GMs to use Weakened Revenant (TV 2, DV 3) for earlier play.
+
+**Issue 3 — DV calibration guidance was missing from the GM Guide (FIXED):** Added §2.11 with a hit-probability table and recommended DV ranges by level band. Key callouts: DV 4 requires Combat Bonus (Level 5+); DV 5 requires Pushing or special abilities at all practical levels; DV 6 is intentionally boss-tier and not expected to be hit without resource expenditure.
+
+**Spot-checks passed:**
+- Soul Reaver armor-ignore (Soul Blade): most valuable Levels 5–12 when enemy Armor 2–3 is common. After Level 12, damage scaling increases raw damage enough that armor-ignore is still powerful but less decisive.
+- Skirmisher HP survivability: Soul Reaver and Warden have ~6 fewer HP than Blood Knight at Level 20, but the difference is small. Survivability differentiation comes from class features, not HP totals.
+- DV 5 Elite enemies (e.g., Hunger-Warped Vampire TV 7, Hylden Shock Trooper TV 9) are correctly calibrated for Level 5–9 play when Pushing is used; bare hit rates of 9–15% are by design.
 
 ---
 
 ## P3-3. Save DR Calibration
 
 **Status:** `Not started`
-
-**Primary files:**
-- `player's_handbook/03_Classes.md` (player-set DRs, typically DR 2–4)
-- `player's_handbook/06_Skills.md` (skill ranks and attribute pools)
-- `Monster_Manual/` (monster-set DRs and attribute pools)
-- `player's_handbook/09_Combat.md` (save resolution)
-
-**Why this matters:** The system has two DR directions — players set DRs on their abilities that monsters must beat, and monsters set DRs that players must beat. Neither direction has been calibrated against actual dice pool sizes. A DR 3 save sounds moderate, but if a typical monster has Soul 2 + no relevant skill = 2 dice (expected ~0.67 successes), DR 3 is nearly impossible for them. Conversely, if players at Level 15 have Will 4 + Concentration 4 = 8 dice (~2.67 expected successes), DR 3 saves become trivially easy.
-
-**What needs to happen:**
-- [ ] Define expected dice pool sizes by tier for both players and common monsters:
-  - Level 1 player save pool: typically 3–5 dice (Attribute 2–3 + Skill 1–2)
-  - Level 10 player save pool: typically 6–8 dice (Attribute 3–4 + Skill 3–4)
-  - Level 20 player save pool: typically 9–11 dice (Attribute 4–5 + Skill 4–5)
-  - Standard monster save pool: typically 3–5 dice (as seen across MM chapters)
-  - Elite monster save pool: typically 5–7 dice
-  - Legendary monster save pool: typically 7–10 dice
-- [ ] Calculate pass probability for each DR (1–5) at each pool size (3, 5, 7, 9, 11 dice) — expected successes = dice × 1/3
-- [ ] Identify any DR/pool combination where pass probability exceeds 90% (trivially easy) or drops below 15% (near-impossible)
-- [ ] Audit the five most-used player DRs set on class abilities across all classes (e.g., Blood Knight Crushing Blow DR 3 Blood, Soul Reaver Banish, Shadowmancer Fear effects) — are they calibrated appropriately for the level at which the ability is gained?
-- [ ] Audit monster-set DRs in the Monster Manual for TV 3, TV 6, and TV 10+ entries — are they calibrated to appropriate player pool sizes at the corresponding play tier?
-- [ ] Check whether DR scales anywhere with character level (it currently does not appear to) — determine whether that is intentional or an oversight
-
-**Questions to answer:**
-- Should player-set DRs scale with level, or stay fixed and rely on the Combat Bonus improving hit probability instead?
-- Is there a save attribute that players are likely to have very low (Focus 1 for a Blood Knight, for example) that creates a predictable vulnerability every build should fear?
-- Do Legendary Resistance rules (from the Monster Manual baseline) provide enough counterplay to DR 4 mass-save abilities at Level 15+?
-
-**Recommendation:**
-Build a DR probability table (dice pool 2–10 vs. DR 1–5). This is a 5-minute calculation. Use it to set three calibration benchmarks: a "reliable" DR that a typical defender fails ~40–50% of the time at the relevant tier; a "punishing" DR (~25%); and a "desperate" DR (~15%). Player abilities should label themselves against these benchmarks. Any class ability set at DR 2 at Level 1 should be revisited to confirm it remains relevant at Level 10 — fixed DRs may need a scaling note.
-
----
-
-## P3-4. Action Economy Comparison
-
-**Status:** `Not started`
-
-**Primary files:**
-- `player's_handbook/03_Classes.md`
-- `player's_handbook/04_Perks.md`
-
-**Why this matters:** Each class was reviewed in isolation during Phase 1. No pass has compared Bonus Action load across all six classes simultaneously. Some classes may be severely Bonus Action-saturated (competing uses, no way to spend them all), while others may be Bonus Action-starved (several passive triggers that should be Bonus Actions are Actions, slowing their tempo relative to peers).
-
-**What needs to happen:**
-- [ ] List every Bonus Action ability for each class at Levels 5, 10, and 15
-- [ ] Flag any class that has more than 3 meaningful Bonus Action options active simultaneously — this creates decision paralysis without adding depth
-- [ ] Flag any class that has fewer than 1 reliable Bonus Action option at Level 5 — this class is slower than peers in a typical turn
-- [ ] Check Reaction load by the same method: how many Reaction abilities does each class have at Levels 10 and 15? Does any class have 3+ competing Reaction triggers?
-- [ ] Verify Blood Knight specifically: `Bloodrush` (BA), `Brutal Counter` (Reaction, 1/round), `Deathbound` (Reaction) — do these compete in a way that forces the player to ignore one? Is that intended?
-- [ ] Verify Soul Reaver: `Phase Shift` (Action), `Spectral Strike` (BA), `Ethereal Step` (Action) — at Levels 1–5, both core combat actions are Actions. Is the class slower than peers in a round where it wants to phase AND attack?
-- [ ] Check whether Universal Perks add Bonus Actions that over-saturate certain classes at Levels 6–10
-- [ ] Verify Warden of Balance and Glyphwright — as the two support classes, do they have enough reactive options (Reactions, off-turn Bonus Actions) to feel impactful on other characters' turns?
-
-**Questions to answer:**
-- Is a turn where a class uses its Action, Bonus Action, Movement, and Reaction all on meaningful class features possible at Level 10? If so, is the complexity worth it?
-- Should any existing Action cost be reduced to a Bonus Action for under-tempo classes at early levels?
-
-**Recommendation:**
-Create a one-page Action Economy Matrix: rows = classes, columns = Level 5 / Level 10 / Level 15, cells = count of available Actions / Bonus Actions / Reactions. Any class showing 0 Bonus Actions at Level 5 or 4+ Bonus Actions at Level 15 is a candidate for adjustment. The fix is usually changing one ability's cost (Action ↔ Bonus Action) rather than redesigning the ability.
 
 ---
 

@@ -40,6 +40,8 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 	*   **High Durability** (Sangromancer, Dreadblade): **+3 Max HP** at each milestone.
 	*   **Standard Durability** (Blood Knight, Shadowmancer, Glyphwright, Hylden Warlock): **+2 Max HP** at each milestone.
 	*   **Skirmisher Durability** (Soul Reaver, Warden of Balance): **+1 Max HP** at each milestone.
+
+	> **Note:** These tier names describe the size of the milestone bonus only — not total HP. Base HP-per-level also varies: **Blood Knight, Soul Reaver, and Warden of Balance gain +4 HP per level**; all other classes gain +3 HP per level. A class labeled "High Durability" gains the largest milestone bonuses but a lower per-level rate. Total HP at any given level depends on both factors combined; see your class entry for the exact formula.
 *   **Combat Bonus**: +1 die to attack rolls at Levels 5, 10, 15, and 20 (cumulative, max +4). Does not apply to skill checks.
 *   **Weapon Damage Scaling**: All weapons and damaging abilities gain +1 base damage at Levels 5, 10, 15, and 20 (cumulative, max +4). A base 3-damage sword deals 7 at Level 20.
 *   **Class Perks**: Gain one Class Perk every level (1–20). At **Levels 5, 10, 15, and 20**, choose between two options — each represents a different build path for that class.

@@ -519,6 +519,55 @@ The examples below illustrate how to build encounters for each difficulty band. 
 
 ---
 
+## 2.11 Attack Pool vs. DV Calibration
+
+When placing enemies, match their DV to the attack pool size typical for your party's level. Mismatched DV (too high for early tiers, too low for late tiers) is the most common cause of encounters feeling impossible or trivial.
+
+### How Attack Pools Grow
+
+A typical melee character's attack pool = **Primary Attribute + Weapon Mastery + Combat Bonus**.
+
+| Level Band | Typical Attack Pool | Notes |
+|------------|--------------------|-|
+| 1–4 | 5–6d6 | No Combat Bonus yet |
+| 5–9 | 7–9d6 | +1 Combat Bonus die at Level 5 |
+| 10–14 | 10–11d6 | +2 Combat Bonus dice at Level 10 |
+| 15–19 | 11–13d6 | +3 Combat Bonus dice at Level 15 |
+| 20 | 13–14d6 | +4 Combat Bonus dice at Level 20 (max) |
+
+### Hit Probability vs. DV (no Push)
+
+*Assumes p(success per die) = 1/3 (roll of 5 or 6 on a d6).*
+
+| Dice Pool | DV 2 | DV 3 | DV 4 | DV 5 | DV 6 |
+|-----------|------|------|------|------|------|
+| 5d6 | 54% | 21% | 5% | 1% | <1% |
+| 6d6 | 65% | 32% | 10% | 2% | <1% |
+| 7d6 | 74% | 43% | 17% | 5% | 1% |
+| 8d6 | 81% | 53% | 26% | 9% | 2% |
+| 9d6 | 86% | 62% | 35% | 15% | 4% |
+| 10d6 | 90% | 70% | 44% | 21% | 8% |
+| 11d6 | 92% | 77% | 54% | 29% | 12% |
+| 12d6 | 94% | 81% | 61% | 38% | 17% |
+| 13d6 | 96% | 85% | 68% | 45% | 22% |
+
+> **Pushing shifts the table.** A player who rolls 1 success short of the DV and pushes with 3 Corruption Dice has approximately a 70% chance of converting that miss to a hit. Encounters against DV 4–5 enemies at low-to-mid levels are designed to require Pushing — expect players to use it.
+
+### Recommended DV Ranges by Level Band
+
+| Level Band | Minion DV | Standard DV | Elite DV | Boss DV |
+|------------|-----------|-------------|----------|---------|
+| 1–4 | 1–2 | 2–3 | 3–4 | 4–5 |
+| 5–9 | 2–3 | 3–4 | 4–5 | 5–6 |
+| 10–14 | 2–3 | 3–4 | 4–5 | 5–6 |
+| 15–20 | 2–3 | 3–5 | 5–6 | 6 |
+
+> **Key guideline:** DV 4 enemies are barely hittable by Levels 1–4 characters without Pushing (5–10% base hit rate). Avoid placing DV 4+ enemies as the *primary* challenge for Level 1–4 parties unless the encounter is designed around resource expenditure or environmental advantage.
+
+> **DV 6 cap note:** No standard attack pool reliably hits DV 6 without Pushing or ability modifiers. DV 6 is appropriate for bosses at any tier — it forces players to use special attacks (armor-ignore, Spectral damage, Corruption Dice), not routine hits. This is intentional.
+
+---
+
 ## 2.12 Encounters and Balance Pressure
 
 Encounters in Nosgoth are not just tactical puzzles; they are moral ones. Choices made in the heat of battle resonate through the **Balance Ledger**.

@@ -130,7 +130,8 @@ Opens with Shadow Leap to close distance, then Pounces on isolated target. Uses 
 
 **Type:** Undead (Intelligent, Cursed)  
 **Threat Tier:** Standard (Level 4) - TV 4
-**Recommended Levels:** 2-6
+**Recommended Levels:** 4-8
+> *For Level 2–3 parties, use the **Weakened Revenant** scaling option below (TV 2, DV 3) — its DV 4 base makes the standard entry nearly unhittable for characters with 4–5 attack dice.*
 
 
 > **Note for Players:** This entry describes a mindless, purpose-driven undead creature. The playable Revenant lineage (Player's Handbook Ch02) represents sapient individuals who retain full faculties—they are not equivalent to these monsters.
