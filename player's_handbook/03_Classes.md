@@ -139,7 +139,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 16 | **Death’s Door** | Choose one creature you can see within 30 feet. You learn its exact current HP, Resistances, and Immunities. This knowledge remains clear to you until the end of the scene. | Bonus Action |
 | 17 | **Ethereal Assassin** | Attack from Spectral Realm without fully shifting. *(Spectral only)* | Action, 2 SE |
 | 18 | **Soul Storm** | Signature Upgrade of the **Soul Storm** spell: Spectral Nova deals 12 Spectral Dmg + **Frightened** (DR 3 Will save) for 1 round. *(crosses realms)* | Action, 4 SE |
-| 19 | **Wraith Lord** | Permanent Resistance to Physical damage. | Passive |
+| 19 | **Undying Resonance** | Permanent Resistance to Physical damage. *If you are of Wraith lineage, your Phasing trait already provides this Resistance in combat; this perk instead increases your Max SE by 2.* | Passive |
 | 20 | **Angel of Death** | Transformation (1 min): Gain fly speed 60 feet, your attacks ignore Resistance but not Immunity, and your melee attacks deal +3 bonus Spectral damage. Enemies that can see you when the transformation begins or start their turn within 30 feet of you must succeed on a DR 3 Soul save or be **Frightened** until the transformation ends. | Action, 5 SE, 1/long rest |
 | 20 | *or* **Phantom Sovereign** | Ethereal Step, Spectral Strike, Ghost Parry, and Flicker no longer cost SE. | Passive |
 

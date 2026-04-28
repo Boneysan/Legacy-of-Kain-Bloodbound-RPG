@@ -16,7 +16,7 @@ Work through items in priority order. Each item has a status field, a checklist 
 | P3-4 | Action economy comparison | **Complete** | Medium | Full BA/Reaction audit done. Three fixes: (1) Sangromancer Vital Leech L2 Action→Bonus Action (0 BAs until L9 otherwise). (2) Warden Echo of Fate L6 Reaction→No Action (5 Reactions competing for 1 slot by L6; highest overload in system). (3) Hylden Warlock Madness Surge L3 Action→Bonus Action (0 BAs for entire class progression except L20 choice). |
 | P3-5 | Corruption rate audit | **Complete** | Medium | Exposure modeled per class. Baseline Push pressure: ~0.33–0.67/session (well under 1.5 threshold). Only Hylden Warlock approaches threshold via Forbidden Truth (~0.5–1 net/session after Long Rest recovery — by design). Two bugs fixed: (1) Advanced Corruption Host "Spread Corruption" had no save — added DR 2 Blood save. (2) Two additional "Entropic point" instances in 06_Hylden-Forces.md corrected to "Corruption Level". Long Rest valve verified adequate for all classes. No involuntary path to Lost exists for non-Hylden-Warlock classes. |
 | P3-6 | Condition stacking rules | **Complete** | Medium | Three rules written. (1) Same condition refreshes duration, does not stack effect (exception: Corrupted always applies). (2) Disadvantage does not stack from multiple sources. (3) Cap of 5 distinct simultaneous conditions; Paralyzed/Stunned/Dominated override on the 6th (replace least severe). Cap does not apply to Boss/Legendary. |
-| P3-7 | Lineage/class synergy outliers | **Not started** | Medium | Strong combos and dead-zone combos not mapped |
+| P3-7 | Lineage/class synergy outliers | **Complete** | Medium | Full 6×8 matrix built. Two rule fixes applied (Wraith Lord rename + Hylden sidebar). Two dead zones documented. |
 | P3-8 | Multi-target ability pricing | **Not started** | Low | AoE vs. single-target cost efficiency never compared |
 | P3-9 | Play experience / fun pass | **Not started** | Low | Carry-forward from P2-8; qualitative read-through simulation |
 
@@ -251,32 +251,70 @@ Without a cap, a non-Boss Standard creature in Round 1 faces 4–5 conditions si
 
 ## P3-7. Lineage/Class Synergy Outliers
 
-**Status:** `Not started`
+**Status:** `Complete`
 
-**Primary files:**
-- `player's_handbook/02_Lineages-and-Race.md`
-- `player's_handbook/03_Classes.md`
+**Files modified:**
+- `player's_handbook/03_Classes.md` — Soul Reaver L19 perk renamed "Wraith Lord" → "Undying Resonance"; added alternate benefit for Wraith lineage characters (+2 Max SE instead of redundant Physical Resistance)
+- `player's_handbook/02_Lineages-and-Race.md` — Added GM Note sidebar under Hylden-Blooded warning about Corruption-inversion with Hylden Warlock
 
-**Why this matters:** No matrix exists mapping likely lineage/class combinations against mechanical synergy. Some combinations are likely overtuned (strong synergy creating outlier power) and some are likely dead zones (no meaningful interaction, reducing the character's identity). Identifying the extremes doesn't require playtesting — it requires reading both files together.
+**6×8 Synergy Matrix** *(S = Strong / N = Neutral / W = Weak / ! = Outlier)*
 
-**What needs to happen:**
-- [ ] Build a 6×8 combination matrix (6 lineages × 8 classes) and note synergy level: Strong / Neutral / Weak
-- [ ] Flag any Strong combinations where shared attribute bonuses, affinity, or trait stacking create noticeably better characters than average — candidates:
-  - Wraith + Soul Reaver: both Spectral affinity, Soul Blade + Wraith Phasing + Phase Shift — potentially double-spectral-immune and nearly untargetable
-  - Hylden-Blooded + Hylden Warlock: both already use Corruption offensively — Corruption cost doubled but power potentially more than doubled
-  - Human + Blood Knight: Humans have no attribute that boosts Fury or Blood above baseline — may be a dead zone
-  - Rahabim + Sangromancer: both Blood-primary; Rahabim blood recovery traits stack with Sangromancer blood economy
-- [ ] Flag any Weak combinations where a lineage's primary attribute and a class's core attributes don't overlap at all — this produces slower leveling and weaker saves
-- [ ] Verify that Wraith's spectral-phasing traits do not trivially replicate Soul Reaver's Phase Shift cost-free at early levels
-- [ ] Verify that Human's extra perk access does not outpace the lineage-specific trait value of vampiric lineages at Tier 1 play (Levels 1–5)
+| Lineage | Blood Knight | Soul Reaver | Shadowmancer | Sangromancer | Glyphwright | Dreadblade | Warden of Balance | Hylden Warlock |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Vampire** | S | N | S | S | W | S | W | N |
+| **Wraith** | W | **S!** | S | **W!** | N | N | S | N |
+| **Hylden-Blooded** | **W!** | N | N | N | S | **W!** | N | **S!** |
+| **Human** | N | N | N | W | N | W | S | W |
+| **Revenant** | N | N | N | N | S | N | S | N |
+| **Unbound** | N | **N!** | N | N | N | N | S | N |
 
-**Questions to answer:**
-- Is Wraith + Soul Reaver intended to be the "maximum spectral" combo, and if so, is there a designed counter to it in the game (certain monster types, environmental hazards, anti-phase effects)?
-- Should the Hylden-Blooded lineage have an explicit note cautioning that pairing with Hylden Warlock concentrates Corruption pressure?
-- Are there any two-class feel-alike combos (e.g., a Dumahim Vampire + Sangromancer vs. a Melchiahim Vampire + Blood Knight) where the playstyle difference is insufficient to justify choosing both?
+**Synergy rationale (highlights):**
 
-**Recommendation:**
-A full matrix is a two-hour read-through — assign synergy ratings, then focus edits only on the two or three most extreme outliers. The Wraith + Soul Reaver combo is the most likely to need a note or a limiting clause (e.g., "Phase Shift costs 1 SE even for Wraith-lineage Soul Reavers — the class ability and lineage trait represent the same underlying power"). Other outliers can be documented in a GM sidebar rather than changing the rules.
+*Strong combos (S):*
+- **Vampire + Blood Knight**: Weapon Mastery bonus + BP from Bloodied/kills feeds Life Drain loop. Best Fury/Blood coverage.
+- **Vampire + Shadowmancer**: Stealth-in-darkness bonus + Backstab + Zephonim sub-type Cling = highest damage output from ambush at Tier 1.
+- **Vampire + Sangromancer**: BP generation from Bloodied/kills fuels Hemorrhage/Crimson Bind BP costs. Rahabim sub-type is especially strong (Blood attribute alignment).
+- **Vampire + Dreadblade**: Stealth bonus + Auto-Crit From Stealth = consistent critical output. Probably the intended "vampire assassin" fantasy pairing.
+- **Wraith + Shadowmancer**: Wraith Phasing immunity to Grapple/Restrained protects Shadowmancer during Shadow Form Concentration. Observation bonus helps stealth gameplay. Spectral/shadow aesthetic alignment.
+- **Wraith + Warden of Balance**: Will/Soul overlap; Phasing's +1 Will bonus enhances Guardian's Edict temp HP; both fate-adjacent thematically.
+- **Hylden-Blooded + Glyphwright**: Glyphcasting lineage bonus directly improves every Glyphwright ability. Free glyph cast (1 Corruption) is a real trade-off for a non-Corruption-focused class.
+- **Human + Warden of Balance**: Oracle-Blooded (Insight/Forbidden Knowledge) matches Warden's fate-casting. Extra Universal Perks at L6/12/18 fill Warden's limited in-class utility. Strong support build.
+- **Revenant + Glyphwright / Warden**: Concentration + Ritualism bonuses directly target both classes' core mechanics.
+- **Unbound + Warden of Balance**: Probability Shift + Fate Align = two dice-manipulation tools. Thematic resonance (both manipulate chance and fate).
+
+*Outliers requiring attention (!):*
+
+**1. Wraith + Soul Reaver (S!) — NAMING CONFLICT + REDUNDANCY**
+- Wraith Phasing (Bonus Action, free, Will×/long rest) provides: Spectral damage, Resistance to Physical, immunity to Grapple/Restrained, +1 Will to DV
+- Soul Reaver L19 perk "Wraith Lord" also grants permanent Resistance to Physical damage
+- **Naming conflict**: Wraith Lineage L20 Paragon is *also* called "Wraith Lord" (Hybrid Affinity + dual-realm existence) — identical name, different effects
+- **Fix applied**: Soul Reaver L19 renamed to "Undying Resonance"; added rule that Wraith lineage Soul Reavers get +2 Max SE instead (since Phasing provides Physical Resistance in combat from L10)
+- Secondary note: Wraith Lineage L20 Paragon grants Hybrid Affinity — Soul Reaver already has this from Level 1 (class trait). Wasted paragon milestone if taken as Soul Reaver. No rule fix needed; document for GMs.
+
+**2. Hylden-Blooded + Hylden Warlock (S!) — CORRUPTION COST INVERTED**
+- Hylden Warlock Entropic Surge (+1 die at Corruption 7+) and Voidborn Ascendancy (L15: +1 die per 3 Corruption, max +4) convert Corruption into bonus dice
+- Hylden-Blooded Unique Trait: free spell cast 1/long rest, costs 1 Corruption
+- Combined: the "cost" of the free cast becomes a benefit. Intended risk becomes reward.
+- L10 Paragon (take damage instead of Corruption) is mechanically *worse* for this build — players should be aware before leveling
+- **Fix applied**: GM Note sidebar added to Hylden-Blooded in `02_Lineages-and-Race.md` flagging the inversion and recommending narrative Corruption consequences
+
+**3. Wraith + Sangromancer (W!) — FUNDAMENTAL REALM CONFLICT**
+- Sangromancer: "All Blood-tag spells and BP pool inaccessible in Spectral Realm" (class sidebar)
+- Wraith: Spectral Realm is home; Wraith Phasing shifts the character into a phased state
+- A Wraith Sangromancer who phases or crosses to Spectral loses their entire toolkit
+- No rule fix needed (the existing sidebar already documents this); document here for GMs as a known dead zone
+
+**4. Unbound + Soul Reaver (N!) — WASTED CORE TRAIT**
+- Soul Reaver has Hybrid Affinity from Level 1 (class feature)
+- Unbound's primary unique trait at L1 is Hybrid Affinity — identical, completely wasted
+- Unbound L20 Paragon (Fate-Breaker) is the long-term payoff, but L1–L9 is a wasted lineage trait
+- No rule fix needed; document for players choosing this combo that their L1 lineage trait has no effect
+
+*Dead zones (W) documented, no fixes required:*
+- **Hylden-Blooded + Blood Knight**: Free spell wasted; Glyphcasting/Forbidden Knowledge irrelevant; no attribute overlap (Soul/Focus vs Fury/Blood)
+- **Hylden-Blooded + Dreadblade**: Same issue (Shadow/Fury vs Soul/Focus); free cast wasted
+- **Human + Sangromancer**: No Blood attribute bonus; extra perks don't compensate for missing Blood scaling
+- **Human + Dreadblade**: No Shadow/Fury boost; Sarafan anti-undead is highly situational
 
 ---
 

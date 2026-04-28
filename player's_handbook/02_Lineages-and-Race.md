@@ -89,6 +89,8 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 - **Lineage Paragon (Level 20)**: Void Architect. You gain immunity to Entropic damage. Your Eldritch Adaptation attribute bonus increases to +2 (to a total maximum of 6 in that attribute).
 - **Narrative Hook**: Bearers of ancient wrath, seeking dominion or revenge.
 
+> **GM Note — Hylden-Blooded + Hylden Warlock:** This combination inverts the intended risk of the Unique Trait. The Hylden Warlock's *Entropic Surge* and *Voidborn Ascendancy* convert Corruption into bonus spell dice, making the free-cast Corruption cost a net mechanical benefit rather than a trade-off. GMs running this combination should lean hard on the narrative consequences of rising Corruption — behavioral tells, NPC reactions, environmental sensitivity — so that the cost remains real even when the dice bonus is welcome. Also note that the Level 10 Paragon (take damage instead of Corruption) is mechanically *worse* for a Hylden Warlock character who benefits from high Corruption; players should be aware of this before taking it.
+
 ## 2.5 Humans
 **Lore**: Mortal survivors of vampire purges and Hylden incursions, diverse and adaptable. Driven by belief, memory, and legacy, they range from Nomads to Sarafan warriors and Oracle-Blooded seers.
 - **Movement**: 30 feet; ignore one terrain penalty per long rest.
