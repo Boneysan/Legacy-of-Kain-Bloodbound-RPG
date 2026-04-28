@@ -13,7 +13,7 @@ Work through items in priority order. Each item has a status field, a checklist 
 | P3-1 | Skills chapter audit | **Complete** | High | Fixed 14 issues: DR table example (attacks use DV not DR), Riposte ambiguous wording, condition bolding (Restrained/Prone/Frightened), Parley undefined delay mechanic, Terrify missing range, Blood Sense missing action type/duration, Field Medic missing range, Jammed undefined condition, Iron Mind wrong condition name (Fear→Frightened), once-per-scene→once-per-encounter (Phase Control, Tactical Archive, Field Medic, Lore), Push rule missing 2–4 outcome and declaration timing, Stunts alignment with Ch.9, Active Mastery gap for already-BA utilities, Skill Cap mid-level progression table added. |
 | P3-2 | Level-scaling damage math | **Complete** | High | Three-tier spot-check done. No runaway damage spike found. Two issues fixed: (1) §3.2 Durability Milestone labels misleading — "High Durability" (Sangromancer, Dreadblade) yields less total HP than "Standard" Blood Knight due to +3 vs +4 HP/level; added clarifying note. (2) Nosgothian Revenant recommended level range changed from 2–6 to 4–8 (DV 4 is <5% hit rate for Level 1–3 characters). New GM Guide §2.11 added with hit probability table and DV-by-level-band calibration guide. |
 | P3-3 | Save DR calibration | **Complete** | High | Full audit done. DR range is 1–4 across all class abilities and monster stat blocks; DR 5 absent. Single broken ability fixed: Shadowmancer **Death from Below** (Level 17) had a fixed TV ≤ 4 cap, making it useless at level-appropriate play (Level 17 party fights TV 15+ enemies). Changed to "Cannot target Elite, Boss, or Legendary creatures." DR probability table + calibration guide added to GM Guide §2.12. |
-| P3-4 | Action economy comparison | **Not started** | Medium | Per-class Bonus Action load never compared across all six classes |
+| P3-4 | Action economy comparison | **Complete** | Medium | Full BA/Reaction audit done. Three fixes: (1) Sangromancer Vital Leech L2 Action→Bonus Action (0 BAs until L9 otherwise). (2) Warden Echo of Fate L6 Reaction→No Action (5 Reactions competing for 1 slot by L6; highest overload in system). (3) Hylden Warlock Madness Surge L3 Action→Bonus Action (0 BAs for entire class progression except L20 choice). |
 | P3-5 | Corruption rate audit | **Not started** | Medium | Total Corruption exposure per session never totalled per class |
 | P3-6 | Condition stacking rules | **Not started** | Medium | No explicit cap on simultaneous conditions exists in the rules |
 | P3-7 | Lineage/class synergy outliers | **Not started** | Medium | Strong combos and dead-zone combos not mapped |
@@ -116,7 +116,57 @@ Run the standard Ability Audit Template across all 20 Active Utilities — it ta
 
 ## P3-4. Action Economy Comparison
 
-**Status:** `Not started`
+**Status:** `Complete`
+
+**Files modified:**
+- `player's_handbook/03_Classes.md` — Sangromancer Vital Leech (L2): Action → Bonus Action
+- `player's_handbook/03_Classes.md` — Warden Echo of Fate (L6): Reaction → No Action
+- `player's_handbook/03_Classes.md` — Hylden Warlock Madness Surge (L3): Action → Bonus Action
+
+**Method:** Built a Bonus Action / Reaction matrix across all 8 classes at Level 5, Level 10, Level 15. Counted abilities with explicit Action/Cost tags of "Bonus Action" or "Reaction" in each class's perk table and Core Abilities.
+
+**Bonus Action summary by class:**
+
+| Class | L1–4 BAs | L5–9 BAs | L10–14 BAs | L15 BAs |
+|---|---|---|---|---|
+| Blood Knight | 1 (Bloodrush) | +1 (Crimson Avatar) | — | — |
+| Soul Reaver | 1 (Spectral Strike) | — | — | +1 opt (Phase Anchor) |
+| Shadowmancer | 1 (Cloak of Mist) | +1 (Shade Pact opt) | +1 (Doppelganger) | +1 (Shadow Court opt) |
+| Sangromancer | 0 (**gap**) | — | — | +1 (Sanguine Transfig. L9) |
+| Glyphwright | 1 (Glyph Recall) | — | +1 (Glyph Surge) | +1 (Resonant Overload opt) |
+| Dreadblade | 1 (Venom Edge) | — | +1 (Perfect Kill) | — |
+| Warden | 2 (Edict of Order + Guardian's Edict) | — | +1 (Mark of Equilibrium) | +1 (Scales of Ret. opt) |
+| Hylden Warlock | 0 (**gap**) | — | — | — (only Final Unraveling L20 opt) |
+
+**Reaction summary by class:**
+
+| Class | Total Reactions by L6 | Notes |
+|---|---|---|
+| Blood Knight | 2 (Brutal Counter, Deathbound) | Clean — different triggers, no competition |
+| Soul Reaver | 1 (Ghost Parry L8) | Low; gains Abyssal Anchor L14 |
+| Shadowmancer | 1 (Silhouette) | Fine |
+| Sangromancer | 0 | Fine (no Reaction abilities designed; resource system acts as gate) |
+| Glyphwright | 1 (Temporal Anchor L15) | Fine |
+| Dreadblade | 2 (Lethal Flow L5, Blur Step L8) | Fine — different triggers |
+| Warden | **5** (Foresight L2, Fate Align L4, Cycle Cmd L5, J's Edge L5, Echo L6) | **Overloaded** — 5 Reactions by L6 |
+| Hylden Warlock | 2 (Dark Insight L1, Premonitions L13) | Fine |
+
+**Issues found and fixed:**
+
+**Issue 1 — Sangromancer BA drought (FIXED):** 0 Bonus Actions from Level 1 through Level 8. All 8 levels of play before Sanguine Transfiguration (L9) are Action-locked. `Vital Leech` (L2, 1 BP, 3 damage/heal) is a simple single-target effect with no riders — changed to Bonus Action. This gives Sangromancer their first BA at Level 2, matching all other classes.
+
+**Issue 2 — Warden Reaction overload (FIXED):** 5 Reactions competing for 1 slot per round by Level 6. Foresight, Fate Align, Cycle Command, Judgment's Edge, and Echo of Fate all trigger off different conditions but only one can fire per round. `Echo of Fate` (L6, reroll own failed roll, once per scene) changed to **No Action** — it fires when you fail a roll without consuming your Reaction, making it a passive luck valve. This leaves 4 Reactions, which is still high but 3 of them (Cycle Command, Judgment's Edge, Echo) are once-per-scene effects that rarely compete in the same round.
+
+**Issue 3 — Hylden Warlock BA drought (FIXED):** 0 Bonus Actions for the entire class progression unless the player picks Final Unraveling at Level 20. Every offensive ability (Madness Surge, Decay Field, Nether Binding, Mind Rupture, etc.) is an Action. `Madness Surge` (L3, 1 SE, inflict Confused via DR 3 Will save) is a pure debuff with no damage — it is a setup/combo piece designed to precede Void Shard or Entropic Curse. Changed to Bonus Action. This gives Hylden Warlock their first BA at Level 3, consistent with Soul Reaver (Spectral Strike L1), and lets the class use Madness Surge + spell on the same turn.
+
+**Spot-checks passed (no issue):**
+- Soul Reaver BA load is lean (Spectral Strike is the main one through Level 11) but this is intentional — Phase Shift already costs an Action, and the class is designed around the SE-expenditure decision rather than BA chaining.
+- Glyphwright BA load is appropriate — Glyph Recall (L3 BA) lets them reposition glyphs as a BA, which pairs cleanly with glyph placement Actions.
+- Dreadblade has balanced Action/BA/Reaction split across all tiers.
+
+---
+
+## P3-5. Corruption Rate Audit
 
 **Status:** `Not started`
 

@@ -223,7 +223,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | Level | Perk Name | Effect | Action/Cost |
 | :--- | :--- | :--- | :--- |
 | 1 | **Blood Memory** | Regain one spell use or skill reroll. | Action, 1/long rest |
-| 2 | **Vital Leech** | Deal 3 Entropic Dmg, heal equal amount. | Action, 1 BP |
+| 2 | **Vital Leech** | Deal 3 Entropic Dmg, heal equal amount. | Bonus Action, 1 BP |
 | 3 | **Crimson Bind** | 10ft Zone roots enemies in blood. This is the Sangromancer Signature Upgrade of the **Crimson Bind** spell. | Action, 2 BP |
 | 4 | **Fleshcraft** | Craft a simple weapon from a corpse. | Ritual, 1 BP |
 | 5 | **Vein Strike** | +2 Damage against bleeding targets. | Passive |
@@ -364,7 +364,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | 4 | **Fate Align** | Allow an ally within 30 feet to reroll a failed die. | Reaction |
 | 5 | **Cycle Command** | When an ally you can see within 30 feet would be reduced to 0 HP, they instead drop to 1 HP. This cannot prevent death from an effect that explicitly bypasses death saves or revival. | Reaction, once per scene |
 | 5 | *or* **Judgment's Edge** | When an enemy within 30 feet damages an ally, you may place Fate's Condemnation on them until the end of the scene or until you hit them, whichever comes first. Fate's Condemnation empowers your next attack against that target: it deals bonus damage equal to your Will and imposes Disadvantage on their next save. | Reaction, once per scene |
-| 6 | **Echo of Fate** | Reroll your own failed roll. | Reaction, once per scene |
+| 6 | **Echo of Fate** | When you fail a roll, you may reroll it. You must use the new result. | No Action, once per scene |
 | 7 | **Zone of Judgment** | 15-foot radius zone centered on a point within 30 feet; enemies in the zone suffer -1 DV. | Action, 2 SE |
 | 8 | **Mark of Equilibrium** | Reduce damage taken by one target within 30 feet by 2 until the start of your next turn. | Bonus Action |
 | 9 | **Judgment Wheel** | 30-foot radius zone centered on a point within 60 feet. Random buffs/debuffs for 1 minute. | Action, 3 SE |
@@ -411,7 +411,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | :--- | :--- | :--- | :--- |
 | 1 | **Dark Insight** | Reroll a failed Corruption save. | Reaction |
 | 2 | **Hex Spark** | Dealing spell damage deals 1 Splash damage to one creature within 5 feet of the primary target. | Passive |
-| 3 | **Madness Surge** | Target within 30 feet is **Confused** (DR 3 Will save). This is the Hylden Warlock Signature Upgrade of the **Madness Surge** spell. | Action, 1 SE |
+| 3 | **Madness Surge** | Target within 30 feet is **Confused** (DR 3 Will save). This is the Hylden Warlock Signature Upgrade of the **Madness Surge** spell. | Bonus Action, 1 SE |
 | 4 | **Willbreaker** | Gain Advantage on Will checks against **Frightened** enemies. | Passive |
 | 5 | **Forbidden Truth** | When you cast a spell that costs SE, you may pay for it by gaining Corruption equal to half the SE cost of the spell (rounded up) instead of spending its SE cost. | No Action, once per scene |
 | 5 | *or* **Entropic Overload** | Your next spell or Void Shard this turn deals +3 Void damage and bypasses Armor and Resistance, but not Immunity. | No Action, 1/short rest |
