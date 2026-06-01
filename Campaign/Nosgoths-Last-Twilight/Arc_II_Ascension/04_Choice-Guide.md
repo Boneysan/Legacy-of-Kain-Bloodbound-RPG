@@ -55,10 +55,10 @@ Use this document to track the arc's major narrative decisions. This guide focus
 
 ## Session 6: Resolve The Breach
 
-### Seal, redirect, weaponize, or survive failure
+### Seal, redirect, destroy the Ember, or allow failure
 
 - Seal the breach: buys stability, but may strengthen the Wheel, require ugly substitutes, or leave the deeper system untouched.
 - Redirect the breach: preserves tactical leverage, but shifts danger onto another place, people, or future front.
-- Weaponize the breach: can break enemies and structures quickly, but risks proving the Fracture and Hylden arguments right.
-- Survive failure: accepts an imperfect outcome to preserve lives or future action, but leaves the north scarred and unresolved.
+- Destroy the Rift Ember: denies the breach any leverageable power source and forecloses the fragment's misuse, but loses the Iron Echo intelligence permanently and leaves the underlying command crisis unanswered.
+- Allow failure: refuses to spend the Ember and lets the breach collapse on its own terms, accepting an imperfect, scarred outcome that hands the Procession a recruitment proof and leaves the north unresolved.
 - Carry forward: creates the contradiction that drives Arc III and establishes whether the party are seen as saviors, opportunists, or engineers of a worse disaster.

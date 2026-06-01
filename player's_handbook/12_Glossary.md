@@ -25,7 +25,7 @@ A specialized talent or technique learned as a character levels up. Perks are ca
 Training in a specific field (e.g., Athletics, Ritualism, Stealth) that adds dice to an attribute check. Skill ranks range from 0 to 5. *(Ch. 6)*
 
 **TV (Threat Value)**
-A numerical rating of a creature's power (1–10+), used by the GM for encounter balance and by players for certain soul-related or feeding mechanics. *(MM §0.0)*
+An absolute encounter-budget number rating a creature's power, used by the GM for encounter balance and by players for certain soul-related or feeding mechanics. TV has **no upper ceiling**: rank-and-file creatures sit low, while a single Boss reaches roughly Level × 3 and a Legendary creature Level × 4 or higher — individual apex Legendaries can reach TV 54+ (up to roughly TV 90). *(MM §0.0)*
 
 ---
 
@@ -35,7 +35,7 @@ A numerical rating of a creature's power (1–10+), used by the GM for encounter
 A major story segment representing approximately 5 levels of character progression (e.g., Levels 1–5). Many powerful abilities refresh "once per arc." *(Ch. 9 §9.14)*
 
 **Combat Bonus**
-A temporary pool of dice earned through successful attacks or tactical maneuvers, used to enhance damage or trigger stunts. *(Ch. 10 §10.2)*
+A static bonus of +1 attack die gained at Levels 5, 10, 15, and 20 (maximum +4). It applies to attack rolls only, not skill checks. *(Ch. 0 / Ch. 3 §3.2)*
 
 **DR (Difficulty Rating)**
 The number of successes required for a check or save to pass. A standard success is a 5 or 6 on a D6. *(Ch. 10 §10.1)*

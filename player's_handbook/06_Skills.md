@@ -68,7 +68,8 @@ Skills are grouped into five categories. Each skill now features an **Active Uti
 
 ## 6.4 Skill Point Economy
 
-- **Starting Points:** Characters begin with **5–6 skill points** (based on class) at Level 1.
+- **Starting Points:** Characters begin with **5 or 6 skill points** at Level 1, set by class. Skill-focused classes (Shadowmancer, Dreadblade, Warden of Balance) start with **6**; all other classes start with **5**. See the Starting Skill Points by Class table in Chapter 3 §3.2.
+- **Class Training (free Key Skill ranks):** At Level 1, in addition to your starting skill points, your class grants you **1 free rank in each of two of its Key Skills** (your choice from that class's Key Skills list). These free ranks do **not** cost starting skill points, but they still obey the Level 1 cap of rank **3** and may not exceed the skill's governing attribute. Class Training represents the focused instruction every initiate receives before play begins: it ensures a character is competent at its core role from the first session without spending its entire starting budget to get there. (Free ranks count as normal ranks thereafter — they raise dice pools, unlock Active Mastery at rank 4, and may be increased further with skill points.)
 - **Skill Cap:** The maximum rank in any single skill is limited by character level as follows:
   - Levels 1–4: Maximum rank **3**
   - Levels 5–9: Maximum rank **4**

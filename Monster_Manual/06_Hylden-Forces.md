@@ -32,7 +32,7 @@ Now, the Hylden exist in a dimension of torment, constantly seeking ways to brea
 
 ## Shared Traits
 
-### Hylden Wilderness
+### Hylden Nature
 Immune to Spectral effects, possession, and mind control. Resistant to Spectral damage (half damage). Vulnerable to Radiant damage (+2 damage).
 
 *All Hylden creatures in this chapter possess this trait unless noted otherwise.*
@@ -63,7 +63,7 @@ This chapter now uses final absolute TV values aligned to each entry's intended 
 ## 6.1 Hylden Shock Trooper
 
 **Type**: Hylden (Possessed Warrior)  
-**Threat Tier**: Elite (TV 9)  
+**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*  
 **Recommended Levels**: 6-11
 
 ### Lore
@@ -79,6 +79,7 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 - **Initiative:** 4
 - **Movement:** 35 feet
 - **Armor:** 2 (Medium bio-tempered flesh, immune to Spectral damage)
+- **SE:** 18
 - **Attributes:** Fury 4, Soul 3, Shadow 3, Will 4, Focus 3, Blood 2
 - **Skills:** Tactics 4, Weapon Mastery 3, Ethereal Mastery 3
 
@@ -102,7 +103,7 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 - **Special:** Recharge 5-6. Targets make a DR 3 Will save. On failure, a target gains 1 Entropic point. On success, no effect. The Shock Trooper releases a wave of Hylden energy from its possessed body.
 
 ### Abilities
-**Hylden Wilderness**: Immune to Spectral effects, possession, and mind control (already possessed). Resistant to Spectral damage (half damage). Vulnerable to Radiant damage (takes +2 damage, the light harms the possessing entity). *(See 'Hylden Wilderness' under Shared Traits above.)*
+**Hylden Nature**: Immune to Spectral effects, possession, and mind control (already possessed). Resistant to Spectral damage (half damage). Vulnerable to Radiant damage (takes +2 damage, the light harms the possessing entity). *(See 'Hylden Nature' under Shared Traits above.)*
 
 **Bio-Tempered Flesh**: The host's body has been enhanced by Hylden biomancy. It has **Armor:** 2 vs Physical damage and does not need to eat or sleep (the Hylden sustains it).
 
@@ -130,14 +131,14 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 - Twisted host body (if studied, reveals Hylden biomancy techniques) - **Trade Value**: Priceless for scholars
 
 ### Scaling Options
-**Hylden Warlord** (Boss, TV 13): +20 HP, increase Fury and Tactics to 5. Add "Command Protocol" ability (once per turn, grant one allied Hylden within 20 feet +1 die on its next attack). Add 2 Legendary Actions per round: Move, Attack, or Hylden Surge (costs 2 actions).
+**Hylden Warlord** (Boss, TV 27): +20 HP, increase Fury and Tactics to 5. Add "Command Protocol" ability (once per turn, grant one allied Hylden within 20 feet +1 die on its next attack). Add 2 Legendary Actions per round: Move, Attack, or Hylden Surge (costs 2 actions).
 
 ---
 
 ## 6.2 Hylden Flesh Architect
 
 **Type**: Hylden (Biomancer)  
-**Threat Tier**: Elite (TV 11)  
+**Threat:** Elite — Per-Hero 2.75 *(party of 4; total budget TV 11)*  
 **Recommended Levels**: 8-13
 
 ### Lore
@@ -153,6 +154,7 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 - **Initiative:** 4
 - **Movement:** 25 feet
 - **Armor:** 1 (Light grafted bio-plates, immune to Spectral damage)
+- **SE:** 18
 - **Attributes:** Fury 2, Soul 5, Shadow 3, Will 5, Focus 4, Blood 1
 - **Skills:** Craft 4, Ritualism 4
 
@@ -176,7 +178,7 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 - **Special:** Once per encounter, costs 5 SE. The Architect animates a corpse or reshapes nearby flesh into a **Flesh Abomination** (Minion, TV 3 (weakened), 15 HP, deals 4 damage per attack, lasts until destroyed). The Abomination obeys the Architect's commands.
 
 ### Abilities
-**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
 
 **Ritualism Mastery**: The Architect can manipulate living and dead tissue. Outside combat, they can perform surgeries, create bio-constructs, or enhance allies with grafts (requires 1 hour per procedure).
 
@@ -203,14 +205,14 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 - Grafted organs (if harvested from the Architect's body) - **Trade Value**: 40 supplies, used in alchemy or rituals
 
 ### Scaling Options
-**Master Flesh Architect** (Boss, TV 15): +15 HP, increase Soul and Ritualism to 6. Add "Mass Fleshwarp" ability (affects all creatures within 15 feet, DR 4 Will save or be **Weakened**). Can summon 1 Abomination per encounter. Add 2 Legendary Actions per round: Move, Fleshwarp Touch, or Flesh Harvest (costs 2 actions).
+**Master Flesh Architect** (Boss, TV 33): +15 HP, increase Soul and Ritualism to 6. Add "Mass Fleshwarp" ability (affects all creatures within 15 feet, DR 4 Will save or be **Weakened**). Can summon 1 Abomination per encounter. Add 2 Legendary Actions per round: Move, Fleshwarp Touch, or Flesh Harvest (costs 2 actions).
 
 ---
 
 ## 6.3 Mind-Tethered Abomination
 
 **Type**: Hylden Bio-Construct  
-**Threat Tier**: Standard (TV 6)  
+**Threat:** Standard — Per-Hero 1.5 *(party of 4; total budget TV 6)*  
 **Recommended Levels**: 5-9
 
 ### Lore
@@ -274,7 +276,7 @@ They're not truly alive—they're animated by Hylden psychic will. Severing the 
 ## 6.4 Corruption Host
 
 **Type**: Hylden (Corrupted Mortal)  
-**Threat Tier**: Standard (TV 6)  
+**Threat:** Standard — Per-Hero 1.5 *(party of 4; total budget TV 6)*  
 **Recommended Levels**: 4-8
 
 ### Lore
@@ -290,6 +292,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 - **Initiative:** 5
 - **Movement:** 30 feet
 - **Armor:** 0 (Civilian clothing, but see Abilities)
+- **SE:** 15
 - **Attributes:** Fury 3, Soul 3, Shadow 4, Will 3, Focus 2, Blood 2
 - **Skills:** Infiltration 3, Forbidden Knowledge 3, Stealth 4
 
@@ -345,7 +348,7 @@ Many Corruption Hosts don't realize what's happening to them. They believe they'
 ## 6.5 Bio-Sigil Reaver
 
 **Type**: Hylden (Assassin)  
-**Threat Tier**: Elite (TV 12)  
+**Threat:** Elite — Per-Hero 3 *(party of 4; total budget TV 12)*  
 **Recommended Levels**: 9-14
 
 ### Lore
@@ -361,6 +364,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 - **Initiative:** 7
 - **Movement:** 45 feet
 - **Armor:** 2 (Light bio-enhanced skin, immune to Spectral damage)
+- **SE:** 18
 - **Attributes:** Fury 4, Soul 4, Shadow 5, Will 4, Focus 5, Blood 2
 - **Skills:** Weapon Mastery 5, Glyphcasting 4, Stealth 5
 
@@ -384,7 +388,7 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 - **Special:** Recharge 5-6, costs 3 SE. The Reaver's sigils flare violently. All affected creatures gain 1 Entropic point.
 
 ### Abilities
-**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
 
 **Bio-Sigil Camouflage**: As a bonus action, the Reaver can activate their sigils to become Invisible (cannot be seen, attacks against them have Disadvantage). This lasts until they attack or take damage. They can use this ability once per turn.
 
@@ -411,14 +415,14 @@ They're utterly dedicated to their mission. If capture is imminent, they self-de
 - **Note**: If the Reaver self-destructs, no loot remains (body is vaporized).
 
 ### Scaling Options
-**Master Bio-Sigil Reaver** (Boss, TV 16): +20 HP, increase Shadow and Weapon Mastery to 6. Add "Multi-Phase Strike" ability (use Phase Strike twice in one turn, but the second attack suffers -2 dice). Add 2 Legendary Actions per round: Move (phasing), Attack, or Corruption Burst (costs 2 actions).
+**Master Bio-Sigil Reaver** (Boss, TV 36): +20 HP, increase Shadow and Weapon Mastery to 6. Add "Multi-Phase Strike" ability (use Phase Strike twice in one turn, but the second attack suffers -2 dice). Add 2 Legendary Actions per round: Move (phasing), Attack, or Corruption Burst (costs 2 actions).
 
 ---
 
 ## 6.6 Hylden Rift Engineer
 
 **Type**: Hylden (Reality Manipulator)  
-**Threat Tier**: Elite (TV 13)  
+**Threat:** Elite — Per-Hero 3.25 *(party of 4; total budget TV 13)*  
 **Recommended Levels**: 10-15
 
 ### Lore
@@ -433,7 +437,8 @@ They're strategic thinkers, not frontline fighters. They open rifts to bring in 
 - **DV:** 5
 - **Initiative:** 5
 - **Movement:** 30 feet
-- **Armor:** 2 (Medium dimensional anchors, Armor: 2 vs Physical, Armor: 3 vs Magic, immune to Spectral damage)
+- **Armor:** 2 (dimensional anchors; Resistant to Force damage — half damage)
+- **SE:** 20
 - **Attributes:** Fury 2, Soul 6, Shadow 4, Will 5, Focus 5, Blood 1
 - **Skills:** Glyphcasting 3, Forbidden Knowledge 5, Observation 4
 
@@ -457,7 +462,7 @@ They're strategic thinkers, not frontline fighters. They open rifts to bring in 
 - **Special:** Costs 2 SE. Basic ranged attack. The Engineer uses this when conserving SE or targeting distant enemies.
 
 ### Abilities
-**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
 
 **Open Rift** (Action, costs 5 SE, once per encounter): The Engineer opens a portal to the Hylden dimension. Roll 1d6:
 
@@ -493,14 +498,14 @@ The summoned creature appears at the start of the Engineer's next turn. It obeys
 - **Note**: If the Engineer uses Emergency Rift, they take the most valuable loot with them (GM determines what's left).
 
 ### Scaling Options
-**Master Rift Engineer** (Boss, TV 17): +20 HP, increase Soul and Portal Magic to 7. Can use Open Rift one additional time per encounter (2 total uses), but only one use per encounter can summon anything above Grunt tier. Add "Dimensional Storm" ability (30-foot radius, 9 Force damage, Recharge 6). Add 2 Legendary Actions per round: Teleport or Reality Tear.
+**Master Rift Engineer** (Boss, TV 39): +20 HP, increase Soul and Portal Magic to 7. Can use Open Rift one additional time per encounter (2 total uses), but only one use per encounter can summon anything above Grunt tier. Add "Dimensional Storm" ability (30-foot radius, 9 Force damage, Recharge 6). Add 2 Legendary Actions per round: Teleport or Reality Tear.
 
 ---
 
 ## 6.7 Void-Spoken Oracle
 
 **Type**: Hylden (Prophet)  
-**Threat Tier**: Boss (TV 15)  
+**Threat:** Boss — Per-Hero 11.25 *(party of 4; total budget TV 45)*  
 **Recommended Levels**: 12-17
 
 ### Lore
@@ -511,11 +516,12 @@ Oracles possess powerful hosts (sorcerers, high priests, or royalty) and transfo
 They're commanders, not soldiers. They direct Hylden forces with telepathic coordination, buff allies, and debilitate enemies. Fighting an Oracle means fighting an entire Hylden army's intelligence and will.
 
 ### Statistics
-- **HP:** 100
+- **HP:** 170
 - **DV:** 6
 - **Initiative:** 5
 - **Movement:** 30 feet (floats above ground)
-- **Armor:** 5 (Heavy reality shell, Armor: 3 vs Physical, Armor: 5 vs Magic, immune to Spectral damage)
+- **Armor:** 4 (Heavy reality shell, immune to Spectral damage)
+- **SE:** 20
 - **Attributes:** Fury 3, Soul 7, Shadow 4, Will 7, Focus 6, Blood 2
 - **Skills:** Forbidden Knowledge 6, Tactics 6, Glyphcasting 6
 
@@ -539,17 +545,19 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 - **Special:** Once per encounter, costs 8 SE. The Oracle rips reality open. All creatures in the radius gain 2 Entropic points and make a DR 4 Shadow save. On failure, a creature is teleported 2d6 x 5 feet in a random direction (lose positioning, potentially separated from allies). On success, no teleportation.
 
 ### Abilities
-**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
 
 **Glyphcasting**: The Oracle constantly channels Hylden energy. At the start of each turn, they regain 3 SE (max SE: 20).
 
 **Telepathic Coordination**: All Hylden allies within 30 feet of the Oracle gain +1 die on all rolls (the Oracle coordinates their actions telepathically). If the Oracle is killed, all Hylden allies lose this bonus and make a DR 4 Will save. On failure, a target is **Stunned** for 1 round (psychic backlash). On success, no effect.
 
-**Reality Shell**: The Oracle is surrounded by a shell of warped reality. They have **Armor:** 3 vs Physical and **Armor:** 5 vs Magic. Additionally, ranged attacks against the Oracle have Disadvantage (projectiles curve around them).
+**Reality Shell**: The Oracle is surrounded by a shell of warped reality. It is Resistant to Force damage (takes half damage). Additionally, ranged attacks against the Oracle have Disadvantage (projectiles curve around them).
 
 **Forbidden Knowledge Sight**: The Oracle can see 3 rounds into the future. Once per round, when targeted by an attack, they gain +2 **DV:** against that attack (they see attacks coming before they happen). *(Subsequent attacks in the same round are resolved normally.)*
 
-**Legendary Actions (2 per round)**: The Oracle can use Legendary Actions at the end of another creature's turn.
+**Legendary Resistance (3/day)**: When the Oracle fails a save, it can choose to succeed instead.
+
+**Legendary Actions (3 per round)**: The Oracle can use Legendary Actions at the end of another creature's turn.
 - **Move**: The Oracle floats up to half their movement speed.
 - **Void Blast**: The Oracle uses Void Blast (costs 2 actions).
 - **Buff Allies**: The Oracle grants one Hylden ally within 60 feet +3 dice on their next roll (costs 1 action).
@@ -572,14 +580,14 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 - Hylden communication relay (bio-metal implant, allows telepathic contact with Hylden forces) - **Trade Value**: 150 supplies, dangerous but invaluable for intelligence
 
 ### Scaling Options
-**Supreme Void-Spoken Oracle** (Legendary, TV 20): +50 HP, increase Soul and Glyphcasting to 8. Add "Mass Dimensional Rupture" (80-foot radius, 18 Force damage, teleports all enemies 3d6 x 5 feet). Increase Legendary Actions to 4 per round. Add "Summon Hylden Champion" Legendary Action (costs 4 actions, summons one Elite or Boss-tier Hylden creature from previous entries).
+**Supreme Void-Spoken Oracle** (Legendary, TV 60): +50 HP, increase Soul and Glyphcasting to 8. Add "Mass Dimensional Rupture" (80-foot radius, 18 Force damage, teleports all enemies 3d6 x 5 feet). Increase Legendary Actions to 4 per round. Add "Summon Hylden Champion" Legendary Action (costs 4 actions, summons one Elite or Boss-tier Hylden creature from previous entries).
 
 ---
 
 ## 6.8 Hylden Horror Warden
 
 **Type**: Hylden (Jailer/Torturer)  
-**Threat Tier**: Elite (TV 14)  
+**Threat:** Elite — Per-Hero 3.5 *(party of 4; total budget TV 14)*  
 **Recommended Levels**: 11-16
 
 ### Lore
@@ -595,6 +603,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 - **Initiative:** 3
 - **Movement:** 30 feet
 - **Armor:** 3 (Heavy tormentor's plate, immune to Spectral damage)
+- **SE:** 20
 - **Attributes:** Fury 4, Soul 5, Shadow 3, Will 5, Focus 4, Blood 2
 - **Skills:** Intimidation 5, Forbidden Knowledge 4
 
@@ -618,7 +627,7 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 - **Special:** Recharge 5-6, costs 5 SE. The Warden traps one target in a psychic cage. The target makes a DR 4 Will save. On failure, the target is **Unconscious** for 2 rounds. The target can attempt a new DR 4 Will save at the end of each of their turns to break free early. On success, no effect.
 
 ### Abilities
-**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
 
 **Fear Aura** (Passive): All enemies within 20 feet of the Warden have Disadvantage on Will saves (oppressive dread).
 
@@ -645,14 +654,14 @@ They're often found guarding Hylden installations, prisons, or ritual sites. Enc
 - Suffering essence (crystallized pain, harvested by the Warden) - **Trade Value**: 40 supplies, used in dark rituals or alchemy
 
 ### Scaling Options
-**Master Horror Warden** (Boss, TV 18): +20 HP, increase Soul and Intimidation to 6. Add "Mass Fear" ability (all enemies within 25 feet must pass DR 4 Will save or be **Frightened** until the end of their next turn). Add 2 Legendary Actions per round: Move, Barbed Chain, or Mind Spike (costs 2 actions).
+**Master Horror Warden** (Boss, TV 42): +20 HP, increase Soul and Intimidation to 6. Add "Mass Fear" ability (all enemies within 25 feet must pass DR 4 Will save or be **Frightened** until the end of their next turn). Add 2 Legendary Actions per round: Move, Barbed Chain, or Mind Spike (costs 2 actions).
 
 ---
 
 ## 6.9 Hylden Rift-Priest
 
 **Type**: Hylden (Ritualist/Caster)  
-**Threat Tier**: Elite (TV 11)  
+**Threat:** Elite — Per-Hero 2.75 *(party of 4; total budget TV 11)*  
 **Recommended Levels**: 8-13
 
 ### Lore
@@ -694,7 +703,7 @@ Hylden Rift-Priests are the spiritual leaders of Hylden incursions — ancient H
 - **Special:** Once per encounter, costs 6 SE. The Rift-Priest opens a small rift and summons 1d3 Hylden-Possessed Grunts (TV 3 each) to the battlefield. They act on its initiative.
 
 ### Abilities
-**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
 
 **Rift Conduit** (Passive): The Rift-Priest's ritual scars glow brighter as it spends SE. For every 10 SE spent, all Hylden allies within 30 feet gain +1 die on their next attack roll.
 
@@ -721,7 +730,7 @@ Hylden Rift-Priests are the spiritual leaders of Hylden incursions — ancient H
 ## 6.10 Hylden-Possessed Grunt
 
 **Type**: Hylden (Possessed Mortal)  
-**Threat Tier**: Minion (TV 3)  
+**Threat:** Minion — Per-Hero 0.75 *(party of 4; total budget TV 3)*  
 **Recommended Levels**: 1-6
 
 ### Lore
@@ -750,7 +759,7 @@ Hylden-Possessed Grunts are the lowest tier of Hylden incursion forces — expen
 - **Special:** The target makes a DR 1 Blood save. On failure, the target is **Grappled**. While **Grappled**, the target takes 1 Entropic damage at the start of each turn. Escape requires a DR 2 Fury + Athletics roll as an Action.
 
 ### Abilities
-**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
 
 **Expendable Host**: When reduced to 0 HP, the possessed body collapses. There is a 25% chance (roll 1d4; on a 1) the Hylden spirit lashes out: all creatures within 5 feet make a DR 1 Will save. On failure, a creature takes 2 Spectral damage.
 
@@ -774,14 +783,14 @@ Grunts swarm in groups of 4–8. They charge the nearest enemy and use Crude Wea
 ## 6.11 Hylden Dimension Lord
 
 **Type**: Hylden (True Hylden, Commander)  
-**Threat Tier**: Legendary (TV 18)  
+**Threat:** Legendary — Per-Hero 18 *(party of 4; total budget TV 72)*  
 **Recommended Levels**: 15-20
 
 ### Lore
 Hylden Dimension Lords are among the most powerful Hylden to cross the barrier — ancient minds that have spent millennia in the dimension of banishment.
 
 ### Statistics
-- **HP:** 200
+- **HP:** 256
 - **DV:** 6
 - **Initiative:** 6
 - **Movement:** 35 feet (hover)
@@ -816,7 +825,7 @@ Hylden Dimension Lords are among the most powerful Hylden to cross the barrier �
 - **Special:** Twice per encounter, costs 12 SE. Summon 4 Grunts, 2 Shock Troopers, or 1 Rift-Priest. Summoned units appear within 20 feet and act on the Lord's initiative.
 
 ### Abilities
-**Hylden Wilderness:** See Shared Traits at the beginning of this chapter.
+**Hylden Nature:** See Shared Traits at the beginning of this chapter.
 
 **Glyphcasting Aura (Enhanced)** (Passive): All non-Hylden creatures within 20 feet have Disadvantage on Observation checks and Focus-based saves. Weapon Mastery attacks that pass through the aura have their dice pools reduced by 2.
 
@@ -847,10 +856,10 @@ Hylden Dimension Lords are among the most powerful Hylden to cross the barrier �
 ## Named Hylden NPCs
 
 ### General Zeth'kur, the Siege-Mind
-**Role:** Military Strategist (use Hylden Dimension Lord stat block, TV 18)
+**Role:** Military Strategist (use Hylden Dimension Lord stat block, TV 72)
 
 ### Oracle Ysh'rana, the Whispering Wound
-**Role:** Spiritual Leader (use Void-Spoken Oracle stat block, TV 15)
+**Role:** Spiritual Leader (use Void-Spoken Oracle stat block, TV 45)
 
 ### Vex'thal the Unbound
 **Role:** Rogue Agent (use Hylden Shock Trooper stat block, TV 9)
@@ -860,7 +869,7 @@ Hylden Dimension Lords are among the most powerful Hylden to cross the barrier �
 ## 6.12 Hylden War-Stalker
 
 **Type**: Hylden-Corrupted Beast (Hybrid)
-**Threat Tier**: Elite (TV 7)
+**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*
 **Recommended Levels**: 4–8
 
 ### Lore

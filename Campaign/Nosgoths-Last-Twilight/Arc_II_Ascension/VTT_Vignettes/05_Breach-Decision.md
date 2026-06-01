@@ -144,6 +144,25 @@ The breach does not care what the party wants. It cares what the party does. Thi
 
 ---
 
+## Balance Reckoning Hook
+
+> Three of the four resolutions here spend a fragment's power to coerce the breach rather than pay for it openly. **Advance the Balance Reckoning Clock by 1** — the single device tracked both as the `balance_reckoning` tag in [the Arc II state file](../Arc_II_VTT-State.md#balance_reckoning) and as the canonical clock in [Faction-Tracker/Faction-Clocks.md](../../Faction-Tracker/Faction-Clocks.md#balance-reckoning-clock) — if the party seal the breach with the Ember (Choice A), redirect it onto another place or people (Choice B), or otherwise force the Rift to resolve on the fragment's terms. **Do not advance it** for Choice C (destroying the Ember — they refuse the coercive answer and pay the intelligence cost openly) or Choice D (allowing failure — they spend nothing and let the cost land). The first time the clock ticks, foreshadow withdrawal of grace before Arc III: a northern shrine the party expected to shelter at is shut, or a healer who would once have worked on trust now names a price. The value is read again on the Arc III road (Vignette 03) and at the finale by the Endgame Adjudication Matrix.
+
+---
+
+## Last Witness Beat — The Role Can Change Hands
+
+> The breach makes its own ordinary survivors, and Arc II is where the Last Witness role is most likely to *move*. Check the `last_witness` value the party carried in from Arc I and run whichever applies:
+
+- **If the party arrived with a `protected` or `named` Witness:** the breach tests whether they can keep them. If the party put the Witness in harm's way to reach the Ember, or traded their safety for a political win, a hostile faction (Maelin Rook's Sarafan line, or the Ash-Glass Procession if `ash_glass_reach` is `proof_text`/`convert`) moves on them. → set `last_witness: exposed`, or `lost` if the party spend them. If the party kept them clear of the breach, the status holds and may rise to `protected`.
+- **If the party arrived `unnamed` or `lost`:** the breach offers a replacement. A signal-corps runner, a frightened Accord clerk, or a fortress servant survives the Rift and can speak plainly about what opening the north actually cost in flesh. If the party acknowledge and shelter them → `last_witness: named` (or `protected` with a concrete provision). This is the campaign's main second chance to seed the role before the finale.
+
+> **The replacement survivor**, if one steps forward, says only what they saw: *"I carried water to the working ring that morning. I knew every face on it. I can tell you which ones were still there when the light went the wrong color, and which ones weren't. That's all I have. I'd like it to count for something that isn't a banner."*
+
+> **GM:** Update the three Witness lines (who, what, forward fear) and the status in the Arc II tracker, and hand them forward at arc close.
+
+---
+
 ## GM Notes
 
 - Canonical carry-forward contradiction: if you want the default Arc III Chronoplast reveal, the public northern record is wrong about first blood. The edited account makes Hylden pressure or the party's breach choice look like the initiating strike. The unedited sequence shows the first Sarafan containment volley, under Scout-Confessor Maelin Rook's field authority or her acting equivalent, hitting the live Accord working ring before the Hylden surge answers.

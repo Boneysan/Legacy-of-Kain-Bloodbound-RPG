@@ -44,7 +44,7 @@ Most spectral entities share:
 
 **Type:** Spectral Beast  
 **Affinity:** Spectral
-**Threat Tier:** Standard (TV 5)
+**Threat:** Standard — Per-Hero 1.25 *(party of 4; total budget TV 5)*
 **Recommended Levels:** 4-6
 
 ### Lore
@@ -75,7 +75,7 @@ Echo Serpents are the spectral remnants of great serpents that died in places of
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons and spells affect normally.
 
-**Spectral Wilderness:** Cannot be **Grappled**, **Restrained**, or knocked **Prone** by physical means. Immune to poison, disease.
+**Spectral Nature:** Cannot be **Grappled**, **Restrained**, or knocked **Prone** by physical means. Immune to poison, disease.
 
 **Phase Movement:** Can move through walls and objects but takes 5 Force damage if ends turn inside solid matter.
 
@@ -98,7 +98,7 @@ Uses Phase Strike to approach through walls. Attacks isolated targets with Spect
 
 **Type:** Spectral Undead (Intelligent)  
 **Affinity:** Spectral
-**Threat Tier:** Elite (TV 7)
+**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*
 **Recommended Levels:** 5-9
 
 ### Lore
@@ -134,7 +134,7 @@ Mirror Wraiths are souls trapped between realms, their identities fractured like
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons and spells affect normally.
 
-**Spectral Wilderness:** Cannot be **Grappled**, **Restrained**, or **Prone**. Immune to poison, disease, **Charmed**.
+**Spectral Nature:** Cannot be **Grappled**, **Restrained**, or **Prone**. Immune to poison, disease, **Charmed**.
 
 **Mirror Image:** At start of combat, creates 1d4 illusory duplicates that occupy same space. When hit, one duplicate disappears. Duplicates shatter when wraith takes Soul or Radiant damage.
 
@@ -163,7 +163,7 @@ Opens with Identity Theft on strongest party member to sow chaos. Creates Life E
 
 **Type:** Spectral Predator  
 **Affinity:** Spectral
-**Threat Tier:** Standard (TV 4)
+**Threat:** Standard — Per-Hero 1 *(party of 4; total budget TV 4)*
 **Recommended Levels:** 2-6
 
 ### Lore
@@ -197,7 +197,7 @@ Soul-Eater Shades are manifestations of pure hunger from the Spectral Realm. The
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
 
-**Spectral Wilderness:** Immune to poison, disease, and physical **Grappled**, **Restrained**, and **Prone** effects.
+**Spectral Nature:** Immune to poison, disease, and physical **Grappled**, **Restrained**, and **Prone** effects.
 
 **Growing Hunger:** Each time Shade reduces a creature to 0 HP, it gains +5 max HP and +1 die on all attacks. Maximum 3 stacks (+15 HP, +3 dice). Additional kills beyond 3 stacks grant no further benefit. Resets on long rest.
 
@@ -220,7 +220,7 @@ Relentlessly pursues highest SE/Soul value target. Uses Soul Rend repeatedly, re
 
 **Type:** Spectral Beast (Pack Hunter)  
 **Affinity:** Spectral
-**Threat Tier:** Minion (TV 2)
+**Threat:** Minion — Per-Hero 0.5 *(party of 4; total budget TV 2)*
 **Recommended Levels:** 1-3
 
 ### Lore
@@ -269,7 +269,7 @@ Always travel in packs of 4-6. One Howler uses Disorienting Howl while others su
 
 **Type:** Spectral Spirit (Bound Soul)  
 **Affinity:** Spectral
-**Threat Tier:** Standard (TV 4)
+**Threat:** Standard — Per-Hero 1 *(party of 4; total budget TV 4)*
 **Recommended Levels:** 2-6
 
 ### Lore
@@ -308,7 +308,7 @@ Silent Mourners are souls bound to places of great tragedy—battlefields, execu
 
 **Cannot Speak:** Immune to spells or effects that require hearing its voice. Cannot be reasoned with verbally.
 
-**Spectral Wilderness:** Immune to poison, disease, and physical **Grappled**, **Restrained**, and **Prone** effects.
+**Spectral Nature:** Immune to poison, disease, and physical **Grappled**, **Restrained**, and **Prone** effects.
 
 **Behavior Tags:** controller, phase_shifter
 
@@ -326,7 +326,7 @@ Remains near its bound location. Uses Aura of Sorrow to wear down enemies passiv
 
 **Type:** Spectral Aberration  
 **Affinity:** Hybrid
-**Threat Tier:** Elite (TV 8)
+**Threat:** Elite — Per-Hero 2 *(party of 4; total budget TV 8)*
 **Recommended Levels:** 6-10
 
 ### Lore
@@ -339,11 +339,11 @@ Phase-Beasts are creatures native to the space between realms—neither fully Ma
 - **Initiative:** 7
 - **Movement:** 45 feet
 - **Attributes:** Fury 4, Soul 3, Shadow 5, Will 3, Focus 4, Blood 2
-- **Skills:** Athletics 3, Stealth 5
+- **Skills:** Athletics 3, Stealth 5, Unarmed Combat (Fury) 3
 
 ### Attacks
 **Phase Claws** (Action)
-- **Dice Pool:** Fury 4 + 0 = 4d6
+- **Dice Pool:** Fury 4 + Unarmed Combat 3 = 7d6
 - **Damage:** 7 Physical (Slashing) + 4 Spectral damage
 - **Special:** Attacks count as both physical and magical, hitting regardless of target's defenses
 
@@ -389,14 +389,14 @@ Uses unpredictable Phase Shift to confound enemies. Employs Blink Strike to atta
 
 **Type:** Spectral Elemental  
 **Affinity:** Spectral
-**Threat Tier:** Boss (TV 13)
+**Threat:** Boss — Per-Hero 9.75 *(party of 4; total budget TV 39)*
 **Recommended Levels:** 11-15
 
 ### Lore
 Gravewind Entities are ancient spirits of wind and death, formed in places where countless souls passed violently into the Spectral Realm. They are living storms of spectral energy, carrying the screams and regrets of thousands. Some believe they are servants of the Elder God, harvesting souls en masse.
 
 ### Statistics
-- **HP:** 75
+- **HP:** 150
 - **DV:** 6 (1 + Shadow 5)
 - **Armor:** Special (Incorporeal + Resistant)
 - **Initiative:** 7
@@ -426,7 +426,7 @@ Gravewind Entities are ancient spirits of wind and death, formed in places where
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks.
 
-**Elemental Wilderness:** Immune to poison, disease, **Exhaustion**, **Charmed**, **Frightened**, **Paralyzed**.
+**Elemental Nature:** Immune to poison, disease, **Exhaustion**, **Charmed**, **Frightened**, **Paralyzed**.
 
 **Storm Form:** Occupies 15-foot cube space. Creatures entering or starting turn in space take 5 Spectral + 3 Cold damage (no save).
 
@@ -463,7 +463,7 @@ Opens with Soul Scour to test multiple targets or Gravewind Vortex if the party 
 
 **Type:** Spectral Swarm
 **Affinity:** Spectral
-**Threat Tier:** Standard (single, TV 3) / Elite (swarm of 3–5, TV 8)
+**Threat:** Standard (single) — Per-Hero 0.75 *(party of 4; total budget TV 3)* / Elite (swarm of 3–5) — Per-Hero 2 *(party of 4; total budget TV 8)*
 **Recommended Levels:** 1-4 (single), 5-9 (swarm)
 
 ### Lore
@@ -494,7 +494,7 @@ In the Legacy of Kain canon, the Sluagh haunt the spaces between meaningful afte
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons, Spectral damage, and Soul-based effects work normally.
 
-**Spectral Wilderness:** Cannot be grappled, restrained, or knocked **Prone** by physical means. Immune to poison, disease, **Frightened**.
+**Spectral Nature:** Cannot be grappled, restrained, or knocked **Prone** by physical means. Immune to poison, disease, **Frightened**.
 
 **Carrion Sense:** Detects creatures with reduced SE, Bloodied creatures, or actively Fading creatures within 120 feet, regardless of walls or concealment. This is the Sluagh's primary hunting sense.
 
@@ -608,7 +608,7 @@ A Gravewind Entity terrorizes the countryside, growing stronger with each soul i
 
 **Type:** Spectral Aberration (Abyssal)  
 **Affinity:** Spectral
-**Threat Tier:** Elite (Strong) (TV 9)
+**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*
 **Recommended Levels:** 7-11
 
 ### Lore
@@ -652,7 +652,7 @@ In Legacy of Kain canon, the Abyss is where Raziel was cast and from which he wa
 
 **Incorporeal:** Immune to nonmagical physical attacks. Can move through solid objects and creatures; takes 5 Force damage if it ends its turn inside a solid object.
 
-**Spectral Wilderness:** Immune to poison, disease, and physical **Grappled**, **Restrained**, and **Prone** effects.
+**Spectral Nature:** Immune to poison, disease, and physical **Grappled**, **Restrained**, and **Prone** effects.
 
 **Abyssal Resilience:** Resistant to Fire, Cold, and Lightning damage (half damage from each). The Abyss has burned away conventional weaknesses.
 
@@ -696,7 +696,7 @@ The Wraith of the Abyss is a patient predator. It uses Phase Shift to stalk the 
 
 **Type:** Spectral (Remnant, Mindless)
 **Affinity:** Spectral
-**Threat Tier:** Minion (TV 2)
+**Threat:** Minion — Per-Hero 0.5 *(party of 4; total budget TV 2)*
 **Recommended Levels:** 1-3
 
 ### Lore
@@ -751,7 +751,7 @@ Lingering Shades do not fight tactically. They drift toward the nearest warm cre
 
 **Type:** Spectral (Intelligent, Spellcaster)
 **Affinity:** Spectral
-**Threat Tier:** Elite (TV 7)
+**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*
 **Recommended Levels:** 5-9
 
 ### Lore
@@ -823,7 +823,7 @@ The Arcanist maintains distance, opening with Soul Bolt spam and Arcane Drain ag
 
 **Type:** Spectral Predator  
 **Affinity:** Spectral
-**Threat Tier:** Elite (TV 4)
+**Threat:** Elite — Per-Hero 1 *(party of 4; total budget TV 4)*
 **Recommended Levels:** 3-6
 
 ### Lore
@@ -851,7 +851,7 @@ Phase Wraiths are hunters that never fully commit to one realm. They flicker bet
 ### Abilities
 **Incorporeal:** Immune to nonmagical physical attacks. Magical weapons and spells affect normally.
 
-**Spectral Wilderness:** Cannot be grappled, restrained, or knocked **Prone** by physical means. Immune to poison, disease, and Bleeding.
+**Spectral Nature:** Cannot be grappled, restrained, or knocked **Prone** by physical means. Immune to poison, disease, and Bleeding.
 
 **Dimensional Slip:** When struck by an attack, the Phase Wraith may use its reaction to phase partially out of reality. The triggering attack deals half damage.
 
@@ -876,14 +876,14 @@ The Phase Wraith refuses fair engagements. It teleports behind isolated targets,
 
 **Type:** Spectral Sovereign Echo  
 **Affinity:** Spectral
-**Threat Tier:** Boss (TV 15)
+**Threat:** Boss — Per-Hero 10.5 *(party of 4; total budget TV 42)*
 **Recommended Levels:** 12-16
 
 ### Lore
 The Echo of Kain is not Kain himself, but a pressure-mark left on reality by his will. In places where prophecy, blood, and the Spectral Realm knot together, that imprint can stand up and fight. It remembers rulership as a reflex, judgment as instinct, and survival as inevitability. To face it is to battle a fragment of Nosgoth's most dangerous conviction.
 
 ### Statistics
-- **HP:** 50
+- **HP:** 160
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 0
 - **Initiative:** 8
@@ -924,10 +924,14 @@ The Echo of Kain is not Kain himself, but a pressure-mark left on reality by his
 
 **Unceasing Pressure:** Creatures that start their turn within 10 feet of the Echo take 1 Spectral damage unless they succeed on a DR 3 Will save.
 
+**Legendary Resistance (3/day):** When the Echo fails a save, it can choose to succeed instead.
+
 ### Legendary Actions (3 per round)
 - **Move (1 action):** The Echo moves up to its speed without provoking opportunity attacks.
 - **Strike (1 action):** The Echo makes one Soul Reaver attack.
 - **Temporal Flick (2 actions):** One target within 30 feet makes a DR 3 Will save. On failure, it is pushed 10 feet and becomes **Staggered** until the end of its next turn.
+
+**Behavior Tags:** boss, controller, brute
 
 ### Tactics
 The Echo opens with Temporal Stasis on the party member most likely to break its tempo, then advances behind Pillars' Weight to fracture positioning. It uses Soul Reaver — Spectral Form to punish whoever overextends and saves Blood Omen Surge for its Phase II transition unless a clustered party offers too much healing value to ignore. It should feel beatable through coordination, but no longer stall a table by healing through low-damage attrition.

@@ -97,6 +97,50 @@ Tracks what people outside the party believe happened at Avernus and on the cara
 
 ---
 
+<a id="last_witness"></a>
+### `last_witness`
+Tracks the campaign's throughline civilian — the latest ordinary survivor who can still speak a fragment's cost in plain terms, with no faction varnish. This is a structured field, not a single enum: record **who** they are, **what** they witnessed, **what** they fear forward, and their current **status**. Carry it forward across every arc. The Arc IV finale (V02 Choice D → `black_fulcrum_status: witness-anchored`, and V05 Outcome D) is only reachable if a `named` or `protected` Witness has survived to the Heath. If the role is `unnamed` or `lost` at the close of Arc III, the GM must seed a replacement before the finale or those endings stay closed.
+
+**Status values:**
+
+| Value | Meaning |
+|-------|---------|
+| `unnamed` | The role is vacant; no specific person yet carries it. Campaign default, and where the role returns after a Witness is lost |
+| `named` | A specific person has spoken a fragment's cost plainly and is identifiable, but their safety is not secured |
+| `protected` | The party took a concrete action to keep the Witness alive, free, and able to testify; they reach the next arc |
+| `exposed` | A hostile faction knows the Witness's identity and value and is recruiting, discrediting, or hunting them |
+| `lost` | The Witness was killed, silenced, co-opted, or abandoned; the role returns to `unnamed` until a new survivor inherits it |
+
+**Current bearer (name + role):** ___
+**What they witnessed (the cost they can testify to):** ___
+**What they fear forward:** ___
+**Current status:** ___
+**Session this was last updated:** ___
+
+---
+
+<a id="balance_reckoning"></a>
+### `balance_reckoning`
+**Single device — this is the per-arc mirror of the canonical Balance Reckoning Clock (0–4) defined in [../Faction-Tracker/Faction-Clocks.md](../Faction-Tracker/Faction-Clocks.md#balance-reckoning-clock). Do not run a second scale or a separate increment list; advance it only per that file's Arc-End Update Cheat Sheet. Read at the finale by the [Endgame Adjudication Matrix](../Arc_IV_Convergence/03_Endgame-Adjudication-Matrix.md) Pressure Modifier (a value of 3–4 hardens the Hall's judgment).**
+
+The counter measures how often the party used a fragment to force a crisis to resolve while leaving the deeper distortion in place — *withdrawal of grace*, not Corruption by another name. **In Arc I it advances** when the Sanguine Knot is touched publicly or used to expose or coerce when mercy was still possible (per the cheat sheet). **Never decrement** — grace withdrawn does not return cheaply.
+
+| Value | Meaning |
+|-------|---------|
+| `0` | No coercive fragment-answer on record; the world's customary graces remain available |
+| `1` | A fragment solution fixed an immediate problem but left a visible metaphysical distortion; a single grace thins — a minor rite is refused, a shrine is shut |
+| `2` | Wardens, the Hall, or spectral witnesses begin treating the party as agents of dangerous imbalance rather than reluctant stewards |
+| `3` | A prior compromise returns as proof that order was preserved through coercion; safe houses, healers, and sanctioned rites demand explicit price before aid |
+| `4` | The endgame judgment hardens; the Hall of Equilibrium and its living representatives no longer treat the party as untested claimants |
+
+**Current value:** ___
+
+**Session this was last updated:** ___
+
+**Notes (which uses incremented it):** ___
+
+---
+
 ## Vignette Log
 
 Use this section to record which choices were made in each vignette. Brief notes only — the full consequence is already tagged above.
@@ -162,6 +206,8 @@ Complete before the Arc II opening session. Cross-reference with 05_Choice-Conse
 - `sarafan_attention` entering Arc II: ___
 - `reliquary_status` entering Arc II: ___
 - `public_story` entering Arc II: ___
+- `last_witness` entering Arc II (bearer, what they witnessed, forward fear, status): ___
+- `balance_reckoning` entering Arc II (counter + which uses): ___
 - Fragment physical location at arc close: ___
 - Surviving allies traveling into Arc II: ___
 - Active enemies with motivation to pursue into Arc II: ___

@@ -36,6 +36,7 @@ The outcome of a roll is determined by how many successes you achieve compared t
 | Successes vs. Target | Outcome | Result |
 | :--- | :--- | :--- |
 | **Below Target** | **Failure** | The action fails; the GM may introduce a complication or allow a **Marginal Success** if you were only 1 success short (on DR/DV 2+). |
+| **1 Success Short (DR/DV 2+)** | **Marginal Success** | At the GM's discretion, the action partially succeeds at a cost — reduced effect, a complication, or a hard choice. |
 | **Meets Target** | **Standard** | The action succeeds cleanly as intended. |
 | **+2 Above Target** | **Critical** | An outstanding result. This is a **Critical Success** or **Critical Hit** (see Section 10.4.6). |
 
@@ -90,7 +91,7 @@ Combat is a specific application of the dice system where the target is not an o
 ### 10.4.3 Defense
 *   Your **DV** is a passive score: **1 + higher of Shadow or Will**.
 *   **DV Cap:** Base DV cannot exceed **6**.
-*   **Active Defense:** Spend your **Reaction** to roll **Attribute + Skill** (e.g., Shadow + Evasion) to reduce incoming successes.
+*   **Active Defense:** Spend your **Reaction** to roll **Attribute + Skill** (e.g., Shadow + Evasion). Each success reduces the incoming **damage** by 1 (see Chapter 9 §9.8).
 
 ### 10.4.4 Armor
 *   Armor provides **Flat Mitigation (Armor X)**. After an attack hits, subtract your Armor value from the incoming damage.
@@ -105,7 +106,7 @@ Combat is a specific application of the dice system where the target is not an o
 A Critical Hit is achieved by **exceeding the target's DV by 2 or more successes**. You may spend Extra Successes on:
 - **Bonus Damage:** +1 damage per extra success (maximum +3).
 - **Status Effect:** Inflict a condition associated with the damage type.
-- **Bypass Armor:** Ignore 1 point of Armor per extra success.
+- **Bypass Armor:** Ignore 1 point of Armor per extra success, up to the weapon's base damage.
 - **Tactical Advantage:** Create a narrative opening or opportunity for an ally.
 
 ---

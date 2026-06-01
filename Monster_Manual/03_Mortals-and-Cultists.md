@@ -28,14 +28,14 @@ This chapter now uses final absolute TV values aligned to each entry's intended 
 
 ## Creature Entries
 
-## 3.1 Cult of the Abyss Fanatic
+## 3.1 Cult of the Wheel Fanatic
 
 **Type**: Mortal Humanoid (Cultist)  
-**Threat Tier**: Minion (Level 5) - TV 3  
+**Threat:** Minion — Per-Hero 0.75 *(party of 4; total budget TV 3)*  
 **Recommended Levels**: 1-4
 
 ### Lore
-The Cult of the Abyss worships the Elder God and the promise of oblivion. These zealots believe that reality is a prison and that only through the Wheel of Fate can souls find true purpose. Fanatics are the lowest rank—brainwashed initiates who throw themselves at enemies with reckless abandon, viewing death as transcendence.
+The Cult of the Wheel worships the Elder God and the promise of oblivion. These zealots believe that reality is a prison and that only through the Wheel of Fate can souls find true purpose. Fanatics are the lowest rank—brainwashed initiates who throw themselves at enemies with reckless abandon, viewing death as transcendence.
 
 They wear tattered robes marked with spiral sigils and carry crude weapons blessed in blood rituals. Their eyes are vacant, pupils dilated from hallucinogenic toxins used in cult ceremonies.
 
@@ -84,7 +84,7 @@ They wear tattered robes marked with spiral sigils and carry crude weapons bless
 ## 3.2 Forsaken Priest of Light
 
 **Type**: Mortal Humanoid (Fallen Cleric)  
-**Threat Tier**: Standard (TV 5)  
+**Threat:** Standard — Per-Hero 1.25 *(party of 4; total budget TV 5)*  
 **Recommended Levels**: 3-7
 
 ### Lore
@@ -151,7 +151,7 @@ Forsaken Priests maintain the trappings of their former lives—holy symbols, ro
 ## 3.3 Wandering Mad Seer
 
 **Type**: Mortal Humanoid (Oracle)  
-**Threat Tier**: Standard (TV 6)  
+**Threat:** Standard — Per-Hero 1.5 *(party of 4; total budget TV 6)*  
 **Recommended Levels**: 4-8
 
 ### Lore
@@ -218,7 +218,7 @@ Mad Seers wander the wilderness, speaking in riddles and prophecies. Some are ha
 ## 3.4 Sarafan Inquisitor
 
 **Type**: Mortal Humanoid (Holy Warrior)  
-**Threat Tier**: Elite (TV 8)  
+**Threat:** Elite — Per-Hero 2 *(party of 4; total budget TV 8)*  
 **Recommended Levels**: 5-10
 
 ### Lore
@@ -288,7 +288,7 @@ However, the Sarafan's fanaticism often blinds them to nuance. They see only "pu
 ## 3.5 Outcast Raider
 
 **Type**: Mortal Humanoid (Bandit)  
-**Threat Tier**: Standard (TV 4)  
+**Threat:** Standard — Per-Hero 1 *(party of 4; total budget TV 4)*  
 **Recommended Levels**: 2-6
 
 ### Lore
@@ -350,7 +350,7 @@ Raiders are opportunistic. They ambush small groups, avoid fair fights, and retr
 ## 3.6 Black Rune Warlock
 
 **Type**: Mortal Humanoid (Dark Sorcerer)  
-**Threat Tier**: Elite (TV 9)  
+**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*  
 **Recommended Levels**: 6-12
 
 ### Lore
@@ -420,7 +420,7 @@ Black Rune Warlocks serve no master but themselves. They may ally with cults, va
 ## 3.7 Bleeding Eye Assassin
 
 **Type**: Mortal Humanoid (Contract Killer)  
-**Threat Tier**: Elite (TV 10)  
+**Threat:** Elite — Per-Hero 2.5 *(party of 4; total budget TV 10)*  
 **Recommended Levels**: 7-13
 
 ### Lore
@@ -490,7 +490,7 @@ They are not inherently evil, merely professional. Some even claim to follow a c
 ## 3.8 Witch-Hunter Commander
 
 **Type**: Mortal Humanoid (Military Leader)  
-**Threat Tier**: Elite (TV 11)  
+**Threat:** Elite — Per-Hero 2.75 *(party of 4; total budget TV 11)*  
 **Recommended Levels**: 8-14
 
 ### Lore
@@ -561,7 +561,7 @@ Their armor is inscribed with runes designed to disrupt magic. Their weapons are
 ## 3.9 Acolyte of Hash'ak'gik
 
 **Type**: Mortal Humanoid (Demon Cultist)
-**Threat Tier**: Minion (TV 4)
+**Threat:** Minion — Per-Hero 1 *(party of 4; total budget TV 4)*
 **Recommended Levels**: 2–5
 
 ### Lore
@@ -609,7 +609,7 @@ Acolytes activate Blood-Prayer in the first round, then advance in tight formati
 ## 3.10 Vessel of Hash'ak'gik
 
 **Type**: Mortal Humanoid (Possessed)
-**Threat Tier**: Elite (TV 7)
+**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*
 **Recommended Levels**: 5–9
 
 ### Lore
@@ -662,7 +662,7 @@ The Vessel begins combat with Voice of the Pit to scatter the party, then target
 ## 3.11 Sarafan Grand Inquisitor
 
 **Type**: Mortal Humanoid (Holy Warrior, Commander)  
-**Threat Tier**: Boss (TV 11)  
+**Threat:** Boss — Per-Hero 8.25 *(party of 4; total budget TV 33)*  
 **Recommended Levels**: 8-14
 
 ### Lore
@@ -675,9 +675,9 @@ In battle, the Grand Inquisitor is a force multiplier. Their prayers empower all
 For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mortal who cannot be intimidated, cannot be corrupted, and will never, ever stop hunting them.
 
 ### Statistics
-- **HP:** 75
+- **HP:** 130
 - **DV:** 6
-- **Armor:** 4 (Sarafan blessed plate, Armor: 4 vs Physical, Armor: 2 vs Magic)
+- **Armor:** 4 (Sarafan blessed plate)
 - **Initiative:** 2
 - **Movement:** 30 feet
 - **SE:** 18
@@ -711,9 +711,9 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 
 **Inquisitor's Judgment**: The Grand Inquisitor can sense undead and vampiric creatures within 120 feet, regardless of disguise, invisibility, or Mist Form. This detection is supernatural (holy instinct) and cannot be fooled by mundane means. Magical concealment requires a contested roll: the concealer's pool vs the Inquisitor's Will 6 + Observation 3 = 9d6.
 
-**Legendary Resistance (2/day)**: When the Grand Inquisitor fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day)**: When the Grand Inquisitor fails a save, it can choose to succeed instead.
 
-**Legendary Actions (2 per round)**:
+**Legendary Actions (3 per round)**:
 - **Move**: Move up to half speed without provoking opportunity attacks (1 action)
 - **Purifier's Mace**: Make one Purifier's Mace attack (1 action)
 - **Rally the Faithful** (2 actions): One Sarafan ally within 30 feet regains 4 HP and gains +1 DV until the start of the Grand Inquisitor's next turn
@@ -750,7 +750,7 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 ## 3.12 The Turning
 
 **Type**: Mortal/Undead Hybrid (Mid-Transformation)  
-**Threat Tier**: Elite (Strong, TV 7)  
+**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*  
 **Recommended Levels**: 5-9
 
 ### Lore
@@ -803,7 +803,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 
 **Feral Desperation**: While Bloodied, the Turning gains +2 dice on all attack rolls but loses the ability to distinguish friend from foe — it attacks the nearest creature regardless of allegiance. The GM controls targeting.
 
-**Tragic Wilderness**: A DR 4 Craft or Ritualism check as an Action can identify that this creature was recently human and that the transformation is incomplete. A DR 5 Ritualism check performed over 3 consecutive rounds (the caster must maintain concentration and remain within 5 feet) can halt the transformation, reverting the creature to an unconscious mortal with 1 HP and 3 Entropic. The Turning fights normally during this process.
+**Tragic Nature**: A DR 4 Craft or Ritualism check as an Action can identify that this creature was recently human and that the transformation is incomplete. A DR 5 Ritualism check performed over 3 consecutive rounds (the caster must maintain concentration and remain within 5 feet) can halt the transformation, reverting the creature to an unconscious mortal with 1 HP and 3 Entropic. The Turning fights normally during this process.
 
 ### Reactions
 **Lashing Reflex** (Reaction, when a creature enters melee range)
@@ -814,7 +814,7 @@ The Sarafan use Turnings as cautionary examples of vampiric corruption. Vampire 
 ### Tactics
 The Turning fights on fractured instinct rather than reason, but those instincts are still lethal. It rushes the nearest moving creature and tears with Rending Claws until someone falls, stumbles, or is pinned, then lunges in with Desperate Bite to feed and stabilize its failing body. It unleashes Blood Cry when surrounded, cornered, or overwhelmed by pain, buying space through panic rather than planning. Once Feral Desperation triggers, it stops distinguishing ally from enemy and becomes a roaming hazard that mauls whichever creature is closest, making the rescue option dramatically harder but still possible.
 
-**Encounter Design:** The Turning works best as a morally complex encounter. Place it in a location where the party has context — a village, a friend's home, a Sarafan prison. Pair with environmental storytelling (broken chains, scattered personal belongings, blood trails) to establish that this was someone. The Tragic Wilderness ability gives compassionate parties a path to salvation, but the 3-round Ritualism check is risky while the creature fights.
+**Encounter Design:** The Turning works best as a morally complex encounter. Place it in a location where the party has context — a village, a friend's home, a Sarafan prison. Pair with environmental storytelling (broken chains, scattered personal belongings, blood trails) to establish that this was someone. The Tragic Nature ability gives compassionate parties a path to salvation, but the 3-round Ritualism check is risky while the creature fights.
 
 ### Loot
 - Shredded personal effects (reveal identity of the victim) — **Trade Value**: Varies
@@ -824,7 +824,7 @@ The Turning fights on fractured instinct rather than reason, but those instincts
 ### Scaling Options
 **Early Turning** (Standard, TV 4): HP: 25, DV: 4, Fury 3, Blood 2. Remove Feral Desperation. Unstable Form always rolls 1–2 (the transformation is failing). DR 3 Ritualism check to save (only 1 round needed).
 
-**Complete Turning** (Boss, TV 11): HP: 70, DV: 6, Fury 6, Blood 5. Remove Tragic Wilderness (the person is gone). Add Vampiric Regeneration (regains 4 HP at the start of each turn). Add Legendary Actions (2 per round): Rending Claws (1), Blood Cry (2). The creature is now a full feral vampire in all but name.
+**Complete Turning** (Boss, TV 11): HP: 70, DV: 6, Fury 6, Blood 5. Remove Tragic Nature (the person is gone). Add Vampiric Regeneration (regains 4 HP at the start of each turn). Add Legendary Actions (2 per round): Rending Claws (1), Blood Cry (2). The creature is now a full feral vampire in all but name.
 
 ---
 
@@ -852,7 +852,7 @@ The Turning fights on fractured instinct rather than reason, but those instincts
 ---
 
 ### Encounter 2: The Heretic's Pyre (Levels 8-10)
-**Setup**: A **Forsaken Priest of Light** (Standard, TV 5) has raised 3 **Feralslave Ghouls** (Minions, TV 2 each, TV 6 total) using Ritualism of Twisted Faith. He's holed up in a ruined chapel, surrounded by 8 **Cult of the Abyss Fanatics** (Minions, TV 3 each, TV 24 total). Total TV: 35.
+**Setup**: A **Forsaken Priest of Light** (Standard, TV 5) has raised 3 **Feralslave Ghouls** (Minions, TV 2 each, TV 6 total) using Ritualism of Twisted Faith. He's holed up in a ruined chapel, surrounded by 8 **Cult of the Wheel Fanatics** (Minions, TV 3 each, TV 24 total). Total TV: 35.
 
 **Tactics**: Fanatics form a defensive line at the chapel entrance, using Martyrdom Lunge to soften up intruders. Ghouls swarm isolated PCs. The Priest stays in the back, using Dark Blessing on Ghouls and Corrupted Smite on casters.
 
@@ -890,7 +890,7 @@ The Turning fights on fractured instinct rather than reason, but those instincts
 
 **Sarafan Order**: Vampire hunters, holy warriors, and zealots. They view all dark magic as corrupt and will hunt PCs who use Necrotic spells or Corrupted Perks.
 
-**Cult of the Abyss**: Worshipers of the Elder God. They seek to hasten the collapse of Nosgoth and the return of the Wheel. They may ally with vampires who serve the Elder God's will.
+**Cult of the Wheel**: Worshipers of the Elder God. They seek to hasten the collapse of Nosgoth and the return of the Wheel. They may ally with vampires who serve the Elder God's will.
 
 **Witch-Hunter Guild**: Militaristic anti-magic enforcers. They hunt sorcerers, cultists, and corrupted individuals regardless of alignment.
 
@@ -984,7 +984,7 @@ When running **Elite** or **Boss**-tier mortals in climactic encounters, conside
 ## 3.13 Sarafan Warlord
 
 **Type**: Mortal Humanoid (Military Commander)  
-**Threat Tier**: Legendary (TV 13)  
+**Threat:** Legendary — Per-Hero 13 *(party of 4; total budget TV 52)*  
 **Recommended Levels**: 10-15
 
 ### Lore
@@ -995,9 +995,9 @@ A Warlord never fights alone. They command personal retinues of elite Inquisitor
 When a Sarafan Warlord marches to war, the earth trembles not from magic, but from the synchronized footsteps of their army.
 
 ### Statistics
-- **HP:** 100
+- **HP:** 196
 - **DV:** 6
-- **Armor:** 5 (Consecrated Sarafan Warplate — Armor: 5 vs Physical, 3 vs Magical)
+- **Armor:** 5 (Consecrated Sarafan Warplate)
 - **Initiative:** 4
 - **Movement:** 30 feet
 - **SE:** 20
@@ -1042,9 +1042,9 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 
 **Last Stand** (Passive): When reduced to 25 HP or below, the Warlord enters a state of righteous fury. They gain +2 dice on all attack rolls and their movement speed increases by 10 feet. This lasts until the Warlord is healed above 25 HP or falls.
 
-**Legendary Resistance (2/day):** If the Warlord fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If the Warlord fails a save, it can choose to succeed instead.
 
-### Legendary Actions (2 per round)
+### Legendary Actions (3 per round)
 - **Strike (1 action):** Make one Sanctified Greatsword attack.
 - **Tactics (1 action):** One mortal ally within 40 feet can immediately move up to half their speed or make one attack.
 - **Inspiring Cry (2 actions):** All mortal allies within 40 feet regain 5 HP and can immediately save against any ongoing condition.
@@ -1078,7 +1078,7 @@ When a Sarafan Warlord marches to war, the earth trembles not from magic, but fr
 ## 3.14 Sarafan Footsoldier
 
 **Type**: Mortal (Human, Soldier)
-**Threat Tier**: Minion (Level 5) - TV 3
+**Threat:** Minion — Per-Hero 0.75 *(party of 4; total budget TV 3)*
 **Recommended Levels**: 1-4
 
 ### Lore
@@ -1140,7 +1140,7 @@ Footsoldiers advance in organized groups of 4–8, using Formation Fighting to m
 ## 3.15 Sarafan Outrider
 
 **Type**: Mortal (Human, Scout/Ranger)
-**Threat Tier**: Standard (TV 5)
+**Threat:** Standard — Per-Hero 1.25 *(party of 4; total budget TV 5)*
 **Recommended Levels**: 3-7
 
 ### Lore
@@ -1202,7 +1202,7 @@ Outriders open combat from Stealth where possible, using Shadow Stealth for maxi
 ## 3.16 Commoner
 
 **Type**: Mortal (Human, Non-combatant)
-**Threat Tier**: Non-combatant (TV 0)
+**Threat:** Non-combatant — Per-Hero 0 *(party of 4; total budget TV 0)*
 
 ### Lore
 Most people in Nosgoth are just trying to survive. They're farmers, traders, fish-mongers, weavers, stable hands, and innkeepers who live in constant proximity to vampires, Sarafan patrols, spectral hazards, and the slow creep of Pillar-corruption. They are not soldiers. They are not heroes. They are the people who get caught in the middle, and how the party treats them defines what kind of story this is.
@@ -1248,7 +1248,7 @@ Commoners should appear in most urban and rural encounters as ambient inhabitant
 ## 3.17 Rune-Forger
 
 **Type**: Mortal (Human, Arcane Artisan)
-**Threat Tier**: Elite (TV 7)
+**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*
 **Recommended Levels**: 5-9
 
 ### Lore

@@ -14,6 +14,8 @@ The final tracker. Arc IV has no Carry Forward — it has outcomes. Use this fil
 | `party_operative_truth` | ___ | |
 | `betrayal_resolved` | ___ | |
 | `hylden_engagement` (from Arc II) | ___ | |
+| `last_witness` | ___ | Bearer + status; `named`/`protected` required for the V05 Witness ending |
+| `balance_reckoning` | ___ | Final-stretch counter carried from Arc III |
 
 ---
 
@@ -151,6 +153,50 @@ The single most important Arc IV tag: what did the party decide the complete Hea
 **Optional note (`heart_purpose_note`):** One sentence for table phrasing or declared moral frame.
 
 **Notes:** ___
+
+---
+
+<a id="last_witness"></a>
+### `last_witness`
+The campaign's throughline civilian, arriving at the Heath. Structured field: **who** they are, **what** they witnessed, **what** they fear forward, and their **status**. This tag is the precondition the finale has always assumed. `black_fulcrum_status: witness-anchored` (V02 Choice D) and `heart_purpose` Outcome D (V05) require a `named` or `protected` Witness present at the Heath. If the Witness arrives `protected`, Choice D is available cleanly. If `named` but unprotected, it is available but a hostile faction may contest the Witness's standing first. If `unnamed`, `exposed`, or `lost`, the Witness endings are closed unless the GM seeds a last-moment replacement before V02.
+
+**Status values:**
+
+| Value | Meaning |
+|-------|---------|
+| `unnamed` | Role vacant; the Witness endings are closed unless a replacement is seeded before V02 |
+| `named` | A specific survivor is present and identifiable; Witness endings available but the standing may be contested |
+| `protected` | The party kept them alive, free, and able to testify; Witness endings available cleanly |
+| `exposed` | Their identity and value are known to a hostile faction; they may be discredited or seized before they can be called |
+| `lost` | Killed, silenced, co-opted, or abandoned before the Heath; Witness endings closed |
+
+**Current bearer (name + role):** ___
+**What they witnessed (the cost they can testify to):** ___
+**What they fear forward:** ___
+**Current status:** ___
+**Session this was last updated:** ___
+
+---
+
+<a id="balance_reckoning"></a>
+### `balance_reckoning`
+**Single device — this is the final-arc mirror of the canonical Balance Reckoning Clock (0–4) defined in [../Faction-Tracker/Faction-Clocks.md](../Faction-Tracker/Faction-Clocks.md#balance-reckoning-clock). Do not run a second scale; carry the Arc III value forward and advance only per that file's Arc-End Update Cheat Sheet. This is the value read by the [Endgame Adjudication Matrix](03_Endgame-Adjudication-Matrix.md) Pressure Modifier — at 3–4 the Hall's judgment hardens and any outcome claimed as Balance must show what cost the victors accept personally.**
+
+The final tally of how often the party used a fragment to coerce an outcome rather than pay for it openly across the whole campaign — *withdrawal of grace*. **In Arc IV it advances** if the party spend the Heart coercively in V05 (forcing a seal or a settlement the assembly could not consent to). The closing value colors the campaign end-state: a high reckoning means the world the party leave behind is one where grace has to be bought, even where they technically succeeded.
+
+| Value | Meaning |
+|-------|---------|
+| `0` | The party paid their way openly throughout; the post-campaign world retains its customary graces |
+| `1` | A single coercive answer on record; one regional grace stays thinned into the epilogue |
+| `2` | Wardens, the Hall, or spectral witnesses treat the party as agents of imbalance; protective customs read as worn-out obligation in the aftermath |
+| `3` | A prior compromise returns as proof that order was preserved through coercion; the land withholds and aid demands explicit price |
+| `4` | The Hall's judgment hardens fully; the party's settlement holds, but nothing in it is freely given |
+
+**Current value (carry the Arc III total forward, then advance for any Arc IV use):** ___
+
+**Session this was last updated:** ___
+
+**Notes (which uses incremented it):** ___
 
 ---
 

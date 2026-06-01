@@ -24,15 +24,41 @@ The manual is divided into thematic chapters, each containing creatures appropri
 
 ### Threat Tiers
 
-TV (TV) is relative to the **Average Party Level (APL)**. A "standard" challenge for a level 5 party uses TV 5 enemies.
+TV (TV) measures a creature's absolute encounter-budget contribution. Most creatures are priced **relative to the Average Party Level (APL)**, while solo-capable threats use a **multiplicative absolute budget** so a single creature can stand against a whole party. Both models feed the same encounter math below.
 
-- **Minion (Relative TV = APL - 2):** Weak enemies; used in groups to pressure action economy
+- **Minion (Relative TV = APL − 2, minimum ~0.25):** Weak enemies; used in groups to pressure action economy
 - **Standard (Relative TV = APL + 0):** Baseline threat; reliable rank-and-file opponent
 - **Elite (Relative TV = APL + 2):** Strong specialist; high pressure, 1-2 unique abilities
-- **Boss (Relative TV = APL + 4):** Encounter centerpiece; 2 Legendary Actions/round
-- **Legendary (Relative TV = APL + 6+):** Campaign-defining threat; 3+ Legendary Actions/round
+- **Boss (Printed TV = Level × 3):** Solo-capable encounter centerpiece; 2 Legendary Actions/round
+- **Legendary (Printed TV = Level × 4 or more):** Campaign-defining solo threat; 3 Legendary Actions/round
 
-Threat tiers are descriptive benchmark bands. **The printed TV on a creature is always its final absolute encounter-budget contribution.** If a stat block says `TV 9` and its header says `Elite (Level 7)`, it means this creature is an Elite challenge for a Level 7 party.
+Threat tiers are descriptive benchmark bands. **The printed TV on a creature is always its final absolute encounter-budget contribution.** If a stat block says `TV 9` and its header says `Elite (Level 7)`, it means this creature is an Elite challenge for a Level 7 party. A solo Boss built for Level 7 is priced `7 × 3 = TV 21`; a solo Legendary for Level 18 is priced `18 × 4 = TV 72`.
+
+### Reading Threat Tiers — What Each Tier Means for the GM
+
+The tier label tells you, at a glance, *how to use the creature at the table*:
+
+| Tier | How to deploy it | Action budget |
+| :--- | :--- | :--- |
+| **Minion** | Field in packs of 3–6; dies in ~1 solid hit. Exists to soak PC actions and pressure positioning. | 1 Action each |
+| **Standard** | The rank-and-file soldier. Roughly 1 per PC makes an even fight. | 1 Action each |
+| **Elite** | A named threat or mini-boss. Field 1 (plus support) as the focus of a scene. | 1 Action + 1 special |
+| **Boss** | Can headline a fight against the whole party alone if tuned. | **2 Legendary Actions/round** |
+| **Legendary** | A campaign-defining solo. Survives the alpha strike; punishes loose play. | **3 Legendary Actions/round + 3/day Legendary Resistance** |
+
+### The Per-Hero Number (the headline on every stat block)
+
+Raw TV is an *encounter budget*, not a stat — a solo Legendary priced `TV 56` is meant to be the **whole** fight for a party. To keep that from reading like just another big number, every stat block leads with a **Per-Hero** figure:
+
+> **Per-Hero = Printed TV ÷ 4** (a standard party of four)
+
+So a `TV 56` solo displays as **Per-Hero 14** — i.e. "a fair fight for four Level-14 heroes." Use the Per-Hero number to eyeball whether a creature suits your party; use the **total budget TV** (shown in fine print) when you *combine* creatures into one encounter. Adjust the divisor for non-standard party sizes (÷3 for a trio, ÷5 for five players).
+
+**Stat-block header format used throughout this book:**
+
+> **Threat:** *Tier* — Per-Hero *N* *(party of 4; total budget TV X)*
+
+*Example:* `**Threat:** Legendary — Per-Hero 14 *(party of 4; total budget TV 56)*`
 
 **Calculating Encounter TV:**
 - **Party TV** = Sum of all PC levels (e.g., 4 players at Level 5 = Party TV 20).
@@ -44,7 +70,7 @@ Threat tiers are descriptive benchmark bands. **The printed TV on a creature is 
 - **Deadly:** Total Enemy TV is 175-200% of Party TV.
 - **Legendary:** Total Enemy TV is 250%+ of Party TV.
 
-*Example: A Level 5 party of 4 has Party TV 20. A "Challenging" encounter (TV 25-30) could be one TV 11 Boss (Level 7) supported by two TV 9 Elites (Level 7).*
+*Example: A Level 5 party of 4 has Party TV 20. A "Challenging" encounter (Total Enemy TV 25-30) could be one solo Boss built for Level 5 (5 × 3 = TV 15) supported by a pair of Standards (TV 5 each) and two Minions (TV ~0.5 each) — roughly TV 26. Alternatively, drop the minions and field the same TV 15 Boss alongside two Elites (TV 7 each) for a tighter TV 29.*
 
 ---
 
@@ -114,7 +140,7 @@ Each creature entry includes:
 **Name & Classification**
 - **Type:** Undead, Aberration, Beast, etc.
 - **Affinity:** Spectral, Hybrid, or Material (omit if Material — Material is the default)
-- **Threat Tier:** Minion, Standard, Elite, Boss, or Legendary, with the printed encounter-budget TV shown in parentheses
+- **Threat:** The tier (Minion, Standard, Elite, Boss, or Legendary), the **Per-Hero** number (printed TV ÷ 4), and the total budget TV in fine print — e.g. `**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*`
 
 **Lore & Behavior**
 Brief description of the creature's nature, origins, and role in Nosgoth.

@@ -26,13 +26,14 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 | **Soul Reaver** | Ritual and Forbidden spells tied to spectral movement, realm crossing, and soul disruption | Known spells | 2 | +1 spell at Levels 3, 6, 9, 12, 15, 18 |
 | **Shadowmancer** | Forbidden and Ritual spells tied to darkness, fear, concealment, and shadow travel | Known spells | 2 | +1 spell at Levels 3, 6, 9, 12, 15, 18 |
 | **Sangromancer** | Blood spells and select blood-rite Rituals | Known spells | 3 | +1 spell at every even-numbered level |
-| **Glyphwright** | Glyph spells and Rituals tied to wards, traps, sigils, and magical infrastructure | Prepared spells | 3 prepared | Prepare 3 spells at Level 1, then +1 prepared spell at Levels 4, 8, 12, 16, 20 |
+| **Glyphwright** | Glyph spells and Rituals tied to wards, traps, sigils, and magical infrastructure | Prepared spells | 3 prepared | Prepare 3 spells at Level 1, then +1 prepared spell at every even-numbered level (Levels 2–20) |
 | **Warden of Balance** | Ritual, Glyph, and support spells tied to time, judgment, protection, and cleansing | Prepared spells | 2 prepared | Prepare 2 spells at Level 1, then +1 prepared spell at Levels 4, 8, 12, 16, 20 |
 | **Hylden Warlock** | Forbidden spells plus select Ritual and Glyph effects tied to entropy, decay, and prophecy | Known spells | 3 | +1 spell at every even-numbered level |
 
 ## 3.2 Class Progression
 
-*   **Starting Stats**: 5–6 skill points.
+*   **Starting Skill Points**: 5 or 6 at Level 1, set by class (see the Starting Skill Points by Class table below).
+*   **Class Training (free Key Skill ranks)**: At Level 1, your class grants **1 free rank in each of two of its Key Skills** (your choice from that class's Key Skills list), in addition to your starting skill points. See Chapter 6 §6.4.
 *   **Skill Point Gain**: +1 skill point per level.
 *   **Attribute Growth**: Increase one Core Attribute by +1 at Levels 4, 8, 12, 16, and 20 (Max 5; 6 for characters with Lineage Paragon features).
 *   **Hit Point Progression**: Your Max HP equals your class's starting HP formula, plus its listed HP gain per level after Level 1, plus any class durability milestone bonuses. If the attribute named in your Starting HP line increases, your Max HP increases by 1 immediately.
@@ -47,6 +48,21 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 *   **Class Perks**: Gain one Class Perk every level (1–20). At **Levels 5, 10, 15, and 20**, choose between two options — each represents a different build path for that class.
 *   **Universal Perks**: Gain one Universal Perk at Levels 1, 3, 5, 6, 8, 10, 11, 13, 15, 16, 18, and 20. (See Chapter 4).
 *   **DV Cap**: A character's DV from attributes, armor, and perks cannot exceed 6. Temporary cover and active defense reactions can push effective DV higher.
+
+### Starting Skill Points by Class
+
+Skill-focused classes (whose identity lives in breadth of skills) begin with 6; classes whose power budget is concentrated in a resource pool, spell list, or combat math begin with 5. Every class additionally receives Class Training (above): 2 free Key Skill ranks at creation.
+
+| Class | Starting Skill Points | Why |
+| :--- | :---: | :--- |
+| Blood Knight | 5 | Combat-forward; budget sits in HP and weapon math |
+| Soul Reaver | 5 | Martial-spectral hybrid; power in resource/combat |
+| **Shadowmancer** | **6** | Stealth / face / utility specialist |
+| Sangromancer | 5 | Dedicated blood-ritual caster |
+| Glyphwright | 5 | Dedicated glyph caster |
+| **Dreadblade** | **6** | Assassin / infiltration skill expert |
+| **Warden of Balance** | **6** | Versatile support / lore / face generalist |
+| Hylden Warlock | 5 | Dedicated corruption caster |
 
 ## 3.3 Classes
 
@@ -151,7 +167,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Role**: Stealth / Controller / Summoner
 **Core Attributes**: Shadow, Soul
 **Starting HP**: 8 + Soul (+3 per level; +2 Max HP at Levels 5, 10, 15, and 20)
-**Key Skills**: Stealth, Deception, Thievery, Possession, Observation
+**Key Skills**: Stealth, Persuasion, Infiltration, Ethereal Mastery, Observation
 
 #### Spell Access
 - **Casting Model:** Known spells.
@@ -202,7 +218,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Role**: Blood Mage / Battlefield Control
 **Core Attributes**: Blood, Soul
 **Starting HP**: 9 + Blood (+3 per level; +3 Max HP at Levels 5, 10, 15, and 20)
-**Key Skills**: Rituals, Forbidden Knowledge, Concentration, Intimidation, Craft (Alchemy)
+**Key Skills**: Ritualism, Forbidden Knowledge, Concentration, Intimidation, Craft (Alchemy)
 
 > **Sidebar: Blood and the Spectral Realm**
 > Sangromancers are wholly Material-realm casters. Their spells require living blood and cannot function in the Spectral Realm. A Sangromancer who crosses the veil retains their BP pool but cannot access it until they return to the Material Realm.
@@ -212,7 +228,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 
 #### Spell Access
 - **Casting Model:** Known spells.
-- **Spell Access:** You may learn Blood spells freely from your class list and Ritual spells tied to blood rites, fleshcraft, corpse-work, and vitae transfer. **Note: All spells with the Blood tag or using the Blood attribute require a physical presence (Material only) unless you have a perk that says otherwise.**
+- **Spell Access:** You may learn Blood spells freely from your class list and the handful of Ritual spells tied to blood rites and vitae transfer (such as **Life Channel** and **Soulforge Resurrection**). **Note: All spells with the Blood tag or using the Blood attribute require a physical presence (Material only) unless you have a perk that says otherwise.**
 - **Starting Spells:** Start with 3 spells from your class spell list.
 - **Gain Rate:** Learn 1 additional spell at every even-numbered level.
 - **Class Features vs. Spells:** **Blood Puppet**, **Crimson Bind**, and **Hemodominate** are this class's Signature Upgrades of the generic spells of the same name. If you learn both versions, references to the class feature always use the class-feature text.
@@ -258,13 +274,13 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Role**: Support / Utility Caster
 **Core Attributes**: Soul, Will
 **Starting HP**: 8 + Soul (+3 per level; +2 Max HP at Levels 5, 10, 15, and 20)
-**Key Skills**: Glyphcasting, Rituals, Forbidden Knowledge, Craft, Observation
+**Key Skills**: Glyphcasting, Ritualism, Forbidden Knowledge, Craft, Observation
 
 #### Spell Access
 - **Casting Model:** Prepared spells.
 - **Spell Access:** You prepare Glyph spells and Rituals tied to wards, traps, sigils, arcane infrastructure, delay effects, and magical analysis.
 - **Starting Spells:** Prepare 3 spells from your class spell list at Level 1.
-- **Gain Rate:** Increase the number of prepared spells by 1 at Levels 2, 4, 6, 8, 12, 16, and 20. You may change your prepared spells after a long rest while you have access to your tools, sigils, or workshop kit.
+- **Gain Rate:** Increase the number of prepared spells by 1 at every even-numbered level (Levels 2 through 20). You may change your prepared spells after a long rest while you have access to your tools, sigils, or workshop kit.
 - **Class Features vs. Spells:** **Flame Sigil**, **Chrono Weave**, and **Nexus Weaving** are signature class techniques rather than learned spells. They do not count as preparing similarly named Chapter 5 options unless a feature says otherwise.
 
 #### Core Abilities
@@ -308,7 +324,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Role**: Assassin / Burst Damage
 **Core Attributes**: Shadow, Fury
 **Starting HP**: 9 + Shadow (+3 per level; +3 Max HP at Levels 5, 10, 15, and 20)
-**Key Skills**: Stealth, Weapon Mastery, Thievery, Evasion, Observation
+**Key Skills**: Stealth, Weapon Mastery, Infiltration, Evasion, Observation
 
 #### Core Abilities
 *   **Blink Strike** (Action, 1 SE): Teleport up to 30 feet and make a melee attack with Advantage.
@@ -351,9 +367,16 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Role**: Judge / Fate Caster / Support
 **Core Attributes**: Will, Soul
 **Starting HP**: 11 + Will (+4 per level; +1 Max HP at Levels 5, 10, 15, and 20)
-**Key Skills**: Ritualism, Glyphcasting, Insight, Persuasion, Religion
+**Key Skills**: Ritualism, Glyphcasting, Insight, Persuasion, Lore
 
 > **Play Note:** At Levels 1–9, the Warden plays as a reactive support class — you protect allies with Guardian's Edict, freeze individual threats with Time Stasis, and respond with Fate Align and Cycle Command. The class's proactive identity emerges at Level 10 (Eternal Balance: take a full extra turn) and Level 15 (Perfected Equilibrium: double damage against high-Corruption enemies). In Nosgoth campaigns where Corruption-tainted enemies are common, the Warden becomes the hardest-hitting character in exactly the encounters that matter most narratively.
+
+#### Spell Access
+- **Casting Model:** Prepared spells.
+- **Spell Access:** You prepare Ritual, Glyph, and support spells tied to time, judgment, protection, and cleansing.
+- **Starting Spells:** Prepare 2 spells from your class spell list at Level 1.
+- **Gain Rate:** Increase the number of prepared spells by 1 at Levels 4, 8, 12, 16, and 20. You may change your prepared spells after a long rest while you have access to your focus or holy symbol.
+- **Class Features vs. Spells:** Your Core Abilities and Class Perks are class features unless they explicitly reference a Chapter 5 spell by name. **Time Stasis** (3 SE) and **Balance Strike** (1 SE) are class features rather than prepared spells.
 
 #### Core Abilities
 *   **Time Stasis** (Action, 3 SE): Choose one creature you can see within 30 feet or one unattended object you can touch. A creature must succeed on a DR 3 Will save or be unable to move, take actions, or take reactions until the end of its next turn. An object is frozen in place for 1 minute. The SE cost reduces to 2 at Level 12 when Stabilizing Presence is gained.
@@ -396,7 +419,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 **Role**: Dark Mage / Debuffer
 **Core Attributes**: Soul, Will
 **Starting HP**: 8 + Soul (+3 per level; +2 Max HP at Levels 5, 10, 15, and 20)
-**Key Skills**: Forbidden Knowledge, Glyphcasting, Rituals, Deception, Concentration
+**Key Skills**: Forbidden Knowledge, Glyphcasting, Ritualism, Persuasion, Concentration
 
 #### Spell Access
 - **Casting Model:** Known spells.

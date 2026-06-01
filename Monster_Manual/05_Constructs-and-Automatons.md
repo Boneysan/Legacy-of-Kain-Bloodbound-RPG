@@ -37,7 +37,7 @@ Some were created by the Sarafan Order to fight vampires with tireless efficienc
 ## 5.1 Sarafan Clockwork Knight
 
 **Type**: Construct (Mechanical Warrior)  
-**Threat Tier**: Elite (TV 8)  
+**Threat:** Elite — Per-Hero 2 *(party of 4; total budget TV 8)*  
 **Recommended Levels**: 5-10
 
 ### Lore
@@ -51,7 +51,7 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 - **HP:** 50
 - **DV:** 6
 - **Save DR:** 3 (Physical), 0 (Mental, immune)
-- **Armor:** 4 Physical, 2 Spectral/Entropic (blessed plate)
+- **Armor:** 4 (blessed plate)
 - **Initiative:** 1
 - **Movement:** 25 feet
 - **SE:** N/A
@@ -79,7 +79,7 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 - **Special:** Silvered bolts. If multiple Clockwork Knights coordinate, they can all fire at the same target with Advantage (GM determines if they're programmed for this).
 
 ### Abilities
-**Construct Wilderness**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 3, restores 10 HP).
+**Construct Nature**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 3, restores 10 HP).
 
 **Glyph-Powered Core**: The Knight is powered by holy glyphs. It has Advantage on saves vs Entropic damage. However, if hit by Lightning damage, the Knight makes a DR 3 Focus save. On failure, it is **Stunned** for 1 round (overload). On success, no effect.
 
@@ -105,14 +105,14 @@ Their core weakness is their rigid programming. They cannot adapt to unexpected 
 - Silvered crossbow bolts (1d6 bolts) - **Trade Value**: 12 supplies
 
 ### Scaling Options
-**Veteran Clockwork Knight** (Boss, TV 12): +20 HP, increase Fury and Weapon Mastery to 5. Add "Command Protocol" ability (once per turn, the Knight can order one allied construct within 30 feet to make Shield Bash or move up to its Movement without spending its own Action or Reaction). Add 2 Legendary Actions per round: Move, Attack, or Shield Wall (costs 2 actions; one allied construct within 10 feet gains +1 DV until the start of the Knight's next turn).
+**Veteran Clockwork Knight** (Boss, TV 24): +20 HP, increase Fury and Weapon Mastery to 5. Add "Command Protocol" ability (once per turn, the Knight can order one allied construct within 30 feet to make Shield Bash or move up to its Movement without spending its own Action or Reaction). Add 2 Legendary Actions per round: Move, Attack, or Shield Wall (costs 2 actions; one allied construct within 10 feet gains +1 DV until the start of the Knight's next turn).
 
 ---
 
 ## 5.2 Pillar-Guardian Sentinel
 
 **Type**: Construct (Ancient Guardian)  
-**Threat Tier**: Boss (TV 13)  
+**Threat:** Boss — Per-Hero 9.75 *(party of 4; total budget TV 39)*  
 **Recommended Levels**: 10-15
 
 ### Lore
@@ -123,10 +123,10 @@ Sentinels stand dormant for centuries, appearing as statues or architectural fea
 Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it guards. Some wield massive stone weapons. Others reshape their bodies mid-combat, growing new limbs or armor plates.
 
 ### Statistics
-- **HP:** 120
+- **HP:** 150
 - **DV:** 5
 - **Save DR:** 4 (Physical), 3 (Magical), 0 (Mental, immune)
-- **Armor:** 5 Physical, 3 Elemental, 1 Magic (stone body)
+- **Armor:** 5 (stone body)
 - **Initiative:** 1
 - **Movement:** 30 feet
 - **SE:** 50
@@ -160,17 +160,19 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 - **Special:** Once per turn if the Sentinel didn't move. All creatures in range make a DR 4 Fury save. On failure, a creature is knocked **Prone**. On success, no effect.
 
 ### Abilities
-**Construct Wilderness**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means.
+**Construct Nature**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means.
 
 **Regeneration (Ambient Magic)**: The Sentinel regains 10 HP at the start of each turn, unless it's in an area with no magical energy (rare). This regeneration can only be stopped by destroying its core (see below).
 
 **Massive Size**: The Sentinel occupies a 3x3 tile space. It has 15-foot reach on melee attacks. Creatures can move through its space but treat it as difficult terrain.
 
-**Stone Armor**: The Sentinel has Armor: 5 vs Physical, Armor: 3 vs Elemental, and Armor: 1 vs Magic. Attacks with the "Armor Piercing" property reduce these by 2.
+**Stone Armor**: The Sentinel has Armor: 5. Attacks with the "Armor Piercing" property reduce this by 2.
 
 **Guardian Protocol**: The Sentinel will not attack creatures who are not threatening the Pillar site or attempting to steal artifacts. Clever players can negotiate or withdraw to avoid combat. However, once combat begins, the Sentinel fights until destroyed or intruders flee the area.
 
 **Core Weakness**: Hidden within the Sentinel's chest is a magical core (DV: 8, 30 HP). If a player can specifically target the core (requires a called shot with Disadvantage and DR 4), they can damage it directly. If the core is destroyed, the Sentinel collapses (instant death). (A called shot requires the attacker to declare they are targeting the core before rolling. The attack is made at Disadvantage. If it hits, apply damage directly to the core, bypassing the Sentinel's normal Armor.)
+
+**Legendary Resistance (3/day)**: When the Sentinel fails a save, it can choose to succeed instead.
 
 **Legendary Actions (3 per round)**: The Sentinel can use Legendary Actions at the end of another creature's turn. It has 3 Legendary Actions per round.
 - **Move**: The Sentinel moves up to half its movement speed.
@@ -195,14 +197,14 @@ Each Sentinel is unique, bearing glyphs and designs specific to the Pillar it gu
 - Ancient glyphs (inscribed on the Sentinel's body) - **Trade Value**: Priceless for historians, can be copied for lore
 
 ### Scaling Options
-**Awakened Pillar Sentinel** (Legendary, TV 18): +50 HP, increase Fury to 7, Glyphcasting to 5. Add "Pillar Resonance" ability (the Sentinel can teleport to any Pillar site within 1 mile as an action once per day). Increase Legendary Actions to 4 per round. Add "Summon Stone Guardians" Legendary Action (costs 3 actions, summons 1d3 Spellbound Golems to assist).
+**Awakened Pillar Sentinel** (Legendary, TV 52): +50 HP, increase Fury to 7, Glyphcasting to 5. Add "Pillar Resonance" ability (the Sentinel can teleport to any Pillar site within 1 mile as an action once per day). Increase Legendary Actions to 4 per round. Add "Summon Stone Guardians" Legendary Action (costs 3 actions, summons 1d3 Spellbound Golems to assist).
 
 ---
 
 ## 5.3 Spellbound Golem
 
 **Type**: Construct (Magical Servant)  
-**Threat Tier**: Standard (TV 5)  
+**Threat:** Standard — Per-Hero 1.25 *(party of 4; total budget TV 5)*  
 **Recommended Levels**: 3-7
 
 ### Lore
@@ -216,7 +218,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 - **HP:** 30
 - **DV:** 3
 - **Save DR:** 2 (Physical), 1 (Magical), 0 (Mental, immune)
-- **Armor:** 3 Physical, 1 Elemental (stone/clay body)
+- **Armor:** 3 (stone/clay body)
 - **Initiative:** 1
 - **Movement:** 20 feet
 - **SE:** N/A
@@ -242,7 +244,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
   - **Force**: Pushed back 10 feet
 
 ### Abilities
-**Construct Wilderness**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Forbidden Knowledge, DR 2, restores 10 HP).
+**Construct Nature**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Forbidden Knowledge, DR 2, restores 10 HP).
 
 **Elemental Body**: The Golem has Resistance to one elemental damage type (Fire, Cold, Lightning, or Acid, chosen when created).
 
@@ -273,7 +275,7 @@ Golems are common in ancient ruins, left behind by long-dead mages. They'll atta
 ## 5.4 Iron-Cage Beast
 
 **Type**: Construct (Hylden Bio-Construct)  
-**Threat Tier**: Elite (TV 10)  
+**Threat:** Elite — Per-Hero 2.5 *(party of 4; total budget TV 10)*  
 **Recommended Levels**: 7-12
 
 ### Lore
@@ -287,7 +289,7 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 - **HP:** 42
 - **DV:** 6
 - **Save DR:** 2 (Physical), 3 (Soul), 1 (Mental)
-- **Armor:** 2 Physical, 1 Soul (iron frame + tough hide)
+- **Armor:** 2 (iron frame + tough hide)
 - **Initiative:** 5
 - **Movement:** 45 feet
 - **SE:** N/A
@@ -315,7 +317,7 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 - **Special:** Once per turn if the Beast moved at least 15 feet. The target makes a DR 3 Fury save. On failure, the target is knocked **Prone**. On success, no effect.
 
 ### Abilities
-**Hybrid Wilderness**: The Beast is part construct, part undead. It's immune to **Poisoned** and disease, but vulnerable to both Radiant damage (harms the soul) and Lightning damage (disrupts the iron frame). Both deal +2 damage.
+**Hybrid Nature**: The Beast is part construct, part undead. It's immune to **Poisoned** and disease, but vulnerable to both Radiant damage (harms the soul) and Lightning damage (disrupts the iron frame). Both deal +2 damage.
 
 **Agonized Fury**: While Bloodied, the Beast enters a rage. It gains +2 dice on all attacks and movement speed increases by 15 feet per turn. However, it can no longer use Soul Scream (the soul is too fragmented).
 
@@ -340,14 +342,14 @@ Iron-Cage Beasts are common in Hylden ruins and battlefields. They're often foun
 - Hylden bio-glyph (etched into the frame) - **Trade Value**: 30 supplies, studied by scholars to understand Hylden techniques
 
 ### Scaling Options
-**Alpha Iron-Cage Beast** (Boss, TV 14): +20 HP, increase Fury to 5, Unarmed Combat to 5. Remove Erratic Behavior (the soul has been fully dominated). Add "Coordinated Assault" ability (once per turn, command one allied Beast within 30 feet to move up to half speed or make one Pounce attack without spending its own Action or Reaction). Add 2 Legendary Actions per round: Move, Attack, or Soul Scream.
+**Alpha Iron-Cage Beast** (Boss, TV 30): +20 HP, increase Fury to 5, Unarmed Combat to 5. Remove Erratic Behavior (the soul has been fully dominated). Add "Coordinated Assault" ability (once per turn, command one allied Beast within 30 feet to move up to half speed or make one Pounce attack without spending its own Action or Reaction). Add 2 Legendary Actions per round: Move, Attack, or Soul Scream.
 
 ---
 
 ## 5.5 Glyphfused Automaton
 
 **Type**: Construct (Arcane Guardian)  
-**Threat Tier**: Elite (TV 11)  
+**Threat:** Elite — Per-Hero 2.75 *(party of 4; total budget TV 11)*  
 **Recommended Levels**: 8-13
 
 ### Lore
@@ -361,7 +363,7 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 - **HP:** 55
 - **DV:** 5
 - **Save DR:** 3 (all saves), 0 (Mental, immune)
-- **Armor:** 3 Physical, 4 Magic (arcane plating)
+- **Armor:** 3 (arcane plating; Resistant to Force and Spectral damage — half damage)
 - **Initiative:** 5
 - **Movement:** 35 feet
 - **SE:** 25
@@ -389,7 +391,7 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 - **Special:** Recharge 5-6, costs 3 SE. The Automaton targets one creature and attempts to trap them in a cage of glyphs. The target makes a DR 4 Shadow save. On failure, the target is **Restrained**. The target can attempt to break free with a DR 4 Fury + Athletics or Focus + Forbidden Knowledge roll at the start of each turn. The prison lasts up to 3 rounds. On success, no effect.
 
 ### Abilities
-**Construct Wilderness**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Forbidden Knowledge, DR 4, restores 15 HP).
+**Construct Nature**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Forbidden Knowledge, DR 4, restores 15 HP).
 
 **Glyph Adaptation (once per encounter)**: After being hit by a damage type, the Automaton gains Resistance to that type until the end of its next turn.
 
@@ -416,14 +418,14 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 - Tactics cipher (allows control of other automatons, if deciphered) - **Trade Value**: 60 supplies (or story leverage)
 
 ### Scaling Options
-**Master Glyphfused Automaton** (Boss, TV 15): +20 HP, increase Soul and Glyphcasting to 6. Add "Glyph Overload" ability (explodes in a 15-foot radius when destroyed; creatures in the area make a DR 4 Shadow save. On failure, a creature takes 8 Force damage. On success, it takes half damage). Add 2 Legendary Actions per round: Phase Step, Glyph Bolt, or Glyph Prison (costs 2 actions).
+**Master Glyphfused Automaton** (Boss, TV 33): +20 HP, increase Soul and Glyphcasting to 6. Add "Glyph Overload" ability (explodes in a 15-foot radius when destroyed; creatures in the area make a DR 4 Shadow save. On failure, a creature takes 8 Force damage. On success, it takes half damage). Add 2 Legendary Actions per round: Phase Step, Glyph Bolt, or Glyph Prison (costs 2 actions).
 
 ---
 
 ## 5.6 Hylden Soul-Tower
 
 **Type**: Construct (Hylden Siege Engine)  
-**Threat Tier**: Boss (TV 15)  
+**Threat:** Boss — Per-Hero 11.25 *(party of 4; total budget TV 45)*  
 **Recommended Levels**: 12-17
 
 ### Lore
@@ -434,10 +436,10 @@ The Hylden used Soul-Towers to besiege cities and break fortress walls. They're 
 Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those that remain lie dormant in ancient battlefields, waiting for Hylden agents to reactivate them. When awakened, they're apocalyptic threats capable of razing entire settlements.
 
 ### Statistics
-- **HP:** 200
+- **HP:** 170
 - **DV:** 4 (large target, slow)
 - **Save DR:** 5 (Physical), 4 (Magical), 0 (Mental, immune)
-- **Armor:** 6 Physical, 4 Elemental, 2 Soul (bio-metal plating)
+- **Armor:** 6 (bio-metal plating)
 - **Initiative:** 1
 - **Movement:** 20 feet
 - **SE:** 50
@@ -471,7 +473,7 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 - **Special:** Once per turn if the Tower moved at least 10 feet. Targets make a DR 5 Shadow save. On failure, a target is knocked **Prone** and takes an additional 4 damage (trampled underfoot). On success, no effect.
 
 ### Abilities
-**Construct Wilderness**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means.
+**Construct Nature**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means.
 
 **Colossal Size**: The Soul-Tower occupies a 4x4 tile space. It has 20-foot reach on melee attacks. Creatures can move through its space but treat it as difficult terrain.
 
@@ -482,7 +484,9 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 - Soul-Powered Regeneration is reduced by 5 HP each time it triggers.
 - When all three cores are destroyed, the Tower's regeneration stops, and it loses its final 50 HP (collapsing).
 
-**Siege Armor**: The Tower has Armor: 6 vs Physical, Armor: 4 vs Elemental, and Armor: 2 vs Soul. Attacks with "Armor Piercing" reduce these by 3.
+**Siege Armor**: The Tower has Armor: 6. Attacks with "Armor Piercing" reduce this by 3.
+
+**Legendary Resistance (3/day)**: When the Soul-Tower fails a save, it can choose to succeed instead.
 
 **Legendary Actions (4 per round)**: The Soul-Tower can use Legendary Actions at the end of another creature's turn. It has 4 Legendary Actions per round.
 - **Move**: The Tower moves up to half its movement speed.
@@ -508,16 +512,16 @@ Most Soul-Towers were destroyed or sealed after the Hylden were banished. Those 
 - Trapped souls (if freed, 1d6 grateful spirits) - **Trade Value**: Priceless for story purposes (may provide information, rewards, or curses)
 
 ### Scaling Options
-**Awakened Soul-Tower** (Legendary, TV 20): +100 HP, increase Fury to 8, Soul to 7. Add 2 additional Soul Cores (5 total, each with 50 HP). Add "Soul Storm" ability (60-foot radius, 18 Spectral damage, Recharge 4-6). Increase Legendary Actions to 5 per round. Add "Summon Hylden Constructs" Legendary Action (costs 3 actions, summons 1d3 Iron-Cage Beasts).
+**Awakened Soul-Tower** (Legendary, TV 60): +100 HP, increase Fury to 8, Soul to 7. Add 2 additional Soul Cores (5 total, each with 50 HP). Add "Soul Storm" ability (60-foot radius, 18 Spectral damage, Recharge 4-6). Increase Legendary Actions to 5 per round. Add "Summon Hylden Constructs" Legendary Action (costs 3 actions, summons 1d3 Iron-Cage Beasts).
 
-*GM Note: The Soul-Tower is designed as a 'siege encounter' — an entire session's challenge, not a single combat. Its astronomical effective HP (200 + 120 in cores + regeneration) is intentional but requires multiple approaches: the party may need to disable cores, interrupt regeneration, or find the Tower's power source. Consider telegraphing the Tower's mechanics in advance so players can prepare.*
+*GM Note: The Soul-Tower is designed as a 'siege encounter' — an entire session's challenge, not a single combat. Its astronomical effective HP (170 + 120 in cores + regeneration) is intentional but requires multiple approaches: the party may need to disable cores, interrupt regeneration, or find the Tower's power source. Consider telegraphing the Tower's mechanics in advance so players can prepare.*
 
 ---
 
 ## 5.7 Bound-Logic Scribe
 
 **Type**: Construct (Information Archive)  
-**Threat Tier**: Standard (TV 4)  
+**Threat:** Standard — Per-Hero 1 *(party of 4; total budget TV 4)*  
 **Recommended Levels**: 2-6
 
 ### Lore
@@ -531,7 +535,7 @@ Scribes are valuable sources of information. They can answer questions about the
 - **HP:** 28
 - **DV:** 4
 - **Save DR:** 2 (Physical), 3 (Magical), 0 (Mental, immune)
-- **Armor:** 2 Physical, 3 Magic (bronze frame)
+- **Armor:** 2 (bronze frame; Resistant to Force and Spectral damage — half damage)
 - **Initiative:** 4
 - **Movement:** 30 feet
 - **SE:** 12
@@ -559,7 +563,7 @@ Scribes are valuable sources of information. They can answer questions about the
 - **Special:** Once per encounter, costs 3 SE. The Scribe overwhelms targets with a telepathic torrent of information. Targets make a DR 3 Will save. On failure, a target is **Confused** (Disadvantage on all rolls for 2 rounds, as their minds reel from information overload). On success, no effect.
 
 ### Abilities
-**Construct Wilderness**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft or Forbidden Knowledge, DR 2, restores 10 HP).
+**Construct Nature**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft or Forbidden Knowledge, DR 2, restores 10 HP).
 
 **Living Archive**: The Scribe has encyclopedic knowledge of its archive's contents. Players can ask it questions about history, magic, creatures, or lore. It answers truthfully but in precise, formal language. It will not answer questions unrelated to its archive.
 
@@ -591,7 +595,7 @@ Scribes are valuable sources of information. They can answer questions about the
 ## 5.8 Obsidian Drone
 
 **Type**: Construct (Hylden Scout)  
-**Threat Tier**: Minion (TV 3)  
+**Threat:** Minion — Per-Hero 0.75 *(party of 4; total budget TV 3)*  
 **Recommended Levels**: 1-4
 
 ### Lore
@@ -627,7 +631,7 @@ Drones are often the first encounter players have with Hylden technology. Their 
 - **Special:** Once per turn if the Drone flew at least 10 feet. The Drone slams into a target and immediately flies away (no opportunity attack). If multiple Drones coordinate, they can all Divebomb the same target on the same turn.
 
 ### Abilities
-**Construct Wilderness**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 2, restores 5 HP).
+**Construct Nature**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 2, restores 5 HP).
 
 **Flight**: The Drone can fly, ignoring ground-based obstacles and terrain. While flying, melee attackers have Disadvantage unless they can reach the Drone.
 
@@ -657,7 +661,7 @@ Drones are often the first encounter players have with Hylden technology. Their 
 ## 5.9 Rune-Forged Warden
 
 **Type**: Construct (Ancient Guardian)  
-**Threat Tier**: Elite (Strong, TV 8)  
+**Threat:** Elite — Per-Hero 2 *(party of 4; total budget TV 8)*  
 **Recommended Levels**: 6-10
 
 ### Lore
@@ -669,7 +673,7 @@ Wardens stand ten feet tall, their bodies a seamless fusion of grey stone and si
 - **HP:** 60
 - **DV:** 5
 - **Save DR:** 3 (Physical), 2 (Mental, partial)
-- **Armor:** 4 Physical, 2 Magic (runic plating)
+- **Armor:** 4 (runic plating)
 - **Initiative:** 2
 - **Movement:** 25 feet
 - **SE:** 10
@@ -697,7 +701,7 @@ Wardens stand ten feet tall, their bodies a seamless fusion of grey stone and si
 - **Special:** A minor ranged attack for targets beyond halberd reach. The Warden fires a bolt of condensed runic energy from its eyes.
 
 ### Abilities
-**Construct Wilderness**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 3, restores 10 HP per success).
+**Construct Nature**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease, and mental effects. Does not need to eat, sleep, or breathe. Cannot be healed by normal means (requires repair with Focus + Craft, DR 3, restores 10 HP per success).
 
 **Runic Shielding**: At the start of each of the Warden's turns, it generates a shield of 5 temporary HP (runic barrier). This shield absorbs damage before HP and does not stack.
 
@@ -725,14 +729,14 @@ The Rune-Forged Warden does not pursue. It holds position and punishes anyone wh
 ### Scaling Options
 **Runic Sentry** (Standard, TV 5): HP: 25, DV: 4, Fury 3, Focus 3. Remove Glyph Pulse and Runic Shielding. Armor: 2. Zone of Denial deals 2 Force damage.
 
-**Pillar-Forged Warden** (Boss, TV 12): HP: 80, DV: 6, Fury 5, Focus 5, Glyphcasting 5. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Rune-Etched Halberd (1), Glyph Pulse (2, only if recharged). Runic Shielding generates 6 temporary HP. Zone of Denial deals 4 Force damage.
+**Pillar-Forged Warden** (Boss, TV 24): HP: 80, DV: 6, Fury 5, Focus 5, Glyphcasting 5. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Rune-Etched Halberd (1), Glyph Pulse (2, only if recharged). Runic Shielding generates 6 temporary HP. Zone of Denial deals 4 Force damage.
 
 ---
 
 ## 5.10 Restoration Engine
 
 **Type**: Construct (Support, Ancient)
-**Threat Tier**: Elite (TV 7)
+**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*
 **Recommended Levels**: 4–9
 
 ### Lore
@@ -770,7 +774,7 @@ Most existing Restoration Engines are millennia old, and many have degraded — 
 
 **Triage Protocol (Passive)**: The Restoration Engine prioritizes Bloodied allies. If any ally it can see is Bloodied, the Engine will use Repair Beam on that ally on its turn before taking any other action, spending SE to do so.
 
-**Construct Wilderness**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease. Cannot be healed by standard means — requires Focus + Craft DR 3 (10 HP per success).
+**Construct Nature**: Immune to **Frightened**, **Charmed**, corruption, **Poisoned**, disease. Cannot be healed by standard means — requires Focus + Craft DR 3 (10 HP per success).
 
 **Hardened Frame (Reaction)**: When the Engine takes damage exceeding 8 from a single hit, its self-preservation protocol activates and it immediately uses Repair Beam on itself (costs 3 SE; heals 12).
 
@@ -786,14 +790,14 @@ The Restoration Engine positions itself at the edge of combat, maintaining Repai
 
 ### Scaling Options
 **Field Medic Drone** (Minion, TV 3): HP: 15, DV: 3, SE: 10. Only has Repair Beam (heals 6 HP). No Emergency Overload or Triage Protocol.
-**Master Restoration Engine** (Boss, TV 11): HP: 50, DV: 5, Armor: 3, SE: 28. Repair Beam heals 12 HP. Add Full Restoration and Shielding Protocol.
+**Master Restoration Engine** (Boss, TV 21): HP: 50, DV: 5, Armor: 3, SE: 28. Repair Beam heals 12 HP. Add Full Restoration and Shielding Protocol.
 
 ---
 
 ## 5.11 Glyph Spider
 
 **Type**: Construct (Observation, Small)
-**Threat Tier**: Minion (TV 4)
+**Threat:** Minion — Per-Hero 1 *(party of 4; total budget TV 4)*
 **Recommended Levels**: 2–6
 
 ### Lore
@@ -827,7 +831,7 @@ Glyph Spiders are palm-sized arachnoid constructs used throughout Nosgoth's anci
 **Relay Signal (Bonus Action)**:
 - **Special**: No SE cost. The Spider sends a signal to any connected construct within 300 feet, alerting it to the presence and approximate location of intruders. This activates dormant constructs if any are in range.
 
-**Construct Wilderness**: Immune to **Frightened**, **Charmed**, **Poisoned**, disease. Cannot be **Charmed** into cooperation.
+**Construct Nature**: Immune to **Frightened**, **Charmed**, **Poisoned**, disease. Cannot be **Charmed** into cooperation.
 
 **Tiny Profile**: Cannot be targeted by area effects that require a creature to be Medium or larger. Weapon Mastery attackers have Disadvantage against it in dim light.
 
@@ -846,7 +850,7 @@ Glyph Spiders flee combat. Upon detecting intruders, a Spider's priority is (1) 
 ## 5.12 Animated Ward
 
 **Type**: Construct (Defensive, Magical)
-**Threat Tier**: Standard (TV 5)
+**Threat:** Standard — Per-Hero 1.25 *(party of 4; total budget TV 5)*
 **Recommended Levels**: 3–7
 
 ### Lore
@@ -882,7 +886,7 @@ They manifest as softly glowing geometric shapes that float at chest height, pul
 
 **Threat Assessment (Passive)**: The Animated Ward identifies creatures who have dealt damage to it or its allies as Threat-Marked. It will prioritize using Ward Pulse on Threat-Marked creatures.
 
-**Construct Wilderness**: Immune to **Frightened**, **Charmed**, **Poisoned**, disease, corruption. Immune to **Prone**, **Grappled**, **Restrained**.
+**Construct Nature**: Immune to **Frightened**, **Charmed**, **Poisoned**, disease, corruption. Immune to **Prone**, **Grappled**, **Restrained**.
 
 **Disruption Vulnerability**: Lightning damage disrupts the Ward's projection matrix. Lightning vulnerability doubles Lightning damage at the Resistance step and causes Animated Wards to lose their next Reaction.
 
@@ -925,7 +929,7 @@ The Animated Ward holds its position and uses Ward Pulse to push enemies back fr
 ---
 
 ### Encounter 2: The Pillar's Wrath (Levels 10-12)
-**Setup**: The party approaches a collapsed Pillar. A **Pillar-Guardian Sentinel** (Boss, TV 13) awakens, believing them to be defilers. It's accompanied by 2 **Spellbound Golems** (Standard, TV 5 each, TV 10 total). Total TV: 23.
+**Setup**: The party approaches a collapsed Pillar. A **Pillar-Guardian Sentinel** (Boss, TV 39) awakens, believing them to be defilers. It's accompanied by 2 **Spellbound Golems** (Standard, TV 5 each, TV 10 total). Total TV: 49 (a Challenging fight for a Level 11 party of four).
 
 **Tactics**: The Sentinel opens with Pillar Beam to **Stun** priority targets, then uses Stone Spike Eruption to create difficult terrain. Golems guard the Sentinel's flanks, attacking anyone who gets close. The Sentinel uses Legendary Actions to reshape the battlefield with Craft, creating walls and obstacles.
 
@@ -936,7 +940,7 @@ The Animated Ward holds its position and uses Ward Pulse to push enemies back fr
 ---
 
 ### Encounter 3: The Hylden War Machine (Levels 12-15)
-**Setup**: Hylden forces have reactivated a **Soul-Tower** (Boss, TV 15) and are marching it toward a village. The party must stop it before it arrives. The Tower is escorted by 3 **Iron-Cage Beasts** (Elite, TV 10 each, TV 30 total). Total TV: 45.
+**Setup**: Hylden forces have reactivated a **Soul-Tower** (Boss, TV 45) and are marching it toward a village. The party must stop it before it arrives. The Tower is escorted by 3 **Iron-Cage Beasts** (Elite, TV 10 each, TV 30 total). Total TV: 75 (a Challenging fight for a Level 14 party of four).
 
 **Tactics**: The Tower advances slowly, using Arcane Bombardment to bombard the village while Beasts defend it from melee attackers. The Tower uses Crushing Limb to **Grapple** anyone who gets close, while Beasts use Soul Scream to **Frighten** defenders. The Tower uses Legendary Actions to Repair itself and fire Soul Cannon continuously.
 
@@ -1055,7 +1059,7 @@ Every construct tells a story. Who built it? Why? What does its presence reveal 
 Nosgoth's pervasive corruption raises a natural question: can constructs be corrupted?
 
 ### The Short Answer
-Standard constructs are immune to corruption as a mental effect — they have no soul to taint and no will to subvert. Their Construct Wilderness trait explicitly includes corruption immunity.
+Standard constructs are immune to corruption as a mental effect — they have no soul to taint and no will to subvert. Their Construct Nature trait explicitly includes corruption immunity.
 
 ### The Exceptions
 However, three categories of construct can interact with Corruption:

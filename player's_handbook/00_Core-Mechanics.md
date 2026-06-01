@@ -22,14 +22,14 @@ Every character has six core attributes that define their capabilities:
 - Represents innate magical aptitude and life essence
 - Crucial for spellcasting and spiritual abilities
 - Key for: Soul Reaver, Shadowmancer, Sangromancer, Glyphwright, Hylden Warlock, Warden of Balance
-- Associated Skills: Glyphcasting, Possession, Forbidden Knowledge, Observation, Craft
+- Associated Skills: Glyphcasting, Ethereal Mastery, Forbidden Knowledge, Observation, Craft
 
 ### Shadow
 **Stealth, evasion, and subtlety**
 - Governs remaining unseen and deceptive actions
 - Used for quiet movement and finesse attacks
 - Key for: Shadowmancer, Dreadblade
-- Associated Skills: Weapon Mastery (finesse), Evasion, Stealth, Thievery
+- Associated Skills: Weapon Mastery (finesse), Evasion, Stealth, Infiltration
 
 ### Will
 **Mental resilience and discipline**
@@ -43,7 +43,7 @@ Every character has six core attributes that define their capabilities:
 - Governs awareness and detailed work
 - Important for perception and concentration
 - Used for: Maintaining spells, detailed crafting, careful observation
-- Associated Skills: Tactics, Forbidden Knowledge, Thievery, Observation, Insight, History, Nature, Craft
+- Associated Skills: Tactics, Forbidden Knowledge, Infiltration, Observation, Insight, Lore, Wilderness, Craft
 
 ### Blood
 **Physical vitality and life essence**

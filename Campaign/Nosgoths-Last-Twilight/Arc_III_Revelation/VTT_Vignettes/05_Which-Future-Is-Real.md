@@ -37,7 +37,7 @@ The Chronoplast showed two futures. The party has been walking through Arc III c
 
 ## NPC Opening Line
 
-> **Black Marshal Sevran**, without turning: *"Two of you have been treating the Chronoplast as an intelligence problem. One of you has been treating it as a spiritual problem. What I need to know — before we agree on anything about Arc IV — is whether the group can operate on a single version of events. Not the true version. Kain is not asking for the true version. He is asking whether the party can commit to one account of what they saw, act on it consistently, and stop revising it when it produces uncomfortable obligations."*
+> **Black Marshal Sevran**, without turning: *"You have been arguing about the Chronoplast as though it were a thing to be solved. It is not. It is a thing to be sworn to. Before I spend Kain's leverage on you, I need to know whether this group can hold to one account of what it saw — not the true one; Kain has never once asked for the true one — and stop revising it the moment the account starts costing you something."*
 
 ---
 
@@ -133,6 +133,23 @@ At the end of this scene, the Arc III state tracker should be finalized:
 | `wheel_exposure` | `broken` — Wheel enters Arc IV as combatant, not philosophy; `named` — Wheel is publicly accused but not dismantled; `concealed` — Wheel appears in Arc IV with all prior infrastructure intact |
 | `party_operative_truth` | Canonical enum — `balance-through-sacrifice`, `hylden-reintegration`, `undecided`, or `unresolved`; drives Arc IV opening pressure and Kain contract timing |
 | `betrayal_resolved` | `absorbed`/`severed`/`weaponized`/`unresolved` — determines Witness's Arc IV availability and behavior |
+
+---
+
+## Last Witness Beat — Securing the Account Before the Heath
+
+> **Naming note:** the `betrayal_resolved` tag above tracks the *betrayer*-Witness of the Wheel storyline. The `last_witness` tag tracked here is the campaign's separate throughline civilian — the ordinary survivor first seeded in Arc I (and possibly re-seeded at the Arc II breach), whose only asset is a plain account of what the fragments cost. Keep them distinct.
+
+> Committing to a single operative truth has a casualty the party may not have considered: the corrected record they are about to act on becomes *public*. When the party declares which future is real and acts as though it is, the unedited timing strip, the Wheel exposure, and the named cost at the Blood-Well stop being private intelligence and start being a story other people can read — and trace back to the one civilian still willing to say it out loud.
+
+> Raise this with the party as the scene closes, keyed to the `last_witness` value they carry in:
+
+- **If they hold a `named` or `protected` Witness:** acting on the corrected record exposes that survivor to whoever the record indicts (Wheel remnant, Sarafan bloc, Ash-Glass Procession). The party may **spend the scene securing them for the Heath** — a place inside the coalition's protection, a sworn escort to Arc IV, Iriane's record-room as cover. → hold or raise to `last_witness: protected`. If they go public without provision → `last_witness: exposed`, and the survivor enters Arc IV hunted.
+- **If they hold `unnamed` or `lost`:** Iriane, sorting her three stacks, notes that *someone* unedited still has to be able to say it happened, or the corrected record is just another faction's claim. This is the campaign's final chance to name the role before Arc IV. If the party reach for it → `last_witness: named`. If they shrug it off, the Witness endings at the Heath are foreclosed.
+
+> **Iriane Quell**, quietly, if asked: *"You can commit to one account of what we saw. I can keep the paper that proves it. Neither of us is the person who simply *lived* it and never wanted anything from it. If that person stops being able to speak — by a knife or by a purse — then everything in these three stacks is just us, insisting. Decide tonight whether they reach the Heath alive and free, because tomorrow the record is loud and they are the easiest thing in it to silence."*
+
+> **GM:** Whatever the party decide, finalize the three Witness lines (who, what, forward fear) and the status in the Arc III tracker. Per the Arc III→IV carry-forward, the status **must be `named` or `protected`** for the Arc IV V05 Witness ending (The Dedication) to be reachable.
 
 ---
 

@@ -35,7 +35,7 @@ This chapter now uses final absolute TV values aligned to each entry's intended 
 ## 4.1 Dire Cave Wolf
 
 **Type:** Beast (Predator)  
-**Threat Tier:** Standard (Level 4) - TV 4  
+**Threat:** Standard — Per-Hero 1 *(party of 4; total budget TV 4)*  
 **Recommended Levels:** 2-6
 
 ### Lore
@@ -102,7 +102,7 @@ Unlike their mundane cousins, Dire Cave Wolves are intelligent enough to recogni
 ## 4.2 Nosgothian Drake
 
 **Type:** Beast (Dragon-kin)  
-**Threat Tier:** Elite (TV 8)  
+**Threat:** Elite — Per-Hero 2 *(party of 4; total budget TV 8)*  
 **Recommended Levels:** 5-10
 
 ### Lore
@@ -177,7 +177,7 @@ Drakes are solitary hunters, but mated pairs will defend their nests to the deat
 ## 4.3 Glimmerback Lizard
 
 **Type:** Beast (Reptile)  
-**Threat Tier:** Minion (TV 2)  
+**Threat:** Minion — Per-Hero 0.5 *(party of 4; total budget TV 2)*  
 **Recommended Levels:** 1-3
 
 ### Lore
@@ -228,7 +228,7 @@ Despite their fragility, Glimmerbacks have a defensive mechanism: when threatene
 ## 4.4 Blight-Boar
 
 **Type:** Beast (Corrupted Boar)  
-**Threat Tier:** Standard (TV 5)  
+**Threat:** Standard — Per-Hero 1.25 *(party of 4; total budget TV 5)*  
 **Recommended Levels:** 3-7
 
 ### Lore
@@ -292,7 +292,7 @@ Consuming Blight-Boar meat causes illness in mortals. Even vampires find their b
 ## 4.5 Bloodgullet Hound
 
 **Type:** Beast (Vampiric Hound)  
-**Threat Tier:** Standard (TV 6)  
+**Threat:** Standard — Per-Hero 1.5 *(party of 4; total budget TV 6)*  
 **Recommended Levels:** 4-8
 
 ### Lore
@@ -356,7 +356,7 @@ Unlike normal dogs, Bloodgullets are viciously intelligent. They can track prey 
 ## 4.6 Stonemaul Troll
 
 **Type:** Beast (Giant Humanoid)  
-**Threat Tier:** Elite (TV 9)  
+**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*  
 **Recommended Levels:** 6-11
 
 ### Lore
@@ -427,7 +427,7 @@ Despite their fearsome reputation, Trolls can be bargained with if approached ca
 ## 4.7 Bramblehide Bear
 
 **Type:** Beast (Corrupted Bear)  
-**Threat Tier:** Elite (TV 7)  
+**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*  
 **Recommended Levels:** 5-9
 
 ### Lore
@@ -498,7 +498,7 @@ Despite their fearsome appearance, Bramblehide Bears are still animals. They can
 ## 4.8 Warptooth Cougar
 
 **Type:** Beast (Phase Predator)  
-**Threat Tier:** Elite (TV 10)  
+**Threat:** Elite — Per-Hero 2.5 *(party of 4; total budget TV 10)*  
 **Recommended Levels:** 7-12
 
 ### Lore
@@ -566,7 +566,7 @@ Their most unsettling trait is their ability to seemingly vanish mid-combat, onl
 ## 4.9 Blightmaw Alpha
 
 **Type:** Beast (Corrupted Apex Predator)  
-**Threat Tier:** Elite (TV 7)  
+**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*  
 **Recommended Levels:** 5-9
 
 ### Lore
@@ -791,7 +791,7 @@ Beasts aren't just random encounters:
 ## 4.10 Nosgothian Alpha Wyrm
 
 **Type:** Beast (Corrupted, Apex Predator)  
-**Threat Tier:** Legendary (TV 14)  
+**Threat:** Legendary — Per-Hero 14 *(party of 4; total budget TV 56)*  
 **Recommended Levels:** 12-16
 
 ### Lore
@@ -804,7 +804,7 @@ The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the a
 > **Cross-Reference:** For lesser variants, see Nosgothian Drake (4.2) in this chapter. For construct-drake hybrids, see Chapter 5. For Hylden-influenced beasts, see Blight-Boar (4.4) in this chapter and the Hylden War-Stalker concept in Chapter 6.
 
 ### Statistics
-- **HP:** 160
+- **HP:** 208
 - **DV:** 6
 - **DR:** 4 (Physical saves), 3 (Mental saves)
 - **Initiative:** 5
@@ -847,9 +847,9 @@ The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the a
 
 **Territorial Rage** (Passive): While fighting within its lair or territory, the Wyrm gains +2 dice on all attack rolls and regenerates 5 HP at the start of each turn.
 
-**Legendary Resistance (2/day):** If the Wyrm fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If the Wyrm fails a save, it can choose to succeed instead.
 
-### Legendary Actions (2 per round)
+### Legendary Actions (3 per round)
 - **Tail Sweep (1 action):** Make one Tail Sweep attack.
 - **Wing Reposition (1 action):** Fly up to 40 feet without provoking opportunity attacks.
 - **Apex Roar (2 actions):** All creatures within 30 feet make a DR 4 Will save. On failure, a creature is **Frightened** until the end of their next turn. Creatures already **Frightened** are instead **Stunned** for 1 round. On success, no effect.
@@ -884,7 +884,7 @@ The Sarafan have standing bounties on Alpha Wyrms, but few hunters survive the a
 ## 4.11 Blightwater Eel
 
 **Type:** Beast (Aquatic, Corrupted)  
-**Threat Tier:** Standard (TV 5)  
+**Threat:** Standard — Per-Hero 1.25 *(party of 4; total budget TV 5)*  
 **Recommended Levels:** 3-7
 
 ### Lore
@@ -940,7 +940,7 @@ The Eel lurks beneath the surface, striking with Blight Bite against anyone who 
 ## 4.12 Plague Rat Swarm
 
 **Type:** Beast (Swarm, Diseased)  
-**Threat Tier:** Minion (TV 3)  
+**Threat:** Minion — Per-Hero 0.75 *(party of 4; total budget TV 3)*  
 **Recommended Levels:** 1-5
 
 ### Lore
@@ -991,7 +991,7 @@ Swarms are encountered in groups of 2-5. They file through gaps, drop from ceili
 ## 4.13 Tunnelworm
 
 **Type:** Beast (Athletics)  
-**Threat Tier:** Standard (TV 5)  
+**Threat:** Standard — Per-Hero 1.25 *(party of 4; total budget TV 5)*  
 **Recommended Levels:** 3-7
 
 ### Lore
@@ -1048,7 +1048,7 @@ The Tunnelworm spends its first round burrowing beneath the party while they ent
 ## 4.14 Corrupted Raptor
 
 **Type:** Beast (Corrupted Avian)  
-**Threat Tier:** Minion (TV 4)  
+**Threat:** Minion — Per-Hero 1 *(party of 4; total budget TV 4)*  
 **Recommended Levels:** 2-5
 
 ### Lore
@@ -1105,7 +1105,7 @@ Corrupted Raptors hunt in pairs or trios. They dive, apply Talon Strike, and fly
 ## 4.15 Corruption Leech
 
 **Type:** Beast (Parasitic, Corrupted)  
-**Threat Tier:** Minion (TV 4)  
+**Threat:** Minion — Per-Hero 1 *(party of 4; total budget TV 4)*  
 **Recommended Levels:** 2-6
 
 ### Lore
@@ -1164,7 +1164,7 @@ Use them to preface larger combat encounters - a party that wades through a Leec
 ## 4.16 Sunken Tide-Drake
 
 **Type:** Beast (Aquatic, Apex Predator)  
-**Threat Tier:** Elite (TV 8)  
+**Threat:** Elite — Per-Hero 2 *(party of 4; total budget TV 8)*  
 **Recommended Levels:** 6-10
 
 ### Lore

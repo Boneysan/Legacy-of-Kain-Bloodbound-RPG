@@ -60,6 +60,29 @@ The fortress does not grant entry. It interrogates arrivals. Before the party ca
 
 ---
 
+## Probe — Question the Forecourt Before You Choose
+
+> The gate choice is binding for the arc, and the party should not have to make it in silence. Before committing to A–D, they may press the people in the forecourt. None of these spends a tag; they change what the party knows, not where they stand. Ledger-Master Corin Vey is the scene's best source — he answers anyone, because being useful to everyone is the whole of his trade.
+
+**Ask either envoy what the dispute is actually about.**
+
+> *Turel's envoy* answers like a man reading a citation: *"Succession. Dumah is ash, and ash leaves no instruction. The Marshal held the walls when they could have fallen. Holding a thing is nine-tenths of owning it. The Steward will tell you the other tenth is the only one that matters. He is wrong, but he is eloquent."*
+> *Drath's people* answer through Drath himself, if he is present: *"He will tell you the fortress was won. It was inherited, and inheritance has rules older than any siege. The Marshal mistakes the gate he holds for the house behind it. The house remembers who built it."*
+
+**Pull Ledger-Master Vey aside.**
+
+> Vey does not wait to be flattered. *"You want the honest ledger? Turel is solvent and brittle — he wins every week and loses the year. Drath is insolvent and patient — he loses every week and the walls still call him by the old name. Neither can pay what they owe. Both will offer you a share of what they cannot afford. My advice, which is free because the rest of my advice is not: do not pick the side that is winning today. Pick the side you can survive being wrong about."*
+> **(Insight, DR 2):** Vey is steering — but truthfully. He profits whichever way the party leans; what he will not do is let them choose blind, because a blind client is a short-lived one.
+
+**Ask who else is watching.**
+
+> *"The Order has eyes on this gate,"* Vey says, lower. *"Not at it — on it. And Sister Nerys Vale is already inside; she came through no gate at all. If neutrality is your plan, understand that someone is keeping a list of everyone who claims it. Neutral is not invisible. Neutral is just a slower kind of chosen."*
+> **Reveals:** seeds `sarafan_attention` pressure and Nerys Vale's presence before the party commit, so a later Sarafan move reads as foreshadowed rather than sprung.
+
+> **GM guidance:** Keep this to a brisk exchange — two or three questions, not an inquiry. The forecourt is cold and both delegations are visibly waiting. End the probe with whichever envoy says, evenly, *"You have asked your questions. The gate has not moved."*
+
+---
+
 ## Player Choices
 
 ### A — Enter Through the Eastern Gate (Align With Turel)
@@ -82,7 +105,7 @@ The fortress does not grant entry. It interrogates arrivals. Before the party ca
 
 **NPC Response:**
 
-> **Marshal Kaev Turel's envoy**, with military precision: *"Noted."* He withdraws without visible emotion, which is more alarming than anger would be.
+> **Marshal Kaev Turel's envoy**, with military precision: *"Noted. The Marshal does not require your love — only your legibility, and you have just made yourself very easy to read. He will remember that you could be read at all."* He withdraws without visible emotion, which is more alarming than anger would be.
 
 **Outcome:** The party has shelter in Drath's portion of the fortress. Vaul Drath treats this as profound validation, which means he will also hold the party responsible when his position weakens. Turel begins watching for the moment to publicly demonstrate that Drath's alliance does not produce outcomes.
 

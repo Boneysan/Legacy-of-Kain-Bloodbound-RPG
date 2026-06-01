@@ -137,6 +137,24 @@ This choice only works if Serit has `serit_trust: earned` or `guarded`; if it is
 
 ---
 
+## Last Witness Beat — Naming the First Survivor
+
+> This is where the campaign's throughline civilian is first named. It is not a fifth custody option — it runs *alongside* whichever custody choice the party made, and it writes the `last_witness` tag for the first time. The Blood-Well left ordinary survivors: a wagoner, a hospice cook, a pilgrim who came for a blessing and watched the chamber answer a name. One of them is still here, at the edge of the room, and they have not stopped looking at the wrapped fragment.
+
+> Bring them forward when the custody talk settles. They do not want the Knot and they do not want a faction. They want one thing understood:
+
+> **The survivor**, quietly, not sure they are allowed to speak: *"I don't know what any of you mean to do with it, and I'm not asking to. I only know I was there when it spoke the name. I heard what it cost the man it spoke to. If everyone who can say that plainly ends up dead, or paid quiet, or made to sound mad — then it never happened, did it. Someone who is not one of you should still be able to say it happened."*
+
+**The party's response writes the tag:**
+
+- **Acknowledge and protect them** — give the survivor a place in the party's care, a route out of Avernus, or a credible promise of safety they then act on. → `last_witness: protected`. Record their name, what they witnessed (the named cost at the Well), and what they fear forward. They travel into Arc II able to testify.
+- **Acknowledge but leave them to their own road** — hear them, name them, make no provision. → `last_witness: named`. They carry the truth but no one is keeping them safe; a later faction may reach them first.
+- **Dismiss or silence them** — wave them off, buy their quiet, or let an ally manage them away. → `last_witness: unnamed`, and note the missed seed. The role stays vacant until a later survivor inherits it, and the Arc IV Witness endings begin the campaign already at risk.
+
+> **GM:** Keep the survivor *ordinary*. The power of the role is that they are the one person in the campaign with no stake, no doctrine, and no leverage — only an account. Carry their three lines (who they are, what they witnessed, what they fear forward) in the Arc I tracker's `last_witness` field and hand them forward at arc close per the Campaign Hub's Last Witness Arc-Close Handoff.
+
+---
+
 ## GM Notes
 
 - This is the most politically loaded scene in Arc I. Save it until the party has reason to trust at least one NPC and reason to distrust at least one other.

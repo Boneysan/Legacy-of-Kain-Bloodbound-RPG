@@ -1,6 +1,6 @@
 # 02 — The False Refuge
 
-Hospitality in Nosgoth is never free. When Brother Halden opens the waystation door and the warmth inside is exactly what an exhausted party wants, the cost is already set. The question is not whether to accept — the road behind is closed by now — but what the party decides to do with suspicion when sleep is the other option.
+Hospitality in Nosgoth is never free. When Brother Halden opens the waystation door and the warmth inside is exactly what an exhausted party wants, the cost is already set. The party can refuse the threshold entirely and take their chances on the cold ground outside — that door is never barred to them — but refusing warmth, light, and walls after a hard road is its own kind of cost, and the thing waiting inside is patient enough to let them choose it. The real question is what the party decides to do with suspicion when sleep is the other option.
 
 ## Control Links
 
@@ -51,6 +51,7 @@ Hospitality in Nosgoth is never free. When Brother Halden opens the waystation d
 - Choice B should feel like controlled paranoia: accept mercy, but not on anyone else's terms.
 - Choice C should feel morally justified and socially dangerous: if the party are right, they save lives; if they are wrong or premature, they create the panic the cult wants.
 - Choice D should feel tactically smart and relationally costly: splitting gains truth and loses cohesion.
+- Choice E should feel like the hardest principled call: refusing comfort to keep control, and paying for it in cold, exposure, and Serit's quiet doubt.
 
 ---
 
@@ -112,6 +113,21 @@ Hospitality in Nosgoth is never free. When Brother Halden opens the waystation d
 
 ---
 
+### E — Decline the Refuge Entirely; Camp Rough Outside
+
+> No. Whatever this place is, the party will not sleep inside it. Thank Brother Halden, refuse the threshold, and make a cold camp at a distance with the cargo and a full watch.
+
+**NPC Response:**
+
+> **Brother Halden** does not argue, and that is the most unsettling thing he could do. *"As you prefer. The night is hard, but a hard night chosen is no sin."* He lifts a hand toward the dark fields. *"There is sweeter water at the broken shrine a quarter-mile on, if you mean to keep your own counsel. I'll leave a lamp in the window. The door does not lock from my side."* He steps back inside without watching them go — the patience of a man who has not lost anything he expected to keep.
+> **Serit Vale**, once they are clear of the light: *"That cost us the only walls between here and Avernus. I hope you are right. If you are wrong, we are exactly where someone wanted us — outside, tired, and alone."* She does not say which she believes.
+
+**Outcome:** The party trades shelter for control. The cult cell inside cannot stage a quiet move on the cargo, and no informant gets to study the party by candlelight — but the open camp removes the building's protection against what is already on the road. The ambush between V02 and V03 opens against an exhausted, exposed party with no walls to fall back to, and Brother Halden remains an unconfirmed suspicion rather than a witnessed one, which makes the Session 2 confrontation with him harder to justify to anyone who slept warm. If a PC follows Halden's hint to the broken shrine, they find it recently used — fresh wax, a cold censer — the first physical confirmation that the "refuge" is a position, not a charity.
+
+**Tags:** `public_story: secrecy`, `serit_trust: guarded`, `reliquary_status: sealed`
+
+---
+
 ## If No Clear Choice Is Made
 
 > If the party is frozen with suspicion and will not commit: Mera Ash makes the decision. She goes in, finds the corner, and says that standing in the road arguing is the only plan that benefits the people watching from the tree line. Default to Choice A's outcome, with Mera visibly judging anyone who hesitates. 
@@ -129,6 +145,7 @@ Hospitality in Nosgoth is never free. When Brother Halden opens the waystation d
 | `reliquary_status` | `examined` | The cult knows someone in the party is tracking the cargo by feel; they redirect their approach away from the carrier and toward the weakest observer |
 | `sarafan_attention` | `1` | An informant sheltered at the waystation is now carrying the party's description toward Avernus; Sarafan Clock advances before Session 2 |
 | `serit_trust` | `guarded` | Serit meets the Session 2 investigation with less cooperation; she is recalibrating how much the party can handle without creating worse problems |
+| `public_story` + camp-rough (Choice E) | `secrecy` | The ambush opens with no walls and an exhausted party, but the cult gains no interior position and no informant gets a clean look; Brother Halden survives as suspicion, not proof |
 
 ---
 

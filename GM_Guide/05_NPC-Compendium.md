@@ -66,7 +66,7 @@ Characters like Kain, Raziel, Moebius, and the Elder God are larger-than-life fi
 
 ### Identity
 **Titles:** Vampire Lord, Scion of Balance, The Defiant One, The Time Killer  
-**Wilderness:** Ancient vampire, former Guardian of Balance, wielder of the Soul Reaver  
+**Nature:** Ancient vampire, former Guardian of Balance, wielder of the Soul Reaver  
 **Era:** From the Age of Corruption to the Age of Fracture  
 **Current Status:** Active agent of Nosgoth's restoration — wields the purified Soul Reaver, works to break the Wheel of Fate and rebuild the Pillars
 
@@ -126,7 +126,7 @@ Kain appears as a towering, regal vampire with aristocratic features twisted by 
 
 ### Identity
 **Titles:** First-Born of Kain's Brood, The Redeemed Betrayer, Soul Reaver, Wraith Champion  
-**Wilderness:** Sacrificed soul bound within the Soul Reaver blade  
+**Nature:** Sacrificed soul bound within the Soul Reaver blade  
 **Era:** From Rise of Vampire Clans through his sacrifice  
 **Current Status:** Essence merged with Soul Reaver, consciousness fragmented
 
@@ -194,9 +194,9 @@ When Raziel's essence manifests from the Soul Reaver, he appears as a spectral w
 
 ### Identity
 **Titles:** The Time Streamer, Guardian of Time, Oracle of Fate, The Deceiver  
-**Wilderness:** Human transformed into immortal time manipulator, servant of the Elder God  
+**Nature:** Human transformed into immortal time manipulator, servant of the Elder God  
 **Era:** From Age of Corruption through Age of Fracture  
-**Current Status:** Weakened but active, schemes across timelines
+**Current Status:** Dead — slain by Kain's hand. Yet his designs outlive him: the prophecies he seeded still ensnare, his hidden cult still labors, and his agents move through Nosgoth as though their master merely watches from some farther shore of time.
 
 ### Appearance
 An ancient man in flowing robes decorated with temporal glyphs and arcane symbols. His staff—the Staff of Time—pulses with chronological energy. His eyes reflect multiple timelines simultaneously, making it unsettling to meet his gaze. He appears both young and old at once, as if existing in multiple moments.
@@ -208,7 +208,7 @@ An ancient man in flowing robes decorated with temporal glyphs and arcane symbol
 - **Arrogant:** Believes his understanding of time makes him superior
 - **Paranoid:** Fears those who can defy prophecy (like Kain)
 
-**Core Drive:** To maintain the Wheel of Fate and ensure events unfold according to the Elder God's design. Views himself as shepherd of destiny.
+**Core Drive (In Life):** To maintain the Wheel of Fate and ensure events unfolded according to the Elder God's design. He named himself shepherd of destiny — and shepherds, it is said, are remembered by the flock long after the wolf has taken them. Though Kain's blade ended the Time Streamer, it could not end his designs. The prophecies persist. The flock still walks the paths he carved.
 
 ### Powers & Abilities
 - **Temporal Sight:** Sees multiple possible futures simultaneously
@@ -221,8 +221,10 @@ An ancient man in flowing robes decorated with temporal glyphs and arcane symbol
 
 ### Using Moebius in Your Campaign
 
+**A Dead Hand, Still Moving:** Moebius is slain — Kain saw to that. He does not appear in the flesh, and he cannot be bargained with or fought across a table. What endures is his machinery: prophecies seeded centuries deep, a cult that mistakes its master's silence for patience, agents who carry out instructions left for them by a man already in his grave, and recorded oracles that speak his words long after the mouth that spoke them rotted. Where the guidance below describes him "appearing" or "sending," understand it as the work of these instruments — the corpse's grip closed tight upon the threads, refusing to let the tapestry slacken.
+
 **As a Questgiver (False Benefactor):**
-- Appears as helpful oracle offering guidance
+- His agents and recorded oracles offer guidance in his name
 - His prophecies are technically true but serve his agenda
 - Sends players to "prevent disasters" that actually advance his goals
 - Always has plausible deniability
@@ -263,7 +265,7 @@ An ancient man in flowing robes decorated with temporal glyphs and arcane symbol
 
 ### Identity
 **Titles:** The Elder God, The Wheel of Fate, Devourer of Souls, The Eternal Hunger  
-**Wilderness:** Ancient cosmic parasite disguised as deity  
+**Nature:** Ancient cosmic parasite disguised as deity  
 **Era:** Predates recorded history, persists through all ages  
 **Current Status:** Weakened after exposure by Kain and Raziel, but still active
 
@@ -332,8 +334,8 @@ A massive, tentacled entity dwelling in the depths of the Spectral Realm. Its bo
 ## 5.6 Vorador – The Ancient Defiant
 
 ### Identity
-**Titles:** Vorador the Defiant, Last of the Ancients, The Blood Magus, Mentor of Kain  
-**Wilderness:** Ancient vampire, one of the last of the original vampire race  
+**Titles:** Vorador the Defiant, First of the Turned, The Blood Magus, Mentor of Kain  
+**Nature:** Eldest of the turned vampires — the first mortal raised to undeath by the bite of Janos Audron, the Last Ancient  
 **Era:** From the Ancient Wars through multiple vampire generations  
 **Current Status:** Unknown—killed multiple times, yet returns
 
@@ -345,7 +347,7 @@ A powerful, aristocratic vampire with green-tinged skin and ancient features. He
 - **Defiant:** Refuses to bow to prophecy or authority
 - **Mentoring:** Takes interest in those who show potential
 - **Vengeful:** Never forgets a slight, repays debts in blood
-- **Tragic:** Witnessed the fall of his entire race
+- **Tragic:** Witnessed the slaughter of his sire's winged kin and the long extinction of the Ancients who made his kind
 - **Pragmatic:** Survival first, honor second
 
 **Core Drive:** To ensure vampires endure, to defy those who would see them extinct, and to live freely despite destiny's constraints.

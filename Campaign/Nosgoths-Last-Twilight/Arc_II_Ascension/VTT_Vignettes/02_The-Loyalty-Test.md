@@ -37,7 +37,17 @@ Both claimants need something from the party, and the fortress is watching. Befo
 
 ## NPC Opening Line
 
-> **The sheltering claimant**, sitting across a bare table with no other witnesses: *"I need something done that I cannot assign to my own people. Not because the task is wrong. Because whoever does it must have no prior stake here — the thing may need to be witnessed afterward, and the witness must be clean. I want to be clear that I am asking, not ordering. I want to be equally clear that the distinction may matter less than it sounds."*
+> Read the claimant in their own voice. The request is the same; the man asking it is not.
+
+**If Marshal Kaev Turel is asking** — he does not sit. He stands at the window with his back to the party, watching his own walls, and speaks as if the answer is already decided and he is merely confirming the date:
+
+> *"I have a thing that needs doing by a hand I do not own. Not because the work is dirty — because a clean hand makes it count twice. You will do it, and you will do it well, because doing it badly would embarrass us both, and only one of us can afford that. I am told you understand leverage. Good. Then we need not pretend this is a favor."*
+
+**If Steward Vaul Drath is asking** — he sits, and he sets a single old document on the table between you before he says anything, as if the parchment is the third party to the conversation:
+
+> *"There was a time this fortress kept its own conscience, and did not have to rent one from strangers at the gate. That time is gone, and I am not too proud to say so. I am asking — asking, mind you, the word costs me something — because the thing must be witnessed by someone history cannot accuse of having a stake. You are that, for now. Do not mistake my courtesy for weakness. The two have never been further apart than they are in this fortress tonight."*
+
+**If the party entered neutrally** and the request comes from the claimant's second, the line is colder and more procedural — patronage offered by someone who will not have to honor it personally. Whichever mouth speaks it, the bargain underneath is identical: *discretion is the rent on shelter, and they have not asked whether the party agrees.*
 
 ---
 
@@ -50,6 +60,30 @@ Both claimants need something from the party, and the fortress is watching. Befo
 
 ---
 
+## Probe — Before You Answer
+
+> Players will reach for this before they commit, and they should be rewarded for it. Any party may ask one or more of the following before choosing A–D. The claimant answers in voice; each probe yields a partial truth, never the whole one. None of these probes spends a tag — they change what the party *knows* walking into the commit choice, not the fortress's standing.
+
+**"What does this task actually reveal — and why can't your own people be trusted with it?"**
+
+> *Turel:* *"Because my own people would be believed to have arranged the result. You will be believed because you have nothing to gain. That is the whole of your value to me tonight — your uselessness as a partisan. Spend it once and it is gone."*
+> *Drath:* *"Because every hand I command is already written into the ledger of this dispute. The thing I need witnessed must be witnessed by someone outside the account. You are outside the account. For now."*
+> **Reveals:** the task's product is *testimony*, not the object itself — the party is being bought as a credible witness, which means whatever they see, someone will later need them to have seen, or need them never to have seen.
+
+**"What aren't you telling me about what I'll find?"**
+
+> The claimant pauses. *Turel* gives the soldier's half-confession: *"You will find a name in that record that I would prefer stayed where it is. I am not asking you to hide it. I am asking you to understand that finding it is not the same as needing to repeat it."* *Drath* is quieter: *"You will find that the dispute is older than either claim, and that neither of us is its author. That is all I will say standing up."*
+> **Reveals (Insight, DR 2):** the sealed record contains the first legible reference to the Iron Echo's chamber — and a name the claimant would bury. This is the seed of Choice D and the foreknowledge that makes refusing in Choice C costlier than it looks.
+
+**"Who else wants this done — or wants it not done?"**
+
+> *"Scout-Confessor Rook,"* the claimant says, without being asked twice. *"She is hoping you will do this clumsily enough that the mistake looks like mine. Do not give her the gift. Whatever you decide, decide it cleanly."*
+> **Reveals:** names Maelin Rook as the watching threat before the party act, so any later Sarafan consequence lands as a consequence the party *saw coming*, not a GM ambush.
+
+> **GM guidance:** If the party probe all three, the claimant's patience thins — end the probing with a flat *"I have answered more than I meant to. Now answer me."* Do not let the probe layer become an interrogation that drains the scene's pressure. Two probes is the natural ceiling before the commit choice should land.
+
+---
+
 ## Player Choices
 
 ### A — Accept and Complete the Task As Requested
@@ -58,7 +92,8 @@ Both claimants need something from the party, and the fortress is watching. Befo
 
 **NPC Response (claimant):**
 
-> *"Then we understand each other."* They do not thank the party. Thanks would imply the party had a choice.
+> *Turel* does not thank the party — thanks would imply they had a choice. He says only: *"Then we are the same kind of useful to each other. Remember which kind."*
+> *Drath* inclines his head a fraction, the way a man does when a debt has been entered in a book he keeps carefully: *"Then it is witnessed, and you are part of the witnessing. That cannot be unsaid now. I will not insult you by calling it gratitude."*
 
 **Outcome:** The task is completed. The party now has demonstrated loyalty on record, which is simultaneously their best protection and their most visible liability. Senator Rook has watched what they did and is composing her summary for the Sarafan. The sealed records include the first legible reference to the Iron Echo's chamber location.
 

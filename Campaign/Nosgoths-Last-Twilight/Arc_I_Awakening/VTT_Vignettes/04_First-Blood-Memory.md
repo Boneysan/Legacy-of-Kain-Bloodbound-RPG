@@ -59,6 +59,10 @@ The relic does not announce itself. It identifies. One character feels something
 
 > Push it down. This is not the time or the place, and you don't know these people well enough.
 
+**Relic Register (speak to the affected player, privately):**
+
+> The refusal costs you something. As you close the door on it, the dead voice does not argue — it *recedes*, the way a tide goes out, taking the warmth with it and leaving the iron behind. The last thing you feel before the road resolves back into one road is not anger and not pleading. It is patience. The figure on the lower road does not step back. It simply lowers its eyes, as if it has been refused before, by your blood, and knows the refusal never holds.
+
 **Outcome:** The vision closes. The doubled road fades. No one saw. But the suppressed recognition sits behind the character's eyes for the rest of the session and the fragment has now registered the refusal. At the next close proximity event, the experience will be harder to contain. No immediate social consequence — but the PC carries the experience forward alone.
 
 **Tags:** `reliquary_status: sealed`
@@ -83,11 +87,17 @@ The relic does not announce itself. It identifies. One character feels something
 
 > Something on the lower road is watching. Turn toward it.
 
+**Relic Register (speak to the affected player, privately):**
+
+> You turn toward it and the lower road comes up to meet you — closer than it should, as if your attention were a hand it had been waiting to take. The warmth at the back of your throat becomes a word you almost recognize, in a voice that uses your older name like it has every right to. The figure does not speak that name again. It lifts what it carries instead — a chain, and on the chain a mark you know the way you know your own pulse — and holds it toward you. Not as a gift. As a *reminder*. The dead do not negotiate with the Sanguine Knot. They are catalogued by it, and they would like you to be catalogued beside them.
+
 **Outcome:** The PC who chases the doubled-road experience gets closer to the spectral layer than anyone else has at this point in the campaign. They see the figure more clearly — not its face, but the chain it carries, which is recognizable (an ancestral binding, a broken vow symbol, a House mark, or an oath sigil — the GM should tie this to the PC's background). The vision ends abruptly when another party member touches them or speaks directly to them. The PC knows they can return to that layer — and that the figure knew they would come.
 
 **Tags:** `reliquary_status: examined`
 
 > **GM:** This outcome plants the most seeds for later direct relic contact in Session 4. The chain seen here should reappear in the Blood-Well chamber.
+
+> **If Serit witnesses the vision-chase** (she is present and watching): she does not interrupt and she does not write a note this time. She waits until the PC surfaces, then says, very quietly, so only they hear: *"You went toward it. Most people flinch. The ones who go toward it are the ones the Accord ends up writing whole files about."* A pause. *"I am not warning you. I am telling you what I now have to decide whether to report."* This converts her Choice-B journal precision into a personal, withheld decision — set `serit_trust: earned` if the PC answers her honestly, and note that she is now carrying a secret *for* the party rather than *about* them.
 
 ---
 

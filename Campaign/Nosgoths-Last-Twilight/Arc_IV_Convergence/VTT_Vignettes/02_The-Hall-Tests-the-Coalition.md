@@ -37,7 +37,7 @@ The Hall of Equilibrium does not make decisions. It asks whether the people clai
 
 ## NPC Opening Line
 
-> **Warden Asha Merel:** *"The Hall's question is one question, and it is the same for every coalition: Can you state — clearly, together, without revision — what you intend to do with the Heart of Nosgoth, what you will do with the factions you are not including, and who among you is prepared to answer if the account turns out to be wrong?"*
+> **Warden Asha Merel:** *"This Hall has outlasted every coalition that ever stood where you are standing, and it remembers each of them by the one thing they could not say plainly."* A beat. *"So I will ask you the only question it asks, and it is the same for every coalition: state — clearly, together, without revision — what you intend to do with the Heart of Nosgoth, what you will do with the factions you are not including, and who among you is prepared to answer if the account turns out to be wrong."*
 
 > She looks at the party. *"I will hear it from whoever speaks first."*
 
@@ -105,6 +105,12 @@ The Hall of Equilibrium does not make decisions. It asks whether the people clai
 ---
 
 ### D — Ask the Last Witness to Speak Before the Party Gives Its Account
+
+> **Precondition — check the carried-in `last_witness` status.** This choice is only fully available if the party reaches Arc IV with a Witness who is `named` or `protected`:
+> - **`protected`** — the Witness is present in the gallery, safe, and willing. Choice D plays as written; the testimony is unembarrassed and lands at full weight.
+> - **`named`** — the Witness exists and can be reached, but arrives frightened and unguarded. They will speak, but Merel notes their exposed standing, and a hostile bloc may move on them between scenes (foreshadow a cost in Vignette 03). The choice works; the Witness is fragile.
+> - **`exposed`** — the Witness is being hunted because of the corrected record. They can still be called, but only if the party publicly commit coalition protection to them on the spot (which itself becomes a political marker). Otherwise treat as unavailable this scene.
+> - **`unnamed` or `lost`** — there is no civilian to call. **Choice D is not available.** Merel will not invent a witness, and `black_fulcrum_status` cannot reach `witness-anchored` this run. Steer the party to A, B, or C, and note that the V05 Witness ending (The Dedication) is foreclosed.
 
 > The party spots the civilian observer in the gallery and calls them as a witness before giving their own statement. This is unusual but not prohibited.
 

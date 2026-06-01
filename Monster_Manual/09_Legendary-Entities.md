@@ -21,20 +21,19 @@ Guidance:
 
 **Type:** Medium Undead (Vampire, Spectral)
 **Affinity:** Spectral
-**Threat Tier:** Deadly (TV 18)
+**Threat:** Boss — Per-Hero 13.5 *(party of 4; total budget TV 54)*
 
 ### Statistics
-- **HP:** 210
+- **HP:** 200
 - **DV:** 6
-- **Armor:** 7 (Spectral Resilience)
+- **Armor:** 4 (Spectral Resilience)
 - **Initiative:** 11
 - **Movement:** 70 feet, Fly 70 feet (hover, phasing)
 - **SE:** 120
 - **Attributes:** Fury 6, Soul 8, Shadow 6, Will 7, Focus 6, Blood 0
 - **Skills:** Glyphcasting 4, Insight 4, Evasion 4, Intimidation 3
 
-**Immunities:** Non-magical physical
-**Resistances:** Fire, Cold, Lightning, Force, Spectral
+**Resistances:** Resistant to physical (half damage), Fire, Cold, Lightning, Force, Spectral
 **Vulnerabilities:** Anchoring glyphs
 
 ---
@@ -51,7 +50,7 @@ Guidance:
 - **Dice Pool:** Soul 8 + Glyphcasting 4 = 12d6
 - **Range:** 30 feet
 - **Damage:** 16 Spectral + 6 Force
-- **Special:** Bonus Action, costs 8 SE; teleport 30 feet and make a Reaver-Echo Slash at Advantage.
+- **Special:** Bonus Action, **Recharge 5–6**, costs 8 SE; teleport 30 feet and make a Reaver-Echo Slash at Advantage. (The Remnant must gather itself between uses — it cannot chain Phase Rend every round, so this is not an unavoidable turn-1 one-shot.)
 
 ---
 
@@ -60,11 +59,12 @@ Guidance:
 **Fate-Defier** (Passive)
 - First time each round the Remnant would take 15+ damage, reduce that instance by 8 (minimum 1).
 
-**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If this entity fails a save, it can choose to succeed instead.
 
-**Legendary Actions** (2 per round)
+**Legendary Actions** (3 per round)
 - **Spectral Step:** Teleport up to 20 feet.
 - **Echo Guard:** Gain +2 DV against one attack.
+- **Reaver-Echo Slash** (2 actions): Make one Reaver-Echo Slash attack.
 
 **Lair Action** (on 20)
 - **Pillar Whorl:** Distorts space; creatures of choice within 30 feet make a DR 4 Focus save. On failure, their positions are swapped with a random ally.
@@ -103,12 +103,12 @@ Guidance:
 *A temporal after-image of a sovereign’s resolve; a warrior who steps between instants to rewrite outcomes.*
 
 **Type:** Medium Humanoid (Vampire, Temporal)
-**Threat Tier:** Deadly (TV 17)
+**Threat:** Boss — Per-Hero 12 *(party of 4; total budget TV 48)*
 
 ### Statistics
-- **HP:** 190
+- **HP:** 180
 - **DV:** 6
-- **Armor:** 7 (Temporal Plate)
+- **Armor:** 4 (Temporal Plate)
 - **Initiative:** 12
 - **Movement:** 60 feet
 - **SE:** 80
@@ -116,7 +116,7 @@ Guidance:
 - **Attributes:** Fury 7, Soul 5, Shadow 6, Will 6, Focus 6, Blood 3
 - **Skills:** Athletics 5, Evasion 5, Insight 3, Observation 4
 
-**Resistances:** Force, Spectral
+**Resistances:** Resistant to physical (half damage), Force, Spectral
 **Immunities:** **Charmed**, **Frightened**
 
 ---
@@ -145,11 +145,12 @@ Guidance:
 
 ### Abilities
 
-**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If this entity fails a save, it can choose to succeed instead.
 
-**Legendary Actions** (2 per round)
+**Legendary Actions** (3 per round)
 - **Offhand Cut:** Make a Timescar Blade attack; on hit, it deals half its normal damage.
 - **Step Between:** Move up to 10 feet without provoking opportunity attacks.
+- **Timescar Strike** (2 actions): Make one full Timescar Blade attack.
 
 **Lair Action**
 - **Hourglass Shatter:** Choose a 10-foot-radius zone; all effects with durations there tick twice at round's end. (All ongoing effects — buffs, debuffs, damage-over-time, and durations — tick at double speed. Buffs expire in half the normal time. DoT effects trigger twice per round. This affects all creatures in the lair equally.)
@@ -189,10 +190,10 @@ Guidance:
 
 **Type:** Medium Spectral (Pillar Guardian)
 **Affinity:** Spectral
-**Threat Tier:** Deadly (TV 16)
+**Threat:** Boss — Per-Hero 12 *(party of 4; total budget TV 48)*
 
 ### Statistics
-- **HP:** 160
+- **HP:** 180
 - **DV:** 6
 - **Armor:** 4
 - **Initiative:** 10
@@ -201,8 +202,7 @@ Guidance:
 - **Attributes:** Fury 4, Soul 9, Shadow 6, Will 8, Focus 6, Blood 0
 - **Skills:** Glyphcasting 4, Insight 3, Persuasion 4
 
-**Immunities:** Non-magical physical
-**Resistances:** Radiant, Spectral
+**Resistances:** Resistant to physical (half damage), Radiant, Spectral
 **Vulnerabilities:** Desecration zones
 
 ---
@@ -228,11 +228,12 @@ Guidance:
 **Mercy Weighed** (Passive)
 - When a Marked foe deals damage to an ally, Ariel’s Wrath may move the Mark to that foe’s attacker instead. (Moving the Mark requires a bonus action and can only be done once per round.)
 
-**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If this entity fails a save, it can choose to succeed instead.
 
-**Legendary Actions** (2 per round)
+**Legendary Actions** (3 per round)
 - **Searing Glance:** One creature within 30 feet takes 8 Radiant damage.
 - **Soothing Word:** One ally within 30 feet heals 10 HP.
+- **Voice of Reckoning** (2 actions): Make one Voice of Reckoning attack.
 
 **Lair Action**
 - **Bell of Balance:** Until next round, hostile spells cast within 30 feet have Disadvantage to hit.
@@ -277,12 +278,12 @@ When the Pillars of Nosgoth cracked and the Circle of Nine fell to madness, the 
 Prophets are never truly alone. Their influence radiates outward through rumor, superstition, and self-fulfilling prophecy, warping entire regions before the party even meets them. Some serve vampire lords as court oracles; others lead messianic movements that threaten the fragile order of Nosgoth's surviving settlements. A rare few have glimpsed the Wheel of Fate itself and speak of breaking it — words that draw the attention of forces far older than any mortal cult.
 
 **Type:** Medium Humanoid (Mortal, Corrupted)
-**Threat Tier:** Deadly (TV 15)
+**Threat:** Boss — Per-Hero 10.5 *(party of 4; total budget TV 42)*
 
 ### Statistics
-- **HP:** 130
+- **HP:** 160
 - **DV:** 6
-- **Armor:** 5
+- **Armor:** 4
 - **Initiative:** 9
 - **Movement:** 50 feet
 - **SE:** 100
@@ -319,7 +320,12 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 **Crimson Veil** (Reaction)
 - Twice per encounter. When targeted by an attack, the Prophet wraps itself in a shroud of blood-light, gaining +3 Armor against that attack.
 
-**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If this entity fails a save, it can choose to succeed instead.
+
+**Legendary Actions** (3 per round)
+- **Crimson Edict** (2 actions): Use Crimson Edict on one target.
+- **Whisper of Fate** (1 action): One creature within 30 feet suffers -1 success on its next roll.
+- **Blood Ward** (1 action): The Prophet gains +2 DV until the start of its next turn.
 
 **Lair Action**
 - **Crowd Sway:** A wave of whispers; enemies within 30 feet make a DR 4 Will save. On failure, an enemy is **Charmed** until damaged.
@@ -358,12 +364,12 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 *Guardian of a pulsing core below the world; wards all who would claim its power.*
 
 **Type:** Large Aberration (Abyssal)
-**Threat Tier:** Deadly (TV 19)
+**Threat:** Boss — Per-Hero 13.5 *(party of 4; total budget TV 54)*
 
 ### Statistics
-- **HP:** 240
+- **HP:** 200
 - **DV:** 6 (1 + Shadow 5)
-- **Armor:** 7 (Abyssal Plate)
+- **Armor:** 4 (Abyssal Plate)
 - **Initiative:** 8
 - **Movement:** 50 feet
 - **SE:** 120
@@ -371,7 +377,7 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 - **Attributes:** Fury 8, Soul 7, Shadow 5, Will 7, Focus 6, Blood 4
 - **Skills:** Athletics 4, Glyphcasting 5, Intimidation 4
 
-**Resistances:** Fire, Cold, Lightning, Force
+**Resistances:** Resistant to physical (half damage), Fire, Cold, Lightning, Force
 **Immunities:** **Charmed**, **Frightened**
 
 ---
@@ -403,7 +409,7 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 **Abyssal Drain** (Passive)
 - When the Keeper hits a creature with Heartbrand Halberd, it regains 5 HP. If the target has 0 SE or BP, the Keeper instead regains 10 HP.
 
-**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If this entity fails a save, it can choose to succeed instead.
 
 **Legendary Actions** (3 per round)
 - **Halberd Sweep** (1 action): Make a Heartbrand Halberd attack against all creatures within 10 feet (one roll, apply to each).
@@ -454,20 +460,20 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 
 **Type:** Gargantuan Aberration (Elder God Tendril)
 **Affinity:** Hybrid *(Note: The Tendril of the Wheel exists across realm boundaries simultaneously. Soul Bleed does not apply — it is not a visitor to either realm. Standard realm interaction rules do not apply — Soul Bleed, forced shifts, and Soul Portal rules cannot affect it.)*
-**Threat Tier:** Apex (TV 22)
+**Threat:** Legendary — Per-Hero 18 *(party of 4; total budget TV 72)*
 
 ### Statistics
-- **HP:** 350
+- **HP:** 260
 - **DV:** 6
-- **Armor:** 11 (Calcified God-Flesh)
+- **Armor:** 6 (Calcified God-Flesh)
 - **Initiative:** 6
 - **Movement:** 50 feet, Burrow 100 feet
 - **SE:** 200
 - **Attributes:** Fury 9, Soul 10, Shadow 7, Will 9, Focus 8, Blood 0
 - **Skills:** Forbidden Knowledge 6, Insight 6, Athletics 5, Intimidation 7
 
-**Immunities:** Non-magical physical, Poison, **Charmed**, **Frightened**, Sleep, Entropic, Spectral
-**Resistances:** Fire, Cold, Lightning, Force, Radiant
+**Immunities:** Poison, **Charmed**, **Frightened**, Sleep, Entropic, Spectral
+**Resistances:** Resistant to physical (half damage), Fire, Cold, Lightning, Force, Radiant
 **Vulnerabilities:** None (see Severing the Tether below)
 
 ---
@@ -505,9 +511,9 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 **Manifest Eye** (Passive)
 - The Tendril perceives all creatures within 120 feet regardless of invisibility, stealth, phase state, or dimensional position. It cannot be surprised. It detects lies automatically.
 
-**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If this entity fails a save, it can choose to succeed instead.
 
-**Mythic Trait — Severing the Tether:** The Tendril is effectively immortal while connected to the Elder God's body deep underground. When reduced to 0 HP, it regenerates to 100 HP at start of its next turn. To prevent this, the party must **sever the Tether** — a pulsing conduit of flesh extending from the Tendril into the earth. The Tether has **HP:** 80, **DV:** 4, **Armor:** 6, and is immune to non-magical damage. It can only be attacked while the Tendril is Bloodied (the strain exposes it). Once the Tether is severed, the Tendril cannot regenerate and its **Armor** drops to 6. The Elder God screams — all creatures within 60 feet make a DR 4 Will save. On failure, a creature is **Stunned** for 1 round.
+**Mythic Trait — Severing the Tether:** The Tendril is effectively immortal while connected to the Elder God's body deep underground. When reduced to 0 HP, it regenerates to 100 HP at start of its next turn. To prevent this, the party must **sever the Tether** — a pulsing conduit of flesh extending from the Tendril into the earth. The Tether has **HP:** 80, **DV:** 4, **Armor:** 6, and is immune to non-magical damage. It can only be attacked while the Tendril is Bloodied (the strain exposes it). Once the Tether is severed, the Tendril cannot regenerate and its **Armor** drops to 3. The Elder God screams — all creatures within 60 feet make a DR 4 Will save. On failure, a creature is **Stunned** for 1 round.
 
 **Legendary Actions** (4 per round)
 - **Tendril Lash** (1 action): Attack one creature within 20 feet for 16 Bludgeoning (Fury 9 + 5 = 14d6).
@@ -574,12 +580,12 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 *A ruler whose court exists in the spaces between glances; all obey without knowing why.*
 
 **Type:** Medium Humanoid (Vampire, Psychic)
-**Threat Tier:** Deadly (TV 16)
+**Threat:** Boss — Per-Hero 12 *(party of 4; total budget TV 48)*
 
 ### Statistics
-- **HP:** 150
+- **HP:** 180
 - **DV:** 6
-- **Armor:** 5
+- **Armor:** 4
 - **Initiative:** 12
 - **Movement:** 70 feet
 - **SE:** 100
@@ -612,7 +618,12 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 **Command the Scene** (Passive)
 - Once per round without spending an action, the Monarch moves one creature within 60 feet up to 5 feet. As a 2-action Legendary Action, all enemies who can hear the Monarch make a DR 4 Will save. On failure, a creature loses its next action.
 
-**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If this entity fails a save, it can choose to succeed instead.
+
+**Legendary Actions** (3 per round)
+- **Edict from Nowhere** (2 actions): Make one Edict from Nowhere attack.
+- **Vanish** (1 action): Use Disappear/Appear (still costs 6 SE).
+- **Unseen Command** (1 action): Move one creature within 60 feet up to 5 feet.
 
 **Lair Action**
 - **Hidden Court:** All ranged attacks beyond 20 feet have Disadvantage until next round.
@@ -651,7 +662,7 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 *A legendary hunter whose creed outlived his flesh—precision, ritual, and implacable purpose.*
 
 **Type:** Medium Undead (Sarafan, Holy)
-**Threat Tier:** Deadly (TV 17)
+**Threat:** Boss — Per-Hero 12 *(party of 4; total budget TV 48)*
 
 ### Statistics
 - **HP:** 180
@@ -689,14 +700,15 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 **Oath of Pursuit** (Passive)
 - Chooses a quarry; gains +2 to all attacks vs the quarry; cannot willingly retreat while quarry stands.
 
-**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If this entity fails a save, it can choose to succeed instead.
 
-**Legendary Actions** (2 per round)
+**Legendary Actions** (3 per round)
 - **Riteblade Riposte:** When missed by a melee attack, make a Riteblade attack; on hit, it deals half its normal damage.
 - **Execute Gap:** Move up to 10 feet and make a Riteblade attack; on hit, it deals half its normal damage.
+- **Riteblade** (2 actions): Make one full Riteblade attack.
 
 **Lair Action**
-- **Sanctified Ground:** At initiative count 20, the Pale Sarafan channels holy energy. Choose one: (a) All undead and fiends within the lair take 8 Radiant damage (no save), (b) all allies of the Pale Sarafan within the lair regain 5 HP, or (c) one 20-foot area within the lair becomes consecrated ground until the next initiative count 20. Undead entering the area have Disadvantage on all rolls.
+- **Sanctified Ground:** At initiative count 20, the Pale Sarafan channels holy energy. Choose one: (a) All undead and fiends within the lair (except the Pale Sarafan) take 8 Radiant damage (no save), (b) all allies of the Pale Sarafan within the lair regain 5 HP, or (c) one 20-foot area within the lair becomes consecrated ground until the next initiative count 20. Undead entering the area have Disadvantage on all rolls.
 
 **Regional Effects**
 - Shrines rekindle; oaths sworn nearby carry weight (Advantage to keep them; Disadvantage to break them).
@@ -733,10 +745,10 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 
 **Type:** Medium Spectral (Ancient, Arcane)
 **Affinity:** Spectral
-**Threat Tier:** Deadly (TV 16)
+**Threat:** Boss — Per-Hero 10.5 *(party of 4; total budget TV 42)*
 
 ### Statistics
-- **HP:** 140
+- **HP:** 160
 - **DV:** 6
 - **Armor:** 5
 - **Initiative:** 10
@@ -773,10 +785,12 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 
 ### Abilities
 
-**Legendary Resistance (2/day):** If this entity fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If this entity fails a save, it can choose to succeed instead.
 
-**Legendary Actions** (2 per round)
+**Legendary Actions** (3 per round)
 - **Quietus:** Sound dampens; verbal components and shouted commands fail on 1-2 on a d6.
+- **Unword** (1 action): Make one Unword attack.
+- **Seal of Obscurity** (2 actions): Use Seal of Obscurity (still costs 10 SE).
 
 **Regional Effects**
 - Records go missing; maps mislabel paths; secret doors are easier to find for those who whisper a true name.
@@ -811,7 +825,7 @@ The Tendril does not flee, negotiate, or show mercy. It is a force of nature. Ev
 
 **Type:** Legendary Entity (Temporal Fragment, Guardian of Time)
 **Affinity:** Hybrid *(Note: The Echo of Moebius exists in a temporal state rather than a realm state. It is subject to Spectral Realm entry and exit rules when relevant but does not suffer Soul Bleed — it has no soul to dissolve.)*
-**Threat Tier:** Deadly (TV 16)
+**Threat:** Boss — Per-Hero 12 *(party of 4; total budget TV 48)*
 
 ### Lore
 Moebius the Time Streamer — Guardian of the Pillar of Time — was among the most influential and most treacherous figures in Nosgoth's history. His mastery of temporal manipulation was without peer: he could observe any point in time, redirect the timeline of any who came under his influence, and erase or rewrite the context of events that did not suit his purposes. Whether he served the Elder God willingly, whether he was a victim of his own power's temptation, or whether he was always the monster Kain described — these questions die with him.
@@ -821,7 +835,7 @@ An Echo of Moebius is not Moebius himself. It is a consequence of his millennia 
 They do not intend harm precisely. They are temporal coherence agents, attempting to preserve certain timeline outcomes. If the party is about to do something that disrupts a preserved-outcome, an Echo will oppose them — purposefully, intelligently, and with tools that bend the rules of time itself.
 
 ### Statistics
-- **HP:** 210
+- **HP:** 180
 - **DV:** 6 (1 + Focus 5)
 - **Armor:** 2 (temporal ward)
 - **Initiative:** 7
@@ -864,9 +878,10 @@ They do not intend harm precisely. They are temporal coherence agents, attemptin
 
 **Legendary Resistance (3/day):** If the Echo fails a save, it can choose to succeed instead.
 
-**Legendary Actions** (2 per round)
+**Legendary Actions** (3 per round)
 - **Time Strike** (1 action): Make one Time Strike at target within range
 - **Temporal Displacement** (2 actions): Use Temporal Displacement on one target (still costs 12 SE)
+- **Stutter Step** (1 action): Move up to 20 feet without provoking opportunity attacks.
 
 **Lair Action — Timeline Bleed** (Initiative count 20)
 - The boundary between the current moment and recent past thins. Each PC makes a DR 3 Focus save. On failure, the PC is briefly haunted by a vision of their own death (or a near-defeat) from a previous session, takes 6 Spectral damage, and has Disadvantage on their next action.
@@ -892,7 +907,7 @@ The Echo opens by using Temporal Displacement on the party's most lethal PC (rem
 ## 9.11 The Death Guardian
 
 **Type:** Legendary Entity (Corrupted Pillar Guardian, Undead Warlord)
-**Threat Tier:** Deadly (TV 17)
+**Threat:** Legendary — Per-Hero 15 *(party of 4; total budget TV 60)*
 
 ### Lore
 In the time before the Pillars fell, each Pillar had a Guardian: a mortal chosen — or compelled — by the Pillar's nature to embody its principle and maintain its function. The Guardian of the Pillar of Death was the axis of Nosgoth's natural mortality cycle, the figure who ensured that souls entered the Wheel of Fate, that death was final, and that the process of spiritual renewal continued uninterrupted.
@@ -902,9 +917,9 @@ When the circle broke and the Guardian fell — through corruption, murder, or a
 The Death Guardian is everything the role was meant to prevent: an undead being with dominion over mortality itself, raising everything it kills into further service, and growing stronger with every death in its vicinity.
 
 ### Statistics
-- **HP:** 230
+- **HP:** 220
 - **DV:** 6 (1 + Will 5)
-- **Armor:** 3 (deathplate)
+- **Armor:** 4 (deathplate)
 - **Initiative:** 7
 - **Movement:** 35 feet, Fly 30 feet
 - **SE:** 90
@@ -966,7 +981,7 @@ The Death Guardian positions at the center of a summoned undead screen, using Ne
 - Death Guardian's Seal — **Trade Value**: 200 supplies (used to unlock Pillar-of-Death-locked mechanisms)
 
 ### Scaling Options
-- **Fallen Guardian Echo (Boss, TV 5):** - **HP:** 90, - **DV:** 5, - **Soul:** 4, - **SE:** 30. Reaper's Blade deals 8 damage; risen thralls are only Feralslave Ghouls. No Undying. Loses all Legendary Actions and Legendary Resistance.
+- **Fallen Guardian Echo (Boss, TV 21):** - **HP:** 90, - **DV:** 5, - **Soul:** 4, - **SE:** 30. Reaper's Blade deals 8 damage; risen thralls are only Feralslave Ghouls. No Undying. Loses all Legendary Actions and Legendary Resistance.
 - **The Death Ascendant (TV 20+):** - **HP:** 320, - **DV:** 6, - **Armor:** 5, - **Soul:** 8, - **SE:** 130. Legendary Actions increase to 3 per round: Reaper's Blade deals 18 + kills auto-raise Vampire Thralls. Undying triggers within 500 miles of any death. Necrotic Detonation deals 22 and **Weakened** is permanent until magically cured.
 
 ---
@@ -974,7 +989,7 @@ The Death Guardian positions at the center of a summoned undead screen, using Ne
 ## 9.12 Vorador the Patriarch
 
 **Type:** Legendary Entity (Ancient Elder Vampire, Patriarch of Clan Zephonim)
-**Threat Tier:** Deadly (TV 18)
+**Threat:** Legendary — Per-Hero 16 *(party of 4; total budget TV 64)*
 
 ### Lore
 Vorador is the oldest surviving vampire in Nosgoth — the last direct progeny of Janos Audron, sired in the time before the Circle fell. He is not merely powerful; he is the standard against which all other vampiric power is measured. His age is measured in millennia. His control of blood magic is absolute. His contempt for the Sarafan is personal and permanent — he slaughtered six Sarafan Circle members in a single night during Blood Omen, and he considers it one of his more moderate evenings.
@@ -984,7 +999,7 @@ He is not a villain in the traditional sense. He is a man of principle — vampi
 Encountering Vorador is not something that happens by accident. It happens because someone brought him into the story, either by seeking him out or by doing something profound enough to draw his attention. He will not be fought idly. If the party has earned his respect (or his contempt), the encounter will be one of the most memorable in the campaign.
 
 ### Statistics
-- **HP:** 250
+- **HP:** 232
 - **DV:** 6 (1 + Blood 5)
 - **Armor:** 2 (supernatural resilience)
 - **Initiative:** 8
@@ -1053,7 +1068,7 @@ Vorador does not rush. He opens with Zephonim's Curse on the PC with the highest
 - Zephonim texts — **Trade Value**: 150 supplies each
 
 ### Scaling Options
-- **Vorador Contained (Boss, TV 6):** - **HP:** 120, - **DV:** 5, - **Blood:** 4, - **SE:** 40, - **BP:** 15. Loses Patriarch's Call and Lair Action. Legendary Actions reduce to 2 per round.
+- **Vorador Contained (Boss, TV 30):** - **HP:** 120, - **DV:** 5, - **Blood:** 4, - **SE:** 40, - **BP:** 15. Loses Patriarch's Call and Lair Action. Legendary Actions reduce to 2 per round.
 - **Vorador Ascendant (TV 21):** - **HP:** 300, - **DV:** 6, all attributes +1, - **SE:** 140, - **BP:** 40. Patriarch's Call summons 2d6 Fledglings + 2d2 Overlords.
 
 ---
@@ -1061,10 +1076,10 @@ Vorador does not rush. He opens with Zephonim's Curse on the PC with the highest
 ## 9.13 Hylden Overlord
 
 **Type:** Legendary Entity (Supreme Hylden Commander)
-**Threat Tier:** Deadly (TV 19)
+**Threat:** Legendary — Per-Hero 16 *(party of 4; total budget TV 64)*
 
 ### Statistics
-- **HP:** 260
+- **HP:** 232
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 3 (Hylden warpplate)
 - **Initiative:** 9
@@ -1126,7 +1141,7 @@ The Overlord opens with Dimensional Anchor on the party's most effective counter
 - Hylden command seal — **Trade Value**: 300 supplies
 
 ### Scaling Options
-- **Hylden Warlord (Boss, TV 5):** - **HP:** 105, - **DV:** 5, - **Soul:** 4, - **SE:** 40. No Dimensional Anchor or Lair Action.
+- **Hylden Warlord (Boss, TV 27):** - **HP:** 105, - **DV:** 5, - **Soul:** 4, - **SE:** 40. No Dimensional Anchor or Lair Action.
 - **Hylden God-Emperor (TV 22+):** - **HP:** 360, - **DV:** 6, all attributes +1, - **SE:** 160. Dimensional Anchor affects 2 targets simultaneously.
 
 ---
@@ -1137,7 +1152,7 @@ The Overlord opens with Dimensional Anchor on the party's most effective counter
 
 **Type:** Medium Aberration (Elder God Vessel)
 **Affinity:** Hybrid
-**Threat Tier:** Major (TV 14)
+**Threat:** Boss — Per-Hero 7.5 *(party of 4; total budget TV 30)*
 
 ### Statistics
 - **HP:** 120
@@ -1185,9 +1200,9 @@ The Overlord opens with Dimensional Anchor on the party's most effective counter
 **False Purpose** (Lore Ability)
 - Creatures within 30 feet who attempt to discern its true nature must make a Forbidden Knowledge or Insight check (DR 4) to see through its disguise.
 
-**Legendary Resistance (2/day):** If the Eye fails a save, it may choose to succeed instead.
+**Legendary Resistance (3/day):** If the Eye fails a save, it may choose to succeed instead.
 
-**Legendary Actions** (2 per round)
+**Legendary Actions** (3 per round)
 - **Tendril Strike:** 15-foot melee reach; 10 Spectral damage (1 action).
 - **Echo of the Wheel:** One creature within 30 feet makes a DR 4 Will save. On failure, it suffers Disadvantage on its next roll (1 action).
 - **Drain Proximity:** Regain 5 HP per creature within 10 feet that currently has SE remaining (no action, once per round).
@@ -1230,20 +1245,20 @@ The Overlord opens with Dimensional Anchor on the party's most effective counter
 
 **Type:** Gargantuan Aberration (Elder God, Partial Manifestation)
 **Affinity:** Hybrid *(Note: The Elder God Manifestation exists across all realms simultaneously. Standard realm interaction rules do not apply — Soul Bleed, forced shifts, and Soul Portal rules cannot affect it.)*
-**Threat Tier:** Apex (TV 20)
+**Threat:** Legendary — Per-Hero 20 *(party of 4; total budget TV 80)*
 
 ### Statistics
-- **HP:** 350
+- **HP:** 280
 - **DV:** 6
-- **Armor:** 11 (Ageless Eldritch Mass)
+- **Armor:** 6 (Ageless Eldritch Mass)
 - **Initiative:** 7
 - **Movement:** 30 feet (tendrils reach 40 feet)
 - **SE:** 200
 - **Attributes:** Fury 4, Soul 12, Shadow 6, Will 10, Focus 8, Blood 0
 - **Skills:** Forbidden Knowledge 6, Intimidation 4, Insight 4
 
-**Immunities:** Non-magical physical, **Frightened**, **Charmed**, Blood-based effects
-**Resistances:** All elemental, Spectral, Force, Radiant
+**Immunities:** **Frightened**, **Charmed**, Blood-based effects
+**Resistances:** Resistant to physical (half damage), All elemental, Spectral, Force, Radiant
 
 ---
 

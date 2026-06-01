@@ -353,10 +353,10 @@ The following defines precisely what is and is not possible while fully manifest
 
 | Action | Check | On Success | On Failure |
 | :--- | :--- | :--- | :--- |
-| Partial Manifest — touch one Material object | DR 3, Will + Possession | Interact with it for 1 round | Hand passes through; no effect |
-| Speak audibly to Material creatures | DR 2, Will + Possession | They hear your voice clearly, direction unknown | They hear only a faint unintelligible sound |
+| Partial Manifest — touch one Material object | DR 3, Will + Ethereal Mastery | Interact with it for 1 round | Hand passes through; no effect |
+| Speak audibly to Material creatures | DR 2, Will + Ethereal Mastery | They hear your voice clearly, direction unknown | They hear only a faint unintelligible sound |
 | Identify a hidden feature in the Material world | DR 1–3, Focus + Observation | See [Section 11.5.4](#1154-environmental-mirroring) scouting table | No information gained |
-| Force a Material creature to perceive you clearly | DR 3, Soul + Possession | They can see and hear you as if you were Material | They remain unaware of your presence |
+| Force a Material creature to perceive you clearly | DR 3, Soul + Ethereal Mastery | They can see and hear you as if you were Material | They remain unaware of your presence |
 
 **Critical Failure on Partial Manifest:** If you pushed the roll and the Corruption Die shows a 1 with 0 successes, you over-extended across the boundary — gain **1 Corruption** as the effort tears at your coherence.
 
@@ -381,7 +381,7 @@ The following defines precisely what is and is not possible while fully manifest
 | **Soul Reaver Blade** | Crosses realms, counts as Physical and Spectral; full damage both directions |
 | **Glyphs** | Always affect both realms simultaneously unless stated otherwise |
 | **Soul Sight** | Automatic for Spectral/Hybrid; Material characters need 1 Bonus Action to attune |
-| **Material object interaction** | Requires DR 3 Will + Possession; Critical Failure = 1 Corruption |
+| **Material object interaction** | Requires DR 3 Will + Ethereal Mastery; Critical Failure = 1 Corruption |
 
 ---
 

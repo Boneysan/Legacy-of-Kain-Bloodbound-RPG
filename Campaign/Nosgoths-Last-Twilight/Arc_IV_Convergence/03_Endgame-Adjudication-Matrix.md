@@ -42,7 +42,7 @@ Apply one modifier if a clock or repeated campaign pattern clearly matters at th
 
 | Pressure State | Modifier |
 |:---|:---|
-| Balance Reckoning Clock at 3-4 | The Hall's judgment hardens. Any outcome claimed as Balance must also show what cost the victors accept personally, or observers name it false balance. |
+| Balance Reckoning Clock at 3-4 (the `balance_reckoning` value carried into Arc IV) | The Hall's judgment hardens. Any outcome claimed as Balance must also show what cost the victors accept personally, or observers name it false balance. |
 | Hylden Breach Clock at 3-4 | Any anti-Wheel answer is harder to contain. Increase visible regional instability, refugee fallout, and the need for emergency seal-work. |
 | Wheel Compliance Clock at 3-4 | Civil populations, mourners, and institutions are more likely to accept surrender, burial, or managed truth even after the party's victory. |
 | Fracture Merge Clock at 3-4 | Even non-Fracture endings leave behind merge cults, breach pilgrims, and predators who call the crisis revelation. |

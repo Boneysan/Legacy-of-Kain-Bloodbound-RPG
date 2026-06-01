@@ -137,6 +137,19 @@ The Chronoplast does not lie. It shows two or more things that are all true, sim
 
 ---
 
+## Balance Reckoning Read — What the Road Here Cost
+
+> Read the [`balance_reckoning`](../Arc_III_VTT-State.md#balance_reckoning) value the party carried out of Arc II before this scene opens. This is the mid-campaign payoff for any breach the party forced rather than paid for; render it as *withdrawal of grace*, never as a stat penalty.
+
+- **`0`:** The road to the Chronoplast was hard but not cold. Shrines opened, a hedge-healer worked on trust, the Accord's lower clerks still did small kindnesses unasked. Nothing to add — the world has not yet learned to charge them.
+- **`1`:** One grace has thinned. On the approach, a wayside shrine the party expected to shelter at is shuttered, or the keeper who once gave bread now asks what they intend to do with the Shard before she answers. Play it once, quietly, and let them notice.
+- **`2`:** The pattern is visible. Iriane's instruments work, but the people around the machine do not extend trust the party have not bought. Curator Thess (or the curation trail) is colder for it; doors that should open on courtesy open only on proof. A Warden or spectral observer remarks, in passing, that the party "leave the world owing them less than they think."
+- **`3\u20134`:** Grace is withheld systematically. The Chronoplast's caretakers treat the party as instruments of imbalance, not stewards; aid on the road demanded named cost the whole way here. Foreshadow the finale plainly: what they decide at the Heart will be weighed by a Hall that has already decided they take more than they give. (This is the same value the Endgame Adjudication Matrix reads at 3\u20134.)
+
+> Whatever fires here, it is texture, not a gate — it changes the temperature of the scene, not its branches.
+
+---
+
 ## GM Notes
 
 - Iriane's "the one you felt less certain about is the accurate one" is the scene's central wound. It should be delivered quietly, not dramatically.

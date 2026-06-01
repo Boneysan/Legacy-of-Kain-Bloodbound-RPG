@@ -271,7 +271,7 @@ Exceptional skill or catastrophic missteps shape Nosgoth’s battles.
 Nosgoth’s battlefields are as deadly as its warriors, with shifting realms and cursed terrain.
 
 - **Material and Spectral Realms**: Characters with realm-shifting abilities can interact with both planes, gaining tactical edges (e.g., attacking through Spectral rifts).
-- **Glyph Traps and Shadowfields**: Environmental hazards (e.g., traps dealing 2 Fire or Entropic damage, fields granting advantage) challenge combatants. Roll Soul + Glyphcasting or Thievery to disarm or manipulate.
+- **Glyph Traps and Shadowfields**: Environmental hazards (e.g., traps dealing 2 Fire or Entropic damage, fields granting advantage) challenge combatants. Roll Soul + Glyphcasting or Infiltration to disarm or manipulate.
 - **Terrain Interaction**: Use Fury + Athletics to destroy objects (e.g., crumbling pillars, DR 2) or create cover.
 
 **Example**: A Zephonim ambushes from a Spectral shadowfield (+2 advantage) and triggers a Fire Glyph trap (DR 2 to avoid, 2 Fire damage), forcing enemies to adapt or suffer.

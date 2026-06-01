@@ -17,10 +17,10 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 *A swirling vortex of flame and rage, bound to a specific place or object, lashing out at any who intrude upon its sanctum.*
 
 **Type:** Large Elemental (Fire)
-**Threat Tier:** Major (TV 12)
+**Threat:** Boss — Per-Hero 7.5 *(party of 4; total budget TV 30)*
 
 ### Statistics
-- **HP:** 80
+- **HP:** 120
 - **DV:** 5 (1 + Shadow 4)
 - **Armor:** 4 (Hardened magical flame)
 - **Initiative:** 7
@@ -57,6 +57,14 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 **Heat Wave** (Passive)
 - **Range:** 10-foot radius
 - **Special:** Any creature that starts its turn within the aura takes 3 Fire damage. The area is considered difficult terrain for any creature not immune to Fire.
+
+**Legendary Resistance (3/day)**
+- **Special:** If the Djinn fails a save, it can choose to succeed instead.
+
+**Legendary Actions** (3 per round)
+- **Cinder Strike** (1 action): Make one Cinder Strike attack.
+- **Emberstorm** (2 actions): Use Emberstorm (still costs 5 SE).
+- **Reposition** (1 action): Move up to its speed within its binding without provoking opportunity attacks.
 
 ---
 
@@ -98,7 +106,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 *A large, spectral wolf wreathed in ethereal fire, its howls echoing with the crackle of a dying fire. It is a hunter, bound not by rage, but by a lingering, sorrowful duty.*
 
 **Type:** Large Beast (Spectral, Fire)
-**Threat Tier:** High (TV 9)
+**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*
 
 ### Statistics
 - **HP:** 65
@@ -178,7 +186,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 *A swirling vortex of wind, razor-sharp ice shards, and corrupted blood magic. It is a localized, unnatural storm that drains the life from the land and its inhabitants.*
 
 **Type:** Huge Elemental (Cold, Blood)
-**Threat Tier:** Major (TV 14)
+**Threat:** Elite — Per-Hero 3.5 *(party of 4; total budget TV 14)*
 
 ### Statistics
 - **HP:** 100
@@ -191,7 +199,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **Attributes:** Fury 5, Soul 4, Shadow 6, Will 2, Focus 3, Blood 5
 - **Skills:** Athletics 4, Observation 3, Ritualism 4
 
-**Immunities:** Cold, Non-magical physical damage
+**Immunities:** Cold
+**Resistances:** Resistant to physical (half damage)
 **Vulnerabilities:** Lightning, Fire
 **Resistances:** Entropic
 
@@ -239,7 +248,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 **For Players:** This is a battle of attrition and positioning. Staying out of the Sanguine Vortex is paramount. Weapon Mastery attackers will need to find a way to get clear shots, either by dispelling the magical storm or by getting dangerously close. Inflicting Fire or Lightning damage is the most effective way to bring it down quickly. It's critical to stop anyone from **Bleeding**, as this fuels the cyclone's most dangerous ability. Healers must be protected.
 
-**For the GM:** The cyclone is a battlefield controller. Its primary function is to disrupt the party's formation and create a hazardous arena. Use its pull effect to drag weaker characters into the vortex. Remember that it is mindless; it will always target the closest **Bleeding** creature with **Hemorrhage**, which can be used by clever players to bait it. Its non-magical physical immunity means martial characters will need magical weapons or alternative strategies to contribute effectively.
+**For the GM:** The cyclone is a battlefield controller. Its primary function is to disrupt the party's formation and create a hazardous arena. Use its pull effect to drag weaker characters into the vortex. Remember that it is mindless; it will always target the closest **Bleeding** creature with **Hemorrhage**, which can be used by clever players to bait it. Because it is resistant (not immune) to physical damage, martial characters still contribute — magical weapons or elemental attacks simply finish it faster.
 
 ---
 
@@ -263,7 +272,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 *A fallen warrior's form, encased in a thick layer of magical frost. It moves with a stiff, relentless gait, its eyes glowing with a cold, blue light. It is not truly unliving, but a vessel animated by a vengeful frost spirit.*
 
 **Type:** Medium Undead (Frost-Bound)
-**Threat Tier:** High (TV 10)
+**Threat:** Elite — Per-Hero 2.5 *(party of 4; total budget TV 10)*
 
 ### Statistics
 - **HP:** 90
@@ -344,12 +353,12 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 *A massive construct of translucent, layered ice, standing nearly twelve feet tall. Its body is a lattice of crystalline formations that shift and reform with grinding, percussive cracks. It does not chase. It does not rage. It stands between you and what it guards, and it makes you come to it.*
 
 **Type:** Large Construct (Ice)
-**Threat Tier:** High (TV 11)
+**Threat:** Boss — Per-Hero 7.5 *(party of 4; total budget TV 30)*
 
 ### Statistics
-- **HP:** 100
+- **HP:** 120
 - **DV:** 5 (1 + Shadow 2; construct relies on Armor over evasion)
-- **Armor:** 7 (Crystalline Ice)
+- **Armor:** 4 (Crystalline Ice)
 - **Initiative:** 2
 - **Movement:** 25 feet
 - **SE:** 25
@@ -385,6 +394,14 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 
 **Crystalline Reformation** (Passive)
 - **Special:** At the start of each turn, the Warden regenerates 5 HP if it is standing on ice or stone. If the Warden is reduced to 0 HP, it shatters violently. All creatures within 10 feet make a DR 3 Evasion save. On failure, they take 8 Cold damage. On success, they take half damage.
+
+**Legendary Resistance (3/day)**
+- **Special:** If the Warden fails a save, it can choose to succeed instead.
+
+**Legendary Actions** (3 per round)
+- **Icebound Slam** (1 action): Make one Icebound Slam attack.
+- **Ice Wall** (1 action): Use Ice Wall (still costs 5 SE).
+- **Permafrost Zone** (2 actions): Use Permafrost Zone (still costs 8 SE).
 
 ---
 
@@ -426,7 +443,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 *A serpentine creature of pure magical energy, its body a swirling mass of bright, arcane flames. It darts through the air with unpredictable speed, leaving trails of searing light in its wake. It is a manifestation of uncontrolled spellcasting, given form and fury.*
 
 **Type:** Large Beast (Arcane)
-**Threat Tier:** High (TV 11)
+**Threat:** Elite — Per-Hero 2.75 *(party of 4; total budget TV 11)*
 
 ### Statistics
 - **HP:** 70
@@ -438,7 +455,8 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **Attributes:** Fury 3, Soul 6, Shadow 2, Will 4, Focus 5, Blood 0
 - **Skills:** Glyphcasting 6, Evasion 5, Observation 3
 
-**Immunities:** Fire, Poison, Non-magical physical damage
+**Immunities:** Fire, Poison
+**Resistances:** Resistant to physical (half damage)
 **Vulnerabilities:** Cold, Anti-Magic effects
 **Resistances:** Lightning, Force
 
@@ -513,12 +531,12 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 *An absence given form - a creature of pure anti-magic that devours arcane energy and leaves silence in its wake.*
 
 **Type:** Large Elemental (Void, Anti-Magic)
-**Threat Tier:** Major (TV 14)
+**Threat:** Elite — Per-Hero 3.5 *(party of 4; total budget TV 14)*
 
 ### Statistics
 - **HP:** 130
 - **DV:** 6
-- **Armor:** 7 (Anti-Magic Shell)
+- **Armor:** 6 (Anti-Magic Shell)
 - **Initiative:** 8
 - **Movement:** 40 feet, Fly 40 feet (hover)
 - **SE:** 60
@@ -603,7 +621,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 *A hulking, amorphous mass of crackling electricity and storm clouds, shaped vaguely like a monstrous beast. Bolts of lightning arc from its form, and thunder rumbles with each movement. It is a living thunderstorm, born from the fury of a tempestuous sky.*
 
 **Type:** Large Elemental (Lightning, Storm)
-**Threat Tier:** Major (TV 13)
+**Threat:** Elite — Per-Hero 3.25 *(party of 4; total budget TV 13)*
 
 ### Statistics
 - **HP:** 110
@@ -615,7 +633,8 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 - **Attributes:** Fury 6, Soul 3, Shadow 5, Will 2, Focus 4, Blood 0
 - **Skills:** Athletics 4, Observation 3, Intimidation 4
 
-**Immunities:** Lightning, Thunder, Non-magical physical damage
+**Immunities:** Lightning, Thunder
+**Resistances:** Resistant to physical (half damage)
 **Vulnerabilities:** Grounding effects, anti-magic fields, and abilities that dispel or suppress magical energy
 **Resistances:** Fire, Cold
 
@@ -686,7 +705,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 *A swirling cloud of dense, enchanted fog, with tendrils that lash out like grasping hands. At its center is a faint, humanoid silhouette, whispering curses and binding spells. It is a spirit of confinement, trapping souls and bodies alike in its misty embrace.*
 
 **Type:** Medium Elemental (Mist, Spirit)
-**Threat Tier:** High (TV 9)
+**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*
 
 ### Statistics
 - **HP:** 75
@@ -698,7 +717,8 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 - **Attributes:** Fury 2, Soul 5, Shadow 6, Will 4, Focus 3, Blood 0
 - **Skills:** Infiltration 4, Glyphcasting 4, Stealth 2
 
-**Immunities:** Poison, Non-magical physical damage
+**Immunities:** Poison
+**Resistances:** Resistant to physical (half damage)
 **Vulnerabilities:** Wind, Bright light
 **Resistances:** Cold, Entropic
 
@@ -766,7 +786,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 ## 7.10 Flame Wisp
 
 **Type:** Elemental (Fire, Minor)
-**Threat Tier:** Bridge (TV 7)
+**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*
 
 ### Lore
 Flame Wisps are sparks of elemental fire given persistent consciousness - not born from volcanoes or conflagrations, but from places where the Pillar of States (or its corrupted equivalent) once channeled transformation energy. They are the aftermath of great magical events: where a Circle guardian once died in fire, where a Hylden ritual burned itself out, where a ward incinerated an insufficient sacrifice.
@@ -834,14 +854,14 @@ The Flame Wisp opens by establishing its Searing Aura in the melee cluster, then
 
 ### Scaling Options
 - **Spark Wisp (Standard, TV 2):** HP: 30, DV: 5, Soul 3, SE: 14, Fuel 3. Fire Dart deals 5 damage. No Ember Burst. Blazes Out radius reduced to 5 feet.
-- **Inferno Wisp (Boss, TV 12):** HP: 140, DV: 6, Soul 7, SE: 50, Fuel 8. Fire Dart deals 12 damage. Ember Burst radius 30 feet, 16 damage. Add Conflagration (once per encounter, 2 actions): 60-foot cone, 20 Fire damage, all failing targets **Burning**. Add Legendary Resistance (2/day).
+- **Inferno Wisp (Boss, TV 36):** HP: 140, DV: 6, Soul 7, SE: 50, Fuel 8. Fire Dart deals 12 damage. Ember Burst radius 30 feet, 16 damage. Add Conflagration (once per encounter, 2 actions): 60-foot cone, 20 Fire damage, all failing targets **Burning**. Add Legendary Resistance (2/day).
 
 ---
 
 ## 7.11 Pillar-Stone Golem
 
 **Type:** Elemental-Construct (Ancient, Earth)
-**Threat Tier:** High (TV 10)
+**Threat:** Boss — Per-Hero 9 *(party of 4; total budget TV 36)*
 
 ### Lore
 Pillar-Stone Golems are what happens when the animated stone of the Pillars of Nosgoth retains its enchantment after a Pillar shatters. The shattering doesn't destroy the animating magic - it concentrates it. Hundreds of years of Pillar-infused magical resonance, suddenly freed from its architectural function, coalesces into a lumbering figure of cracked stone, glowing runes, and residual purpose.
@@ -851,7 +871,7 @@ They are not evil. They are incomplete. They were the Pillars, and the Pillars w
 Pillar-Stone Golems are found near the ruins of ancient Pillar sites and in the deep chambers beneath them where Pillar-stone is most prevalent. They do not hunt. They do not pursue. They hold territory, and anything that enters that territory is subject to a 15-ton stone fist.
 
 ### Statistics
-- **HP:** 150
+- **HP:** 140
 - **DV:** 6 (1 + Blood 4 + Will 1 = hard cap at 6)
 - **Armor:** 4 (Pillar-stone construction)
 - **Initiative:** 2
@@ -899,8 +919,13 @@ Pillar-Stone Golems are found near the ruins of ancient Pillar sites and in the 
 **Ruins Sense** (Passive)
 - **Special:** Detects all movement and heartbeats within 60 feet through vibration sensitivity. Cannot be Surprised in its own territory.
 
-**Legendary Resistance** (2/day)
+**Legendary Resistance** (3/day)
 - **Special:** If the Golem fails a save, it can choose to succeed instead.
+
+**Legendary Actions** (3 per round)
+- **Pillar Fist** (1 action): Make one Pillar Fist attack.
+- **Stone Slam** (2 actions): Use Stone Slam (still costs 5 SE).
+- **Rune Burst** (3 actions): Use Rune Burst (still costs 8 SE).
 
 ---
 
@@ -917,7 +942,7 @@ The Pillar-Stone Golem positions itself at the center of its territory and waits
 - Stone dust (alchemical; when consumed, grants temporary +1 Armor for 1 hour but reduces speed by 10 feet) - **Trade Value**: 18 supplies
 
 ### Scaling Options
-- **Lesser Stone Golem (Boss, TV 5):** HP: 95, DV: 5, Armor: 3, Fury 4. No Rune Burst or Slow Recovery. Stone Slam deals 7 damage. Still Immovable.
+- **Lesser Stone Golem (Boss, TV 21):** HP: 95, DV: 5, Armor: 3, Fury 4. No Rune Burst or Slow Recovery. Stone Slam deals 7 damage. Still Immovable.
 - **Pillar-Heart Colossus (TV 15):** HP: 220, DV: 6, Armor: 6, Fury 6, Soul 5, SE: 60. Pillar Fist deals 18 damage. Stone Slam 30-foot radius, 14 damage, **Prone** + **Staggered**. Add **Pillar Wrath (3 Legendary Actions per round):** Pillar Fist (1), Stone Slam (2), Rune Burst (3, costs 3 LA). Slow Recovery heals 10 HP at the start of each turn.
 
 ---
@@ -925,7 +950,7 @@ The Pillar-Stone Golem positions itself at the center of its territory and waits
 ## 7.12 Umbral Vortex
 
 **Type:** Elemental (Shadow, Void)
-**Threat Tier:** High (TV 9)
+**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*
 
 ### Lore
 An Umbral Vortex is a tear in the boundary between the material world and the empty void beyond the Spectral Realm - not the Spectral Realm itself, but the absolute darkness beneath it that the Abyss touches. It manifests as a slowly spinning column of absolute darkness, perhaps 8 feet tall and 4 feet wide, that pulls light and sound into itself. Looking directly at one is unpleasant in a way that's hard to articulate - the visual cortex interprets "no light whatsoever" as something worse than blackness.
@@ -997,7 +1022,7 @@ The Umbral Vortex opens with Consuming Dark to neutralize lights and **Frightene
 
 **Type:** Elemental-Parasite (Arcane)
 **Affinity:** Spectral
-**Threat Tier:** High (TV 9)
+**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*
 
 ### Lore
 SE-Feeders exist at the intersection of elemental manifestation and magical parasitism. They are not born from any natural process - they coalesce where high concentrations of Soul Energy have been expended without properly dispersing, like the magical equivalent of a mold culture forming in a damp wall. They are particularly common at sites of heavy spellcasting, old summoning circles, and former Circle of Nine facilities.

@@ -46,7 +46,7 @@ No vampire society functions without mortal hands. Beneath the broods and the bl
 
 ### Attitudes Toward the Wheel of Fate
 
-Vampires exist outside the Wheel—their souls do not cycle through death and rebirth. This makes them invisible to the Elder God and deeply unsettling to those who serve it. Most vampires regard the Wheel with contempt ("a hamster wheel for mortals") or dread ("what happens to us when we finally die?"). A few—especially among the Razielim—believe Raziel's sacrifice created a crack in the Wheel through which vampire souls might one day pass. This heresy is called the *Razielite Exception* and is fiercely debated. *(See also: World Primer — Religions, Beliefs, and Philosophies for the parallel mortal faith: the* Razielite Martyrdom*, which venerates Raziel as a holy sacrifice among human communities.)*
+Vampires exist outside the Wheel—their souls do not cycle through death and rebirth. This makes them invisible to the Elder God and deeply unsettling to those who serve it. Most vampires regard the Wheel with contempt ("a mill-wheel to which mortals are forever yoked, grinding the same dust until they die") or dread ("what happens to us when we finally die?"). A few—especially among the Razielim—believe Raziel's sacrifice created a crack in the Wheel through which vampire souls might one day pass. This heresy is called the *Razielite Exception* and is fiercely debated. *(See also: World Primer — Religions, Beliefs, and Philosophies for the parallel mortal faith: the* Razielite Martyrdom*, which venerates Raziel as a holy sacrifice among human communities.)*
 
 ### The Six Clans
 

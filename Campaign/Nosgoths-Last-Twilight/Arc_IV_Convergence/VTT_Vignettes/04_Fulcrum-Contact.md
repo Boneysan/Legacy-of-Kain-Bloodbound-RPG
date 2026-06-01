@@ -63,14 +63,31 @@ Merel asks three questions, derived from the party's arc state. Each question sh
 
 > Default: *"Before we discuss what the Heart does to Nosgoth, I need to know whether you understand what it does to whoever activates it. Not the mythology. What you actually believe, based on what you've seen."*
 
-**Party Response Types:**
+**Party Response Types.** This is the climactic examination — give each response its full weight. Do not abbreviate the room's reactions into a single word; let Merel, Sevran, and Kain each answer the *manner* of the party's answer, not only its content.
 
-| Response | Merel | Sevran | Kain (if present) |
-|----------|-------|--------|-------------------|
-| Confident and specific | "That is consistent with what we have." Notes it. | Nods once; does not change posture | Evaluates — no reaction |
-| Uncertain but honest | "Uncertainty noted. We proceed." | Still evaluating | "Honest" — quietly, to no one |
-| Confident but dismissive of personal cost | Pauses. "Are you prepared for it? Prepared is different from aware." | Slight tension | If Kain: "Prepared, they said. We'll see." |
-| Refuses to answer until the purpose is ratified collectively | "The examination doesn't wait for consensus. That is its function." | Frowns | — |
+**If the party answers with confidence and specificity** — naming the cost in concrete terms they witnessed:
+
+> **Merel**, writing without looking up: *"That is consistent with what we have. You are not telling me what you were told. You are telling me what you saw. The two are rarely the same sentence, and I have learned to trust the people who can keep them apart."*
+> **Sevran** nods once and does not change his posture — but he uncrosses his arms, which from him is a concession.
+> **Kain** (if present), evaluating, gives nothing away: *"Specific. Good. Specificity is the only courage that survives a room like this one. We will see whether it survives the next question."*
+
+**If the party answers with honest uncertainty** — admitting they do not fully know:
+
+> **Merel:** *"Uncertainty noted, and not held against you. The accounts I distrust are the ones with no uncertainty in them. A thing this old does not yield a clean answer to anyone who has only touched it for a season. We proceed."*
+> **Sevran**, still evaluating, murmurs to no one: *"At least they did not pretend."*
+> **Kain** (if present), quietly, almost to himself: *"Honest. I have ruled longer than this fortress has stood empty, and I have never once known precisely what the Heart would take. Anyone who tells you otherwise is selling you the using of it."*
+
+**If the party is confident but dismissive of the personal cost** — treating the price as someone else's problem:
+
+> **Merel** stops writing. The pause is deliberate. *"You have told me what it does. You have not told me whether you are prepared for it. Those are different rooms, and only one of them has a door on the far side. Aware is what you are now. Prepared is what you are after you have already paid and chosen to keep walking. Which one am I recording?"*
+> **Sevran** shifts his weight — the first tension he has shown.
+> **Kain** (if present), flat, with the patience of something that has watched a great many confident hands close around a great many costs: *"Prepared, they said. They always say it standing up. We will see what they say when the thing asks for its share — and it always asks."*
+
+**If the party refuses to answer until the purpose is ratified collectively:**
+
+> **Merel:** *"The examination does not wait for consensus. That is precisely its function — to find what is true before the coalition agrees on what to say about it. You may ratify whatever you like afterward. You may not ratify your way out of this question. I will ask it once more, and the silence after it will also be recorded."*
+> **Sevran** frowns — not at the refusal, but at what it tells him about how the coalition will hold under real weight.
+> **Kain** (if present) says nothing at all, which the party should feel as the heaviest answer in the room.
 
 ---
 

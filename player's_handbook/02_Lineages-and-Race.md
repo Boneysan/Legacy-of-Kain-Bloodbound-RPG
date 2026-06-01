@@ -31,7 +31,7 @@ For lineage-specific equipment, cultural kits, and signature survival tools, see
 
 ### 2.2.1 Razielim
 Winged pariahs, believed extinct, reborn in spectral flame. Obsessed with fate and revenge.
-- **Bonus**: +1 Possession or Observation.
+- **Bonus**: +1 Ethereal Mastery or Observation.
 - **Feature**: *Razielim Glide* (When you fall or leap from a height, you may glide up to 60 feet horizontally, descending no more than 10 feet for every 30 feet traveled. You take no falling damage if the total fall is 60 feet or less.)
 - **Feature**: *Detect Planar Echoes* (Soul + Observation to sense past events or planar disturbances, DR 1-4+).
 
@@ -47,21 +47,21 @@ Stoic, hulking brutes, entombed for centuries.
 
 ### 2.2.4 Zephonim
 Insectoid, parasitic vampires adept at ambush and mutation.
-- **Bonus**: +1 Thievery.
+- **Bonus**: +1 Infiltration.
 - **Feature**: *Cling* (Bonus Action: for 3 rounds, you cling to a vertical surface or ceiling while you have at least one free limb. While clinging, you gain +1 DV against melee attacks from creatures standing on the ground below you and +1 die to Observation checks made from that position.)
 
 ### 2.2.5 Melchiahim
 Flesh-weavers whose bodies decay constantly, surviving by grafting the flesh of others onto their rotting frames. Horrifying, resourceful, and intimately familiar with the cost of immortality.
-- **Bonus**: +1 Craft or Nature.
+- **Bonus**: +1 Craft or Wilderness.
 - **Feature**: *The Mending* (Action, once per scene: graft harvested flesh from a fresh corpse or flesh component within 5 feet onto yourself to restore 1d6 HP. Each corpse or component can only be used for *The Mending* once; using this feature consumes the component. For 1 hour after using this feature, your horrific appearance grants you +1 die to **Intimidation** checks. If used in sight of non-Melchiahim NPCs, you suffer -1 die to Persuasion and social goodwill checks with them for the rest of the scene.)
 - **Feature**: *Decay Resilience* (Passive: +1 Armor against Entropic damage. Advantage on saves vs. disease and poison.)
 - **Vulnerability**: At the start of each new arc (or every 3 long rests), make a DR 1 Blood save. On failure, gain 1 Corruption representing bodily decay; this can only be removed by performing a successful Mending.
 
 ### 2.2.6 Rahabim
 Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's flooded ruins and coastal cave systems, controlling territory no other clan can reach.
-- **Bonus**: +1 Nature or Observation.
+- **Bonus**: +1 Wilderness or Observation.
 - **Feature**: *Amphibious* (Passive: you can breathe both air and water. Swim speed 40 feet. While fully submerged or in heavy rain, you gain Advantage on physical checks and attacks. You are immune to the base Vampire vulnerability to running water.)
-- **Feature**: *Current-Reader* (Bonus Action, once per scene: while touching a body of water large enough to immerse both hands, read faint impressions from it. Make a DR 1-3 Observation or Nature check to learn the number and general nature of creatures that passed through that water within the last hour.)
+- **Feature**: *Current-Reader* (Bonus Action, once per scene: while touching a body of water large enough to immerse both hands, read faint impressions from it. Make a DR 1-3 Observation or Wilderness check to learn the number and general nature of creatures that passed through that water within the last hour.)
 - **Vulnerability**: Prolonged exposure to dry air (more than 1 hour without immersion or specialized wrappings) imposes -1 die on all rolls using physical attributes (Blood, Fury, or Shadow). After 4 hours, take 1d4 damage per hour. Specialized alchemical moisturizers negate this for 8 hours.
 
 ## 2.3 Wraiths
@@ -70,7 +70,8 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 - **Terrain Bonus**: Ignore Spectral Realm terrain penalties.
 - **Stealth**: Advantage on Stealth checks in the Spectral Realm.
 - **Movement Effects**: Pass through thin barriers while phased.
-- **Bonuses**: +1 Possession, +1 Observation.
+- **Bonuses**: +1 Ethereal Mastery, +1 Observation.
+- **Heritage Skill**: +1 to any one skill of your choice at character creation. Because Wraiths have no subtype, this Heritage Skill keeps their starting skill bonuses on par with subtype lineages.
 - **Soul Sight** (Passive): While in the Spectral Realm, you perceive your surroundings in complete darkness as if in dim light. See [Chapter 11, Section 11.5.4](./11_Realms-Terrain-Arcane-Power.md#1154-environmental-mirroring).
 - **Unique Trait**: *Wraith Phasing* (Bonus Action, a number of times per long rest equal to your Will: shift into a phased state until the end of your next turn. While phased, you are translucent, your Speed becomes 35 feet, you may move through terrain and barriers up to 1 foot thick *(Spectral only)* (see [Chapter 11, Section 11.1](./11_Realms-Terrain-Arcane-Power.md#111-realm-affinity)), your weapon and unarmed attacks deal Spectral damage instead of their normal type *(crosses realms)*, you gain Resistance to non-magical Physical damage, you are immune to non-magical **Grappled** and **Restrained** conditions, and you add +1 to your Will for the purpose of DV calculations. You must end your movement in an unoccupied space.)
 - **Lineage Paragon (Level 10)**: Spectral Resonance. Gain +1 Soul or Will attribute (max 6). Your Wraith Phasing now lasts until the end of the scene or until you dismiss it as a Bonus Action.
@@ -84,6 +85,7 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 - **Stealth**: No bonus, but Glyphcasting can alter terrain visibility.
 - **Movement Effects**: Once per scene, you may take a **Free Action** during your movement to add 10 feet to that movement by rolling 1 Corruption Die. On a 1, gain 1 Corruption Level as normal.
 - **Bonuses**: +1 Glyphcasting, +1 Forbidden Knowledge.
+- **Heritage Skill**: +1 to any one skill of your choice at character creation. Because the Hylden-Blooded have no subtype, this Heritage Skill keeps their starting skill bonuses on par with subtype lineages.
 - **Unique Trait**: Once per long rest, when you cast a spell, you may cast it without spending its BP or SE cost. After the spell resolves, gain 1 Corruption Level. *If you have no spells, you may instead use this trait to push a skill check without rolling Corruption Dice — the check automatically counts as having 1 extra success.*
 - **Lineage Paragon (Level 10)**: Eldritch Adaptation. Gain +1 Soul or Focus attribute (max 6). When you use your Unique Trait, you may choose to take 1d6 damage instead of gaining Corruption.
 - **Lineage Paragon (Level 20)**: Void Architect. You gain immunity to Entropic damage. Your Eldritch Adaptation attribute bonus increases to +2 (to a total maximum of 6 in that attribute).
@@ -102,12 +104,12 @@ Aquatic vampires with translucent, scaled skin and gills. They inhabit Nosgoth's
 
 ### 2.5.1 Sarafan
 Fanatical warrior-priests obsessed with purity.
-- **Bonus**: +1 Weapon Mastery or Religion.
+- **Bonus**: +1 Weapon Mastery or Lore.
 - **Feature**: *Zealous Surge* (Bonus Action, once per scene: choose one - gain +2 damage against undead, vampires, or corrupted targets until the end of your turn; grant an ally Advantage on their next attack or save before the start of your next turn; or reroll a failed save vs. Corruption or unholy effects.)
 
 ### 2.5.2 Nomads
 Survivors of the wilds, skilled in survival.
-- **Bonus**: +1 Nature or Craft.
+- **Bonus**: +1 Wilderness or Craft.
 - **Feature**: *Resourceful Moment* (Bonus Action, once per scene: make a relevant skill check to create a minor environmental advantage, such as granting Advantage, imposing Disadvantage on an enemy, or creating a small patch of difficult terrain.)
 
 ### 2.5.3 Oracle-Blooded
@@ -122,6 +124,7 @@ Seers touched by divinity or prophecy.
 - **Stealth**: +1 die in fog, smoke, or decay.
 - **Movement Effects**: Collapse into ash once per rest to move through bars or cracks large enough for smoke to pass through. You must end in an unoccupied space.
 - **Bonuses**: +1 Concentration, +1 Ritualism.
+- **Heritage Skill**: +1 to any one skill of your choice at character creation. Because Revenants have no subtype, this Heritage Skill keeps their starting skill bonuses on par with subtype lineages.
 - **Unique Trait**: *Unyielding Purpose* (Passive: once per arc (see Chapter 9, §9.14), when you would be reduced to 0 HP, you instead drop to 1 HP. Active: Bonus Action, once per scene, choose one - ignore difficult terrain until the end of your turn; gain Advantage against forced movement until the start of your next turn; or gain +2 damage and Advantage on one roll directly tied to your unfinished business before the end of your turn.)
 - **Undead Biology**: Revenants do not need to breathe and are immune to **Drowning** or **Suffocation** from lack of air. They are not affected by running water unlike true Vampires.
 - **Soul Bleed:** While in the Spectral Realm, Revenants suffer Soul Bleed at 1 HP per 3 rounds. See [Chapter 11, Section 11.5.1](./11_Realms-Terrain-Arcane-Power.md#1151-the-soul-economy). *(This is intentional design — Revenants are rejected by death but not native to the Spectral Realm. Unlike Wraiths, they cannot sustain extended presence beyond the veil without cost.)*
@@ -136,6 +139,7 @@ Seers touched by divinity or prophecy.
 - **Stealth**: +1 die when moving unpredictably.
 - **Movement Effects**: Teleport 20 feet as a Bonus Action once per long rest.
 - **Bonuses**: +1 any skill, +1 Insight or Observation.
+- **Heritage Skill**: +1 to any one skill of your choice at character creation. Because the Unbound have no subtype, this Heritage Skill keeps their starting skill bonuses on par with subtype lineages.
 - **Unique Trait**: *Untethered Soul* (You automatically ignore one fate-altering magical or prophetic effect per long rest.); *Probability Shift* (Reaction, once per scene: after you, an ally within 30 feet, or an enemy you can see within 30 feet rolls dice, force up to 2 of those dice to be rerolled. If used on yourself or an ally, keep the higher results; if used on an enemy, use the new results.)
 - **Lineage Paragon (Level 10)**: Paradox Walker. Gain +1 Focus or Soul attribute (max 6). Your Unique Trait can now be used twice per long rest.
 - **Lineage Paragon (Level 20)**: Fate-Breaker. You are immune to all fate-altering or predictive magical effects. Your Paradox Walker attribute bonus increases to +2 (to a total maximum of 6 in that attribute).

@@ -60,6 +60,30 @@ The campaign has been moving toward this convergence since the first road split.
 
 ---
 
+## Probe — Press One Faction Before the Floor Opens
+
+> Merel will hold the formal opening for as long as it takes the party to cross the Heath and reach her. That crossing is a gift: the delegations are arranged in the open, none of them yet bound by the formality of a stated position, and a party that walks the long way to Merel can put a question to exactly one faction first. Offer this. Let them press one — and only one — before they answer Merel. The faction they choose to interrogate first is itself a tell every other delegation will read. None of these spend a tag; they sharpen what the party knows before they commit.
+
+**Press Garric Sol (Sarafan):**
+
+> *"You want to know what 'custody' means before you hear me say it to the room. Sensible."* He does not soften. *"It means the Heart is held under law rather than under appetite. I am not asking you to trust the Order's mercy — I have seen too much to sell you that. I am asking you to trust that a thing held under rules can be argued with, and a thing held under a single hand cannot. You have met the single hand. You know I am not wrong about him."* If `iron_echo_status` is `used` or `contested`, he adds: *"You have already adjudicated one unstable relic without law. I am offering you the chance not to do it twice."*
+
+**Press Matriarch Veila Turel (Clan):**
+
+> *"Stewardship is a soft word for an old one,"* she says, unbothered that the party noticed. *"We have held power without ending the world five times. The Sarafan have held it once and nearly did. The Hylden held it and the world is still paying. I am not claiming we are gentle. I am claiming we are *practiced*. There is a difference, and at this hour it is the only difference that has kept anyone alive."*
+
+**Press the Glass Voice, Reforged (Hylden):**
+
+> *"You are going to ask whether we will honor the terms. You should ask. The answer is that we will honor them exactly as long as honoring them serves us — which is the same answer your own factions would give if they were honest, and they are not."* A still beat. *"What we offer that they do not is this: we will tell you the duration of our cooperation in advance. Cooperation depends on the Gate. The Gate depends on the Heart. Remove either and the cooperation ends without malice and without surprise. That is not a threat. It is a schedule."*
+
+**Press Ash-Glass Reth (Crimson Fracture):**
+
+> Reth does not perform the position-statement coldness in private. *"You heard what I said to the field. I meant it and I also said it to be heard. Here is the part I did not say loudly: I cannot always tell anymore whether I am freeing people or recruiting them. I used to be certain. Certainty was the first thing the breach took from me."* He looks at the party with something that is almost a plea. *"If you can tell the difference, on my behalf — do it. I have stopped being able to."*
+
+> **GM guidance:** This is one probe, not a tour. Once the party have pressed a faction, the others have noticed the order of their attention and Merel calls them in. If the party try to work the whole field, Merel cuts it short herself: *"You can court all of them or you can answer me. You cannot do both before the light goes."*
+
+---
+
 ## Player Choices
 
 ### A — We Decided Together. One Account.
@@ -148,6 +172,16 @@ The campaign has been moving toward this convergence since the first road split.
 | `coalition_shape` | `merel-advised` | Unlocks private pre-approach in Vignette 02 — party chooses which faction to anchor |
 | `coalition_shape` | `unanchored` | Simultaneous faction pressure; no anchoring; harder path through Vignettes 02–04 |
 | `wheel_final_state` | Determined partly here: if Bale is present and Sol is present, there is a Sarafan fracture visible; if Bale is absent, Sol speaks for a unified Sarafan, which is more dangerous |
+
+---
+
+## Last Witness Arrival — Or Its Absence
+
+> Read the carried-in [`last_witness`](../Arc_IV_VTT-State.md#last_witness) status as the party reach the Heath. This is where the throughline either pays off or is felt to be missing — give the absence a face, never a silent gap.
+
+- **`protected` / `named`:** The Witness is on the Heath when the party arrive, as the GM Note below describes. Background weight now; the event comes in V02.
+- **`exposed`:** They are here, but wrong — keeping to the edges, flinching at colors of cloak, because the corrected record made them a name someone wants quiet. Merel says only, *"They came under their own guard, not mine. Someone has been asking after them by description."* The party can still call them in V02, but the fear is visible, and a faction may yet reach them between scenes.
+- **`lost`:** They are not here, and their absence has a shape. Early on the Heath, let it land once and plainly: a coalition runner reports the survivor the party knew was found drowned in a frozen rut three valleys back, or simply *stopped being anywhere*, the week the record went loud. Merel, if asked, does not soften it: *"The one who could have spoken for you without wanting anything is dead, or bought, or gone to ground so deep it makes no difference. You will give your account in the Hall with no one to stand under it but yourselves."* No mechanical penalty — but the V02 Witness choice and the V05 Dedication are now closed, and everyone at the table should understand *why* before the floor opens.
 
 ---
 

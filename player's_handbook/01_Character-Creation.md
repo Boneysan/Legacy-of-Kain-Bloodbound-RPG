@@ -52,7 +52,7 @@ Narrative Hook: The last flickers of resistance and redemption.
 Wraith:
 
 Description: Souls untethered from flesh, wraiths walk the boundary of life and death, manipulating the Spectral Realm.
-Bonuses: +1 to Possession, +1 to Observation.
+Bonuses: +1 to Ethereal Mastery, +1 to Observation.
 Unique Trait: Wraith Phasing allows translucency, movement through thin barriers, Spectral damage ignoring physical armor, resistance to non-magical physical damage, and +1 Will for DV while phased.
 Movement: Ignore terrain penalties; advantage on Stealth checks in the Spectral Realm.
 Narrative Hook: Forgotten by death, hunted by time.
@@ -70,7 +70,7 @@ Narrative Hook: Bearers of ancient wrath, seeking dominion or revenge.
 Revenant:
 
 Description: Half-wraith, half-corpse beings risen by will, rejected by death, or revived by necromancy. Driven by unfinished business, they rot but persist.
-Bonuses: +1 to Concentration and +1 to Rituals skills.
+Bonuses: +1 to Concentration and +1 to Ritualism skills.
 Unique Trait: Unyielding Purpose — revive with 1 HP once per arc at 0 HP; once per scene, ignore difficult terrain or gain +2 damage toward unfinished business.
 Movement: Treat graves and crypts as normal ground; collapse into ash once per rest to move through bars or cracks.
 Narrative Hook: Defying the grave, serving a second purpose.
@@ -110,13 +110,13 @@ Each attribute governs specific aspects of your character:
 
 **Fury:** Aggression and emotional force. Governs raw power, rage, and intimidation. Key for classes like Blood Knight or Dreadblade. Linked to skills like Weapon Mastery and Intimidation.
 
-**Soul:** Spiritual power and connection to the Spectral Realm. Crucial for spellcasters like Soul Reaver or Glyphwright. Influences Soul Energy and skills like Glyphcasting and Possession.
+**Soul:** Spiritual power and connection to the Spectral Realm. Crucial for spellcasters like Soul Reaver or Glyphwright. Influences Soul Energy and skills like Glyphcasting and Ethereal Mastery.
 
-**Shadow:** Stealth, evasion, and subtlety. Core for Shadowmancer or Dreadblade. Linked to Stealth, Evasion, and Thievery.
+**Shadow:** Stealth, evasion, and subtlety. Core for Shadowmancer or Dreadblade. Linked to Stealth, Evasion, and Infiltration.
 
 **Will:** Mental resilience and discipline. Key for Glyphwright or Hylden Warlock. Used for resisting mental assaults and skills like Tactics and Insight.
 
-**Focus:** Mental acuity and precision. Important for perception and complex tasks. Linked to Observation, History, and Craft.
+**Focus:** Mental acuity and precision. Important for perception and complex tasks. Linked to Observation, Lore, and Craft.
 
 **Blood:** Physical vitality and life essence. Core for Blood Knight or Sangromancer. Influences Blood Point reserves and blood magic.
 
@@ -125,11 +125,15 @@ Each attribute governs specific aspects of your character:
 Soul Energy (SE): For classes using Soul Energy, maximum SE = 3 + Will attribute + (Character Level ÷ 2, rounded up). See Chapter 5 for full resource details.
 Blood Points (BP): For classes or lineages using Blood Points, maximum BP = 4 + Shadow attribute + (Character Level ÷ 2, rounded up). See Chapter 5 for full resource details.
 
+> **Design Note — Resource Attributes:** Soul Energy always keys off **Will**, and Blood Points always key off **Shadow**, even when that attribute is not your class's core casting attribute. For example, a Soul Reaver, Shadowmancer, or Dreadblade still sizes its SE pool from Will, and a Sangromancer or Blood Knight still sizes its BP pool from Shadow. If your class relies on one of these pools, treat the keying attribute as worth investing in even though it is not your primary casting stat.
+
 ## 1.6 Step 5: Assign Skills
-Assign skill points (5–6, based on class) to skills like Glyphcasting, Weapon Mastery, Stealth, or Forbidden Knowledge. Each skill is tied to an attribute and contributes to dice pools.
+Assign your starting skill points (**5 or 6, set by class** — see the Starting Skill Points by Class table in [Chapter 3 §3.2](./03_Classes.md#starting-skill-points-by-class)) to skills like Glyphcasting, Weapon Mastery, Stealth, or Forbidden Knowledge. Each skill is tied to an attribute and contributes to dice pools.
+
+**Class Training:** Before spending those points, take your free Class Training ranks — **1 rank in each of two of your class's Key Skills** (your choice). These do not cost starting skill points but obey the same Level 1 cap below. This represents the training your character completed before play begins.
 
 At Level 1, no skill rank can exceed 3 or the highest associated attribute (e.g., Weapon Mastery cannot exceed your Fury or Shadow if either is 2).
-The absolute maximum for any skill is 5 ranks.
+The absolute maximum for any skill is 5 ranks. As characters level, the skill cap rises in tiers (3 / 4 / 5 by level band); see [Chapter 6, Section 6.4](./06_Skills.md#64-skill-point-economy) for the full tiered cap.
 Consult the Skill-to-Attribute Summary Table for associations.
 
 ## 1.7 Step 6: Choose Starting Gear
@@ -141,44 +145,46 @@ Optionally include 1 minor relic or spell scroll (GM discretion).
 
 ### 1.7.1 Example Gear by Class
 
+*Stats below are drawn from [Chapter 7: Equipment](./07_Equipment.md). Weapon Damage Scaling (+1 at Levels 5/10/15/20) applies on top of the listed base damage.*
+
 Blood Knight:
-Weapons: Scion Blade (6 Physical damage, inflicts standard Bleeding on a critical hit), Bloodfang Dagger (4 Physical, +2 vs. bleeding foes), Nightblade Saber (5 Physical, +1 armor penetration), or universal options like Nosgothian War Axe.
-Armor: Bloodsteel Cuirass (reduces damage by 2, +1 HP on melee crit), Fleshwoven Mail (regenerate 1 HP in blood), or universal Nosgothian Chainmail.
+Weapons: Scion Blade (6 Physical/Slashing, inflicts standard Bleeding on a critical hit), Bloodfang Dagger (4 Physical/Piercing, +2 vs. Bleeding foes, ignores 1 armor), Nightblade Saber (5 Physical/Slashing, ignores 1 armor, silent), or universal Nosgothian War Axe.
+Armor: Bloodsteel Cuirass (Armor 2, +1 HP on melee crit), Fleshwoven Mail (Armor 2, regenerate 1 HP in blood), Nightshade Cloak (Armor 1, +1 Stealth, Entropic Resistance), or universal Nosgothian Chainmail.
 
 
 Soul Reaver:
-Weapons: Spectral Talons (4 Spectral damage, ignores Physical Armor), Echoblade (5 Physical, copies last minor spell), Phantom Claws (3 Spectral, inflicts -1 on enemy rolls).
-Armor: Shroud of Echoes (reduces damage by 1, ignores terrain), Gravewind Mantle (attacks against you have -1 in first round).
+Weapons: Spectral Talons (4 Spectral, ignores Physical Armor; 6 in the Spectral Realm), Echoblade (5 Physical/Slashing, repeats your last Initiate-tier spell), Phantom Claws (4 Spectral, ignores Physical Armor, −1 die to target's next roll).
+Armor: Shroud of Echoes (Armor 1, ignore difficult terrain), Gravewind Mantle (Armor 2, attackers suffer −1 die in the first round).
 
 
 Shadowmancer:
-Weapons: Nightblade Saber, Whisperknife (3 Physical, summonable), or universal Throwing Dagger.
-Armor: Nightshade Cloak (Stealth bonus, shadow resistance), Woven Shadows (+1 DR vs. mind effects).
+Weapons: Shadow Fang (4 Physical/Piercing, +1 Stealth, Blinds on crit), Umbral Staff (5 Physical/Bludgeoning, area Stagger), Nightveil Lash (4 Physical/Slashing, Reach, −1 die to target's next attack), or universal Throwing Dagger.
+Armor: Penumbra Wraps (Armor 1, +1 Stealth and Persuasion in dim light), Mistweave Cloak (Armor 2, become invisible once per scene).
 
 
 Sangromancer (Blood Mage):
-Weapons: Bloodstaff (3 Physical, heals caster), Veinbinder Rod (4 Physical, deals 1 damage at the start of each turn to targets), Crimson Spear (5 Physical, +1 HP on crit).
-Armor: Veinsilk Robes (heals 1 HP after Blood spell), Sanguine Mantle (+1 Blood spell damage).
+Weapons: Bloodstaff (4 Entropic/Necrotic, may heal instead of dealing damage), Veinbinder Rod (4 Entropic/Necrotic, inflicts unstoppable Bleeding), Crimson Spear (5 Physical/Piercing, +1 HP on crit), Pulse Needle (3 Physical/Piercing, Ranged).
+Armor: Veinsilk Robes (Armor 1, heal 1 HP after a Blood spell), Sanguine Mantle (Armor 2, +1 Blood spell damage).
 
 
 Glyphwright:
-Weapons: Spiritshard Wand (3 Spectral damage, passes through walls), Throwing Dagger.
-Armor: Ritual Vestments (reduces corruption cost), Inkbound Mantle (+1 Glyph rolls).
+Weapons: Runic Focus Rod (4 Force, bypasses Armor, +1 Glyphcasting), Wardkeeper's Mace (5 Physical/Bludgeoning, grants ally save bonus), Glyph-Etched Wand (3 Force, Ranged, bypasses Armor), or universal Spiritshard Wand.
+Armor: Sigil-Etched Robes (Armor 1, +1 Glyphcasting), Warding Mantle (Armor 2, allies gain +1 die to magical saves).
 
 
 Dreadblade:
-Weapons: Bloodfang Dagger, Hexbrand (5 Entropic damage, adds Corruption), Ritual Blade (4 Physical, absorbs Soul Energy on crit).
-Armor: Nightshade Cloak, Woven Shadows, or Traveler’s Leathers.
+Weapons: Assassin's Fang (5 Physical/Piercing, +2 from stealth, silent), Venom Kris (4 Physical/Piercing, Weakened on hit), Phantom Edge (5 Physical/Slashing, ignores shields and cover once per scene).
+Armor: Stalker's Leathers (Armor 1, +1 Stealth, no armor penalties), Nightfall Cloak (Armor 2, +1 damage from stealth), or universal Traveler's Leathers.
 
 
 Warden of Balance (Sarafan Crusader):
-Weapons: Sarafan Pike (5 Physical, +2 vs. undead), Blessed Mace (6 Physical, stuns undead), Crusader Broadsword (+1 DV).
-Armor: Sarafan Plate (reduces damage by 3, undead fear disadvantage), Radiant Tabard (+1 Will saves for allies).
+Weapons: Sarafan Pike (5 Physical/Piercing, +2 vs. Undead), Blessed Mace (6 Physical/Bludgeoning, Staggers undead), Crusader Broadsword (5 Physical/Slashing, +1 DV).
+Armor: Sarafan Plate (Armor 3, undead suffer −1 die to Will saves), Radiant Tabard (Armor 2, allies gain +1 die to Will saves).
 
 
 Hylden Warlock:
-Weapons: Hexbrand, Ritual Blade, Whisperknife, or Spiritshard Wand.
-Armor: Ritual Vestments, Woven Shadows, Inkbound Mantle.
+Weapons: Hexbrand (5 Entropic/Corruption, +1 Corruption on hit), Ritual Blade (4 Entropic/Necrotic, absorbs 1 Soul Energy on crit), Whisperknife (3 Entropic/Void, summonable), Prophet's Thorn (3 Entropic/Void, Ranged), or universal Spiritshard Wand.
+Armor: Ritual Vestments (Armor 1, reduce a spell's Corruption cost), Woven Shadows (Armor 2, +1 die vs. mental effects), Inkbound Mantle (Armor 1, +1 Glyphcasting).
 
 
 

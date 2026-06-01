@@ -17,12 +17,12 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 *A towering stone giant animated by ancient runes; a sentinel that judges intruders by forgotten laws.*
 
 **Type:** Huge Construct (Ancient, Stone)
-**Threat Tier:** Deadly (TV 16)
+**Threat:** Boss — Per-Hero 12 *(party of 4; total budget TV 48)*
 
 ### Statistics
-- **HP:** 220
+- **HP:** 180
 - **DV:** 6 (1 + Will 5)
-- **Armor:** 8 (Runed Stone Plating)
+- **Armor:** 4 (Runed Stone Plating)
 - **Initiative:** 4
 - **Movement:** 40 feet
 - **SE:** 30
@@ -31,7 +31,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 - **Skills:** Athletics 5, Intimidation 4, Forbidden Knowledge 3
 
 **Immunities:** **Poisoned**, **Charmed**, Sleep
-**Resistances:** Bludgeoning/Piercing/Slashing (non-magical)
+**Resistances:** Resistant to physical (half damage)
 
 ---
 
@@ -56,9 +56,13 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 **Siege Stride (Passive)**
 - Difficult terrain does not slow it; moving within 5 feet of walls causes rubble (light cover zones) to form.
 
-**Legendary Actions** (2 per round)
+**Legendary Resistance** (3/day)
+- If the Colossus fails a save, it can choose to succeed instead.
+
+**Legendary Actions** (3 per round)
 - **Stomp**: 5-foot shock pulse; adjacent creatures make a DR 4 Evasion save. On failure, a creature takes 6 Force damage and is **Staggered** (no reactions) until end of turn. On success, no additional effect.
 - **Hurl Debris**: 60-foot range; Fury + Athletics = 10d6; 12 Bludgeoning + 4 Piercing.
+- **Stone-Hewer Fist** (2 actions): Make one Stone-Hewer Fist attack.
 
 ---
 
@@ -84,7 +88,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 *A hovering monolith of resonant stone that sings prophecies; its tones warp mind and matter.*
 
 **Type:** Large Construct (Ancient, Resonant)
-**Threat Tier:** Major (TV 12)
+**Threat:** Elite — Per-Hero 3 *(party of 4; total budget TV 12)*
 
 ### Statistics
 - **HP:** 95
@@ -143,12 +147,12 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 *A titanic, serpentine ruin-eater that swims through waterways and flooded crypts; a moving ecosystem of ancient stone and lichen.*
 
 **Type:** Gargantuan Beast (Ancient, Aquatic)
-**Threat Tier:** Deadly (TV 17)
+**Threat:** Boss — Per-Hero 13.5 *(party of 4; total budget TV 54)*
 
 ### Statistics
-- **HP:** 260
+- **HP:** 200
 - **DV:** 5 (1 + Shadow 4)
-- **Armor:** 7 (Ossified Plates)
+- **Armor:** 4 (Ossified Plates)
 - **Initiative:** 5
 - **Movement:** 60 feet, Swim 60 feet, Burrow 30 feet (silt)
 - **SE:** 20
@@ -157,7 +161,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 - **Skills:** Athletics 5, Observation 5, Wilderness 5
 
 **Immunities:** **Poisoned**
-**Resistances:** Cold, Physical (non-magical)
+**Resistances:** Cold, Resistant to physical (half damage)
 
 ---
 
@@ -178,9 +182,13 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 - **Damage:** 14 Bludgeoning
 - **Special:** Trigger: Lair action (on initiative 20). Target makes a DR 4 Evasion save. On failure, area becomes difficult terrain.
 
-**Legendary Actions** (2 per round)
+**Legendary Resistance** (3/day)
+- If the Leviathan fails a save, it can choose to succeed instead.
+
+**Legendary Actions** (3 per round)
 - **Tail Sweep**: 15-foot line; Fury + Athletics = 11d6; 12 Bludgeoning and push 10 feet.
 - **Drown Drag**: Move half speed; dragged **Grappled** target moves with it.
+- **Ruin-Crush Jaws** (2 actions): Make one Ruin-Crush Jaws attack.
 
 ---
 
@@ -203,7 +211,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 *A translucent guardian bound to a Pillar fragment; strikes at those who disturb the Balance.*
 
 **Type:** Medium Spectral (Pillar-Bound)
-**Threat Tier:** High (TV 11)
+**Threat:** Elite — Per-Hero 2.75 *(party of 4; total budget TV 11)*
 
 ### Statistics
 - **HP:** 85
@@ -216,8 +224,8 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 - **Attributes:** Fury 4, Soul 6, Shadow 5, Will 4, Focus 4, Blood 0
 - **Skills:** Forbidden Knowledge 3, Stealth 5, Insight 4
 
-**Immunities:** Non-magical physical
-**Resistances:** Radiant, Spectral
+**Immunities:** None
+**Resistances:** Resistant to physical (half damage), Radiant, Spectral
 **Vulnerabilities:** Glyph magic
 
 ---
@@ -265,12 +273,12 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 *A massive, root-wrapped form that crawls with slow inevitability; the forest’s wrath embodied.*
 
 **Type:** Huge Plant (Ancient, Corrupted)
-**Threat Tier:** Deadly (TV 15)
+**Threat:** Boss — Per-Hero 12 *(party of 4; total budget TV 48)*
 
 ### Statistics
-- **HP:** 230
+- **HP:** 180
 - **DV:** 6 (1 + Will 5)
-- **Armor:** 6 (Barkstone)
+- **Armor:** 4 (Barkstone)
 - **Initiative:** 3
 - **Movement:** 40 feet
 - **SE:** 30
@@ -302,6 +310,14 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 **Deep Root (Passive)**
 - Cannot be pushed/pulled while on natural ground. Regains 10 HP at start of its turn if in dense vegetation.
 
+**Legendary Resistance (3/day)**
+- If the Horror fails a save, it can choose to succeed instead.
+
+**Legendary Actions** (3 per round)
+- **Crushing Vines** (1 action): Make one Crushing Vines attack.
+- **Thornburst** (2 actions): Use Thornburst (still costs 8 SE).
+- **Root Surge** (3 actions): 15-foot line, DR 4 Evasion save or **Grappled** and pulled 10 feet toward the Horror.
+
 ---
 
 **Behavior Tags:** ambusher, brute, sentinel
@@ -325,7 +341,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 *A vampiric apex predator that existed before the vampire clans, a moving force of tooth, claw, and ancient hunger.*
 
 **Type:** Ancient Beast (Vampiric, Predator)
-**Threat Tier:** High (TV 13)
+**Threat:** Boss — Per-Hero 12 *(party of 4; total budget TV 48)*
 
 ### Lore
 The Primordial Blood Stalker is what Nosgoth's deepest wilderness was before the vampire clans imposed their hierarchy on it. This creature predates every clan, perhaps predates the Circle of Nine entirely — a vampiric apex predator that existed before there were lords and serfs among the undead, when the hungers of the night moved on four legs and took what they wanted with tooth and claw rather than ceremony.
@@ -335,7 +351,7 @@ It resembles no existing vampire species. Its silhouette is vaguely feline but w
 It is not intelligent. But it is *old*, and old things in Nosgoth have accumulated instincts that function like cunning. It knows how to wait, how to isolate, and how to feed efficiently. The last vampire who tried to claim dominion over a Blood Stalker was found as a significant pile of former lord several weeks later.
 
 ### Statistics
-- **HP:** 185
+- **HP:** 180
 - **DV:** 6 (1 + Fury 5)
 - **Armor:** 2 (ancient vampiric hide)
 - **Initiative:** 7
@@ -374,11 +390,12 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 
 **Supernatural Hide:** The Stalker's ancient hide reduces all damage from nonmagical sources by 3 (in addition to its Armor value). Magical weapon attacks are unaffected.
 
-**Legendary Resistance (2/day):** If the Stalker fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If the Stalker fails a save, it can choose to succeed instead.
 
-**Legendary Actions** (2 per round)
+**Legendary Actions** (3 per round)
 - **Blood Rend** (1 action): Make one Blood Rend attack.
 - **Ancient Lunge** (2 actions): Use Ancient Lunge (still costs 5 SE).
+- **Primal Surge** (3 actions): Use Primal Howl (still costs 8 SE).
 
 **Behavior Tags:** boss, ambusher, brute
 
@@ -391,7 +408,7 @@ The Blood Stalker opens from Stealth, using Ancient Lunge to **Pin** the most ar
 - Blood-crystal formation (solidified predator blood, only forms in creatures this old) — **Trade Value**: 100 supplies
 
 ### Scaling Options
-- **Adolescent Blood Stalker (Boss, TV 5):** HP: 95, DV: 5, Fury 5, Blood 4. No Legendary Actions or Legendary Resistance. Primal Howl is Recharge 5-6 only.
+- **Adolescent Blood Stalker (Boss, TV 21):** HP: 95, DV: 5, Fury 5, Blood 4. No Legendary Actions or Legendary Resistance. Primal Howl is Recharge 5-6 only.
 - **Elder Blood Stalker (TV 17):** HP: 240, DV: 6, Fury 7, Soul 5, SE: 60. Blood Rend deals 16 + 4 Blood Drain. Add 3 Legendary Actions/round. Blood Frenzy heals 25 HP and triggers two weapon attacks without spending additional Actions.
 
 ---
@@ -401,7 +418,7 @@ The Blood Stalker opens from Stealth, using Ancient Lunge to **Pin** the most ar
 *A construct of cracked, blackened Pillar stone that protects corruption with the same ferocity it once protected purity.*
 
 **Type:** Ancient Construct-Entity (Corrupted Pillar Guardian)
-**Threat Tier:** High (TV 12)
+**Threat:** Boss — Per-Hero 10.5 *(party of 4; total budget TV 42)*
 
 ### Lore
 When a Pillar of Nosgoth began to fail under an unworthy or corrupted Guardian, the built-in protective constructs associated with that Pillar did not simply shut down. They adapted. The corruption spreading from the Guardian seeped into the constructs, and the constructs incorporated it into their purpose.
@@ -411,7 +428,7 @@ A Pillar-Decay Sentinel was once a Pillar Guardian-construct: a massive entity o
 The result is a construct made of cracked, blackened Pillar stone with corruption energy visible in the fractures like blood in broken skin. Its attacks corrupt rather than defend. Its presence drains the magical of those nearby rather than empowering them. It is a Pillar guardian that has become what it was built to resist.
 
 ### Statistics
-- **HP:** 175
+- **HP:** 160
 - **DV:** 6 (1 + Will 5)
 - **Armor:** 3 (decayed Pillar stone)
 - **Initiative:** 3
@@ -449,7 +466,12 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 
 **Ancient Construct:** Immune to **Frightened**, **Charmed**, Corruption (as mental effect), **Poisoned**, disease. Cannot be Pushed, Pulled, or knocked **Prone**. Immune to Sleep and **Stunned**.
 
-**Legendary Resistance (2/day):** If the Sentinel fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If the Sentinel fails a save, it can choose to succeed instead.
+
+**Legendary Actions** (3 per round)
+- **Decay Touch** (1 action): Make one Decay Touch attack.
+- **Pillar Shard Barrage** (2 actions): Use Pillar Shard Barrage (still costs 8 SE).
+- **Corruption Lash** (1 action): One creature within 10 feet makes a DR 3 Blood save or gains 1 Corruption Level.
 
 **Behavior Tags:** sentinel, controller, brute
 
@@ -472,7 +494,7 @@ The Sentinel advances slowly, using Corruption Aura to force the party to spread
 *An apex magical construct with millennia of accumulated arcane self-awareness, existing as the final line of protection.*
 
 **Type:** Ancient Construct (Magical Guardian)
-**Threat Tier:** High (TV 11)
+**Threat:** Boss — Per-Hero 10.5 *(party of 4; total budget TV 42)*
 
 ### Statistics
 - **HP:** 160
@@ -511,9 +533,14 @@ The Sentinel advances slowly, using Corruption Aura to force the party to spread
 
 **Absolute Guardian (Passive):** The Living Ward cannot be magically Teleported, Displaced, or removed from its location against its will.
 
-**Construct Wilderness:** Immune to **Frightened**, **Charmed**, Corruption (mental), **Poisoned**, disease, physical conditions.
+**Construct Nature:** Immune to **Frightened**, **Charmed**, Corruption (mental), **Poisoned**, disease, physical conditions.
 
-**Legendary Resistance (2/day):** If the Ward fails a save, it can choose to succeed instead.
+**Legendary Resistance (3/day):** If the Ward fails a save, it can choose to succeed instead.
+
+**Legendary Actions** (3 per round)
+- **Arcane Discharge** (1 action): Make one Arcane Discharge attack.
+- **Counter-Glyph** (1 action): Use Counter-Glyph (still costs 6 SE).
+- **Ward Nullify** (2 actions): Use Ward Nullify (still costs 10 SE).
 
 **Behavior Tags:** sentinel, controller
 

@@ -15,6 +15,8 @@ Record the closing Arc I tag values here before play begins.
 | `sarafan_attention` | ___ | |
 | `reliquary_status` | ___ | |
 | `public_story` | ___ | |
+| `last_witness` | ___ | Bearer, what they witnessed, forward fear, status |
+| `balance_reckoning` | ___ | Counter carried from Arc I |
 
 ---
 
@@ -113,6 +115,50 @@ Tracks whether the Crimson Fracture's Ash-Glass Procession gained meaningful acc
 
 ---
 
+<a id="last_witness"></a>
+### `last_witness`
+The campaign's throughline civilian — the latest ordinary survivor who can still speak a fragment's cost in plain terms. Structured field, not a single enum: record **who** they are, **what** they witnessed, **what** they fear forward, and their **status**. Carry it forward every arc. The Arc IV finale (V02 Choice D and V05 Outcome D) is only reachable if a `named` or `protected` Witness survives to the Heath. In Arc II the role can change hands: a fortress or breach survivor may inherit it, or the existing bearer may be exposed or lost in the politics.
+
+**Status values:**
+
+| Value | Meaning |
+|-------|---------|
+| `unnamed` | Role vacant; no specific person carries it |
+| `named` | A specific person has spoken a fragment's cost plainly; identifiable but unprotected |
+| `protected` | The party took concrete action to keep them alive, free, and able to testify; they reach the next arc |
+| `exposed` | A hostile faction knows their identity and value and is recruiting, discrediting, or hunting them |
+| `lost` | Killed, silenced, co-opted, or abandoned; role returns to `unnamed` |
+
+**Current bearer (name + role):** ___
+**What they witnessed (the cost they can testify to):** ___
+**What they fear forward:** ___
+**Current status:** ___
+**Session this was last updated:** ___
+
+---
+
+<a id="balance_reckoning"></a>
+### `balance_reckoning`
+**Single device — this is the per-arc mirror of the canonical Balance Reckoning Clock (0–4) defined in [../Faction-Tracker/Faction-Clocks.md](../Faction-Tracker/Faction-Clocks.md#balance-reckoning-clock). Do not run a second scale or a separate increment list; advance it only per that file's Arc-End Update Cheat Sheet. Read at the finale by the [Endgame Adjudication Matrix](../Arc_IV_Convergence/03_Endgame-Adjudication-Matrix.md) Pressure Modifier (a value of 3–4 hardens the Hall's judgment).**
+
+The counter measures how often the party used a fragment to force a crisis to resolve while leaving the deeper distortion in place — *withdrawal of grace*, not Corruption by another name. **In Arc II it advances** when the party seal or redirect the Rift Ember breach (the V05 Balance Reckoning Hook flags this; destroying the Ember or allowing failure does not advance it). **Never decrement.**
+
+| Value | Meaning |
+|-------|---------|
+| `0` | No coercive fragment-answer on record; customary graces remain available |
+| `1` | A fragment solution fixed an immediate problem but left a visible metaphysical distortion; a single grace thins |
+| `2` | Wardens, the Hall, or spectral witnesses begin treating the party as agents of dangerous imbalance rather than reluctant stewards |
+| `3` | A prior compromise returns as proof that order was preserved through coercion; aid demands explicit price |
+| `4` | The endgame judgment hardens; the Hall and its living representatives no longer treat the party as untested claimants |
+
+**Current value (carry the Arc I total forward, then advance for any Arc II use):** ___
+
+**Session this was last updated:** ___
+
+**Notes (which uses incremented it):** ___
+
+---
+
 ## Vignette Log
 
 | Vignette | Session | Choice Made | Key Tags Changed |
@@ -149,6 +195,8 @@ Tracks whether the Crimson Fracture's Ash-Glass Procession gained meaningful acc
 - `hylden_engagement` entering Arc III: ___
 - `sarafan_bloc` entering Arc III: ___
 - `ash_glass_reach` entering Arc III: ___
+- `last_witness` entering Arc III (bearer, what they witnessed, forward fear, status): ___
+- `balance_reckoning` entering Arc III (counter + which uses): ___
 - Surviving allies traveling into Arc III: ___
 - Active enemies pursuing into Arc III: ___
 - Contradiction from the north that only the Chronoplast can explain: ___

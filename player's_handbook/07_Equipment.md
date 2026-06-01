@@ -314,7 +314,7 @@ All weapons deal one of the six canonical damage categories. [Chapter 12: Glossa
 
 - **Void** is an Entropic subtype. It follows standard Entropic rules (normal armor, prevents non-magical healing). Void weapons may additionally impose Disadvantage or dimensional displacement effects as described per weapon.
 - **Spectral Fire** is a Radiant subtype. It follows Radiant rules (normal armor, ×2 vs Undead/Spectral). It does NOT ignore armor the way Spectral damage does.
-- **Corruption** is an Entropic subtype. On critical hits, Corruption-type weapons may increase the target's Corruption score.
+- **Corruption** is an Entropic subtype. On critical hits, Corruption-type weapons may increase the target's Corruption Level.
 - **Physical subtypes** determine which status effects apply: Bludgeoning → Staggered/Prone, Piercing → usually standard Bleeding (and ignores 1 Armor naturally), Slashing → usually standard Bleeding.
 - Weapons that do not list a damage type explicitly deal **Physical** damage of the most appropriate subtype.
 
@@ -350,7 +350,7 @@ Soul Reaver armor enhances mobility and Spectral Realm interaction.
 
 Shadowmancer armor enhances stealth, illusions, and shadow manipulation.
 
-**Penumbra Wraps** — Armor 1. +1 die to Stealth and Deception checks while in dim light or darkness.
+**Penumbra Wraps** — Armor 1. +1 die to Stealth and Persuasion checks while in dim light or darkness.
 **Mistweave Cloak** — Armor 2. Once per scene as a **Bonus Action**, become invisible until you attack or cast a spell.
 **Shadowskin Vest** — Armor 1. When you take damage, you may teleport 5 ft in any direction as a **Reaction** (once per round).
 **Duskmantle** — Armor 2. Enemies within 10 ft suffer −1 die to Observation checks to detect you.
@@ -373,7 +373,7 @@ Glyphwright armor enhances structured magic and provides support to allies.
 **Sigil-Etched Robes** — Armor 1. +1 die to Glyphcasting checks.
 **Warding Mantle** — Armor 2. Allies within 10 ft gain +1 die to saves against magical effects.
 **Runeguard Vest** — Armor 1. Once per scene, deflect one incoming magical attack entirely (**Reaction**).
-**Pillarstone Chain** — Armor 2. +1 die to Rituals checks. Glyph-based effects you create last 1 round longer.
+**Pillarstone Chain** — Armor 2. +1 die to Ritualism checks. Glyph-based effects you create last 1 round longer.
 **Inscriber's Cowl** — Armor 1. When you dispel a magical effect, regain 1 SE.
 
 #### 7.3.1.6 Dreadblade
@@ -382,7 +382,7 @@ Dreadblade armor prioritizes speed, silence, and deadly precision from stealth.
 
 **Stalker's Leathers** — Armor 1. +1 die to Stealth checks. No armor-based penalties.
 **Nightfall Cloak** — Armor 2. Attacks from stealth deal +1 bonus damage.
-**Ghostwalk Wraps** — Armor 1. Your movement produces no sound. +1 die to Thievery checks.
+**Ghostwalk Wraps** — Armor 1. Your movement produces no sound. +1 die to Infiltration checks.
 **Umbral Harness** — Armor 2. Once per scene, after killing a target, immediately enter stealth as a **Bonus Action**.
 **Deathweave Shroud** — Armor 1. After landing a critical hit, your next attack this scene has Advantage.
 

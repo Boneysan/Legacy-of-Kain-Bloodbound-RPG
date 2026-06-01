@@ -15,6 +15,8 @@ Default contradiction for Arc III: the public northern record says Hylden pressu
 | `hylden_engagement` | ___ | |
 | `sarafan_bloc` | ___ | |
 | `ash_glass_reach` | ___ | |
+| `last_witness` | ___ | Bearer, what they witnessed, forward fear, status |
+| `balance_reckoning` | ___ | Counter carried from Arc II |
 
 ---
 
@@ -105,6 +107,50 @@ Tracks how Arc III's internal betrayal resolved around the corrected northern br
 
 ---
 
+<a id="last_witness"></a>
+### `last_witness`
+The campaign's throughline civilian — the latest ordinary survivor who can still speak a fragment's cost in plain terms. Structured field, not a single enum: record **who** they are, **what** they witnessed, **what** they fear forward, and their **status**. *Do not confuse this with the Arc III betrayer* tracked by `betrayal_resolved`: that is the person who carried the corrected northern record; the Last Witness is the ordinary survivor who can testify to its cost without a stake. Carry it forward. The Arc IV finale (V02 Choice D and V05 Outcome D) is only reachable if a `named` or `protected` Witness survives to the Heath — so the Witness's safety should be on the table when the corrected record goes public this arc.
+
+**Status values:**
+
+| Value | Meaning |
+|-------|---------|
+| `unnamed` | Role vacant; no specific person carries it |
+| `named` | A specific person has spoken a fragment's cost plainly; identifiable but unprotected |
+| `protected` | The party took concrete action to keep them alive, free, and able to testify at the Heath |
+| `exposed` | A hostile faction (often the Wheel, once the record turns public) knows their identity and value and is moving against them |
+| `lost` | Killed, silenced, co-opted, or abandoned; role returns to `unnamed` |
+
+**Current bearer (name + role):** ___
+**What they witnessed (the cost they can testify to):** ___
+**What they fear forward:** ___
+**Current status:** ___
+**Session this was last updated:** ___
+
+---
+
+<a id="balance_reckoning"></a>
+### `balance_reckoning`
+**Single device — this is the per-arc mirror of the canonical Balance Reckoning Clock (0–4) defined in [../Faction-Tracker/Faction-Clocks.md](../Faction-Tracker/Faction-Clocks.md#balance-reckoning-clock). Do not run a second scale or a separate increment list; advance it only per that file's Arc-End Update Cheat Sheet. Read at the finale by the [Endgame Adjudication Matrix](../Arc_IV_Convergence/03_Endgame-Adjudication-Matrix.md) Pressure Modifier (a value of 3–4 hardens the Hall's judgment).**
+
+The counter measures how often the party used a fragment to force a crisis to resolve while leaving the deeper distortion in place — *withdrawal of grace*, not Corruption by another name. **In Arc III it advances** when the party compel a Chronoplast reading or act on the Chronal Shard to force one future operative over another (per the cheat sheet). It is also the value read by this arc's road scenes to render withdrawal of grace (see Vignette 03). **Never decrement.**
+
+| Value | Meaning |
+|-------|---------|
+| `0` | No coercive fragment-answer on record; customary graces remain available |
+| `1` | A fragment solution fixed an immediate problem but left a visible metaphysical distortion; a single grace thins |
+| `2` | Wardens, the Hall, or spectral witnesses begin treating the party as agents of dangerous imbalance rather than reluctant stewards |
+| `3` | A prior compromise returns as proof that order was preserved through coercion; aid demands explicit price before it is given |
+| `4` | The endgame judgment hardens; the Hall and its living representatives no longer treat the party as untested claimants |
+
+**Current value (carry the Arc II total forward, then advance for any Arc III use):** ___
+
+**Session this was last updated:** ___
+
+**Notes (which uses incremented it):** ___
+
+---
+
 ## Vignette Log
 
 | Vignette | Session | Choice Made | Key Tags Changed |
@@ -137,6 +183,8 @@ Tracks how Arc III's internal betrayal resolved around the corrected northern br
 - `party_operative_truth` entering Arc IV: ___
 - `party_operative_truth_note` entering Arc IV (optional): ___
 - `betrayal_resolved` entering Arc IV: ___
+- `last_witness` entering Arc IV (bearer, what they witnessed, forward fear, status — MUST be `named` or `protected` for the V05 Witness ending): ___
+- `balance_reckoning` entering Arc IV (counter + which uses): ___
 - Hylden engagement level entering Arc IV (from Arc II): ___
 - Surviving coalition partners: ___
 - Active enemies with armies, rites, or ultimatums arriving at Pillar Heath: ___

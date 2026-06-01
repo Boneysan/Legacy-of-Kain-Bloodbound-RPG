@@ -114,14 +114,16 @@ Use these formulas when building a creature for a specific **Target Level**. The
 - Special: 3-4 unique abilities, 2 Legendary Actions/round
 - Contested checks: pool = Level
 
-**Legendary (Printed TV = Level + 6+):**
-- HP: 30 + (6 × Level)
+**Legendary (Printed TV = Level × 4+):**
+- HP: 40 + (12 × Level)
 - DV: 6 (base cap; layer defenses)
 - Armor: 4-6
 - Attack: (Level + 6) d6, 3 attacks per turn
 - Damage: 14-18
 - Special: 5+ unique abilities, 3 Legendary Actions/round
 - Contested checks: pool = Level + 2
+
+> **Solo Armor cap:** A solo Boss or Legendary creature's Armor caps at **6** (Boss 3-4, Legendary 4-6). If a concept calls for tougher defenses, convert the excess into damage-type **Resistance** (half damage after Armor) rather than blanket immunity, so players always have a meaningful way to deal damage.
 
 ---
 
@@ -146,7 +148,7 @@ A boss with 50 HP facing 4 PCs will still get overwhelmed because:
 **Option 2: Legendary Actions**
 - Boss can take actions on player turns
 - Example: "The vampire lord can make one claw attack after any PC's turn ends"
-- As a default benchmark, use 2 Legendary Actions for a TV 4 solo boss and 3 for a TV 6+ Legendary creature
+- As a default benchmark, use 2 Legendary Actions for a solo Boss (TV = Level × 3) and 3 for a Legendary creature (TV = Level × 4 or more)
 - For custom creatures built to a level band, count each reliable legendary action as roughly `+0.5 × average party level` to the creature's final TV
 
 **Option 3: Multi-Attack**
@@ -519,7 +521,7 @@ The examples below illustrate how to build encounters for each difficulty band. 
   - Phase 3 (33% HP): Lord goes into Mist Form and Blood Frenzy
 - **Win Condition:** Reduce lord to 0 HP (warriors flee if lord dies)
 
-**All-MM equivalent (target about TV 90):** For a Level 15 party, build this as a true Deadly endgame force rather than a faux TV 60 analogue. Start with Vorador (MM Ch9, TV 18) or a Dimension Lord at peak scaling (MM Ch6, TV 18), then add high-tier undead, vampire, or Sarafan support until the final total reaches about TV 90 (150% of party TV). That keeps the example on the same absolute-TV budgeting model as the rest of the guide.
+**All-MM equivalent (target about TV 165):** For a Level 15 party, build this as a true Legendary endgame force rather than a faux TV 60 analogue. Start with Vorador (MM Ch9, TV 18) or a Dimension Lord at peak scaling (MM Ch6, TV 18) as the centerpiece, then stack high-tier undead, vampire, and Sarafan support until the final total reaches about TV 165 (≈275% of party TV, well into the Legendary band). That keeps the example on the same absolute-TV budgeting model as the rest of the guide.
 
 ---
 

@@ -69,9 +69,11 @@ The party must give a declaration. The GM uses their `party_operative_truth` tag
 
 **Room Response:**
 
-> Kain, if present: *"Then it is done correctly."* He does not say anything else.
+> Kain, if present: *"Then it is done correctly."* A beat. *"The histories will misremember this as surrender — they always do, when no one is left who wanted nothing. See that someone here remembers it otherwise."*
 
 > Sepulcher-Mother Elain: *"The Wheel accepts this outcome. The surrender of the Heart to a purpose larger than any faction is the closest this assembly has come to wisdom."* She does not look pleased. She looks — correct.
+
+> **If the Witness is present (`witness-anchored`), Elain adds, only once and without heat:** *"There is one thing here the Wheel cannot take from you. You cannot offer peace to someone who has decided to remember."* She does not look at the Witness when she says it. She does not have to.
 
 > The Glass Voice Reforged: *"The Hylden gate remains unaddressed. We note this. We are not closing discussion. This is noted."*
 
@@ -127,15 +129,17 @@ The party must give a declaration. The GM uses their `party_operative_truth` tag
 
 ### Outcome D — The Dedication (The Last Witness Speaks Last)
 
+> **Reachability:** this ending requires `black_fulcrum_status: witness-anchored` (set in Vignette 02 Choice D), which in turn requires a Witness carried in as `named` or `protected`. If the Witness reached the finale as `unnamed`, `exposed`, or `lost`, this outcome is **not available** — there is no civilian to speak last, and the party resolves the Heart through Outcome A, B, or C instead. Do not improvise a witness here; the absence is the consequence of the throughline not being protected, and it should be felt rather than papered over.
+
 > If `black_fulcrum_status: witness-anchored` and the Last Witness is present, the party may invite them to speak before the declaration is given.
 
 **The Last Witness:**
 
-> *"I've been watching this since — I don't know exactly when. Since before I knew what I was watching. I don't have a philosophy. I don't represent a faction. I know what my life looked like before, and what it has looked like while this has been happening, and I know what I would like it to look like after. I would like it to look like something I could explain to a person who was born after this room closed. I would like the reason to be one I could say out loud."*
+> *"I have no philosophy to set against theirs, and no faction to answer for. I was here for none of the reasons that matter in this room. I only stayed, where the others were bought away or buried."*
 
 > A pause.
 
-> *"That's what I have."*
+> *"So let me be good for the one thing I am good for. Whatever you decide — decide it as though a child not yet born will one day stand where I am standing and ask you to account for it. And make your answer one you could give to their face, without lowering your voice."*
 
 **Effect:** Any choice the party makes immediately after the Witness speaks is entered into the record with the notation: *"Made in the presence of and formally acknowledged by civilian testimony."* This does not change the outcome mechanics. It changes the weight of the record — and in a campaign about whether Nosgoth's history will remember what happened here honestly, that weight is not nothing.
 

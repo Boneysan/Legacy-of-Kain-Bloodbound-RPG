@@ -9,7 +9,7 @@ In the cursed land of Nosgoth, power is a double-edged blade. The Perks System a
 
 ## 4.1 Perk Progression
 
-Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra Universal Perk at Levels 6, 12, and 18 via their racial trait.
+Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra Universal Perk at Levels 1, 6, 12, and 18 via their racial trait.
 
 | Level | Perk Gained | Tier Access |
 | :---: | :--- | :--- |
@@ -55,7 +55,7 @@ Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra U
 | :--- | :--- | :--- |
 | **Momentum Kill** | Gain **+10 feet movement** immediately after killing an enemy. | Passive (On Kill) |
 | **Phase Slip** | Ignore difficult terrain in the Spectral Realm. Additionally, once per scene, you may move through one solid object or barrier up to 5 feet thick during your movement; you must end in an unoccupied space. (See [Chapter 11, Section 11.1](./11_Realms-Terrain-Arcane-Power.md#111-realm-affinity)). | Passive |
-| **Forbidden Tap** | Add **+2 dice** to any roll. | **Gain 1 Corruption Level** |
+| **Forbidden Tap** | Add **+2 dice** to any roll. Usable **once per scene**. | **Gain 1 Corruption Level** |
 | **Void Walker** | Immune to corrupted terrain hazards (blighted ground, acid, etc). | Passive |
 | **Time Echo** | Reroll one Initiative roll. | 1/Long Rest |
 | **Soul Ward** | When you would take damage from an attack or spell, reduce that damage to 0. Soul Ward does not negate additional riders unless they require damage to be dealt. | Reaction, 1/Long Rest |
@@ -102,7 +102,7 @@ Characters gain **One Universal Perk** at specific levels. Humans gain 1 extra U
 
 ## 4.3 Corrupted Perks
 
-Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through narrative triggers (dark pacts, soulbinding, Hylden contact). They are chosen in place of a Universal Perk slot but have no tier prerequisites — only your Corruption Score limits access.
+Corrupted Perks are unlocked by reaching **Corruption Thresholds** or through narrative triggers (dark pacts, soulbinding, Hylden contact). They are chosen in place of a Universal Perk slot but have no tier prerequisites — only your Corruption Level limits access.
 
 > **Warning**: Corruption 15 means your character becomes an NPC. The Wheel claims you.
 
