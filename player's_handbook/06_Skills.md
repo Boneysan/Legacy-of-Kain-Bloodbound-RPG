@@ -17,9 +17,24 @@ Skill checks use a D6 dice pool: **Attribute + Skill Level**. Each 5 or 6 counts
 
 > **Note:** Combat attacks are resolved against a target's **DV (Defense Value)**, not a DR. DV is determined by the defender's attributes and is listed on their stat block or character sheet. DR is used for skill checks, saves, and non-combat ability effects.
 
+### 6.1.2 Resolving a Check: Worked Example
+
+Kain attempts to climb a sheer, rain-slick wall (**Athletics**, DR 3).
+
+1. **Build the pool.** Athletics uses **Fury or Blood** — Kain takes the higher: Fury **3**. His Athletics rank is **2**. Pool = 3 + 2 = **5 dice**.
+2. **Roll the d6 pool.** He rolls **2, 4, 5, 5, 6**.
+3. **Count successes.** Each **5 or 6** is one success: the 5, 5, and 6 = **3 successes**.
+4. **Compare to the DR.** He needed **3** successes and got 3 — **success**. Kain reaches the top.
+
+If he had rolled only 2 successes, he could **Push** the roll (see §6.3) by adding Corruption Dice for a chance at the extra success, at the risk of gaining Corruption. Had this been a *combat attack* instead, he would compare his successes to the target's **DV** rather than a DR.
+
 ## 6.2 The Consolidated Skill List
 
 Skills are grouped into five categories. Each skill now features an **Active Utility**—a specific action or bonus you can trigger to gain a tactical advantage.
+
+Every skill is used two ways. First, for **ordinary checks**: roll **one** of the skill's two listed attributes (your choice of the higher) **+ your rank** in that skill, counting 5s and 6s as successes against a DR (see the *Skill Scope & Example Checks* under each category for what each skill covers). Second, each skill grants an **Active Utility** — a special action or bonus, shown in the tables below, that you can trigger in combat or high-stakes scenes.
+
+> Some entries reference **saves** (e.g., "DR 2 Blood save"), **Advantage/Disadvantage**, and **conditions** (Bleeding, Shaken, Frightened, Restrained, Prone). Saves and Advantage/Disadvantage are explained in Chapter 9: Combat; every condition is defined in Chapter 9 and the Glossary (Chapter 12).
 
 ### 6.2.1 Combat Skills
 | Skill | Attributes | Active Utility (The "Action") |
@@ -30,6 +45,13 @@ Skills are grouped into five categories. Each skill now features an **Active Uti
 | **Athletics** | Fury or Blood | **Pounce/Vault:** Move an extra 10 ft as part of an attack; deal +1 damage if you moved 20+ ft. |
 | **Tactics** | Focus or Will | **Command:** Use an Action to grant an ally an immediate Move action or **+2 dice** on their next roll. |
 
+**Skill Scope & Example Checks:**
+- **Weapon Mastery** — Covers melee and ranged attacks, weapon techniques, called shots, and disarms. *Example checks:* striking a foe (vs. DV), splitting a rope with a thrown blade (DR 2), fighting with an off-hand weapon.
+- **Evasion** — Covers dodging, diving for cover, twisting free of area effects, and acrobatic defense. *Example checks:* leaping clear of a collapsing floor (DR 2), avoiding a sweeping glyph blast (DR 3), rolling under a portcullis.
+- **Unarmed Combat** — Covers fists, claws, grapples, throws, and close-quarters brawling. *Example checks:* pinning a cultist (DR 2 Blood save), breaking a hold, climbing onto a larger creature.
+- **Athletics** — Covers running, jumping, climbing, swimming, and raw feats of strength. *Example checks:* scaling a sheer wall (DR 3), swimming a flooded crypt against the current (DR 2), forcing open a stuck portcullis.
+- **Tactics** — Covers battlefield command, positioning, reading enemy formations, and coordinating allies. *Example checks:* directing an ambush (DR 2), spotting the weak point in an enemy line (DR 3), rallying a wavering ally.
+
 ### 6.2.2 Arcane & Spectral Skills
 | Skill | Attributes | Active Utility (The "Action") |
 | :--- | :--- | :--- |
@@ -39,6 +61,13 @@ Skills are grouped into five categories. Each skill now features an **Active Uti
 | **Forbidden Knowledge**| Soul or Focus | **Weakness Analysis:** Use an Action to reveal a Boss's "Vulnerability" or "A.I. Tag". |
 | **Concentration** | Will or Blood | **Iron Mind:** Spend a Bonus Action to ignore one **Shaken** or **Frightened** effect for 1 round. |
 
+**Skill Scope & Example Checks:**
+- **Glyphcasting** — Covers casting and shaping Glyph spells, inscribing wards, and reading active glyphwork. *Example checks:* tracing a barrier glyph under fire (DR 3), identifying a trapped sigil (DR 2), overcharging a ward's radius.
+- **Ritualism** — Covers long-form rituals, blood rites, consecrations, and ceremonial magic. *Example checks:* completing a binding ritual (DR 3), sensing a corrupted altar (DR 2), sustaining a rite while wounded.
+- **Ethereal Mastery** — Covers the Spectral Realm, phasing, soul manipulation, and resisting spectral hazards. *Example checks:* shifting partway into the Spectral Realm (DR 3), steadying an ally against Soul Bleed (DR 2), reading a wraith's tether.
+- **Forbidden Knowledge** — Covers Hylden lore, demonology, prophecy, and the secrets mortals are not meant to keep. *Example checks:* recalling a demon's true name (DR 3), decoding a heretical text (DR 2), identifying a boss's vulnerability.
+- **Concentration** — Covers maintaining spells, resisting mental intrusion, and holding focus under duress. *Example checks:* keeping a spell active while taking damage (DR 2), shrugging off a fear effect, resisting a possession attempt (DR 3).
+
 ### 6.2.3 Subterfuge Skills
 | Skill | Attributes | Active Utility (The "Action") |
 | :--- | :--- | :--- |
@@ -47,6 +76,12 @@ Skills are grouped into five categories. Each skill now features an **Active Uti
 | **Observation** | Focus or Shadow | **Expose:** Use an Action to reveal a hidden enemy's exact HP and Defense Value (DV). |
 | **Blood Sense** | Blood or Soul | **Vampiric Hunt:** Passive: +1 die on attack rolls against **Bleeding** targets (always active). Active: Use an Action to sense the presence and rough direction of all living creatures within 60 feet until the start of your next turn. |
 
+**Skill Scope & Example Checks:**
+- **Stealth** — Covers moving unseen, hiding, shadowing a target, and silent movement. *Example checks:* slipping past a patrol (vs. their Observation), hiding in dim light (DR 2), trailing a quarry through a crowd.
+- **Infiltration** — Covers lockpicking, trap disarming, sabotage, sleight of hand, and bypassing security. *Example checks:* picking a complex lock (DR 3), disabling a pressure trap (DR 2), lifting a key from a guard's belt.
+- **Observation** — Covers spotting details, noticing ambushes, searching, and reading a scene. *Example checks:* noticing a hidden door (DR 2), spotting a sniper before they fire (DR 3), finding the one disturbed flagstone.
+- **Blood Sense** — Covers tracking by blood, sensing living creatures, gauging vitality, and hunting prey. *Example checks:* following a blood trail (DR 2), sensing a hidden heartbeat through a wall (DR 3), judging how wounded a foe is.
+
 ### 6.2.4 Influence Skills
 | Skill | Attributes | Active Utility (The "Action") |
 | :--- | :--- | :--- |
@@ -54,12 +89,49 @@ Skills are grouped into five categories. Each skill now features an **Active Uti
 | **Intimidation** | Fury or Blood | **Terrify:** Use an Action (range: within 30 feet; target must be able to perceive you) to force one enemy to make a DR 2 Will save. On failure, the target suffers **Disadvantage** on their next attack roll before the end of their next turn. |
 | **Insight** | Will or Focus | **Cold Read:** Bonus Action to learn an NPC’s "Motivation" or "Secret Goal." |
 
+**Skill Scope & Example Checks:**
+- **Persuasion** — Covers diplomacy, negotiation, deception, bargaining, and earning trust. *Example checks:* talking past a suspicious gatekeeper (DR 2), brokering a truce (DR 3), passing off a convincing lie.
+- **Intimidation** — Covers threats, coercion, displays of force, and breaking an enemy's nerve. *Example checks:* cowing a prisoner into talking (DR 2), staring down a beast (DR 3), forcing a crowd to part.
+- **Insight** — Covers reading people, detecting lies, sensing motives, and judging sincerity. *Example checks:* spotting a deception (vs. their Persuasion), gauging an NPC's true loyalty (DR 2), sensing a hidden agenda.
+
 ### 6.2.5 Expertise Skills
 | Skill | Attributes | Active Utility (The "Action") |
 | :--- | :--- | :--- |
 | **Lore** | Focus or Will | **Tactical Archive:** Use an Action to grant the party +1 Armor against one specific creature type (e.g., Undead, Mortals, Beasts, Constructs — use Monster Manual chapter groupings) for the remainder of the encounter (once per encounter). This bonus is a flat addition to each character's existing Armor score and does not stack with itself. |
 | **Wilderness** | Focus or Blood | **Field Medic:** Use an Action (range: adjacent or within 5 feet) to heal one ally for 2 HP. A creature can only benefit from this skill utility once per encounter. |
 | **Craft** | Focus or Soul | **Emergency Repair:** Use an Action (range: Touch) to restore 1 point of Armor to a piece of gear, or to clear a **Jammed** weapon (a weapon that misfired, fouled, or was disabled by a trap or environmental effect, rendering it unusable until repaired). |
+
+**Skill Scope & Example Checks:**
+- **Lore** — Covers history, religion, heraldry, languages, and knowledge of Nosgoth's peoples and powers. *Example checks:* recalling the fate of a fallen Pillar (DR 2), translating an old Sarafan inscription (DR 3), identifying a noble house by its crest.
+- **Wilderness** — Covers survival, tracking, foraging, navigation, animal handling, and field medicine. *Example checks:* finding shelter in a storm (DR 2), tracking a beast across stone (DR 3), treating a comrade's wound.
+- **Craft** — Covers smithing, alchemy, repair, construction, and making or appraising goods. *Example checks:* repairing damaged armor (DR 2), brewing a healing draught (DR 3), judging whether a relic is forged.
+
+### 6.2.6 Skill-to-Attribute Summary Table
+
+Each skill rolls **one** of its two listed attributes — choose whichever is higher (or whichever the GM judges fits the action). Your dice pool is that attribute + the skill's rank.
+
+| Skill | Category | Attributes |
+| :--- | :--- | :--- |
+| Weapon Mastery | Combat | Fury or Shadow |
+| Evasion | Combat | Shadow or Focus |
+| Unarmed Combat | Combat | Blood or Fury |
+| Athletics | Combat | Fury or Blood |
+| Tactics | Combat | Focus or Will |
+| Glyphcasting | Arcane & Spectral | Soul or Will |
+| Ritualism | Arcane & Spectral | Soul or Blood |
+| Ethereal Mastery | Arcane & Spectral | Soul or Shadow |
+| Forbidden Knowledge | Arcane & Spectral | Soul or Focus |
+| Concentration | Arcane & Spectral | Will or Blood |
+| Stealth | Subterfuge | Shadow or Focus |
+| Infiltration | Subterfuge | Shadow or Focus |
+| Observation | Subterfuge | Focus or Shadow |
+| Blood Sense | Subterfuge | Blood or Soul |
+| Persuasion | Influence | Will or Soul |
+| Intimidation | Influence | Fury or Blood |
+| Insight | Influence | Will or Focus |
+| Lore | Expertise | Focus or Will |
+| Wilderness | Expertise | Focus or Blood |
+| Craft | Expertise | Focus or Soul |
 
 ## 6.3 Pushing and Stunts
 
