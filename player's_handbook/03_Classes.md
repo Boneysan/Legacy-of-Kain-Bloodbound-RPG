@@ -34,6 +34,7 @@ Each class reflects a unique aspect of Nosgoth’s mythos. Players select a clas
 
 *   **Starting Skill Points**: 5 or 6 at Level 1, set by class (see the Starting Skill Points by Class table below).
 *   **Class Training (free Key Skill ranks)**: At Level 1, your class grants **1 free rank in each of two of its Key Skills** (your choice from that class's Key Skills list), in addition to your starting skill points. See Chapter 6 §6.4.
+*   **Versatility Ranks**: At Levels **5, 10, 15, and 20**, gain **1 free Versatility Rank** spendable on **any** skill with headroom (Key or not), in addition to your per-level skill point. See Chapter 6 §6.4.
 *   **Skill Point Gain**: +1 skill point per level.
 *   **Attribute Growth**: Increase one Core Attribute by +1 at Levels 4, 8, 12, 16, and 20 (Max 5; 6 for characters with Lineage Paragon features).
 *   **Hit Point Progression**: Your Max HP equals your class's starting HP formula, plus its listed HP gain per level after Level 1, plus any class durability milestone bonuses. If the attribute named in your Starting HP line increases, your Max HP increases by 1 immediately.

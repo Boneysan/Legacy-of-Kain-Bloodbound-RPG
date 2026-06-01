@@ -133,7 +133,7 @@ Assign your starting skill points (**5 or 6, set by class** — see the Starting
 **Class Training:** Before spending those points, take your free Class Training ranks — **1 rank in each of two of your class's Key Skills** (your choice). These do not cost starting skill points but obey the same Level 1 cap below. This represents the training your character completed before play begins.
 
 At Level 1, no skill rank can exceed 3 or the highest associated attribute (e.g., Weapon Mastery cannot exceed your Fury or Shadow if either is 2).
-The absolute maximum for any skill is 5 ranks. As characters level, the skill cap rises in tiers (3 / 4 / 5 by level band); see [Chapter 6, Section 6.4](./06_Skills.md#64-skill-point-economy) for the full tiered cap.
+The absolute maximum for any skill is 5 ranks. As characters level, the skill cap rises in tiers (3 / 4 / 5 by level band); see [Chapter 6, Section 6.4](./06_Skills.md#64-skill-point-economy) for the full tiered cap. (Beginning at Level 5, you also gain a free **Versatility Rank** every fifth level, spendable on any skill with headroom — see [Chapter 6 §6.4](./06_Skills.md#64-skill-point-economy).)
 Consult the Skill-to-Attribute Summary Table for associations.
 
 ## 1.7 Step 6: Choose Starting Gear
