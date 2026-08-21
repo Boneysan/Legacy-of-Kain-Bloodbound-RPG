@@ -1326,3 +1326,90 @@ The Overlord opens with Dimensional Anchor on the party's most effective counter
 ### Scaling Options
 
 **Weakened Form (TV 17):** - **HP:** 200, - **SE:** 100, - **Armor:** 5. Attributes reduced. Loses 3 Legendary Resistances. Regeneration reduced to 8 HP.
+
+## 9.16 Malek, the Sarafan Paladin
+
+*Cursed to armor without flesh, and to duty without end.*
+
+**Type:** Legendary Undead (Sarafan, Bound Guardian)
+**Affinity:** Spectral
+**Threat:** Legendary — Per-Hero 16 *(party of 4; total budget TV 64)*
+
+### Lore
+Malek, the former Sarafan Paladin, was cursed by Vorador to exist as a spirit bound to his armor. He serves as the guardian of the Circle of Nine. He is a relentless juggernaut of spectral force and martial prowess. He uses Telekinetic Crush to single out mages and Halberd Sweep to clear melee attackers.
+
+### Statistics
+- **HP:** 250
+- **DV:** 6
+- **Armor:** 6
+- **Initiative:** 6
+- **Movement:** 40 feet
+- **SE:** 120
+- **Attributes:** Fury 9, Soul 8, Shadow 4, Will 8, Focus 5, Blood 0
+- **Skills:** Athletics 6, Intimidation 5, Observation 4
+
+**Immunities:** Poisoned, Charmed, Frightened, Exhaustion, Disease, Blood
+**Resistances:** Slashing, Piercing, Bludgeoning, Cold, Necrotic
+
+---
+
+### Attacks
+
+**Sarafan Halberd** (Action)
+- **Range:** 10ft
+- **Damage:** 18 Slashing + 6 Force
+- **Special:** Melee attack (10ft) dealing 18 Slashing + 6 Force damage. On hit, pushes the target 10ft away.
+
+**Spectral Wave** (Action)
+- **Range:** 30ft cone
+- **Damage:** 14 Force
+- **Special:** Sends a wave of spectral energy in a 30ft cone. All targets must pass a DR 5 Will save or take 14 Force damage and be knocked Prone.
+
+**Halberd Sweep (Legendary Action)** (Action)
+- **Special:** Legendary Action (3/round). Make a Sarafan Halberd attack against all enemies within 10ft.
+
+**Telekinetic Crush (Legendary Action)** (Action)
+- **Range:** 40ft
+- **Damage:** 16 Force
+- **Special:** Legendary Action (3/round, costs 2 actions). Lifts a target within 40ft into the air and crushes them. Target must make a DR 6 Focus save or take 16 Force damage and be Restrained until the end of Malek's next turn.
+
+**Iron Maiden (Lair Action)** (Action)
+- **Damage:** 15 Piercing
+- **Special:** Lair action (initiative 20). Malek summons spectral blades from the walls. Two random enemies must pass a DR 5 Evasion save or take 15 Piercing damage and suffer Bleeding.
+
+**Spectral Surge (Lair Action)** (Action)
+- **Special:** Lair action (initiative 20). The bastion floods with spirit energy. Malek regains 30 SE and clears one negative condition.
+
+**Oathbound Riposte (Legendary Action)** (Action)
+- **Range:** 20ft
+- **Damage:** 18 Slashing
+- **Special:** Legendary Action (3/round). Malek advances up to 20 feet without provoking reactions and makes one Sarafan Halberd attack against a creature that ends its turn adjacent to him.
+
+### Abilities
+
+**Bastion of the Sarafan (Reaction)** (Reaction)
+- When hit by an attack, costs 15 SE. Malek raises a spectral shield, adding +3 to Armor against that attack and dealing 8 Force damage back to the attacker.
+
+**Legendary Resistance** (Passive)
+- (3/day) If Malek fails a save, he may choose to succeed instead.
+
+---
+
+**Behavior Tags:** sarafan, brute, guardian
+
+### Tactics
+- Opens by closing on spellcasters, using Telekinetic Crush to pull them out of formation and away from support.
+- Halberd Sweep clears massed melee attackers; grouping up against Malek is a mistake the party makes only once.
+- Bastion of the Sarafan lets him absorb a decisive blow, so burst strategies that assume a clean kill window will fail.
+- He cannot be reasoned with while the curse holds - but he was a man of oaths, and oaths can be invoked.
+
+### Loot
+- The Sarafan Halberd, a legendary weapon that retains its spectral edge
+- Fragments of cursed Sarafan plate, which no smith in Nosgoth will willingly work
+- Malek's oath-seal, evidence of the Circle of Nine's binding and a key to related wards
+
+### Scaling Options
+- **Diminished Malek (Boss, TV 42):** HP 160, Armor 5, loses Lair Actions and one Legendary Action per round.
+- **Malek Unbound (Legendary, TV 80):** HP 300, gains Legendary Resistance (3/day) and a third Legendary Action per round.
+
+---

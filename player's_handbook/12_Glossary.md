@@ -25,7 +25,7 @@ A specialized talent or technique learned as a character levels up. Perks are ca
 Training in a specific field (e.g., Athletics, Ritualism, Stealth) that adds dice to an attribute check. Skill ranks range from 0 to 5. *(Ch. 6)*
 
 **TV (Threat Value)**
-An absolute encounter-budget number rating a creature's power, used by the GM for encounter balance and by players for certain soul-related or feeding mechanics. TV has **no upper ceiling**: rank-and-file creatures sit low, while a single Boss reaches roughly Level × 3 and a Legendary creature Level × 4 or higher — individual apex Legendaries can reach TV 54+ (up to roughly TV 90). *(MM §0.0)*
+An absolute encounter-budget number rating a creature's power, used by the GM for encounter balance and by players for certain soul-related or feeding mechanics. Rank-and-file creatures are priced against Average Party Level (Minion APL − 2, Standard APL, Elite APL + 2); solo threats are priced against the whole party, a Boss at roughly 75% of Party TV and a Legendary at 100%. TV has **no upper ceiling** — individual apex Legendaries can reach TV 54+ (up to roughly TV 90). *(MM §0.0)*
 
 ---
 

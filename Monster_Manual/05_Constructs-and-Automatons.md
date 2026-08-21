@@ -661,7 +661,7 @@ Drones are often the first encounter players have with Hylden technology. Their 
 ## 5.9 Rune-Forged Warden
 
 **Type**: Construct (Ancient Guardian)  
-**Threat:** Elite — Per-Hero 2 *(party of 4; total budget TV 8)*  
+**Threat:** Major — Per-Hero 2.5 *(party of 4; total budget TV 10)*
 **Recommended Levels**: 6-10
 
 ### Lore

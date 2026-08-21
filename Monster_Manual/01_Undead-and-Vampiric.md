@@ -1231,6 +1231,490 @@ The Void-Touched opens with Merge Protocol to establish numerical advantage — 
 - Council cipher (encoded message bearing the Feral Council seal; major campaign plot hook — requires DR 4 Forbidden Knowledge check or an allied Wraith to decipher) — **Trade Value:** N/A (campaign item)
 - Dimension-locked blade (a shortsword that phases between realms on each strike; deals +2 Spectral damage and ignores 1 point of Armor) — **Trade Value:** 120 supplies
 
+## 1.23 Corrupted Shade
+
+*A soul that never finished dying, feeding on the warmth it can no longer hold.*
+
+**Type:** Small Undead (Spectral, Scavenger)
+**Affinity:** Spectral
+**Threat:** Minion — Per-Hero 0.5 *(party of 4; total budget TV 2)*
+
+### Lore
+Spectral scavengers born when a soul fails to fully pass into the Spectral Realm. They linger in the Material Plane, feeding on the living essence of the warm-blooded.
+
+### Statistics
+- **HP:** 8
+- **DV:** 3
+- **Armor:** 0
+- **Initiative:** 5
+- **Movement:** 30 feet
+- **SE:** 6
+- **Attributes:** Fury 1, Soul 2, Shadow 3, Will 1, Focus 2, Blood 1
+- **Skills:** Stealth 3, Intimidate 1
+
+**Immunities:** Poisoned
+**Resistances:** Shadow, Necrotic
+
+---
+
+### Attacks
+
+**Soul Leech** (Action)
+- **Range:** melee
+- **Damage:** 3
+- **Special:** On a hit, the Corrupted Shade drains 1 Soul Energy from its target.
+
+---
+
+**Behavior Tags:** shadow, drain, skirmisher, controller
+
+### Tactics
+- Drifts toward the warmest living thing in reach and clings to it, ignoring tactical sense entirely.
+- Leeches Soul Energy in preference to dealing damage; a party that lets Shades linger will find its casters dry.
+- Will not pursue beyond the site it haunts, and disperses in direct sunlight.
+
+### Loot
+- Residue of cold ash that dispels at dawn
+- Occasionally a personal effect from the life it lost (Trade Value: 1d6 supplies)
+
+### Scaling Options
+- **Gorged Shade (Standard, TV 4):** HP 16, DV 4, Soul Leech drains 2 SE and heals the Shade for the amount drained.
+
+---
+
+## 1.24 Drowned Dead
+
+*They remember only the water, and they would like company in it.*
+
+**Type:** Medium Undead (Aquatic)
+**Affinity:** Material
+**Threat:** Minion — Per-Hero 0.75 *(party of 4; total budget TV 3)*
+
+### Lore
+The restless dead who perished in Nosgoth's corrupted waterways, forever waterlogged and reeking of stagnant pools. They drag the living toward the same murky depths that claimed them.
+
+### Statistics
+- **HP:** 9
+- **DV:** 3
+- **Armor:** 0
+- **Initiative:** 4
+- **Movement:** 25 feet
+- **SE:** 6
+- **Attributes:** Fury 2, Soul 1, Shadow 2, Will 2, Focus 1, Blood 2
+- **Skills:** Stealth 2, Athletics 2
+
+**Immunities:** Poisoned, Suffocation
+**Resistances:** Cold, Necrotic
+
+---
+
+### Attacks
+
+**Choking Grasp** (Action)
+- **Range:** melee
+- **Damage:** 3
+- **Special:** Grabs a target and attempts to drown them. Target must succeed on a Fury DV check each turn or take 3 suffocation damage and become Restrained.
+
+### Abilities
+
+**Waterlogged** (Passive)
+- Can breathe underwater and moves at full speed in aquatic environments. Fire damage deals an additional -1 die.
+
+---
+
+**Behavior Tags:** aquatic, brute, sentinel
+
+### Tactics
+- Waits submerged until a living creature comes within reach of the bank, then grapples and pulls.
+- Fights to drag targets into water rather than to kill them outright.
+- At a severe disadvantage on dry ground and will retreat toward water whenever possible.
+
+### Loot
+- Waterlogged personal effects, ruined beyond use
+- Silt-caked coin or trinket (Trade Value: 1d6 supplies)
+- Drowned lung tissue, a reagent in suffocation rituals
+
+### Scaling Options
+- **Tidewrought Dead (Standard, TV 5):** HP 18, DV 4, Choking Grasp deals 5 damage and the Restrained condition also imposes Blinded while submerged.
+
+---
+
+## 1.25 Skeleton Warrior
+
+*The rank and file of every necromancer's ambition, still wearing the colors of armies long dissolved.*
+
+**Type:** Medium Undead (Skeletal, Soldier)
+**Affinity:** Material
+**Threat:** Minion — Per-Hero 0.75 *(party of 4; total budget TV 3)*
+
+### Lore
+The animated bones of Nosgoth's fallen soldiers, still clad in rusted mail. They form the backbone of any undead army, relentless and unfeeling.
+
+### Statistics
+- **HP:** 10
+- **DV:** 3
+- **Armor:** 1
+- **Initiative:** 3
+- **Movement:** 30 feet
+- **SE:** 6
+- **Attributes:** Fury 3, Soul 1, Shadow 1, Will 2, Focus 1, Blood 1
+- **Skills:** Melee 2, Athletics 1
+
+**Immunities:** Poisoned, Bleeding
+**Resistances:** Piercing
+
+---
+
+### Attacks
+
+**Bone Strike** (Action)
+- **Range:** melee
+- **Damage:** 3
+- **Special:** A heavy blow with a rusted blade or bone club.
+
+### Abilities
+
+**Undying Frame** (Passive)
+- Immune to Bleeding and poison effects. Piercing weapons deal half damage.
+
+---
+
+**Behavior Tags:** armored, soldier, brute
+
+### Tactics
+- Holds formation and advances in line; will not break to chase a fleeing target.
+- Fights until destroyed, having neither morale nor self-preservation to test.
+- Most dangerous in number, where Undying Frame lets the front rank absorb blows meant for the necromancer behind.
+
+### Loot
+- Rusted mail and a corroded blade, worth salvage only
+- Regimental insignia identifying a fallen company
+- Clean bone, a standard component in animation rites
+
+### Scaling Options
+- **Skeletal Veteran (Standard, TV 5):** HP 18, DV 4, Armor 2, Bone Strike deals 5 damage and the Warrior gains a shield bash bonus action that pushes 5 feet.
+
+---
+
+## 1.26 Soul-Hungry Ghoul
+
+*It does not want your flesh. It wants the light underneath it.*
+
+**Type:** Medium Undead (Feral)
+**Affinity:** Material
+**Threat:** Minion — Per-Hero 0.75 *(party of 4; total budget TV 3)*
+
+### Lore
+Not merely hungry for flesh — the Soul-Hungry Ghoul tears at its prey seeking the warm light of the soul within. Fast, frenzied, and nearly impossible to outrun.
+
+### Statistics
+- **HP:** 10
+- **DV:** 3
+- **Armor:** 0
+- **Initiative:** 4
+- **Movement:** 40 feet
+- **SE:** 6
+- **Attributes:** Fury 3, Soul 1, Shadow 2, Will 1, Focus 3, Blood 2
+- **Skills:** Melee 2, Athletics 3, Stealth 2
+
+**Immunities:** Poisoned
+**Resistances:** Necrotic
+
+---
+
+### Attacks
+
+**Ambush Pounce** (Action)
+- **Range:** melee
+- **Damage:** 3
+- **Special:** When the Ghoul attacks from Stealth, it leaps onto the target. The target is knocked prone and takes an additional die of damage.
+
+**Rend** (Action)
+- **Range:** melee
+- **Damage:** 2
+- **Special:** A frenzied claw attack that inflicts the Bleeding condition on a successful hit.
+
+---
+
+**Behavior Tags:** fast, bleeding, ambusher, skirmisher
+
+### Tactics
+- Opens from concealment with Ambush Pounce against the most isolated target it can reach.
+- Prioritizes prone and bleeding targets, worrying at them rather than switching to fresh prey.
+- Outruns almost any party member; fleeing on foot is not a viable answer.
+
+### Loot
+- Scraps of the previous victim's belongings
+- Ghoul claw, prized by alchemists for bleeding draughts
+
+### Scaling Options
+- **Starving Ghoul (Standard, TV 5):** HP 18, DV 4, gains a second Rend per turn while the target is Bleeding.
+
+---
+
+## 1.27 Vampire Thrall
+
+*Broken, remade, and grateful for it - which is the worst part.*
+
+**Type:** Medium Undead (Vampiric, Thrall)
+**Affinity:** Material
+**Threat:** Standard — Per-Hero 1.25 *(party of 4; total budget TV 5)*
+
+### Lore
+Mortals broken and reborn under a vampire lord's will. They retain a pale echo of life, making them more cunning than common undead — and far more dangerous for their slavish devotion.
+
+### Statistics
+- **HP:** 16
+- **DV:** 4
+- **Armor:** 1
+- **Initiative:** 4
+- **Movement:** 35 feet
+- **SE:** 14
+- **Attributes:** Fury 2, Soul 1, Shadow 2, Will 2, Focus 2, Blood 3
+- **Skills:** Melee 2, Stealth 2, Blood Magic 1
+
+**Immunities:** Poisoned
+**Resistances:** Necrotic
+
+---
+
+### Attacks
+
+**Feral Bite** (Action)
+- **Range:** melee
+- **Damage:** 5
+- **Special:** A savage bite attack. On a hit, the Thrall regains 3 HP and restores 1 Blood Point.
+
+### Abilities
+
+**Blood-Bound Loyalty** (Passive)
+- While its master is within 30 ft, the Thrall gains +1 die on all attack rolls.
+
+---
+
+**Behavior Tags:** vampire, blood, pack, soldier
+
+### Tactics
+- Fights with retained tactical sense, using cover and focusing whoever threatens its master.
+- Blood-Bound Loyalty makes it interpose itself between attackers and its lord without hesitation.
+- Will not surrender or flee while its master lives; killing the master often ends the fight outright.
+
+### Loot
+- The livery of the vampire lord it served
+- A blood vial kept for its master's convenience
+- Personal effects from the mortal life it no longer recalls
+
+### Scaling Options
+- **Favored Thrall (Elite, TV 8):** HP 40, DV 5, Armor 2, Feral Bite deals 8 damage and the Thrall may take a reaction to absorb one attack aimed at its master.
+
+---
+
+## 1.28 Wight Captain
+
+*Death relieved him of his life but not, in his view, of his command.*
+
+**Type:** Medium Undead (Wight, Commander)
+**Affinity:** Material
+**Threat:** Elite — Per-Hero 2 *(party of 4; total budget TV 8)*
+
+### Lore
+A veteran soldier who died in battle and refused to abandon command. Wight Captains retain their military cunning and will coordinate undead hordes with frightening efficiency.
+
+### Statistics
+- **HP:** 45
+- **DV:** 5
+- **Armor:** 3
+- **Initiative:** 4
+- **Movement:** 30 feet
+- **SE:** 20
+- **Attributes:** Fury 4, Soul 2, Shadow 2, Will 3, Focus 2, Blood 1
+- **Skills:** Melee 3, Intimidate 3, Leadership 2
+
+**Immunities:** Poisoned, Charmed, Frightened
+**Resistances:** Necrotic, Cold
+
+---
+
+### Attacks
+
+**Warlord's Strike** (Action)
+- **Range:** melee
+- **Damage:** 8
+- **Special:** A precise, devastating blow. Deals bonus damage equal to the number of undead allies within 10 ft (max +3).
+
+**Rally the Fallen** (Action)
+- **Range:** 30ft aura
+- **Special:** Once per encounter, the Wight Captain lets out a resonant battle cry. All undead allies within 30 ft immediately act on their next turn, even if they have already acted this round.
+
+### Abilities
+
+**Deathless Command** (Passive)
+- Undead minions within 15 ft of the Wight Captain cannot be Frightened and gain +1 on attack rolls.
+
+---
+
+**Behavior Tags:** armored, soldier, controller, sentinel
+
+### Tactics
+- Holds the center of its formation and uses Rally the Fallen the moment its line begins to break.
+- Marks the enemy commander or heaviest hitter and directs Warlord's Strike there, gaining damage from massed allies.
+- Deathless Command makes killing the Captain first the correct play - a leaderless horde loses much of its threat.
+
+### Loot
+- Officer's blade, still serviceable and faintly cold to the touch
+- Campaign seal identifying the war it died in
+- Grave-iron gorget, worth real coin to collectors of Sarafan-era militaria
+
+### Scaling Options
+- **Wight Warlord (Boss, TV 36):** HP 120, DV 6, Armor 4, Rally the Fallen also returns one destroyed minion to 1 HP once per encounter.
+
+---
+
+## 1.29 Bone Colossus
+
+*A regiment's worth of dead, stacked into one body and taught to swing.*
+
+**Type:** Large Undead (Skeletal Construct)
+**Affinity:** Material
+**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*
+
+### Lore
+Assembled from the bones of dozens of soldiers and animated by a necromancer's iron will. A Bone Colossus shakes the ground with each step and can crack stone walls with its fists.
+
+### Statistics
+- **HP:** 55
+- **DV:** 5
+- **Armor:** 3
+- **Initiative:** 3
+- **Movement:** 20 feet
+- **SE:** 15
+- **Attributes:** Fury 5, Soul 1, Shadow 1, Will 3, Focus 1, Blood 1
+- **Skills:** Melee 3, Athletics 2
+
+**Immunities:** Poisoned, Bleeding, Charmed
+**Resistances:** Piercing, Necrotic
+
+---
+
+### Attacks
+
+**Osseous Slam** (Action)
+- **Range:** melee
+- **Damage:** 8
+- **Special:** A massive two-handed slam. All creatures in a 5-ft radius of the target must make a Will DV check or be knocked prone.
+
+**Bone Scatter** (Action)
+- **Range:** 15ft cone
+- **Damage:** 4
+- **Special:** Hurls a volley of bone shards in a 15-ft cone. Deals 4 damage to all creatures in the area.
+
+### Abilities
+
+**Relentless Construct** (Passive)
+- The Bone Colossus cannot be knocked prone. It ignores difficult terrain caused by rubble or bones.
+
+---
+
+**Behavior Tags:** construct, large, brute, controller
+
+### Tactics
+- Advances on the largest cluster of enemies and opens with Osseous Slam to scatter them prone.
+- Uses Bone Scatter when targets spread beyond its reach rather than chasing them.
+- Relentless Construct means attrition alone will not stop it; the binding necromancer is the real target.
+
+### Loot
+- Several hundredweight of clean bone, valuable to necromancers
+- The binding sigil at its core, reusable if extracted intact
+- Crushed armor fragments from the soldiers it was assembled from
+
+### Scaling Options
+- **Ossuary Titan (Boss, TV 36):** HP 130, DV 6, Armor 5, gains a Legendary Action to make one Osseous Slam, and reassembles once at half HP unless the core sigil is destroyed.
+
+---
+
+## 1.30 Archon of Decay
+
+*Not merely undead - a wound in the world that refuses to close.*
+
+**Type:** Medium Undead (Archon, Blighted Commander)
+**Affinity:** Material
+**Threat:** Boss — Per-Hero 10.5 *(party of 4; total budget TV 42)*
+
+### Lore
+An ancient general of the Sarafan who swore an oath so dark it bound their soul to Nosgoth's rotting earth. The Archon of Decay is not merely undead — it is a wound in the world that refuses to close.
+
+### Statistics
+- **HP:** 150
+- **DV:** 6
+- **Armor:** 4
+- **Initiative:** 6
+- **Movement:** 25 feet
+- **SE:** 60
+- **Attributes:** Fury 4, Soul 3, Shadow 4, Will 4, Focus 3, Blood 2
+- **Skills:** Melee 4, Soul Magic 3, Intimidate 4, Necromancy 5
+
+**Immunities:** Poisoned, Necrotic, Charmed, Frightened, Bleeding
+**Resistances:** Physical, Cold, Shadow
+
+---
+
+### Attacks
+
+**Necrotic Pulse** (Action)
+- **Range:** 25ft radius
+- **Damage:** 9
+- **Special:** Releases a wave of death energy in a 25-ft radius. All living creatures take 9 necrotic damage; undead allies are healed for 9 HP.
+
+**Entropy Blade** (Action)
+- **Range:** melee
+- **Damage:** 12
+- **Special:** A two-handed necrotic weapon strike. On a hit, the target's maximum HP is reduced by 6 until they take a long rest.
+
+**Raise Servitors** (Action)
+- **Range:** 30ft
+- **Special:** Once per encounter, raises up to 3 fallen combatants (PC or NPC) as Skeleton Warriors under the Archon's command.
+
+**Grasp of Rot (Legendary Action)** (Action)
+- **Range:** 30ft
+- **Damage:** 6 Necrotic
+- **Special:** Legendary Action (2/round). One creature within 30 feet makes a DR 4 Will save or takes 6 necrotic damage and has all healing halved until the end of its next turn.
+
+**Decay Step (Legendary Action)** (Action)
+- **Range:** 30ft
+- **Damage:** 4 Necrotic
+- **Special:** Legendary Action (2/round). The Archon sinks into the rotting earth and reappears at any point within 30 feet. Creatures adjacent to its arrival take 4 necrotic damage.
+
+### Abilities
+
+**Aura of Rot** (Passive)
+- Living creatures that start their turn within 10 ft of the Archon must succeed on a Fury DV check or take 1 necrotic damage and lose 1 max HP.
+
+**Phase II — Undying Wrath** (Passive)
+- When reduced below half HP, the Archon's speed increases to 35, it gains +1 die on all attacks, and Necrotic Pulse recharges.
+
+**Legendary Resistance** (Passive)
+- (3/day) If the Archon fails a save, it may choose to succeed instead.
+
+---
+
+**Behavior Tags:** armored, summoner, controller
+
+### Tactics
+- Opens with Raise Servitors to establish a screen, then holds the middle distance where Aura of Rot does constant work.
+- Alternates Necrotic Pulse to heal its own risen while damaging the party - killing the servitors first denies it the healing.
+- At half HP, Phase II - Undying Wrath changes the fight; parties that spent everything on the opening phase will not survive the second.
+
+### Loot
+- The Archon's oath-plate, still legible and still binding
+- Entropy Blade, which reduces maximum HP on a hit but corrupts its wielder over time
+- Grave-loam from beneath its feet, a potent necromantic reagent
+
+### Scaling Options
+- **Diminished Archon (Elite, TV 12):** HP 60, DV 5, Armor 3, loses Phase II and Raise Servitors summons a single servitor.
+- **Archon Ascendant (Legendary, TV 56):** HP 200, Armor 5, gains Legendary Resistance (3/day) and Necrotic Pulse recharges on 5-6.
+
+---
+
 ---
 
 *"They do not want to rule Nosgoth. They want to watch it end — with them at the boundary, half-in and half-out, laughing."*
@@ -1366,9 +1850,3 @@ Vampires are not a monolithic faction — the six clans of Kain's bloodline each
 > **Hydraulic Pressure** (Active, costs 3 SE, while submerged): All creatures within 15 feet of the Rahabim in water take 4 Force damage as it manipulates local water pressure.
 >
 > *Weakness:* In dry environments (away from water for more than 1 hour), the Rahabim suffers -1 DV and Disadvantage on physical checks as its skin cracks and bleeds from low humidity.
-
----
-
-*"Six clans. Six philosophies of what it means to be eternal. And every one of them wrong in the same fundamental way."*
-
-*— Raziel*

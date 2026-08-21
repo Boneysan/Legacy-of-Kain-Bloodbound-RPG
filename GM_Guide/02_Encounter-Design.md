@@ -65,21 +65,40 @@ Published Monster Manual entries use their printed TV exactly as written. Chapte
 
 ### Benchmark Enemy Tiers
 
-Threat Value (TV) is relative to the **Average Party Level (APL)**. A "standard" challenge for a level 5 party uses TV 5 enemies.
+Threat Value (TV) is priced against **the party**, not against a single character. Two numbers drive everything:
 
-| Enemy Type | Relative TV | Typical Use |
-|-----------|--------------|-------------|
-| **Minion** | APL - 2 (min 0.25) | Disposable bodies, swarm pressure |
-| **Standard Enemy** | APL + 0 | Rank-and-file threat |
-| **Elite Enemy** | APL + 2 | Strong specialist, high pressure |
-| **Boss (Solo-Capable)** | (APL × 3) | Centerpiece; can face 4 PCs alone if tuned |
-| **Legendary (Solo)** | (APL × 4+) | Campaign threat; requires extreme coordination |
+- **Party TV** — the sum of all PC levels (4 PCs at Level 5 = Party TV 20).
+- **APL** — Average Party Level.
+
+Group tiers are priced per-creature against APL. Solo tiers are priced as a share of the whole **Party TV**, because one creature has to stand against everybody.
+
+| Enemy Type | Priced As | Four-PC shorthand | Typical Use |
+|-----------|--------------|-------------------|-------------|
+| **Minion** | APL - 2 (min 0.25) | APL - 2 | Disposable bodies, swarm pressure |
+| **Standard Enemy** | APL + 0 | APL | Rank-and-file threat |
+| **Elite Enemy** | APL + 2 | APL + 2 | Strong specialist, high pressure |
+| **Major Enemy** | APL + 4 | APL + 4 | Heavyweight lieutenant; anchors a scene without soloing it |
+| **Boss (Solo-Capable)** | **75% of Party TV** | APL × 3 | Centerpiece; can face the party alone if tuned |
+| **Legendary (Solo)** | **100% of Party TV** | APL × 4 | Campaign threat; requires extreme coordination |
+
+**Why the solo tiers are party-relative.** `APL × 3` and `APL × 4` are only correct for a party of four, where Party TV = 4 × APL. Pricing a solo from Party TV directly keeps it correct at any table size. A Level 8 boss:
+
+| Party size | Party TV (APL 8) | Boss TV (75%) | Legendary TV (100%) |
+|---|---:|---:|---:|
+| 3 PCs | 24 | 18 | 24 |
+| 4 PCs | 32 | 24 | 32 |
+| 5 PCs | 40 | 30 | 40 |
+| 6 PCs | 48 | 36 | 48 |
+
+Using the flat `APL × 3` for a five-player table prices that boss at TV 24 against a Party TV of 40 — only 60%, an Easy-to-Standard fight instead of the intended centerpiece. For six players it lands at 50%: Easy.
+
+> **Tier is not the same as difficulty band.** A solo **Legendary creature** is 100% of Party TV, which the difficulty table in 2.1 rates as a **Standard** encounter. The **Legendary difficulty band** (250%+ of Party TV) is a separate measure and needs a Legendary creature *plus* substantial support. Reading "Legendary creature" as "Legendary encounter" will badly under-build a finale.
 
 When using a published Monster Manual entry, look at its **Printed TV** and compare it to your party's level. A TV 15 creature is a "Solo Boss" for a Level 5 party (TV 20), but only a "Standard" enemy for a Level 15 party (TV 60).
 
 ### Quick Enemy Stat Creation (Homebrew Baselines)
 
-Use these formulas when building a creature for a specific **Target Level**. The resulting creature's **Printed TV** will be the sum of its Target Level + the Tier modifier.
+Use these formulas when building a creature for a specific **Target Level**. For **Minion**, **Standard**, and **Elite**, the resulting **Printed TV** is the Target Level plus the tier modifier. **Boss** and **Legendary** are *not* sums — price them as a share of Party TV (75% and 100%); the `Level × 3` and `Level × 4` shown below are the four-player shorthand.
 
 **Minion (Printed TV = Level - 2):**
 - HP: 3–6
@@ -105,7 +124,16 @@ Use these formulas when building a creature for a specific **Target Level**. The
 - Special: 1-2 unique abilities
 - Contested checks: pool = Level
 
-**Boss (Solo-Capable, Printed TV = Level × 3):**
+**Major Enemy (Printed TV = Level + 4):**
+- HP: 15 + (7 × Level)
+- DV: 3 + (Level ÷ 2), max 6 (excess becomes effective DV via Armor or reactions)
+- Armor: 2-4
+- Attack: (Level + 3) d6
+- Damage: 8-12
+- Special: 2-3 unique abilities; **no Legendary Actions** — that is what separates a Major from a Boss
+- Contested checks: pool = Level
+
+**Boss (Solo-Capable — Printed TV = 75% of Party TV; `Level × 3` for four players):**
 - HP: 20 + (10 × Level)
 - DV: 4 + (Level ÷ 2), max 6 (excess becomes effective DV via Armor or reactions)
 - Armor: 3-4
@@ -114,7 +142,7 @@ Use these formulas when building a creature for a specific **Target Level**. The
 - Special: 3-4 unique abilities, 2 Legendary Actions/round
 - Contested checks: pool = Level
 
-**Legendary (Printed TV = Level × 4+):**
+**Legendary (Solo — Printed TV = 100% of Party TV; `Level × 4+` for four players):**
 - HP: 40 + (12 × Level)
 - DV: 6 (base cap; layer defenses)
 - Armor: 4-6
@@ -148,7 +176,7 @@ A boss with 50 HP facing 4 PCs will still get overwhelmed because:
 **Option 2: Legendary Actions**
 - Boss can take actions on player turns
 - Example: "The vampire lord can make one claw attack after any PC's turn ends"
-- As a default benchmark, use 2 Legendary Actions for a solo Boss (TV = Level × 3) and 3 for a Legendary creature (TV = Level × 4 or more)
+- As a default benchmark, use 2 Legendary Actions for a solo Boss (75% of Party TV) and 3 for a Legendary creature (100% of Party TV)
 - For custom creatures built to a level band, count each reliable legendary action as roughly `+0.5 × average party level` to the creature's final TV
 
 **Option 3: Multi-Attack**

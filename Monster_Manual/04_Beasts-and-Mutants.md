@@ -566,7 +566,7 @@ Their most unsettling trait is their ability to seemingly vanish mid-combat, onl
 ## 4.9 Blightmaw Alpha
 
 **Type:** Beast (Corrupted Apex Predator)  
-**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*  
+**Threat:** Major — Per-Hero 2.5 *(party of 4; total budget TV 10)*
 **Recommended Levels:** 5-9
 
 ### Lore

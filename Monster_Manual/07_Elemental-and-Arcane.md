@@ -106,7 +106,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 *A large, spectral wolf wreathed in ethereal fire, its howls echoing with the crackle of a dying fire. It is a hunter, bound not by rage, but by a lingering, sorrowful duty.*
 
 **Type:** Large Beast (Spectral, Fire)
-**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*
+**Threat:** Major — Per-Hero 2.75 *(party of 4; total budget TV 11)*
 
 ### Statistics
 - **HP:** 65
@@ -186,7 +186,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 *A swirling vortex of wind, razor-sharp ice shards, and corrupted blood magic. It is a localized, unnatural storm that drains the life from the land and its inhabitants.*
 
 **Type:** Huge Elemental (Cold, Blood)
-**Threat:** Elite — Per-Hero 3.5 *(party of 4; total budget TV 14)*
+**Threat:** Major — Per-Hero 4 *(party of 4; total budget TV 16)*
 
 ### Statistics
 - **HP:** 100
@@ -272,7 +272,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 *A fallen warrior's form, encased in a thick layer of magical frost. It moves with a stiff, relentless gait, its eyes glowing with a cold, blue light. It is not truly unliving, but a vessel animated by a vengeful frost spirit.*
 
 **Type:** Medium Undead (Frost-Bound)
-**Threat:** Elite — Per-Hero 2.5 *(party of 4; total budget TV 10)*
+**Threat:** Major — Per-Hero 3.75 *(party of 4; total budget TV 15)*
 
 ### Statistics
 - **HP:** 90
@@ -531,7 +531,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 *An absence given form - a creature of pure anti-magic that devours arcane energy and leaves silence in its wake.*
 
 **Type:** Large Elemental (Void, Anti-Magic)
-**Threat:** Elite — Per-Hero 3.5 *(party of 4; total budget TV 14)*
+**Threat:** Major — Per-Hero 5 *(party of 4; total budget TV 20)*
 
 ### Statistics
 - **HP:** 130
@@ -621,7 +621,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 *A hulking, amorphous mass of crackling electricity and storm clouds, shaped vaguely like a monstrous beast. Bolts of lightning arc from its form, and thunder rumbles with each movement. It is a living thunderstorm, born from the fury of a tempestuous sky.*
 
 **Type:** Large Elemental (Lightning, Storm)
-**Threat:** Elite — Per-Hero 3.25 *(party of 4; total budget TV 13)*
+**Threat:** Major — Per-Hero 4.5 *(party of 4; total budget TV 18)*
 
 ### Statistics
 - **HP:** 110
@@ -705,7 +705,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 *A swirling cloud of dense, enchanted fog, with tendrils that lash out like grasping hands. At its center is a faint, humanoid silhouette, whispering curses and binding spells. It is a spirit of confinement, trapping souls and bodies alike in its misty embrace.*
 
 **Type:** Medium Elemental (Mist, Spirit)
-**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*
+**Threat:** Major — Per-Hero 3.25 *(party of 4; total budget TV 13)*
 
 ### Statistics
 - **HP:** 75
@@ -786,7 +786,7 @@ In life, a Null Elemental appears as a vaguely humanoid void - a black silhouett
 ## 7.10 Flame Wisp
 
 **Type:** Elemental (Fire, Minor)
-**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*
+**Threat:** Major — Per-Hero 3.5 *(party of 4; total budget TV 14)*
 
 ### Lore
 Flame Wisps are sparks of elemental fire given persistent consciousness - not born from volcanoes or conflagrations, but from places where the Pillar of States (or its corrupted equivalent) once channeled transformation energy. They are the aftermath of great magical events: where a Circle guardian once died in fire, where a Hylden ritual burned itself out, where a ward incinerated an insufficient sacrifice.
@@ -950,7 +950,7 @@ The Pillar-Stone Golem positions itself at the center of its territory and waits
 ## 7.12 Umbral Vortex
 
 **Type:** Elemental (Shadow, Void)
-**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*
+**Threat:** Major — Per-Hero 4.75 *(party of 4; total budget TV 19)*
 
 ### Lore
 An Umbral Vortex is a tear in the boundary between the material world and the empty void beyond the Spectral Realm - not the Spectral Realm itself, but the absolute darkness beneath it that the Abyss touches. It manifests as a slowly spinning column of absolute darkness, perhaps 8 feet tall and 4 feet wide, that pulls light and sound into itself. Looking directly at one is unpleasant in a way that's hard to articulate - the visual cortex interprets "no light whatsoever" as something worse than blackness.
@@ -1022,7 +1022,7 @@ The Umbral Vortex opens with Consuming Dark to neutralize lights and **Frightene
 
 **Type:** Elemental-Parasite (Arcane)
 **Affinity:** Spectral
-**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*
+**Threat:** Major — Per-Hero 4.5 *(party of 4; total budget TV 18)*
 
 ### Lore
 SE-Feeders exist at the intersection of elemental manifestation and magical parasitism. They are not born from any natural process - they coalesce where high concentrations of Soul Energy have been expended without properly dispersing, like the magical equivalent of a mold culture forming in a damp wall. They are particularly common at sites of heavy spellcasting, old summoning circles, and former Circle of Nine facilities.
