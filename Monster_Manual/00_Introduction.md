@@ -24,15 +24,20 @@ The manual is divided into thematic chapters, each containing creatures appropri
 
 ### Threat Tiers
 
-TV (TV) measures a creature's absolute encounter-budget contribution. Most creatures are priced **relative to the Average Party Level (APL)**, while solo-capable threats use a **multiplicative absolute budget** so a single creature can stand against a whole party. Both models feed the same encounter math below.
+TV measures a creature's absolute encounter-budget contribution. Group tiers are priced **relative to the Average Party Level (APL)**; solo-capable tiers are priced as a **share of the whole Party TV** (the sum of all PC levels), because a single creature must stand against the entire party. Both models feed the same encounter math below.
 
-- **Minion (Relative TV = APL − 2, minimum ~0.25):** Weak enemies; used in groups to pressure action economy
-- **Standard (Relative TV = APL + 0):** Baseline threat; reliable rank-and-file opponent
-- **Elite (Relative TV = APL + 2):** Strong specialist; high pressure, 1-2 unique abilities
-- **Boss (Printed TV = Level × 3):** Solo-capable encounter centerpiece; 2 Legendary Actions/round
-- **Legendary (Printed TV = Level × 4 or more):** Campaign-defining solo threat; 3 Legendary Actions/round
+- **Minion (APL − 2, minimum ~0.25):** Weak enemies; used in groups to pressure action economy
+- **Standard (APL + 0):** Baseline threat; reliable rank-and-file opponent
+- **Elite (APL + 2):** Strong specialist; high pressure, 1-2 unique abilities
+- **Major (APL + 4):** Scene-anchoring specialist; tougher than an Elite but not solo-capable; 2-3 unique abilities, no Legendary Actions
+- **Boss (75% of Party TV):** Solo-capable encounter centerpiece; 2 Legendary Actions/round
+- **Legendary (100% of Party TV):** Campaign-defining solo threat; 3 Legendary Actions/round
 
-Threat tiers are descriptive benchmark bands. **The printed TV on a creature is always its final absolute encounter-budget contribution.** If a stat block says `TV 9` and its header says `Elite (Level 7)`, it means this creature is an Elite challenge for a Level 7 party. A solo Boss built for Level 7 is priced `7 × 3 = TV 21`; a solo Legendary for Level 18 is priced `18 × 4 = TV 72`.
+For the standard party of four, Party TV = 4 × APL, so Boss reduces to `APL × 3` and Legendary to `APL × 4` — the shorthand printed on every stat block in this manual. At other table sizes, price solos from Party TV directly rather than from the shorthand.
+
+Threat tiers are descriptive benchmark bands. **The printed TV on a creature is always its final absolute encounter-budget contribution.** If a stat block says `TV 9` and its header says `Elite (Level 7)`, it means this creature is an Elite challenge for a Level 7 party. A solo Boss for a Level 7 party of four is priced `7 × 3 = TV 21`; a solo Legendary for a Level 18 party of four is priced `18 × 4 = TV 72`.
+
+> **Tier is not the same as difficulty band.** A solo Legendary *creature* is 100% of Party TV — which the encounter table below rates as a **Standard** fight. The Legendary *difficulty band* (250%+ of Party TV) is a different measure, and reaching it takes a Legendary creature **plus** substantial support. Do not read "Legendary creature" as "Legendary encounter."
 
 ### Reading Threat Tiers — What Each Tier Means for the GM
 
@@ -43,6 +48,7 @@ The tier label tells you, at a glance, *how to use the creature at the table*:
 | **Minion** | Field in packs of 3–6; dies in ~1 solid hit. Exists to soak PC actions and pressure positioning. | 1 Action each |
 | **Standard** | The rank-and-file soldier. Roughly 1 per PC makes an even fight. | 1 Action each |
 | **Elite** | A named threat or mini-boss. Field 1 (plus support) as the focus of a scene. | 1 Action + 1 special |
+| **Major** | A heavyweight lieutenant. Field 1 as the anchor of a scene, with Standards or Minions around it. | 1 Action + 2 specials |
 | **Boss** | Can headline a fight against the whole party alone if tuned. | **2 Legendary Actions/round** |
 | **Legendary** | A campaign-defining solo. Survives the alpha strike; punishes loose play. | **3 Legendary Actions/round + 3/day Legendary Resistance** |
 

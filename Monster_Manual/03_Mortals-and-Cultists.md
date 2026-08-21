@@ -750,7 +750,7 @@ For vampire PCs, the Grand Inquisitor represents the worst possible enemy: a mor
 ## 3.12 The Turning
 
 **Type**: Mortal/Undead Hybrid (Mid-Transformation)  
-**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*  
+**Threat:** Major — Per-Hero 2.5 *(party of 4; total budget TV 10)*
 **Recommended Levels**: 5-9
 
 ### Lore

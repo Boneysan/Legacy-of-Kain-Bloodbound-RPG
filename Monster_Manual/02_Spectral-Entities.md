@@ -686,6 +686,371 @@ The Wraith of the Abyss is a patient predator. It uses Phase Shift to stalk the 
 - **Lesser Abyssal Shade (Standard, TV 5):** HP: 22, DV: 4, Soul 3, no Phase Shift or Void Scream. Remove Abyssal Resilience.
 - **Abyssal Revenant (Boss, TV 13):** HP: 68, DV: 6, Soul 6, Unarmed Combat 3. Add Legendary Resistance (1/day) and 2 Legendary Actions per round: Abyss Touch (1), Void Scream (2). Add "Abyssal Gate" (once per encounter): opens a portal to the Abyss in a 15-foot radius. All creatures in the area make a DR 4 Will save. On failure, a creature is pulled into the Spectral Realm until the end of its next turn.
 
+## 2.17 Wraithling
+
+*Barely a ghost at all - a wisp of malice with just enough memory to resent you.*
+
+**Type:** Tiny Spectral (Incorporeal, Swarm-Prone)
+**Affinity:** Spectral
+**Threat:** Minion — Per-Hero 0.5 *(party of 4; total budget TV 2)*
+
+### Lore
+The smallest and least coherent of spectral entities — barely more than a wisp of malice and memory. Wraithlings cluster around places of great suffering, drawn to the echoes of pain.
+
+### Statistics
+- **HP:** 5
+- **DV:** 3
+- **Armor:** 0
+- **Initiative:** 4
+- **Movement:** 30 feet
+- **SE:** 6
+- **Attributes:** Fury 1, Soul 1, Shadow 2, Will 1, Focus 1, Blood 1
+- **Skills:** Stealth 2
+
+**Immunities:** Poisoned, Necrotic
+**Resistances:** Physical
+
+---
+
+### Attacks
+
+**Spectral Claw** (Action)
+- **Range:** melee
+- **Damage:** 2
+- **Special:** A feeble spectral scratch. Deals 2 spectral damage that ignores armor.
+
+---
+
+**Behavior Tags:** incorporeal, weak, pack, coward
+
+### Tactics
+- Individually trivial; the threat is entirely in numbers, and they are always in numbers.
+- Clusters on a single target once three or more are present, stacking small drains into a real problem.
+- Scatters into the Spectral Realm when badly hurt, reforming later at the same haunt unless the site is cleansed.
+
+### Loot
+- Nothing material; a cleansed haunt may release a trapped memory or minor Soul fragment
+
+### Scaling Options
+- **Wraithling Cluster (Standard, TV 5):** Treat 4 Wraithlings as a single entity with HP 20, DV 4, one Spectral Claw at 5 damage against every adjacent creature.
+
+---
+
+## 2.18 Tortured Soul
+
+*It is not attacking you. It is reliving something, and you are standing inside it.*
+
+**Type:** Medium Spectral (Incorporeal, Anguished)
+**Affinity:** Spectral
+**Threat:** Minion — Per-Hero 0.75 *(party of 4; total budget TV 3)*
+
+### Lore
+Some souls are so wracked by their manner of dying that they cannot even seek rest. They linger in an eternity of replayed suffering, lashing out at anything that reminds them of the living world.
+
+### Statistics
+- **HP:** 8
+- **DV:** 3
+- **Armor:** 0
+- **Initiative:** 4
+- **Movement:** 25 feet
+- **SE:** 6
+- **Attributes:** Fury 1, Soul 3, Shadow 2, Will 3, Focus 1, Blood 1
+- **Skills:** Soul Magic 2, Intimidate 2
+
+**Immunities:** Poisoned, Necrotic, Bleeding
+**Resistances:** Physical, Shadow
+
+---
+
+### Attacks
+
+**Anguished Wail** (Action)
+- **Range:** 20ft
+- **Damage:** 3
+- **Special:** A piercing cry of torment. Target must succeed on a Will DV check or be Stunned for 1 round.
+
+**Desperate Grasp** (Action)
+- **Range:** melee
+- **Damage:** 3
+- **Special:** The soul reaches out with spectral hands. Melee attack that deals 3 spectral damage; on a hit, the target is Slowed until end of their next turn.
+
+---
+
+**Behavior Tags:** incorporeal, stunned, frightened, controller, brute
+
+### Tactics
+- Uses Anguished Wail on the largest group it can catch, valuing the Stun far above the damage.
+- Fixates on whichever creature most resembles the circumstance of its death, often ignoring better targets.
+- Cannot be reasoned with in combat, but the right lore or ritual can end it without a fight at all.
+
+### Loot
+- No physical remains
+- Resolving the death it replays may yield a Soul fragment or a genuine clue to a local mystery
+
+### Scaling Options
+- **Screaming Chorus (Elite, TV 9):** HP 40, DV 5, Anguished Wail affects a 30-foot radius and inflicts Frightened alongside the Stun.
+
+---
+
+## 2.19 Shade
+
+*A solidified absence - the shape of a pain that outlasted the body holding it.*
+
+**Type:** Medium Spectral (Incorporeal)
+**Affinity:** Spectral
+**Threat:** Standard — Per-Hero 1 *(party of 4; total budget TV 4)*
+
+### Lore
+A Shade is a solidified absence — a being whose corporeal form has long since dissolved, leaving only the shape of its pain. They drift through Nosgoth's spectral echoes hunting for warmth to consume.
+
+### Statistics
+- **HP:** 14
+- **DV:** 4
+- **Armor:** 0
+- **Initiative:** 5
+- **Movement:** 35 feet
+- **SE:** 14
+- **Attributes:** Fury 1, Soul 2, Shadow 3, Will 2, Focus 2, Blood 1
+- **Skills:** Stealth 3, Soul Magic 1
+
+**Immunities:** Poisoned, Bleeding
+**Resistances:** Physical, Cold
+
+---
+
+### Attacks
+
+**Shadow Drain** (Action)
+- **Range:** melee
+- **Damage:** 5
+- **Special:** The Shade siphons the warmth from a target, dealing 5 spectral damage and imposing -1 die on the target's next roll.
+
+**Fade** (Action)
+- **Range:** self
+- **Special:** The Shade becomes partially incorporeal until the start of its next turn, gaining resistance to all physical damage.
+
+---
+
+**Behavior Tags:** incorporeal, drain, shadow, skirmisher, controller
+
+### Tactics
+- Uses Fade to break line of sight after each strike, making it frustrating to pin down.
+- Targets whoever is least protected against spectral damage, since armor does nothing against Shadow Drain.
+- Fights a war of attrition rather than a decisive engagement; parties on a time limit should disengage rather than chase.
+
+### Loot
+- Cold residue that ruins any food it touches
+- Shade-silk, a rare component in concealment rituals
+
+### Scaling Options
+- **Deepening Shade (Elite, TV 9):** HP 40, DV 5, Fade also grants a free reposition of 20 feet, and Shadow Drain imposes -2 dice instead of -1.
+
+---
+
+## 2.20 Spectral Guardian
+
+*Patience made into killing force, and bound to a post it cannot abandon.*
+
+**Type:** Medium Spectral (Incorporeal, Sentinel)
+**Affinity:** Spectral
+**Threat:** Elite — Per-Hero 1.75 *(party of 4; total budget TV 7)*
+
+### Lore
+Bound to ancient pillars or sacred sites by powerful glyph-work, Spectral Guardians cannot leave their post even in death. They are patience made into killing force.
+
+### Statistics
+- **HP:** 40
+- **DV:** 5
+- **Armor:** 0
+- **Initiative:** 5
+- **Movement:** 30 feet
+- **SE:** 22
+- **Attributes:** Fury 2, Soul 3, Shadow 3, Will 4, Focus 3, Blood 1
+- **Skills:** Melee 3, Soul Magic 3, Athletics 2
+
+**Immunities:** Poisoned, Charmed, Frightened, Bleeding
+**Resistances:** Physical, Cold, Shadow
+
+---
+
+### Attacks
+
+**Pillar Bind** (Action)
+- **Range:** 30ft
+- **Damage:** 4
+- **Special:** The Guardian manifests chains of spectral energy that tether a target to one point. The target is Restrained until it succeeds on a Will DV check (once per turn as an action).
+
+**Ward Strike** (Action)
+- **Range:** melee
+- **Damage:** 8
+- **Special:** A powerful melee blow infused with warding energy. Deals 8 spectral damage; any creature that strikes the Guardian with melee attacks until the start of its next turn takes 3 spectral damage in return.
+
+### Abilities
+
+**Bound to Post** (Passive)
+- The Spectral Guardian cannot move more than 40 ft from its assigned pillar or object. Within that range it is immune to Frightened and Charmed.
+
+---
+
+**Behavior Tags:** restrain, sentinel, controller
+
+### Tactics
+- Opens with Pillar Bind on whoever moves first toward the site it guards, then punishes them with Ward Strike.
+- Never pursues beyond its bound radius - a party willing to abandon the objective can simply walk away.
+- Ward Strike's retaliation makes sustained melee costly; ranged and spectral attacks are the efficient answer.
+
+### Loot
+- The glyph-anchor binding it, which can be repurposed to ward another site
+- Fragment of the pillar or seal it was set to guard
+
+### Scaling Options
+- **Pillar Warden (Boss, TV 30):** HP 120, DV 6, Pillar Bind affects two targets and the retaliation damage rises to 6.
+
+---
+
+## 2.21 Soul Devourer
+
+*It is not feared for killing. It is feared for what it does after.*
+
+**Type:** Large Spectral (Incorporeal, Devourer)
+**Affinity:** Spectral
+**Threat:** Elite — Per-Hero 2.25 *(party of 4; total budget TV 9)*
+
+### Lore
+The most feared of all spectral entities — not because it kills, but because of what it does afterward. A soul consumed by a Soul Devourer is gone from the Wheel of Fate forever.
+
+### Statistics
+- **HP:** 45
+- **DV:** 5
+- **Armor:** 0
+- **Initiative:** 5
+- **Movement:** 35 feet
+- **SE:** 30
+- **Attributes:** Fury 2, Soul 5, Shadow 3, Will 3, Focus 3, Blood 1
+- **Skills:** Soul Magic 4, Melee 2, Intimidate 3
+
+**Immunities:** Poisoned, Necrotic, Bleeding, Charmed
+**Resistances:** Physical, Shadow, Cold
+
+---
+
+### Attacks
+
+**Consume Soul** (Action)
+- **Range:** melee
+- **Special:** Targets a creature at 0 HP or killed this round. The Soul Devourer permanently consumes the target's soul — they cannot be revived by any means short of a major narrative event. The Devourer heals 5 HP.
+
+**Soul Rend** (Action)
+- **Range:** 20ft
+- **Damage:** 8
+- **Special:** A spectral attack that deals 8 damage and reduces the target's Soul attribute by 1 until they take a long rest.
+
+### Abilities
+
+**Hunger Aura** (Passive)
+- Living creatures within 15 ft of the Soul Devourer feel their life force pulled outward. They must spend 1 additional action each round or take 1 spectral damage.
+
+---
+
+**Behavior Tags:** drain, controller, brute
+
+### Tactics
+- Closes on any creature reduced to low Soul Energy and attempts Consume Soul, which is the entire point of the encounter.
+- Hunger Aura drains the party passively, so a long fight favors the Devourer absolutely.
+- A soul it consumes is removed from the Wheel permanently - raise-dead effects will not recover the victim.
+
+### Loot
+- Undigested soul-residue, which may still hold a fragment of the consumed
+- Devourer ichor, a controlled substance in every civilized part of Nosgoth
+
+### Scaling Options
+- **Elder Devourer (Boss, TV 39):** HP 140, DV 6, Hunger Aura extends to 30 feet and Consume Soul may be attempted as a bonus action against a Bloodied target.
+
+---
+
+## 2.22 Spectral Colossus
+
+*When the veil tears wide enough, something on the other side simply steps through.*
+
+**Type:** Huge Spectral (Incorporeal, Rift-Born)
+**Affinity:** Spectral
+**Threat:** Boss — Per-Hero 9.75 *(party of 4; total budget TV 39)*
+
+### Lore
+When the barrier between the Material and Spectral planes tears wide enough, a Spectral Colossus may push through — a vast accumulation of spectral energy given a terrible, crushing shape. Its passage alone warps reality.
+
+### Statistics
+- **HP:** 140
+- **DV:** 6
+- **Armor:** 0
+- **Initiative:** 7
+- **Movement:** 30 feet
+- **SE:** 60
+- **Attributes:** Fury 4, Soul 4, Shadow 5, Will 4, Focus 3, Blood 1
+- **Skills:** Soul Magic 4, Melee 4, Intimidate 4
+
+**Immunities:** Poisoned, Necrotic, Bleeding, Charmed, Frightened
+**Resistances:** Physical, Fire, Cold, Shadow
+
+---
+
+### Attacks
+
+**Spectral Collapse** (Action)
+- **Range:** 30ft radius
+- **Damage:** 12
+- **Special:** The Colossus implodes inward then erupts outward in a 30-ft burst of spectral force. All creatures in range take 12 spectral damage and are knocked back 15 ft; structures take significant damage.
+
+**Soul Fist** (Action)
+- **Range:** melee
+- **Damage:** 12
+- **Special:** A massive melee strike that deals 12 spectral damage and forces the target to make a Will DV check or be Stunned for 1 round.
+
+**Phase Shift** (Action)
+- **Range:** self
+- **Special:** The Colossus momentarily phases between planes, becoming immune to all damage until the start of its next turn. Usable once per encounter.
+
+**Rift Backhand (Legendary Action)** (Action)
+- **Range:** melee
+- **Damage:** 6 Spectral
+- **Special:** Legendary Action (2/round). A sweeping spectral strike dealing 6 spectral damage that ignores armor.
+
+**Veil Surge (Legendary Action)** (Action)
+- **Range:** 20ft
+- **Damage:** 5 Spectral
+- **Special:** Legendary Action (2/round). The Colossus shifts up to 20 feet through any barrier or creature. Each creature it passes through takes 5 spectral damage.
+
+### Abilities
+
+**Resonant Mass** (Passive)
+- The Spectral Colossus generates a field of spectral interference. All spellcasting within 20 ft requires an additional success or the spell is disrupted.
+
+**Sundering Presence** (Passive)
+- Living creatures that begin their turn within 10 ft of the Colossus must succeed on a Will DV check or be Frightened for 1 round.
+
+**Legendary Resistance** (Passive)
+- (3/day) If the Colossus fails a save, it may choose to succeed instead.
+
+---
+
+**Behavior Tags:** large, incorporeal, controller, phase_shifter
+
+### Tactics
+- Opens with Spectral Collapse to scatter the party, then isolates and crushes stragglers with Soul Fist.
+- Phase Shift lets it ignore walls and terrain entirely; there is no cover from it and no chokepoint that holds it.
+- Sundering Presence degrades the battlefield as the fight continues - the longer the engagement runs, the fewer safe positions remain.
+
+### Loot
+- Rift-glass formed where its mass touched the material world
+- A stable spectral core, capable of powering a permanent planar anchor
+- Sundered stone, prized by Glyphcasters for boundary work
+
+### Scaling Options
+- **Lesser Colossus (Elite, TV 12):** HP 60, DV 5, loses Sundering Presence and Phase Shift is once per encounter.
+- **Rift Sovereign (Legendary, TV 60):** HP 220, gains Legendary Resistance (3/day) and Spectral Collapse recharges on 5-6.
+
+---
+
 ---
 
 *"The Spectral Realm hungers. And what hungers never sleeps, never rests, never stops coming."*
@@ -944,7 +1309,3 @@ The Echo opens with Temporal Stasis on the party member most likely to break its
 ### Scaling Options
 - **Fading Echo (TV 11):** HP: 36, DV: 4, loses Unceasing Pressure. Inevitable still functions once per encounter.
 - **Ascendant Echo (TV 18):** HP: 70, DV: 6, Soul Reaver damage becomes 7, and Temporal Stasis can be used three times per encounter. Blood Omen Surge deals 4 Physical damage from blood magic.
-
----
-
-*"The Spectral Realm hungers. And what hungers never sleeps, never rests, never stops coming. Not even knowledge. Perhaps especially not knowledge."*

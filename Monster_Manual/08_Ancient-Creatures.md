@@ -88,7 +88,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 *A hovering monolith of resonant stone that sings prophecies; its tones warp mind and matter.*
 
 **Type:** Large Construct (Ancient, Resonant)
-**Threat:** Elite — Per-Hero 3 *(party of 4; total budget TV 12)*
+**Threat:** Major — Per-Hero 3.75 *(party of 4; total budget TV 15)*
 
 ### Statistics
 - **HP:** 95
@@ -211,7 +211,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 *A translucent guardian bound to a Pillar fragment; strikes at those who disturb the Balance.*
 
 **Type:** Medium Spectral (Pillar-Bound)
-**Threat:** Elite — Per-Hero 2.75 *(party of 4; total budget TV 11)*
+**Threat:** Major — Per-Hero 3.5 *(party of 4; total budget TV 14)*
 
 ### Statistics
 - **HP:** 85
