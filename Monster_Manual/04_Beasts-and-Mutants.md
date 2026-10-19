@@ -1016,7 +1016,7 @@ They have no intelligence beyond predatory instinct, but they are extremely effe
 - **Damage:** 6 Piercing (enormous maw)
 - **Special:** On a critical hit (3+ successes), the target is **Grappled** in the Tunnelworm's mouth. While **Grappled** this way, the target takes 4 Piercing damage at the start of each turn. The target can use an Action to attempt a DR 3 Fury + Athletics check, ending the **Grappled** on a success.
 
-**Earth Tremor** (2 actions)
+**Earth Tremor** (Action + Bonus Action)
 - **Dice Pool:** ambient vibration (costs 3 SE, Recharge 5-6)
 - **Range:** 15-foot radius centered on the Tunnelworm
 - **Damage:** N/A
