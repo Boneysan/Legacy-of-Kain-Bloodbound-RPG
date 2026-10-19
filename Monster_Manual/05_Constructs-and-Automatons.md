@@ -382,7 +382,7 @@ They're rare, found only in the deepest vaults and most secure ruins. Encounteri
 - **Dice Pool:** 10d6 (Soul 5 + Glyphcasting 5)
 - **Range:** 50 feet
 - **Damage:** 8 Force
-- **Special:** Costs 2 SE. On Critical Hit (3+ successes), the target is Unraveled (lose 2 SE or BP, or take 2 additional Spectral damage if they have neither).
+- **Special:** Costs 2 SE. On Critical Hit (3+ successes), the target is Disrupted (lose 2 SE, or take 2 additional Spectral damage if they have no SE).
 
 **Glyph Prison** (Action)
 - **Dice Pool:** 10d6 (Soul 5 + Glyphcasting 5)
@@ -686,7 +686,7 @@ Wardens stand ten feet tall, their bodies a seamless fusion of grey stone and si
 - **Dice Pool:** 7d6 (Fury 4 + Weapon Mastery 3)
 - **Range:** Melee (10 feet)
 - **Damage:** 9 Physical (Slashing) + 3 Force
-- **Special:** The halberd's runes flare on impact. On Critical Hit (3+ successes), the target is Disrupted (loses 1 SE or BP) as the runes interfere with magical energy.
+- **Special:** The halberd's runes flare on impact. On Critical Hit (3+ successes), the target is Disrupted (loses 1 SE) as the runes interfere with magical energy.
 
 **Glyph Pulse** (Action)
 - **Dice Pool:** 8d6 (Focus 4 + Glyphcasting 4)
@@ -768,7 +768,7 @@ Most existing Restoration Engines are millennia old, and many have degraded — 
 - **Range**: 30 feet
 - **Special**: Costs 3 SE. One target (ally or self) regains 12 HP and the Engine removes one of the following conditions from the target: **Bleeding**, **Burning**, **Slowed**, or **Staggered**.
 
-**Emergency Overload (2 actions)**:
+**Emergency Overload (Action + Bonus Action)**:
 - **Range**: 20-foot radius centered on Engine
 - **Special**: Costs 10 SE, Recharge 5-6. All allies in range regain 8 HP and gain +1 die on their next roll. The Engine emits a pulse of concentrated healing energy. Any Corruption Leeches attached to creatures in range are automatically detached and take 5 Force damage.
 
@@ -881,7 +881,7 @@ They manifest as softly glowing geometric shapes that float at chest height, pul
 **Barrier Projection (Reaction)**:
 - **Special**: Costs 3 SE. When an ally within 30 feet is targeted by an attack, the Ward projects a momentary barrier. The attacking creature must roll 3 fewer dice (−3 to pool) for that one attack only. Can only be used once per round.
 
-**Arcane Lock (2 actions)**:
+**Arcane Lock (Action + Bonus Action)**:
 - **Special**: Costs 5 SE. Magically seals one door, gate, chest, or portal within 10 feet. The seal holds for 8 hours or until dispelled (DR 3 Glyphcasting to dispel). The Ward prioritizes locking exits when intruders are present.
 
 **Threat Assessment (Passive)**: The Animated Ward identifies creatures who have dealt damage to it or its allies as Threat-Marked. It will prioritize using Ward Pulse on Threat-Marked creatures.

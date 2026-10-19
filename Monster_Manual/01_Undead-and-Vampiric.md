@@ -1018,7 +1018,7 @@ Skeletal Knights are the doorstep guardians of Nosgoth's dungeons. They hold cor
 
 ### Scaling Options
 - **Knight-Commander (Elite, TV 5):** HP: 22, DV: 4, Armor: 3, Fury 3, Will 2, Weapon Mastery 3. Add **Rally the Dead (Action, once per encounter):** All undead allies within 30 feet gain +1 die on attacks until end of the Knight-Commander's next turn.
-- **Deathguard Champion (Boss, TV 9):** HP: 48, DV: 5, Armor: 4, Fury 4, Will 3. Add Legendary Resistance (1/day). Longsword deals 7 damage + Bleeding. Add Athletics (2 actions): move up to 20 feet in a line; all creatures in path make a DR 3 Blood save. On failure, a creature takes 5 damage and is knocked **Prone**.
+- **Deathguard Champion (Boss, TV 9):** HP: 48, DV: 5, Armor: 4, Fury 4, Will 3. Add Legendary Resistance (1/day). Longsword deals 7 damage + Bleeding. Add Athletics (Action + Bonus Action): move up to 20 feet in a line; all creatures in path make a DR 3 Blood save. On failure, a creature takes 5 damage and is knocked **Prone**.
 
 ---
 

@@ -94,7 +94,7 @@ Shock Troopers are disciplined and tactical. Unlike mindless undead or feral bea
 - **Dice Pool:** Focus 3 + Weapon Mastery 3 = 6d6
 - **Range:** 50 feet
 - **Damage:** 5 Force
-- **Special:** This weapon fires concentrated energy bolts. On hit, the target makes a DR 2 Will save. On failure, the target is **Disrupted** (lose 1 SE or BP, or take 1 additional Spectral damage if they have neither). On success, no effect.
+- **Special:** This weapon fires concentrated energy bolts. On hit, the target makes a DR 2 Will save. On failure, the target is **Disrupted** (lose 1 SE, or take 1 additional Spectral damage if they have no SE). On success, no effect.
 
 **Hylden Surge** (Action)
 - **Dice Pool:** Soul 3 + Ethereal Mastery 3 = 6d6
@@ -171,7 +171,7 @@ They view flesh as clay to be molded. To them, pain and suffering are irrelevant
 - **Damage:** 8 Physical
 - **Special:** Costs 3 SE. The Architect causes bone spikes to erupt from the target's body, impaling nearby creatures within 10 feet. If the target is a corpse, it's consumed in the process (cannot be revived).
 
-**Summon Abomination** (2 Actions)
+**Summon Abomination** (Action + Bonus Action)
 - **Dice Pool:** Soul 5 + Ritualism 4 = 9d6
 - **Range:** 20 feet
 - **Damage:** None
@@ -447,7 +447,7 @@ They're strategic thinkers, not frontline fighters. They open rifts to bring in 
 - **Dice Pool:** Soul 6 + Glyphcasting 3 = 9d6
 - **Range:** 40 feet
 - **Damage:** 8 Force + 3 Spectral
-- **Special:** Costs 3 SE. The Engineer tears a hole in reality, damaging the target. On Critical Hit (3+ successes), the target is **Disrupted** (lose 3 SE or BP, or take 3 additional Spectral damage).
+- **Special:** Costs 3 SE. The Engineer tears a hole in reality, damaging the target. On Critical Hit (3+ successes), the target is **Disrupted** (lose 3 SE, or take 3 additional Spectral damage if they have no SE).
 
 **Rift Collapse** (Action)
 - **Dice Pool:** Soul 6 + Forbidden Knowledge 5 = 11d6
@@ -530,7 +530,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 - **Dice Pool:** Soul 7 + Glyphcasting 6 = 13d6
 - **Range:** 60 feet
 - **Damage:** 10 Entropic + 4 Spectral
-- **Special:** Costs 4 SE. On Critical Hit (3+ successes), the target is **Disrupted** (lose 4 SE or BP, or take 4 additional Spectral damage) and gains 2 Entropic points.
+- **Special:** Costs 4 SE. On Critical Hit (3+ successes), the target is **Disrupted** (lose 4 SE, or take 4 additional Spectral damage if they have no SE) and gains 2 Entropic points.
 
 **Prophecy of Doom** (Action)
 - **Dice Pool:** Soul 7 + Forbidden Knowledge 6 = 13d6
@@ -538,7 +538,7 @@ They're commanders, not soldiers. They direct Hylden forces with telepathic coor
 - **Damage:** None
 - **Special:** Recharge 5-6, costs 6 SE. The Oracle speaks a prophecy. All affected enemies make a DR 4 Will save. On failure, a target is **Cursed** (Disadvantage on all rolls for 3 rounds, as they're haunted by visions of their doom). On success, no effect.
 
-**Dimensional Rupture** (2 Actions)
+**Dimensional Rupture** (Action + Bonus Action)
 - **Dice Pool:** Soul 7 + Glyphcasting 6 = 13d6
 - **Range:** 40-foot radius centered on a point within 80 feet
 - **Damage:** 10 Force + 4 Entropic

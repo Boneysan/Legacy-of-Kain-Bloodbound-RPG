@@ -481,7 +481,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **Cost:** 5 SE
 - **Range:** 40 feet, single target
 - **Dice Pool:** Soul 6 + 4 = 10d6
-- **Special:** On hit, target loses 5 SE (or 3 BP). The Wyrm regains SE equal to half the amount drained.
+- **Special:** On hit, target loses 5 SE. The Wyrm regains SE equal to half the amount drained.
 
 ### Abilities
 
@@ -555,7 +555,7 @@ This chapter details the entities born from Nosgoth-s magical lifeblood. From th
 - **Dice Pool:** Soul 7 + 5 = 12d6
 - **Range:** Melee (10 feet)
 - **Damage:** 12 Force damage
-- **Special:** On hit, target loses 5 SE (or 3 BP). If target has 0 SE, they instead take +6 Force damage.
+- **Special:** On hit, target loses 5 SE. If target has 0 SE, they instead take +6 Force damage.
 
 ### Abilities
 
@@ -814,7 +814,7 @@ They sustain themselves by feeding on ambient magical energy and fear. Environme
 - **Damage:** 8 Fire damage
 - **Special:** Targets with **Burning** condition take +2 bonus damage from Fire Dart.
 
-**Ember Burst** (2 Actions)
+**Ember Burst** (Action + Bonus Action)
 - **Cost:** 6 SE
 - **Recharge:** 5-6
 - **Dice Pool:** Soul 5 + Glyphcasting 3 = 8d6
@@ -889,7 +889,7 @@ Pillar-Stone Golems are found near the ruins of ancient Pillar sites and in the 
 - **Save:** DR 3 Blood save
 - **Special:** **Stagger**: On failure, the target is **Stunned** until the start of the Golem's next turn (the blow rattles them to their bones). On success, no additional effect.
 
-**Stone Slam** (2 Actions)
+**Stone Slam** (Action + Bonus Action)
 - **Cost:** 5 SE
 - **Recharge:** 5-6
 - **Dice Pool:** Fury 5 + Weapon Mastery 3 = 8d6
@@ -898,7 +898,7 @@ Pillar-Stone Golems are found near the ruins of ancient Pillar sites and in the 
 - **Save:** DR 3 Blood save
 - **Special:** On failure, the target is knocked **Prone**. On success, no additional effect. The area becomes Difficult Terrain (cracked stone, rubble) for 2 minutes.
 
-**Rune Burst** (2 Actions)
+**Rune Burst** (Action + Bonus Action)
 - **Cost:** 8 SE
 - **Dice Pool:** Soul 3 + Glyphcasting 5 = 8d6 (the Golem's inscribed runes flare)
 - **Range:** 30-foot radius centered on self
@@ -978,7 +978,7 @@ In practice, they are enormously dangerous. They pull creatures toward them, the
 - **Save:** DR 3 Will save
 - **Special:** Target makes a DR 3 Will save. On failure, the target becomes **Blinded** for 1 round (the shadow seeps into the eyes). On success, no additional effect.
 
-**Consuming Dark** (2 Actions)
+**Consuming Dark** (Action + Bonus Action)
 - **Cost:** 8 SE
 - **Recharge:** 5-6
 - **Range:** 30-foot radius centered on self
@@ -1049,7 +1049,7 @@ What makes them exceptionally dangerous is the cascading snowball effect: each s
 - **Damage:** None (no physical harm)
 - **Special:** On Hit: Target loses 8 SE. The SE-Feeder gains 4 SE. If the target has 0 SE, the Unarmed Combat deals 8 Spectral damage instead (it consumes the life-force when SE is depleted).
 
-**Siphon Burst** (2 Actions)
+**Siphon Burst** (Action + Bonus Action)
 - **Cost:** 12 SE
 - **Recharge:** 5-6
 - **Save:** DR 4 Will save

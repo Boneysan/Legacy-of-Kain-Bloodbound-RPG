@@ -236,7 +236,7 @@ Expect unusual defenses, lair effects, and battlefield-scale abilities. These be
 - **Dice Pool:** Soul 6 + Glyphcasting = 10d6
 - **Range:** 10 feet
 - **Damage:** 10 Spectral + 4 Force
-- **Special:** On hit, target loses 1 SE (or BP) if they have any.
+- **Special:** On hit, target loses 1 SE if they have any.
 
 **Pillar Mark** (Action, costs 6 SE)
 - **Range:** 60 feet
@@ -377,7 +377,7 @@ It is not intelligent. But it is *old*, and old things in Nosgoth have accumulat
 - **Damage:** Blood Rend damage
 - **Special:** Leap up to 30 feet to target; make Blood Rend as part of same action. On hit, target is **Pinned**. While **Pinned** this way, the target takes 4 Piercing at the start of each turn as the Stalker's weight bears down. The target can use an Action to attempt a DR 4 Blood or Fury + Athletics check, ending the Pin on a success.
 
-**Primal Howl** (2 actions, costs 8 SE, Recharge 5-6)
+**Primal Howl** (Action + Bonus Action, costs 8 SE, Recharge 5-6)
 - **Dice Pool:** Soul 3 + Intimidation 3 = 6d6
 - **Range:** 50-foot radius
 - **Special:** All creatures in range make a DR 4 Will save. On failure, a creature is **Frightened** for 3 rounds. On success, no effect. Vampires, undead, and creatures with active Blood Points auto-fail this save.
@@ -448,7 +448,7 @@ The result is a construct made of cracked, blackened Pillar stone with corruptio
 - **Damage:** 10 Entropic
 - **Special:** Ignores Physical Armor. On hit, any magical item or enchanted object carried by the target loses 1 enhancement bonus for 24 hours (magical weapons deal -1 damage; magical armor provides -1 DV bonus). This effect does not stack beyond -3 per item.
 
-**Pillar Shard Barrage** (2 actions, costs 8 SE, Recharge 5-6)
+**Pillar Shard Barrage** (Action + Bonus Action, costs 8 SE, Recharge 5-6)
 - **Dice Pool:** Soul 6 + Glyphcasting 3 = 9d6
 - **Range:** 40-foot radius at a point within 80 feet
 - **Damage:** 14 Piercing
@@ -517,7 +517,7 @@ The Sentinel advances slowly, using Corruption Aura to force the party to spread
 - **Damage:** 10 Spectral/Force
 - **Special:** Penetrates 2 points of armor (the discharge bypasses physical protection).
 
-**Ward Nullify** (2 actions, costs 10 SE, Recharge 5-6)
+**Ward Nullify** (Action + Bonus Action, costs 10 SE, Recharge 5-6)
 - **Range:** 40-foot radius at a point within 60 feet
 - **Special:** All active magical effects in range make a DR 4 Will save (using the original caster's dice pool). On failure, the effect is **Suppressed** for 3 rounds. This includes ongoing spells, curses, enchantments, summoned entities, and temporary magical conditions.
 

@@ -29,6 +29,7 @@ Combat in *Legacy of Kain: Bloodbound RPG* is structured into rounds, each repre
 - **1 Movement**: Move up to your Speed stat in feet (typically 25–30 feet).
 - **1 Reaction**: Respond to a trigger (e.g., an attack or enemy movement) once per round.
 - **Free Actions**: Minor activities that don't consume your primary Action, Bonus Action, or Reaction. Examples include dropping an item, speaking briefly (up to 10 words), or drawing a weapon as part of an attack action. Significant mechanical effects (like Whisperknife summoning) are limited to one Free Action per round.
+- **Action + Bonus Action:** Some heavy abilities list their cost as 'Action + Bonus Action'. Using one spends both your Action and your Bonus Action for the turn; you cannot use it if either has already been spent. Legendary Actions are costed separately in actions from the Legendary Action pool.
 
 Combat is visceral yet strategic, encouraging players to leverage terrain, realm-shifting, and creative use of successes to outmaneuver foes. The Game Master (GM) ensures the tone remains dark and cinematic, adjudicating outcomes to reflect Nosgoth’s unforgiving nature.
 

@@ -127,6 +127,15 @@ Applied on Critical Hits or Extra Successes unless an effect says otherwise. Dur
 | **Shocked** | 1 round | Disadvantage on next action. |
 | **Staggered** | 1 round unless source specifies otherwise | The target cannot take Reactions. Actions, Bonus Actions, and movement are unaffected. |
 | **Corrupted** | Permanent | Target gains +1 Corruption Level. |
+| **Shaken** | As listed by the source (1 round if unstated) | −1 die on all saves. If the source allows a repeat save, the target repeats it at the end of each of its turns, ending the effect on a success. The Iron Mind perk ignores it for 1 round. |
+| **Branded** | As listed by the source (1 hour if unstated) | The target glows with holy light: Disadvantage on Stealth and Shadow-based rolls. |
+| **Disrupted** | Instant | The target loses the amount of Soul Energy (SE) printed in the ability. If the ability prints a fallback (for example extra damage of a stated type) it applies only when the target has no SE. No ongoing effect. |
+
+**Marked** is not a standing condition. Each source that marks a creature states what the mark does.
+
+**Resource drains**
+
+A drain removes the stated amount of the stated resource. If the target has less than the stated amount it loses what it has. A printed fallback (the other pool, HP, or extra damage of a stated type) applies only when the target has none of the primary resource.
 
 **Condition Rules**
 

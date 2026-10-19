@@ -1273,7 +1273,7 @@ A Rune-Forger at work is a methodical, deliberate practitioner: they prepare the
 - **Damage:** 7 Spectral/Force damage
 - **Special:** Penetrates 1 point of Armor (the bolt is partially spectral)
 
-**Deploy Glyph Trap** (2 actions)
+**Deploy Glyph Trap** (Action + Bonus Action)
 - **Dice Pool:** Focus 4 + Glyphcasting 4 = 8d6
 - **Range:** 20 feet
 - **Damage:** 6 Spectral damage
@@ -1308,7 +1308,7 @@ In pre-planned encounters, the Rune-Forger has placed 3 glyphs at chokepoints an
 ### Scaling Options
 **Journeyman Rune-Forger** (Standard, TV 4): **HP:** 18, **DV:** 3, **Focus** 3, **SE:** 10. Maximum 2 glyphs, no Prepared Battlefield. Rune Bolt deals 5 damage.
 
-**Master Rune-Forger** (Boss, TV 11): **HP:** 50, **DV:** 5, **Focus** 5, **Soul** 5, **SE:** 32. Maximum 5 glyphs. Add Rune Storm (2 actions, costs 15 SE, once per encounter): up to 3 active glyphs simultaneously detonate in their areas. Add Legendary Resistance (1/day). Gains Rune Construct (once per encounter): animates a Glyph Spider construct from available materials.
+**Master Rune-Forger** (Boss, TV 11): **HP:** 50, **DV:** 5, **Focus** 5, **Soul** 5, **SE:** 32. Maximum 5 glyphs. Add Rune Storm (Action + Bonus Action, costs 15 SE, once per encounter): up to 3 active glyphs simultaneously detonate in their areas. Add Legendary Resistance (1/day). Gains Rune Construct (once per encounter): animates a Glyph Spider construct from available materials.
 
 ---
 

@@ -44,7 +44,7 @@ Guidance:
 - **Dice Pool:** Soul 8 + Glyphcasting 4 = 12d6
 - **Range:** 10-foot reach
 - **Damage:** 16 Spectral + 6 Force
-- **Special:** Action. On hit, target loses 1 SE (or BP) if any.
+- **Special:** Action. On hit, target loses 1 SE if any.
 
 **Phase Rend** (Teleport Strike)
 - **Dice Pool:** Soul 8 + Glyphcasting 4 = 12d6
@@ -388,7 +388,7 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 - **Dice Pool:** Fury 8 + Athletics 4 = 12d6
 - **Range:** 10-foot reach
 - **Damage:** 20 Slashing + 6 Entropic
-- **Special:** Action. On hit, the target loses 1 SE (or BP).
+- **Special:** Action. On hit, the target loses 1 SE (or 1 BP if it has no SE).
 
 **Abyss Pulse** (AoE)
 - **Dice Pool:** None (DR 4 Will save)
@@ -407,14 +407,14 @@ Prophets are never truly alone. Their influence radiates outward through rumor, 
 ### Abilities
 
 **Abyssal Drain** (Passive)
-- When the Keeper hits a creature with Heartbrand Halberd, it regains 5 HP. If the target has 0 SE or BP, the Keeper instead regains 10 HP.
+- When the Keeper hits a creature with Heartbrand Halberd, it regains 5 HP. If the target has 0 SE and 0 BP, the Keeper instead regains 10 HP.
 
 **Legendary Resistance (3/day):** If this entity fails a save, it can choose to succeed instead.
 
 **Legendary Actions** (3 per round)
 - **Halberd Sweep** (1 action): Make a Heartbrand Halberd attack against all creatures within 10 feet (one roll, apply to each).
 - **Abyssal Step** (1 action): Teleport to any point within 20 feet of the Abyssal Heart.
-- **Heart Surge** (2 actions): The Abyssal Heart pulses. All creatures within 30 feet make a DR 4 Will save. On failure, a creature loses 3 SE (or 2 BP). The Keeper heals 15 HP.
+- **Heart Surge** (2 actions): The Abyssal Heart pulses. All creatures within 30 feet make a DR 4 Will save. On failure, a creature loses 3 SE (or 2 BP if it has no SE). The Keeper heals 15 HP.
 - **Consume** (3 actions): Target one creature at 0 HP within 10 feet. That creature dies instantly. The Keeper heals 30 HP and gains +2 dice on all attacks for 2 rounds. (This cannot target PCs who are making death saves — only NPCs, summoned creatures, and allies at 0 HP.)
 
 **Lair Action** (on initiative 20)
@@ -854,13 +854,13 @@ They do not intend harm precisely. They are temporal coherence agents, attemptin
 - **Damage:** 12 Spectral damage
 - **Special:** On a Critical Hit (5+ successes), target is briefly displaced in time — aged 1d4 decades (−1 to their Fury and Blood attributes until the effect is magically reversed via at minimum a DR 4 Glyphcasting ritual).
 
-**Temporal Displacement** (2 actions)
+**Temporal Displacement** (Action + Bonus Action)
 - **Dice Pool:** None (DR 4 Will save)
 - **Range:** 60 feet
 - **Damage:** None
 - **Special:** Costs 12 SE. On failure, the target is removed from the current timeframe: they disappear and reappear at the start of their next turn in the exact location they occupied 1 round ago, effectively skipping their current turn. While displaced, they cannot be targeted or take actions. On success, no effect.
 
-**Time Rewind** (2 actions)
+**Time Rewind** (Action + Bonus Action)
 - **Dice Pool:** None
 - **Range:** battlefield
 - **Damage:** None
@@ -936,7 +936,7 @@ The Death Guardian is everything the role was meant to prevent: an undead being 
 - **Damage:** 14 Physical + 4 Entropic
 - **Special:** On kill, the slain creature rises as a Risen Thrall at the start of the Guardian's next turn. No action required.
 
-**Necrotic Detonation** (2 actions)
+**Necrotic Detonation** (Action + Bonus Action)
 - **Dice Pool:** Soul 6 + Forbidden Knowledge 5 = 11d6 vs Blood
 - **Range:** 30-foot radius
 - **Damage:** 14 Entropic to living
@@ -1019,13 +1019,13 @@ Encountering Vorador is not something that happens by accident. It happens becau
 - **Damage:** 14 Piercing + 5 Blood Drain
 - **Special:** The target loses 5 BP; if it has 0 BP, it makes a DR 4 Blood save. On failure, it is **Dominated**. Vorador regains 6 HP per successful fang strike.
 
-**Zephonim's Curse** (2 actions)
+**Zephonim's Curse** (Action + Bonus Action)
 - **Dice Pool:** Soul 5 + Ritualism 5 = 10d6
 - **Range:** 60 feet
 - **Damage:** None (3 Entropic)
 - **Special:** Costs 15 SE. On hit, target immediately gains 3 Entropic points and all vampiric entities within 60 feet treat the target as a blood-source. DR 4 Will save: target gains 1 Entropic point instead of 3.
 
-**Patriarch's Call** (2 actions)
+**Patriarch's Call** (Action + Bonus Action)
 - **Dice Pool:** None
 - **Range:** 300 feet
 - **Damage:** None
@@ -1098,13 +1098,13 @@ Vorador does not rush. He opens with Zephonim's Curse on the PC with the highest
 - **Damage:** 15 Physical + 5 Spectral
 - **Special:** On hit, target is **Marked** — all Hylden forces' attacks deal +3 damage against **Marked** targets.
 
-**Corruption Surge** (2 actions)
+**Corruption Surge** (Action + Bonus Action)
 - **Dice Pool:** Soul 6 + Forbidden Knowledge 4 = 10d6
 - **Range:** 40-foot radius
 - **Damage:** 12 Entropic
 - **Special:** Costs 15 SE, Recharge 5-6. DR 4 Will save. On failure, a creature immediately gains 3 Entropic and takes 12 Entropic damage. On Success: gains 1 Entropic and takes 6 Entropic damage. Hylden forces heal 8 HP.
 
-**Dimensional Anchor** (2 actions)
+**Dimensional Anchor** (Action + Bonus Action)
 - **Dice Pool:** None (DR 4 Will save)
 - **Range:** 60 feet, one target
 - **Damage:** None
