@@ -11,7 +11,7 @@ The relic does not announce itself. It identifies. One character feels something
 
 ## Scene Info
 
-- **Arc / Session:** Arc I — Session 2, at the start of the session and before any use of V03 Choice D (near the Blood-Well approaches)
+- **Arc / Session:** Arc I — Session 2, at the start of the session (near the Blood-Well approaches)
 - **Trigger:** A PC with blood magic, spectral sensitivity, inherited lineage ties, or a broken oath is in close proximity to the Sanguine Knot when the fragment stirs. The trigger should happen naturally during travel or rest, not as a sudden interruption.
 - **Scene Type:** `revelation`
 - **Est. Duration:** 2–4 min (solo or small group)
