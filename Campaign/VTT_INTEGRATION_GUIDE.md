@@ -85,7 +85,7 @@ Every conversation (Vignette) follows a strict A/B/C/D branching logic that upda
 | Choice | Input | VTT Tag Update | Next Scene / Handoff |
 | :--- | :--- | :--- | :--- |
 | **A** | Press On | `serit_trust: guarded` | Load `01_Cathedral-Road-Ambush.md` |
-| **B** | Camp | `serit_trust: low`; `sarafan_attention +1` | Load Ambush (with Watcher variant) |
+| **B** | Camp | `serit_trust: low`; `sarafan_attention: 1` | Load Ambush (with Watcher variant) |
 | **C** | Inspect | `reliquary_status: examined` | Trigger "Vessel Recognition" Logic |
 | **D** | Question | `serit_trust: earned` | Add "Warning Beat" to next combat |
 

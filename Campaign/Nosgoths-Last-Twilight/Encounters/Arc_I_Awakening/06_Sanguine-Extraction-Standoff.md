@@ -2,7 +2,7 @@
 
 - Arc: Awakening
 - Recommended levels: 5-6
-- Target TV: 24 baseline before political fallout
+- Target TV: 23 baseline before political fallout
 - Difficulty: Challenging
 - Use when: The fight over the Sanguine Knot becomes a three-sided custody crisis rather than a simple cult cleanup.
 
@@ -16,7 +16,7 @@
 
 | Creature | Count | TV Each | Total TV | Monster Source |
 |:---|:---|:---|:---|:---|
-| Vessel of Hash'ak'gik | 1 | 8 | 8 | Monster_Manual/03_Mortals-and-Cultists.md |
+| Vessel of Hash'ak'gik | 1 | 7 | 7 | Monster_Manual/03_Mortals-and-Cultists.md |
 | Acolyte of Hash'ak'gik | 2 | 4 | 8 | Monster_Manual/03_Mortals-and-Cultists.md |
 | Sarafan Inquisitor | 1 | 8 | 8 | Monster_Manual/03_Mortals-and-Cultists.md |
 

@@ -61,7 +61,7 @@ The road to Avernus demands a choice before the first blood falls. Whether to pr
 
 > **Serit Vale**, after a pause that lasts exactly one breath too long: *"If you've decided, I won't argue in the road. But if anything about this caravan has been observed since we departed, the shrines are the first place they will look before dawn."* She walks back to help with the wheel without waiting for a reply.
 
-**Outcome:** The party gains rest but the Sarafan patrol closes ground. Add +1 to `sarafan_attention`. The cult has time to position a watcher at the waystation before the party arrives.
+**Outcome:** The party gains rest but the Sarafan patrol closes ground. Set `sarafan_attention` to 1. The cult has time to position a watcher at the waystation before the party arrives.
 
 **Tags:** `serit_trust: low`, `sarafan_attention: 1`, `camped_at_shrines: true`
 
