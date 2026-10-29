@@ -14,10 +14,17 @@
 
 ## Monster Roster
 
+### Sarafan package (Target TV 11)
+
 | Creature | Count | TV Each | Total TV | Monster Source |
 |:---|:---|:---|:---|:---|
 | Sarafan Outrider | 1 | 5 | 5 | Monster_Manual/03_Mortals-and-Cultists.md |
 | Sarafan Footsoldier | 2 | 3 | 6 | Monster_Manual/03_Mortals-and-Cultists.md |
+
+### Cult package (Target TV 8; 12 with the optional hidden cult leader)
+
+| Creature | Count | TV Each | Total TV | Monster Source |
+|:---|:---|:---|:---|:---|
 | Acolyte of Hash'ak'gik | 2 | 4 | 8 | Monster_Manual/03_Mortals-and-Cultists.md |
 | Optional marked survivor or hidden cell leader | 1 | 4 | 4 | Monster_Manual/03_Mortals-and-Cultists.md |
 

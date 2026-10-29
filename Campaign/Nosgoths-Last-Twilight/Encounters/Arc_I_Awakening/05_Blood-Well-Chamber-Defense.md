@@ -2,7 +2,7 @@
 
 - Arc: Awakening
 - Recommended levels: 4-6
-- Target TV: 16 plus active terrain pressure
+- Target TV: 15 plus active terrain pressure
 - Difficulty: Standard
 - Use when: First contact with the Sanguine Knot needs to feel like a split-focus crisis rather than a single straight fight.
 
@@ -16,7 +16,7 @@
 
 | Creature | Count | TV Each | Total TV | Monster Source |
 |:---|:---|:---|:---|:---|
-| Vessel of Hash'ak'gik | 1 | 8 | 8 | Monster_Manual/03_Mortals-and-Cultists.md |
+| Vessel of Hash'ak'gik | 1 | 7 | 7 | Monster_Manual/03_Mortals-and-Cultists.md |
 | Acolyte of Hash'ak'gik | 2 | 4 | 8 | Monster_Manual/03_Mortals-and-Cultists.md |
 
 ## Encounter Objective

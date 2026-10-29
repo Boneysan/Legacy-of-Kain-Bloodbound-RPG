@@ -44,7 +44,7 @@ Companion docs:
 - Recommended lineup: 3 Acolytes of Hash'ak'gik holding the route while 1 compromised guide, cult handler, or retreating rite-operator moves deeper into the complex.
 - Core objective: Break the hold fast enough to keep the cult from finishing its delay action, while still choosing whether to rescue captives or preserve secrecy.
 - Terrain notes: Slick stone, partial flooding, collapsing steps, and spectral bleed that can separate the front and rear of the party.
-- Alternate package: Replace 1 Acolyte with 1 Outcast Raider or desperate hired blade if you want the lower passages to feel reused by more than one faction.
+- Optional extra: add 1 Outcast Raider or desperate hired blade on top of the 3 Acolytes (TV 16 total, the hired-blade variant in `04_Blood-Channel-Hold.md`) if you want the lower passages to feel reused by more than one faction.
 
 ## Session 4: Blood-Well Chamber Defense
 

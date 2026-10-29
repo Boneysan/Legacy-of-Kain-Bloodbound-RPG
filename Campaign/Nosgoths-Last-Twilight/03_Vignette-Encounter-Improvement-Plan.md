@@ -480,7 +480,7 @@ The April 2026 continuity pass also added carry-forward fields that are not form
 
 | Field | Set | Encounter relevance |
 |-------|-----|---------------------|
-| Current Last Witness bearer | Arc I V06, Arc II V06, Arc III V05 fallout | Arc IV route/chamber scenes may need escort, testimony, or witness-protection pressure |
+| Current Last Witness bearer | Arc I V05, Arc II V05, Arc III V05 fallout | Arc IV route/chamber scenes may need escort, testimony, or witness-protection pressure |
 | Kain contract | Arc III V05 fallout | Arc IV encounter notes should decide whether Kain-side pressure is physical, proxied through Sevran, or absent by design |
 | Balance Reckoning cues | Arc I onward via faction clock | Arc I and Arc II aftermath encounters should show withdrawal of grace, not just more hostile force |
 

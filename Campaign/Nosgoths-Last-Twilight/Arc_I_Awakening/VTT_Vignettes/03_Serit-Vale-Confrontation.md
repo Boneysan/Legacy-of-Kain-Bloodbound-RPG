@@ -11,7 +11,7 @@ After the ambush, the party has standing to ask for the truth. Serit Vale has be
 
 ## Scene Info
 
-- **Arc / Session:** Arc I — Session 1 (post-ambush) or Session 2 (investigation phase)
+- **Arc / Session:** Arc I — Session 1 (post-ambush; Choice D only through the Vignette 01 Choice C route) or Session 2 (investigation phase; Choice D through V04, which runs at the start of Session 2)
 - **Trigger:** The party has survived the cult ambush or a significant cult incident. Serit Vale is present. A PC directly asks her what the cargo actually is, what the cult wanted, or what she hasn't told them. **Note:** The ambush that satisfies this trigger fires as a combat encounter after Vignette 02 (False Refuge) closes, not before it. The cult cell established in V02 initiates during or immediately after the party leaves the waystation. If the party never reached the waystation (V02 was skipped), the ambush may instead occur at the next road chokepoint; the trigger for V03 remains the same.
 - **Scene Type:** `confrontation`
 - **Est. Duration:** 4–6 min
@@ -130,6 +130,6 @@ After the ambush, the party has standing to ask for the truth. Serit Vale has be
 ## GM Notes
 
 - Serit is not villainous in this scene. She is managing competing obligations and doing it professionally. Play her as someone who knows the right answer and is choosing a slower route to it for defensible reasons.
-- Choice D's trigger requires a PC to have already experienced a relic event — specifically the `reliquary_status: examined` result from Vignette 01 or the first blood-memory pulse in Vignette 04. Don't offer this option if it hasn't happened.
+- Choice D's trigger requires a PC to have already experienced a relic event — specifically the first blood-memory pulse in Vignette 04 (which runs at the start of Session 2) or the `reliquary_status: examined` result from Vignette 01. Don't offer this option if it hasn't happened.
 - The Accord's prior knowledge of the site (the thing she explicitly withholds in Choice A) is a major Arc II revelation. Don't let her give it here even under Choice D — she reveals she knows more, not what she knows.
 - Mera Ash, if present, will not add much. She may audit the exchange for useful logistics information and otherwise stay silent. She does not trust Serit, but she considers this conversation appropriate and will not interrupt it.
