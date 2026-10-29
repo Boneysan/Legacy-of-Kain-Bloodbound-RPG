@@ -98,6 +98,8 @@ The campaign maintains continuity through named "State Tags." Your VTT should tr
 - `serit_trust`: (`low` | `guarded` | `earned`) - controls early ally behavior.
 - `sarafan_attention`: (integer) - controls pursuit intensity and enforcement pressure.
 - `reliquary_status`: (`sealed` | `examined` | `compromised` | `stolen`) - controls first-fragment handling pressure.
+- `guild_pressure`: (`low` | `high`) - Tracks the Outlands Guilds' posture toward the party. Affects Mera Ash's behavior and whether the Guilds send a second operative in Arc II.
+- `last_witness`: (structured: bearer, what they witnessed, what they fear forward, status: `unnamed` | `named` | `protected` | `exposed` | `lost`) - Tracks the campaign's throughline civilian: the latest ordinary survivor who can still speak a fragment's cost in plain terms, with no faction varnish.
 - `public_story`: (`panic` | `secrecy` | `controlled_lie` | `open_truth`) - controls rumor and faction framing.
 - `balance_reckoning`: (integer) - tracks withdrawal-of-grace pressure.
 

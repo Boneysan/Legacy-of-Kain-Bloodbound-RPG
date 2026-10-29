@@ -6,12 +6,14 @@ The road to Avernus demands a choice before the first blood falls. Whether to pr
 
 - Fast flow: [../07_Vignette-Flow-Matrix.md#v01-caravan-argument](../07_Vignette-Flow-Matrix.md#v01-caravan-argument)
 - Detailed fallout: [../08_Detailed-Vignette-Consequence-Matrix.md#v01-caravan-argument](../08_Detailed-Vignette-Consequence-Matrix.md#v01-caravan-argument)
-- State tracker tags: [`serit_trust`](../Arc_I_VTT-State.md#serit_trust), [`sarafan_attention`](../Arc_I_VTT-State.md#sarafan_attention), [`reliquary_status`](../Arc_I_VTT-State.md#reliquary_status)
+- State tracker tags: [`serit_trust`](../Arc_I_VTT-State.md#serit_trust), [`sarafan_attention`](../Arc_I_VTT-State.md#sarafan_attention), [`reliquary_status`](../Arc_I_VTT-State.md#reliquary_status), [`camped_at_shrines`](../Arc_I_VTT-State.md#camped_at_shrines)
 
 
 ## Scene Info
 
-
+- **Location:** The road to Avernus. A lead horse has stopped at the verge and the wagon has a broken axle. The milestone shrines are half a mile back; Avernus is visible ahead.
+- **Time:** Night. The road is dark and the moon is green-tinged; the party must reach Avernus before dawn.
+- **Present:** Serit Vale and Mera Ash are in the scene. Brother Halden is present in the background, helping with the wagon.
 
 ## Cast
 
@@ -61,7 +63,7 @@ The road to Avernus demands a choice before the first blood falls. Whether to pr
 
 **Outcome:** The party gains rest but the Sarafan patrol closes ground. Add +1 to `sarafan_attention`. The cult has time to position a watcher at the waystation before the party arrives.
 
-**Tags:** `serit_trust: low`, `sarafan_attention: 1`
+**Tags:** `serit_trust: low`, `sarafan_attention: 1`, `camped_at_shrines: true`
 
 ---
 
@@ -97,7 +99,7 @@ The road to Avernus demands a choice before the first blood falls. Whether to pr
 
 > If the party stalls, argues internally for more than a few minutes, or cannot agree on a direction: Brother Halden quietly finishes the axle repair and says the shrines are the sensible choice, which settles the question without anyone deciding. Default to Choice B's outcome.
 
-**Default Tag:** `sarafan_attention: 1`
+**Default Tag:** `serit_trust: low`, `sarafan_attention: 1`, `camped_at_shrines: true`
 
 ---
 

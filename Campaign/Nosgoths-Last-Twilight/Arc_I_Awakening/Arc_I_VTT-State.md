@@ -49,7 +49,7 @@ Tracks how many confirmed data points the Sarafan Order has about the party and 
 |-------|---------|
 | `0` | No confirmed intelligence; patrols are regional, not targeted |
 | `1` | One informant, witness, or incident has given the Order a useful description; targeted inquiry has started |
-| `2` | The Order has the party's identities, known associates, and a formal record of the Avernus incident; pursuit begins in Arc II |
+| `2+` | High. The Order has the party's identities, known associates, and a formal record of the Avernus incident; pursuit begins in Arc II |
 
 **Current value:** ___
 
@@ -138,6 +138,23 @@ The counter measures how often the party used a fragment to force a crisis to re
 **Session this was last updated:** ___
 
 **Notes (which uses incremented it):** ___
+
+---
+
+<a id="camped_at_shrines"></a>
+### `camped_at_shrines`
+Records whether the party camped at the milestone shrines in V01 (Choice B or its default outcome), which keys the Watcher variant of the ambush.
+
+| Value | Meaning |
+|-------|---------|
+| `false` | The party pressed on to Avernus; no shrine camp |
+| `true` | The party camped at the shrines; the Sarafan patrol closes ground and the cult has time to position a watcher at the waystation |
+
+**Current value:** ___
+
+**Session this was last updated:** ___
+
+**Notes:** ___
 
 ---
 
