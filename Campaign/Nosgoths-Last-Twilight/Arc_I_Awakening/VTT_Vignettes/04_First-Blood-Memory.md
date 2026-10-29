@@ -11,7 +11,7 @@ The relic does not announce itself. It identifies. One character feels something
 
 ## Scene Info
 
-- **Arc / Session:** Arc I — Session 1 (during travel) or Session 2 (near the Blood-Well approaches)
+- **Arc / Session:** Arc I — Session 2, at the start of the session and before any use of V03 Choice D (near the Blood-Well approaches)
 - **Trigger:** A PC with blood magic, spectral sensitivity, inherited lineage ties, or a broken oath is in close proximity to the Sanguine Knot when the fragment stirs. The trigger should happen naturally during travel or rest, not as a sudden interruption.
 - **Scene Type:** `revelation`
 - **Est. Duration:** 2–4 min (solo or small group)
@@ -115,7 +115,7 @@ The relic does not announce itself. It identifies. One character feels something
 
 ## If No Clear Choice Is Made
 
-> If the affected player freezes, passes, or the moment gets disrupted: the vision closes on its own. The relic noted the contact and will try again under worse circumstances. Default to Choice A's outcome. The following Session 1 ambush should begin with the fragment's warmth spiking noticeably during the fight — the next pulse arrives bound to violence.
+> If the affected player freezes, passes, or the moment gets disrupted: the vision closes on its own. The relic noted the contact and will try again under worse circumstances. Default to Choice A's outcome. The next combat should begin with the fragment's warmth spiking noticeably during the fight — the next pulse arrives bound to violence.
 
 **Default Tag:** `reliquary_status: sealed`
 
@@ -137,5 +137,5 @@ The relic does not announce itself. It identifies. One character feels something
 - The doubled road and the figure are not the relic itself — they are the PC's inherited memory meeting the Knot's resonance field. Do not make it feel like possession or threat. It should feel like recognition from the other side.
 - The name the relic uses should be the GM's anchor for that PC's blood-memory arc. Establish what name you'll use before play and note it privately.
 - If Serit is visible during Choice C's vision-chase, she notices the PC's thousand-yard focus. She does not interrupt. She writes a note.
-- This vignette can fire more than once across Sessions 1–3 for different PCs. Each instance should use a different name, a different ancestral symbol, and a different emotional register.
+- This vignette can fire more than once across Sessions 2–3 for different PCs. Each instance should use a different name, a different ancestral symbol, and a different emotional register.
 - **Running this with other players at the table:** The other players are not cut out — the scene is brief (2–4 min) and works best as a short, private aside during a natural travel or rest beat while other characters make camp, tend wounds, or keep watch. Describe to the full table that one PC has a moment alone with the cargo; then step slightly aside (physically or by lowering your voice) and run the exchange with the relevant player. Do not make the other players wait long. If the table prefers full-group vignettes, run Choice D — the shared disclosure version — and treat it as the primary mode for the scene.
